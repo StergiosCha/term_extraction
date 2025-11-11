@@ -1,0 +1,64 @@
+SOURCE: http://www.eleto.gr/download/TermBases/LEXITERM_History-EN.pdf
+
+  Ε  Λ   Ο   Τ    Ε    
+Μ 
+Ο 
+Τ 
+Ο 
+ 
+LEXITERM: 
+Database of telecommunication terms 
+Resulting from the work of the Permanent Group 
+of Telecommunications Terminology (MOTO), 
+Collective Member of ELETO 
+(Quadrilingual Dictionary of telecom terminology)  
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+August 2022 
+ 
+Short history of the Termbase LEXITERM 
+ 
+ 
+As a collective member of ELETO, the Permanent Group of Telecommunications Terminology (MOTO) 
+prepared the Greek terms of the “Quadrilingual Dictionary of Telecommunication Terminology – English, 
+German, French, Greek”, J. P. Rehahn & ELETO, Glossima editions, 1995.  
+The database of telecommunication terms LEXITERM was created in 1995 by the leader of the Permanent 
+Group for Telecommunication Terminology (MOTO), Kostas Valeontis, as a dBASE III-Plus database, while 
+in 1999 it was converted by him into an MS Access 97 database; today it is an MS Access 2000 database. 
+Initially, all the English terms of the Quadrilingual Dictionary were imported into LEXITERM and later, the 
+Greek equivalent terms were imported, as their processing by MOTO was proceeding during the project. At 
+the end of the project of publishing the Quadrilingual Dictionary, the termbase was already bilingual (English, 
+Greek). Then, since MOTO had seen that in the column of the French term many entries contained quasi 
+synonyms instead of full synonyms – that is not permitted in a dictionary of terminology where each entry 
+should belong to one and only one concept and any synonyms are full synonyms –  MOTO examined a 
+number of the French equivalent terms keeping only the full synonyms. So, the French language was added, 
+and a number of entries contain a French equivalent term, the termbase being trilingual.  
+The development, operation, maintenance and feeding of LEXITERM was performed by the leader of MOTO 
+himself, who has also the responsibility for the content in the website. 
+The field structure of the Termbase LEXITERM comprises the following basic fields (which, in each entry, 
+correspond to a single concept): 
+BASIC FIELDS OF LEXITERM  
+English term 
+English abbreviation 
+Greek term 
+Greek abbreviation 
+French term 
+French abbreviation 
+Foreign language reference source 
+Greek language reference source 
+Stage of processing 
+ 
+Today, the termbase LEXITERM contains 16.626 terminological entries of telecommunications. 
+ 
+NOTE 
+In case that, for the same telecommunications concept, there are different Greek terms in 
+the termbase TELETERM and in the termbase LEXITERM, the term in TELETERM 
+prevails, because since 1995 and afterwards, the relevant term has been revised by 
+MOTO. For example:  
+LEXITERM (1995): bit  δυαδικό ψηφίο 
+TELETERM (Now):  bit  δυφίο. 
+ 
+ 

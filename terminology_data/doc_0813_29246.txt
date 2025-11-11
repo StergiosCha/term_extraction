@@ -1,0 +1,65 @@
+SOURCE: http://www.eleto.gr/download/Conferences/ELETO-EAFT_Conference_2013-11-07/ELETO-EAFT-Symposium-2013_Anna-Lena%20Bucher_shortpaper_EN.pdf
+
+EAFT–ELETO Symposium 
+“National Languages and Terminology  
+in Higher Education, Science & Technology” 
+Athens, Greece, 7 November 2013 
+ 
+A Swedish perspective 
+Anna-Lena Bucher 
+The problem 
+Almost nine out of ten dissertations written in Sweden today are written in English. This has 
+been the case since the mid-1990’s (however, the dominance of English in dissertations has 
+been a fact since the 1940’s). The highest number of dissertations written in English (94 %) 
+can be found within the natural sciences, the corresponding number for the social sciences 
+being 65 %, and 37 % for the humanities. Most of the dissertations being written can be found 
+within the field of medicine, science and technology. Three out of ten have an abstract written 
+in Swedish1.  
+Since the beginning of the new millennium, the visibility of English in higher education has 
+increased substantially, due in part to courses being taught exclusively in English, but also 
+because the use of course literature written in English has increased. 
+Most people in Sweden agree on the fact that the use of English in higher education is 
+beneficial and necessary for Sweden to be able to participate in and contribute to an 
+international scientific co-operation. But there are also those who see the growing dominance 
+of English as a threat, especially if it is happening at the expense of the Swedish language. 
+Two major factors are being particularly highlighted; the potential domain loss and the risk of 
+a loss of ability. 
+Domain loss refers here to the situation where the native language loses its position and 
+becomes less useable, thus less used within a particular field. Loss of ability has to do partly 
+with the learning ability of students which diminishes when courses are being taught in 
+English, since many students struggle when reading academic and otherwise specialised texts 
+in that language. It refers also to the fact that not all teachers are so good at teaching in 
+English. Studies show that younger teachers are generally more positive towards teaching 
+entirely in English, whereas older teachers tend to see potential problems with it, e.g. having 
+                                                     
+1 Figures are from 2010. 
+to abandon a familiar teaching method in which, for example jokes can play a part. 
+Some argue that a division could be made between research, research information and 
+education; research and education could be conducted in English, whereas research 
+information could be given in Swedish. Others have argued against this, pointing to the fact 
+that such a division cannot be made because the fields overlap and influence one another. 
+Amongst other things, it has been pointed out that it is not possible to successfully inform 
+about one’s research in Swedish if proper Swedish terminology is lacking. Therefore, there 
+are compelling democratic reasons to adopt a multi-lingual approach and strengthen the 
+positions of both Swedish and English as main academic languages. 
+The solutions 
+• Language Act → language policies, guidelines etc. 
+• Methodology for creating national language terminology through networking 
+• National termbank and other tools for finding establised – and launching newly-
+created – terminology 
+• Applying tools for automatic term extraction, ontology construction etc. on course 
+literature  
+• Co-operation with publishing houses to simplify the creation multilingual term lists 
+for monolingual course literature 
+As a result of many previous debates concerning language, some higher education institutions 
+have developed different strategies for dealing with their choice of language, and use of 
+language. A study conducted in 2009 showed that, of the 37 academic institutions that had 
+been studied, 11 had some kind of official documents on language (policies, guidelines or 
+plans). 
+Conclusion 
+I will conclude by telling in more detail about two higher education institutions which have 
+developed a language document, have appointed staff to deal with the goals and aims of the 
+document – and which are also addressing their terminological responsibility in a way that is 
+in line with TNC’s view.  
+Swedish Centre for Terminology TNC 
+Anna-Lena Bucher 

@@ -1,0 +1,549 @@
+SOURCE: http://www.eleto.gr/download/Conferences/13th%20Conference/Papers-and-speakers/13th_03_27_20_ValeontisKostas_Paper_EN_V07.pdf
+
+ 
+Concept system and terms for language varieties according to ISO 
+ 
+Kostas Valeontis 
+ABSTRACT 
+The international normative document ISO/TR 21636 (ISO Technical Report), which is under 
+development by the working group ISO/TC37/SC2/WG1 Language varieties, delimits and defines the 
+basic concepts of the domain Language varieties. The work of the international WG is attended by the 
+Greek National Committee ELOT/TC 21, the Greek mirror committee to ISO/TC 37 which is supported 
+by the Technical Chamber of Greece. In this paper, the concept definitions given by this ISO/TR are 
+studied and the existing concept relations are examined, the latter belonging to all three relation types 
+used in terminology: generic relations, partitive relations and associative relations. Concepts defined: 
+the human language as a means of communication among all humans; individual languages as 
+supersets comprising all idiolects of their speakers, and linguistic variation with its dimensions as sets of 
+external criteria according which different language varieties are identified as subsets of each individual 
+language. All concepts defined are placed in a unique concept system, which includes all three concept 
+relations being a mixed concept system. Greek equivalent terms proposed for all English terms of the 
+TR are comprised in the Greek–English Glossary of the Annex. 
+ 
+0   Introduction 
+The under development Technical Report ISO/TR 21636:2021, henceforth referred as 
+“ISO/TR”, is intended to cover the standardization need of making it possible to refer not 
+only to one or more discrete individual languages but also to one or more discrete language 
+varieties. Therefore, in the framework of international standardization, the work done by 
+ISO/TC37/SC2/WG1 was to identify and well define the various dimensions of linguistic 
+variation and the relevant language varieties based on them. 
+According to ISO/TR, the potential interested domains, consequently potential usage areas, 
+include information and communication technologies, libraries, mass media, internet 
+communities, 
+documentation, 
+archival 
+science, 
+linguistic 
+research 
+(specifically 
+sociolinguistics, ethnolinguistics) and sociology1. 
+The limited space and time does not permit to cite the definitions of the 58 basic concepts of 
+the domain Language varieties defined in the Technical Report; however, the essential 
+                                               
+1  
+The topic of this paper is about the interlingual aspect of linguistic variation as “seen” by ISO/TR. 
+Recently in Greece, two important books have been published under the title Γλωσσική ποικιλία 
+(Language variety): a volume dedicated to Angeliki Ralli (Archakis, Koutsoukos, Xydopoulos and 
+Papazachariou, 2019) and a monograph (Tsingou, 2020). 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+2 
+characteristics and the interrelations of those concepts will be shown, after analyzing their 
+partial concept systems which constitute the total concept system. The concept descriptions, 
+direct or indirect, will be concise, while the Greek terms used are in agreement with the 
+terminology adopted by the technical committee ELOT/TC 21 (ELETO, 2018) or – in case of 
+new concepts – are based on that terminology2. 
+All the Greek terms together with the English equivalent terms of the ISO/TR are included in 
+the table of the Annex. 
+All the terms of the ISO/TR – and, generally, of terminology domain – used in this paper are 
+italicized, while concepts are represented by their term, definition or description enclosed in 
+single quotation marks (‘ ’). 
+1   Synopsis of concept relations 
+Three types of concept relations are distinguished in the domain terminology; two 
+hierarchical relations (generic relation, partitive relation) and one non-hierarchical 
+(associative relation). 
+– In the generic relation: 
+ 
+Concept A is a generic concept or a genus, while concept B – which has all the 
+characteristics of A plus one or more delimiting characteristics – is a specific concept 
+or a species of Α. 
+– In the partitive relation: 
+ 
+Concept A is a complehensive concept or a whole, while concept B – which, together 
+with other concepts, constitute A – is a partitive concept or a part of Α. 
+– In the associative relation: 
+ 
+Concepts A and B have a thematic connection/relation neither generic nor partitive.  
+Notations of concept relations on the concept diagrams 
+generic relation :  
+ 
+ 
+partitive relation :  
+ 
+ 
+associative relation :  
+ 
+                                               
+2  
+Clear synoptic descriptions of the basic concepts of terminology are given in “62 Knowledge items 
+of terminology” (Valeontis, 2018). 
+Α 
+Β 
+Α 
+Β 
+Α 
+Β 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+3 
+2   What about the human language and the individual languages? 
+The term human language represents/designates the concept ‘means of communication 
+between humans characterized by systematic use of sounds, visual-spatial signs (by 
+movements or gestures), characters or other written symbols or signs that can be combined 
+to express or communicate meaning or a message between humans’. 
+Let us imagine a ‘set of expressions of human language used by a given individual person, 
+at a given time, in a given type of situation, and in a given medium’. Such a set is an idiolect, 
+the given person is the speaker using this idiolect, whereas the given situation is an event of 
+language use. This set also includes the cases of a speaker with enhanced communicative 
+functioning abilities or with communicative functioning constraints. 
+A ‘largest set of idiolects which are interconnected through high mutual intelligibility and 
+used by different speakers’ defines an individual language, which may be a natural language 
+– which is spoken or had been spoken by a language community (e.g. Ancient Greek, Latin, 
+Modern Greek, English etc.) – or a constructed language, ‘whose rules are explicitly 
+established prior to its use’ (e.g. Esperanto). 
+In any individual language, there are various subsets defined according to some criteria. The 
+very existence of such subsets is the linguistic variation; two categories of criteria are 
+distinguished: external criteria for linguistic variation and structural criteria for linguistic 
+variation (the former are not based on the linguistic features of the idiolects’ systems in 
+contrast with the latter). Each one of these subsets is a language variety. 
+ 
+Figure 1 
+constructed language 
+linguistic 
+variation 
+idiolect 
+individual language 
+speaker
+event of language 
+use 
+external criterion  
+for linguistic variation 
+structural criterion 
+for linguistic variation 
+human language
+enhanced 
+communicative 
+functioning 
+abilities 
+natural language
+language variety
+communicative  
+functioning constraints 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+4 
+The concepts mentioned above (by their terms) are shown on the concept diagram in Figure 
+1 together with the concept relations among them. Thus: an individual language is a 
+comprehensive concept (a whole) constituted of partitive concepts (parts) which are on one 
+hand all the idiolects and on the other hand all the language varieties. However, at the same 
+time, it is also a generic concept (genus) subdivided into two specific concepts (species): the 
+natural language and the constructed language. 
+3   Linguistic variation dimensions as criteria of subdivision of an individual 
+language into its language varieties 
+Any linguistic variation dimension is composed of one or more external criteria for linguistic 
+variation of the same kind. The ISO/TR distinguishes the following 8 linguistic variation 
+dimensions: 
+ 
+Space dimension (various geographical locations and regions) 
+ 
+Time dimension (various spans of time) 
+ 
+Social dimension (various social groups) 
+ 
+Medium dimension (various media for communication) 
+ 
+Situation dimension (various types of situation) 
+ 
+Person dimension (various personal characteristics of the speaker) 
+ 
+Proficiency dimension (various grades of proficiency of the speaker) 
+ 
+Communicative functioning dimension (various functional abilities of the speaker) 
+The concept diagram including all concepts just mentioned above is shown on Figure 2.  
+ 
+Figure 2 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+space 
+dimension 
+external 
+criterion for 
+linguistic 
+variation 
+linguistic variation 
+dimension 
+time 
+dimension 
+social 
+dimension 
+medium 
+dimension 
+situation 
+dimension 
+person 
+dimension 
+proficiency 
+dimension 
+communicative 
+functioning 
+dimension 
+language 
+variety 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+5 
+4   Kinds of language variety defined in the ISO/TR according to the relevant 
+linguistic variation dimensions 
+language variety 
+subject 
+personal  
+variety 
+native proficiency  
+variety 
+learner  
+variety 
+historical language 
+period 
+standard variety 
+dialect 
+ 
+speaker 
+sociolect 
+technolect 
+domain 
+language modality 
+ primary modality 
+    secondary modality 
+language epoch 
+  spoken modality 
+  signed modality 
+  written modality 
+whistled modality 
+drummed modality 
+haptic modality 
+1 
+2 
+3 
+4 
+6 
+7 
+  multimodal modality 
+8 
+communicative functioning 
+variety 
+language  
+register 
+5 
+informal  
+register 
+formal  
+register 
+neutral 
+register 
+enhanced communicative 
+functioning variety 
+regular communicative 
+functioning variety 
+constrained communicative 
+functioning variety 
+augmentative and alternative 
+communication 
+    basic modality 
+ 
+Figure 3 
+All kinds of language variety resulting from applying the 8 linguistic variation dimensions 
+mentioned above as criteria of subdivision are shown in Figure 3. 
+– the standard variety and the dialect (linguistic variation dimension 1), 
+– the historical language period and the language epoch (linguistic variation dimension 
+2), connected with a partitive relation, 
+– the sociolect (linguistic variation dimension 3) and, its specific concept, the technolect 
+(for a ‘community having special knowledge in a particular domain or subject’), 
+– the language modality (linguistic variation dimension 4) with its multiple species: 
+ 
+spoken modality, multimodal modality (simultaneously speech together with gestures, 
+facial expressions etc.), written modality, signed modality, whistled modality, drummed 
+modality, haptic modality, augmentative and alternative communication, as well as 
+primary modality and secondary modality, but also basic modality from which other 
+language modalities are derived, 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+6 
+– the language register3 (linguistic variation dimension 5) with its three major specific 
+registers: formal register, informal register and neutral register, 
+– the personal variety (linguistic variation dimension 6), 
+– the learner variety and the native proficiency variety (linguistic variation dimension 7) 
+and 
+– the communicative functioning variety (linguistic variation dimension 8) with its three 
+specific concepts: enhanced communicative functioning variety, regular communicative 
+functioning variety and constrained communicative functioning variety. 
+individual language 
+human language 
+language resource 
+script 
+writing system 
+script identifier 
+transcription 
+transliteration 
+event of language use 
+ 
+Figure 4 
+The entire concept system under the ISO/TR is completed with the concepts of the concept 
+diagram in Figure 4, which refer to the documentation of language resources. Each 
+individual language, in its written modality, is written in a certain writing system with a certain 
+script, while to any of its written texts, or event of language uses, a transcription 
+(‘representation in a written form different from the original representation’) may be applied, 
+which is a transliteration if fully reversible (i.e. if it enables the reconstruction of the original 
+script without any loss of information about graphic characters). 
+ 
+ 
+                                               
+3  
+Among the various equivalent Greek terms for the concept ‘language register’ (επίπεδο ύφους, 
+επίπεδο χρήσης, χρηστικό επίπεδο, επίπεδο λόγου etc) referred in (Tsingou, 2020) the one used in 
+this paper is επίπεδο ύφους, which has been adopted by the committee ELOT/TC 21, while 
+M. Tsingou herself uses the term επίπεδο χρήσης in her monograph. It should be noted that 
+currently, ELOT/TC 21 is preparing the ELOT National Standard corresponding to the Technical 
+Report ISO/TR 20694:2018 A typology of language registers, which includes more language 
+registers than the three included here. 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+7 
+ 
+Figure 5 
+ 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+8 
+Figure 5 shows the concept diagram of the entire concept system, which is a composition of 
+the concept diagrams in figures 1, 2, 3 and 4. In this concept diagram, the individual sign 
+language has been added as an individual language whose basic modality is the signed 
+modality’4. 
+5   Synopsizing 
+Synopsizing, the concept relations connecting the concepts defined in ISO/TR 21636 
+Identification and description of language varieties (ISO/TR) have been studied in this paper; 
+according to these relations four component concept systems have been identified, 
+composing an entire concept system. The partial concept diagrams have been constructed 
+as well as the entire concept diagram and Greek equivalent terms have been proposed for 
+all English terms of the ISO/TR in accordance with the Greek terminology adopted by the 
+committee ELOT/TC 21, which follows the further development of the ISO/TR and soon will 
+be called to decide on the Greek national vote for its approval. All equivalent Greek–English 
+terms are included in the Greek–English Glossary in the Annex. 
+References 
+Archakis, A., Koutsoukos, N., Xydopoulos, G. and Papazachariou, D. (Ed. 2019). Language 
+variety – Studies dedicated to Angeliki Ralli. Athens: Kapa Ekdotiki 
+ELETO (2018). General and special terms in the domain of terminology (Edition 6) 
+(Available at: http://www.eleto.gr/download/Bodies/TE21-TerminologyTerms_GR.pdf)  
+ELOT 561-1:2006 Terminology work – Vocabulary – Part 1: Theory and application 
+ELOT 402:2010 Terminology work – Principles and methods 
+Tsingou, M. (2020). Language variety – Definition and dimensions, Athens, Diavlos Editions 
+ISO 704:2009 Terminology work – Principles and methods 
+ISO 1087:2019 Terminology work and terminology science – Vocabulary 
+ISO/TR 20694:2018 A typology of language registers 
+ISO/TR 21636:2021 (Rev. 3.1) Identification and description of language varieties. 
+Valeontis, K. (2018). 62 Basic knowledge items of terminology (Available at: http://www.eleto
+.gr/download/Conferences/ELETO-TE21-EDO_Conference/Gnosmata_Orologias_2018-11-
+08_EN_V01.pdf )  
+ 
+                                               
+4  
+whose strict definition is: visual-spatial language modality that uses a combination of hand shapes, 
+palm orientation and movement of the hand, arm, mouth, head or body, and facial expression’. 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+9 
+ANNEX 
+Greek-English glossary of terms in Technical Report ISO/TR 21636 
+(in alphabetical order) 
+αναγνωριστικό πίνακα 
+χαρακτηροσειράς 
+script identifier 
+ανεπίσημο επίπεδο ύφους, άτυπο 
+επίπεδο ύφους  
+informal register, informal language register 
+ανθρώπινη γλώσσα 
+human language 
+απτική τροπικότητα 
+haptic modality, haptic language modality, 
+tactile modality, tactile language modality 
+βασική τροπικότητα 
+basic modality, basic language modality 
+γλωσσική ποικιλία 
+language variety 
+γλωσσική ποικιλότητα 
+linguistic variation, language variation 
+γλωσσική τροπικότητα 
+language modality 
+γλωσσικός πόρος 
+language resource, LR 
+γραπτή τροπικότητα 
+written modality, written language modality 
+δευτερογενής τροπικότητα 
+secondary modality, secondary language 
+modality 
+διάλεκτος 
+dialect 
+διάσταση γλωσσικής ποικιλότητας 
+dimension of linguistic variation 
+διάσταση επάρκειας 
+proficiency dimension 
+διάσταση επικοινωνιακής λειτουργίας 
+communicative functioning dimension 
+δομικό κριτήριο γλωσσικής ποικιλότητας 
+structural criterion for linguistic variation 
+εξωτερικό κριτήριο γλωσσικής 
+ποικιλότητας 
+external criterion for linguistic variation 
+επαυξημένη και εναλλακτική 
+επικοινωνία 
+augmentative and alternative 
+communication, AAC 
+επίπεδο ύφους 
+language register 
+επίσημο επίπεδο ύφους, τυπικό 
+επίπεδο ύφους  
+formal register, formal language register 
+ιδιόλεκτος 
+idiolect 
+ικανότητες βελτιωμένης επικοινωνιακής 
+λειτουργίας 
+enhanced communicative functioning abilities 
+ιστορική ποικιλία, ιστορική περίοδος 
+(μιας γλώσσας) 
+historical language period, language period, 
+historical period (of a language) 
+κατασκευασμένη γλώσσα 
+constructed language 
+καταστασιακή διάσταση, διάσταση 
+επικοινωνιακής κατάστασης 
+situation dimension 
+κοινωνική διάσταση, διάσταση 
+κοινωνικής ομάδας 
+social group dimension 
+κοινωνιόλεκτος 
+sociolect 
+μεσική διάσταση, διάσταση του μέσου 
+medium dimension 
+μεταγραμματισμός 
+transliteration 
+μεταγραφή 
+transcription 
+νοηματική τροπικότητα 
+signed modality, signed language modality 
+ELETO – 13th Conference «Hellenic Language and Terminology» 
+11–13 November 2021, Online 
+ 
+ 
+10 
+ξεχωριστή γλώσσα, ξεχωριστή 
+ανθρώπινη γλώσσα 
+individual language, individual human 
+language 
+ξεχωριστή νοηματική γλώσσα 
+individual sign language 
+ομιλητής/ομιλήτρια 
+speaker 
+ομιλούμενη τροπικότητα 
+spoken modality, spoken language modality 
+ουδέτερο επίπεδο ύφους 
+neutral register, neutral language register 
+περιορισμοί επικοινωνιακής λειτουργίας 
+communicative functioning constraints 
+πίνακας χαρακτηροσειράς 
+script 
+ποικιλία (του) μαθητή 
+learner variety 
+ποικιλία βελτιωμένης επικοινωνιακής 
+λειτουργίας 
+enhanced communicative functioning variety 
+ποικιλία επικοινωνιακής λειτουργίας 
+communicative functioning variety 
+ποικιλία εποχής, εποχική ποικιλία, 
+εποχή (μιας) γλώσσας 
+language epoch, epoch of a language 
+ποικιλία κανονικής επικοινωνιακής 
+λειτουργίας 
+regular communicative functioning variety 
+ποικιλία μητρικής γλώσσας 
+native proficiency variety 
+ποικιλία περιορισμένης επικοινωνιακής 
+λειτουργίας 
+constrained communicative functioning 
+variety 
+πολυτροπικότητα,  
+πολυτροπική τροπικότητα 
+multimodal modality, multimodal language 
+modality 
+προσωπική διάσταση, διάσταση 
+ξεχωριστού ομιλητή 
+person dimension, individual speaker 
+dimension 
+προσωπική ποικιλία 
+personal variety 
+πρότυπη ποικιλία, κοινή ποικιλία 
+standard variety 
+πρωτoγενής τροπικότητα 
+primary modality, primary language modality 
+συμβάν γλωσσικής χρήσης 
+event of language use, language use event 
+σύστημα γραφής 
+writing system 
+σφυριχτή τροπικότητα 
+whistled modality, whistled language 
+modality 
+τεχνόλεκτος 
+technolect 
+τυμπανιστική τροπικότητα 
+drummed modality, drummed language 
+modality 
+φυσική γλώσσα 
+natural language 
+χρονική διάσταση 
+time dimension 
+χωρική διάσταση 
+space dimension 
+ 
+Kostas Valeontis 
+Physicist-Electronic Engineer 
+Leader of terminology working groups 
+President of the Hellenic Society for Terminology (ELETO) 
+E-mail: valeonti@otenet.gr 
+ 

@@ -1,0 +1,403 @@
+SOURCE: http://www.eleto.gr/download/Conferences/4th%20Conference/4th_05-20-SotiropoulosMegaklis.pdf
+
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+1
+CONCEPTS’ INTERRELATIONS 
+ 
+Meg. Th. Sotiropoulos 
+ 
+SUMMARY 
+Concepts are couples of sets O and A. (O, A) gives the concept, that is the assignment, of the object 0 
+(a set of one or more elements -there is no real difference) to the set A of (common) attributes. The 
+objects do not really exist: they just change according to the sequence of attributes. The objects are not 
+definite, not standard. So, manipulations on objects are useless and meaningless. Besides, we realize, 
+that a concept is not only an assignment from 0 to A but also an assignment from A to 0, that is 
+dynamic. Exactly as multimedia are. The connections and links we need in multimedia are expressed, 
+naturally, by concepts, since concepts are proved to have the structure of a lattice. So, we have a more 
+complex order than linear and hierarchical ones. The lattice can be created by two algebraic operations. 
+The operations we introduce, create a more rich lattice with more possibilities, combinations, varieties 
+(different operations may create different lattices). So, our lattice serves as the deep knowledge for 
+decision making, virtual reality and multimedia. 
+ 
+ΔΙΑΠΛΕΚΟΜΕΝΕΣ ΕΝΝΟΙΕΣ 
+Μεγ. Θ. Σωτηρόπουλος 
+ 
+ΠΕΡΙΛΗΨΗ 
+Έννοια ορίζουμε το ζεύγος των αντικειμένων αφενός και αφετέρου των κοινών τους ιδιοτήτων. Τα 
+αντικείμενα αλλάζουν ανάλογα με τις ιδιότητες που εξετάζουμε. Άρα εκείνο που έχει σημασία είναι η 
+σύνδεση μεταξύ των αντικειμένων και των ιδιοτήτων. Π.χ., όταν ο άνθρωπος δείχνει με το δάχτυλό του 
+κάτι τότε δημιουργείται μία έννοια (δάχτυλο, δεικνυόμενο), ενώ τα ζώα δεν αντιλαμβάνονται αυτή τη 
+σύνδεση.  
+Ανάμεσα στις έννοιες ορίζουμε πράξεις ένωσης, τομής, διαφοράς και συμπληρωματικής έννοιας. 
+Παρατηρούμε τότε ότι από δύο έννοιες προκύπτουν άλλες τρεις, μία υπερκείμενη, μία υποκείμενη και 
+μία ανέντακτη (μη διατεταγμένη). Άρα, η δομή των εννοιών που έχουμε δεν είναι ούτε απλά γραμμική 
+ούτε δενδρική (ιεραρχική). Αποδεικνύεται ότι είναι η μαθηματική δομή του Συνδέσμου. 
+Συνεπώς, η ίδια η φύση, η ζωή και η γλώσσα μας οδηγούν σε διαπλεκόμενες έννοιες και όχι a priori 
+ιεραρχίες. Θα δοθούν πολλά παραδείγματα από τη Γεωμετρία, τη Φυσική, τη Βιολογία, τη Γλωσσολογία, 
+την Ιατρική κλπ. 
+ 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+2
+1  Mathematical structure of concepts 
+Definition 1. Concept is every assignment of a prototype to an icon, whatever may be the 
+prototype and the icon. We call the prototype “object” and the icon “attributes”. We 
+symbolize a concept with a couple whose left part is the object and right part the attributes. 
+Definition 2. (O1, A1) 
+•
+∪ (O2, A2) = (O1 ∪ O2, A1 ∩A2), where ∪and ∩ are the usual 
+operations between sets, union and intersection, respectively. 
+Definition 3. (O1, A1) 
+•∩ (O2, A2) = (O1 ∩ O2, A1 ∪A2), 
+With the above two operations, for every two concepts, there exist a “higher” and a “lower” 
+concept. 
+Definition 4. (O1, A1) 
+•
+⊆ (O2, A2) ⇔(O1 ⊆ O2 and A1 ⊇ A2), where ⊆ and ⊇ denote 
+the usual subset and superset, respectively. The subordinated concept (O1, A1) are the 
+species and the superordinated concept (O2, A2) is the genus. 
+Definition 5. The complement of the concept (O, A) is the concept (OC, AC), where OC and 
+AC are the usual set-theoretic complements of O and A, respectively. 
+Definition 6. The symmetric-difference of two concepts (O1, A1) and (O2, A2), is the concept 
+D= (O1 
+•+  O2, (A1 
+•+  A2)C), where O1 
+•+  O2 and A1 
+•+  A2 are the usual set-theoretic 
+symmetric-differences of O1 and O2 or A1 and A2, respectively. 
+The set C of all concepts, with the two operations intersection (
+•∩) and symmetric-
+difference D is proved to have the order of a lattice. 
+The symmetric-difference shows us the dissimilarities of the system of concepts and the 
+intersection the similarities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+3
+ 
+Where D is the symmetric-difference of (O1, A1) and (O2, A2). The arrows give the 
+subordinated concepts. (O1, A1), (O2, A2) and D are located on the same level and, 
+consequently, there is no order among them. 
+Definition 7. We call distance d(X,Y) of two sets X and Y, the non-negative integer 
+expressing the number of elements of the set X 
+•+  Y, that is of their symmetric-difference (in 
+symbols n(X 
+•+  Y)). So, d(X,Y) = n(X 
+•+  Y). 
+The three known properties of a distance hold: 
+1. 
+d(X,Y)= n(X 
+•+  Y) ≥ 0 and d(X,X) = n(X 
+•+  X)= n (Φ)=0 
+2. 
+d(X,Y)= n(X 
+•+  Y) = n (X 
+•+  Y) = d(Y,X), since X 
+•+  Y = Y 
+•+  X 
+3. 
+d(X,Y) + d(Y,Z) = n(X 
+•+  Y) + n (Y
+•+ Z). 
+We observe that (X
+•+ Y) 
+•+  (Y
+•+ Z) = X
+•+ Z. Generally, A
+•+ B=(A∪B) - (A ∩B), but 
+n(A
+•+ B)   = [n(A) + n(B) - n(A∩B)] - n(A∩B) = n(A) + n(B) -2n(A∩B). 
+So, n(X 
+•+  Z) = n(X 
+•+  Y)+ n(Y 
+•+  Z) - 2n [(X 
+•+  Y) ∩(Y
+•+ Z)] ⇒ n(X
+•+ Y) + n(Y 
+•+  Z) 
+≥n(X
+•+ Z). Consequently, the third property is valid. 
+Let's go, now, to the concepts. We can take d(O1 O2)=n (O1
+•+ O2), which is a distance 
+between objects, but it does not say many things, since it is quantitative but not qualitative: 
+two sets of objects may have many different elements, coming from the same homogenous 
+population (Statistics ....). Besides, we are not working with objects or attributes, but with 
+both of them, that is concepts. The symmetric-difference O1
+•+ Ο2 of the objects, has the icon 
+(A1
+•+ A2)c. So, if we want the real distance of O1 and O2, we must check (A1
+•+ A2)c. 
+d(A1,A2)=n(A1
+•+ A2)=n(Ω') - n((A1
+•+ A2)c), where Ω' is the set of all attributes (in our certain 
+application). So, n((A1
+•+ A2)°)=n(Ω') - d(A1,A2). n(Ω') is a constant. Consequently, if the 
+distance of the attributes is increasing, n((A1
+•+ A2)c) is decreasing and the distance of the 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+4
+objects is, accordingly, decreasing. The explanation comes naturally: if we have a large 
+range of attributes, this range can fit only to a small range of objects. 
+2  General Theory of Terminology 
+The proposed algebraic structure is in complete accordance with the General Theory of 
+Terminology. It gives, also, acceptable results from the view of cognition and learning. 
+All the situations, “real” or “imaginary” can be expressed. Let's take an isolated object O1. As 
+soon as we discover an isolated attribute a1 we have the concept (O1, a1). With a second 
+isolated attribute a2 we have: 
+(O1, a1) 
+•
+∪ (O1, a2) = (O1 ∪O1, a1 ∩a2) = (O1, a1 ∩ a2) = (O1,∅) 
+(because we suppose that a1 and a2 are different attributes) and 
+(O1, a1) 
+•∩ (O1, a2) = (O1 ∩O1, a1 ∪a2) = (O1, a1 ∪ a2). 
+So, we have created a new concept: (O1, a1 ∪ a2). This means that the isolated object O1 
+has both attributes a1 and a2. 
+With a third isolated attribute a3 we take three new concepts, (O1, a1 ∪ a3), (O1, a2  ∪ a3) 
+and (O1, a1 ∪ a2 ∪ a3). We proceed, till we create the concept (O1, A1), where A1 is the 
+set of all the attributes of O1. 
+So, for every object, we go to deeper levels of order as we discover more attributes of it. The 
+meaning is that for every new attribute, the object is classified to an always thinner 
+classification. It may seem strange that, though we add attributes, we go to subordinate 
+concepts but, really this is an advantage and very logical: the more attributes we add, the 
+more we specify the object, the closer we go to it. 
+On the other hand, there are concepts with no order among them. For example (O1, a1) and 
+(O1, a2) are located in the same level: neither superordinated nor subordinated the one to 
+the other, but, also, not equal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+5
+ 
+Figure 3. 
+ 
+Figure 4. 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+6
+Figure 4, if seen from bottom to top, gives the “natural” impression that the final concept (O1, 
+a1 ∪a2 ∪a3) is built, step by step, from the empty set. 
+Suppose we have the concepts (O1, A1), (O2, A2) and (O3, A3), where O1, O2, O3 are isolated 
+objects and A1, A2, A3 their sets of attributes, respectively. This means that every one of 
+them stands at the top of a figure like Figure 4. We begin to take unions (∪) and 
+intersections (
+•∩) between them and after-wards between them and the first results and so 
+on. 
+From the unions we find: (O1 ∪O2, A1 ∩A2), (O1 ∪O3, A1 ∩A3), (O2 ∪O3, A2 ∩A3) 
+and (O1 ∪O2 ∪O3, A1 ∩A2 ∩A3). 
+The intersections give us always the empty set in the left part of every couple because the 
+isolated objects are supposed to be distinct. In this way, (∅, A) means that the empty set 
+has all the attributes of the set A. There is no problem to accept such a thing because, to the 
+empty set, we may assign every attribute. Moreover, a concept like (∅, A) can be useful in 
+the structure because, e.g., (∅, A) 
+•
+∪ (B, C) = (∅∪B, A∩C) = (B, A ∩ C), which is a 
+new result. The attributes A may correspond to an object not yet discovered (like the case of 
+some planets, comets and atomic particles) or to an object that should be created or named 
+(terminography work), so that we make an extension of our system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5. 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+7
+The cycle in Figure 5 represents the Figure 4. 
+ 
+Figure 4 gives us another possibility: all the concepts involving the same object O1, form 
+another sublattice (class). So, we have all the possible scenarios concerning this object. 
+Figure 5 shows us the same result with Figure 3, but with a whole set A1 of attributes, in 
+stead of the isolated attribute a1. This means that we can impose a whole set of conditions. 
+The access to information in not linear, but follows the structure of the lattice. Of course, real 
+applications may give a sublattice of A, or, if we are unlucky, no order among the concepts. 
+In every case, if we, afterwards, create all the pζossible combinations (by using •∩
+, 
+•
+∪ and 
+the symmetric-differences), we find a complete lattice. 
+Links are a main characteristic of lattices. Conceptual lattices are created naturally from the 
+attributes of their objects. For example, in Figure 3, from the top to the bottom there are two 
+paths concerning the object O1 and the attribute a1. The smallest sublattice is the 
+“elementary rhomb” of Figure 1. 
+ 
+3  Examples 
+a) from Geometry: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The structure is not a tree: a rectangle with equal sides becomes a square, but, also, a 
+rhomb, with equal angles becomes a square. A square can be considered as a descendant 
+of the rectangle, but also, of the rhomb. 
+The four concepts (parallelogram, rectangle, rhomb, square) form a lattice: {rectangle} 
+parallelogram
+rhomb
+squere
+rectangle
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+8
+•
+∪{rhomb} = {parallelogram} and {rectangle}  
+•∩{rhomb} = {square}. 
+ 
+b) from vehicles: 
+i) a submarine can move on the surface of the sea, but, also, under the surface (or rest on 
+the bottom of the sea!). Is it a ship…? 
+ii) “Columbia” space vehicle, when coming back to the Earth, moves as a usual airplane… 
+iii) what about “Flying Dolphins”, “Hovercrafts” and so on? They move on the surface of the 
+sea (ships), but their movement obeys, partly, the laws of Physics obeyed by the airplanes! 
+So: 
+a ship has sails or/and propeller, moves only on the sea surface 
+a submarine has propeller, moves on the sea surface and under the surface 
+a Flying Dolphin has propeller, moves on the sea surface and slides with wings on it 
+wind-surfer has sail, slides on the sea surface. 
+It is obvious that the relations among these concepts do not form an hierarchy (a tree) E.g., 
+one could say that a submarine is a special ship (that is, a ship capable of moving 
+underwater), but the truth is that a submarine is something different than a ship (despite the 
+fact that it can more, also, on the sea surface – as the ships do). Besides, there are ships 
+moving with sails or with propeller and sails together (while the submarines use only 
+propeller). Conclusion: objects and attributes are both necessary for a concept to be formed. 
+c)  from Medicine: 
+i) “reading” an X-ray picture is a very difficult task. E.g., how can one discriminate 
+pneumonia from cancer of lungs? To a certain extent, the two pictures are alike. 
+ii) fever and cough may lead to several different diseases… 
+iii) some substances can serve as a poison or a medicine (like women)! That’s why, in 
+Greece, we say “pharmako” = medicine and “pharmaki” = poison. 
+d) from every day life: 
+i) In German language, women use the expression “meine Man”. But, it not clear what they 
+mean by the term “Man”: their husband, their boy-friend or something else…? 
+ii) Several newspapers (especially in Greece) use in their title the term “free”… 
+iii) Several political parties (all over the world) use in their title the term “democratic”… In the 
+USA, the two major political parties are the “Democrats” and the “Republicans” (which 
+means, also, democrats…) 
+iv) Almost all regimes claim that they have free elections… 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+9
+v) A famous Greek painter has expressed the following opinion: “you are what you declare 
+to be”! This is a great truth! According to the set of attributes you present each time, you 
+belong to the corresponding class (=concept) of people… 
+vi) Virtual Reality is based, exactly, on the set of attributes we present each time. Women 
+know something more about that, using make-up e.t.c. 
+vii) A recent research in Europe has revealed a strange fact: Tse Guevara is a symbol not 
+only for many parties of the left political wing, but, also, for several parties of the right 
+wing!!… It seems that a subset of attributes of the personality of Tse belongs to the path or 
+semi-lattice or lattice or, generally, the network of the left way or thinking, while another 
+subset belongs to the right way of thinking. Maybe, Tse does not belong neither to the one 
+nor to the other wing (frame)… 
+viii) “It is so, if you consider it so” (Luigi Pirantello) 
+ix) Double-agents are a good example of belonging, partly, to two different (?) systems 
+(“masters”). 
+x) A few years ago, something terrible was discovered: the main lawyer supporting one 
+political party, was, also, the main lawyer of the opponent political party!!! (…?) 
+ 
+4  Remarks 
+All lattices are not equivalent. Some of them are “richer” than the others. “Rich” means that 
+they are consisted of more concepts, more possible situations. 
+Professor R. Wille takes as concepts only the standardized ones. Obviously, this fits well 
+with robots, but not with human beings. Freedom and fantasy can give birth to many partly 
+different or absolutely new objects-we do not have the right to exclude them. Our proposed 
+system of concepts is not closed but open. Open to new concepts, open to probability, open 
+to fuzziness, open to not predefined situations. 
+Our classification is not imposed from above (…), but it comes naturally from the attributes 
+of the objects themselves. We have defined operations between concepts: union and 
+intersection to express similarities (common objects or common attributes) and symmetric – 
+differences between objects. So, we can make our classifications as thin as we want. Prof. 
+Wille does not provide operations and, moreover, he does not treat differences. Obviously, 
+another mentality … But, real life is full of differences and we are not allowed to normalize 
+human thought!  
+We use couples in order to define concepts, because, in this way, we express the relativity 
+of the objects. People are taught to think with trees – this is the simple and not annoying 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+ 
+10
+way…But, real life is full of complexities and lattice is one of the instruments to express 
+them. In a tree, the child comes from only one parent (…), while in the lattice every child has 
+two parents. Indeed, the child is the link between the two parents. Hierarchies are not the 
+unique kind of order (…).  
+General conclusion: two concepts can be interrelated either by having common objects or by 
+having common attributes. 
+ 
+5  Bibliography  
+ALTY and COMBS (1984): “Expert Systems”, NCC Publitions. 
+BIRKHOFF, G. (1967): «Lattice Theory», third edition, Amer. Math. Soc., Providence. R.I., 
+U.S.A. 
+FELBER H. (1984): “Terminology Manual”, UNESCO, Paris. 
+KECHAJOPOULOU N. (1985): “Introduction to the Theory of Lattices”, Athens. 
+SOTIROPOULOS M.T. (1989): «From Terminology to Informatics via Conceptual – 
+Mathematical Models», «Terminologie et Traduction», No 3, 35-141. 
+SOTIROPOULOS M.T., «A conceptual-mathematical model for Data Bases and Expert – 
+Systems», Doctor’s Dissertation submitted to the School of Natural and Technical 
+Sciences, Johannes Kepler University, Linz, Austria. 
+SOTIROPOULOS M.T. (1995): «A Mathematical Model of Concepts for Knowledge 
+Extraction from Statistical Data», Proceedings of the Second International 
+Conference of New Techniques and Technologies for Statistics (NTTS – 95), Bonn, 
+Germany, 20 – 22 November, 465 – 471. 
+SOTIROPOULOS M.T. (1992): Mathematical Theory of Concepts: a mew tool for the 
+application of Logo to Education», Poster Proceedings of the 12th World Computer 
+Congress of the IFIP, Madrid, Spain, September 7 –11, 84. 
+TWAY, Linda E, (1992): «Work with Multimedia», Management Information Source, Inc., 
+New York. 
+WILLE, r. (1988): «Restructuring Lattice Theory», Rival I., (ed): «Ordered Sets», Reidel 
+Publ. Co.  
+ 
+ 
+Megaklis Th. Sotiropoulos, M. Sc., Greek Ministry of Education, Imittou 148, 116 35 Athens, 
+Greece, tel.: ++/210-6144050. fax.: ++/210-3218458, e-mail: melcopyc@otenet.gr 

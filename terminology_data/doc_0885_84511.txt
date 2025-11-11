@@ -1,0 +1,481 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/Papers-and-speakers/12th_20-07-13_VyzasTheodoros_Paper1_V03.pdf
+
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+289 
+20    Η εξειδικευμένη μετάφραση στον υποτιτλισμό των ντοκιμαντέρ: 
+μια ιδιότυπη επικοινωνιακή περίσταση 
+  
+Θεόδωρος Βυζάς 
+ΠΕΡΙΛΗΨΗ 
+Στο άρθρο αυτό, μελετάμε τη διαγλωσσική οπτικοακουστική μετάφραση μέσα από την ποιότητα της 
+μετάφρασης ειδικού λεξιλογίου με έμφαση στα μεταφραστικά λάθη. Το υπό μελέτη υλικό αποτελείται 
+από δύο ντοκιμαντέρ ιατρικής θεματικής στην αγγλική με ελληνικούς υποτίτλους και αποδεικνύουμε ότι 
+η εν λόγω εξειδικευμένη μετάφραση αποτελεί ιδιότυπη επικοινωνιακή περίσταση. 
+ 
+Specialised translation in documentary subtitling:  
+an idiosyncratic communication situation 
+Theodoros Vyzas 
+ABSTRACT 
+In this article, we study interlingual audiovisual translation through the quality of translation of 
+specialised vocabulary with emphasis on translation errors. Our corpus consists of two English 
+language documentaries with Greek subtitles, which deal with medical matters. We prove that this kind 
+of specialised translation constitutes an idiosyncratic communication situation. 
+ 
+ 
+ 
+ 
+0   Εισαγωγή   
+Στο άρθρο αυτό εστιάζουμε στη διαγλωσσική οπτικοακουστική μετάφραση (ΟΑΜ) (Luyken 
+et al., 1991) και ειδικότερα στην ποιότητά της με αιχμή το ειδικό λεξιλόγιο και τη 
+φρασεολογία μέσα από την καταγραφή μεταφραστικών λαθών. Συγκεκριμένα, μελετάμε δύο 
+υποτιτλισμένα ντοκιμαντέρ1 ιατρικής θεματικής με την αγγλική ως γλώσσα πηγή και την 
+ελληνική ως γλώσσα στόχο, με σκοπό να αποδείξουμε ότι η μετάφραση των ντοκιμαντέρ 
+αποτελεί ιδιότυπη επικοινωνιακή περίσταση εξαιτίας της εξειδίκευσης και του υποτιτλισμού.  
+Η διαδικτυακή αναζήτηση ανέσυρε ελάχιστα άρθρα για την εξειδικευμένη μετάφραση στον 
+υποτιτλισμό των ντοκιμαντέρ, όπως επιβεβαιώνουν και διάφοροι ερευνητές (Gambier, 2004· 
+Espasa, 2004· Matamala, 2009), ενώ δεν εντοπίστηκε μελέτη για την ελληνική γλώσσα. 
+                                                        
+1 Ευχαριστούμε θερμά την ΕΡΤ που είχε την ευγενή καλοσύνη να μας παραχωρήσει το υλικό. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+290 
+Η μελέτη ξεκινάει με βιβλιογραφική επισκόπηση για την αξιολόγηση της μετάφρασης και τον 
+ρόλο των λαθών. Ακολουθούν οι ιδιαιτερότητες του υποτιτλισμού και γίνεται αναφορά στον 
+ρόλο του ειδικού λεξιλογίου και της εξειδικευμένης μετάφρασης στον υποτιτλισμό των 
+ντοκιμαντέρ. Κατόπιν παρουσιάζονται το υλικό αναφοράς και η μεθοδολογία για τον έλεγχο 
+ποιότητας της εξειδικευμένης μετάφρασης με το μοντέλο της Gerzymisch-Arbogast (2008) 
+σε συνδυασμό με το μοντέλο τυπολογίας λαθών των Toudic et al. (2014) κατάλληλα 
+προσαρμοσμένα. Η ορθότητα των ελληνικών ισοδυνάμων ελέγχεται με χρήση ειδικών 
+λεξικών και συναφών κειμένων. Τέλος, με βάση τα συμπεράσματα για την ποιότητα της 
+μετάφρασης ελέγχεται η εκπλήρωση του στόχου των ντοκιμαντέρ για αξιόπιστη ενημέρωση. 
+1   Αξιολόγηση μεταφράσματος 
+Η βιβλιογραφική επισκόπηση από διάφορους ερευνητές (Morin-Hernández, 2009· Lavault-
+Olléon & Allignol, 2014· Scarpa, 2010) έδειξε ότι όλα τα μοντέλα μεταφραστικής διαδικασίας 
+περιλαμβάνουν έλεγχο ποιότητας, καθώς κάθε μετάφραση είναι ένα προϊόν που προορίζεται 
+για συγκεκριμένο κοινό και έχει συγκεκριμένη χρήση (Toudic et al., 2014). Προϋπόθεση 
+διασφάλισης ποιότητας είναι η αναθεώρηση ενώ πυρήνας της αναθεώρησης είναι ο έλεγχος 
+των λαθών, ωστόσο, ελάχιστες είναι οι σχετικές εμπειρικές μελέτες (Scarpa, 2010). 
+Ερευνητές (O’Brien, 2012· Larose, 1989· Maier, 2000) επισημαίνουν ότι σχεδόν όλα τα 
+πρότυπα αξιολόγησης επαγγελματικών μεταφράσεων εστιάζουν στην αποδοχή ή την 
+απόρριψη του μεταφράσματος και όχι στη λειτουργικότητά του, τη χρήση του από τον τελικό 
+αποδέκτη ή την επικοινωνιακή περίσταση. Κατά τη Nord (2005), η αξιολόγηση πρέπει να 
+γίνεται και σε μικροκειμενικό και σε μακροκειμενικό επίπεδο, καθώς ο μεταφραστής μπορεί 
+να έχει προβεί σε επιλογές για να ανταποκριθεί στη μακροκειμενική λειτουργία του κειμένου 
+στόχος, η οποία και καθορίζει τη βαρύτητα του κάθε λάθους. Πάντως, κατά τα διάφορα 
+μοντέλα ελέγχου (House, 2015· Kingscott, 2013· Horguelin & Hosington, 1980· Gouadec, 
+2010), σε πρώτο επίπεδο πρέπει να ελέγχονται τα λεξιλογικά και τα συντακτικά μέσα. 
+Βασικό στοιχείο της ποιότητας ή επάρκειας της μετάφρασης είναι η αποδεκτότητα του 
+μεταφράσματος. Σύμφωνα με τους Beeby et al. (2011), η αποδεκτότητα καθορίζεται από τα 
+εξής: α) αν το μετάφρασμα μεταδίδει αποτελεσματικά το νόημα του πρωτοτύπου, β) τη 
+λειτουργία του μεταφράσματος (μέσα στο πλαίσιο των οδηγιών μετάφρασης, των 
+προσδοκιών των αναγνωστών και των συμβάσεων του συγκεκριμένου κειμενικού είδους 
+στον πολιτισμό-στόχο) και γ) αν κάνει χρήση της κατάλληλης γλώσσας σε επίπεδο 
+γραμματικής, ορθογραφίας και σύνταξης. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+291 
+Ένα μοντέλο κατηγοριοποίησης των λαθών που χαρακτηρίζεται από ευκρίνεια είναι αυτό του 
+Mossop (2014). ∆ιακρίνονται τέσσερις κύριες κατηγορίες λαθών, δύο από τις οποίες 
+αφορούν στη γνωσιακή διάσταση και στο περιεχόμενο όπου έμφαση δίνεται στην ακρίβεια 
+και την πληρότητα. Ειδικά για την ορολογία, η American Translators Association θεωρεί πως 
+προκύπτει μεταφραστικό λάθος όταν ενώ στο κείμενο πηγή χρησιμοποιείται ο κατάλληλος 
+όρος, στο κείμενο στόχος δεν χρησιμοποιείται ο ισοδύναμος όρος από το οικείο θεματικό 
+πεδίο αλλά άλλος με εσφαλμένη ή ακατάλληλη σημασία. Αυτός ο τύπος λάθους αφορά 
+όρους από διάφορα πεδία και απαντά σε κείμενα είτε με μεγάλη είτε με μικρή εξειδίκευση. 
+2   Ο υποτιτλισμός ως οπτικοακουστική μετάφραση 
+Οι Díaz Cintas and Remael (2007) ορίζουν τον υποτιτλισμό ως τη μεταφραστική πρακτική 
+που συνίσταται στην προβολή, συνήθως στο κάτω μέρος της οθόνης, ενός γραπτού 
+κειμένου που επιχειρεί να αποδώσει τον πρωτότυπο διάλογο των ομιλητών καθώς και τα 
+στοιχεία λόγου που εμφανίζονται στην οθόνη (π.χ. γράμματα, γκράφιτι, επιγραφές, πανό) 
+και τις πληροφορίες από το ηχητικό υλικό (π.χ. τραγούδια, φωνές εκτός κάμερας). 
+Ο Gottlieb (1994) και οι Hatim and Mason (1997) επισημαίνουν τον αποσπασματικό και 
+ουδέτερο χαρακτήρα του υποτιτλισμού, καθώς περιλαμβάνει μόνο τα λεξιλογικά και τα 
+συντακτικά χαρακτηριστικά των διαλόγων αφού δεν μπορεί να αποτυπώσει τον ρυθμό και 
+τον επιτονισμό του προφορικού λόγου. Επιπλέον, εξαιτίας των χωροχρονικών περιορισμών 
+που διέπουν τους υποτίτλους, βασική παράμετρος της δουλειάς του υποτιτλιστή, ο οποίος 
+εργάζεται χωρίς οδηγίες (Pedersen, 2011), είναι η συμπύκνωση στην οποία οφείλεται η 
+απώλεια πληροφοριών αλλά και οι κακές μεταφράσεις (Ivarsson and Carroll, 1998). Έχει 
+πάντως αποδειχθεί ότι εντέλει δεν χάνεται ουσιαστική πληροφορία ενώ ο θεατής ανακτά το 
+νόημα μέσω της εικόνας και του ήχου (Kabara, 2015· Luyken et al., 1991). 
+3   Ντοκιμαντέρ 
+3.1   Τα χαρακτηριστικά των ντοκιμαντέρ  
+Το ντοκιμαντέρ είναι κινηματογραφική ταινία συνήθως μικρού ή μεσαίου μήκους, που 
+βασίζεται σε τεκμήρια, όπως κινηματογραφικό και φωτογραφικό υλικό, έγγραφα, 
+συνεντεύξεις κ.λπ. και που αναφέρεται σε ιστορικά, πολιτικά, τεχνολογικά, καλλιτεχνικά και 
+άλλα θέματα με στόχο να ενημερώσει, να διδάξει και να ψυχαγωγήσει τον θεατή και εντέλει 
+να τον ωθήσει σε δράση (Hanoulle, 2017· Juel, 2006). Κατά τον Grierson (στο Hardy, 1966), 
+το ντοκιμαντέρ αποτελεί μια δημιουργική αντιμετώπιση της πραγματικότητας. Πρόκειται 
+λοιπόν για πολυτροπικό κείμενο με υψηλή πληροφορητικότητα, χάρη στις πολλαπλές 
+συνεντεύξεις, τις αφηγήσεις και την εναλλαγή εικόνων (González-Requena, 1989), που 
+απευθύνεται στο ευρύ κοινό αποτελώντας έτσι ένα δημοκρατικό εκλαϊκευτικό μέσο για τη 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+292 
+διάδοση της επιστήμης και την προσέγγιση της πραγματικότητας (Christensen, 2007), με 
+την εξειδίκευση να είναι πάντα παρούσα άλλοτε σε άλλο βαθμό (Matamala, 2010). 
+Εξυπακούεται ότι οι προσδοκίες των θεατών για αξιόπιστη πληροφόρηση πρέπει να 
+εκπληρωθούν (Matamala, 2009· Espasa, 2004). 
+3.2   Ορολογία, εξειδικευμένη μετάφραση και ντοκιμαντέρ  
+Ο γνωσιακός χαρακτήρας της ορολογίας είναι δεδομένος, καθώς οι όροι και η φρασεολογία 
+συνδέονται με κάποια ειδικότητα ενώ η συχνότητα εμφάνισής τους μας πληροφορεί για το 
+γνωστικό πεδίο (Depecker, 2002· Conceição, 2005). Το γνωσιακό, ήτοι εννοιολογικό, 
+περιεχόμενο μεταφέρεται μέσω της εξειδικευμένης επικοινωνίας, όπως η μετάφραση. 
+Σημαντική παράμετρος για τη μελέτη μας είναι η συχνή ανισομορφία όρων μεταξύ γλωσσών, 
+ακόμη και στις θετικές επιστήμες (Janssen et Van Campenhoudt, 2005), με αποτέλεσμα να 
+είναι δύσκολη η ανεύρεση ισοδυνάμων. Ωστόσο, η συνωνυμία και η σημασιολογική 
+παραλλαγή συμβάλλουν στην αποσαφήνιση των εννοιών (Silva, 2005· Dury, 1999). 
+Λόγω της εκλαΐκευσης, τα ντοκιμαντέρ αποτελούν ιδιαίτερη επικοινωνιακή περίσταση ευθύς 
+εξαρχής και μπορούν να θεωρηθούν παραδείγματα εξειδικευμένου λόγου, καθώς πάντα 
+περιέχουν ειδικό λεξιλόγιο, το εννοιολογικό περιεχόμενο του οποίου υποστηρίζεται και από 
+την εικόνα. Για να γίνουν προσβάσιμα στο ευρύ κοινό που ομιλεί γλώσσα διαφορετική από 
+εκείνη της ταινίας, οι μεταφραστές-υποτιτλιστές θα πρέπει να λάβουν υπόψη τους την 
+ετερογένεια των θεατών ως προς την ηλικία, το πολιτισμικό υπόβαθρο και τις ειδικές 
+γνώσεις του καθενός (Hanoulle, 2017· Espasa, 2004). Κατά συνέπεια, κατά τη μετάφραση 
+ειδικού λεξιλογίου οι μεταφραστές ως μη ειδικοί του εκάστοτε πεδίου αντιμετωπίζουν τις εξής 
+δυσκολίες: αναγνώριση όρων, κατανόηση όρων, εξεύρεση ισοδυνάμων, αντιμετώπιση της 
+κατονομαστικής παραλλαγής όρων, επιλογή μεταξύ όρων από συναφή κείμενα και όρων 
+από λεξικά, παράκαμψη της απουσίας ισοδυνάμου, αντιμετώπιση της αμφισημίας και 
+διαχείριση ισοδυνάμων που είναι ασαφή για το ευρύ κοινό (Matamala, 2009). 
+4   Μελέτη του οπτικοακουστικού υλικού 
+4.1   Σύντομη παρουσίαση των ταινιών ντοκιμαντέρ  
+Τα δύο αγγλόφωνα ντοκιμαντέρ είναι ιατρικής θεματολογίας. Το ένα είναι διάρκειας 45 
+λεπτών με αγγλικό τίτλο “Programmed to be fat?” και ελληνικό «Υπέρβαροι από κούνια;» - 
+στο εξής ΥΒ -, εστιάζει στις αιτίες της παχυσαρκίας και είναι καναδική παραγωγή του 2011. 
+Το άλλο, διάρκειας 52 λεπτών με αγγλικό τίτλο “Lethal Fake Medicine” και ελληνικό 
+«Θανατηφόρα ψεύτικα φάρμακα» - στο εξής ΨΦ -, είναι δανική παραγωγή του 2016 και 
+ασχολείται με τους τρόπους παραγωγής, πώλησης και διανομής παράνομων φαρμάκων, 
+καθώς και τις επιπτώσεις τους στην υγεία των ασθενών. Το ειδικό λεξιλόγιο προέρχεται 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+293 
+κυρίως από το ιατρικό πεδίο (ανατομική και φυσιολογία) και συναφή πεδία όπως 
+φαρμακολογία, βιοχημεία και χημεία. Περιλαμβάνονται εμπορικές ονομασίες φαρμάκων, 
+ονόματα νοσοκομείων και φορέων, καθώς και ολιγάριθμοι οικονομικοί και νομικοί όροι. 
+4.2   Μεθοδολογία  
+Για να ελέγξουμε την ποιότητα της μετάφρασης, υιοθετούμε καταρχάς το μοντέλο της 
+Gerzymisch-Arbogast (2008), που εξετάζει την εξειδικευμένη μετάφραση σε τριπλό επίπεδο: 
+α) ατομιστικό για το λεξιλόγιο, β) ολιστικό-ατομιστικό για τις υπερ-προτασιακές δομές, και γ) 
+ολιστικό για το πλήρες κείμενο. Εστιάζουμε στα δύο πρώτα επίπεδα, καθώς, στο πλαίσιο 
+της σύντομης αυτής μελέτης, μας επιτρέπουν να δείξουμε ότι το υποτιτλισμένο ντοκιμαντέρ 
+αποτελεί επικοινωνιακή περίσταση με ιδιαιτερότητες. 
+Ειδικά για τον έλεγχο σε πρώτο επίπεδο, χρησιμοποιήσαμε το μοντέλο ανάλυσης λαθών 
+των Toudic et al. (2014), προσαρμοσμένο στις ανάγκες της μετάφρασης ντοκιμαντέρ, καθώς 
+η αρχική εκδοχή αφορά την επαγγελματική μετάφραση. Για τον έλεγχο σε δεύτερο επίπεδο, 
+η μεταφορά του νοήματος και η συνεκτικότητα διασφαλίζονται με την ισοτοπία κατά Greimas 
+όπως περιγράφεται από την Gerzymisch-Arbogast (2008): μεταφορά νοήματος με 
+συσσωματώματα πληροφορίας (συνδυασμός όρων) από το πρωτότυπο στο μετάφρασμα σε 
+υπερ-προτασιακό επίπεδο, ώστε να διασφαλίζεται η συνεκτικότητα του κειμένου. 
+Σε ατομιστικό επίπεδο, για την αναγνώριση των αγγλικού ειδικού λεξιλογίου και την 
+καταλληλότητα των ελληνικών ισοδυνάμων χρησιμοποιήθηκαν γλωσσικοί πόροι που 
+εμφανίζονται στη βιβλιογραφία στο τέλος του άρθρου. Η εξαγωγή όλων των όρων έγινε 
+χειρακτικά από το κάθε σενάριο ενώ μελετήθηκαν αποκλειστικά και μόνο τα υποτιτλισμένα 
+μέρη. 
+4.3   Ευρήματα – Σχολιασμός  
+Ακολουθεί σε πρώτη φάση το προσαρμοσμένο μοντέλο των Toudic et al. (2014), όπου για 
+κάθε περίπτωση παρατίθενται παραδείγματα στην αγγλική με την ελληνική απόδοσή τους 
+ενώ καταγράφεται και ο αριθμός περιπτώσεων κατά ταινία. 
+1. Ακατάλληλη ορολογική – φρασεολογική παραλλαγή: reproductive tract > αναπαραγωγικό 
+κομμάτι. ΥΒ: 6, ΨΦ: κανένα. 
+2. Ακατάλληλος όρος – φρασεολογία που ανήκει σε άλλο πεδίο: Obesogens > Ογκογόνα. 
+ΥΒ: 1 με δεκαέξι εμφανίσεις, ΨΦ: κανένα. 
+3. Ορολογική – φρασεολογική ασυνέπεια στο κείμενο στόχος: obese > παχύσαρκος / 
+υπέρβαρος, undercover work / undercover agent > μυστικός πράκτορας. ΥΒ: 1, ΨΦ: 2. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+294 
+4. Παράλειψη σημαντικού λεξιλογικού στοιχείου από πολυλεκτικό όρο ή φρασεολογία: weight 
+gain effect > αύξηση βάρους, BEEP Hematology and Oncology > ογκολογική κλινική. ΥΒ: 2, 
+ΨΦ: 5. 
+5. Παράλειψη δευτερεύοντος λεξιλογικού στοιχείου από πολυλεκτικό όρο ή φρασεολογία: 
+estrogen replacement drug > υποκατάστατο οιστρογόνου, counterfeit versions of popular 
+medications > πλαστά φάρμακα. ΥΒ: 27, ΨΦ: 4. 
+6. Πλήρης παράλειψη: embryo > Ø, jurisdiction and police station > αστυνομικό τμήμα. ΥΒ: 
+9, ΨΦ: 5. 
+7. Αδικαιολόγητη προσθήκη πληροφορίας με μικρή επίπτωση στο κείμενο στόχο: Bisphenol 
+A > ∆ισφαινόλη Α ή BPA, Ø > Levitra. ΥΒ: 1, ΨΦ: 11. 
+8. Αδικαιολόγητη προσθήκη πληροφορίας με σημαντική επίπτωση στο κείμενο στόχο: ΥΒ και 
+ΨΦ: κανένα. 
+Σε πρώτο επίπεδο, διαπιστώνεται επιπλέον η επίπτωση της συχνότητας κάποιων όρων, 
+καθώς και ότι το ίδιο ειδικό λεξιλόγιο σε κάποιες περιπτώσεις μεταφράζεται διαφορετικά 
+(L’Homme, 2004). Κατόπιν, σε ατομιστικό-ολιστικό επίπεδο κατά Gerzymisch-Arbogast 
+(2008), ελέγχουμε δύο αποσπάσματα με μεταφραστικές ιδιαιτερότητες από κάθε ταινία. 
+i) “Programmed to be fat?” / «Υπέρβαροι από κούνια;» 
+Ακολουθούν τα παραδείγματα από το 5ο και το 30ό λεπτό αντίστοιχα. Οι όροι εμφανίζονται 
+με εντονότυπους χαρακτήρες. 
+Retha Newbold was studying reproductive 
+changes 
+caused 
+by 
+an 
+estrogen 
+replacement drug called D.E.S. But her 
+hormone-primed mice had become fat. I 
+wasn’t paying attention to body mass, 
+body fat.  I was only really focusing in on 
+the reproductive tract.  But I knew at that 
+point I had to deal with it. 
+Η Ρίθα Νιούμπολντ μελετούσε τις αναπαρα-
+γωγικές μεταβολές που προκαλούσε ένα 
+υποκατάστατο 
+οιστρογόνου, 
+το 
+DES. 
+Όμως, τα γεμάτα ορμόνη ποντίκια της 
+είχαν παχύνει. ∆εν έδινα προσοχή στη μάζα 
+σώματος ή στο σωματικό λίπος. Ήμουν 
+επικεντρωμένη 
+στο 
+αναπαραγωγικό 
+κομμάτι. Όμως, τότε κατάλαβα ότι έπρεπε 
+να το αντιμετωπίσω. 
+ 
+Right now, the study is only following 
+children to six months of age. But the 
+study’s directors are hoping it can be 
+extended to at least six years of age, to 
+measure the effect of Obesogens on their 
+weight gain. An even bigger study of 
+Obesogens has started across the Atlantic. 
+Τώρα η μελέτη παρακολουθεί παιδιά μόνο 
+έως έξι μηνών. Όμως, οι επικεφαλής της 
+έρευνας ελπίζουν να επεκταθεί έως τα έξι 
+χρόνια τουλάχιστον, για να δουν την 
+επίδραση των ογκογόνων στην αύξηση 
+βάρους τους. Μία ακόμα μεγαλύτερη μελέτη 
+ογκογόνων έχει ξεκινήσει πέρα από τον 
+Ατλαντικό. 
+ 
+Στο πρώτο παράδειγμα οι όροι αποδίδονται με επάρκεια εκτός του reproductive tract, όπου 
+προκρίνουμε το αναπαραγωγικό σύστημα. Γενικά διατηρείται η ισοτοπία και διασφαλίζεται η 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+295 
+μεταφορά του νοήματος και η συνεκτικότητα. Στο δεύτερο απόσπασμα, η διπλή 
+προβληματική απόδοση του obesogen ως ογκογόνο (ογκολογία) θεωρείται μείζον λάθος 
+εξαιτίας του κεντρικού ρόλου στη θεματική και της μεγάλης συχνότητάς του (Williams, 2009). 
+ii) “Lethal Fake Medicine” / «Θανατηφόρα ψεύτικα φάρμακα» 
+Παρατίθενται τα παραδείγματα από το 25ο και το 29ο λεπτό αντίστοιχα. Οι όροι 
+εμφανίζονται με εντονότυπους χαρακτήρες. 
+The person who is making it takes a pill 
+from one person he takes the packaging 
+from another person he will get it stripped   
+at a third place and he will pack the material  
+at a fourth place. Until the time you organize 
+a raid you will see the material has shifted. 
+Now you have to go to another jurisdiction 
+and police station. 
+Ο παρασκευαστής παίρνει ένα χάπι από 
+κάποιον 
+παίρνει 
+τη 
+συσκευασία 
+από 
+κάποιον άλλο τα φτιάχνει όλα σ' ένα τρίτο 
+μέρος και συσκευάζει το προϊόν σ' ένα 
+τέταρτο μέρος. Μέχρι να οργανώσεις μια 
+έφοδο το προϊόν βρίσκεται κάπου αλλού. 
+Τότε θα πρέπει να πας σε άλλο αστυνομικό 
+τμήμα. 
+ 
+Same with this. Some of the drugs are just 
+sugar pills but many of these medicines 
+can be very dangerous. It is dangerous to 
+buy things online and that is what this 
+operation is about. To change peoples 
+thinking. Especially young people who live 
+their lives at the internet. That's why you 
+are very important for them. 
+Έτσι κι εδώ: κάποια μπορεί να είναι 
+ψευδοφάρμακα αλλά πολλά φάρμακα 
+μπορεί να είναι επικίνδυνα. Θέλουμε να 
+δείξουμε τους κινδύνους της διαδικτυακής 
+αγοράς φαρμάκων και να αλλάξουμε τη 
+νοοτροπία ιδίως των νέων ανθρώπων που 
+ζουν στο διαδίκτυο. Κάνουν τα πάντα 
+διαδικτυακά. Γι' αυτό είστε πολύ σημαντικοί 
+για εκείνους. 
+ 
+Και στις δύο περιπτώσεις αποδίδεται επαρκώς το νόημα και διασφαλίζεται η συνεκτικότητα.  
+5   Τελικές παρατηρήσεις  
+Καθώς πρόθεσή μας ήταν να αναδείξουμε τον ιδιαίτερο χαρακτήρα της μετάφρασης-
+υποτιτλισμού των ντοκιμαντέρ, επιχειρούμε, προς επίρρωσιν, μια σύγκριση με το μοντέλο 
+των Lozano and Matamala (2009), που επινοήθηκε για την ΟΑΜ τηλεοπτικής σειράς με 
+ιατρική θεματική. Τακτικές όπως η παράλειψη ή η προσθήκη όρων ή τμημάτων τους 
+θεωρούνται μεταφραστικές στρατηγικές από τις ερευνήτριες, ενώ στο μοντέλο των Toudic et 
+al. (2014) αντιστοιχούν σε λάθη. Επομένως, επιβεβαιώνεται ότι η ΟΑΜ των ντοκιμαντέρ 
+αποτελεί μετάφραση με ιδιαίτερα χαρακτηριστικά και συμφωνούμε με την άποψη για τη 
+διαφοροποίηση της βαρύτητας των λαθών ανάλογα με την επικοινωνιακή περίσταση.  
+Μετά από συνολικό κειμενικό έλεγχο, μείζον λάθος θεωρούμε αυτό που ήδη επισημάνθηκε, 
+καθώς κατά τη γνώμη μας, κατά τα λοιπά, το νόημα του πρωτοτύπου και στις δύο ταινίες 
+μεταφέρεται αποτελεσματικά μέσω των υποτίτλων με χρήση της κατάλληλης γλώσσας σε 
+επίπεδο γραμματικής, ορθογραφίας και σύνταξης και το μετάφρασμα καθίσταται λειτουργικό 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+296 
+ως προς τις προσδοκίες των θεατών, οπότε τα δύο ντοκιμαντέρ επιτελούν τον σκοπό τους 
+για αξιόπιστη ενημέρωση και παρότρυνση για δράση. Παρά τη δεδομένη συνδρομή της 
+εικόνας ειδικά στην ταινία ΥΒ, όπου μάλλον καλύπτεται η ορολογική αστοχία, το λάθος είναι 
+κρίσιμο σε μακροδομικό επίπεδο και συμφωνούμε με τους Βαλεοντή και Κριμπά (2014: 23) 
+ότι και σε εκλαϊκευμένα κείμενα είναι απαράδεκτη η χρήση αυτοσχέδιων όρων «που είναι 
+λανθασμένοι ή δικαιολογημένα μη αποδεκτοί από τους ειδικούς του πεδίου». 
+ΒΙΒΛΙΟΓΡΑΦΙΑ 
+Υλικό αναφοράς 
+Krøgholt, M. (2016). Lethal Fake Medicine / Θανατηφόρα ψεύτικα φάρμακα. Denmark: Bullitt 
+Film / Krøgholt & Ko. 
+Ridout, S., Slinger, H. & Darling, S. (2011). Programmed to be fat? / Υπέρβαροι από κούνια. 
+Canada: Dreamfilm Productions / Canadian Broadcasting Corporation. 
+Βιβλιογραφικές αναφορές 
+Βαλεοντής, Κ. Ε. και Κριμπάς, Π. Γ. (2014). Νομική γλώσσα, νομική ορολογία: θεωρία και 
+πράξη. Αθήνα: Νομική Βιβλιοθήκη. 
+American Translators Association. [πρόσβαση 18 Ιουλίου 2019]. ∆ιαθέσιμο από 
+https://www.atanet.org/certification/aboutexams_error.php.  
+Beeby, A., Fernández, M., Fox, O., Hurtado Albir, A., Kuznik, A., Neunzig, W., Rodríguez, 
+P., Romero, L. and Wimmer, S. (2011). Results of the validation of the PACTE translation 
+competence model: translation problems and translation competence. Στο: C. Alvstad, A. 
+Hild and E. Tiselius (Eds.). Methods and strategies of process research: integrative 
+approaches in translation studies. Amsterdam: John Benjamins, pp. 317-343. 
+Christensen, L. L. (2007). The Hand-on Guide for Science Communicators: A Step by Step 
+Approach to Public Outreach. New York: Springer Science + Business Media, LLC. 
+Conceição, M. C. (2005) Concepts, termes et reformulations. Lyon : PUL. 
+Depecker, L. (2002). Entre signe et concept. Paris : Presses Sorbonne Nouvelle. 
+Díaz Cintas, J. and Remael, A. (2007). Audiovisual Translation: Subtitling. Manchester: St. 
+Jerome Publishing. 
+Dury, P. (1999). Les variations sémantiques en terminologie : étude diachronique et 
+comparative appliquée à l’écologie. Στο: V. Delavigne et M. Bouveret (dir.) Sémantique des 
+termes spécialisés. Rouen : Publications de l’Université de Rouen – CNRS, pp. 17-32. 
+Espasa, E. (2004). Myths about documentary translation. Στο: P. Orero (ed.) Topics in 
+audiovisual translation. Amsterdam/Philadelphia: John Benjamins, pp. 183-197. 
+Gambier, Y. (2004). Tradaptation cinématographique. Στο: P. Orero (ed.) Topics in 
+audiovisual translation. Amsterdam/Philadelphia: John Benjamins, pp. 169-181. 
+Gerzymisch-Arbogast, H. (2008). Fundamentals of LSP Translation. Στο H. Gerzymisch-
+Arbogast, G. Budin & G. Hofer (Eds.) LSP Translation Scenarios. MuTra Journal 2. ATRC 
+Group, pp. 7-64. 
+González-Requena, J. (1989). El espectáculo informativo. Madrid: Akal. 
+Gottlieb, H. (1994). Subtitling: diagonal translation. Perspectives: Studies in Translatology 
+2(1), pp. 101-121. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+297 
+Gouadec, D. (2010). Translation as a Profession. Amsterdam: John Benjamins. 
+Hanoulle, S. (2017). Translating Documentaries. Doctoral Thesis. Universiteit Gent. 
+Hardy, F. (ed.) (1966). Grierson on documentary. Revised edition. Berkeley, Ca: UCP. 
+Hatim, B. and Mason, I. (1997). The Translator as Communicator. Taylor and Francis. 
+Horguelin, P. A. and Hosington, B. M. (Thaon) (1980). A Practical Guide to Bilingual 
+Revision. Montreal: Linguatech. 
+House, J. (2015). Translation Quality Assessment. Past and Present. Abingdon: Routledge. 
+Ivarsson, J. and Carroll, M. (1998). Subtitling. Simrisham: TransEdit. 
+Janssen, M. et Van Campenhoudt, M. (2005). Terminologie traductive et représentation des 
+connaissances : l’usage des relations hyponymiques. Langages, 157, pp. 63-80. 
+Juel, H. (2006). Defining Documentary Film. P.O.V. A Danish Journal of Film Studies, 22, 
+pp. 5-15. 
+Kabara, T. (2015). What is Gained in Subtitling: How Film Subtitles Can Expand the Source 
+Text. TranscUlturAl, 7(1), pp. 166-179. 
+Kingscott, G. (2013). An approach to Translation Quality Assessment. [πρόσβαση 18 
+Ιουλίου 2019]. ∆ιαθέσιμο από https://chicata.org/wp-content/uploads/2013/03/member-
+announcement-03-17.2013-Kingscott-Article-on-Quality-Assessment.pdf 
+Larose, R. (1989). Théories contemporaines de la traduction. 2e éd. Québec : PUQ. 
+Lavault-Olléon, É. et Allignol, C. (2014). La notion d’acceptabilité en traduction 
+professionnelle : où placer le curseur ? ILCEA, 19. [πρόσβαση 18 Ιουλίου 2019]. ∆ιαθέσιμο 
+από https://journals.openedition.org/ilcea/2455 
+L’Homme, M.-C. (2004). La terminologie : principes et techniques. Montréal : PUM. 
+Lozano, D. and Matamala, A. (2009). The Translation of Medical Terminology in TV Fiction 
+Series. VIAL. Vigo International Journal of Linguistics, 6, pp. 73–88. 
+Luyken, G.-M., Herbst, Th., Langham-Brown, J., Reid, H. and Spinhof, H. (1991). 
+Overcoming Language Barriers in Television. Dubbing and Subtitling for the European 
+Audience. Media Monographs 13. Manchester: European Institute for the Media. 
+Maier, C. (2000). Introduction. The Translator, 6(2), pp. 137-148. 
+Matamala, A. (2010). Terminological challenges in the translation of science documentaries: 
+a case study. Across Languages and Cultures, 11, pp. 255-272. 
+Matamala, A. (2009). Translating documentaries: From Neanderthals to the Supernanny. 
+Perspectives, 17, pp. 93-107. 
+Morin-Hernández, K. (2009). La révision comme clé de la gestion de la qualité des 
+traductions en contexte professionnel. Thèse de doctorat. Université Rennes 2. [πρόσβαση 
+18 
+Ιουλίου 
+2019]. 
+∆ιαθέσιμο 
+από 
+http://hal.archives-
+ouvertes.fr/docs/00/38/32/66/PDF/TheseMorinHernandez.pdf 
+Mossop, B. (2014). Revising and Editing for Translators. 3rd edition. London: Routledge. 
+Nord, Ch. (2005). Text analysis in translation. 2nd edition. Amsterdam/New York: Rodopi. 
+O’Brien, Sh. (2012). Towards a dynamic quality evaluation model for translation. JosTrans, 
+17 
+pp. 
+55-77. 
+[πρόσβαση 
+18 
+Ιουλίου 
+2019]. 
+∆ιαθέσιμο 
+από 
+http://www.jostrans.org/issue17/art_obrien.pdf 
+Pedersen, J. (2011). Subtitling Norms for Television: An Exploration Focussing on 
+Extralinguistic Cultural References. Amsterdam / Philadelphia. John Benjamins. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+298 
+Scarpa, F. (2010). La traduction spécialisée. Une approche professionnelle à 
+l’enseignement de la traduction. Ottawa : Les Presses Universitaires d’Ottawa.  
+Silva, R. (2005). Dynamique dénominative et productivité morphologique en imagerie 
+médicale. Στο: H. Béjoint et F. Maniez (dir.) De la mesure dans les termes. Lyon : PUL, pp. 
+381-393. 
+Toudic, D., Hernandez Morin, K., Moreau, F., Barbin, F. and Phuez, G. (2014). Du contexte 
+didactique aux pratiques professionnelles : proposition d’une grille multicritères pour 
+l’évaluation de la qualité en traduction spécialisée. ILCEA, 19. [πρόσβαση 18 Ιουλίου 2019]. 
+∆ιαθέσιμο από http://journals.openedition.org/ilcea/2517 
+Williams, M. (2009). Translation Quality Assessment. Mutatis Mutandis, 2(1), pp. 3-23. 
+Λεξικά και λοιποί γλωσσικοί πόροι 
+Μούσλεχ, Τ. (2008). Φαρμακευτική αντιμετώπιση της παχυσαρκίας. Ελληνικά ∆ιαβητολογικά 
+Χρονικά, 21(2), σσ. 138-151. 
+Cambridge dictionary. ∆ιαθέσιμο από https://dictionary.cambridge.org 
+Dorland’s Medical Dictionary Online. https://www.dorlandsonline.com/dorland/dictionary 
+EFET. 
+∆ισφαινόλη 
+Α. 
+[πρόσβαση 
+18 
+Ιουλίου 
+2019]. 
+∆ιαθέσιμο 
+από 
+http://www.efet.gr/images/efet_res/docs/library/Disfainoli_A_new.pdf 
+English Oxford dictionaries online. ∆ιαθέσιμο από https://en.oxforddictionaries.com/ 
+European Chemicals Agency. ∆ισφαινόλη Α. [πρόσβαση 18 Ιουλίου 2019]. ∆ιαθέσιμο από 
+https://chemicalsinourlife.echa.europa.eu/el/bisphenol-a  
+European Commission. Συχνές ερωτήσεις: Ενδοκρινικοί διαταράκτες. [πρόσβαση 18 Ιουλίου 
+2019]. ∆ιαθέσιμο από http://europa.eu/rapid/press-release_MEMO-16-2151_el.htm 
+Harvard 
+medical 
+dictionary 
+of 
+health 
+terms. 
+∆ιαθέσιμο 
+από 
+https://www.health.harvard.edu/search?q=Medical+Dictionary+Of+Health+Terms 
+IATE. ∆ιαθέσιμο από https://iate.europa.eu/home 
+Medical Merriam-Webster. ∆ιαθέσιμο από https://www.merriam-webster.com/medical 
+Medical Terms in Lay Language. University of Iowa. [πρόσβαση 18 Ιουλίου 2019]. ∆ιαθέσιμο 
+από https://hso.research.uiowa.edu/medical-terms-lay-language 
+Wolters Kluwer medilexicon. ∆ιαθέσιμο από https://www.medilexicon.com/dictionary 
+ 
+ 
+Θεόδωρος Βυζάς 
+Επιστημονικός συνεργάτης 
+Πανεπιστήμιο Ιωαννίνων – Τμήμα Μετάφρασης και ∆ιερμηνείας 
+Ηλ-ταχ,: vyzas@teiep.gr 
+ 
+ 
+ 

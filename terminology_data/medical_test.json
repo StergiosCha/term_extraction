@@ -1,0 +1,51 @@
+[
+  {
+    "source_term": "cardiovascular system",
+    "target_term": "καρδιαγγειακό σύστημα",
+    "context": "The heart and blood vessels",
+    "domain": "medical"
+  },
+  {
+    "source_term": "myocardial infarction",
+    "target_term": "έμφραγμα του μυοκαρδίου",
+    "context": "Heart attack",
+    "domain": "medical"
+  },
+  {
+    "source_term": "cerebrovascular accident",
+    "target_term": "εγκεφαλικό επεισόδιο",
+    "context": "Stroke",
+    "domain": "medical"
+  },
+  {
+    "source_term": "hypertension",
+    "target_term": "υπέρταση",
+    "context": "High blood pressure",
+    "domain": "medical"
+  },
+  {
+    "source_term": "informed consent",
+    "target_term": "ενημερωμένη συναίνεση",
+    "context": "Patient's agreement after disclosure of medical facts",
+    "domain": "medical"
+  },
+  {
+    "source_term": "placebo",
+    "target_term": "εικονικό φάρμακο",
+    "context": "Inactive substance given as control in clinical trials",
+    "domain": "medical"
+  },
+  {
+    "source_term": "adverse effect",
+    "target_term": "ανεπιθύμητη ενέργεια",
+    "context": "Harmful or unpleasant reaction to medication",
+    "domain": "medical"
+  },
+  {
+    "source_term": "prophylaxis",
+    "target_term": "προφύλαξη",
+    "context": "Preventive treatment",
+    "domain": "medical"
+  }
+]
+

@@ -1,0 +1,435 @@
+SOURCE: http://www.eleto.gr/download/Conferences/8th%20Conference/Papers/8th_03-14_AloizouKyriaki_Paper2_V02.pdf
+
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+84 
+Greek loanwords in the English language 
+    
+Kyriaki Aloizou 
+ABSTRACT 
+The main aims of this study are a) to identify words of Greek origin in the English language and b) to 
+classify the aforementioned words semantically. The present study deals with words of Greek origin 
+which entered the English language in the twentieth century. The Concise Oxford Dictionary was used 
+for this study. All the entries in this dictionary were read, and words of Greek origin were identified and 
+recorded.  
+Numerous Greek words entered the English language in the fifteenth century (e.g. chaos, oligarchy, 
+paradigm, paragraph, timocracy, and so on), in the sixteenth century (e.g. cachexia, catastrophe, 
+comma, enigma, gnosis, onomastic, systole, and so on), in the seventeenth century (e.g. autocracy, 
+autonomy, calligraphy, criterion, misogyny, oasis, stenography, theocracy, and so on),  in the eighteenth 
+century (e.g. cardia, derma, eczema, metalurgy, octopus, and so on), and in the nineteenth century (e.g. 
+bradycardia, callisthenics, cataphatic, cosmopolis, clorophyll, agronomy, akinesia, allogamy, and so on). 
+What differentiates the Greek loanwords of the previous centuries  and the twentieth century is the fact 
+that words of Greek origin which entered the English language in the twentieth century are semantically 
+scientific or technical words and not words for everyday speech. It can be argued that in English most 
+learnt, scientific, or technical words are formed on the morphologic basis of Latin or Greek”. 
+Furthermore it can be pointed out that the Greek vocabulary has provided a mine to be exploited by all 
+modern European languages, either by direct borrowing or via Latin. 
+Δάνειες Λέξεις από την Ελληνική στην Αγγλική Γλώσσα  
+    
+Κυριακή Αλοϊζου  
+ΠΕΡΙΛΗΨΗ 
+Οι κύριοι στόχοι της μελέτης αυτής είναι αφ’ ενός μεν να εντοπίσει λέξεις ελληνικής προέλευσης στην 
+αγγλική γλώσσα, αφ’ ετέρου δε να κατηγοριοποιήσει τις λέξεις αυτές σημασιολογικά. Η μελέτη 
+επικεντρώνεται σε λέξεις ελληνικής προέλευσης που εισήλθαν στην αγγλική γλώσσα τον 20
+ο αιώνα. Το 
+εργαλείο που χρησιμοποιήθηκε είναι το Concise Oxford Dictionary. Όλα τα λήμματα του λεξικού αυτού 
+αναγνώστηκαν και λέξεις ελληνικής προέλευσης αναγνωρίστηκαν και καταγράφηκαν.  
+Αναρίθμητες ελληνικές λέξεις ενσωματώθηκαν στην αγγλική γλώσσα το 15
+ο αιώνα (λ.χ. chaos, 
+oligarchy, paradigm, paragraph, timocracy, κ.ο.κ.), το 16
+ο αιώνα (λ.χ. cachexia, catastrophe, comma, 
+enigma, gnosis, onomastic, systole, κ.ο.κ.), το 17
+ο αιώνα (λ.χ. autocracy, autonomy, calligraphy, 
+criterion, misogyny, oasis, stenography, theocracy, κ.ο.κ.),  το 18
+ο αιώνα (λ.χ. cardia, derma, eczema, 
+metalurgy, octopus, κ.ο.κ.), και το 19
+ο αιώνα (λ.χ. bradycardia, callisthenics, cataphatic, cosmopolis, 
+clorophyll, agronomy, akinesia, allogamy, κ.ο.κ.).  
+Αυτό που διαφοροποιεί τις ελληνικές δάνειες λέξεις των προηγούμενων αιώνων με εκείνες του 20
+ου 
+αιώνα είναι το γεγονός ότι στη δεύτερη περίπτωση (20
+ος αιώνας) οι λέξεις είναι επιστημονικής και 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+85 
+τεχνικής ορολογίας και όχι λέξεις της καθομιλουμένης. Μπορούμε εύκολα να διαπιστώσουμε ότι στην 
+αγγλική γλώσσα οι πιο περίτεχνες και επιστημονικές λέξεις σχηματίζονται στη μορφολογική βάση των 
+ελληνικών ή των λατινικών. Επιπλέον μπορούμε να υποστηρίξουμε ότι η ελληνική γλώσσα αποτελεί μία 
+ανεξάντλητη πηγή την οποία εκμεταλλεύτηκαν όλες οι σύγχρονες Ευρωπαϊκές γλώσσες είτε με απ΄ 
+ευθείας δάνεια είτε μέσω των Λατινικών. 
+ 
+0   Introduction 
+”Kyrie, It is Zeus’ anathema on our epoch and the heresy of our economic method and 
+policies that we should agonize the Scylla of nomismatic plethora and Charybdis of 
+economic anaemia. It is not my idiosyncrasy to be ironic or sarcastic but my diagnosis would 
+be that politicians are rather cryptoplethorists.  …  I apologize for having tyrannised you with 
+my Hellenic phraseology. In my epilogue I emphasize my eulogy to the philoxenous 
+autochthons of this cosmopolitan metropolis and my encomium to you, Kyrie, the 
+stenographers.” 
+This is the speech of Mr. Xenophon Zolotas, the general manager of The National Bank of 
+Greece in the late 50’s when he addressed to the International Monetary Council in New 
+York. His speech is full of words of Greek origin which have been incorporated in the English 
+language. Numerous words entered the English language from the time of Old English up to 
+the twentieth century.  
+1   Aims and scope 
+The main aims of this study are: a) to identify words of Greek origin in the English language 
+and b) to classify the aforementioned words semantically. 
+The present study deals with words of Greek origin which entered the English language in 
+the twentieth century. The Concise Oxford Dictionary [1] was used for this study. All the 
+entries in this dictionary were read, and words of Greek origin were identified and recorded.  
+2   Method 
+The Concise Oxford Dictionary [1] is based on huge amounts of corpus material and other 
+computerised evidence, including the 100-million word British National Corpus, and the 
+citation database of the Oxford World Reading Programme, currently standing at around 48 
+million words. The editors in the preface underline the fact that ”in the 10th edition specially 
+created ’word-formation’ panels have been included to illustrate the many ways in which 
+new (and old) words are formed from other linguistic elements.”  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+86 
+3   Foreign loanwords in the English Language 
+McWhorter [2] states that the vast majority of our [the English] vocabulary originated in 
+foreign languages. He argues that English lost most of its original vocabulary through three 
+main lexical “earthquakes”. When Vikings invaded and settled in the northern half of Britain 
+in 787, they scattered about a thousand words of Old Norse into English. He argues that in 
+the sentence “if I tell you that on a foggy Thursday a sly, dirty-necked, scowling outlaw, 
+skulked into the bank with a knife, ransacked it, and crawled out the window seeming happy” 
+every word came from these Vikings except a, into, the, with, it, and out. 
+In 1066, French speakers took over England for the next two hundred years. McWhorter 
+argues that these French people where Vikings again, having taken over northwestern 
+France and switched to French over the generations; their ancestry was why these French 
+were called Normans- that is Norsemen.  The volume of ordinary ‘English’ words that 
+originated in France is stunning: air, coast, face, flower, joy, people, river, blue, easy, large, 
+pure, chair, change, push, move, trip, wait, pain, music, park, toast, bar, tax, e.t.c.. 
+McWhorter goes on to argue that the “Latinate” layer came after the withdrawal of the 
+French, with the increasing use of English as language of learning- hence client, legal, 
+intellect, pulpit, exclude, necessary, interest, et alia.  
+McWhorter states that the English vocabulary is so shot through with foreign loanwords on 
+all levels that there is no language whose basic vocabulary is mostly akin to ours. He states 
+that there is an analogy between biology and language: plants derive crucial nutrients from 
+the fungi in their roots that process nitrogen for them, for example. Thus life itself, as we 
+know it, is thriving, evolving variations of symbiotic, rather than individual, life forms.   
+4   Results 
+Anatomy 
+agonist, from Gk agōnistēs, “contestant”, from agōn “contest”; nephron, 1930s: from Gk 
+nephros “kidney”; oligodendroglia, 1920s, from Gk oligo-“small”+dendro-“tree”+glia “glue”; 
+splenomegaly: fron splēn-“spleen”+Gk megas, megal-“great”. 
+Anthropology 
+eidos, 1930s, from Gk, lit. “form, type or idea”; pyknic, 1920s, from Gk puknos “thick”+-IC. 
+Archaeology 
+Chalcolithic, C20, from Gk khalkos ”copper” + lithos ”stone”+ - IC; orthostat, C20, from Gk 
+orthostatēs, from orthos “straight or right”+statos “standing”. 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+87 
+Biology 
+actinomycete, 1920s, from Gk aktis, aktin- “ray”+mukētes, pl. of  mukēs “fungus”; 
+allelochemical: 1970s, from Gk allēl-“one another”+chemical; allopatric, 1940s, from Gk allo-
+“other”+Gk patra “fatherland”+ic; auxotroph, 1950s, from L. auxilium ”help”+Gk trophos 
+“feader”; axenic, 1940s, from a-“not”+Gk xenicos “alien, strange”+ic; axoneme, C20: from 
+Gk axon “axis”+nēma “thread”; bacteriophage, 1920s, from bacterium+Gk phagein “eat”; 
+bacteriostat, C20, from bacterium+Gk statos “standing”; centromere, 1920s, from L. 
+centrum+Gk meros “part”; chlamydia, 1960s, from mod. L., from Gk khlamus, khlamud- 
+“cloak”; chromatid, C20, from Gk khrōma, khrōmat- “colour”; clone, C20, from Gk klōn “twig”; 
+diakinesis, C20, from Gk dia-“through”+Gk kinēsis “motion”; diplotene, 1920s, from Gk diplo 
+“double”+Gk tainia “band”; eykaryote, 1960s, from EU-(Gk eu “well”)+KARYO-(from Gk 
+karuon “kernel”)+-ote; gnotobiotic, 1940s, from Gk gnōtos “known”+BIOTIC; kinetochore, 
+C20, from KINETO-(from Gk kinētos “movable”)+Gk khōros ”place”; leptotene, C20, from 
+LEPTO-(from Gk leptos “fine, thin, delicate”)+Gk tainia “band, ribbon”; meme, 1970s, from 
+Gk mimēma “that which is imitated”, on the pattern of gene; micrurgy, 1920s, from MICRO-
+(from Gk mikros “small”)+Gk – ourgia “work”; mitochondrion, C20, mod. L., from Gk mitos 
+”thread”+khondrion (dimin. of khondros ”granule”); morph, C20, from Gk morphē “form”; 
+neuston, C20, via Ger, from Gk, neut. of neustos ”swimming, on the pattern of plankton; 
+pachytene, C20, from Gk pakhus “thick” + tainia “band”; parabiosis, C20, Mod. L. from 
+PARA-(from Gk para ”beside, beyond”)+Gk biōsis “mode of life”; prokaryote (also 
+procaryote), 1960’s, from L. PRO-+Gk karuon “nut, kernel”+-ote, as in zygote; rhizobium, 
+1920s, mod. L. RHIZO-(from Gk rhiza “root”)+Gk bios “life”; schizont, C20, from SCHIZO-
+(from Gk skhizein “to split”)+-ONT; sympatric, C20, from SYM-(from Gr sun “with”)+Gk patra 
+“fatherland”+-ic; synapomorphy, 1960s, from SYN-+APO-+Gk morphē “form”; syngamy, 
+1904, from SYN-+Gk gamos “marriage”; thigmotropism, C20, from Gk thigma 
+“touch”+TROPISM; streptomycete, 1950s, from STREPTO- (from Gk streptos “twisted”)+Gk 
+mukēs, mukēt- “fungus”.  
+Biochemistry 
+actin, 1940, from Gk aktis, aktin- ”ray”+-IN; amphipathic, 1930s, from AMPHI-(of Gk 
+origin)+Gk pathikos (from pathos ”experience”); arachidonic acid, C20, from mod. L. arachis, 
+arachid “peanut” from Gk arak(h)os, –kis + - ONE+-IC; biotin, 1930s, coined in Ger. From 
+Gk bios “life”+-IN; bradykinin, 1940s, from Gk bradus “short”+kinēsis “motion”+-IN; catalase, 
+C20, from CATALYSIS (from Gk katalusis, from kataluein “dissolve”)+-ASE; chalone, C20, 
+from Gk khalōn, khalaein “slacken”, on the patern of hormone; ecdysone, 1950s, from Gk 
+ekdusis “shedding”+-ONE; enkephalin, 1970s, from Gk enkephalos “brain”+-IN; epitope, 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+88 
+1960s, from EPI-(from Gk epi “upon”)+Gk topos “place”; ganglioside, 1940s, from 
+GANGLION (from Gk ganglion “tumour”)+-OSIDE; glucagon, 1920s, from Gk glukus 
+“sweet”+agōn 
+“leading, 
+bringing”; 
+haptoglobin, 
+1940s, 
+from 
+Gk 
+haptein 
+“fasten”+(haemo)globin; heparin, C20, via late L. from Gk hēpar “liver” + - IN; inosine, C20, 
+from Gk is, in- ”fibre, muscle”+-OSE+-INE (of L. origin); kinase, C20, from Gk kinein “to 
+move” + - ASE; kinetin, 1950s, from Gk kinetos “movable”+ - IN; kinin, 1950s, from Gk kinein 
+“to move”+-IN; melatonin, 1950s, from Gk melas “black” + SEROTONIN; methionine, 1920s, 
+from METHYL (from Gk methu “wine”+hulē ”wood”)+Gk theion “sulphur”; oestradiol, 1930s, 
+from OESTRUS (from Gk oistros “gadfly or frenzy”)+DI-+-OL; oestrogen, 1920s, from 
+OESTRUS (from Gk oistros “gadfly or frenzy”)+GEN; oxytocin, 1920s, from Gk oxutokia 
+“sudden delivery” (from oxus “sharp”+tokos “childbirth”)+-IN; pantothenic acid, 1930s, from 
+Gk pantothen “from every side” (with allusion to its widespread occurrence); porphyrin, C20, 
+from Gk porphura ”purple”+-IN; sialic acid, 1950s, from Gk sialon “saliva”+-IC; tocopherol, 
+1930s, from Gk tokos “offspring” + pherein “to bear”+- OL. 
+Botany 
+agamospermy, 1930s, from Gk agamos “unmarried” + sperma “seed”; apomixis,  C20, from 
+APO-(from Gk apo “from, away”)+Gk mixis “mingling”; chamaephyte, C20, from Gk khamai 
+“on the ground”+-PHYTE; coenocyte,  C20, from Gk koinos “common”+-CYTE; nastic, C20, 
+from Gk nastos “squeezed together” + -IC; macrocarpa, C20, mod. L., from MACRO-(from 
+Gk makros “long, large”)+Gk karpos “fruit”; sclerophyll, C20, from Gk sklēros “hard”+ phullon 
+“leaf”. 
+Chemistry 
+actinium, C20, from Gk aktis, aktin- “ray”+IUM; azeotrope, C20, from A-+Gk zein “to 
+boil”+tropos “turning”; catalyst, C20, from CATALYSIS (from Gk katalusis, from kataluein 
+“dissolve”); chromatography, 1930s, from CHROMATO-(from Gk khrōma, khrōmat- “colour”) 
++ GRAPHY (from Gk grapheia “writing”); deuterium, 1930s, mod. L., from Gk deuteros 
+“second”; eicosapentaenoic acid, C20, from Gk eicosa- “twenty” + penta- “five” + - ENE + -
+OIC; enantiomer, 1930s, from Gk enantios “opposite”+ - MER; isotope, 1913, from ISO-
+(from Gk isos “equal”)+Gk topos “place”; lipid, C20, from Fr. based on Gk lipos “fat”; 
+lyophillic, C20, from Gk luein “loosen, dissolve”+philos “loving”; monotropy, C20, from 
+MONO-(from Gk monos “single”+Gk tropē “turning”)+-Y; tautomer, C20, blend of  TAUTO-
+(from Gk tauto “the same”) + ISOMER; technetium, 1940s, mod. L. from Gk tekhnētos 
+“artificial”; thixotropy, 1920s, from Gk thixis “touching”+tropē “turning”; tritium, 1930s, from 
+mod. L., from Gk tritos “third”. 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+89 
+Cosmology 
+anthropic principle, 1970s, anthropic from Gk anthrōpikos, anthrōpos “human being”. 
+Ecology 
+allelopathy, 1950s, from Gk allēl- “one another”+-PATHY (from Gk patheia “suffering, 
+feeling”); biota, C20, mod. L. from Gk biotē ”life”; biotope, 1920s, from Ger. Biotop, based on 
+Gk topos “place”; hydric, C20, from HYDRO- (from Gk hudōr “water”)+-IC; mesic, 1920s, 
+from Gk mesos “middle” + -IC; periphyton, 1960s, from Gk peri- “around”+ phuton “plant”; 
+stenohaline, 1930s, from Gk stenos “narrow” + halinos “of salt”; xeric, 1920s, from XERO-
+(from Gk xēros “dry”)+-IC. 
+Economics-Mathematics-Statistics 
+econometrics, 1930s, from ECONOMY (via L., from Gk oikonomia “household 
+management”, based on oikos “house”+ nemein “manage”), on the pattern of biometrics; 
+ergodic, C20, from Ger, from Gk ergon “work”+ hodos “way”+-IC; kurtosis, C20, from Gk, 
+kurtōsis “a bulging” from kurtos “bulging, convex”; monopsony, 1930s, from MONO- (from 
+Gk monos “single” + Gk opsōnein “buy provisions”)+-Y; oligopsony, 1940s, from OLIGO- 
+(from Gk oligoi “few” + Gk opsōnein “buy provisions”)+-Y, on the pattern of monopsony.  
+Electronics 
+dynode, 1930s, from Gk dunamis ”power”+ODE (from Gk hodos “way”); Heterodyne, C20, 
+from HETERO-(from Gk heteros “other”)+-dyne (from Gk dunamis ”power”). 
+Genetics 
+allelomorph, C20, from Gk allēl – “one another” + morphē “form”; disomy, C20, from DI-(from 
+Gk dis “twice”)+-SOME (from Gk sōma “body”) + -Y; pleiotropy, 1930s, from Gk pleiōn 
+“more” + tropē “turning”; polytene, 1930s, from POLY-(from Gk polus “much”)+Gk tainia 
+“band”; telomere, 1940s, from Gk telos “end, part”.  
+Geology 
+allochthonous, C20, from Gk allos “other” + Gk khthōn “earth”+-OUS; asthenosphere, C20, 
+from Gk asthenēs “weak”+SPHERE; batholith, C20, coined in Ger. from Gk bathos “depth”+-
+LITH (from Gk lithos “stone”); cataclasis, 1950s, from CATA-(from Gk kata “down”)+Gk 
+klasis “breaking”; craton , 1930s, from Gk kratos “strength”; deuteric, C20, from DEYTERO-
+(second)+-IC; diatreme, C20, from DIA-(from Gk dia “through”)+Gk trēma “perforation”; 
+lopolith, C20, from Gk lopos “basin” +-LITH (from Gk lithos “stone”); migmatite, C20, from Gk 
+migma, migmat- “mixture”+ITE; Proterozoic, C20, from Gk proteros ”former”+ zōē “life”+-IC; 
+speleothem, 1950s, from Gk spēlaion “cave” + thema “deposit”; tektite, C20, coinde in Ger., 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+90 
+from Gk tēktos “molten”+-ITE; tephra, 1940s, from Gk, lit. “ash, ashes”. 
+Linguistics-Grammar-Phonetics 
+acrolect, 1960s, from Gk akron “sumit”+-LECT; allomorph, 1940s, from ALLO-(from Gk allos 
+“other”)+MORPHEME (from Gk morphē “form”); allophone, 1930s, from ALLO-(from Gk 
+allos “other”)+PHONEME (from Gk phōnē, “sound, voice”); basilect, 1960s, from BASIS(via 
+L. from Gk “stepping”)+-lect; cataphora, 1970s, from CATA- (from Gk kata “down”), on the 
+pattern of anaphora; deixis, 1940s, from Gk, lit. “reference” from deiknunai “to show”; 
+diglossia, 1950s, from Gk diglōssos “bilingual”; ergative, 1950s, from Gk, ergatēs “worker” + 
+-IVE; graph, 1930s, from Gk graphē “writing”; idiolect, 1940s, from IDIO-(from Gk idios “own, 
+distinct”)+-lect.; isogloss, C20, from ISO- (from Gk isos “equal”)+Gk glōssa “tongue, word”; 
+katharevousa, C20, mod. Gk, lit. ”purified”; lexeme, 1940s, from LEXICON (from Gk lexikon, 
+biblion “book of words”, from lexis “word”)+-EME; lexis, 1950s, from Gk, lit. “word”; 
+monosemy, 1950s, from MONO-(from Gk monos “single”)+Gk sēma “sign”+-Y; 
+onomasiology, C20, from Gk onomasia “term”+-LOGY (from Gk logos “word, discourse”); 
+phatic, 1920s, from Gk phatos “spoken” or phatikos “affirming”; polysemy, C20, from POLY-
+(from Gk polus “much”)+Gk sēma “sign”; rhotic, 1960s, from Gk rhot-, stem of rho+-IC; 
+sememe, C20, from SEME (from Gk sēma “sign”)+-EME; semiology, C20, from Gk sēmeion 
+“sign” + LOGY (from Gk logos “word, discourse”); semiosis, C20, from Gk sēmeiosis 
+“(inference from) a sign” ; tagmeme, 1930s, from Gk tagma “arrangement”+-EME. 
+Medicine 
+achalasia, C20, from A-+Gk khalasis “loosening” + - IA; agnosia, C20, coined in Ger, from 
+Gk agnōsia “ignorance”; amniocentesis, 1950s, from AMNION (from Gk amnion “caul”)+Gk 
+kentēsis “pricking”; anaphylaxis, C20, mod. L. from Gk ana- “again”+ phulaxis “guarding”; 
+atherosclerosis, C20, from Gk athērē “groats”+sklērōsis; bruxism, 1930s, from Gk brukhein 
+“gnash the teeth”+-ISM; cardiomegaly, 1960s, from CARDIO-(from Gk kardia “heart”)+Gk 
+megas, megal-“great”; cholangiography, 1930s, coined in Sp. from Gk khole “bile”+angeion 
+“vessel”+graphia “writing”; dermabrasion, 1950s, from Gk derma, dermat- “skin”; 
+deuteranopia, C20, from DEYTERO-“second”+AN-+-OPIA (from Gk ōps, ōp- “eye, face”); 
+diathermy, C20, from DIA-(from Gk dia ”through”)+Gk thermon “heat”; dysplasia, 1930s, 
+from DYS- (from Gk dus “bad”)+Gk plasis “formation”; dyspraxia C20, drom DYS- (from Gk 
+dus “bad”)+Gk praxis ”action”; endarterectomy, C20, from ENDO- (from Gk endon “within ”) 
++ ARTERY (from Gk artēria)+-ECTOMY (from Gk ektomē “excision”); enteral, C20, from Gk 
+enteron “intestine”+-AL; geriatric, 1920s, from Gk gēras “old age” + iatros “doctor”,  on the 
+pattern of paediatric; haemopoiesis, C20, from HAEMO-(from Gk haima “blood”)+Gk poiēsis 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+91 
+“making”; iontophoresis, C20, from ION (from Gk , neut. pres. part of ienai “go”, on the 
+pattern of electrophoresis; iridology, C20, from Gk iris, irid- “iris” + -LOGY (from Gk logos 
+“word, discourse”); mastectomy, 1920s, from Gk mastos “breast”+-ECTOMY (from Gk 
+ektomē “excision”); neuroleptic, C20, from NEURO-(from Gk neuron “nerve, tendon”)+Gk 
+lēpsis “seizing”+-IC; neutropenia, C20, from L. NEUTRAL + Gk penia “poverty, lack”; 
+oncocerciasis, C20, from mod. L. Onchocerca (from Gk onkos “barb”+kerkos “tail”)+-IASIS; 
+orthodontics, C20, from ORTHO-(from Gk orthos “straight, right”)+Gk odous, odont- “tooth”; 
+palilalia, C20, from Fr., from Gk palin “again”+lalia “speech, chatter”; pancytopenia, C20, 
+from PAN-(from Gk pan “all”)+CYTO-(from Gk kutos “vessel”)+Gk penia “lack”; parenteral, 
+C20, from PARA-(from Gk para “beside, beyond”+Gk enteron “intestine”)+-AL; periodontics, 
+1940s, from PERI-(from Gk peri “about, around”)+Gk odous, odont- “tooth” +-ICS; 
+plasmapheresis, 1920s, from PLASMA (from Gk plasma, from plassein “to shape”)+ Gk 
+aphairesis “taking away”; podiatry, C20, from Gk pous, pod- “foot” + iatros “physician”; 
+progeria, C20, mod. L. from Gk progērōs “prematurely old”; pyoderma, 1930s, from Gk puo- 
+(from puon “pus”)+derma “skin”; rabdomyolysis, 1950s, from Gk rabdos “rod”+ MYO-+-
+LYSIS; thalassaemia, 1930s, from Gk thalassa “sea”+-AEMIA (from Gk haema “blood”); 
+thrombocytopenia, 1920s, from THROMBOCYTE + Gk penia “poverty”; toponym, 1930s, 
+from Gk topos “place”+ onoma “a name”; topos, 1940s, from Gk, lit. “place”; tritanopia, C20, 
+from Gk tritos “third”+AN+-OPIA (from Gk ōps, ōp- “eye, face”); trypanosome, C20, from Gk, 
+trupanon “borer”+-SOME (from Gk sōma “body”). 
+Meteorology 
+anabatic, C20, from Gk anabatikos, from anabatēs “a person who ascends”; geostrophic, 
+C20, from GEO-(from Gk gē “earth”)+Gk strophē “a turn”; isohel, C20, from ISO- (from Gk 
+isos “equal”)+Gk hēlios “sun”; isopleth, C20, from Gk isoplēthēs “equal in quantity”, from Gk 
+isos “equal” + plēthos “multitude, quantity”; okta, 1950s, alt. of OCTA-(from Gk oktō “eight”). 
+Paleontology 
+ankylosaur, C20, from mod. L. Ankylosaurus, from Gk ankulus+sauros ”lizard”; archosaur, 
+1930s, from Gk arkhos ”chief” or arkhōn “ruler”+SAUR (from Gk sauros “lizard”); carnosaur, 
+1930s, from mod. L, from L. caro, carn- “flesh”+Gk sauros ”lizard”; ceratopsian, C20, from 
+mod. L. , Ceratopsia (from Gk keras, kerat- “horn”+ops “face”)+-AN; Chalicothere, C20, from 
+mod. L. Chalicotherium (genus name), from Gk khalix, khalik- “gravel”+thērion “wild animal”; 
+coelurosaur, 1950s, from Gk koilos “hollow”+oura “tail”+sauros “lizard”; dromaeosaur, 
+1970s, from mod. L. Dromaeosauridae, based on Gk dromaios “swift-running”+sauros 
+“lizard”; mesosaur, 1950s, from Gk mesos “middle”+ Gk sauros “lizard”; ornithischian,  C20, 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+92 
+from mod. L. Ornithischia, from Gk ornis, ornith- “bird”+iskhion “hip joint”; pelycosaur, C20, 
+from Gk pelux, peluk- “baul”+ Gk sauros “lizard”; taphonomy, 1940s, from Gk taphos 
+”grave”+-NOMY (from Gk nomos ”law”); theropod, 1930s, from mod.L. Theropoda, from Gk 
+thēr “beast” + pous, pod- “foot”. 
+Philosophy 
+alethic, 1950s, from Gk alētheia “truth”+-IC; anthroposophy, C20, from ANTHROPO-(from 
+Gk anthrōpos “human being”)+Gk sophia “wisdom”; deontic, C20, from Gk, deont- “being 
+right” (from dei “it is right”)+-IC; holism, 1920s, from HOLO-(from Gk holos “whole”)+-ISM 
+(via L. from Gk –ismos); ontic,1940s, from Gk ōn, ont- “being”+-IC; pataphysics. 1940s, from 
+Gk ta epi ta metaphusika, lit. “the works imposed on the metaphysics”, introduced by the Fr. 
+Absurdist writer Alfred Jarry. 
+Physics 
+baryon, 1950s, from Gk barus “heavy”+-ON; electrophoresis, C20, from ELECTRO- (from 
+Gk ēlektron, “amber”) + Gk phorēsis “being carried”; enthalpy, 1920s, from Gk enthalpein, 
+from en- “within”+ thalpein “to heat”; handron, 1960s, from Gk hadros “balky”+ -ON; 
+hodoscope, C20, from Gk hodos “way” + -SCOPE (from Gk skopein “examine, look at”); 
+hyperon, 1960s, from HYPER-(from Gk huper “over, beyond”)+-ON; lepton, 1940s, from Gk 
+leptos “small”+-ON; meson, 1930s, from MESO- (from Gk mesos “middle”)+-ON; phonon, 
+1930s, from Gk phōnē “sound”, on the pattern of photon; photon, C20, from Gk phōs, phōt- 
+“light”, on the pattern of electron; proton, 1920s, from Gk, neut. of prōtos “first”; rheology, 
+1920s, from Gk rheos “stream”+-LOGY (from Gk logos “word, discourse”); spinthariscope, 
+C20, formed irregularly from Gk spintharis “spark” + - SCOPE (from Gk skopein “examine, 
+look at”. 
+Physiology 
+allogeneic, 1960s, from ALLO- (from Gk allos “other”)+ Gk genea “race, stock”+-IC; 
+antidromic, C20, from ANTI-+Gk dromos “running”+-IC; apocrine, C20, from APO-(from Gk 
+apo “from, away”)+Gk krinein “to separate”; apoptosis, 1970s, from Gk apoptōsis “falling off”; 
+atherogenic, 1950s, from Gk athērōma+-GENIC (from Gk genēs “born”); cholinergic, 1930s, 
+from CHOLINE (from Gk kholē “bile”) +Gk ergon “work”+IC; ectomorph, 1940s, ECTO-(from 
+Gk ektos  “outside”) + - MORPH (from Gk morphē “form”); endocrine, C20, from ENDO-
+(from Gk endon “within”)+Gk krinein “sift”; endomorph, 1940s, from ENDO-(from Gk endon 
+“within”)+-MORPH(from Gk morphē “form”); epicritic, C20, from Gk, epikritikos “giving 
+judgement over”+-IC; exocrine, C20 from EXO- (from Gk exō “outside”)+Gk krinein “sift”; 
+hapten, C20, from Gk haptein “fasten”; histiocyte, C20, from Gk histion (dimin. of histos 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+93 
+“tissue, web”) +-CYTE; hormone, C20, from Gk hormōn, pres. part of horman “set in 
+motion”; mesomorph, 1920s, MESO- (from Gk  mesos “middle”) + - MORPH (from Gk 
+morphē “form”); natriuresis, 1950s, from NATRON (of Fr. origin)+Gk ourēsis “urination”; 
+orthodromic, 1940s, from ORTHO – (from Gk orthos “straight, right)+Gk dromos “running”+ -
+IC; paracrine, 1970s, from PARA-(from Gk para “beside, beyond”)+Gk krinein “to separate”; 
+scotopic, C20, from Gk skotos “darkness”+-OPIA (from Gk ōps, ōp- “eye, face”)+-IC; 
+xenogeneic, 1960s, from XENO-(from Gk xenos “stranger”)+Gk genea “race, stock”+-IC. 
+Psychiatry-Psychology-Psychoanalysis 
+ailurophobia, C20, from Gk ailuros ”cat”+-PHOBIA (from Gk); algolagnia, C20, from Ger., 
+from Gr algos “pain”+ lagneia “lust”; anaclitic, 1920s, from Gk anaklitos” for reclining”; 
+arachnophobia, 1920s, mod. L. from Gk arakhnē “spider”+-PHOBIA (from Gk); autism, C20, 
+from Gk autos “self”+-ISM; cathexis, 1920s, from Gk kathexis “retention”, translating a Ger. 
+term coined by Freud; cyclothymia, 1920s, from CYCLO-(from Gk kuklos “circle”); 
+dysgraphia, 1930s, from DYS- (from Gk dus- “bad, difficult”)+Gk – grapheia “writing”; 
+echopraxia, C20, mod. L., from Gk ēkhō “echo”+ praxis “action”; eidetic, 1920s, coined in 
+Ger, from Gk eidētikos, from eidos “form”; hypnopompic, C20, from Gk hupnos 
+“sleep”+pompē “sending away”+-IC; nyctophobia, C20, from Gk nux, nukt- “night”+PHOBIA 
+(from Gk); psychedelic, 1950s, from PSYCHE (from Gk psukhē “breath, life, soul”)+Gk dēlos 
+“clear, manifest”+-IC; schizophrenia, C20, mod. L. from Gk skhizein “to split”+phrēn “mind”; 
+triskaidekaphobia, C20, from Gk treiskaideka ”thirteen” + -PHOBIA (from Gk). 
+Theology 
+dianetics, 1950s, from Gk dianoētikos “relating to thought”+ICS; eschaton, 1930s, from Gk 
+eskhaton “last”; kairos, C20, from Gk, lit. “opportunity”; koinonia, C20, from Gk koinōnia 
+”fellowship”. 
+Zoology 
+diapsid, C20, from mod. L. Diapsida (name of a subclass), from DI-+Gk apsis, apsid- “arch”; 
+digenean, 1960s, from mod. L., from Gk di- “twice” + genea “generation, race”+AN; 
+monogenean, 1960s, from mod. L. Monogenea (from Gk monos “single”+genea 
+“generation”)+-AN; pheromone, 1950s, from Gk pherein “convey”+ HORMONE (of Gk 
+origin); philopatric, 1940s, from PHILO-(from Gk philos “loving”)+Gk patra “fatherland”+-IC; 
+phoresy, 1920s, from Fr., from Gk phorēsis “being carried”; protostome, 1950s, from 
+PROTO-(from Gk prōtos “first”)+Gk stoma “mouth”; sparid, 1960s, from mod. L. Sparidae, 
+via L. from Gk sparos “sea bream”; tagma, C20, from Gk, lit. ”something arranged”, from 
+tassein ”set in order”. 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+94 
+5   Discussion 
+Numerous Greek words entered the English language in the fifteenth century (e.g. chaos, 
+oligarchy, paradigm, paragraph, timocracy, and so on), in the sixteenth century (e.g. 
+cachexia, catastrophe, comma, enigma, gnosis, onomastic, systole, and so on), in the 
+seventeenth century (e.g. autocracy, autonomy, calligraphy, criterion, misogyny, oasis, 
+stenography, theocracy, and so on),  in the eighteenth century (e.g. cardia, derma, eczema, 
+metalurgy, octopus, and so on), and in the nineteenth century (e.g. bradycardia, 
+callisthenics, cataphatic, cosmopolis, clorophyll, agronomy, akinesia, allogamy, and so on). 
+What differentiates the Greek loanwords of the previous centuries  and the twentieth century 
+is the fact that words of Greek origin which entered the English language in the twentieth 
+century are semantically scientific or technical words and not words for everyday speech. 
+Marchand [3] argues that “in English, French, and German, to give three principal European 
+languages, most learnt, scientific, or technical words are formed on the morphologic basis of 
+Latin or Greek”. Asher (1994a:1495) also points out that “[the Greek vocabulary] has 
+provided a mine to be exploited by all modern European languages, either by direct 
+borrowing or via Latin”. 
+ 
+6   References 
+[1]  
+The Concise Oxford Dictionary, NY: Oxford University Press, 2009. 
+[2] 
+McWhorter, J., The power of Babel, NY, Harper Perennial, 2003, p. 91. 
+[3]  
+Marchand, H., 1969, English Word-formation, Munich, Beck’s, 1969, p.  7.  
+[4]  
+Asher, R.E., The Encyclopedia of Language and Linguistics, Vol 3, Oxford, Pergamon 
+Press, 1994.  
+ 
+ 
+Αλοΐζου Κυριακή 
+Καθηγήτρια αγγλικής και ελληνικής φιλολογίας, MA in English 
+Αγίων Θεοδώρων 45, 131 21 Ίλιον 
+kaloizou@sch.gr 
+ 

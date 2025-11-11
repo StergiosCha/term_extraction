@@ -1,0 +1,388 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_26-14-SchoppJurgenPaper_V03.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+1 
+26   The European Translation Standard EN 15038 and it’s 
+Terminology – A Mirror of Missing Professionalism? 
+ 
+Jürgen F. Schopp 
+ABSTRACT 
+The European Standard EN 15038 Translation Services – Service Requirements, approved by CEN on 
+April 13, 2006, has been given the status of a national standard in 29 European countries in November 
+2006. The purpose of this standard is “to establish and define the requirements for the provision of 
+quality services by translation service providers” and “to provide translation service providers with a set 
+of procedures and requirements to meet market needs” (p. 7). 
+With the help of the analysis of central terms and concepts such as ‘translate’, ‘translation process’, 
+‘source text’, ‘target text’, ‘localisation’, ‘proofreading’, ‘style guide’ and ‘added value services’, I will 
+demonstrate that EN 15038 is a compromise amongst the 29 translation cultures involved. It mirrors the 
+semi-professional translational practices existing in many of these translation cultures and the 
+commonly held misconceptions of the market about translation. This means that the terminology of 
+translation used by translators themselves is the biggest obstacle in transforming the trade of translation 
+into a genuine profession. This was exactly one of the goals the EN 15038 is set out to achieve. 
+ 
+Το Ευρωπαϊκό Πρότυπο μετάφρασης EN 15038 και η ορολογία του – 
+Καθρέφτης έλλειψης επαγγελματισμού ; 
+ 
+Jürgen F. Schopp 
+ΠΕΡΙΛΗΨΗ 
+Το Νοέμβριο του 2006, 29 ευρωπαϊκές χώρες είχαν ήδη υιοθετήσει ως εθνικό πρότυπο το Ευρωπαϊκό 
+πρότυπο EN 15038 Translation services – Service Requirements, που εγκρίθηκε από την CEN στις 13 
+Απριλίου 2006. Σκοπός αυτού του προτύπου είναι «η καθιέρωση και ο ορισμός των προαπαιτήσεων για 
+την παροχή ποιοτικών υπηρεσιών από παροχείς υπηρεσιών μετάφρασης» και «η διάθεση στους 
+παροχείς υπηρεσιών ενός συνόλου διαδικασιών και προαπαιτήσεων ώστε να ανταποκριθούν στις 
+ανάγκες της αγοράς» (σ. 7). 
+Με την αρωγή της ανάλυσης βασικών όρων και εννοιών όπως «μεταφράζω», «μεταφραστική 
+διαδικασία», «κείμενο αφετηρίας», «κείμενο αφίξεως», «τοπική προσαρμογή», «επιμέλεια κειμένων», 
+«προδιαγραφές» και «υπηρεσίες προστιθέμενης αξίας» θα αποδείξω ότι το EN 15038 συμβιβάζει τις 29 
+μεταφραστικές κουλτούρες που το υιοθέτησαν· αντανακλά τις ημιεπαγγελματικές μεταφραστικές 
+πρακτικές σε πολλές από αυτές και την υφιστάμενη, λανθασμένη αντίληψη περί μετάφρασης της 
+αγοράς. Αυτό σημαίνει ότι η ορολογία της μετάφρασης που χρησιμοποιούν οι ίδιοι οι μεταφραστές είναι 
+το μεγαλύτερο εμπόδιο για την εξέλιξη της μετάφρασης σε πραγματικό επάγγελμα, σύμφωνα και με 
+έναν από τους στόχους του EN 15038. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+2 
+ 
+1   The Translational Status quo 
+The reality in the translation market seems quite confusing and inhomogeneous. There are 
+different translation providers with different backgrounds and different working principles and 
+concepts of ‘translation’ – in other words – with a more or less degree of professionalism. 
+There is therefore a global tendency to set standards for translation services. One of these 
+standards is the European Standard EN 15038 Translation Services – Service 
+Requirements, approved by CEN on April 13, 2006. This set of standard has been given the 
+status of a national standard by 29 European countries in November 2006 (EN 15038 
+2006:5). The main purpose of this was “to improve the quality of translation services 
+throughout Europe“ (Hübner 2007:13). However, there are also a number of other purposes. 
+One was “to raise the profile of the translation industry by bringing it into line with other 
+‘standardised’ industries and giving it a more professional image” (Hübner 2007:13; see also 
+Enrique López-Ebri 2004:11). This can be understood by some means or other as accepting 
+that translation practice is still quite far away from real professionalism and that the 
+translation trade still cannot be seen as a real profession. 
+Another purpose was “to meet market needs” (EN 15038 2006:7). This purpose has to be 
+seen in contradiction to the other purposes because of the expectations and demands of the 
+market such as cheap prices, often unrealistically short deadlines and delivery dates, 
+combined with demands for high quality on the one hand and the principles (which often 
+haven’t yet been fully realized) of professional action on the other hand. 
+Thus when looking at the status quo of the translation market, a number of key questions 
+arise: Do translators, clients, commissioners and users of translation products (‘the market’) 
+understand the terms ‘translation’ and ‘translate’ in the same way? How do translators 
+practice their profession? Is it really professional or is it rather semi-professional? What do 
+practicing translators (and translation scholars) understand by the term ‘professional’? How 
+do other (the so called) “real” professions define ‘professional’ for themselves? 
+Looking closer at the market, there is a growing tendency for global activity of the translation 
+industry, among them the so called ‘envelop switchers’ – smart business people who are 
+buying cheap translation services from freelance translators and selling them to their clients 
+without any quality control. In this way, translators are increasingly becoming academic 
+slaves of the translation industry paid per word or character. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+3 
+The main reasons for the status quo are misconceptions about ‘translation’ among clients, 
+commissioners and users of translations and also misconceptions about ‘translation’ and 
+‘professionalism’ among practising translators and translation scholars. The governing 
+customs are often not very professional – translation as a profession is still in the developing 
+process. 
+ 
+2   Different Concepts of ‘Translation’ and the Professional Translation 
+Process 
+Among practitioners as well as translation scholars, the term ‘translation’ is used to mean 
+differing things: (1) the systematic substitution of elements from two language systems 
+(‘language translation’ or ‘linguistic translation’); (2) the intercultural communicative action 
+per se; (3) the production of only the verbal form of the text in the target language, often 
+practiced by translation teachers themselves as a job on the side, and finally (4) the complex 
+professional process of producing a communication tool which transfers a message in 
+(primarily public) intercultural communications. 
+To understand the translated text as a communication tool as such, we must consider that 
+every text consists of several levels: (1) the communicative structure (tectonics), (2) the 
+verbal content (texture) and (3) the visual form (see Schopp 1996). This last characteristic 
+has traditionally been called typography when the text was distributed in printed form (see 
+picture 1). To this we must nowadays also include texts which are published in electronic 
+mode (WWW, CD-ROM, DVD, etc.). 
+ 
+ 
+ 
+ 
+Picture 1:   
+The TT+T-Model (see Schopp 2005:61) 
+ 
+ 
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+4 
+ 
+Often the ‘translation process’ has been seen as a purely formulating process of the target 
+text, in other words, as a mere verbal operation based on the text analysis of the source text 
+and not on a holistic analysis of the commission. But in recent times, translators have been 
+faced more than ever with issues related to typography and layout. Text-processing and 
+desktop publishing software are now part of the daily routine of almost all translators. The 
+use of such software has resulted in a new type of translation product – the ready-to-print or 
+ready-to-publish translation (see Schopp 2002:271). The fact is that translators nowadays 
+are being required to take over functions that previously were the responsibility of trained 
+experts in typography. So translators must deal with typography and layout in several parts 
+of the translation process. Source texts are usually in printed (i.e. typographic) mode. Target 
+texts (translations) in most cases will be published either traditionally as a printed document 
+or often nowadays as a digital, or electronic document. Thus in many cases nowadays the 
+translator is also producing the visual form of the text (typography, layout). 
+In my opinion, every translation process begins with the request of the client. After the 
+analysis of the task, the cost calculation, the offer, the confirmation of the order and the 
+contract – Mackenzie (2004:162f) calls this “pre-translation” – follows the production of the 
+verbal form of the target text (including text analysis, terminological work, revision, etc).  
+One central question is the scope of the translation service. The translator has to know 
+whether the translation is an intermediate product which gets its final shape with the help of 
+other text experts (editor, graphic designer, typographer etc.) or whether it is an end product 
+which will be received by the addressee in just the same mode as the translator handed it in 
+(corresponding to the scope between ‘rough’ and ‘ready for publication’).  
+One very important but often forgotten part of the whole production process is the final 
+proofreading by the client so as to get his/her approval to begin the printing process. If the 
+target text or the print medium consisting the target text is produced in the source culture, 
+then this should be done by the translator because usually only he/she knows (or should 
+know) the typographic conventions of the target culture, the correct spelling of words and 
+names, the correct word divisions etc. 
+Finally follows the billing and other post-translation stages including drawing conclusions to 
+improve the quality system (see Mackenzie 2004:167).  
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+5 
+3   EN 15038 – an Attempt to Raise the Profile of Professional Translation? 
+As mentioned above, one central purpose of EN 15038 was to raise the profile of 
+professional translation. But the questions are the following: To what extend will this 
+standard help translators to become better professionals and to work more professionally? 
+To what extent may the adaptation to “market orientation” consolidate the commonly held 
+misconceptions about translation? 
+In a real profession, the individuals are experts who are better informed and more 
+knowledgeable than the client. They do not merely fulfil the client’s or customer’s wishes; but 
+they analyse the whole situation, advising the client about what type of product is best for 
+his/her needs, which characteristics should the product have or what is or is not feasible 
+under the actual specific circumstances. Real professionals have something what could be 
+defined as ”know-how margin”. In other words: In a real profession there is a ”know-how 
+gap” between the expert and the client. 
+Many translators, however, do not (or cannot) think and work independently. They are 
+trained to only carry out the client’s wish without reflecting on the actual task – how 
+unrealistic these may be. These translators apply not carefully thought out working principles 
+e.g. preparing a translation which is to be published into the B-working language without 
+getting it checked and/or edited by a native speaker text expert. They have a limited 
+comprehension of the scope of the translation process and regard it as a mere linguistic 
+action (for example when referring to “language mediation”). These translators work more 
+like linguistic encoding modems instead of experts of intercultural communication. And last 
+but not least, they show insufficient solidarity with the profession through dumping prices 
+(Prunč 2003:86: “Dumping spiral”). These are not characteristics of a real profession. 
+Asking now what is the level of professionalism in translation practice? The answer is as 
+following: Many translators and in part also translation companies are working more in a 
+semi-professional rather than a professional manner. Thus the purpose of EN 15038 to 
+develop a real professional translation trade is well motivated.  
+But to fulfil this purpose, the concepts of EN 15038 should be based on ideas about 
+professional translation. This doesn’t yet seem to have been accepted by many of the 29 
+European countries involved in formulating the text of the European standard. And the 
+terminology used in the standard should be free of contradictions and the terms used should 
+be defined clearly and unambiguously. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+6 
+ 
+4   Key Concepts and Terms in EN 15038 
+The central concept and term in EN 15038 is ‘translate’, defined as “render information in 
+the source language … into the target language … in written form.” (EN 15038 2006:11). As 
+long as ‘information’ is not defined in the standard, it is not clear whether it means the verbal 
+content or the meaning of the source text or perhaps both together. Looking closer at the 
+description of the translation process, it becomes evident that ‘information’ is used as a 
+synonym for ‘meaning’: “The translator shall transfer the meaning in the source language 
+into the target language in order to produce a text that is in accordance with the rules of the 
+linguistic system of the target language …” (EN 15038 2006:19). This is still a mere 
+traditional concept of ‘translate’ and ‘translation’ which limits the professional action of the 
+translator to a “linguistically correct transfer” (Snell-Hornby 2000:72) – a fact which also 
+mirrors in the concept of ‘translation service’ versus ‘added value service’. 
+From a terminological viewpoint it is questionable to use the term ‘translation’ as a hyponym 
+and ‘translation process’ as a hypernym. Because in both cases ‘translation’ is used in a 
+different meaning. In point 5.4 (Translation process) as the holistic process to get a target 
+culture print medium and at the same time in point 5.4.1 (Translation) as the part of the 
+‘translation process’ in which the target text will be formulated (‘translation’ in the same 
+range as ‘checking’, ‘revision’, ‘review’, ‘proofreading’, and ‘final verification’). 
+Thus the main feature the translator shall pay attention to are terminology, grammar, lexis, 
+style, local conventions and regional standards (“locale”), formatting, and at least target 
+group and purpose of the translation (EN 15038 2006:19 & 21). No word about the possible 
+necessity to add or to omit verbal information, or to formulate a target text on the base of 
+source culture material. No word about the communicative function of translation to build “a 
+text that transmits a certain message” (Mackenzie 2004:158). 
+And another point: Talking about “source text” and “target text” (without defining what ‘text’ 
+means) is like not taken into account that a text never exists without a physical medium. It 
+always appears whether in an aural or visual mode (handwritten, machine written, printed or 
+in digital-electronic mode, sometimes as ‘cross-media’ in both modes). The typography of a 
+text cannot be taken for granted. It is often the result of a special design process carried out 
+by experts. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+7 
+There are indeed some typographical phenomena listed in Annex D (“Style guide”), but not 
+systematically – the whole annex is an unsystematic mixture of verbal and visual 
+phenomena. It would be more professional to make a distinction between the 
+verbal/linguistic and the visual/typographic dimension of the translation. 
+It should also be mentioned that ‘orthotypography’ is named as a part of grammar beside 
+spelling, punctuation and diacritical marks (see EN 15038 2006:19). This phenomenon 
+shows another difficulty of the standard and its translations. While in the English version of 
+the EN, the term ‘orthotypography’ is used (EN 15038 2006:19), in the Finnish version the 
+term ‘typografiset konventiot’ is used (SFS EN 15038:18), which in English means 
+‘typographic conventions’. This, however, does not precisely mean the same as 
+‘orthotypography’. The term ‘typographic conventions’ refers to the culture-specific use of 
+typographical elements. The term ‘orthotypography’, on the other hand – seen from the 
+viewpoint of readability – means the correct use of typographic signs. In the German 
+version, the term ,Rechtschreibung‘ is used (DIN EN 15038:11), which in English means 
+‘orthography’. Again, this does not mean exactly the same as ‘orthotypography’ 
+(‘orthography’ refers to the graphic level in general whereas ‘orthotypography’ refers to the 
+typographic level). This is a proof of the tendency in the standard to use words which 
+meaning is not perfectly understood.  
+Failing to distinguish between the verbal and the visual dimension of the translation is a 
+weak point of the Translation Standard.  Yet another far reaching weak point of the 
+Translation Standard is deliberately making a distinction between ‘translation services’ and 
+‘added value services’.  
+From the viewpoint of the traditional translation, it is understandable to show the client that 
+translation is more than just transferring words from one language to another. But from a 
+modern translatological aspect and seen with the purpose to develop a real translational 
+profession, this is not an optimal solution. The Austrian translation standard – hitherto the 
+most progressive and professional translation standard I know of – defines text procedures 
+like ‘adaptation’, ‘rewriting’, ‘localisation’, ‘technical writing’ and others as typical services of 
+the translator („Transferleistung“, ÖNORM D1200 2000:4). Defining these in EN 15038 
+(2006:31) as ‘Added Value Services’, this standard shows clearly the restricted 
+understanding of the tasks of a professional translator and strengthens the public picture 
+about translation as an act of pure linguistic transfer/transcoding. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+8 
+But also a number of other concepts and terms show the semi-professionalism of EN 15038. 
+On the one hand Annex E gives a non-exhaustive list of ‘added value services’, besides the 
+already named e.g. ‘DTP, graphic and web design’. On the other hand the standard 
+demands that the translator should be able to offer for added value services “the same level 
+of quality to those services as to the services covered by this standard” (EN 15038 2006:21). 
+Again there is a contradiction: Most translators are not able to do this because they do not 
+have professional competence in this services –, let alone knowledge about the typographic 
+conventions of the source culture … Thus how can they offer DTP, graphic design and web 
+design without professional competence, based on a special training? 
+And what is meant by defining “proofreading” as “checking of proofs before publishing”? (EN 
+15038 2006:9). Under some circumstances (for example, when the specific print media for 
+the target culture is produced in the source culture), this service should always be a part of 
+the translation process and the translator should insist upon getting the proofs. But is it that 
+what is meant by “proofreading” in the EN 15038? ‘Proofreading’ is a fuzzy term used for 
+different stages in the production process of a printed or in electronic mode published 
+medium. So “checking of proofs before publishing” could be understood as “checking that 
+the text has the verbal quality which a published text should have”. But it could also (and in 
+this context should) mean “last checking of the proofs through the client and/or the translator 
+before beginning the printing process”. Another question is: Is the translator att all apt to 
+proofread a translation or publication both orthographically and orthotypographically? The 
+description of the “professional competences of translators” (EN 15038 2006:13) do not 
+enumerate such knowledge and skills. And many printed translations show that these things 
+are not yet applied by all translators.  
+ 
+5. EN 15038 – A Mirror of Semi-Professionalism 
+This all shows that terms and concepts in the European Translation Standard EN 15038 are 
+clearly based on the semi-professionalism of the translation trade at this moment. 
+The European standard on translation services cannot be seen as a way to full 
+professionalism in the field of translation, since it is based on a too limited understanding of 
+‘translation’ and ‘translation process’ and further more shows an ignorance of the whole 
+production process of a publication or medium. In addition to this the standard contains a 
+number of not clearly defined terms.  
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+9 
+The standard must be seen as a compromise between the 29 translation cultures involved of 
+which a bigger part does not yet follow real professional working principles. It shows the 
+non-homogeneity of the profession and the semi-professional working principles of 
+practising translators as much as the semi-professionalism of “added value services” like 
+graphic design and web design.  
+And what is worse: The standard assigns the translator the passive role of being an 
+academically trained assistant for bilingual writing often undervalued and underpaid – and 
+not somebody who is an expert in intercultural communication. Therefore EN 15038 is 
+lacking in comparison to the much more professional ÖNORM D 1200 standard. 
+It is to be feared that the standard adapting to “market orientation” may consolidate more the 
+existing commonly held misconceptions about translation rather than stop the ongoing 
+global development to make translators “word slaves” of a translation industry that does not 
+really work in professional manner. Against this background, EN 15038 is more a mirror of 
+the semi-professionalism of the translation trade today than the right way to develop full 
+professionalism. 
+ 
+Bibliography 
+[1] 
+DIN EN 15038 (2006): Übersetzungs-Dienstleistungen – 
+Dienstleistungsanforderungen; Deutsche Fassung EN 15038:2006. Berlin: Deutsches 
+Institut für Normung. 
+[2] 
+EN 15038 (2006): Translation services – Service requirements. Brussels: European 
+Committee for Standardization.  
+[3] 
+ Hübner, Manuela (2007): The new standard for translation services. ITI bulletin 
+January-February 2007, 12–13. 
+[4] 
+López-Ebri, Enrique (2004): Europäische Einigung über die Qualitätssicherung und 
+Zertifizierung von Übersetzungsdienstleistungen. MDÜ 6/2004, 10–12. 
+[5] 
+Mackenzie, Rosemary (2004): “Functional translation theory and quality in translation: 
+An interface between theory and practice”. In: Jorma Tommola (ed.), Language, Text 
+and Translation, Turku: Turun yliopisto, 157–168. 
+[6] 
+Önorm D 1200 (2000): Dienstleistungen – Übersetzen und Dolmetschen. Über- 
+setzungsleistungen. Anforderungen an die Dienstleistung und an die Bereitstellung 
+der Dienstleistung. Hrsg. vom Fachnormenausschuss 239. Wien: Österreichisches 
+Normungsinstitut. 
+[7] 
+Prunč, Erich (2003): “Óptimo, subóptimo, fatal: Reflexiones sobre la democracia 
+etnolingüística en la cultura europea de traducción.” In: Dorothy Kelly & Anne Martin 
+& Marie-Louise Nobs & Dolores Sánchez & Catherine Way (eds.). La direccionalidad 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+10
+en Traducción e Interpretación: perspectivas teóricas, profesionales y didácticas. 
+Granada: Editorial Atrio, 67–89. 
+[8] 
+Schopp, Jürgen F. (1996): “The typographic competence of the translator – Visual 
+text design and desktop publishing.” In: XIV World Congress of the Fédération 
+Internationale des Traducteurs (FIT), February 1996, Melbourne, Australia. 
+Proceedings volume 1, 189-195.  
+[9] 
+Schopp Jürgen F. (2002): “Typography and Layout as a Translation Problem.” – In: 
+Translation: New Ideas for a New Century. Proceedings of the XVI FIT World 
+Congress Vancouver, B.C., Canada 7 – 10 August, 2002; 271–276. 
+[10] 
+Schopp, Jürgen F. (2005): »Gut zum Druck«? – Typographie und Layout im 
+Übersetzungsprozeß. Acta Universitatis Tamperensis 1117. Tampere: Tampere 
+University Press. WWW-Version: http://acta.uta.fi/pdf/951-44-6465-6.pdf 
+[11] 
+SFS-EN 15038 (2006): Käännöspalvelut. Palveluvaatimukset. Helsinki: Finnish 
+Standards Association. 
+[12] 
+Snell-Hornby, Mary (2000): “Some Concluding Comments on the Responses.” In: 
+Christina Schäffner (ed.): Translation in the Global Village. Clevedon: Multilingual 
+Matters, 2000, 69–72. 
+ 
+Dr. Jürgen F. Schopp 
+Senior lecturer in Translation Studies (Finnish-German) 
+School of Modern Languages and Translation Studies 
+University of Tampere 
+FI-33014 Tampereen yliopisto, Finland 
+Email: jurgen.schopp@uta.fi 
+http://www.uta.fi/~trjusc/ 
+ 
+ 
+ 
+ 
+ 

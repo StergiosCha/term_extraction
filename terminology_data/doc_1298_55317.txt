@@ -1,0 +1,260 @@
+SOURCE: http://www.eleto.gr/download/Conferences/8th%20Conference/Papers/8th_33-03_MasliasRodolfos_Paper2_V02_EN.pdf
+
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+1
+Terminology in the European Parliament  
+Moving with the times 
+ 
+Rodolfo Maslias 
+ 
+ 
+INTRODUCTION 
+ 
+European Union legislation is drafted in 24 official languages. Acts drawn up in each of the 
+languages all constitute groundbreaking legislation which can be challenged before national 
+and European courts and in many cases take precedence over national law. 
+ 
+Thousands of translators in the European institutions cover over 500 language combinations, 
+a mechanism which must be regularly brought into line with constantly evolving legislative 
+procedures and support media. 
+ 
+In this connection, the importance of terminology has become steadily clearer. With the 
+development of inter-institutional translation memories (Euramis), previously separate 
+resources such as the Commission’s Eurodicautom or Parliament’s Euterpe have merged into 
+a common terminology database, IATE (developed by a Greek company). 
+ 
+In 2008, Parliament decided to set up a unit to coordinate the terminology generated within 
+the translation units. 
+ 
+It is principally concerned with Parliament's contribution to the IATE database, that is to say 
+the introduction of new terms stored by translators either directly or by means of a macro for 
+the most rapid entry of every search result. This also involves the storage and updating of 
+terms and references and the addition of missing terms in all languages, as well as the 
+coordinated validation of terms automatically entered on the IATE public database, which 
+contains 8.5 million terms and receives on average 3500 queries per hour from the entire 
+world. 
+ 
+The second major area of activity concerns software supports such as term extractors and 
+communication, involving a strong and continuous presence on the internal network 
+(intranet). 
+ 
+Precisely because the EU institutional websites are only accessible on internal networks, 
+Parliament’s Terminology Unit has created a public website containing basic information and 
+material for the purposes of external cooperation with hundreds of universities and other 
+organisations in the field of terminology. 
+ 
+Inter-institutional cooperation in the context of IATE (consolidation) 
+ 
+Data entry and storage on the EU terminology database (IATE) must of necessity be brought 
+into line with the complex stages of the legislative procedure, involving repeated 
+interventions by the three legislative bodies, each in its different way, drafts, tripartite 
+discussions, modifications at various levels, consultation of legal experts and amendments, as 
+well as voting in the parliamentary committees and, finally, in the plenary. 
+ 
+The institution which makes the primary entry retains authorship thereof. Additions by other 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+2
+institutions are admissible (with reference being made to the relevant institution), while any 
+amalgamation or deletion requires inter-institutional agreement. This involves a special 
+procedure in each of the institutions, starting from the processing of terms (attribution, 
+definition and origin) in each language by their translation teams  and coordination by their 
+terminology units, which also ‘arbitrate’ in those rare cases where differences of opinion arise 
+regarding entries. The database is managed by an inter-institutional team chaired in turn by 
+one of the institutions contributing to IATE and the funding thereof. It is currently chaired by 
+the Translation Centre, which caters for all the Commission's specialised services (agencies) 
+such as CEDEFOP in Thessaloniki. The Translation Centre also houses the team of experts 
+responsible for the technical maintenance and constant improvement of the database in 
+accordance with the priorities established by the management team. Parliament’s 
+Terminology Unit is constantly gathering observations and recommendations from over 100 
+terminologists in the 23 translation units and, together with the technical team, organises 
+sessions involving use of the database in practice with a view to identifying problems (hands-
+on sessions). 
+ 
+The IATE database receives support and funding from the three legislative institutions 
+(Commission, Council and Parliament), the European Economic and Social Committee, the 
+Committee of the Regions, the Court of Auditors and the Translation Centre. The European 
+Court of Justice, the European Investment Bank and the European Central Bank are also 
+involved, contributing specialist glossaries. In addition, the European Court of Justice and the 
+European Central Bank compile comprehensive terminologies in cooperation with the 
+national authorities. Of particular value in the translation of countless pages containing 
+specialist terminology generated by the sudden emergence of the world economic crisis in 
+2008 was the glossary drawn up in all languages by the European Central Bank in cooperation 
+with the national central banks. Another example is cooperation between the ECJ and the 
+national legal authorities in compiling terms drawn from the case law of the various Member 
+States for entry on the IATE database. It should be noted in particular that an additional 
+criteria applies to each entry specifying the different uses of a particular term in a given 
+language, depending on the national system. For example, differences frequently arise 
+between Greece and Cyprus or Germany and Austria regarding case-law terminology.  
+ 
+Last but not least, the contribution of all EU agencies (coordinated by the Translation Centre) 
+is extremely valuable, an outstanding example being the OHIM database compiled by the EU 
+agency in Alicante responsible for registering trade marks.. 
+ 
+Terminology management in the European Parliament 
+ 
+The Unit was set up in 2008 staffed by three permanent officials and, because of the great 
+difficulty in creating new EU institutional posts, it secured the services of trainees with the 
+greatest relevant expertise drawn from a total of around 60 in Parliament’s Translation DG 
+chosen from thousands of applicants. Traineeships last for three months and may be extended 
+for an additional three. Over the last two years officials recruited to the unit through internal 
+competitions have been assigned specific tasks under the following establishment plan: 
+ 
+ 
+ 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+3
+ 
+ 
+ 
+Cooperation with the other units is based on: 
+ 
+1. 
+a network of 100 terminologists (designated by their superiors) who carry out 
+terminological assignments sent by the Terminology Unit through Planning to the 
+translation units accompanied by an FdR, 
+ 
+2. 
+volunteer working groups for certain projects and  
+ 
+3. 
+a translator seconded to the unit for three months responsible for liaison with the 
+translation units and for identifying best practices. 
+ 
+ 
+ 
+ 
+ 
+Parliament’s Terminology Unit works on projects in specialist fields with the participation of 
+trainees from all language units seconded for two weeks of their three-month traineeship. 
+Their activities are coordinated by our own trainees under the supervision of permanent staff 
+members, enabling them to acquire acquiring further management experience. The quality of 
+their work in each language is checked by the terminologists responsible. Following 
+processing and validation, our service then enters the terms on the IATE database.  The 
+largest of these projects is the completion of human rights terminology, for which Parliament 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+4
+has assumed responsibility. Other projects concern financial terminology, taxation, 
+inheritance law and the environment, areas which are covered by many of the texts translated 
+by Parliament under the legislative procedure. Trainees are also involved in two projects of a 
+more technical nature, the IATE Feeding Project which involves searching on Eurlex for sets 
+of specialist terms and the definitions thereof contained in legal acts, as well as their entry in 
+all languages on ‘aligned’ charts, so as to fill any gaps in pre-2004 IATE data with 
+appropriate terms in the new languages.   The Term Extraction Project also makes it possible 
+to use and assess the various terminology management software packages using a 
+combination of statistical and linguistic criteria. 
+ 
+In 2010, Parliament’s translation units translated total of 1.5 million pages in all languages, 
+which amounts to over 10 pages per day for each translator. The workflow is not constant but 
+fluctuates in a manner directly related to parliamentary proceedings, including the Strasbourg 
+part-sessions, the Brussels ‘mini-sessions’ and the meetings of the parliamentary committees 
+and political groups. This results in periods of peak demand  with large numbers of urgent 
+texts and imperative deadlines, given that no text can be put to the vote in any deliberative 
+body if it is not available in every language.  
+ 
+A valuable service offered by the Terminology Unit in response to such situations is the 
+advance preparation of specialist files (‘proactive terminology’). With the help of the various 
+services involved in the legislative process, it is able to keep track of the codecision procedure 
+and thereby identify proposals for legislation containing specialist terminology and likely to 
+generate numerous amendments and opinions well before they are sent for translation. With 
+regard to each of these ‘burning’ political issues, our ΙΑΤΕ team, in cooperation with 
+terminologists from the various units prepares ‘electronic files’ containing links to specialist 
+glossaries, previous texts on the same subject, any articles containing similar terminology and 
+the principal related legislative texts already in force in the Member States. These files are 
+incorporated on the internal website and made available to the translation units. Using ‘Plato’ 
+software this content is linked to the automatic translation workflow system. The relevant 
+FdR indicates the links to content of interest to each translator. In order to make this service 
+as efficient as possible, we seek access to the originals at an early stage so as to compile lists 
+of the principal terms contained therein using the relevant software applications and check 
+whether they are contained on the ΙΑΤΕ database before verifying or updating them. We then 
+ask all the translation units to translate any missing terms so that they can be entered in full on 
+the database before they appear in the texts to be translated.  
+Communication – groundbreaking initiatives 
+That which distinguishes the EP Terminology Unit from those of other institutions is the use 
+of inside and outside contacts to enhance our terminological output.  Its internal website is a 
+very valuable and user-friendly tool for keeping terminologists and translators constantly 
+informed, updated and motivated. Every Monday morning the week commences with an 
+internal meeting at which each sections outlines a relevant area of its activity to be posted on 
+the unit's website and the DG Translation homepage. It is also decided which of the activities 
+in question will be mentioned in e-mails to each of the target groups. At these meetings the 
+number of visitors to the internal and external website (http://termcoord.wordpress.com/) is 
+analysed and our strategy adapted accordingly. In addition to matters with an obvious bearing 
+on terminology and the ΙΑΤΕ database, the website contains a number of interesting items 
+such as discussions on etymological issues, reviews of books on terminology and translation, 
+etc. To ensure that our unit remains up to date, we have created an electronic journal which 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+5
+automatically scans the web on a daily basis, using appropriate key words in a given context, 
+for content of interest to both us and the translators. 
+The need for an external website arose from our wealth of contacts with universities and 
+terminological bodies throughout the world. It contains only information of use for our mutual 
+cooperation. 
+This is accompanied by annual initiatives designed to heighten awareness among translators 
+with regard to terminology. Last year’s initiative concerned recycling terminology while this 
+year the subject is the contribution of terminology to improving translation quality. In 
+addition, our principal activities are outlined in a two-monthly printed bulletin. 
+ 
+                
+ 
+Our second policy objective regarding communications is to maintain and continually extend 
+our network of cooperation with university departments and public and private organisations 
+in various countries directly or indirectly concerned with terminology. Cooperation in this 
+area involves exchanges of terminology, presentations in Luxembourg by academic and 
+research teams of varying sizes, attendance and presentations at conventions and at 
+universities abroad, mutual website links and exchange arrangements for specialised 
+colleagues. It also includes help in organising specialist seminars in the EP and external 
+cooperation in specialist projects on the IATE database as well as cooperation in the field of 
+software and the joint testing thereof. 
+Two particularly interesting examples of such external cooperation involve the universities of 
+Turin and Ankara. 
+The Terminology Department of the Turin Legal Faculty is seeking to coordinate the 
+activities of similar departments in all EU Member States with a view to compiling a 
+consumer law glossary on the IATE database. These terms will be finalised and, following 
+approval by the management committee, will replace current entries. This groundbreaking 
+initiative could set the pattern for future cooperation with outside bodies. 
+Τhe University of Ankara is seeking to verify the Turkish  terms and references already 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+6
+entered on the IATE database (not accessible on the public database, which appears in the 
+official languages only).  By way of experiment, its students are also being given the 
+opportunity of translating terms contained in the European Parliament's Rules of Procedure.  
+Acting through the inter-institutional management committee, our unit provides support and 
+guidance for such groundbreaking initiatives, giving students and terminological 
+organisations the opportunity of contributing to the IATE database to our mutual advantage. 
+In May we submitted a comprehensive recommendation for the improvement and updating of 
+the external database with a view to attracting more visitors, in view of the increased number 
+of online terminology databases now available. We are seeking to develop a substantial portal 
+with a manifestly European title containing general information regarding the work being 
+done in the EU in this field using the IATE database and the currently internal ELISE 
+communication tool, which automatically links up with all those involved in the drafting of 
+legislative acts (translators, legal revisers, authors and administrators). We have 
+recommended a number of technical improvements to bring the database more closely into 
+line with the latest online developments. 
+Seminars 
+Each year our unit organises three seminars of great interest to translators from all the 
+institutions. The seminars are organised under the heading ‘Terminology in the Changing 
+World of Translation’. Particularly successful was the joint presentation by the Commission, 
+Council and Parliament of the linguistic/translation aspects of the legislative process in the 
+form of a seminar entitled ‘Terminology in Legislative Procedures’. These seminars, 
+including the June seminar, entitled 'Terminology and Computer-Assisted Translation’ or 
+‘termITes & CATs’, are attended by academics and representatives of private sector specialist 
+firms concerned with the future   prospects for terminology in machine-translation software. 
+They are open to a limited number of external visitors and attract an audience of over 300 in 
+the historic setting of the original European Parliament Chamber. 
+ 
+ 
+ 
+               
+                  
+ 

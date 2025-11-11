@@ -1,0 +1,72 @@
+SOURCE: http://www.eleto.gr/download/TermBases/TE21_History-EN.pdf
+
+Τ.Ε.Ε. ΕΛΟΤ
+ΤΕ21 
+ΕΛΕΤΟ 
+Technical Committee ELOT/TC 21 
+Terminology – Language resources 
+Collective Member of ELETO  
+ 
+Chairperson: M. Pantazara, mavinap@frl.uoa.gr 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+August 2022 
+ 
+Technical Committee ELOT/TC 21 Terminology – Language resources 
+ 
+ 
+After the foundation of the Hellenic Organization for Standardization (ELOT), in 1978, the Technical 
+Committee ELOT/TC 21 Terminology – Language resources (initial name: Technical Terminology) was 
+established, at the initiative of the Technical Chamber of Greece (TEE), ever since having undertaken the 
+committee’s technical and secretarial support. The terms of reference of ELOT/TC 21 is to be the national 
+mirror committee to the international Technical Committee ISO/TC 37 Language and terminology. 
+ELOT/TC 21 attends ISO/TC 37’s work and contributes with constructive comments to the International 
+Standards prepared by the latter. 
+ELOT/TC 21 is a founding Collective Member of the Hellenic Society for Terminology (ELETO), whose 
+delegates actively participate in the work of the committee. 
+Current members of the Committee: 
+Members and deputy members 
+Observers/Experts 
+Mavina Pantazara, Chairperson 
+Katerina Toraki, former Chairperson 
+Kostas Valeontis 
+Maria Gavriilidou 
+Dionysis Giannibas 
+Dionysis Goutsos 
+Valentini Kalfadopoulou 
+Vangelis Kamariotakis 
+Marianna Katsoyannou 
+Vivian Kleideri 
+Charalampos Koutroulis 
+Panagiotis G. Krimpas 
+Georgia Kyriakakou 
+Stella Markantonatou 
+Dimitris Moutafis 
+Marina Pantazidou 
+Giannis Saridakis 
+Anna Stefanidou 
+George Tsiamas 
+Angeliki Fotopoulou 
+Anastasia Christofidou 
+ 
+Haris Ghinos 
+Effie Frangou 
+Despina Lamprou 
+Christina Nikitopoulou 
+Dimitris Charvatis 
+To date, ELOT/TC 21 has prepared 11 Hellenic Standards, corresponding to International Standards of 
+ISO/TC 37; as well as one primarily Greek standard: ELOT 1455:2017 Greek initialisms and acronyms 
+formation. In 1981–1982, ELOT/TC 21 prepared and published the Hellenic Standards ELOT 402 and 
+ELOT 561 corresponding to ISO 704 and ISO 1087 respectively, the basic standards of terminology 
+principles and methods. The content of these standards was analysed in a special publication of ELOT: 
+Analysis of basic principles of technical terminology), which also includes the first glossaries (Greek-English, 
+English-Greek) of terminology terms. Recently, these standards have been republished as Hellenic 
+Standards ELOT 402:2010 and ELOT 561-1:2006, with special contribution from ELETO. 
+The terminology terms of the standards prepared by ELOT/TC 21 are being collected, by the ELETO’s 
+delegate in the committee, Kostas Valeontis, into the termbase TERMTERM, today containing 3.147 entries. 
+A major part of this content has been inserted into the “international” termbase TermTerm, after an 
+agreement signed between ELETO and TermNet. 

@@ -1,0 +1,1090 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_18-36-TissotPhilippe-KoulaliEleni_Paper_V02.pdf
+
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+Terminologie de la politique européenne d’enseignement et de 
+formation –  
+Une sélection de 100 termes clés 
+Philippe Tissot, Eleni Koulali 
+RÉSUMÉ 
+Le Centre européen pour le développement de la formation professionnelle (Cedefop), une agence de 
+l’Union européenne basée à Thessalonique, vient de publier un glossaire multilingue (anglais, espagnol, 
+allemand, français, italien, portugais) intitulé « Terminologie de la politique européenne d’enseignement 
+et de formation – Une sélection de 100 termes clés » qui définit les concepts de base de la politique 
+européenne d’éducation et de formation. Cet ouvrage est également disponible en ligne dans d’autres 
+langues, dont le grec. Ce travail empirique prend en considération les priorités actuelles de la politique 
+européenne, principalement la mise en place du Cadre européen des certifications (CEC) et du 
+Système européen de crédits d’apprentissage pour la formation et l’enseignement professionnels 
+(ECVET). 
+La présentation qui suit décrit la genèse de ce glossaire, et en particulier la méthodologie employée 
+(constitution du corpus, choix des langues et des sources, consultation des experts, élaboration des 
+définitions) et les difficultés rencontrées (concordance entre les langues, terminologie établie, définition 
+sujets à controverse). Les problèmes survenus lors de la traduction du glossaire vers la langue grecque 
+sont également abordés (cohérence des termes du corpus, concordance des sources). 
+ 
+Ορολογία της ευρωπαϊκής πολιτικής για την εκπαίδευση και την 
+κατάρτιση –  
+Μια επιλογή 100 όρων-κλειδιών 
+Philippe Tissot, Ελένη Κούλαλη 
+ΠΕΡΙΛΗΨΗ 
+Το Ευρωπαϊκό Κέντρο για την Ανάπτυξη της Επαγγελματικής Κατάρτισης (Cedefop), ένας οργανισμός 
+της Ευρωπαϊκής Ένωσης με έδρα τη Θεσσαλονίκη, εξέδωσε πρόσφατα ένα πολύγλωσσο γλωσσάριο 
+με τίτλο « Ορολογία της ευρωπαϊκής πολιτικής για την εκπαίδευση και την κατάρτιση – Μια επιλογή 100 
+όρων-κλειδιών » στο οποίο επιχειρείται να οριστούν σε έξι γλώσσες (αγγλικά, ισπανικά, γερμανικά, 
+γαλλικά, ιταλικά και πορτογαλικά) οι βασικές έννοιες της ευρωπαϊκής πολιτικής όσον αφορά την 
+εκπαίδευση και την κατάρτιση. Το εν λόγω πόνημα είναι επίσης διαθέσιμο στο διαδίκτυο και σε άλλες 
+γλώσσες, μεταξύ των οποίων συγκαταλέγεται και η ελληνική. Σε αυτή την εμπειρική εργασία λήφθηκαν 
+υπόψη οι παρούσες προτεραιότητες της ευρωπαϊκής πολιτικής και κυρίως η δημιουργία του 
+Ευρωπαϊκού Πλαισίου Επαγγελματικών Προσόντων (ΕΠΕΠ) και του Ευρωπαϊκού Συστήματος 
+Ακαδημαϊκών Μονάδων για την Επαγγελματική Εκπαίδευση και Κατάρτιση (ECVET). 
+Στην παρακάτω παρουσίαση περιγράφεται η εκπόνηση του γλωσσάριου και συγκεκριμένα η 
+μεθοδολογία που ακολουθήθηκε (σύσταση του σώματος υλικού, επιλογή των γλωσσών και των πηγών, 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+2 
+ 
+γνωμοδότηση εμπειρογνωμόνων, σύνταξη των ορισμών) καθώς και οι δυσκολίες που παρουσιάστηκαν 
+(συμπαράθεση μεταξύ των γλωσσών, προϋπάρχουσα ορολογία, αντιτιθέμενοι ορισμοί). Επίσης, 
+αναφέρονται τα προβλήματα που ανέκυψαν κατά τη μετάφραση του γλωσσάριου στα ελληνικά 
+(αντιστοιχία μεταξύ των όρων του σώματος υλικού, συμπαράθεση των πηγών). 
+ 
+ 
+ 
+ 
+0   Introduction 
+Le Cedefop vient de publier un glossaire multilingue (EN/ES/DE/FR/IT/PT) intitulé 
+« Terminologie de la politique européenne d’enseignement et de formation – Une sélection 
+de 100 termes clés » [1] définissant les termes de base de la politique européenne 
+d’éducation et de formation. Cet ouvrage est également disponible en ligne dans d’autres 
+langues, dont le grec. Ce glossaire n’a pas la prétention d’être un inventaire exhaustif des 
+termes utilisés par les spécialistes. Il constitue davantage un travail de nature empirique 
+reflétant les orientations actuelles de la politique européenne en matière d’enseignement et 
+de formation. 
+Le Cedefop (Centre européen pour le développement de la formation professionnelle) est 
+une agence décentralisée de l'Union européenne pour la formation et l'enseignement 
+professionnels. Ses principaux axes de travail actuels sont les suivants : 
+- 
+recherche (par exemple sur les besoins en compétences ou sur les politiques mises en 
+œuvre dans les États membres) ; 
+- 
+soutien à la Commission européenne dans la mise en œuvre de la politique 
+européenne d’apprentissage tout au long de la vie (Europass, Cadre européen des 
+certifications, apprentissage des adultes, validation de l’apprentissage non formel et 
+informel, etc.); 
+- 
+compilation et analyse de données sur l’enseignement et la formation professionnelle 
+dans l’Union européenne; 
+- 
+organisation de visites d’études pour les professionnels de l’enseignement et de la 
+formation. 
+Concernant la terminologie, le Cedefop élabore depuis quelques années des glossaires 
+thématiques contenant les termes de base utilises dans les différents projets mis en place 
+(reconnaissance des qualifications, qualité dans la formation, etc.). Ces glossaires, traduits 
+dans les principales langues de travail, sont distribués aux membres des groupes de travail 
+avant le commencement des travaux. Cette pratique permet de lever nombre d’ambiguïtés 
+sémantiques, source fréquente d’incompréhension. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+3 
+ 
+Le Cedefop a également publié en 2008 le Thésaurus européen de la formation - TEF [2] 
+qui recense le vocabulaire contrôlé de référence dans le domaine de l'enseignement et de la 
+formation professionnels (EFP) en Europe. 
+Egalement, dans le cadre du projet Europass, un portfolio de cinq document pour la 
+description des compétences individuelles, le Cedefop a établi des taxonomies multilingues 
+(pays, langues, nationalités, verbes d’action) en utilisant les sources existantes (ISO, CITP 
+[3]) ou en les adaptant. L’utilisation de ces taxonomies facilite le transfert des données 
+personnelles (CV) entre les différents systèmes d’information grâce à l’utilisation de 
+schémas XML. 
+1   L’importance de la terminologie dans les projets internationaux 
+L’Europe est devenue une mosaïque de 27 Etats membres (auxquels s’ajoutent les pays 
+candidats) parlant une multitude de langues (nationales, régionales, officielles ou non). La 
+définition d’une terminologie commune est un gage essentiel pour la communication des 
+groupes de travail dans les différents domaines de la politique européenne. Il ne faut pas 
+sous-estimer les malentendus liés   
+- 
+à la langue (communication limitée par l’emploi d’une langue commune l’anglais, qui 
+n’est pas la langue maternelle de la majorité de ses utilisateurs) ; 
+- 
+à la culture et à l’histoire ; 
+- 
+au profil des praticiens (chercheurs, décideur politiques, enseignants, spécialistes des 
+sciences sociales).  
+Ces sources d’incompréhension sont tout particulièrement importantes dans le domaine des 
+sciences de l’éducation, qui touchent à la sociologie, la psychologie, les sciences du 
+comportement, etc. 
+2   La publication de glossaires par le Cedefop 
+A partir des années 1980, Le Cedefop a jugé important de réfléchir sur la terminologie de la 
+formation professionnelle, afin de donner aux décideurs politiques européens, aux 
+chercheurs et aux enseignants un outil de communication.  
+Trois publications se sont succédées : 
+2.1   Le Glossarium Formation professionnelle (1996) [4] 
+En 1986, un groupe de travail (sous l’égide du Groupement interinstitutionnel de 
+terminologie et documentation de l’Union européenne -GIIT) a entamé la rédaction d’un 
+Glossarium sur la formation professionnelle.  
+ 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+4 
+ 
+Publié en 1996 en neuf langues, cet ouvrage n’a pas été à la hauteur des efforts consentis 
+puisque le groupe de travail était constitué d’équipes nationales chargées de réfléchir sur la 
+terminologie employée dans chaque pays. Au final, ce glossaire est en fait un ‘sandwich’ de 
+neuf glossaires nationaux élaborés indépendamment par les équipes nationales, et sans 
+qu’un effort ait été consenti pour élaborer des définitions communes et favoriser une 
+meilleure coopération. 
+2.2   Terminologie de la politique de formation professionnelle (2004) [5] 
+En 2003 le Cedefop a décidé de publier un glossaire qui rassemble un choix raisonné de 86 
+termes clés utilisés par les acteurs de la politique de formation au niveau européen. 
+Ce glossaire a été publié en six langues, à savoir les trois principales langues de travail de 
+l’UE (anglais, français et allemand) ainsi que la langue des trois plus grands pays candidats 
+(République tchèque, Pologne et Hongrie) afin de favoriser leur intégration. 
+Ce glossaire a reçu un accueil très positif (cinq mille exemplaires papier diffusés, 10.000 
+consultations en ligne, 10.000 téléchargements pour la version PDF, nombreuses citations 
+et références sur Internet). 
+2.3   Terminologie de la politique européenne d’enseignement et de formation  
+(2008) [1] 
+L’accueil positif réservé au glossaire de 2004 a motivé la publication d’une édition revue et 
+augmentée afin de prendre en compte les nouvelles priorités de l’Union européenne en 
+matière de politique d’éducation. Quelle a été la méthodologie employée et les problèmes 
+rencontrés ? 
+3   Méthodologie adoptée pour l’élaboration du glossaire 
+On ne peut élaborer un glossaire dans le domaine des sciences de l’éducation comme dans 
+celui des sciences exactes; les sciences de l’éducation relèvent des sciences sociales 
+(psychologie, sociologie, pédagogie) autant que d’autres disciplines (économie, statistiques, 
+etc.). Une approche pragmatique a été choisie pour la rédaction de ce glossaire : 
+3.1   Elaboration du corpus 
+Les 100 termes retenus (les 86 termes de l’édition 2004 plus 16 nouveaux termes clé) ont 
+été choisis selon 2 critères ; 
+a)  Analyse des occurrences dans la littérature, qui ont fait ressortir les thèmes 
+suivants : 
+- 
+l’apprentissage, qui peut être formel, non formel ou informel, ouvert, par la 
+pratique, par l’utilisation, compensatoire, à distance, électronique, tout au long de 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+5 
+ 
+la vie, sur le poste de travail, autant de concepts récurrents utilisés constamment 
+sans que l’on maîtrise nécessairement leur contenu ; 
+- 
+les formes d’enseignement ou d’éducation, initiale ou continue, académique ou 
+professionnelle, obligatoire ou post obligatoire, en alternance, à distance, pour 
+adultes, secondaire, post-secondaire ou supérieure ;  
+- 
+les résultats d’apprentissage, exprimés sous forme de savoirs, capacités / 
+aptitudes, savoir-faire ou de compétences (qu’elles soient clés, de base, 
+numériques) ;  
+- 
+la reconnaissance des résultats d’apprentissage qui renvoie à des mécanismes 
+distincts (évaluation, validation, certification) souvent utilisés de manière 
+inappropriée ; 
+- 
+les qualifications, exprimées sous la forme de certificats, diplômes, titres, etc. 
+b) 
+Priorités actuelles de la politique de l’Union européenne en matière d’éducation, 
+notamment : 
+- 
+la mise en place du Cadre européen des certifications (CEC) [6], qui permet aux 
+pays européens d’établir un lien entre leurs systèmes de certification en se fondant 
+sur une référence commune européenne composée de huit niveaux ; 
+- 
+l’élaboration du Système européen de crédits d’apprentissage pour la formation et 
+l’enseignement professionnels (ECVET) [7], dispositif qui permet d’exprimer les 
+qualifications en unités auxquelles sont associés des points de crédit, afin de 
+promouvoir la mobilité des personnes en cours de formation et la validation et 
+résultats/acquis d’apprentissage ; 
+- 
+La mise en valeur de la validation des résultats de l’apprentissage non formel et 
+informel dans les Etat membres. 
+ 
+3.1   Choix des langues 
+Le glossaire a été rédigé dans les trois principales langues de travail de l’UE (anglais, 
+français et allemand) et traduit dans trois langues latines (espagnol, italien et portugais) 
+pour l’édition papier. Ce glossaire est disponible en ligne en 12 langues. 
+3.2   Consultation élargie 
+Un panel d’experts européens (Cedefop, Commission européenne, Fondation européenne 
+pour la formation (ETF), Euridyce, OCDE) et nationaux a été constitué afin de sélectionner 
+et définir les 16 nouveaux mots clés de la politique européenne d’enseignement et de 
+formation. 
+3.3   Elaboration de définitions consensuelles 
+Les définitions retenues s’affranchissent des visions nationales (par exemple autour du 
+concept de « qualification ») afin de procurer un vocabulaire de référence aux groupes de 
+travail européens. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+6 
+ 
+3.4   Utilisation de sources de références 
+Les sources suivantes ont été privilégiées : Europa, le site de l’Union européenne, a été 
+abondamment utilisé, mais aussi les ressources d’autres institutions internationales, les 
+bases de données terminologiques européennes telles que IATE (InterActive Terminology 
+for Europe) et les sites des organismes officiels nationaux. 
+4   Difficultés rencontrées lors de la rédaction du glossaire 
+4.1   Constitution du corpus 
+Le choix restreint de termes (100) peut paraître arbitraire; le principal critère de sélection a 
+été l’occurrence des termes dans les textes clés de la politique européenne de l’éducation 
+(CEC, ECVET, validation des résultats d’apprentissage). 
+4.2   Accord sur les définitions difficile à obtenir 
+ Le profil des chercheurs en sciences de l’éducation: les termes « certification» ou 
+« qualification » ont une signification différente si l’on est employeur, économiste ou 
+spécialiste en sciences de l’éducation). 
+4.3   Concordance entre les versions linguistiques des textes communautaires de 
+référence 
+Un terme tel que « skill » peut être traduit en français, selon le contexte, par compétences, 
+aptitude ou encore qualification ; le même problème se pose dans d’autres langues comme 
+en allemand avec la sémantique des termes « Kompetenz » et « Qualifikation ». Il en 
+découle parfois une joyeuse confusion dans l’utilisation et la traduction des termes 
+apparentés : doit-on traduire « basic skills » par compétences de base, aptitudes de base, 
+ou encore compétences clés ? 
+4.4   L’obstacle de la terminologie déjà établie 
+Les définitions et traductions existantes dans les textes communautaires officiels n’ont pas 
+fait systématiquement l’objet d’une réflexion terminologique approfondie et sont parfois 
+sujettes à controverse. Il arrive aussi que certains termes aient été définis par la loi (par 
+exemple la loi sur la Validation des acquis de l’expérience en France). Il est donc difficile de 
+remettre en cause des usages établis parfois depuis des décennies par les praticiens.  
+4.5   Termes sujets à controverse 
+Certains termes suscitent des débats houleux (Qu’est-ce que le « savoir » ? Quelles sont 
+les dimensions de la « compétence » ?). Les définitions proposées pour ces termes doivent 
+être claires et utilisables. L’utilisation de notes terminologiques permet d’apporter des 
+nuances sans alourdir la définition. Egalement, la définition de termes comme 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+7 
+ 
+« apprentissage non formel » et « apprentissage informel » revêt une importance 
+particulière. 
+5   Perspectives 
+5.1   Élaboration d’une nouvelle édition 
+Une nouvelle édition sera prochainement entreprise avec une trentaine de nouveaux termes 
+autour des thèmes «analyse des besoins de compétences » et « la qualité dans 
+l’éducation », deux nouvelles priorités communautaires. Elle sera publiée en ligne et 
+éventuellement en version papier (à confirmer) Cette nouvelle édition sera l’occasion de 
+revoir le corpus actuel à la lumière des commentaires reçus. 
+5.2   Traduction dans d’autres langues 
+D’autres versions linguistiques seront prochainement disponibles en ligne. 
+6   Problèmes liés à la traduction vers le grec 
+La traduction du glossaire en grec a été effectuée sur la base de la traduction grecque du 
+glossaire publié en 2004. Une révision systématique (termes et définitions) a été effectuée 
+afin d’assurer une meilleure cohérence de la nouvelle édition. Les problèmes rencontrés ont 
+été les suivants : 
+6.1   Cohérence des termes du corpus grec 
+La traduction de certains groupes de termes liés (ou opposés) a nécessité une attention 
+particulière, les références dans la langue grecque étant peu nombreuses. Exemples : 
+- 
+« formation sur le poste de travail » (κατάρτιση στο χώρο εργασίας) et « formation en 
+dehors du poste de travail » (κατάρτιση εκτός χώρου εργασίας) ; 
+- 
+« parcours d’enseignement ou de formation » (πορεία εκπαίδευσης ή κατάρτισης) et 
+« filière d’enseignement et de formation » (κατεύθυνση εκπαίδευσης ή κατάρτισης) ; 
+- 
+« curriculum » (αναλυτικό πρόγραμμα)  et « programme d’enseignement et de 
+formation » (πρόγραμμα εκπαίδευσης ή κατάρτισης); 
+- 
+« mentorat » (καθοδήγηση) et « tutorat » (εκπαιδευτική εποπτεία) ;   
+6.2   Concordance des sources communautaires 
+Comme il est mentionné au point 4.4, les textes communautaires, rédigés par des groupes 
+de travails distincts oeuvrant dans des contextes différents, manquent parfois de 
+cohérence :  
+- 
+le terme « unité » (au sens d’élément de certification) est traduit par « ακαδημαϊκή 
+μονάδα » dans le cadre du Système européen de transfert de crédits pour 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+8 
+ 
+l'enseignement et la formation professionnels (ECVET) [7]  et par « πιστωτική μονάδα » 
+dans le cadre de l’enseignement supérieur (ECTS) [8] ; 
+- 
+le terme « Cadre européen des certifications (CEC) » [6] qui couvre les certifications 
+académiques et professionnelles est traduit en grec d’une manière restrictive par 
+« Ευρωπαϊκό πλαίσιο επαγγελματικών προσόντων » ;  
+- 
+il en va de même pour le terme « compétences clés » qui couvre les compétences 
+telles que: communication dans la langue maternelle ou dans une langue étrangère; 
+culture mathématique et scientifique; culture numérique; compétences sociales et 
+civiques; esprit d'entreprise et sensibilité culturelle, etc.). Les compétences clés ont fait 
+l’objet d’une « Recommandation du Parlement européen et du Conseil, du 18 décembre 
+2006, sur les compétences clés pour l'éducation et la formation tout au long de la vie » 
+[9]. Dans de nombreuses versions linguistiques de cette recommandation, (anglais, 
+allemand, espagnol, néerlandais, portugais, etc.), le mot « clé » est conservé, qui 
+souligne le caractère essentiel de ces compétences. Dans la version grecque, le terme 
+« compétence clé » est traduit par « βασικές ικανότητες » alors que dans de nombreux 
+textes communautaires, le mot « base », s’agissant des compétences, (comme dans 
+« βασικές δεξιότητες ») renvoie a un champ sémantique plus restreint (la capacité à 
+parler, lire, écrire et calculer) ; 
+- 
+les termes « δεξιότητα » et  « ικανότητα », définis de manière distincte dans le glossaire 
+et dans les textes communautaires, mais utilisés de manière quasi interchangeable par 
+de nombreux auteurs dans la majorité des langues. 
+ 
+Références 
+[1] 
+Cedefop; Tissot, P. Terminology of European education and training policy – A 
+selection of 100 key terms. Luxembourg: Publications Office, 2008. Consultable en 
+ligne: http://europass.cedefop.europa.eu/glossary [cité 23.07.2009] 
+[2] 
+Cedefop; Thésaurus européen de la formation - TEF. Luxembourg: Publications Office, 
+2008. Consultable en ligne: http://libserver.cedefop.europa.eu/ett/ [cité 23.07.2009] 
+[3] 
+Organisation internationale du travail. Classification internationale type des professions 
+(CITP). 
+Consultable 
+en 
+ligne: 
+http://www.ilo.org/public/french/bureau/stat/isco/index.htm [cité 23.07.2009] 
+[4] 
+Cedefop; Glossarium Formation professionnelle. Luxembourg: Publications Office, 
+1996 
+[5] 
+Cedefop; Tissot, P. Terminology of vocational training policy – A multilingual glossary 
+for an enlarged Europe. Luxembourg: Publications Office, 2004. 
+[6] 
+Commission européenne. Recommandation du Parlement européen et du conseil du 
+23 avril 2008 établissant le cadre européen des certifications pour l'éducation et la 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+9 
+ 
+formation 
+tout 
+au 
+long 
+de 
+la 
+vie. 
+Consultable 
+en 
+ligne: 
+http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:111:0001:0007:FR:PDF [cité 
+23.07.2007]. 
+[7] 
+Commission européenne. Le système européen de transfert de crédits pour 
+l'enseignement et la formation professionnels (ECVET). Consultable en ligne: 
+http://ec.europa.eu/education/lifelong-learning-policy/doc50_fr.htm [cité 23.07.2009] 
+[8] 
+Commission européenne. Système européen de transfert et d'accumulation de crédits 
+(ECTS). 
+Consultable 
+en 
+ligne: 
+http://ec.europa.eu/education/lifelong-learning-
+policy/doc48_fr.htm. [cité 23.07.2009] 
+[9] 
+Commission européenne. Recommandation du Parlement européen et du conseil du 
+18 décembre 2006 sur les compétences clés pour l'éducation et la formation tout au 
+long 
+de 
+la 
+vie. 
+Consultable 
+en 
+ligne: 
+http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:394:0010:0018:fr:PDF 
+[cité 
+23.11.2007] 
+ 
+Glossaire 
+Anglais 
+Français 
+Grec 
+• access to education and 
+training 
+accès à l’éducation et à la 
+formation 
+πρόσβαση στην εκπαίδευση 
+και κατάρτιση 
+• accreditation of an 
+education or training 
+programme 
+homologation d’un 
+programme d’enseignement 
+ou de formation 
+πιστοποίηση προγράμματος 
+εκπαίδευσης ή κατάρτισης 
+• accreditation of an 
+education or training 
+provider 
+agrément d’un prestataire 
+d’enseignement ou de 
+formation 
+πιστοποίηση φορέα 
+εκπαίδευσης ή κατάρτισης 
+• adaptability 
+adaptabilité / capacité 
+d’adaptation 
+προσαρμοστικότητα 
+• adult education 
+formation des adultes / 
+formation d’adultes / 
+éducation des adultes 
+εκπαίδευση ενηλίκων 
+• alternance training 
+formation en alternance 
+εναλλασσόμενη κατάρτιση 
+• apprenticeship 
+apprentissage (professionnel) 
+μαθητεία 
+• assessment of learning 
+outcomes 
+évaluation des 
+résultats/acquis 
+d’apprentissage 
+αξιολόγηση μαθησιακών 
+αποτελεσμάτων 
+• awarding body 
+organisme certificateur 
+φορέας πιστοποίησης 
+• basic information and 
+communication 
+technology (ICT) skills 
+compétences de base en 
+technologies de l’information 
+et de la communication (TIC) 
+βασικές δεξιότητες στις 
+τεχνολογίες της πληροφορίας 
+και επικοινωνίας (ΤΠΕ) 
+• basic skills 
+compétences de base 
+βασικές δεξιότητες 
+• certificate / diploma / title 
+certificat / diplôme / titre 
+πιστοποιητικό / δίπλωμα / 
+τίτλος 
+• certification of learning 
+outcomes 
+certification des 
+résultats/acquis 
+d’apprentissage 
+πιστοποίηση μαθησιακών 
+αποτελεσμάτων 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+10 
+ 
+• civil society 
+société civile 
+κοινωνία των πολιτών 
+• comparability of 
+qualifications 
+comparabilité des 
+certifications / comparabilité 
+des 
+qualifications 
+συγκρισιμότητα τυπικών 
+προσόντων 
+• compensatory learning 
+apprentissage compensatoire 
+αντισταθμιστική μάθηση 
+• competence 
+compétence 
+ικανότητα 
+• compulsory education 
+enseignement obligatoire / 
+scolarité obligatoire / 
+éducation obligatoire 
+υποχρεωτική εκπαίδευση 
+• continuing education and 
+training 
+enseignement et formation 
+continus 
+συνεχιζόμενη εκπαίδευση και 
+κατάρτιση 
+• credit system 
+système de crédits 
+σύστημα διδακτικών / 
+ακαδημαϊκών μονάδων  
+ 
+• curriculum 
+curriculum 
+αναλυτικό πρόγραμμα 
+• digital divide / digital gap 
+fracture numérique / fossé 
+numérique 
+ψηφιακό χάσμα 
+• digital literacy 
+compétence numérique / 
+culture numérique 
+ηλεκτρονικός αλφαβητισμός / 
+ψηφιακός αλφαβητισμός 
+• distance education and 
+training 
+enseignement et formation à 
+distance 
+εξ αποστάσεως εκπαίδευση 
+και κατάρτιση 
+• dropout 
+abandon des études / abandon 
+en cours d’études / 
+décrochage / sortie précoce 
+(ou prématurée) du système 
+éducatif 
+εγκατάλειψη σπουδών / 
+μαθητική διαρροή / σχολική 
+διαρροή 
+• education or training path 
+parcours d’enseignement ou 
+de formation / parcours 
+pédagogique 
+πορεία εκπαίδευσης ή 
+κατάρτισης 
+• education or training 
+pathway 
+filière d’enseignement ou de 
+formation 
+κατεύθυνση εκπαίδευσης ή 
+κατάρτισης 
+• education or training 
+provider 
+prestataire d’enseignement ou 
+de formation 
+πάροχος εκπαίδευσης ή 
+κατάρτισης 
+• e-learning 
+apprentissage électronique (e-
+learning) 
+ηλεκτρονική μάθηση (e-
+learning) 
+• employability 
+employabilité 
+απασχολησιμότητα 
+• European credit system 
+for vocational education 
+and training (ECVET) 
+Système européen de crédits 
+d’apprentissage pour la 
+formation et l’enseignement 
+professionnels (ECVET) 
+Ευρωπαϊκό συστήμα 
+ακαδημαϊκών μονάδων για 
+την επαγγελματική 
+εκπαίδευση και κατάρτιση 
+(ECVET) 
+• European credit transfer 
+and accumulation system 
+(ECTS) 
+Système européen de transfert 
+et d’accumulation 
+de crédits (ECTS) 
+Ευρωπαϊκό σύστημα 
+μεταφοράς και συσσώρευσης 
+πιστωτικών μονάδων (ECTS) 
+• European governance 
+gouvernance européenne 
+ευρωπαϊκή διακυβέρνηση 
+• European qualification 
+Cadre européen des 
+Ευρωπαϊκό πλαίσιο 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+11 
+ 
+framework for lifelong 
+learning (EQF) 
+certifications pour 
+l’apprentissage tout au long 
+de la vie 
+επαγγελματικών προσόντων 
+για τη διά βίου μάθηση (ΕΠΕΠ) 
+• first stage of tertiary 
+education (ISCED 5) 
+premier niveau de 
+l’enseignement tertiaire / 
+premier niveau de 
+l’enseignement supérieur / 
+enseignement supérieur – 
+premier niveau (CITE 5) 
+πρώτος κύκλος τριτοβάθμιας 
+εκπαίδευσης (ISCED 5) 
+• formal learning 
+apprentissage formel 
+τυπική μάθηση 
+• guidance and counselling 
+/ information, advice and 
+guidance (IAC) 
+orientation et conseil 
+προσανατολισμός και 
+συμβουλευτική 
+• human capital 
+capital humain 
+ανθρώπινο κεφάλαιο 
+• individual learning 
+account 
+compte individuel de 
+formation 
+προσωπικός λογαριασμός 
+μάθησης 
+• informal learning 
+apprentissage informel 
+άτυπη μάθηση 
+• information and 
+communication 
+technology (ICT) 
+technologies de l’information 
+et de la communication (TIC) 
+τεχνολογίες της πληροφορίας 
+και επικοινωνίας (ΤΠΕ) 
+• information and 
+communication 
+technology (ICT) skills 
+compétences en technologies 
+de l’information et de la 
+communication (TIC) 
+δεξιότητες στις τεχνολογίες 
+της πληροφορίας και 
+επικοινωνίας (ΤΠΕ) 
+• initial education and 
+training 
+enseignement et formation 
+initiaux 
+αρχική εκπαίδευση και 
+κατάρτιση 
+• key competences 
+compétences clés 
+δεξιότητες-κλειδιά / 
+ικανότητες-κλειδιά 
+• know-how 
+savoir-faire 
+τεχνογνωσία 
+• knowledge 
+savoir / connaissance 
+γνώση 
+• knowledge society / 
+knowledge-based society 
+société de la connaissance / 
+société basée sur la 
+connaissance 
+κοινωνία της γνώσης / 
+κοινωνία βασισμένη στη 
+γνώση 
+• learning 
+apprentissage 
+μάθηση 
+• learning by doing 
+apprentissage par la pratique 
+μάθηση διά της πράξης 
+• learning by using       
+apprentissage par l’utilisation 
+μάθηση διά της χρήσης 
+• learning community 
+communauté apprenante / 
+communauté d’apprentissage 
+μαθησιακή κοινότητα 
+• learning content 
+contenu d’apprentissage / 
+contenu de formation 
+περιεχόμενο μάθησης 
+• learning facilitator 
+médiateur d’apprentissage 
+μεσολαβητής μάθησης 
+• learning organisation 
+organisation apprenante 
+μαθησιακός οργανισμός 
+• learning outcomes / 
+learning attainments 
+résultats d’apprentissage / 
+acquis d’apprentissage 
+μαθησιακά αποτελέσματα 
+• learning region 
+région apprenante 
+μαθησιακή περιφέρεια / 
+περιοχή 
+• lifelong learning 
+apprentissage tout au long de 
+la vie / éducation et formation 
+tout au long de la vie 
+διά βίου μάθηση 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+12 
+ 
+• lifewide learning 
+éducation et formation 
+embrassant tous les aspects 
+de la vie 
+μάθηση σε όλο το φάσμα της 
+ζωής 
+• lower secondary 
+education (ISCED 2) 
+premier cycle de 
+l’enseignement secondaire 
+(CITE 2) 
+κατώτερη δευτεροβάθμια 
+εκπαίδευση (πρώτος κύκλος 
+δευτεροβάθμιας εκπαίδευσης) 
+(ISCED 2) 
+• mentoring 
+mentorat 
+καθοδήγηση 
+• mobility 
+mobilité 
+κινητικότητα 
+• mutual recognition of 
+qualifications 
+reconnaissance mutuelle des 
+qualifications 
+αμοιβαία αναγνώριση τυπικών 
+προσόντων 
+• new basic skills 
+nouvelles compétences de 
+base 
+νέες βασικές δεξιότητες 
+• non-formal learning 
+apprentissage non formel 
+μη τυπική μάθηση 
+• off-the-job training 
+formation en dehors du poste 
+de travail 
+κατάρτιση εκτός χώρου 
+εργασίας 
+• on-the-job training 
+formation sur le poste de 
+travail 
+κατάρτιση στο χώρο εργασίας 
+• open learning 
+apprentissage ouvert 
+ανοιχτή μάθηση 
+• post-compulsory 
+education 
+éducation postobligatoire / 
+enseignement postobligatoire 
+/ scolarité postobligatoire 
+μεταϋποχρεωτική εκπαίδευση 
+• post-secondary (non-
+tertiary) education 
+(ISCED 4) 
+enseignement postsecondaire 
+hors tertiaire / enseignement 
+postsecondaire non supérieur 
+(CITE 4) 
+μεταδευτεροβάθμια (μη 
+τριτοβάθμια) εκπαίδευση 
+(ISCED 4) 
+• programme of education 
+or training 
+programme d’enseignement 
+ou de formation 
+πρόγραμμα εκπαίδευσης ή 
+κατάρτισης 
+• qualification 
+qualification 
+προσόν 
+• qualification framework 
+cadre des certifications 
+πλαίσιο προσόντων 
+• qualification system 
+système de certification 
+σύστημα προσόντων 
+• recognition of learning 
+outcomes 
+reconnaissance des 
+résultats/acquis 
+d’apprentissage 
+αναγνώριση μαθησιακών 
+αποτελεσμάτων 
+ 
+• regulated profession 
+profession réglementée 
+νομοθετικά κατοχυρωμένο 
+επάγγελμα 
+• retraining 
+reconversion / conversion 
+επανακατάρτιση 
+• secondary school leaving 
+certificate / baccalaureate 
+baccalauréat / diplôme de fin 
+d’études secondaires 
+βεβαίωση δευτεροβάθμιας 
+εκπαίδευσης / απολυτήριο 
+λυκείου 
+• sector 
+secteur 
+τομέας 
+• skill 
+aptitudes professionnelles / 
+capacités professionnelles 
+δεξιότητα 
+• skills audit 
+bilan de compétences 
+αποτίµηση δεξιοτήτων 
+• social dialogue 
+dialogue social 
+κοινωνικός διάλογος 
+• social inclusion 
+insertion sociale / intégration 
+sociale 
+κοινωνική ένταξη 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+13 
+ 
+• social partners 
+partenaires sociaux 
+κοινωνικοί εταίροι 
+• special needs education 
+éducation répondant à des 
+besoins spéciaux 
+ειδική αγωγή και εκπαίδευση 
+• standard 
+référentiel 
+πρότυπο / προδιαγραφές 
+• teacher 
+enseignant 
+εκπαιδευτικός 
+• trainer 
+formateur 
+εκπαιδευτής 
+• training course planning 
+and design 
+ingénierie de (la) formation 
+προγραμματισμός και 
+σχεδιασμός μαθήματος 
+κατάρτισης 
+• training needs analysis 
+analyse des besoins de 
+formation 
+ανάλυση αναγκών κατάρτισης 
+• training of trainers 
+formation de formateurs 
+κατάρτιση εκπαιδευτών / 
+εκπαίδευση εκπαιδευτών 
+• transferability of learning 
+outcomes 
+transférabilité des 
+résultats/acquis 
+d’apprentissage 
+μεταφερτότητα μαθησιακών 
+αποτελεσμάτων / δυνατότητα 
+µεταφοράς/µεταβίβασης 
+μαθησιακών αποτελεσμάτων 
+• transition from school or 
+training to work 
+transition de l’école à l’emploi 
+/ transition formation-emploi / 
+transition de l’enseignement 
+vers la vie active 
+μετάβαση από το σχολείο ή 
+την κατάρτιση προς την 
+εργασία 
+• transparency of  
+qualifications 
+transparence des 
+qualifications 
+διαφάνεια προσόντων 
+• tutoring 
+tutorat 
+εκπαιδευτική εποπτεία 
+• unit (ECVET) 
+unité (ECVET) 
+ακαδημαϊκή μονάδα (ECVET) 
+• upper secondary 
+education (ISCED 3) 
+deuxième cycle de 
+l’enseignement secondaire 
+(CITE 3) 
+ανώτερη δευτεροβάθμια 
+εκπαίδευση (ISCED 3) 
+• upskilling 
+perfectionnement 
+professionnel 
+αναβάθμιση ικανοτήτων 
+• validation of learning 
+outcomes 
+validation des résultats/acquis 
+d’apprentissage 
+επικύρωση μαθησιακών 
+αποτελεσμάτων 
+• valuing learning 
+valorisation de l’apprentissage 
+ανάδειξη της αξίας της 
+μάθησης 
+• vocational education and 
+training (VET) 
+enseignement et formation 
+professionnels (EFP) 
+επαγγελματική εκπαίδευση και 
+κατάρτιση (ΕΕΚ) 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+14 
+ 
+Bibliographie 
+Alexander, P.A.; Schallert, D.L.; Hare, V.C. Coming to terms – How researchers in learning and 
+literacy talk about knowledge. Review of Educational Research, 1991, Vol. 61, No 3, p. 315-343. 
+Alexander et al. The international encyclopaedia of education. Oxford: Pergamon, 1994. 
+AFPA – Association nationale pour la formation professionnelle des adultes. Vocabulaire des 
+formateurs. Paris: AFPA, 1992. 
+Bolton, E. A conceptual analysis of the mentor relationship in the career development of women. 
+Adult Education Quarterly, 1980, Vol. 30, No 4, p. 195-207. 
+Canadian Information Centre for International Credentials / Centre d’information canadien sur les 
+diplômes internationaux [2007]. Guide to terminology usage in the field of credentials recognition 
+and mobility in English in Canada = Guide d’usage terminologique dans le domaine de la mobilité 
+et de la reconnaissance des titres et diplômes en milieu francophone au Canada. Consultable en 
+ligne: http:// www.cicic.ca/en/Guide.aspx?sortcode=2.17.17 [cité 23.11.2007] 
+Cedefop; Bjørnåvold, J. Making learning visible: identification, assessment and recognition of 
+non-formal learning in Europe. Luxembourg: Publications Office, 2000 (Cedefop Reference 
+series). 
+Cedefop; Tissot, P. Glossary on identification, assessment and recognition of qualifications and 
+competences and transparency and transferability of qualifications. In Cedefop; Bjørnåvold, J. 
+Making learning visible: identification, assessment and recognition of non-formal learning in 
+Europe. Luxembourg: Publications Office, 2000 (Cedefop Reference series). 
+Cedefop; Tissot, P. Terminology of European education and training policy – A selection of 100 
+key terms. Luxembourg: Publications Office, 2004. Consultable en ligne: 
+http://europass.cedefop.europa.eu/glossary [cité 23.07.2009] 
+Cedefop; Tissot, P. Terminology of vocational training policy – A multilingual glossary for an 
+enlarged Europe. Luxembourg: Publications Office, 2004. 
+Code du travail (partie législative). Article L900-2. Consultable en ligne: http://formation-
+enligne.com/moodle163/les_parcours/L900-2.PDF [cité 23.11.2007] 
+Council of the European Union, General Secretariat. Presidency Conclusions: Lisbon European 
+Council: 23 and 24 March 2000. Brussels: General Secretariat of the Council of the European 
+Union, 2000. Consultable en ligne: 
+http://libserver.cedefop.europa.eu/vetelib/eu/pub/council/2000_0001_en.pdf [cité 23.11.2007] 
+Economic and Social Committee. Opinion of the Economic and Social Committee on the role and 
+contribution of civil society organisations in the building of Europe = Avis du Comité économique 
+et social sur le rôle et la contribution de la société civile organisée dans la construction 
+européenne. Brussels 22 September 1999. Consultable en ligne: 
+http://www.eesc.europa.eu/sco/docs/ces851-1999_ac_en.PDF [cité 23.11.2007] 
+ETF – European Training Foundation. Glossary of labour market terms and standard and 
+curriculum development terms. Turin: ETF, 1997. 
+European Environment Agency [2004]. EEA multilingual environmental glossary [en ligne]. 
+Consultable en ligne: http://glossary.eea.eu.int/EEAGlossary/ [cité 23.11.2007]. 
+European Commission. Communication from the Commission – Making an European area of 
+lifelong learning a reality = Réaliser un espace européen de l’éducation et de la formation tout au 
+long de la vie, Luxembourg: Publications Offi ce, 2001. Consultable en ligne: 
+http://ec.europa.eu/education/policies/lll/life/communication/com_en.pdf [cité 23.11.2007]. 
+European Commission [2004]. ECTS – European credit transfer and accumulation system [en 
+ligne]. Consultable en ligne: http://ec.europa.eu/education/programmes/ 
+socrates/ects/index_en.html. [cité 23.11.2007]. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+15 
+ 
+European Commission. European Credit system for Vocational Education and Training (ECVET) - 
+Ευρωπαϊκό σύστημα ακαδημαϊκών μονάδων για την επαγγελματική εκπαίδευση και κατάρτιση 
+(ECVET) Consultable en ligne: 
+http://europa.eu/legislation_summaries/education_training_youth/lifelong_learning/c11107_en.ht
+m [cité 23.07.2009]. 
+European Commission. Proposal for a directive of the European Parliament and of the Council on 
+the recognition of professional qualifications, COM(2002) 119 final. Luxembourg: Publications 
+Office, 2002. Consultable en ligne: http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52002PC0119:EN:HTML [cité 23.11.2007]. 
+European Commission. Implementing the Community Lisbon Programme. Proposal for a 
+Recommendation of the European Parliament and of the Council on the establishment of the 
+European qualifications framework for lifelong learning (presented by the Commission). 
+Luxembourg: Publications Office, 2006a. Consultable en ligne: 
+http://ec.europa.eu/education/policies/educ/eqf/com_2006_0479_en.pdf [cité 23.11.2007]. 
+European Commission. Recommendation of the European Parliament and of the Council of 10 
+November 2005 on key competences for lifelong learning, COM(2005) 548 final. Luxembourg: 
+Publications Office, 2006b. Consultable en ligne: 
+http://ec.europa.eu/education/policies/2010/doc/keyrec_en.pdf [cité 23.11.2007]. 
+Eurovoc thesaurus / Office for Official Publications of the European Communities. Luxembourg: 
+Publications Office, 2005. Consultable en ligne: http://europa.eu/eurovoc [cité 23.11.2007]. 
+Eurydice. TESE – Thesaurus for education systems in Europe. Brussels: Eurydice, 2006. 
+Consultable en ligne: 
+http://www.eurydice.org/portal/page/portal/Eurydice/showPresentation?pubid=051EN [cité 
+23.11.2007]. 
+IATE – InterActive Terminology for Europe. Consultable en ligne: http://iate.europa.eu [cité 
+23.07.2009]. 
+ILO – International Labour Organization. ILO thesaurus = Thesaurus BIT = Tesauro OIT: labour, 
+employment and training terminology. Geneva: ILO, 1998. Consultable en ligne: 
+http://www.ilo.org/public/english/support/lib/tools/aboutthes.htm [cité 23.11.2007]. 
+ISO – International Standards Organization, Standardisation and related activities: general 
+vocabulary. Geneva: ISO, 1996. 
+Knowles, M.S. Self-directed learning. New York: Association Press, 1975. 
+Landsheere G. de. Dictionnaire de l’évaluation et de la recherche en éducation. Paris: PUF, 1979. 
+Le Préau – Chambre de Commerce et d’Industrie de Paris. Quel modèle qualité pour la e-
+formation?: les normes qualité existantes répondent-elles aux besoins des acteurs de la e-
+formation? Paris: Le Préau, 2002. Consultable en ligne: 
+http://www.preau.ccip.fr/images/etudes/etude_modele_qualite.pdf [cité 23.11.2007]. 
+Lopez-Bassols, V. ICT skills and employment. Paris: OECD, 2002, (STI workingpapers). 
+Consultable en ligne: 
+http://www.olis.oecd.org/olis/2002doc.nsf/43bb6130e5e86e5fc12569fa005d004c/db2bda9e479dbf
+9ac1256bf90055744f/$FILE/JT00129725.PDF [cité 23.11.2007]. 
+Malot, N. Forum QFD (Quality function deployment). Paris: Le Préau – Chambre de Commerce et 
+d’Industrie de Paris, 2000. 
+Ministère de l’éducation nationale [2007]. Diplômes et attestations: le baccalauréat. Consultable 
+en ligne : http://www.education.gouv.fr/cid143/le-baccalaureat.html [cité 23.11.2007]. 
+New Oxford dictionary of English. Oxford: Oxford University Press, 2001. 
+Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+16 
+ 
+OECD. Assessing and certifying occupational skills and competences in vocational education and 
+training. Paris: OECD, 1996. 
+OECD; Lopez-Bassols, V. ICT skills and employment. Paris: OECD, 2002, (STI working papers). 
+Consultable en ligne: 
+http://www.olis.oecd.org/olis/2002doc.nsf/43bb6130e5e86e5fc12569fa005d004c/db2bda9e479dbf
+9ac1256bf90055744f/$FILE/JT00129725.PDF [cité 23.11.2007]. 
+OECD. Qualifications systems: bridges to lifelong learning = Systèmes de certification:des 
+passerelles pour apprendre à tout âge. Paris: OECD, 2007. 
+OECD. The well-being of nations: the role of human and social capital. Paris: OECD, 2001. 
+Ohlsson, S. Declarative and procedural knowledge. In The international encyclopedia of 
+education. Oxford: Pergamon, 1994, Vol. 3, p. 1432-1434. 
+Polanyi, M. The tacit dimension. London: Routledge, 1966. 
+Prawat, R.S. Promoting access to knowledge, strategy, and disposition in students: a research 
+synthesis. Review of education, 1989, Vol. 59, No 1, p. 1-41. 
+Scottish executive [2007]. What is employability? [online]. Available from Internet: 
+http://www.scotland.gov.uk/Topics/Business-Industry/Employability/defi nition [cité 23.11.2007]. 
+Spendolini, J.M. The benchmarking book. New York: American Management Association, 1992. 
+The institute for employment studies [1999]. Employability and employers: the missing piece of 
+the jigsaw. Consultable en ligne: 
+http://www.employmentstudies.co.uk/summary/summary.php?id=361 [cité 23.11.2007]. 
+Unesco; Titmus, C. et al. Terminology of adult education = Terminologia de la educación de 
+adultos = Terminologie de l’éducation des adultes. Paris: Unesco, 1979. Consultable en ligne: 
+http://unesdoc.unesco.org/images/0003/000322/032265mo.pdf [cité 23.11.2007]. 
+Unesco. International Standard Classifi cation of Education (ISCED) = Classification 
+internationale type de l’éducation (CITE). Paris: Unesco, 1997. Consultable en ligne: 
+http://www.unesco.org/education/information/nfsunesco/doc/isced_1997.htm [cité 23.11.2007]. 
+Unesco. Unesco thesaurus. Paris: Unesco, 1995. Consultable en ligne: 
+http://databases.unesco.org/thesaurus/ [cité 23.11.2007]. 
+UCAS – Universities and colleges admissions service [2003]. Helping students into higher 
+education [online]. Available from Internet: http://www.ucas.co.uk [cité 23.11.2007]. 
+ 
+Philippe Tissot 
+Centre européen pour le développement de la formation professionnelle (Cedefop) 
+PO Box 22427, GR-55102 Thessaloniki 
+Tél. (30) 2310 490 110 
+Courriel: philippe.tissot@cedefop.europa.eu 
+ 
+Eleni Koulali,  
+Eteokleous 19, GR-54250 Thessalonique 
+Tél. (30) 2310 325 703 
+Courriel: philelen@otenet.gr 
+ 
+ 
+ 
+ 

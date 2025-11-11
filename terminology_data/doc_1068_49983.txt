@@ -1,0 +1,603 @@
+SOURCE: http://www.eleto.gr/download/Conferences/13th%20Conference/Papers-and-speakers/13th_19_08_06_PanagiotouMalamatenia_GkatzionisKonstantinos_Paper_inENg.pdf
+
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+Terminology of the field named “sensory linguistics” in Greek: 
+proposal for validation and standardization 
+Malamatenia Panagiotou, Konstantinos Gkatzionis 
+ABSTRACT 
+In the English language the term “sensory” denotes the related to the senses and is used in collocations 
+such as sensory perception, sensory organs, sensory studies, sensory modalities, sensory vocabulary, 
+sensory lexicon, sensory adjectives, sensory analysis, sensory linguistics. In Greek bibliography, in 
+Greek dictionaries, and in official translations of documents issued by the European Union, the term 
+“sensory” has been translated as “αισθητηριακός”, “αισθητήριος”, “αισθητικός” and “οργανοληπτικός”, 
+depending on the meaning of the term in each case. As the field of sensory linguistics, i.e., the study of 
+the connection between language and the senses, is being enriched by new studies and finds 
+applications in various domains, such as that of food, advertising, and lexicography, the need for 
+terminology in the Greek language is evident. The present study presents the field of sensory linguistics, 
+the possibilities in translating and defining the term “sensory” in collocations of this field [sensory 
+modalities, sensory vocabulary, sensory lexicon, sensory adjectives, sensory linguistics] and makes a 
+final proposal for validation and standardization of this terminology. Aiming at reinforcing the status of 
+the Greek language as an effective language for the production of knowledge, dissemination of ideas, 
+and communication between Greek scientists, it is important to have standardized, validated 
+terminology for the field of sensory linguistics in Greek.   
+ 
+ 
+ 
+ 
+0   Introduction 
+Humans live in a physical world which they perceive through their senses: sight, hearing, 
+smell, touch, and taste. In antiquity, Aristotle studied in depth and talked about the senses, 
+and his division of them into five has been maintained until today to a large extent even 
+though a lot of stimuli are perceived through more than one senses simultaneously, as is the 
+case with taste and smell when consuming food. How important the senses are for humans 
+becomes evident when one of them is not available, even temporarily. Winter takes it a step 
+further when he says that, if we couldn't express what we perceive through the senses, 
+language would be of no use (Winter, 2019).  
+2 
+The human brain perceives stimuli provided by the environment through the senses and, by 
+performing subconscious and cognitive processes, it makes sense of these stimuli and of 
+our reactions to them – physiological, mental, and emotional. These processes and 
+conscious conclusions are expressed through language, which takes part in the previous 
+stage of cognitive processes as well, as it is known that humans think in words and pictures 
+together.  
+Language though is not a personal means of expression. It is created and acquires sense 
+within a given culture, which influences our perceptions as well. For this reason, the relation 
+between language and the senses is studied within a given language/ culture and across 
+languages/ cultures. It is commonly acknowledged that people from different cultures 
+experience and express the stimuli they perceive through their senses and the emotions that 
+these stimuli provoke in them in different ways. They get pleased and displeased by different 
+experiences. These preferences are shaped by personal experiences but also, to a great 
+extent, by collective cultural habits. There are also variations within population groups in the 
+same culture, according to age, gender, income, or educational level. 
+1   Sensory Studies: related branches of science, object of study  
+In the past few decades, a new scientific field has emerged, that of sensory studies, dealing 
+with the study of the senses and of the human reactions – physiological, cognitive, 
+emotional- to anything from food and medicine to cosmetics and cars. The aim is to develop 
+products and provide services in a focused and successful way, as well as to promote them 
+effectively. The field of sensory studies makes use of scientific branches such as food 
+science, linguistics, psychology, medicine, statistics, trade, advertising, and many others. 
+Within the framework of today’s technological advances and consumers’ demands for 
+immersive experiences, with the Internet of Things and the Internet of senses under 
+development, 
+investigating 
+consumers 
+demands 
+and 
+needs 
+through 
+tests 
+and 
+questionnaires or through opinion mining and sentiment analysis in social media, attracts the 
+interest of industry and is done by using tools developed from academic and theoretical 
+studies. What is also essential is to detect target groups of consumers interested in a 
+specific product and this is done by using demographic data as well. A field that has a lot to 
+offer to these studies is linguistics.  
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+3 
+2   Sensory Linguistics: key notions1, object of study 
+“Sensory linguistics” is the field that studies the ways in which language is related to the 
+senses and attempts to answer questions such as: how is what we perceive through the 
+senses grouped into words? which physical features are easier to express through words? 
+how are languages different in the way they encode what is perceived through the senses? 
+how are words linked to the cognitive systems in our brain? (Winter, 2019).  
+Key to the field of sensory linguistics is the “theory of embodiment” or else “the embodied 
+lexicon hypothesis” according to which language depicts perception as cognition and 
+language are constructed through constant interaction with the environment through our 
+body (our senses) and our brain (Diederich, 2015; Winter, 2019). 
+What has already been studied is how many words there are relative to specific senses per 
+language (Viberg, 1983), how often we talk about each sense (San Roque et al., 2015) and 
+how metaphor2 (de Ullmann, 1945; Williams, 1976) and iconicity3 (Marks, Carterette and 
+Friedman, 1978; Dingemanse, 2012) are used to achieve reference to the physical world 
+around us (Winter, 2019).  
+Linguistic studies of the senses use various sources, such as dictionaries, thesauri, corpora, 
+the Internet, and consumers, as well as various methods, such as semiotic analysis and 
+frame semantics, and deal with verbs, nouns, and adjectives. Most studies seem to focus on 
+adjectives since these descriptors combine objective and subjective evaluation. These 
+adjectives are called “sensory adjectives” and are the parts of speech that attribute features 
+as they are perceived through the senses, like attributes of taste, warmth, texture etc 
+(Diederich, 2015; Winter, 2019).  
+Within the field of sensory studies, terms are collected into lists, called “sensory lexicons”, 
+and they are lists of terms used to describe products as they are perceived by consumers 
+through their senses, for example, hard, noisy, soothing, feminine etc. There are many such 
+lexicons, quite a few related to food, such as various types of tea, caviar, kinoa, honey, and 
+others (Galán-Soldevilla et al., 2005; Fenko, Otten and Schifferstein, 2010; Koch et al., 
+                                                          
+1  
+The correspondence between English and Greek terms is given in chapter 4 of the present paper.  
+2  
+Metaphor, and more specifically within the field of sensory linguistics “synaesthetic metaphor”, is the 
+usage of properties perceived through a specific sense to describe a notion that belongs to a 
+different sense, i.e., harsh sound [harshness is perceived through touch while sound is perceived 
+through hearing]. 
+3  
+Iconicity is the way of attributing meaning when the word depicts reality as is the case with sound 
+(onomatopoeic) words (e.g., barking), in contrast to symbolism when there is no real connection to 
+the referred object (e.g., dog). 
+4 
+2012; Ng, Chaya and Hort, 2013; Baker et al., 2014; Wu et al., 2017). In the Greek language 
+there are such lists of terms only for coffee and wine. These lists though contain mainly 
+technical terms which are hard to be understood by non-experts, like body (for coffee), felt 
+tannins, sharp (wine), reductive (aroma).  
+Other studies target consumers’ emotions elicited by certain products and the so called 
+“emotion lexicons” are created containing emotions, either related to food in general or 
+elated to a specific food category in a given language.  
+Combining sensory and emotion lexicons with liking and sensory measurements as well as 
+demographic data of participants in food studies can provide directions for the focused 
+development and successful marketing of products.  
+There are also linguistic studies, the so called “sensory norms”, that deal with the semantic 
+mapping of words related to the senses as regards valence, i.e., if a word is considered 
+positive or negative, sensory modality, and sensory exclusivity, i.e., which senses participate 
+to the perception of a specific attribute or action and to what degree, etc. 
+Such research is being done in Greece too lately. Thus, it is important for scientists to be 
+able to communicate with each other and with experts of other fields where findings of the 
+sensory field are applied. The need for terminology, available and standardized for the 
+Greek language, is evident.  
+3   The term “sensory” in English and its possible translational equivalents 
+into Greek 
+3.1   How the term “sensory” is defined in English 
+In Table 1, the term “sensory” is presented with its definitions. The term appears to refer to 
+that which is related to: 1) the five senses, 2) the ability of sensation, and 3) the ability to 
+perceive stimuli through the senses. 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+5 
+Table 1: Definitions of the term “sensory” in English dictionaries 
+connected with the physical senses of touch, smell, taste, hearing, and sight 
+https://dictionary.cambridge.org/dictionary/english/sensory 
+1. of or relating to the senses or the power of sensation 
+2. of or relating to those processes and structures within an organism that receive stimuli 
+from the environment and convey them to the brain  
+Word origin: from Latin sensōrius, from sentīre to feel 
+https://www.collinsdictionary.com/dictionary/english/sensory [from Collins English Dictionary. 
+Copyright © HarperCollins Publishers] 
+1. of the senses or sensation 
+2. connected with the reception and transmission of sense impressions 
+Also senˈsorial (ˈsɛnˈsɔriəl)  
+Word origin: sense + -ory https://www.collinsdictionary.com/dictionary/english/sensory 
+[from Webster’s New World College Dictionary, 4th Edition. Copyright © 2010 by Houghton 
+Mifflin Harcourt] 
+ 
+3.2   How the term “sensory” is translated into Greek 
+In Table 2, various translations of the term “sensory” are given, as provided in parallel 
+documents issued by the European Union in English and in Greek (the term is used in 
+domains such as health/ medicine, information technology, chemistry, agriculture, and 
+education), in European Union Law, in the European Union glossary, and an English-Greek 
+dictionary of translations (Glosbe). Collocations of the equivalent terms are also provided as 
+found in examples in two major Greek dictionaries. 
+Table 2: Translational equivalents of the term “sensory” 
+Sources: 
+European Union (EU) sources: https://iate.europa.eu/home,  
+https://eur-lex.europa.eu/homepage.html 
+Glosbe: https://glosbe.com/ 
+Dictionary of Modern Greek (DMG)  
+6 
+Dictionary of Standard Modern Greek (DSMG) 
+https://www.greek-
+language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/index.html 
+gro
+up 
+2nd 
+word 
+in 
+collocation 
+1. 
+οργανοληπτικός 
+2. 
+αισθητηριακός 
+3. 
+αισθητήριος 
+4. 
+αισθητικός 
+1 
+ανάλυση 
+ 
+EU 
+ 
+ 
+1 
+χαρακτηριστικά 
+ 
+EU 
+ 
+ 
+1 
+εξέταση 
+ 
+EU 
+ 
+ 
+1 
+δοκιμασία 
+ 
+EU 
+ 
+ 
+1 
+αξιολόγηση 
+ 
+EU 
+ 
+ 
+1 
+εκτίμηση 
+ 
+EU 
+ 
+ 
+1 
+έλεγχος 
+ 
+EU 
+ 
+ 
+1,2 
+προφίλ 
+EU 
+EU 
+ 
+ 
+1,2 
+ιδιότητα 
+DSMG 
+EU 
+ 
+ 
+2 
+διαφορά 
+ 
+EU 
+ 
+ 
+2 
+λειτουργία 
+ 
+EU, Glosbe 
+ 
+ 
+2 
+παρατηρητής 
+ 
+EU 
+ 
+ 
+2 
+ευαισθησία 
+ 
+EU 
+ 
+ 
+2 
+μνήμη 
+ 
+EU 
+ 
+ 
+2 
+όρος 
+ 
+EU 
+ 
+ 
+2 
+έλλειμμα 
+ 
+EU 
+ 
+ 
+2 
+ανταπόκριση 
+ 
+EU 
+ 
+ 
+2 
+κόπωση 
+ 
+EU 
+ 
+ 
+2 
+εντύπωση 
+ 
+EU, DSMG 
+ 
+ 
+2 
+ικανότητα 
+ 
+Glosbe 
+ 
+ 
+2 
+καταγραφή 
+ 
+Glosbe 
+ 
+ 
+2 
+ερέθισμα 
+ 
+DMG, DSMG 
+ 
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+7 
+2 
+διέγερση 
+ 
+DSMG 
+ 
+ 
+2 
+εμπειρία 
+ 
+DSMG 
+ 
+ 
+2 
+δεδομένα 
+ 
+DSMG 
+ 
+ 
+2,3 
+αντίληψη 
+ 
+EU, Glosbe 
+Glosbe 
+ 
+2,3 
+αναπηρία 
+ 
+EU 
+EU 
+ 
+2,3 
+δραστηριότητα 
+ 
+Glosbe 
+Glosbe 
+ 
+3 
+απώλεια 
+ 
+ 
+EU 
+ 
+3,4 
+όργανο 
+ 
+ 
+EU, DSMG 
+Glosbe 
+3,4 
+νεύρο 
+ 
+ 
+DSMG 
+DSMG 
+4 
+κύτταρο 
+ 
+ 
+ 
+DSMG 
+4 
+κέντρο 
+ 
+ 
+ 
+DSMG 
+4 
+σύστημα 
+ 
+ 
+ 
+EU, Glosbe 
+4 
+διαταραχή 
+ 
+ 
+ 
+EU 
+4 
+δεξιότητα 
+ 
+ 
+ 
+EU 
+ 
+3.3   Grouping the translational equivalents of the term “sensory”  
+Four groupings of the Greek equivalents of the term “sensory” as shown in the first column 
+of Table 2 seem to emerge. There are however “gray” collocations, that belong to two 
+groups. These are the cases where term “sensory” can be translated into Greek by two 
+different terms. The collocations that belong to group 1 are clear cases and refer to food 
+attributes perceived through the senses and translated by “οργανοληπτικός”. The same 
+goes to the terms that belong to group 4, that refer to sensory organs, and are translated by 
+the term “αισθητικός”. The term “sensory” in the collocations of group 3 can be translated by 
+the Greek equivalent for groups 2 and 4, that is, instead of “αισθητήριος”, it can be 
+translated as “αισθητηριακός” or “αισθητικός”. The conclusion drawn from Table 2 is that the 
+term “αισθητηριακός” is mostly used as the translational equivalent of “sensory” for all 
+collocational cases except those of groups 1 and 4. 
+8 
+3.4   Definitions of the Greek translational equivalents of the term “sensory”  
+The definitions of the Greek translational equivalents of the term “sensory” as provided in 
+Greek dictionaries are given in Table 3, in order to compare their meanings to the meanings 
+of the original English term. The sources used are two renowned dictionaries of modern 
+Greek: the Dictionary of Modern Greek (DMG) and the Dictionary of Standard Modern Greek 
+(DSMG).  
+Table 3: Definitions of the Greek translational equivalents of the term “sensory”: 
+ 
+ 
+DMG 
+DSMG 
+1 
+οργανοληπτικός 
+[ΧΗΜ] [για τις ιδιότητες των 
+τροφίμων] αυτός που γίνεται 
+αντιληπτός από τα αισθητήρια 
+όργανα [π.χ. οργανοληπτικά 
+χαρακτηριστικά των τροφίμων 
+είναι το χρώμα, η οσμή, η 
+γεύση και η υφή] 
+ 
+ 
+- 
+2 
+αισθητηριακός 
+αυτός που σχετίζεται με τα 
+αισθητήρια 
+όργανα 
+[πχ 
+αισθητηριακό ερέθισμα] 
+που γίνεται ή γενικά σχετίζεται με 
+τα αισθητήρια όργανα 
+3 
+αισθητήριος 
+[αρχ.] αυτός που σχετίζεται με 
+τις αισθήσεις 
+που έχει σχέση με τις αισθήσεις 
+4 
+αισθητικός 
+1. αυτός που σχετίζεται με τις 
+αισθήσεις και την αντίληψη 
+διά μέσου αυτών 
+ 
+που έχει σχέση με τις αισθήσεις. 
+α. 
+(φυσιολ.) 
+αισθητήριος: 
+Aισθητικές ίνες. Οι αισθητικές 
+θηλές της γλώσσας / ρίζες του 
+νωτιαίου μυελού. Aισθητικό νεύρο 
+/ κέντρο. Aισθητικά κύτταρα. β. 
+(σπάν.) που αισθάνεται: Aισθητι-
+κά όντα. γ. που προέρχεται από 
+τις αισθήσεις: Aισθητική παράστα-
+ση. Οι γνώσεις του ανθρώπου 
+είναι νοητικές ή αισθητικές. 
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+9 
+These definitions explain the groupings made in Table 2. The term “οργανοληπτικός” that 
+appears in group 1 of collocations is a technical term that refers to the organoleptic 
+perception of food attributes through the senses and can be easily distinguished from the 
+rest of the terms. The term “αισθητήριος” of group 3 is characterized in one of the 
+dictionaries as archaic and so it is semantically covered by the terms “αισθητηριακός” and 
+“αισθητικός” of the groups 2 and 4.  
+4   Final proposal for the translation of the term “sensory linguistics” and the 
+key terms/ notions of the field into Greek for validation and 
+standardization:  
+Following the two possible etymologies of the English term that appear in Table 1, if the 
+word “sensory” comes from the noun “sense” then the Greek term could be formed from the 
+noun “αίσθηση” and be “αισθητικός”. Thus, “sensory linguistics” would be “αισθητική 
+γλωσσολογία”. But as one can conclude from the collocations offered for the term “sensory” 
+in Table 2 and from the definitions and the examples of the word “αισθητικός” in Greek 
+dictionaries as shown in Table 3, the term «αισθητικός» cannot cover the same semantic 
+and pragmatic instances as the English term. So, such a proposal would be incorrect. 
+If the term “sensory” derives from the noun “sensor” according to the second etymology 
+provided in Table 1, then the Greek term could be formed from the noun “αισθητήρ(ας)” and 
+be either “αισθητήριος” or “αισθητηριακός”. The term “αισθητήριος” is archaic and is less 
+used than the term “αισθητηριακός”, as explained in the two Greek dictionaries in Table 3, 
+and the translational equivalents of the term “sensory” in Table 2. Therefore, the term 
+“sensory” in the field of sensory linguistics should be translated as “αισθητηριακός”.  
+An alphabetical listing of corresponding terms from English into Greek, as presented and 
+used in the present paper, follows for validation and standardization: 
+(emotional) valence= (συναισθηματικό) σθένος 
+embodied lexicon= ενσώματο λεξιλόγιο 
+embodiment=ενσωμάτωση 
+emotion lexicon= λεξιλόγιο / γλωσσάρι συναισθημάτων 
+modality exclusivity= τροπική αποκλειστικότητα 
+sensory adjectives= αισθητηριακά επίθετα  
+sensory lexicon= αισθητηριακό γλωσσάρι / λεξιλόγιο / λεξικό 
+sensory linguistics= αισθητηριακή γλωσσολογία 
+sensory modality= αισθητηριακή τροπικότητα 
+10 
+sensory vocabulary= αισθητηριακό λεξιλόγιο / γλωσσάρι 
+sensory= αισθητηριακός 
+syn(a)esthesia= συναισθησία 
+syn(a)esthetic metaphor= συναισθητική μεταφορά 
+ 
+Bibliographic References: 
+Baker, A. K. et al. (2014) ‘Development of a Lexicon for Caviar and Its Usefulness for 
+Determining Consumer Preference’, Journal of Food Science. doi: 10.1111/1750-
+3841.12703. 
+Diederich, C. (2015) Sensory Adjectives in the Discourse of Food. John Benjamins 
+Publishing Company. doi: 10.1075/celcr.16. 
+Dingemanse, M. (2012) ‘Advances in the Cross-Linguistic Study of Ideophones’, Linguistics 
+and Language Compass. doi: 10.1002/lnc3.361. 
+Fenko, A., Otten, J. J. and Schifferstein, H. N. J. (2010) ‘Describing product experience in 
+different languages: The role of sensory modalities’, Journal of Pragmatics. doi: 
+10.1016/j.pragma.2010.05.010. 
+Galán-Soldevilla, H. et al. (2005) ‘Development of a preliminary sensory lexicon for floral 
+honey’, Food Quality and Preference. doi: 10.1016/j.foodqual.2004.02.001. 
+Koch, I. S. et al. (2012) ‘Sensory characterization of rooibos tea and the development of a 
+rooibos 
+sensory 
+wheel 
+and 
+lexicon’, 
+Food 
+Research 
+International. 
+doi: 
+10.1016/j.foodres.2011.11.028. 
+Marks, L. E., Carterette, E. C. and Friedman, M. P. (1978) ‘The Unity of the Senses : 
+interrelations among the modalities’. Academic Press, p. 302. 
+Ng, M., Chaya, C. and Hort, J. (2013) ‘Beyond liking: Comparing the measurement of 
+emotional response using EsSense Profile and consumer defined check-all-that-apply 
+methodologies’, Food Quality and Preference. doi: 10.1016/j.foodqual.2012.08.012. 
+San Roque, L. et al. (2015) ‘Vision verbs dominate in conversation across cultures, but the 
+ranking of non-visual verbs varies’, Cognitive Linguistics. Walter de Gruyter GmbH, 26(1), 
+pp. 31–60. doi: 10.1515/COG-2014-0089. 
+de Ullmann, S. (1945) ‘Romanticism and Synaesthesia: A Comparative Study of Sense 
+Transfer in Keats and Byron’, PMLA/Publications of the Modern Language Association of 
+America. Cambridge University Press (CUP), 60(3), pp. 811–827. doi: 10.2307/459180. 
+Viberg, Å. (1983) ‘The verbs of perception: a typological study’, Linguistics, 21(1). doi: 
+10.1515/ling.1983.21.1.123. 
+Williams, J. M. (1976) ‘Synaesthetic Adjectives: A Possible Law of Semantic Change’, 
+Language. doi: 10.2307/412571. 
+Winter, B. (2019) Sensory Linguistics. doi: 10.1075/celcr.20. 
+Wu, G. et al. (2017) ‘Lexicon Development, Consumer Acceptance, and Drivers of Liking of 
+Quinoa Varieties’, Journal of Food Science. doi: 10.1111/1750-3841.13677. 
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+11 
+ 
+Internet sources: 
+Dictionaries: 
+https://dictionary.cambridge.org/dictionary/english/sensory 
+https://www.collinsdictionary.com/dictionary/english/sensory 
+https://glosbe.com/ 
+https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/glossology/index.html 
+https://www.greek-
+language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/index.html 
+European Union Webpages: 
+https://eur-lex.europa.eu/homepage.html 
+https://iate.europa.eu/home 
+ 
+Authors: 
+Malamatenia Panagiotou  
+Teacher of English / Lexicographer / PhD candidate  
+Department of Food Science and Nutrition, University of the Aegean 
+Mitropoliti Ioakeim 2, 81400, Myrina, Lemnos 
+email: teniapanagiotou@gmail.com 
+ 
+Dr Konstantinos Gkatzionis 
+Associate Professor / Director of Laboratory of Consumer Responses and Sensory 
+Perception of Food & Drinks’ (ConsumerLab) / Head of Department of Food Science and 
+Nutrition, University of the Aegean 
+Mitropoliti Ioakeim 2, 81400, Myrina, Lemnos  
+email: kgkatzionis@aegean.gr 

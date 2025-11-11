@@ -1,0 +1,301 @@
+SOURCE: http://www.eleto.gr/download/Conferences/4th%20Conference/4th_29-32-Valasi-Ioanna.pdf
+
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+1 
+ 
+EQUIVALENCE TERMINOLOGIQUE ET DISSYMETRIE LEXICALE DANS LE 
+LANGAGE DU TOURISME 
+ 
+I. Valasi 
+RÉSUMÉ 
+ 
+Cet article traitera les difficultés traductionnelles dans le domaine du tourisme. Plus précisément, il 
+répondra aux questions des traducteurs comme : « La traduction littérale est la solution la plus 
+appropriée ? » A cette question, un corpus basé sur des brochures touristiques montre qu’il faut se 
+méfier de la forme et essayer d’identifier le concept exprimé concernant quelques unités 
+terminologiques. 
+ 
+ 
+TERMINOLOGY EQUIVALENCE AND LEXICAL DISSYMMETRY IN THE 
+LANGUAGE OF TOURISM 
+I. Valasi 
+RESUME 
+ 
+This paper treats the difficulties of the translation in the field of tourism. More particularly, it will answer 
+the questions of translators like: « Literal translation is the most appropriate solution ? ». In this 
+question, a corpus based in brochures of tourism shows that it is necessary to distrust the « letter » and 
+to try to identify the « spirit »of the source language regarding some terminological units. 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+En étudiant le langage du tourisme (à l’aide d’un corpus que nous avons constitué), nous 
+avons constaté que la dissymétrie lexicale est très étroitement liée avec la mise en 
+équivalence de deux langues, dans notre cas, du grec et du français. Dans une approche 
+interlinguale, le français emploie une désignation – syntagme nominal pour le même 
+concept, tandis que le grec utilise une désignation - terme. Dans une approche intralinguale, 
+nous avons remarqué qu’, en français, le même concept peut être désigné de plusieurs 
+termes, de structures différentes ayant toujours comme équivalent en grec un seul terme. 
+Dans un premier temps, nous allons exposer la démarche méthodologique adoptée pour 
+aborder ce sujet, et par la suite, nous allons essayer d’analyser la dissymétrie lexicale entre 
+ces deux langues. 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+2 
+2. 
+METHODOLOGIE 
+Afin de mieux étudier le langage du tourisme et les problèmes qu’il pose, nous avons 
+constitué un glossaire bilingue, français – grec. Nous avons utilisé comme ressources pour 
+la partie française de notre corpus, les brochures retirés de l’Office de Tourisme de Nice. 
+L’Internet nous a aussi aidé pour collecter des informations. Pour la partie grecque, nous 
+n’avons cherché que sur les sites web publicitaires parce que nous n’avons pas pu trouver 
+de matériel écrit en grec. 
+L’étude des brochures et des sites nous a permis de récolter 1897 unités phraséologiques 
+avec leurs équivalents en grec. Les unités phraséologiques sont traités à l’aide des logiciels 
+MultEdit et ZLoc, lesquels font partie de l’environnement ZStation. ZStation est un ensemble 
+des logiciels de traitement des données qui est conçu et développé par M. le Professeur H. 
+Zinglé. 
+ 
+3. 
+CATÉGORISATION 
+L’analyse de la partie française du corpus nous a montré qu’elle est composée pour un 
+certain nombre d’exemples par un terme et par un syntagme nominal. La structure N Prép N 
+(Nom Préposition Nom) est très fréquente. La traduction littérale accompagne le terme en 
+français et en grec. Pour la traduction littérale, nous avons employé le sens propre du 
+terme. 
+Nous classons les termes en catégories par rapport à leurs structures morphologiques. Les 
+catégories sont déterminées en fonction de la structure grecque et sont les suivantes : 
+• 
+Ellipse du terme noyau 
+• 
+Ellipse du syntagme prépositionnel 
+• 
+Présence d’un modifieur 
+• 
+Composés appositionnels 
+ 
+3.1 
+ELLIPSE DU TERME NOYAU 
+Dans cette catégorie, il y a des termes simples et des syntagmes nominaux en français. Les 
+termes simples ont comme équivalent un seul terme, par opposition au grec où nous 
+constatons régulièrement l’absence du terme noyau dans les syntagmes nominaux. Plus 
+précisément : 
+ 
+1) 
+accueil  
+(litt. υποδοχή) 
+ 
+ 
+υποδοχή (litt. accueil) 
+bureau d’accueil (litt. γραφείο υποδοχής) 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+3 
+ 
+Le terme « bureau » n’a pas d’équivalent en grec, mais le concept de l’objet grec est le 
+même. 
+2) 
+douche (litt. ντους) 
+ 
+ 
+ 
+ντους (litt. douche) 
+cabine (de) douche (litt. καμπίνα του ντους) 
+ 
+Nous nous sommes permise d’insérer également dans cette catégorie une locution. Une 
+locution qu’en français et spécialement dans le domaine du tourisme est employée sans 
+article. Pour cette raison, la préposition est placée entre parenthèses [Valasi 2002:80-81]. 
+On constate l’ellipse du terme «cabine» en grec. 
+ 
+3) 
+bureau d’information (litt. γραφείο πληροφορίας) 
+ 
+πληροφορίες 
+lieu d’information (litt. χώρος πληροφορίας)  
+ 
+(litt. informations) 
+point d’information (litt. σημείο πληροφορίας) 
+ 
+En français, tous ces termes sont des syntagmes nominaux et non des termes simples. Leur 
+équivalent est «informations». En grec, le terme au pluriel est fondé sur des critères 
+sémantiques et le pluriel confère au terme «informations» une valeur d’indétermination. Les 
+termes «bureau», «lieu», «point» n’ont pas d’équivalent en grec. Ils sont inclus dans le sens 
+global du terme grec. 
+ 
+3.2 
+ELLIPSE DU SYNTAGME PREPOSITIONNEL 
+Dans cette catégorie, nous examinons l’absence de l’équivalent du syntagme prépositionnel 
+en grec. 
+ 
+1) 
+hôtel 
+ 
+(litt. ξενοδοχείο)  
+ 
+ξενοδοχείο (litt. hôtel) 
+hôtel de tourisme (litt. ξενοδοχείο τουρισμού) 
+ 
+Il y a une équivalence entre les deux exemples. L’ellipse du terme«tourisme» est justifié par 
+le fait qu’il est impliqué dans le sens global du terme grec. 
+ 
+2) 
+ticket à l’unité (litt. εισιτήριο εις την μονάδα) 
+ticket de transport (litt. εισιτήριο μεταφοράς)  
+εισιτήριο (litt. ticket) 
+ticket unitaire (litt. μοναδικό εισιτήριο) 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+4 
+Trois structures différentes (N à N, N de N et N Adj) ont comme équivalent en grec une 
+seule structure: N. Nous sommes consciente que la structure N Adj ne fait pas partie de 
+cette catégorie. Mais nous avons décidé de ne pas créer une catégorie à part pour ladite 
+structure parce que notre but n’est pas de fatiguer le lecteur avec des catégorisations 
+portant sur un exemple. 
+Le terme «ticket» en grec est employé pour tous les moyens de transport. En français, il y a 
+deux types d’information : l’information générique introduite par le terme «ticket» et 
+l’information supplémentaire introduite par les syntagmes prépositionnels et le qualificatif. 
+Au contraire le grec ne dispose qu’un seul type d’information : l’information générique. Pour 
+tous ces termes, le grec ne dispose qu’un seul concept. 
+ 
+3) 
+kiosque (litt. κιόσκι) 
+ 
+ 
+ 
+περίπτερο (litt. kiosque) 
+kiosque à journaux (litt. κιόσκι με εφημερίδες) 
+ 
+En grec, le concept de «kiosque» est élargi. En Grèce, dans un kiosque on ne vend pas 
+seulement des journaux, mais aussi des cigarettes, des timbres, de l’eau, des bonbons, etc. 
+Il s’agit d’un découpage différent de la réalité. Par conséquent, l’information supplémentaire 
+«à journaux» en grec est redondante. 
+ 
+3.3 
+PRESENCE D’UN MODIFIEUR 
+Les syntagmes prépositionnels qui déterminent le terme noyau ont comme équivalent en 
+grec un modifieur qui se trouve à la place d’un préfixe. 
+Pour l’ensemble des exemples, nous constatons une redondance de la part du français et 
+plus particulièrement en ce qui concerne le syntagme prépositionnel ou l’adjectif dans le 
+troisième exemple. 
+ 
+1) 
+galerie (litt. πινακοθήκη) 
+ 
+ 
+ 
+πινακοθήκη (litt. galerie) 
+galerie de peinture (litt. πινακοθήκη ζωγραφικής) 
+ 
+L’équivalent du syntagme prépositionnel «de peinture» a comme équivalent en grec le 
+modifieur «πινακο-» qui provient de la racine du terme «peinture». 
+ 
+2) 
+plongée (litt. κατάδυση) 
+ 
+ 
+ 
+κατάδυση (litt. plongée) 
+plongée sous marine (litt. κατάδυση υπό ναυτικό) 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+5 
+Le syntagme «sous marine» a comme équivalent le préfixe «κατα-» qui a le sens de «sous 
+la mer». Dans d’autres structures linguistiques, ce préfixe peut jouer le rôle d’une 
+préposition. 
+ 
+3) 
+fresque (litt. τοιχογραφία)  
+ 
+ 
+τοιχογραφία (litt. fresque) 
+fresque murale (litt. τοιχογραφία του τοίχου) 
+ 
+L’adjectif «murale» en grec a comme équivalent le modifieur qui se trouve au début du mot 
+« τοιχο- ». Ce modifieur est la racine du terme «τοίχος» qui a comme équivalent en français 
+le terme «mur». 
+ 
+3.4 
+COMPOSES APPOSITIONNELS 
+ 
+bar (litt. μπαρ) 
+ 
+ 
+ 
+μπαρ (litt. bar) 
+bar – terrasse (litt. μπαρ - βεράντα) 
+La construction de composés appositionnels dans lesquels le N2 précède du déterminant 
+zéro sert à qualifier le N1. La construction “bar - terrasse” a comme équivalent en grec un 
+seul terme “bar”. Le concept “terrasse” n’est pas inclus dans le concept de l’équivalent grec. 
+Mais il n’y a pas de terme grec pour désigner ce concept. Nous constatons également un 
+découpage différent de la réalité grecque, parce que la plupart des bars en Grèce ont des 
+terrasses et le terme “terrasse” lui-même n’est pas largement répandu dans le langage 
+touristique grec. 
+ 
+3.5 
+ΗYPERONYME VS HYPONYME 
+souffleur (litt. φυσητής) 
+ 
+ 
+      τεχνίτης γυαλιού (litt. fabriquant de verre) 
+souffleur de verre (litt. φυσητής γυαλιού) 
+ 
+Dans cet exemple, c’est l’inverse. Le français n’emploie qu’un mot, tandis que le grec en 
+emploie plusieurs. Le terme équivalent grec pour « souffleur » (φυσητής) existe mais nous 
+ne l’avons pas trouvé dans les brochures. En conséquence, nous avons employé 
+l’équivalent trouvé dans les brochures et non celui donné dans les dictionnaires. 
+Il faut noter que le français met l’accent sur la méthode de fabrication (“souffleur”), tandis 
+que le grec utilise un hyperonyme (“fabriquant”). 
+ 
+ 
+ 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+6 
+4. 
+CONCLUSION 
+Les unités terminologiques sur lesquelles notre étude est basée ne sont pas nombreuses 
+mais elles sont révélatrices pour le traducteur qui va être amené de les interpréter dans un 
+co-texte touristique. Le traducteur, s’appuyant sur sa conception empirique et son bagage 
+culturel, rendra ces unités de traduction dans la langue cible littéralement (mot à mot), 
+tandis que ces réflexes, dans ce cas, sont trompeuses. Chaque unité a sa propre 
+« traduction ». C’est cette spécificité que le traducteur doit respecter et en tenir compte. 
+ 
+BIBLIOGRAPHIE 
+1) Depecker L. (2002) : Entre signe et concept, Eléments de terminologie générale, Presses 
+Sorbonne Nouvelle, Paris. 
+2) Gross, G. (1989) : Les constructions converses du français, Genève : Librairie Droz. 
+3) Kleiber, G. (1994) : Nominales, Paris : Armand Colin. 
+4) Noailly, M. (1990) : Le substantif épithète, Paris : PUF. 
+5) Riegel, M. & J-L Pellat & R. Rioul (1994) : Grammaire méthodique du français, Paris : 
+PUF. 
+6) Triandaphyllidis, M. et al. (1941): Νεοελληνική Γραμματική της δημοτικής, Athènes: ΟΕΣΒ. 
+7) Valasi Ioanna (2001) : Etude contrastive de documents touristiques français et grecs, 
+mémoire de D.E.A. « Sciences et techniques du langage », Université de Nice – Sophia 
+Antipolis. 
+8) Valasi Ioanna (2002) : La structure N+N dans le langage du tourisme, in Abstracts du 
+12ème Colloque International Traduire au XXIe siècle : Tendances et Perspectives, 
+Thessalonique 27-29 septembre 2002, Grèce, pp. 80-81. 
+9) Wagner, R. L. & J. Pinchon (1991), Grammaire du français. Paris : Hachette. 
+10) Zinglé, H. (1999) : La modélisation des langues naturelles : Aspects théoriques et 
+pratiques, Nice : Publications de la Faculté des Lettres, Arts et Sciences Humaines de 
+l’Université de Nice - Sophia Antipolis. 
+ 
+Valasi Ioanna 
+Doctorante Université de Nice 
+Laboratoire d’Ingénierie Linguistique et de Linguistique Appliquée 
+98, Bd Edouard Herriot  06200 Nice 
+tél. : +33674266140 
+fax : +33493375439 
+courriel : valasi_i@yahoo.fr 
+ 

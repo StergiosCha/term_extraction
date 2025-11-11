@@ -1,0 +1,221 @@
+SOURCE: http://www.eleto.gr/download/Conferences/10th%20Conference/Presentations/10th_24_Fragkou_Presentation.pdf
+
+Ιατρική Διερμηνεία και
+Ιατρική Διερμηνεία και 
+Ορολογική Παραγωγή 
+Βάσεις δεδομένων ανοικτών 
+ς
+μ
+πηγών στην Ελληνική;
+Ευφροσύνη (Έφη) Φράγκου
+ΕΛΕΤΟ
+ΝΟΕΜΒΡΙΟΣ
+ΕΛΕΤΟ – ΝΟΕΜΒΡΙΟΣ 2015
+Πλάνο Παρουσίασης 
+1. Ορισμοί
+ρ
+μ
+2. Ανοικτά Δεδομένα vs. Ανοικτές 
+Π
+έ
+Πηγές
+3. Η σημερινή πραγματικότητα
+3
+ημ ρ ή
+ρ γμ
+η
+4. «Κίνητρο-Συντονισμός-Διαχείριση 
+Π λ
+λ
+ό
+Πολυπλοκότητας»
+5. Μια εναλλακτική πρόταση
+5
+ή
+ρ
+η
+Ιατρική διερμηνεία
+Ιατρική διερμηνεία 
+¾ Τί είναι η «κοινοτική ιατρική διερμηνεία»;
+η
+ή
+ρ
+ή
+ρμη
+;
+¾ Σε τί διαφέρει από τη διερμηνεία
+¾ Σε τί διαφέρει από τη διερμηνεία 
+συνεδριάσεων;
+¾ Τί σημαίνει κοινοτική διερμηνεία στην Ελλάδα;
+¾ Πώς συνδέεται η κοινοτική ιατρική διερμηνεία 
+με τις βάσεις δεδομένων ανοικτών πηγών;
+με τις βάσεις δεδομένων ανοικτών πηγών; 
+Κοινοτική Ιατρική Διερμηνεία 
+ή
+ρ
+ή
+ρμη
+Interpreting in the Healthcare Sector
+• Ad hoc practice
+N
+l t d
+ti
+• Non-regulated practice 
+• Not a profession (rather a mere occupation)
+• Necessary if not indispensable
+• Cost-effective if done by trained professionals 
+• Part of a holistic approach to administering 
+healthcare services 
+• Part of intercultural, interlingual 
+communication
+• Basic human right 
+Open data vs. Open Source 
+Ope
+data s Ope
+Sou ce
+Open Data 
+Open Source 
+p
+p
+• Reality
+• Necessity
+• Ideal state (Linux) 
+• Open code 
+C
+t ib ti
+• Necessity 
+• Transparency
+O
+G
+• Contribution 
+• Collaboration  
+• Sharing and Exchange 
+d
+i
+k
+l d
+• Open Governance
+• Participation
+• Advancing knowledge 
+• Improving availability of 
+information 
+• Plurality 
+• Democracy 
+Does not substitute 
+professional work with 
+p
+volunteering 
+The Current State of Affairs 
+Medical Field Worldwide
+Medical Terminology 
+R
+id d
+t i
+N
+di
+l
+• Rapid advancements in 
+the field of medicine 
+• “Publish or Perish”
+• No open-source medical 
+databases in Greek
+• Predominance of open-
+• Publish or Perish  
+mentality
+• English = medical 
+Predominance of open
+data, closed-source medical 
+databases in the English 
+l
+g
+Lingua Franca 
+• Medical jargon in 
+li h
+language
+• Some international, quasi 
+open-source medical
+English 
+• Sociology of 
+professions
+open source medical 
+databases
+• Greek language and medical 
+professions
+terminology: the “poor 
+relation” rule-of-thumb  
+Open-access, quasi open-code medical databases
+Open-access, quasi open-code medical databases
+Open-access, quasi open-code medical databases
+Open-access, closed-code medical databases 
+Open-access, closed-code medical databases 
+Open-access, closed-code medical databases 
+Open-access, closed-code medical databases 
+Open-access, closed-code medical databases 
+The alternative
+The alternative 
+• What are the current values of our society?
+• What are the current values of our society?
+• What kind of a society do we really want?
+• How can professions interact with each other to
+• How can professions interact with each other to 
+ensure and promote professionalization of 
+related occupations?
+related occupations?
+• How information society should really work?
+H
+f
+d
+l
+t
+k
+lt i
+• How free access and volunteer work can result in 
+professionally-regulated, scientifically-controled
+d
+li bl fi
+l
+d
+t ?
+and reliable final products?  
+From closed-source to open-
+source, open access databases
+•Motivation
+•Coordination 
+•Complexity management 
+p
+y
+g
+The vision: “I have a dream [ ]”
+The vision: I have a dream […]
+“T
+l ti
+l
+b
+id t
+l
+t th
+“Translation can also be said to complement other 
+occupations in that it helps them communicate with 
+each other interlingually [
+] Translation allows the
+each other interlingually. […] Translation allows the 
+professions and occupations operating within one
+language/culture to learn how the same or a 
+g
+g /
+comparable trade is plied in another language/culture 
+and thereby, perhaps, to gain new inspiration and 
+i
+i ht i t th i
+f
+i
+l/
+ti
+l bj
+t
+insights into their professional/occupational objects, 
+thus optimising their professional/occupational 
+performances – breathing a new spirit into them.”
+performances 
+breathing a new spirit into them.
+Tuylenev 2015

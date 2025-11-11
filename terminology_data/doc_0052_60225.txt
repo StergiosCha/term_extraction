@@ -1,0 +1,28 @@
+SOURCE: https://eleto.gr/en/terminology-resources/terminological-databases/search/?database=teleterm#content
+
+This page allows search in a single term base from the term bank. If you need help, you may read the
+instructions
+. If you want to perform simultaneous search in
+multiple term bases
+you may use the advanced search portal available in:
+https://search.eleto.gr
+{{ strings[lang].statistics }}: {{ statistics.total_searches }}
+EL
+EN
+{{ strings[lang].database }}:
+{{ key.toUpperCase() }} ({{
+data[backendLanguageCode] }})
+{{ strings[lang].database_field }}:
+{{ strings[lang][s] }}
+{{ strings[lang].search }}:
+{{ strings[lang].as }}:
+{{ strings[lang].partial_word }}
+{{ strings[lang].complete_word }}
+{{ strings[lang].exact_word }}
+{{ strings[lang].sources }}:
+{{ strings[lang].results_for }}:
+{{ result_cache.term }}
+{{ strings[lang].in }} {{
+result_cache.database.toUpperCase() }} –
+{{ strings[lang].entries }} : {{ this.dataset.length }}
+{{ strings[lang].headings[attr] }}

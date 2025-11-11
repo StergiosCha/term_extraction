@@ -1,0 +1,33 @@
+SOURCE: https://eleto.gr/el/orologikoi-poroi/vaseis-oron/anazitisi/?database=acouterm#content
+
+Η σελίδα αυτή επιτρέπει αναζήτηση σε μία βάση όρων από την τράπεζα όρων. Για βοήθεια υπάρχουν διαθέσιμες οι
+οδηγίες αναζήτησης
+. Για ταυτόχρονη αναζήτηση σε
+πολλές βάσεις
+όρων
+από την τράπεζα όρων μπορείτε να χρησιμοποιήσετε την
+πύλη
+σύνθετης
+αναζήτησης
+της ΕΛΕΤΟ, διαθέσιμη στη διεύθυνση:
+https://search.eleto.gr
+{{ strings[lang].statistics }}: {{ statistics.total_searches }}
+EL
+EN
+{{ strings[lang].database }}:
+{{ key.toUpperCase() }} ({{
+data[backendLanguageCode] }})
+{{ strings[lang].database_field }}:
+{{ strings[lang][s] }}
+{{ strings[lang].search }}:
+{{ strings[lang].as }}:
+{{ strings[lang].partial_word }}
+{{ strings[lang].complete_word }}
+{{ strings[lang].exact_word }}
+{{ strings[lang].sources }}:
+{{ strings[lang].results_for }}:
+{{ result_cache.term }}
+{{ strings[lang].in }} {{
+result_cache.database.toUpperCase() }} –
+{{ strings[lang].entries }} : {{ this.dataset.length }}
+{{ strings[lang].headings[attr] }}

@@ -1,0 +1,104 @@
+SOURCE: http://www.eleto.gr/download/TermBases/TE48-OE1_History_EN.pdf
+
+ Ο 
+Ε  Λ  Ο   Τ    Ε 48 
+  1 
+ 
+ELOT/TC48/WG1: 
+Working Group of ELOT/TC48, 
+Collective Member of ELETO  
+ 
+Chairman: K. Valeontis, valeonti@otenet.gr 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+February 2024 
+ 
+ELOT/TC48/WG1 "Information Technology Terminology" 
+1 
+Establishment and operation of ELOT/TC48/WG1 
+ELOT/TC48/WG1 is the Working Group No 1 of the Standardization Technical Committee ELOT/TC48 
+“Electronic Data Processing”. 
+Both the Committee and the Group had operated from 1986 to 1996, under the responsibility and support of the 
+Greek Productivity Centre (ELKEPA) Computer Science Institute, while since 1996 they operate under the 
+Standardization Department of Hellenic Organization for Standardization (ELOT). In the framework of this 
+operation the Group has produced about 5.000 Greek information technology terms, together with their 
+definitions in Greek, contained in 32 Hellenic Standards ELOT 996 series of standards). These terms are 
+contained in the Information Technology TermBase INFORTERM. 
+ELOT/TC48/WG1 closely cooperates with the Permanent Group for Telecommunications Terminology (MOTO), 
+being one of the first groups that responded to MOTO's initiative and signed the Agreement for Mutual 
+Recognition of Work, aiming at the inter-committee (inter-field) harmonization of Greek terms. 
+ELOT/TC48/WG1 is one of the founding Collective Members of the Hellenic Society for Terminology (ELETO) 
+and, in this capacity, it has produced about 2.000 Greek IT terms for the Termbank IATE (former Eurodicautom) 
+of the European Union, all of which are also included in the Termbase INFORTERM. At the ELETO's General 
+Scientific Board (GESY), the Group is represented by its chairman K. Valeontis  and as deputy representative by 
+D. Panagiotakos. 
+2 
+Membership of ELOT/TC48/WG1 
+Currently active members: 
+ 
+Kostas Valeontis, physicist, electronic-telecom engineer, former head of the Division for 
+Standardization of the Hellenic Telecommunications Organization (OTE), Chairman of the Group, 
+ 
+Dimitris Panagiotakos, mathematician, computer analyst, 
+ 
+Kostas Riziotis, physicist, electronic-telecom engineer (OTE), 
+ 
+Pratikakis Ioannis, electrical engineer Democritus University of Thrace, Professor, Department of 
+Electrical and Computer Engineering, Democritus University of Thrace, 
+ 
+Tsiamas George, mechanical-electrical engineer, telecom engineer (OTE), 
+ 
+Nikos Valeontis, physicist, computer engineer (Observer). 
+Former members of the Group and their posts when they were members 
+ 
+Dimitris Bakolas, computer scientist, Head of the ELKEPA Computer Science Institute, formerly 
+chairman of the Group, 
+ 
+Roula Anagnostopoulou, Head of ELKEPA's Standardization Activities, 
+ 
+Spyros Diamesis, electrical engineer National Technical University of Athens (NTUA), counsellor of the 
+Pedagogical Institute, 
+2 
+ 
+John Cavouras, physicist, computer scientist, professor at the Athens University of Economics and 
+Business (AUEB), 
+ 
+John Maistros , physicist, professor at NTUA, 
+ 
+Paris Michalas, computer scientist, 
+ 
+Chara Balta, computer analyst-programmer, head of the Division for Computer Facilities of the Athens 
+Stock Exchange. 
+ 
+Michael Bekakos, professor of Computer Systems at Democritus University of Thrace, HMMY 
+Department, 
+ 
+George Stouraitis, mathematician, journalist, 
+3 
+Products of ELOT/TC48/WG1 
+The products of ELOT/TC48/WG1 can be divided into ordinary programme products and extraordinary 
+programme products (see figure 1). The former comprise publications with IT terms and definitions (ELOT 996 
+series of standards equivalent to ISO/IEC 2382 series) and vocabularies of IT terms, while the latter comprise a 
+Trilingual Dictionary of Informatics (published by ELKEPA) and term collections for the EU termbank 
+Eurodicautom (today: IATE) under ELETO. All terms produced have been imported into the termbase 
+INFORTERM. 
+3 
+ 
+Figure 1 – Products of ELOT/TC48/WG1 
+ 
+ELOT/TC48/WG1, during its long lasting operation, 
+1. processed the IT terms of 32 Hellenic Standards of IT terminology (ELOT 996 series), equivalent to 
+corresponding International Standards of ISO/IEC 2382 series, 
+2. had 6 editions of the Consolidated Vocabulary of IT terms (its last edition 1999 contained: 6.959 
+terminological entries) printed and disseminated by its chairman, 
+3. prepared the content of the book Trilingual Terminology of Informatics (bublished by ELKEPA, 1991), 
+4. as a collective member of ELETO, prepared the Greek equivalent terms of two term collections of the EU 
+termbank Eurodicautom (today IATE), 
+5. since 2001, instead of printed editions, has been offering on the Internet the termbase INFORTERM (today 
+containing: 7.135 terminological entries), whose access is free via ELETO’s website. 
+4 
+ 

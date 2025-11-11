@@ -1,0 +1,2846 @@
+SOURCE: http://www.eleto.gr/download/Bodies/Glossary of Cybersecurity EN-EL.pdf
+
+ 
+ΕΥΡΩΠΑΪΚΗ ΕΠΙΤΡΟΠΗ 
+ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΜΕΤΑΦΡΑΣΗΣ 
+Τμήμα Ελληνικής Γλώσσας 
+ 
+Ελληνικό Δίκτυο Ορολογίας 
+Επιστημονική Επιτροπή 
+ 
+ 
+Δεκέμβριος 2020 
+ 
+Αγγλοελληνικό γλωσσάριο όρων κυβερνοασφάλειας 
+Έκδοση 1  (268 λήμματα) 
+Εισαγωγή 
+Το παρόν Γλωσσάριο συντάχθηκε από την Ομάδα Ορολογίας της μονάδας ΕΛ.02 του ελληνικού τμήματος της Γενικής Διεύθυνσης 
+Μετάφρασης της Ευρωπαϊκής Επιτροπής, με αξιοποίηση ενός αγγλοϊσπανικού γλωσσαρίου όρων κυβερνοασφάλειας, το οποίο 
+εκπονήθηκε απο το ισπανικό Τμήμα, με τη βοήθεια του Εθνικού Ινστιτούτου για την Κυβερνοασφάλεια (Instituto Nacional de 
+Ciberseguridad - INCIBE), και το οποίο έχει δημοσιευτεί, σε δύο μέρη, στο περιοδικό του ισπανικού Τμήματος Punto y Coma 
+(τεύχος αριθ. 155 και τεύχος αριθ. 159). Με βάση το αγγλοϊσπανικό γλωσσάριο, έγινε επιλογή, συγκέντρωση και καταγραφή των 
+αγγλικών όρων και ορισμών από τα σχετικά λήμματα της διαδραστικής ευρωπαϊκής βάσης όρων ΙΑΤΕ και των αντίστοιχων 
+ελληνικών ισοδύναμων όρων, όπου υπήρχαν, ενώ νέοι ή βελτιωμένοι ελληνικοί όροι προτάθηκαν από την ομάδα όπου χρειαζόταν. 
+Προκειμένου να ενταχθεί στο ΕΔΟ, το Γλωσσάριο υποβλήθηκε σε ανασκόπηση από δύο όργανα ανασκόπησης-επικύρωσης: την 
+Ομάδα ΕΛΟΤ/ΤΕ48/ΟΕ1 Ορολογία Πληροφορικής και τη ΜΟΤΟ (Μόνιμη Ομάδα Τηλεπικοινωνιακής Ορολογίας), όργανα του ΕΛΟΤ 
+και της ΕΛΕΤΟ. Η τελική έγκριση του Γλωσσαρίου έγινε από την Επιστημονική Επιτροπή του ΕΔΟ. 
+Το Γλωσσάριο αποτελείται από δύο μέρη Α και Β. Στο Μέρος Α δίνεται ο κύριος πίνακας του Γλωσσαρίου, που αποτελείται από τα 
+αγγλοελληνικά ορολογικά λήμματα, σε τέσσερις στήλες, με αλφαβητική σειρά ως προς την πρώτη στήλη: Αγγλικός όρος – 
+Ελληνικός όρος – Αγγλικός ορισμός – Κωδικός ΙΑΤΕ (ο κωδικός ΙΑΤΕ περιλαμβάνει και τον υπερσύνδεσμο που οδηγεί στο 
+αντίστοιχο λήμμα της ΙΑΤΕ). Στο Μέρος Β δίνεται αλφαβητικό Ελληνοαγγλικό ευρετήριο, μέσω του οποίου οδηγείται ο αναγνώστης 
+από τον ελληνικό όρο στο σχετικό αγγλοελληνικό λήμμα του Γλωσσαρίου). 
+Στην ηλεκτρονική μορφή του Γλωσσαρίου (doc, docx, pdf) μπορεί να γίνει αναζήτηση με την εντολή Find (Ctrl-F) με οποιοδήποτε 
+όρο ή τμήμα όρου, είτε αγγλικού είτε ελληνικού. 
+ 
+Μέρος Α – Αγγλοελληνικό γλωσσάριο 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+access provider, 
+internet access 
+provider 
+πάροχος πρόσβασης 
+διαδικτύου, παροχέας 
+πρόσβασης διαδικτύου 
+company that provides access to the Internet 
+897278 
+active attack 
+ενεργητική επίθεση 
+network exploit in which a hacker attempts to make 
+changes to data on the target or data en route to the 
+target 
+3581602 
+active content 
+ενεργό περιεχόμενο 
+program code embedded in the contents of a web page  
+3578190 
+advanced persistent 
+threat, APT 
+προηγμένη επίμονη 
+απειλή 
+form of attack or threat of attack that involves multiple 
+phases to break into a network, avoid detection and 
+harvest valuable information over the long term 
+3552485 
+adware, malvertising 
+ενδιαφημισμικό 
+software that is given to the user with advertisements 
+embedded in the application 
+928671 
+air gap 
+διάκενο αέρα 
+security measure implemented for computers, computer 
+systems or networks requiring airtight security ensuring 
+total isolation of a given system - electromagnetically, 
+electronically, and physically - from other networks, 
+especially those that are not secure 
+296227 
+alert 
+συναγερμική ειδοποίηση 
+ 
+1575570 
+all-source intelligence 
+ολοπηγαία περιγνωσία 
+intelligence produced using all available sources and 
+agencies 
+1469134 
+2 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+anti-virus 
+αντιιικό λογισμικό 
+software that is designed to detect, stop and remove 
+viruses and other kinds of malicious software 
+1484779 
+attack vector 
+φορέας επίθεσης 
+approach used to assault a computer system or network 
+3550125 
+authentication 
+εξακρίβωση (ταυτότητας) 
+{δεδομένων} 
+verifying the identity of a user, process or device, often 
+as a prerequisite to allowing access to resources in an 
+information system 
+1484678 
+authenticity of data 
+αυθεντικότητα δεδομένων 
+  
+909636 
+authorization  
+εξουσιοδότηση 
+the granting to a user,a program or a process the right of 
+access 
+1399141 
+automated car 
+αυτοματοποιημένο όχημα 
+vehicle in which at least some aspect of a safety-critical 
+control function (e.g., steering, throttle, or braking) 
+occurs without direct driver input 
+3573021 
+availability 
+διαθεσιμότητα 
+the degree to which a system or resource is ready when 
+needed to process data 
+1437529 
+B2B 
+από επιχείρηση σε 
+επιχείρηση, 
+διεπιχειρησιακός 
+type of commerce transaction that exists between 
+businesses, such as those involving a manufacturer and 
+wholesaler, or a wholesaler and a retailer 
+1266477 
+B2C 
+από επιχείρηση σε 
+καταναλωτή, 
+επιχειρησικαταναλωτικός 
+business or transactions conducted directly between a 
+company and consumers who are the end-users of its 
+products or services 
+290421 
+backdoor 
+κερκόπορτα 
+A loophole deliberately left in an encryption algorithm to 
+enable interested parties (e.g. security or police 
+agencies) to decipher traffic encoded with it. The term 
+also applies to loopholes deliberately programmed into 
+the access control of some computer programs (e.g. an 
+operating system or application) by its authors so that 
+they can gain future access - not always for legitimate 
+purposes+C26 
+919515 
+backup 
+δημιουργία εφεδρείας, 
+εφεδρεία 
+procedure,technique or hardware used to help recover 
+lost or destroyed data or to keep a system operating 
+1449531 
+backup centre  
+εφεδρικό κέντρο 
+  
+3574929 
+behaviour monitoring  
+παρακολούθηση 
+συμπεριφοράς 
+observing activities of users, information systems, and 
+processes and measuring the activities against 
+organisational policies, baselines of normal activity, 
+thresholds, and trends 
+3578224 
+BIA, business impact 
+analysis  
+ανάλυση 
+επιχειρηματικών 
+επιπτώσεων 
+analysis of an organisation's business activities and the 
+impact which the loss, interruption or disruption of critical 
+business functions and supporting resources would have 
+on the delivery of products or services 
+310786 
+biometrics, biometric 
+recognition 
+βιομετρία, βιομετρική 
+αναγνώριση 
+use of unique physical characteristics (fingerprints, iris 
+pattern, etc.) to identify individuals, typically for the 
+purposes of security 
+360870 
+blacklist 
+μαύρη λίστα 
+list of discrete entities, such as hosts or applications, that 
+have been previously determined to be associated with 
+malicious activity 
+1574796 
+blue team  
+μπλε ομάδα, ομάδα 
+κυβερνοασφάλειας 
+group responsible for defending an enterprise’s use of 
+information systems by maintaining its security posture 
+against a group of mock attackers (i.e., the red team) 
+3578227 
+bluetooth 
+μπλούτουθ 
+  
+917999 
+bot  
+μποτ 
+program that operates as an agent for a user or another 
+program or simulates a human activity 
+3574883 
+bot herder,  
+bot master 
+κάτοχος μποτοδικτύου 
+individual who controls and maintains a botnet by 
+installing malicious software in numerous machines, 
+putting these machines into his or her control 
+3569535 
+3 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+botnet 
+μποτοδίκτυο 
+network of private computers infected with malicious 
+software and controlled as a group without the owners' 
+knowledge, e.g. to send spam malicious software 
+2242284 
+brute force attack 
+βάναυση επίθεση 
+a trial-and-error method used to obtain information such 
+as a user password or personal identification number 
+(PIN). In a brute force attack, automated software is 
+used to generate a large number of consecutive guesses 
+as to the value of the desired data  
+351415 
+buffer overflow 
+υπερχείλιση ενδιάμεσου 
+καταχωρητή 
+phenomenon caused when a computer memory is 
+flooded in a way that makes it overrun its buffers, so that 
+malevolent software instructions can be slipped into the 
+system to wreak havoc on the network  
+1593016 
+bug 
+σφάλμα 
+an error in a program or a hardware malfunction, 
+program fault  
+1474898 
+build security in  
+ενσωμάτωση ασφάλειας 
+collaborative effort that provided practices, tools, 
+guidelines, rules, principles, and other resources that 
+software developers, architects, and security 
+practitioners can use to build security into software in 
+every phase of its development 
+3578233 
+business continuity 
+plan, BCP 
+σχέδιο επιχειρηματικής 
+συνέχειας 
+set of documents, instructions, and procedures which 
+enable a business or institution to respond to accidents, 
+disasters, emergencies, and/or threats without any 
+stoppage or hindrance in its key operations 
+933370 
+certificate of 
+authenticity, COA 
+πιστοποιητικό 
+αυθεντικότητας 
+label with sophisticated anti-counterfeiting features that 
+helps the end user identify that the computer uses a 
+validly licensed copy of a piece of software 
+263673 
+Certification Authority, 
+CA 
+αρχή πιστοποίησης 
+In cryptography, a certificate authority or certification 
+authority (CA) is an entity which issues digital certificates 
+for use by other parties. It is an example of a trusted 
+third party. CA's are characteristic of many public key 
+infrastructure (PKI) schemes.. 
+897783 
+certification revocation 
+list, CRL 
+κατάλογος ανάκλησης 
+πιστοποιητικών 
+file that contains a list of revoked certificates, their serial 
+numbers, and their revocation dates 
+3502378 
+chain of custody  
+αλυσίδα επίβλεψης 
+chain of responsibility for or control of materials as they 
+move through each step of the process or product 
+system under assessment 
+3570199 
+checksum  
+άθροισμα εξελέγχου 
+value used to ensure data are stored or transmitted 
+without error 
+1449553 
+cipher 
+κρυπτοθετήρας 
+algorithm to perform encryption 
+1399440 
+ciphertext  
+κρυπτοκείμενο, έγκρυπτο 
+κείμενο, κρυπτοθετημένο 
+κείμενο, 
+κρυπτογραφημένο 
+κείμενο 
+data produced through the use of encipherment, the 
+semantic content of which is not available  
+(ISO 7498-2) 
+ 
+cleartext, plaintext  
+καθαρό κείμενο, άκρυπτο 
+κείμενο, 
+ακρυπτογράφητο κείμενο 
+intelligible text or signals that have meaning and can be 
+read or acted upon without the application of any 
+decryption 
+1399438, 
+900985  
+clickbait 
+δόλωμα για 
+επικροτήματα, δόλωμα 
+για κλικ 
+(on the Internet) content whose main purpose is to 
+attract attention and encourage visitors to click on a link 
+to a particular web page 
+3573212 
+cloud computing  
+νεφοϋπολογιστική 
+storing, processing and use of data on remotely located 
+computers accessed over the Internet 
+2250701 
+code of conduct  
+κώδικας συμπεριφοράς 
+establishes general international standards which form 
+the basis for relations and simplifies the elaboration and 
+application of national laws,policies and regulations 
+relative to the area in question 
+1414798 
+4 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+collaborative economy  
+συνεργατική οικονομία 
+segment of the economy where collaborative platforms 
+enable people to get the goods and services they need 
+from each other, peer to peer, instead of buying from 
+established corporations 
+3573282 
+combined attack 
+συνδυασμένη επίθεση 
+ 
+3574992 
+communication of data, 
+passing-on of data, 
+dissemination of data, 
+disclosure of data 
+κοινοποίηση δεδομένων 
+for the purpose of the Federal Data Protection Act 
+:Passing of stored data or data acquired directly by 
+means of data processing to third persons in such a way 
+that the data are communicated by the storage unit or 
+are held ready for inspection, especially for recall 
+1399255 
+computer forensics, 
+cyber forensics 
+κυβερνοεγκληματολογία 
+branch of digital forensics which encompasses the 
+search, recovery, analysis and preservation of digital 
+evidence found on storage media, RAM and other parts 
+of desktops, laptops and server computers 
+362202 
+confidentiality 
+εμπιστευτικότητα 
+duty not to share information with persons who are not 
+qualified to receive that information 
+3552374 
+contingency plan 
+σχέδιο έκτακτης ανάγκης 
+plan for emergency response, backup operations, and 
+post-disaster recovery in a system, as part of a security 
+program, to ensure availability of critical system 
+resources and facilitate continuity of operations in a 
+crisis 
+1399201 
+Convention on 
+Cybercrime 
+Σύμβαση για το έγκλημα 
+στον κυβερνοχώρο 
+first international treaty on crimes committed via the 
+Internet and other computer networks, dealing 
+particularly with infringements of copyright, computer-
+related fraud, child pornography and violations of 
+network security 
+910192 
+cookie 
+μπισκότο (δεδομένων) 
+small data file that is stored on a user's local computer 
+and contains information about the user that is pertinent 
+to a Web site, such as user preferences 
+912402 
+counter-notice 
+αντιειδοποίηση 
+procedure to contest a decision to remove allegedly 
+illegal online content 
+3574367 
+cracker, black hat 
+hacker, black hat 
+χάκερ με μαύρο καπέλο, 
+μαύρο καπέλο, 
+κακόβουλος χάκερ 
+hacker who breaks into a computer system or network 
+with malicious intent 
+263407 
+critical infrastructure  
+κρίσιμη υποδομή 
+those physical and information technology facilities, 
+networks, services and assets which, if disrupted or 
+destroyed, would have a serious impact on the health, 
+safety, security or economic well-being of citizens or the 
+effective functioning of governments in the Member 
+States 
+932915 
+cross-site scripting, 
+XSS 
+διατοποθεσιακή 
+σεναριογραφή 
+computer security vulnerability that typically occurs in 
+web applications, allowing a malicious user to inject 
+client-side scripting into otherwise benign and trusted 
+web pages that are viewed by others 
+3574981 
+cryptanalysis  
+κρυπτανάλυση 
+analysis of a cryptographic system or its inputs and 
+outputs to derive confidential variables or sensitive data, 
+including clear text 
+123064 
+cryptographic 
+algorithm, encryption 
+algorithm, 
+encipherment 
+algorithm, cryptologic 
+algorithm 
+κρυπτοαλγόριθμος, 
+κρυπτογραφικός 
+αλγόριθμος, 
+κρυπτοθετικός 
+αλγόριθμος 
+set of mathematically expressed rules for rendering 
+information unintelligible by effecting a series of 
+transformations through the use of variable elements 
+controlled by the application of a key to the normal 
+representation of the information 
+316271 
+cryptography 
+κρυπτογραφία 
+discipline which embodies principles, means and 
+methods for the transformation of data in order to hide its 
+information content, prevent its undetected modification 
+or prevent its unauthorized use 
+1399389 
+5 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+cryptology  
+κρυπτολογία 
+the field that encompasses both cryptography and 
+cryptanalysis 
+1399390 
+cyber crisis 
+κυβερνοκρίση 
+cybersecurity incident that differs from the normal, 
+involves serious disturbance or risk for disturbance of 
+vital societal functions and may also transcend national 
+and geographic boundaries 
+3574256 
+cyber defence 
+κυβερνοάμυνα 
+actions taken to detect, respond to and recover from 
+cyber threats, particularly those targeting national 
+defence and security interests or critical infrastructure 
+3543211 
+cyber detection, cyber 
+incident detection, 
+cyber-attack detection 
+ανίχνευση 
+κυβερνοεπιθέσεων, 
+ανίχνευση 
+κυβερνοπεριστατικών 
+identification of attempts to use a computer system 
+without authorisation or to abuse existing privileges, or of 
+any event having an adverse effect on computer 
+networks 
+3561269 
+cyber dialogue 
+κυβερνοδιάλογος 
+dialogue between international partners on priority cyber 
+issues 
+3574149 
+cyber diplomacy, 
+e-diplomacy, digital 
+diplomacy 
+κυβερνοδιπλωματία, 
+ηλεκτρονική διπλωματία, 
+ψηφιακή διπλωματία 
+use of the web and new information and 
+communications technologies to help achieve diplomatic 
+objectives 
+3564269 
+cyber espionage 
+κυβερνοκατασκοπεία 
+network penetration to learn how to steal information, 
+prepare the network for theft, or commit theft 
+3565143 
+Cyber Europe 
+Cyber Europe 
+series of EU-level cyber incident and crisis management 
+exercises for both the public and private sectors from the 
+EU and EFTA Member States 
+3574276 
+cyber hygiene 
+κυβερνοϋγιεινή 
+protecting and maintaining computer systems and 
+devices appropriately and using cyber security best 
+practices 
+3568044 
+cyber preparedness 
+κυβερνοετοιμότητα 
+process of ensuring that an agency, organization, or 
+jurisdiction has developed, tested, and validated its 
+capability to protect against, prevent, mitigate, respond 
+to, and recover from a significant cyber incident, such as 
+a cyber event with physical consequences to critical 
+infrastructure 
+3532420 
+cyber resilience 
+κυβερνοεπανατακτι-
+κότητα 
+capability of information systems and networks to 
+withstand and recover from deliberate attacks, 
+accidents, or naturally occurring threats or incidents; on 
+a concrete level, this translates into capability to function 
+throughout and subsequent to such events 
+3561276 
+cyber response 
+κυβερνοαπόκριση 
+process of managing a cyber incident [ IATE:3560119 ] 
+in a way that limits damage and reduces recovery time 
+and costs 
+3561270 
+cyber threat 
+κυβερνοαπειλή 
+threat posed by terrorists, hackers, foreign states and 
+criminals using cyberspace for malicious purposes 
+2213475 
+cyberactivist 
+κυβερνοακτιβιστής 
+person who uses electronic communication 
+technologies, especially social media, for various forms 
+of activism to enable faster communications by citizen 
+movements and the delivery of local information to a 
+large audience 
+930374 
+cyber-attack 
+κυβερνοεπίθεση 
+deliberate act, generally using malicious computer code, 
+designed to alter, disrupt, deny, degrade, or destroy 
+information resident in computers and computer 
+networks, or the computers and networks themselves 
+919510 
+cyberbullying 
+κυβερνοεκφοβισμός 
+use of information technology to harass people - usually 
+children or teenagers - in a hostile and sustained 
+manner 
+3502589 
+cybercafé 
+ίντερνετ καφέ 
+  
+179536 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+cybercrime 
+κυβερνοέγκλημα 
+offences against and by means of computers, including 
+computer frauds, cyber-attacks, electronic payment 
+frauds, online child pornography, and others 
+895987 
+cybercriminal 
+κυβερνοεγκληματίας 
+individual who commits cybercrimes 
+916361 
+cyber-economy 
+κυβερνοοικονομία 
+  
+1875256 
+cybersecurity 
+κυβερνοασφάλεια 
+means used to protect the availability and integrity of 
+networks and infrastructure, as well as the confidentiality 
+of the information contained therein 
+2229866 
+cybersecurity 
+assurance 
+διασφάλιση 
+κυβερνοασφάλειας 
+degree of confidence that the security needs of a given 
+ICT product, service or process are satisfied 
+3574225 
+cybersecurity 
+certification 
+πιστοποίηση 
+κυβερνοασφάλειας 
+formal evaluation of ICT products, services and 
+processes by an independent and accredited body 
+against a defined set of criteria standards and the 
+issuing of a certificate indicating conformance in order to 
+inform and reassure purchasers and users about the 
+security properties of the ICT products and services 
+3574127 
+cybersecurity 
+ecosystem, cyber 
+ecosystem 
+οικοσύστημα 
+κυβερνοασφάλειας, 
+κυβερνοοικοσύστημα 
+synergetic composition of technologies addressing both 
+proactive and reactive strategies to create 
+countermeasures for security 
+3574062 
+cybersecurity incident, 
+cyber incident 
+περιστατικό 
+κυβερνοασφάλειας, 
+κυβερνοπεριστατικό 
+any event having an adverse effect on network and 
+information security 
+3560119 
+cybersecurity posture, 
+risk posture, security 
+posture 
+στάτο κυβερνοασφάλειας 
+security status of an entity's networks, information, and 
+systems based on information architecture resources 
+(e.g. people, hardware, software, policies) and the 
+capabilities in place to manage the defence of the entity 
+from cyber-attack and to react as the situation changes 
+3563714 
+Cybersecurity Strategy 
+of the European Union: 
+An Open, Safe and 
+Secure Cyberspace 
+Στρατηγική της 
+Ευρωπαϊκής Ένωσης για 
+την ασφάλεια στον 
+κυβερνοχώρο: Για 
+ανοικτό, ασφαλή και 
+προστατευμένο 
+κυβερνοχώρο 
+EU policy document in the area of cybersecurity, 
+proposed jointly by the European Commission and by 
+the High Representative of the European Union for 
+Foreign Affairs and Security Policy 
+3550656 
+cyberspace 
+κυβερνοχώρος 
+interactive domain made up of digital networks that is 
+used to store, modify and communicate information 
+897005 
+cyberstalking 
+κυβερνοπαρενόχληση 
+repeated harassment or threatening behaviour 
+conducted via the internet or other electronic means 
+916348 
+cyber-surveillance 
+technology 
+τεχνολογία 
+κυβερνοεπιτήρησης 
+items specially designed to enable the covert intrusion 
+into information and telecommunication systems with a 
+view to monitoring, extracting, collecting and analysing 
+data and/or incapacitating or damaging the targeted 
+system 
+377516 
+cyberterrorism 
+κυβερνοτρομοκρατία 
+use of computer network tools to shut down critical 
+national infrastructures or to coerce or intimidate a 
+government or civilian population 
+919363 
+cybervandal 
+κυβερνοβάνδαλος 
+individual who damages or destroys other people’s 
+digital properties, such as websites, networks or 
+computer systems or the data they contain 
+3570523 
+cyberwarfare, cyber 
+war 
+κυβερνοπόλεμος 
+the use of computer technology to disrupt the activities 
+of a state or organization, especially the deliberate 
+attacking of information systems for strategic or military 
+purposes 
+265898 
+data aggregation  
+συνάθροιση δεδομένων 
+the process where raw data is gathered and expressed 
+in a summary form for statistical analysis 
+50572 
+7 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+data integrity integrity 
+(of data)  
+ακεραιότητα δεδoμέvωv 
+  
+52208 
+data leakage 
+διαρροή δεδομένων 
+interception or reading of data by unauthorized persons, 
+e.g. by electromagnetic radiations  
+1484629 
+data mining  
+εξόρυξη δεδομένων 
+information extraction activity whose goal is to discover 
+hidden facts contained in databases and other large sets 
+of data  
+917359 
+data sanitisation  
+εξυγίανση δεδομένων 
+process that renders access to data on a data storage 
+medium infeasible for a given level of effort by using 
+electronic or physical destruction methods to securely 
+erase or remove data from memory 
+3570103 
+decipher 
+αποκρυπτοθετώ, 
+αποκρυπτογραφώ, 
+απεγκρύπτω 
+to convert, by use of the appropriate key, enciphered 
+text into its equivalent plain text  
+1399394 
+decipherment, 
+decryption 
+αποκρυπτοθέτηση, 
+αποκρυπτογράφηση, 
+απέγκρυψη 
+process of transforming cipher text into plain text  
+1557026 
+decode 
+αποκωδικεύω, 
+αποκωδικοποιώ 
+to convert data by reversing the effect of some previous 
+encoding  
+1440775 
+decrypt  
+αποκρυπτοθετώ, 
+αποκρυπτογραφώ, 
+απεγκρύπτω 
+to convert, by use of the appropriate key, enciphered 
+text into its equivalent plain text  
+1399394 
+denial-of-service 
+attack, DoS attack 
+επίθεση άρνησης 
+(παροχής) υπηρεσίας 
+attack which achieves, or seeks to achieve, denial of 
+service  
+1484647 
+dictionary attack 
+λεξικοεπίθεση, επίθεση 
+με λεξικό 
+common form of password attack where an attacker 
+seeks to identify a password that is an actual word which 
+can be found in a dictionary by creating digests of 
+common dictionary words as candidates and then 
+comparing them against those in a stolen digest file 
+3574987 
+digital service provider, 
+DSP 
+πάροχος ψηφιακών 
+υπηρεσιών, παροχέας 
+ψηφιακών υπηρεσιών 
+any legal person that provides a digital service 
+3574173 
+digital signature 
+ψηφιακή υπογραφή 
+binary code that, like a handwritten signature, 
+authenticates and executes a document and identifies 
+the signatory 
+1484729 
+DNS, domain name 
+system 
+σύστημα ονομάτων τομέα 
+The name translation service used on the Internet to 
+translate a human-readable hostname into the numeric 
+Internet Protocol address required to send requests to 
+that host. 
+902243 
+domain name resolver 
+αναλύτης ονομάτων 
+τομέα 
+function that converts a domain name, whether private 
+or on the public Internet, into an IP address 
+3574233 
+elastic pool 
+ελαστική δεξαμενή 
+computing resources that are provisioned and released 
+according to demand in order to rapidly increase and 
+decrease resources available depending on workload 
+3574236 
+electronic certificate, 
+e-certificate, digital 
+certificate 
+ηλεκτρονικό 
+πιστοποιητικό, ψηφιακό 
+πιστοποιητικό 
+electronic file, issued by the certification authorities, that 
+binds a public key with an identity and which is used for 
+the following: to verify that a public key belongs to an 
+individual, to authenticate the holder, to check a 
+signature from this individual or to encrypt a message 
+addressed to this individual  
+3527118 
+electronic government, 
+eGovernment,  
+e-government  
+e-administration 
+ηλεκτρονική 
+διακυβέρνηση, 
+ηλεκτρονική δημόσια 
+διοίκηση 
+use of new information and communication technologies 
+by governments as applied to the full range of 
+government functions 
+918934 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+electronic signature, 
+e-signature, eSignature 
+ηλεκτρονική υπογραφή 
+data in electronic form which are attached to or logically 
+associated with other electronic data and which are used 
+by the signatory to sign  
+1068875 
+encipher  
+εγκρύπτω, κρυπτοθετώ, 
+κρυπτογραφώ 
+to convert data from a commonly interpretable form to a 
+form in which a key or special knowledge is required for 
+correct interpretation 
+1383128 
+encoding 
+εγκωδίκευση, κωδίκευση, 
+κωδικοποίηση 
+Δ/Υ 
+1590963 
+encrypt  
+εγκρύπτω, κρυπτοθετώ, 
+κρυπτογραφώ 
+converting electronic data into another form, called 
+ciphertext, which cannot be easily understood by anyone 
+except authorized parties 
+1103288 
+encryption 
+έγκρυψη, κρυπτοθέτηση, 
+κρυπτογράφηση 
+In cryptography, encryption is the process of 
+transforming information (referred to as plaintext) using 
+an algorithm (called cipher) to make it unreadable to 
+anyone except those possessing special knowledge, 
+usually referred to as a key. (...)Encryption has long 
+been used by militaries and governments to facilitate 
+secret communication. Encryption is now used in 
+protecting information within many kinds of civilian 
+systems, such as computers, networks, etc. 
+785065 
+EU Cybersecurity 
+Crisis Response 
+Framework 
+Ενωσιακό πλαίσιο 
+αντιμετώπισης κρίσεων 
+κυβερνοασφάλειας 
+  
+3574042 
+European Cloud 
+Initiative 
+Ευρωπαϊκή πρωτοβουλία 
+για το υπολογιστικό 
+νέφος 
+initiative regarding cloud computing services launched 
+as part of the Digital Single Market strategy  
+3568727 
+European Cybercrime 
+Centre, EC3 
+Ευρωπαϊκό Κέντρο για τα 
+εγκλήματα στον 
+κυβερνοχώρο 
+centre established at Europol in The Hague to be the 
+focal point in the EU’s fight against cybercrime  
+3528642 
+European 
+cybersecurity 
+certificate 
+ευρωπαϊκό 
+πιστοποιητικό ασφάλειας 
+στον κυβερνοχώρο 
+document issued by a conformity assessment body 
+attesting that a given ICT product or service fulfils the 
+specific requirements laid down in a European 
+cybersecurity certification scheme 
+3574166 
+event  
+συμβάν 
+any occurrence which affects an item on a file of data, 
+e.g. a purchase, sale, issue, etc. 
+1641673 
+exfiltration  
+απόσπαση (δεδομένων) 
+unauthorised transfer of information from an information 
+system 
+3578237 
+exploit, software 
+vulnerability exploit, 
+vulnerability exploit 
+πρόγραμμα 
+εκμετάλλευσης 
+τρωτότητας 
+cyber attack usually taking the form of software or code 
+that aims to take control of computers or steal network 
+data by taking advantage of vulnerabilities in 
+applications, networks or hardware 
+3574009 
+exposure  
+έκθεση 
+accidental disclosure of data to unauthorised persons 
+1399163 
+failure 
+αποτυχία 
+inability of a system or component to perform its required 
+functions within specified performance requirements, 
+συνώνυμο: breach of security  
+1484940 
+firewall 
+τείχος προστασίας 
+ system designed to prevent unauthorised access to or 
+from a private electronic network  
+176235 
+FTP, file transfer 
+protocol 
+πρωτόκολλο μεταφοράς 
+αρχείων 
+stateful protocol which forms part of TCP/IP1 and which 
+is used for the transfer of data held in files stored in an 
+FTP server 
+1695959 
+hacker 
+χάκερ, (πληροφορικός) 
+πειρατής 
+person who breaks into computer systems without 
+authorisation to gain access to data, generally for 
+malicious purposes 
+857048 
+9 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+hash value 
+τιμή κατατεμαχισμού, τιμή 
+κατακερματισμού 
+Δ/Υ στην ΙΑΤΕ. A hash value is a numeric value of a 
+fixed length that uniquely identifies data. Hash values 
+represent large amounts of data as much smaller 
+numeric values, so they are used with digital signatures. 
+You can sign a hash value more efficiently than signing 
+the larger value. Hash values are also useful for verifying 
+the integrity of data sent through insecure 
+channels.https://docs.microsoft.com/en-
+us/dotnet/standard/security/ensuring-data-integrity-with-
+hash-codes 
+917016 
+hashing 
+κατατεμαχισμός, 
+κατακερματισμός 
+method of taking data, encrypting it, and creating 
+unpredictable, irreversible output 
+3574596 
+hoax 
+είδηση-απάτη 
+Δ/Υ στην ΙΑΤΕ. A humorous or malicious deception. 
+https://en.oxforddictionaries.com/definition/hoax 
+919098 
+HTTP, hypertext 
+transfer protocol 
+πρωτόκολλο 
+υπερκειμενικής 
+μεταφοράς, πρωτόκολλο 
+μεταφοράς υπερκειμένου 
+ the language used by the World Wide Web to transfer 
+files during a client-server session  
+1695946 
+HTTPS, hypertext 
+transfer protocol 
+secure 
+ασφαλές πρωτόκολλο 
+υπερκειμενικής 
+μεταφοράς, ασφαλές 
+πρωτόκολλο μεταφοράς 
+υπερκειμένου 
+extension of HTTP [ IATE:1695946 ] secured with 
+Transport Layer Security [ IATE:931229 ] or, formerly, 
+Secure Sockets Layer [ IATE:922171 ]  
+362140 
+IDS, intrusion detection 
+system, intruder 
+detection system 
+σύστημα ανίχνευσης 
+εισβολής, ΣΑΕ 
+ device or software application that monitors network or 
+system activities for malicious activities or policy 
+violations and produces reports to a management station  
+371042 
+incident 
+περιστατικό 
+any event having an adverse effect on network and 
+information security 
+3560119 
+indicator of 
+compromise 
+δείκτης παραβίασης 
+ artifact observed on a network or in an operating system 
+that with high confidence indicates a computer intrusion  
+3574258 
+industrial automation 
+control system, IACS 
+σύστημα ελέγχου 
+βιομηχανικού 
+αυτοματισμού 
+ general term that encompasses several types of control 
+system, particularly those involved in measuring and 
+controlling the industrial production process and 
+mechanical and electrical equipment  
+3574164 
+information asset 
+πληροφοριακό 
+περιουσιακό στοιχείο 
+body of information, defined and managed as a single 
+unit so it can be understood, shared, protected and 
+exploited efficiently. Information assets have 
+recognisable and manageable value, risk, content and 
+lifecycles 
+3564076 
+information assurance  
+διασφάλιση 
+πληροφοριών 
+ concept designed to ensure confidence that 
+communication and information systems will protect the 
+information they handle and will function as they need to, 
+when they need to, under the control of legitimate users  
+3500350 
+information security 
+incident 
+περιστατικό ασφάλειας 
+πληροφοριών 
+one or more unwanted or unexpected information 
+security events that could possibly compromise the 
+security of information and weaken or impair business 
+operations 
+3520630 
+Information Sharing 
+and Analysis Centre, 
+ISAC 
+κέντρο κοινοχρησίας και 
+ανάλυσης πληροφοριών 
+ non-profit, member-driven organisation formed by 
+private and public entities to share information on cyber 
+threats, risks, prevention, mitigation and response  
+3574128 
+infrastructure as a 
+service, IaaS 
+υποδομή ως υπηρεσία 
+ form of cloud computing that provides virtualized 
+computing resources over the Internet  
+3555574 
+INHOPE, International 
+Association of Internet 
+Hotlines  
+Διεθνής σύνδεσμος 
+ανοικτών γραμμών 
+επικοινωνίας στο 
+διαδίκτυο 
+ global network of hotlines, dealing with illegal content 
+online and committed to stamping out child sexual abuse 
+from the Internet  
+1890645 
+integrity 
+ακεραιότητα 
+ condition in which stored data cannot be corrupted by 
+system malfunctions  
+753437 
+10 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+internet exchange 
+point 
+σημείο ανταλλαγής 
+κίνησης διαδικτύου 
+ physical infrastructure through which Internet service 
+providers (ISPs) and Content Delivery Networks (CDNs) 
+exchange Internet traffic between their networks 
+(autonomous systems)  
+3567346 
+interoperability  
+διαλειτουργικότητα 
+ ability of information systems and software to exchange 
+data and make use of shared information  
+1756769 
+intrusion  
+εισβολή 
+ unauthorized access to a network or a network-
+connected system, that is, deliberate or accidental 
+unauthorized access to information systems, to include 
+malicious activity against information systems, or 
+unauthorized use of resources within information 
+systems  
+321544 
+intrusion detection 
+system 
+σύστημα ανίχνευσης 
+εισβολής 
+device or software application that monitors network or 
+system activities for malicious activities or policy 
+violations and produces reports to a management station 
+371042 
+IP address 
+διεύθυνση IP, διεύθυνση 
+πρωτοκόλλου Ίντερνετ 
+ numerical label assigned to each device (e.g., 
+computer, printer) participating in a computer network 
+that uses the Internet Protocol for communication  
+1695263 
+IPS, intrusion 
+prevention system 
+σύστημα πρόληψης 
+εισβολής 
+network security appliance that monitors network or 
+system activities for malicious activity and attempts to 
+stop the latter 
+3574957 
+ISMS, Information 
+Security Management 
+System 
+σύστημα διαχείρισης 
+ασφάλειας πληροφοριών 
+ set of policies concerned with information security 
+management  
+3503639 
+key  
+κλειδί 
+ a digit or digits used to locate or identify a record,but not 
+necessarily attached to the record.  
+1590960 
+key pair  
+ζεύγος κλειδιών 
+ A private key and its related public key. A public/private 
+key pair is a set of cryptographic keys used for public-
+key cryptography. For each user, a cryptographic service 
+provider usually maintains two public/private key pairs: 
+an exchange key pair and a digital signature key pair. 
+Both key pairs are maintained from session to session.  
+930993 
+key resource  
+πόρος-κλειδί, κλειδιακός 
+πόρος 
+publicly or privately controlled asset necessary to sustain 
+continuity of government and/or economic operations, or 
+an asset that is of great historical significance, Related 
+Term: critical infrastructure 
+3578727 
+keylogger 
+πληκτροκαταγραφέας, 
+καταγραφέας 
+πληκτρολόγησης 
+software program or hardware device that records all 
+keystrokes on a computer keyboard, used either overtly 
+as a surveillance tool or covertly as spyware 
+3516463 
+LAN, local area 
+network 
+τοπικό δίκτυο 
+network that allows computers in a small area (such as 
+an office and up to a small group of buildings) to share 
+equipment, such as printers, and data 
+794344 
+legal notice 
+νομική ειδοποίηση 
+ text on a website providing legal information relating to 
+that website and its contents  
+3550264 
+logic bomb 
+λογισμική βόμβα 
+ piece of code intentionally inserted into a software 
+system that will set off a malicious function when 
+specified conditions are met  
+115471 
+MAC address 
+διεύθυνση MAC 
+a unique Ethernet link level address assigned to each 
+device on the network 
+1695692 
+machine learning  
+μηχανομάθηση 
+application of artificial intelligence (AI) that provides 
+systems the ability to automatically learn and improve 
+from experience without being explicitly programmed 
+1327933 
+11 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+macro virus  
+μακροϊός, ιός 
+μακροεντολών 
+a type of computer virus which, instead of being written 
+in machine code, is written in the macro language of an 
+application such as Microsoft Word, and hence can 
+infect only documents produced with that application. 
+The virus is triggered on opening the document and, 
+such is the power of modern macro languages, that it is 
+able to do much damage including erasing files or whole 
+disks. Such viruses can be spread via the Internet in 
+doucments attached to e-mail messages. The Melissa 
+virus which infected thousands of computers in 1999 
+was a macro virus. 
+1090663 
+malicious applet  
+κακόβουλη 
+μικροεφαρμογή 
+small application program that is automatically 
+downloaded and executed and that performs an 
+unauthorised function on an information system  
+3578248 
+malvertising, malicious 
+advertising 
+κακόβουλη διαφήμιση 
+act of spreading malware through (what seem to be 
+safe) online advertisements 
+3570469 
+metadata 
+μεταδεδομένα 
+ data that defines and describes other data  
+918814 
+mitigation 
+μετριασμός 
+ action of reducing the severity, seriousness, or 
+painfulness of something  
+1085250 
+moving target defense 
+άμυνα κινούμενου στόχου 
+presentation of a dynamic attack surface, increasing an 
+adversary's work factor necessary to probe, attack, or 
+maintain presence in a cyber target 
+3578249 
+National Cyber 
+Security Strategy 
+εθνική στρατηγική για την 
+ασφάλεια στον 
+κυβερνοχώρο 
+ strategy adopted by individual Member States to 
+establish national priorities and key coordination 
+structures at strategic and operational level in order to 
+fight against cybercrime and ensure cyber resilience  
+3573430 
+network money, cyber-
+money 
+δικτυακό χρήμα 
+ electronic money which is transferred via 
+telecommunications networks such as the Internet, using 
+specialised software on a personal computer  
+907609 
+network resilience 
+επανατακτικότητα 
+δικτύου 
+ability of a network to: (1) provide continuous operation 
+(i.e., highly resistant to disruption and able to operate in 
+a degraded mode if damaged); (2) recover effectively if 
+failure does occur; and (3) scale to meet rapid or 
+unpredictable demands 
+3578250 
+Nigerian letter scam, 
+advance fee fraud, 419 
+scam 
+απάτη της προκαταβολής 
+ confidence trick which typically involves promising the 
+victim a significant share of a large sum of money, which 
+the fraudster requires a small up-front payment to obtain; 
+if a victim makes the payment, the fraudster either 
+invents a series of further fees for the victim, or simply 
+disappears  
+909047 
+non-repudiation 
+αναποκηρυξία, μη 
+αποκήρυξη 
+ a property achieved through cryptographic methods, 
+which prevents an individual or entity from denying 
+having performed a particular action related to data 
+(such as mechanisms for non-rejection of authority 
+(origin); for proof of obligation, intent, or commitment; or 
+for proof of ownership)  
+859304 
+online intermediary 
+επιγραμμικός 
+διαμεσολαβητής 
+website that brings together or facilitates transactions 
+between third parties on the Internet 
+3574260 
+operator of essential 
+services, OES 
+φορέας εκμετάλλευσης 
+βασικών υπηρεσιών 
+public or private entity which uses network and 
+information systems to provide a service that is essential 
+for the maintenance of critical societal and/or economic 
+activities 
+3574169 
+outsider threat 
+εξωτερική απειλή 
+person or group of persons external to an organisation 
+who are not authorised to access its assets and pose a 
+potential risk to the organisation and its assets 
+3578283 
+12 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+P2P file sharing 
+διομότιμη ανταλλαγή 
+αρχείων 
+ΙΑΤΕ: Δ/Υ  
+Wikipedia: Peer-to-peer file sharing is the distribution 
+and sharing of digital media using peer-to-peer (P2P) 
+networking technology. 
+2245362 
+parental control 
+(software or program) 
+γονικός έλεγχος 
+special browser or filtering program designed to reject 
+websites that are not suitable for children  
+897324 
+passive attack 
+παθητική επίθεση 
+A passive attack is a network attack in which a system is 
+monitored and sometimes scanned for open ports and 
+vulnerabilities. The purpose is solely to gain information about 
+the target and no data is changed on the target 
+(https://whatis.techtarget.com/definition/passive-attack)   
+ 
+passive threat 
+παθητική απειλή 
+the threat of unauthorized disclosure of information 
+without changing the state of the system 
+1484640 
+password 
+κωδικός πρόσβασης, 
+διελευτήριο 
+a special word or string of characters that a user must 
+present to gain access(i.e.a password) 
+1399696 
+PCI DSS, Payment 
+Card Industry Data 
+Security Standard 
+πρότυπο ασφάλειας 
+δεδομένων κλάδου 
+καρτών πληρωμής 
+information security standard for organizations that 
+handle branded credit cards from the major card 
+schemes 
+3520746 
+penetration testing, 
+pen testing 
+δοκιμή διείσδυσης 
+method for examining the securty of a computer system 
+in order to identify potential vulnerabilities 
+1196603 
+personal data breach 
+παραβίαση προσωπικών 
+δεδομένων 
+breach of security leading to the accidental or unlawful 
+destruction, loss, alteration, unauthorised disclosure of, 
+or access to, personal data transmitted, stored or 
+otherwise processed 
+3530922 
+pharming 
+παρακατεύθυνση, 
+παραπλανητική 
+ανακατεύθυνση προς 
+πλαστό ιστότοπο 
+practice of redirecting computer users from legitimate 
+websites to fraudulent ones for the purposes of 
+extracting confidential data 
+2208406 
+phishing 
+(ηλεκτρονικό) ψάρεμα 
+act of sending an e-mail to a user falsely claiming to be 
+an established legitimate enterprise in an attempt to 
+scam the user into surrendering private information that 
+will be used for identity theft 
+933881 
+plaintext 
+καθαρό κείμενο, άκρυπτο 
+κείμενο, 
+ακρυπτογράφητο κείμενο 
+intelligible text or signals that have meaning and can be 
+read or acted upon without the application of any 
+decryption 
+1399438 
+platform as a service, 
+PaaS 
+πλατφόρμα ως υπηρεσία, 
+πλατύβαθρο ως 
+υπηρεσία 
+category of cloud computing services that provides a 
+platform allowing customers to develop, run, and 
+manage applications without the complexity of building 
+and maintaining the infrastructure typically associated 
+with developing and launching an app 
+3542235 
+porting 
+μεταφορά 
+process of adapting software in an environment for 
+which it was not originally written or intended to execute 
+in 
+915872 
+Pretty Good Privacy, 
+PGP 
+πρόγραμμα PGP 
+program for public key encryption, using the RSA 
+algorithm, developed by Philip Zimmermann. PGP 
+software is available in unsupported free versions and 
+supported commercial versions 
+896730 
+private key, secret key 
+ιδιωτικό κλειδί 
+element, known only to its owner, used for encrypting 
+and decrypting codes in symmetric and asymmetric 
+cryptography 
+1484717 
+private key 
+encipherment, 
+symmetric 
+cryptography, secret 
+key encipherment, 
+symmetric 
+encipherment, 
+symmetric key cipher 
+κρυπτογραφία ιδιωτικού 
+κλειδιού, συμμετρική 
+κρυπτογραφία 
+encryption system in which the sender and receiver of a 
+message share a single, common key that is used to 
+encrypt and decrypt the message 
+1484720 
+13 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+protocol  
+πρωτόκολλο 
+a set of rules that governs the communications between 
+computers on a network 
+883856 
+proxy 
+πληρεξούσιος 
+dedicated computer or a software system running on a 
+computer that acts as an intermediary between an 
+endpoint device, such as a computer, and another 
+server from which a user or client is requesting a service 
+897320 
+public key 
+δημόσιο κλειδί 
+publicly available element used to encrypt data in 
+asymmetric cryptography [ΙΑΤΕ 1484718] 
+1484716 
+public key 
+cryptography  
+κρυπτογραφία δημόσιου 
+κλειδιού, ασύμμετρη 
+κρυπτογραφία 
+any cryptographic system that uses pairs of keys: public 
+keys which may be disseminated widely, and private 
+keys which are known only to the owner 
+1484718 
+public key 
+infrastructure, PKI 
+υποδομή δημόσιου 
+κλειδιού 
+framework which uses the capabilities of performing 
+asymmetric key cryptography, also known as public key 
+cryptography 
+919977 
+quantum computing  
+κβαντική υπολογιστική 
+computation based on quantum mechanical effects, 
+such as superposition and entanglement, in addition to 
+classical digital manipulations 
+1875432 
+radio frequency 
+identification, RFID 
+ραδιοσυχνική 
+αναγνώριση, 
+ραδιοσυχνική 
+ταυτοποίηση 
+method of identifying unique items using radio waves 
+933380 
+ransomware 
+λυτρισμικό 
+type of malicious software (malware) that infects a 
+computer and restricts access to it until a ransom is paid 
+to unlock it 
+3503685 
+recovery 
+ανάκαμψη, ανάκτηση 
+immediate restoration of installed systems in the event of 
+interruption 
+885773 
+red team 
+κόκκινη ομάδα, ομάδα 
+καλόβουλων χάκερ 
+group of ethical hackers that work for an organisation to 
+find security holes that a malicious individual could 
+exploit 
+3565973 
+redundancy 
+εφεδρεία, πλεονασμός 
+{μέσων} 
+additional or alternative systems, sub-systems, assets, 
+or processes that maintain a degree of overall 
+functionality in case of loss or failure of another system, 
+sub-system, asset, or process 
+1426019 
+registration authority 
+αρχή καταχώρησης 
+entity that establishes enrolment procedures for 
+certificate applicants, performs identification and 
+authentication of certificate applicants, initiate or pass 
+along revocation requests for certificates, and approve 
+applications for renewal or re-keying certificates on 
+behalf of a CA 
+1877607 
+replay attack 
+επίθεση επαναποστολής 
+a breach of security in which information is stored 
+without authorisation and then retransmitted to trick the 
+receiver into unauthorised operations such as false 
+identification or authentication or a duplicate transaction 
+2246717 
+reputation system 
+σύστημα φήμης 
+system that computes and publishes reputation scores 
+for a set of objects (e.g. service providers, services, 
+goods or entities) within a community or domain, based 
+on a collection of opinions that other entities hold about 
+the objects 
+3541823 
+resilience, cyber 
+resilience 
+επανατακτικότητα, 
+κυβερνοεπανατακτικό-
+τητα 
+if you keep records in more than one part of the system 
+it is 'resilient' in the sense that failure in one part of the 
+system is less important, because you still have the 
+information elsewhere 
+1359568 / 
+3561276 
+risk 
+διακινδύνευση 
+potential for an unwanted or adverse outcome resulting 
+from an incident, event, or occurrence, as determined by 
+the likelihood that a particular threat will exploit a 
+particular vulnerability, with the associated 
+consequences 
+1484943 
+14 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+risk analysis 
+ανάλυση διακινδύνευσης 
+identification, assessment, communication and 
+management of potential dangers 
+751602 
+rootkit 
+σύνεργα απόκρυψης 
+παρουσίας 
+clandestine computer program designed to provide 
+continued privileged access to a computer while actively 
+hiding its presence 
+2242278 
+router 
+δρομολογητής 
+electronic device used in computer systems networking 
+to direct data in a network, to pass data between home 
+computers, and between computers and the modem 
+1483754 
+RSA, Rivest, Shamir 
+and Adleman algorithm 
+αλγόριθμος RSA 
+encryption and authentication system that uses an 
+algorithm developed in 1977 by Ron Rivest, Adi Shamir, 
+and Leonard Adleman 
+911458 
+Secure Shell, SSH 
+ασφαλές κέλυφος, 
+πρωτόκολλο SSH 
+network protocol that uses cryptography to secure 
+communication, remote command line login and remote 
+command execution between two networked computers 
+1875788 
+Secure Sockets Layer, 
+SSL 
+στρώμα ασφαλών 
+υποδοχών, πρωτόκολλο 
+SSL 
+A secure communications protocol developed by 
+Netscape that enables encrypted connections and 
+transmissions to be made over the Internet 
+922171 
+security audit 
+επιθεώρηση ασφάλειας 
+an examination of data security procedures and 
+measures for the purpose of evaluating their adequacy 
+and compliance with established policy 
+1399555 
+security patch 
+πρόχειρη διόρθωση 
+ασφάλειας, μπάλωμα 
+ασφάλειας 
+change applied to an asset to correct the weakness 
+described by a vulnerability. This corrective action will 
+prevent successful exploitation and remove or mitigate a 
+threat's capability to exploit a specific vulnerability in an 
+asset.  
+380696 
+security policy 
+πολιτική ασφάλειας 
+IATE: Δ/Υ 
+Ορισμός Microsoft Language Portal: A set of rules 
+established by the administrator that defines security 
+permissions to protect resources. 
+1399225 
+server 
+διακομιστής, 
+εξυπηρετητής 
+computer hardware system dedicated to run one or more 
+services (as a host), to serve the needs of the users of 
+other computers on a network 
+1474957 
+service level 
+agreement, SLA 
+συμφωνία στάθμης 
+υπηρεσίας 
+A comprehensive service level agreement is an essential 
+requirement for the provision or receipt of any important 
+service. It quite simply defines the parameters for the 
+delivery of that service, for the benefit of both parties. 
+914402 
+sexting 
+αποστολή 
+σεξομηνυμάτων, σέξτινγκ 
+act of sending sexually explicit messages or 
+photographs, primarily between mobile phones 
+3542173 
+sextortion 
+σεξοεκβιασμός, 
+σεξουαλικός εκβιασμός 
+form of sexual exploitation that employs non-physical 
+forms of coercion to extort sexual favours from the victim 
+sexual exploitation 
+3555847 
+skimming 
+αντιγραφή κάρτας, 
+αντιγραφή δεδομένων 
+κάρτας 
+illegal copying of information from the magnetic strip of a 
+credit or ATM card 
+907080 
+smishing 
+«ψάρεμα» με μηνύματα 
+SMS 
+type of phishing attack where mobile phone users 
+receive text messages containing a web site hyperlink, 
+which, if clicked, would download a Trojan horse to the 
+mobile phone 
+3504097 
+SMPT, simple message 
+transfer protocol, 
+simple mail transfer 
+protocol 
+πρωτόκολλο μεταφοράς 
+απλού ταχυδρομείου 
+the TCP/IP standard protocol for transferring electronic 
+mail messages from one machine to another 
+1695953 
+sniffer 
+λαγωνικό 
+software designed to search for and record specific 
+"packets" of information in a computer network. Often 
+used by "hackers" to obtain confidential information, 
+hence the need for encryption devices. 
+918165 
+15 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+social engineering 
+κοινωνική χειραγώγηση 
+the act of manipulating people into performing actions or 
+divulging confidential information 
+919517 
+software as a service, 
+SaaS 
+λογισμικό ως υπηρεσία 
+an IT delivery model in which applications are hosted in 
+the cloud and are typically accessed by users via a web 
+browser over the internet 
+3503678 
+software assurance  
+διασφάλιση λογισμικού 
+level of confidence that software is free from 
+vulnerabilities, either intentionally designed into the 
+software or accidentally inserted at any time during its 
+lifecycle, and that the software functions in the intended 
+manner 
+3504080 
+software quality 
+assurance 
+διασφάλιση ποιότητας 
+λογισμικού 
+  
+1756934 
+spam  
+παραμήνυμα 
+  
+912495 
+spear phishing 
+στοχευμένο ηλεκτρονικό 
+"ψάρεμα" 
+highly targeted phishing 
+3536980 
+spoofing 
+πλαστογράφηση 
+situation in which a person or program successfully 
+masquerades as another by falsifying data thereby 
+gaining an illegitimate advantage 
+918802 
+spyware 
+κατασκοπισμικό 
+software that covertly gathers user information through 
+the user's Internet connection without his or her 
+knowledge, usually for advertising purposes 
+926250 
+SQA, software quality 
+assurance 
+διασφάλιση ποιότητας 
+λογισμικού 
+  
+1695501 
+SQL injection, SQL 
+injection attack 
+επίθεση με προσθήκη 
+κώδικα SQL 
+code injection technique, used to attack data-driven 
+applications, in which nefarious SQL statements are 
+inserted into an entry field for execution 
+3574956 
+symmetric encryption 
+algorithm  
+συμμετρικός 
+κρυπταλγόριθμος 
+algorithm where the encryption key and the decryption 
+key are interrelated and may even be the same 
+3510439 
+symmetric key  
+συμμετρικό κλειδί 
+cryptographic key that is used to perform both the 
+cryptographic operation and its inverse, for example to 
+encrypt plaintext and decrypt ciphertext, or create a 
+message authentication code and to verify the code 
+1269784 
+TCP/IP, Transmission 
+Control 
+Protocol/Internet 
+Protocol 
+πρωτόκολλο ελέγχου 
+μετάδοσης/πρωτόκολλο 
+Ίντερνετ 
+suite of protocols that specify communications standards 
+between computers and detail conventions for routing 
+and interconnecting networks 
+1492631 
+threat  
+απειλή 
+  
+1399181 
+timestamp 
+χρονοσφραγίδα 
+sequence of characters or encoded information 
+identifying when a certain event occurred, usually giving 
+date and time of day 
+1356099 
+TLS, transport layer 
+security 
+ασφάλεια στρώματος 
+μεταφοράς, πρωτόκολλο 
+TLS 
+A protocol that provides communications privacy and 
+security between two applications communicating over a 
+network. 
+931229 
+top-level domain name 
+registry 
+μητρώο ονομάτων 
+τομέων ανώτατης 
+στάθμης 
+  
+1875228 
+trojan 
+δούρειος ίππος 
+  
+795390 
+troll (n.) 
+τρολ, διαβολάκι 
+person who posts deliberately erroneous or antagonistic 
+messages to a newsgroup or similar forum with the 
+intention of eliciting a hostile or corrective response 
+3551069 
+troll (v.) 
+τρολάρω, διαβολίζω 
+post a deliberately erroneous or antagonistic message 
+on a newsgroup or similar forum with the intention of 
+eliciting a hostile or corrective response 
+3551068 
+16 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+troll farm  
+τρολοφάρμα, 
+διαβολομάζωξη 
+organisation whose employees or members attempt to 
+create conflict and disruption in an online community by 
+posting deliberately inflammatory or provocative 
+comments 
+3575041 
+trolling 
+τρολάρισμα, διαβόλισμα 
+ 
+3503695 
+trusted flagger 
+εμπιστευμένος 
+σημαιοδότης 
+ 
+3574353 
+unauthorised access  
+ανεξουσιοδότητη 
+πρόσβαση 
+any accidental and deliberate access to data, programs, 
+system and data media by unauthorized persons, and 
+any accidental and deliberate attempt to penetrate the 
+security system 
+1399187 
+URL, uniform resource 
+locator  
+ομοιόμορφος εντοπιστής 
+πόρου 
+subset of the Uniform Resource Identifier (URI) [ 
+1064958 ] that specifies where an identified resource is 
+available and the mechanism for retrieving it 
+1695264  
+validation authority 
+αρχή επικύρωσης 
+entity that provides a service used to verify the validity of 
+a digital certificate as per the mechanisms described in 
+the X.509 standard and RFC 5280 
+3574986 
+virtual private network, 
+VPN 
+ιδεατό ιδιωτικό δίκτυο, 
+εικονικό ιδιωτικό δίκτυο 
+ A network that connects private subscribers together 
+using the public Internet as the transport medium, while 
+ensuring that their traffic is not readable by the Internet 
+at large. 
+897322 
+virtualisation 
+ιδεατοποίηση, 
+εικονικοποίηση 
+creation of a virtual (rather than actual) version of 
+something, such as an operating system, a server, a 
+storage device or network resources 
+2250704 
+virus  
+ιός 
+ 
+1484635 
+virus signature 
+υπογραφή ιού 
+binary pattern of the machine code of a particular virus 
+351456 
+vishing 
+φωνοψάρεμα, φωνητικό 
+ψάρεμα 
+form of criminal phone fraud, using social engineering 
+over the telephone system to gain access to private 
+personal and financial information for the purpose of 
+financial reward 
+3503092  
+VLAN, virtual local area 
+network  
+ιδεατό τοπικό δίκτυο, 
+εικονικό τοπικό δίκτυο 
+  
+1695921  
+VoIP, voice over IP 
+φωνή μέσω IP, φωνή 
+μέσω (πρωτοκόλλου) 
+Ίντερνετ 
+  
+915754 
+vulnerability 
+τρωτότητα, ευπάθεια 
+weakness which allows an attacker to reduce a system's 
+information assurance 
+1399704 
+vulnerability disclosure 
+αποκάλυψη τρωτότητας 
+reporting of cybersecurity flaws to vendors and the 
+general public 
+3574264 
+watering hole  
+ιστονερόλακκος 
+legitimate, trusted and frequently visited website that has 
+been compromised to plant malware on the systems of a 
+targeted group of victims 
+3574760 
+watering hole attack  
+επίθεση τύπου 
+ιστονερόλακκου 
+security exploit in which an attacker tries to compromise 
+the computer system(s) of a specific end user, or a 
+group of end users, by planting malware on websites 
+that they trust and are known to visit 
+3574762 
+web grooming  
+ιστοαποπλάνηση 
+  
+3503696  
+whaling  
+καρχαριοθηρία 
+phishing attack that is specifically aimed at wealthy, 
+powerful, or prominent individuals 
+3569538 
+white team  
+λευκή ομάδα, ομάδα 
+διαιτησίας 
+group responsible for refereeing an engagement 
+between a red team of mock attackers and a blue team 
+of actual defenders of information systems 
+3578293 
+whitelist, whitelisting  
+λευκή λίστα 
+list of entities that are considered trustworthy and are 
+granted access or privileges 
+3578294 
+17 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Κωδικός 
+ΙΑΤΕ 
+Wi-Fi, WLAN 
+ασύρματο τοπικό δίκτυο 
+  
+1695846 
+worm 
+σκουλήκι {λογισμικό} 
+a self-replicating program able to propagate itself across 
+a network, typically having a detrimental effect 
+115472 
+zero-day vulnerability, 
+0-day vulnerability  
+τρωτότητα «ημέρας 
+μηδέν» 
+vulnerability in a system or device that has been 
+disclosed but is not yet patched 
+3571990  
+zombie, zombie 
+computer 
+ζόμπι, υπολογιστής 
+ζόμπι 
+a computer that a remote attacker has accessed and set 
+up to forward transmissions (including spam and 
+viruses) to other computers on the Internet; attackers 
+typically exploit multiple computers to create a botnet, 
+also known as a zombie army 
+3503693 
+ 
+ 
+18 
+Μέρος Β – Ελληνοαγγλικό ευρετήριο 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Cyber Europe 
+Cyber Europe 
+άθροισμα εξελέγχου 
+checksum  
+ακεραιότητα 
+integrity 
+ακεραιότητα δεδoμέvωv 
+data integrity integrity (of 
+data)  
+αλγόριθμος RSA 
+RSA, Rivest, Shamir and 
+Adleman algorithm 
+αλυσίδα επίβλεψης 
+chain of custody  
+άμυνα κινούμενου στόχου 
+moving target defense 
+ανάκαμψη, ανάκτηση 
+recovery 
+ανάλυση διακινδύνευσης 
+risk analysis 
+ανάλυση επιχειρηματικών 
+επιπτώσεων 
+BIA, business impact 
+analysis  
+αναλύτης ονομάτων τομέα 
+domain name resolver 
+αναποκηρυξία, μη αποκήρυξη 
+non-repudiation 
+ανεξουσιοδότητη πρόσβαση 
+unauthorised access  
+ανίχνευση κυβερνοεπιθέσεων, 
+ανίχνευση 
+κυβερνοπεριστατικών 
+cyber detection, cyber 
+incident detection, cyber-
+attack detection 
+αντιγραφή κάρτας, αντιγραφή 
+δεδομένων κάρτας 
+skimming 
+αντιειδοποίηση 
+counter-notice 
+αντιιικό λογισμικό 
+anti-virus 
+απάτη της προκαταβολής 
+Nigerian letter scam, 
+advance fee fraud, 419 
+scam 
+απειλή 
+threat  
+από επιχείρηση σε 
+επιχείρηση, διεπιχειρησιακός 
+B2B 
+από επιχείρηση σε 
+καταναλωτή, 
+επιχειρησικαταναλωτικός 
+B2C 
+αποκάλυψη τρωτότητας 
+vulnerability disclosure 
+αποκρυπτοθέτηση, 
+αποκρυπτογράφηση, 
+απέγκρυψη 
+decipherment, decryption 
+αποκρυπτοθετώ, 
+αποκρυπτογραφώ, 
+απεγκρύπτω 
+decipher 
+αποκρυπτοθετώ, 
+αποκρυπτογραφώ, 
+απεγκρύπτω 
+decrypt  
+αποκωδικεύω, 
+αποκωδικοποιώ 
+decode 
+απόσπαση (δεδομένων) 
+exfiltration  
+αποστολή σεξομηνυμάτων, 
+σέξτινγκ 
+sexting 
+αποτυχία 
+failure 
+αρχή επικύρωσης 
+validation authority 
+αρχή καταχώρησης 
+registration authority 
+αρχή πιστοποίησης 
+Certification Authority, CA 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ασύρματο τοπικό δίκτυο 
+Wi-Fi, WLAN 
+ασφάλεια στρώματος 
+μεταφοράς, πρωτόκολλο TLS 
+TLS, transport layer 
+security 
+ασφαλές κέλυφος, 
+πρωτόκολλο SSH 
+Secure Shell, SSH 
+ασφαλές πρωτόκολλο 
+υπερκειμενικής μεταφοράς, 
+ασφαλές πρωτόκολλο 
+μεταφοράς υπερκειμένου 
+HTTPS, hypertext transfer 
+protocol secure 
+αυθεντικότητα δεδομένων 
+authenticity of data 
+αυτοματοποιημένο όχημα 
+automated car 
+βάναυση επίθεση 
+brute force attack 
+βιομετρία, βιομετρική 
+αναγνώριση 
+biometrics, biometric 
+recognition 
+γονικός έλεγχος 
+parental control (software 
+or program) 
+δείκτης παραβίασης 
+indicator of compromise 
+δημιουργία εφεδρείας, 
+εφεδρεία 
+backup 
+δημόσιο κλειδί 
+public key 
+διαθεσιμότητα 
+availability 
+διάκενο αέρα 
+air gap 
+διακινδύνευση 
+risk 
+διακομιστής, εξυπηρετητής 
+server 
+διαλειτουργικότητα 
+interoperability  
+διαρροή δεδομένων 
+data leakage 
+διασφάλιση 
+κυβερνοασφάλειας 
+cybersecurity assurance 
+διασφάλιση λογισμικού 
+software assurance  
+διασφάλιση πληροφοριών 
+information assurance  
+διασφάλιση ποιότητας 
+λογισμικού 
+software quality 
+assurance 
+διασφάλιση ποιότητας 
+λογισμικού 
+SQA, software quality 
+assurance 
+διατοποθεσιακή 
+σεναριογραφή 
+cross-site scripting, XSS 
+Διεθνής σύνδεσμος ανοικτών 
+γραμμών επικοινωνίας στο 
+διαδίκτυο 
+INHOPE, International 
+Association of Internet 
+Hotlines  
+διεύθυνση IP, διεύθυνση 
+πρωτοκόλλου Ίντερνετ 
+IP address 
+διεύθυνση MAC 
+MAC address 
+δικτυακό χρήμα 
+network money, cyber-
+money 
+διομότιμη ανταλλαγή αρχείων 
+P2P file sharing 
+δοκιμή διείσδυσης 
+penetration testing, pen 
+testing 
+δόλωμα για επικροτήματα, 
+δόλωμα για κλικ 
+clickbait 
+δούρειος ίππος 
+trojan 
+19 
+Ελληνικός όρος 
+Αγγλικός όρος 
+δρομολογητής 
+router 
+εγκρύπτω, κρυπτοθετώ, 
+κρυπτογραφώ 
+encipher  
+εγκρύπτω, κρυπτοθετώ, 
+κρυπτογραφώ 
+encrypt  
+έγκρυψη, κρυπτοθέτηση, 
+κρυπτογράφηση 
+encryption 
+εγκωδίκευση, κωδίκευση, 
+κωδικοποίηση 
+encoding 
+εθνική στρατηγική για την 
+ασφάλεια στον κυβερνοχώρο 
+National Cyber Security 
+Strategy 
+είδηση-απάτη 
+hoax 
+εισβολή 
+intrusion  
+έκθεση 
+exposure  
+ελαστική δεξαμενή 
+elastic pool 
+εμπιστευμένος σημαιοδότης 
+trusted flagger 
+εμπιστευτικότητα 
+confidentiality 
+ενδιαφημισμικό 
+adware, malvertising 
+ενεργητική επίθεση 
+active attack 
+ενεργό περιεχόμενο 
+active content 
+ενσωμάτωση ασφάλειας 
+build security in  
+Ενωσιακό πλαίσιο 
+αντιμετώπισης κρίσεων 
+κυβερνοασφάλειας 
+EU Cybersecurity Crisis 
+Response Framework 
+εξακρίβωση (ταυτότητας) 
+{δεδομένων} 
+authentication 
+εξόρυξη δεδομένων 
+data mining  
+εξουσιοδότηση 
+authorization  
+εξυγίανση δεδομένων 
+data sanitisation  
+εξωτερική απειλή 
+outsider threat 
+επανατακτικότητα δικτύου 
+network resilience 
+επανατακτικότητα, 
+κυβερνοεπανατακτικότητα 
+resilience, cyber resilience 
+επιγραμμικός 
+διαμεσολαβητής 
+online intermediary 
+επίθεση άρνησης (παροχής) 
+υπηρεσίας 
+denial-of-service attack, 
+DoS attack 
+επίθεση επαναποστολής 
+replay attack 
+επίθεση με προσθήκη κώδικα 
+SQL 
+SQL injection, SQL 
+injection attack 
+επίθεση τύπου 
+ιστονερόλακκου 
+watering hole attack  
+επιθεώρηση ασφάλειας 
+security audit 
+Ευρωπαϊκή πρωτοβουλία για 
+το υπολογιστικό νέφος 
+European Cloud Initiative 
+Ευρωπαϊκό Κέντρο για τα 
+εγκλήματα στον κυβερνοχώρο 
+European Cybercrime 
+Centre, EC3 
+ευρωπαϊκό πιστοποιητικό 
+ασφάλειας στον κυβερνοχώρο 
+European cybersecurity 
+certificate 
+εφεδρεία, πλεονασμός 
+{μέσων} 
+redundancy 
+εφεδρικό κέντρο 
+backup centre  
+ζεύγος κλειδιών 
+key pair  
+Ελληνικός όρος 
+Αγγλικός όρος 
+ζόμπι, υπολογιστής ζόμπι 
+zombie, zombie computer 
+ηλεκτρονική διακυβέρνηση, 
+ηλεκτρονική δημόσια 
+διοίκηση 
+electronic government, 
+eGovernment,  
+e-government  
+e-administration 
+ηλεκτρονική υπογραφή 
+electronic signature, 
+e-signature, eSignature 
+ηλεκτρονικό πιστοποιητικό, 
+ψηφιακό πιστοποιητικό 
+electronic certificate, 
+e-certificate, digital 
+certificate 
+ηλεκτρονικό ψάρεμα, ψάρεμα 
+phishing 
+ιδεατό ιδιωτικό δίκτυο, 
+εικονικό ιδιωτικό δίκτυο 
+virtual private network, 
+VPN 
+ιδεατό τοπικό δίκτυο, εικονικό 
+τοπικό δίκτυο 
+VLAN, virtual local area 
+network  
+ιδεατοποίηση, 
+εικονικοποίηση 
+virtualisation 
+ιδιωτικό κλειδί 
+private key, secret key 
+ίντερνετ καφέ 
+cybercafé 
+ιός 
+virus  
+ιστοαποπλάνηση 
+web grooming  
+ιστονερόλακκος 
+watering hole  
+καθαρό κείμενο, άκρυπτο 
+κείμενο, ακρυπτογράφητο 
+κείμενο 
+cleartext, plaintext  
+καθαρό κείμενο, άκρυπτο 
+κείμενο, ακρυπτογράφητο 
+κείμενο 
+plaintext 
+κακόβουλη διαφήμιση 
+malvertising, malicious 
+advertising 
+κακόβουλη μικροεφαρμογή 
+malicious applet  
+καρχαριοθηρία 
+whaling  
+κατάλογος ανάκλησης 
+πιστοποιητικών 
+certification revocation 
+list, CRL 
+κατασκοπισμικό 
+spyware 
+κατατεμαχισμός, 
+κατακερματισμός 
+hashing 
+κάτοχος μποτοδικτύου 
+bot herder,  
+bot master 
+κβαντική υπολογιστική 
+quantum computing  
+κέντρο κοινοχρησίας και 
+ανάλυσης πληροφοριών 
+Information Sharing and 
+Analysis Centre, ISAC 
+κερκόπορτα 
+backdoor 
+κλειδί 
+key  
+κοινοποίηση δεδομένων 
+communication of data, 
+passing-on of data, 
+dissemination of data, 
+disclosure of data 
+κοινωνική χειραγώγηση 
+social engineering 
+κόκκινη ομάδα, ομάδα 
+καλόβουλων χάκερ 
+red team 
+κρίσιμη υποδομή 
+critical infrastructure  
+κρυπτανάλυση 
+cryptanalysis  
+20 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κρυπτοαλγόριθμος, 
+κρυπτογραφικός αλγόριθμος, 
+κρυπτοθετικός αλγόριθμος 
+cryptographic algorithm, 
+encryption algorithm, 
+encipherment algorithm, 
+cryptologic algorithm 
+κρυπτογραφία 
+cryptography 
+κρυπτογραφία δημόσιου 
+κλειδιού, ασύμμετρη 
+κρυπτογραφία 
+public key cryptography  
+κρυπτογραφία ιδιωτικού 
+κλειδιού, συμμετρική 
+κρυπτογραφία 
+private key encipherment, 
+symmetric cryptography, 
+secret key encipherment, 
+symmetric encipherment, 
+symmetric key cipher 
+κρυπτοθετήρας 
+cipher 
+κρυπτοκείμενο, έγκρυπτο 
+κείμενο, κρυπτοθετημένο 
+κείμενο, κρυπτογραφημένο 
+κείμενο 
+ciphertext  
+κρυπτολογία 
+cryptology  
+κυβερνοακτιβιστής 
+cyberactivist 
+κυβερνοάμυνα 
+cyber defence 
+κυβερνοαπειλή 
+cyber threat 
+κυβερνοαπόκριση 
+cyber response 
+κυβερνοασφάλεια 
+cybersecurity 
+κυβερνοβάνδαλος 
+cybervandal 
+κυβερνοδιάλογος 
+cyber dialogue 
+κυβερνοδιπλωματία, 
+ηλεκτρονική διπλωματία, 
+ψηφιακή διπλωματία 
+cyber diplomacy, 
+e-diplomacy, digital 
+diplomacy 
+κυβερνοέγκλημα 
+cybercrime 
+κυβερνοεγκληματίας 
+cybercriminal 
+κυβερνοεγκληματολογία 
+computer forensics, cyber 
+forensics 
+κυβερνοεκφοβισμός 
+cyberbullying 
+κυβερνοεπανατακτικότητα 
+cyber resilience 
+κυβερνοεπίθεση 
+cyber-attack 
+κυβερνοετοιμότητα 
+cyber preparedness 
+κυβερνοκατασκοπεία 
+cyber espionage 
+κυβερνοκρίση 
+cyber crisis 
+κυβερνοοικονομία 
+cyber-economy 
+κυβερνοπαρενόχληση 
+cyberstalking 
+κυβερνοπόλεμος 
+cyberwarfare, cyber war 
+κυβερνοτρομοκρατία 
+cyberterrorism 
+κυβερνοϋγιεινή 
+cyber hygiene 
+κυβερνοχώρος 
+cyberspace 
+κώδικας συμπεριφοράς 
+code of conduct  
+κωδικός πρόσβασης, 
+διελευτήριο 
+password 
+λαγωνικό 
+sniffer 
+λεξικοεπίθεση, επίθεση με 
+λεξικό 
+dictionary attack 
+λευκή λίστα 
+whitelist, whitelisting  
+Ελληνικός όρος 
+Αγγλικός όρος 
+λευκή ομάδα, ομάδα 
+διαιτησίας 
+white team  
+λογισμική βόμβα 
+logic bomb 
+λογισμικό ως υπηρεσία 
+software as a service, 
+SaaS 
+λυτρισμικό 
+ransomware 
+μακροϊός, ιός μακροεντολών 
+macro virus  
+μαύρη λίστα 
+blacklist 
+μεταδεδομένα 
+metadata 
+μεταφορά 
+porting 
+μετριασμός 
+mitigation 
+μητρώο ονομάτων τομέων 
+ανώτατης στάθμης 
+top-level domain name 
+registry 
+μηχανομάθηση 
+machine learning  
+μπισκότο (δεδομένων) 
+cookie 
+μπλε ομάδα, ομάδα 
+κυβερνοασφάλειας 
+blue team  
+μπλούτουθ 
+bluetooth 
+μποτ 
+bot  
+μποτοδίκτυο 
+botnet 
+νεφοϋπολογιστική 
+cloud computing  
+νομική ειδοποίηση 
+legal notice 
+οικοσύστημα 
+κυβερνοασφάλειας, 
+κυβερνοοικοσύστημα 
+cybersecurity ecosystem, 
+cyber ecosystem 
+ολοπηγαία περιγνωσία 
+all-source intelligence 
+ομοιόμορφος εντοπιστής 
+πόρου 
+URL, uniform resource 
+locator  
+παθητική απειλή 
+passive threat 
+παθητική επίθεση 
+passive attack 
+παραβίαση προσωπικών 
+δεδομένων 
+personal data breach 
+παρακατεύθυνση, 
+παραπλανητική 
+ανακατεύθυνση προς πλαστό 
+ιστότοπο 
+pharming 
+παρακολούθηση 
+συμπεριφοράς 
+behaviour monitoring  
+παραμήνυμα 
+spam  
+πάροχος πρόσβασης 
+διαδικτύου, παροχέας 
+πρόσβασης διαδικτύου 
+access provider, internet 
+access provider 
+πάροχος ψηφιακών 
+υπηρεσιών, παροχέας 
+ψηφιακών υπηρεσιών 
+digital service provider, 
+DSP 
+περιστατικό 
+incident 
+περιστατικό ασφάλειας 
+πληροφοριών 
+information security 
+incident 
+περιστατικό 
+κυβερνοασφάλειας, 
+κυβερνοπεριστατικό 
+cybersecurity incident, 
+cyber incident 
+πιστοποίηση 
+κυβερνοασφάλειας 
+cybersecurity certification 
+21 
+Ελληνικός όρος 
+Αγγλικός όρος 
+πιστοποιητικό αυθεντικότητας 
+certificate of authenticity, 
+COA 
+πλαστογράφηση 
+spoofing 
+πλατφόρμα ως υπηρεσία, 
+πλατύβαθρο ως υπηρεσία 
+platform as a service, 
+PaaS 
+πληκτροκαταγραφέας, 
+καταγραφέας 
+πληκτρολόγησης 
+keylogger 
+πληρεξούσιος 
+proxy 
+πληροφοριακό περιουσιακό 
+στοιχείο 
+information asset 
+πολιτική ασφάλειας 
+security policy 
+πόρος-κλειδί, κλειδιακός 
+πόρος 
+key resource  
+πρόγραμμα PGP 
+Pretty Good Privacy, PGP 
+πρόγραμμα εκμετάλλευσης 
+τρωτότητας 
+exploit, software 
+vulnerability exploit, 
+vulnerability exploit 
+προηγμένη επίμονη απειλή 
+advanced persistent 
+threat, APT 
+πρότυπο ασφάλειας 
+δεδομένων κλάδου καρτών 
+πληρωμής 
+PCI DSS, Payment Card 
+Industry Data Security 
+Standard 
+πρόχειρη διόρθωση 
+ασφάλειας, μπάλωμα 
+ασφάλειας 
+security patch 
+πρωτόκολλο 
+protocol  
+πρωτόκολλο ελέγχου 
+μετάδοσης/πρωτόκολλο 
+Ίντερνετ 
+TCP/IP, Transmission 
+Control Protocol/Internet 
+Protocol 
+πρωτόκολλο μεταφοράς 
+απλού ταχυδρομείου 
+SMPT, simple message 
+transfer protocol, simple 
+mail transfer protocol 
+πρωτόκολλο μεταφοράς 
+αρχείων 
+FTP, file transfer protocol 
+πρωτόκολλο υπερκειμενικής 
+μεταφοράς, πρωτόκολλο 
+μεταφοράς υπερκειμένου 
+HTTP, hypertext transfer 
+protocol 
+ραδιοσυχνική αναγνώριση, 
+ραδιοσυχνική ταυτοποίηση 
+radio frequency 
+identification, RFID 
+σεξοεκβιασμός, σεξουαλικός 
+εκβιασμός 
+sextortion 
+σημείο ανταλλαγής κίνησης 
+διαδικτύου 
+internet exchange point 
+σκουλήκι {λογισμικό} 
+worm 
+στάτο κυβερνοασφάλειας 
+cybersecurity posture, risk 
+posture, security posture 
+στοχευμένο ηλεκτρονικό 
+"ψάρεμα" 
+spear phishing 
+Στρατηγική της Ευρωπαϊκής 
+Ένωσης για την ασφάλεια 
+στον κυβερνοχώρο: Για 
+ανοικτό, ασφαλή και 
+προστατευμένο κυβερνοχώρο 
+Cybersecurity Strategy of 
+the European Union: An 
+Open, Safe and Secure 
+Cyberspace 
+στρώμα ασφαλών υποδοχών, 
+πρωτόκολλο SSL 
+Secure Sockets Layer, 
+SSL 
+συμβάν 
+event  
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβαση για το έγκλημα στον 
+κυβερνοχώρο 
+Convention on Cybercrime 
+συμμετρικό κλειδί 
+symmetric key  
+συμμετρικός 
+κρυπταλγόριθμος 
+symmetric encryption 
+algorithm  
+συμφωνία στάθμης 
+υπηρεσίας 
+service level agreement, 
+SLA 
+συναγερμική ειδοποίηση 
+alert 
+συνάθροιση δεδομένων 
+data aggregation  
+συνδυασμένη επίθεση 
+combined attack 
+σύνεργα απόκρυψης 
+παρουσίας 
+rootkit 
+συνεργατική οικονομία 
+collaborative economy  
+σύστημα ανίχνευσης εισβολής 
+intrusion detection system 
+σύστημα ανίχνευσης 
+εισβολής, ΣΑΕ 
+IDS, intrusion detection 
+system, intruder detection 
+system 
+σύστημα διαχείρισης 
+ασφάλειας πληροφοριών 
+ISMS, Information Security 
+Management System 
+σύστημα ελέγχου 
+βιομηχανικού αυτοματισμού 
+industrial automation 
+control system, IACS 
+σύστημα ονομάτων τομέα 
+DNS, domain name 
+system 
+σύστημα πρόληψης εισβολής 
+IPS, intrusion prevention 
+system 
+σύστημα φήμης 
+reputation system 
+σφάλμα 
+bug 
+σχέδιο έκτακτης ανάγκης 
+contingency plan 
+σχέδιο επιχειρηματικής 
+συνέχειας 
+business continuity plan, 
+BCP 
+τείχος προστασίας 
+firewall 
+τεχνολογία 
+κυβερνοεπιτήρησης 
+cyber-surveillance 
+technology 
+τιμή κατατεμαχισμού, τιμή 
+κατακερματισμού 
+hash value 
+τοπικό δίκτυο 
+LAN, local area network 
+τρολ, διαβολάκι 
+troll (n.) 
+τρολάρισμα, διαβόλισμα 
+trolling 
+τρολάρω, διαβολίζω 
+troll (v.) 
+τρολοφάρμα, διαβολομάζωξη 
+troll farm  
+τρωτότητα «ημέρας μηδέν» 
+zero-day vulnerability, 0-
+day vulnerability  
+τρωτότητα, ευπάθεια 
+vulnerability 
+υπερχείλιση ενδιάμεσου 
+καταχωρητή 
+buffer overflow 
+υπογραφή ιού 
+virus signature 
+υποδομή δημόσιου κλειδιού 
+public key infrastructure, 
+PKI 
+υποδομή ως υπηρεσία 
+infrastructure as a service, 
+IaaS 
+φορέας εκμετάλλευσης 
+βασικών υπηρεσιών 
+operator of essential 
+services, OES 
+φορέας επίθεσης 
+attack vector 
+22 
+Ελληνικός όρος 
+Αγγλικός όρος 
+φωνή μέσω IP, φωνή μέσω 
+(πρωτοκόλλου) Ίντερνετ 
+VoIP, voice over IP 
+φωνοψάρεμα, φωνητικό 
+ψάρεμα 
+vishing 
+χάκερ με μαύρο καπέλο, 
+μαύρο καπέλο, κακόβουλος 
+χάκερ 
+cracker, black hat hacker, 
+black hat 
+Ελληνικός όρος 
+Αγγλικός όρος 
+χάκερ, (πληροφορικός) 
+πειρατής 
+hacker 
+χρονοσφραγίδα 
+timestamp 
+«ψάρεμα» με μηνύματα SMS 
+smishing 
+ψηφιακή υπογραφή 
+digital signature 
+ 
+ 
+ 

@@ -1,0 +1,562 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_11-21-HarperTodd_Paper_V05.pdf
+
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+From the corporate to the material: How the translation of liturgical 
+terms shifted the emphasis in Christian worship 
+    
+M. Todd Harper 
+SUMMARY 
+The development of liturgical terms within the early Church has often shifted the meaning of a word from 
+its original to a meaning that reflects changes in the church’s development. This is particularly true in the 
+development of ἐκκλησία, which Paul and the Gospel writers use to designate the Christian community, 
+literally those who have been called (καλέω-ῶ) out (ἐκ).  However, with the building of physical 
+structures to house the gathering of Christians, ἐκκλησία increasing came to designate the physical 
+structure as much as the gathering.   Moreover, the attributes that early Christian writers ascribed to the 
+ἐκκλησία as the gathering of Christians, such as Paul’s description of the church as the “body of Christ,” 
+were projected into the meaning of the physical buildings so that the brick and mortar of the Basilica, for 
+instance, also became the “body of Christ.”  In this paper, I will trace the development of the word 
+ἐκκλησία  and its effect upon the early Church as a body of worshippers and a physical structure. 
+ 
+Από το συλλογικό στο υλικό: Πώς η μετάφραση λειτουργικών όρων 
+μετατόπισε την έμφαση στη Χριστιανική λατρεία 
+    
+M. Todd Harper 
+ΠΕΡΙΛΗΨΗ 
+Η ανάπτυξη των λειτουργικών όρων μέσα στην πρώτη Εκκλησία συχνά μετατόπισε την αρχική σημασία 
+της λέξης. Αυτό αληθεύει ιδιαίτερα στην ανάπτυξη της ἐκκλησίας, την οποία ο Παύλος και οι 
+Ευαγγελιστές χρησιμοποιούν για να κατασημάνουν την κοινότητα των Χριστιανών, εκείνους δηλαδή που 
+κυριολεκτικά έχουν κληθεί (καλέω-ῶ) έξω (ἐκ).  Με την κατασκευή υλικών δομών για να στεγασθεί η 
+συγκέντρωση των χριστιανών, η ἐκκλησία επεκτεινόμενη έφτασε να κατασημαίνει τόσο το υλικό 
+οικοδόμημα όσο και την σύναξη των Χριστιανών.   Επιπλέον, τα γνωρίσματα που οι πρώτοι Χριστιανοί 
+συγγραφείς αποδίδουν στην ἐκκλησία, όπως η περιγραφή του Παύλου για την εκκλησία ως «σώμα του 
+Χριστού», προβλήθηκαν στη σημασία των υλικών κτιρίων ώστε το τούβλο και το ασβεστοκονίαμα της 
+Βασιλικής, για παράδειγμα, σύντομα έγινε το «σώμα του Χριστού».  Στην παρούσα εργασία θα 
+ανιχνεύσουμε την ανάπτυξη της λέξης ἐκκλησία και την επίδρασή της πάνω στην πρώτη Εκκλησία ως 
+σώμα λατρευτών και ως υλική κατασκευή. 
+ 
+0   Introduction 
+The relationship between the abstract spaces used for rhetorical invention and 
+memorization, what the ancient Greeks and Romans called τόποι and commonplaces, 
+respectively, and the physical spaces of architecture that too were used for memory and 
+invention (commonly, as meditation) should not surprise us.  Perhaps, it lies in the Greek 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+2 
+and Roman etymologies for space, τόπος or τόποι (pl) and loci that made their way into the 
+language of rhetoric.  Perhaps, it is because architecture itself is simply a different 
+incarnation of the concept of text, a physical and material rendering of symbols and 
+meanings, and, therefore, is open to the same types of rhetorical processes that other oral 
+and written texts are exposed to.  Perhaps, as Mary Carruthers seems to suggest, space is 
+a place where one can locate, inventory, and retrieve objects, whether they are abstract 
+concepts and images, as in the case of rhetorical τόποι, or material items as in the case of 
+furniture that might be stored in a room [1] .  What is interesting is when the two seem to 
+influence each other so that the functions of the mental and physical text become blurred.  
+When medieval monks wanted to visualize their spiritual journey, Carruthers notes, they 
+imagined the Jewish temple described in Ezekiel and I Kings.  The seven steps leading up 
+to the temple became the seven qualities of a good monk seeking entrance into the kingdom 
+of heaven.  As the visualizing of the temple became a common τόπος within monastic 
+literature, the monastic buildings began to incorporate these meditative τόποι so that the 
+same seven steps would begin to appear in the physical architecture with the purpose of 
+physically reminding the monk of his more symbolic ascent into heaven [1].   Carruthers tells 
+us that the purpose of these abstract and material spaces was to aid the medieval monk in 
+locating, collecting, and creating texts.  The individual τόποι, such as the seven steps 
+towards the temple described in Jewish texts, become places where other ideas and texts 
+can be located and collected, such as seven qualities of a good monk.  These emerging 
+inventories of objects can then be used to create oral and written texts as well as physical 
+buildings or, what we might call, architectural texts [1].  
+I will explore the relationship between the abstract τόποι used for rhetorical memory and 
+invention and the material places found in architecture.  Nowhere is this more apparent in 
+the Byzantine and medieval period then in the word ἐκκλησία, a word used to designate 
+those who gathered as Christians and the place where they gathered.  The ἐκκλησία quickly 
+became a commonplace of invention for early writers to designate attributes and develop an 
+emerging theology.  The Apostle Paul, for instance, argues that those who have been called 
+(καλῶ) out (ἐκ) to spread the message and do the work of Christ are themselves the 
+collective and living “body of Christ” imbued by the Holy Spirit.  With the building of physical 
+structures for the ecclesia to gather, sometimes called κυριακόν, or house(s) (οἶκος) of the 
+Lord (Κυρίου), but more often simply called ἡ ἐκκλησία, a metonymic substitution of the part, 
+the place where the gathers gather, with the whole, the gatherers, or those who have been 
+called out (the Pauline and early Christian ἐκκλησία).  Thus, these physical structures, which 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+3 
+took their original shape and function from Roman aristocratic farms where the first century 
+church often met, became imbued with the attributes that the early Christians had assigned 
+to the church as a collection of people.  Not surprisingly, at the height of the iconoclastic 
+controversy and after Hagia Sofia had established itself as the great Byzantine basilica, 
+Geranumus, an eight century patriarch, begins his mystagogy or catechumenal lectures with 
+the declaration “’Εκκλησία ἐστί ναός θεού, τέμενος ἃγιον, οἶκος προσευχῆς, συνάθροιση 
+λαού, σώμα Χριστοῦ, (1984: 56 [4])” “The Church [physical structure] is the temple of God, a 
+holy place, a house of prayer, a gathering of people, the body of Christ (1984: 57 [4]).”  
+Unlike his predecessors, Cyril of Jerusalem, Theodore of Mopseustia, or John Chrysostom, 
+who organize their mystagogical lectures around the various acts of the liturgy, Germanus 
+arranges his lectures around the various places within the church as well as the material 
+objects located therein.  In the same instance, Germanus uses the physical location of 
+rooms and objects as a way to develop and generate his own lectures; he projects onto the 
+physical building those attributes which had been assigned to the word ecclesia so that the 
+building becomes a physical text wherein the clergy and laity may reflect upon Christ’s life 
+as well as generate their own texts.  This paper will trace the development of this word as 
+both an abstract and theological concept as well as a physical structure. 
+1   Rhetorical Topoi as Memory and Invention 
+In order for us to begin to understand how Byzantine and medieval Christians played with 
+the abstract concept and architectural realization of ἐκκλησία as a rhetorical commonplace 
+for memorization, contemplation, and invention, we must first study how ancient rhetoricians 
+viewed memory and invention.  Both memory and invention were included among the many 
+lists of rhetorical canons that stretched from Aristotle to Cicero.  While they were separated 
+and placed at opposite ends of the spectrum with invention at the beginning of the canon 
+and memory at its end, they were linked in the minds of Greek and Roman rhetoricians.   
+These rhetoricians employed the spatial tropes of τόποι and loci as ways to think about 
+memory and invention at the same time.  They understood the importance and power of 
+place to help train the mind to produce texts.  Nowhere is this more evident than in the 
+Rhetorica ad Herennium, where the reader is asked to visualize “the plan of a visual house, 
+in whose rooms and recesses an orator should ‘place’ images that recall to him the material 
+he intends to talk about” (1998: 7 [1]) as a mnemonic device for memorizing texts.  
+Carruthers terms this “locational memory” and argues that medieval scholars and monks, 
+with whom I would include most early Christian thinkers, used this form of memory as a tool 
+to develop ideas.  The medieval thinker might respond to an idea or thought by intentionally 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+4 
+committing it to memory, that is, by thoughtfully placing it within a visual, often spatial 
+framework.  This memory would be classified and categorized with other memories.  
+(Carruthers reminds us that the Latin word inventio contains the root for both the English 
+words “invent” and “invention” as well as the English word “inventory” [1].)  In other words, 
+the medieval scholar or monk would generate (invent) ideas and texts in part by the way that 
+they associated images (place them within an inventory) with one another.  By locating and 
+then associating and inventorying objects, one was able to see new relationships that, in 
+turn, allowed one to come up with new ideas.  These first two stages, location and 
+association, thus, led to the third stage of invention.  
+Early Christians understood this and often employed architectural metaphors as a means of 
+thinking through spiritual development.   In his first letter to the Corinthians, Paul employs 
+what Carruthers calls the language of the “master-builder” to express how the early Christian 
+must build upon the theologically and spiritually strong foundation of Christ: 
+According to the grace of God which is given unto me, as a wise master-builder, I 
+have laid the foundation, and another buildeth thereon.  But let every man take 
+heed how he buildeth thereupon. For no other foundation can no man lay than that 
+is laid, which is Jesus Christ.  Now if any man build upon this foundation gold, 
+silver, precious stones, wood, hay, stubble, every man’s work shall be made 
+manifest: for the day of the Lord shall declare it, because it shall be revealed by 
+fire. Know ye not that ye are the temple of God, and that the spirit of God dwelleth 
+in you?  If any man defile the temple of God, him shall God destroy; for the temple 
+of God is holy, which temple ye are?  (I Corinthian 6:16-23 Quoted in Carruthers, 
+1998: 15 [1]) 
+Paul is responding to divisions within the Church in Corinth by stating that neither Paul nor 
+Apollos (a leader in the Church of Corinth) should be the foundation for anyone’s faith.  
+Rather, it should only be Christ.  Paul, Apollos, and the other leaders of the church are 
+simply “master-builders” who build upon that foundation set forth and which is Christ, just as 
+those who follow will be “master-builders” upon what has already been built.  Carruthers, 
+however, notes that the importance of the passage lies in how it  “gave license to a virtual 
+industry of exegetical metaphors” (1998: 17 [1]) that would be used for centuries to follow in 
+order to describe that development of Church thought through the reverence and 
+indebtedness of one generation to the previous generations.  She finds the same metaphor, 
+for instance, used in Gregory the Greats description of Biblical exegesis: 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+5 
+First we put in place the foundations of literal meaning [historia]; then through 
+typological interpretation we build up the fabric of our mind in the walled city of 
+faith; and at the end, through the grace of our moral understanding, as though with 
+added color, we clothe the building.  (Quoted in Carruthers, 1998:18 [1]) 
+In this particular pattern, the biblical scholar builds upon previous interpretations of the Bible, 
+either those interpretations that have been laid out before him by others or his own 
+interpretation, beginning with a more literal and historical read and then advancing to a more 
+allegorical and typological reading.  This idea of “layering,” we shall see, was eventually 
+projected out onto the physical space of early Christian architecture. 
+We can begin to see this projection of mental concepts onto physical structures in the 
+example that Carruthers uses to observe the relationship between rhetorical τόποι and 
+architectural spaces.  She argues that mental and literal pictures of buildings, often the 
+Temple described in Ezekiel and 1Kings,  provided a visual figure for monks to mediate on 
+the “proper” or “divine” way.  For example, she cites the activity of “measuring the pattern” of 
+the Holy City described in Ezekiel: 
+Thou son of man, show the temple to the house of Israel, that they may be 
+ashamed of their iniquities: and let them measure the pattern, and blush from all 
+they have done.  Show them the plan of the house, and of its fabric, its exits, and 
+entrances, and its whole description, and all of its precepts, and the rest of its 
+ordering, and all its laws, and write [them] before their sight so that they may store 
+away all its descriptions and its precepts, and fashion them.  (Quoted in Carruthers 
+1998:230 [1]) 
+Jewish mystics and early and medieval monks often associated the act of measuring the 
+temple with acts of penitence, contrition, and return to God.  The Jewish mystic Ezekiel sees 
+the measuring as the penintence, contrition, and return to God of the Jewish people.  In like 
+manner, the early Church father Gregory the Great develops ten influential sermons that 
+meditate on Ezekiel 40 as a penitential text for Christians.  Importantly, Carruthers notes, 
+Gregory viewed the building allegorically, as a spiritual rather than a physical dwelling: the 
+“seven levels up to the sanctuary,” she observes, “are a mnemonic for the seven stages of 
+wisdom,” citing Gregory himself, “’In our mind the first level of the staircase is the fear of 
+God, the second piety, the third knowledge, the fourth perserverance, the fifth counsel, the 
+sixth understanding, the seventh wisdom” (1998: 243 [1]).  For the medieval monk, the 
+seven steps becomes a way to meditate on the figurative “steps” he must take in order to 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+6 
+gain entrance into the heavenly kingdom.  By “locating” and “associating” these attributes 
+into a visual image, Gregory is able to create a pattern for himself and his audience.  
+Importantly, Carruthers states that latter monks often attempted to actualize the plans of the 
+temple, not in terms of the temple measurements described in the old testament, but rather 
+in terms of visions that they had.  Monks who had these visions often brought sketches 
+before their prior, who then used those sketches as the foundation for building an actual 
+monastery.  In other words, the mental texts, which were often the result of long meditations, 
+were in turn actualized in physical buildings that then assumed the symbolic proportions of 
+the mental texts. 
+At this point, it is important to note some of the differences between a medieval and ancient 
+understanding of rhetorical topoi, an understanding that reveals an important difference in 
+the two systems of thought.   In the case of the the ancient sources, rhetorical topoi and 
+commonplaces are presented as adversarial.  For example, Aristotle presents one way of 
+verbally countering an opponent by redefining important terms as one of the several topoi 
+that fall under the category of definition.  Redefinition becomes a way of developing an 
+argument that can parry one’s adversary in the Assembly or before the Court.   In the case 
+of early and medieval Christian sources, the relationships among writers are often seen as 
+less adversarial, especially when one source is seen as an older, more authoritative source 
+in which the younger writer might build his structure upon.  (This is not to say that early 
+Christian writing was not adversarial.  Indeed, it often was.)  When early writers discuss 
+specific τόποι, they generally do so in the context of a constructive relationship, seeking to 
+build on one another. 
+More importantly, the concept of memory that the church held was somewhat different from 
+Aristotle, Cicero, and the Rhetorica ad Hernennium.   In fact, the early church’s concept of 
+memory or, what it termed, anamnesis hearkened back to a much older Platonic view that 
+more directly linked memory and invention.  Every activity and action of the early Church 
+was always necessitated as a means for remembering and meditating on Christ’s life, 
+teachings, crucifixion, and resurrection.  On the one hand, this meant reflecting on Christ 
+historically.  For example, during the liturgical seasons of Easter and Pentecost, Byzantine 
+Christians recalled the historical events that led to Christ’s crucifixion and resurrection as 
+well as to the founding of the Church.  With the exception of the resurrection, these events 
+were seen as having occurred at a specific historical moment in the past and, thus, were 
+irretrievable except as a memory in the more ordinary sense of the word.  On the other 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+7 
+hand, both the resurrection and the presence of Christ were seen as eternal.  Acts that 
+acknowledged this, such as the saying of the Eucharistic prayer, moved beyond simply 
+making a past event present to making the invisible visible.  In other words, through the 
+Eucharist, the Bishop made visible and tangible the reality of the resurrected Christ.  We 
+may also think of both forms of memory in terms of religious iconography.  On the one hand, 
+religious iconography depicts the lives of the saints in a manner that allowed the often 
+illiterate congregations to learn the most salient features of the saints’ life.  Through an array 
+of symbols, the laity might learn that John the Baptist was beheaded, while John the 
+Evangelist had the divine revelation.   On the other hand, the icon alerts the laity to attend to 
+the divine presence of that saint in the physical walls of the church.  This is particularly true 
+of Christ the Pantocrator who gazes down at the laity in the nave or looks out at them from 
+the iconostasis.   
+The form of memory or anamnesis which makes the invisible visible is largely Platonic.   In 
+the Phaedrus, Socrates describes dialectics as a way of making the invisible ideals visible, a 
+way that at first seems to draw them out from the memory of the person until that person 
+realizes that the ideals were always and already present.  He relates the myth of the 
+Charioteer, noting that the mortal who is by nature destined to be reborn on earth had once 
+glimpsed the ideals, while riding an unwieldy chariot before birth.  Having fallen to earth and 
+been born in human form, the person forgets what he has glimpsed until he responds to the 
+quality of that ideal reflected in his beloved.  He might admire the beloved for her beauty, 
+honesty, or courage before realizing that it is not the beloved’s individual beauty, honesty, or 
+courage that he has fallen in love with, but rather the reflection of those ideals in the 
+beloved.  Through careful philosophical reflection by means of defining and defining again 
+those ideas, what we might call Socratic dialectics, the person can increasingly bring the 
+ideals into focus and become aware of their presence.  Moreover, the person can use his 
+increased, though never perfect, understanding of the ideals in a way that any future 
+statement or declaration grows organically from the truth rather than attempting to 
+manipulate it, as Socrates so often sees in sophistic rhetoric [7].  In the church, the 
+resurrected Christ takes the place of the Platonic ideal.  Christ’s divine presence is made 
+known through various rituals and actions of the church.   
+It is from the experience of this divine presence that the members of the church can begin to 
+articulate and, in the words of Paul, build upon the foundation of Christ.  In Plato, the ideals 
+are first encountered through the love of the beloved.  It is from this emotion or state that the 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+8 
+person can begin to reason, define, and describe the ideals they sense in the beloved.  
+Although Carruthers does not address Plato in this manner, she notes that a psychology of 
+memory developed in the middle ages, one that emphasized emotion and the experience of 
+memory as prior to reasoned development of an argument.  One only need think of the 
+visual nature of mnemonic images.  While they could not be as precise as memorizing 
+actual text, an act that Carruthers finds impossible, they could provide a sense of the object 
+memorized in a manner that through reflection would allow the person to recall and 
+regenerate the text.  Finally, we see this in John Chrysostom who speaks of the “awe-
+inspiring mysteries” and “bloodless sacrifice” as experiences within the liturgy that allow us 
+to move from the sensual to a more abstract understanding and acknowledgement of the 
+presence of the resurrected Christ.  
+2   Rhetorical spaces and Architectural Places 
+ At this point, we may begin to examine the physical structure of the church and the way it 
+became imbued with meaning from the early church’s developing understanding of 
+ἐκκλησία.  In pointing this out, I would be remiss if I suggested that a full theology of 
+ἐκκλησία shaped the planning and development of the first church’s whose structures drew 
+more immediately from the Roman aristocratic farms where early Christians gathered than 
+from any developed sense of the church as gathering or as “those who had been called out.”  
+Gregory Dix, Hugh Wybrew, and Richard Krauthimer all argue that the rectangular shape 
+and various functions of the different spaces of the Roman noble’s house had a profound 
+impact on the structure of the earliest Christian structures or Bassilicas ([2], [5], [8]).  The 
+Roman noble house was rectangular in shape with a large, open atrium in the center.  At 
+one end of the atrium was the entrance hall or vesitibulum where the guests were greeted, 
+while at the opposite end was the tablinium, a room that functioned as a reception area and 
+a shrine to the Roman gods.  Dix notes, “when the whole patrician clan met in family 
+conclave or for family rites, there was placed [in the tablinum] the great chair of the 
+paterfamilias, the head of the clan, and around him sat the heads of the junior branches, 
+while the younger members and dependents stood assembled facing them in the atrium” 
+(2005:35 [2]).  Dix states that with the removal of the Roman gods, the structure became a 
+perfect place for early Christians to gather.  The Bishop would occupy the great chair, the 
+presbyters and deacons surrounding him, while the laity would be seated outside in the 
+open area of the atrium.   With the roofing of the atrium, the entrance hall became the 
+narthex, the atrium the nave, and the tablinum the sanctuary where the Eucharistic rites 
+were performed.  Dix and others are quick to point out the relative speed in which these 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+9 
+spaces began symbols for larger theological meanings.  The stone table where the family 
+sat quickly became the altar, while the  impluvium or large tank where guests ritualistically 
+washed themselves almost immediately became the Baptismal font [2].   
+Yet, it is as the term ta ecclesía evolves that the various spaces of these buildings take on 
+increased symbolic meaning. 
+In the Gospels and Epistles, ta ecclesía begins to take on the characteristic of a rhetorical 
+commonplace and, thus, develops its own theology.  The word, which dates back to ancient 
+Greece, originally designated the assembly of elders (though it could also designate the 
+place of assembly), appears in the Gospels as well as Epistles.  In the Gospels, Christ 
+seems to allude to the future church when ἐκκλησία is used.  In one of the most important 
+places, he plays with the etymology of Peter’s name, telling him, “Peter (Petrós) on this rock 
+(petrá), I will build (oikodomeso) my church (ten ecclesian)” [Matthew 16:18 [3]). Generally, 
+scholars focus on the play of Peter, derived from Petros, as the rock.  Yet, Christ’s use of ta 
+ecclesía to designate church, a physical object that can be built as well as the gathering of 
+followers that Peter will eventually lead, suggests an interesting play between the two 
+meanings of ta ecclesía that begin to emerge over the next three centuries.  Elsewhere, 
+when the Gospels refer to a physical structure, it is most often the temple or house of God.  
+Here the Gospel writers use naós, ierós, or oíkos kyriou, as when Jesus is said to teach at 
+the temple in Matthew or when he chases out the money changers, stating that the “it is 
+written that my house [referring to the temple as God’s house] will be called a house of 
+prayer (oíkos proseuchés)” (Matthew 21:13 [3]).  However, the Gospels redefine this term.  
+As Gregory Dix notes, the temple in ancient culture was not the place where people 
+gathered on specific days, as the church is a place where Christians congregate on 
+Sundays and Holy Days, but rather a place that the Gods inhabited as well as a place where 
+one made sacrifice [2].  It is in this sense that Christ tells the Pharisees that in three days if 
+they destroy this temple (naós)  he will build it back up, referring not to public temple, but to 
+his own death and resurrection (John 2:19 [3]).  The temple of God resides in Christ as an 
+individual and not in a physical place. We see this concept taken up and amplified by Paul in 
+his letters to the various early congregations.  
+Yet, to discover the concepts that were associated with the gathering that would later be 
+associated with the physical structure that contained that gathering, we need to look at Paul. 
+Paul expands the definition of ἐκκλησία, among other things, to label the early church as the 
+collective body of Christ.   It is in Paul that we first become aware of ἐκκλησία in its more 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+10 
+etymological sense of those who are called (kaleó) out (ek).  In order for Paul to identify the 
+early church, which included both Gentiles and Jews, he had to move away from notions of 
+divine inheritance based on tribal affiliation and ethnicity.  In other words, because the Jews 
+and the largely Greek, African, and Roman gentiles were not of the same race, he had to 
+develop a way to identify them as the chosen people without relying on traditional means.  
+For Paul,  the early church are granted salvation and divine inheritance because they have 
+individually heard and responded to God’s call to do good works and spread the good news 
+in the name of his son, Jesus Christ.  It is in this regard that Paul further amplifies the 
+meaning of ta ecclesía or those who have gathered and been called out to include the body 
+of Christ.  In the passage quoted above from first Corinthians, Paul asks, “Know ye not that 
+ye are the temple of God (naós theou), and that the spirit of God dwelleth in you?  If any 
+man defile the temple of God, him shall God destroy; for the temple of God is holy, which 
+temple (naós)  ye are?” (1 Corinthians 6: 17 [2]).  Paul addresses both the individuals of the 
+church and the church as a whole as “the temple of God.”  Because they responded to 
+God’s call, often within Christ’s absence, the one and the many that make up the early 
+gathering of Christians have been blessed with the Holy Spirit and thus have, individually 
+and collectively, become “the temple of God,” which Christ, also attributes to as “my father’s 
+house” and “a house of prayer.”   
+Paul’s most complicated articulation and expansion of ἐκκλησία seems to occur in his letter 
+to the early church in Epheseus.  What Paul then does is to transfer the topoi that Christ 
+uses when discussing the individual to the of the church as a whole.  For example, Paul 
+compares the church (ta ekklessía) to the body, stating the Christ and its leaders function as 
+its head which guide the rest into making good choices.  He amplifies this comparison then 
+by noting that the church is at once the body of Christ, while at the same time, the bride of 
+Christ.  In one of the most complicated, if not difficult passages, for modern readers, 
+  22Wives, submit to your husbands as to the Lord. 23For the husband is the head of 
+the wife as Christ is the head of the church, his body, of which he is the Savior. 
+24Now as the church submits to Christ, so also wives should submit to their 
+husbands in everything.  25Husbands, love your wives, just as Christ loved the 
+church and gave himself up for her 26to make her holy, cleansing[b] her by the 
+washing with water through the word, 27and to present her to himself as a radiant 
+church, without stain or wrinkle or any other blemish, but holy and blameless. 28In 
+this same way, husbands ought to love their wives as their own bodies. He who 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+11 
+loves his wife loves himself. 29After all, no one ever hated his own body, but he 
+feeds and cares for it, just as Christ does the church— 30for we are members of his 
+body. 31"For this reason a man will leave his father and mother and be united to his 
+wife, and the two will become one flesh."[c] 32This is a profound mystery—but I am 
+talking about Christ and the church. 33However, each one of you also must love his 
+wife as he loves himself, and the wife must respect her husband.  (Ephesians 5:22-
+33 [3]) 
+This passage quoted from Ephesians takes marriage as its controlling metaphor.  Paul then 
+extends the metaphor to say that in marriage two individuals become one body.  He does 
+this by first imploring the one to look after the other as though the other was himself or 
+herself, literally his or her body.  In similar manner, we are also joined to the Body of Christ, 
+while also being a part of that body of Christ.  In speaking in this manner, Paul builds upon 
+Christ’s own idea that the body is the temple by making the body mean the body of the 
+individual, that is, to use Paul’s analogy, the individual body of the bride and the bridegroom, 
+the body of the collective, that is, the married couple, and the body of Christ. 
+In the hands of the Gospel writers and Paul, ta ecclesía becomes a rhetorical commonplace 
+where similar ideas begin to congregate and gather.  If we paraphrase Paul’s use of  the 
+architectural and foundational metaphor, we might even say that ἐκκλησία becomes the 
+foundation upon which is built an entire theology.  Ironically, since ἐκκλησία, even in its 
+ancient and early Christian writings, implies both a gathering of people and the place where 
+they gather, we have an architectural metaphor that helps to lay the foundation and 
+interpretation for the buildings that the early Christians would later build.  Having said this, 
+however, we cannot say with complete certainty when various parts of the physical building 
+were provided certain designations, as when Germanus, the eigth century Patriarch of 
+Constantinople, writes that the sanctuary surrounding the altar represents the cave where 
+Christ was born and the cave where he was placed after the crucifixion [4].  We do know, as 
+Carruthers notes, that early Christians imposed the meaning of the temple onto the physical 
+buildings so that the three part structure of a Basilica like Hagia Sofia with a narthex, nave, 
+and sanctuary drew upon the three divisions of the temple, the last of which was the Holy of 
+Holy’s [1].   In addition, we know that the organization and interpretation of the church as 
+building developed as an understanding of the liturgies that were performed in the church as 
+it evolved.  The table that existed in the tablinum, for instance, immediately became 
+identified with the altar.  With this identification, the sanctuary surrounding the altar was 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+12 
+quickly associated with Golgotha where Christ was sacrificed and crucified [2].  In the early 
+mystagogical or catechumenal texts of Cyril of Jerusalem, Theodore of Mopseuestia, and 
+John Chrysostom, the physical space of the church, when it is identified and explicated often 
+takes on significance in its relation to liturgical acts.  Indeed, we can hear this in the fifth 
+century Ecclesiastical Hierarchy, which is often attributed to Pseudo-Dionysius: 
+. . . By bringing Jesus Christ before our eyes, the bishop thus shows in sensible 
+fashion and in image that which is the very life of our soul: he reveals to us how 
+Christ Himself came out of His mysterious, divine sanctuary out of love for man and 
+took on human form, becoming totally incarnate but without any confusion; how 
+Christ descended to our divided condition without any change in His essential unity 
+to and called the human race to association with Himself and His own good gifts, 
+provided that we unite ourselves to His most divine life by imitating it insofar as we 
+can, that we become sufficiently perfect to enter truly into communion with God and 
+the divine mysteries. (quoted in Meyendorf 1984:15 [6])  
+While the author of the Ecclesiastical Hierarchy clearly has the anaphora, or offering of 
+Christ through the elements of bread and wine, in mind, he alludes to the physical sanctuary 
+where Eucharistic prayer takes place, suggesting that it is “His mysterious, divine sanctuary” 
+where Christ emerged to take human form.  A few centuries later, Germanus will develop 
+this idea in his suggestion that the sanctuary represents the cave where Christ was born.  
+What we can do, however, is appreciate the dialogue and dialectic taking place between 
+these mystagogical texts and the physical structure of the church, even if we cannot fully 
+know which came first.  Germanus’ mystagogical lectures provide one of the best examples 
+in terms of what they say and how they are organized.  Unlike his predecessors, the lectures 
+themselves are organized around the various physical spaces of the church as a building.  
+Thus, for instance, Germanus begins his discussion of the physical sanctuary with an 
+identification of it with the caves where Christ was born and buried.  He then proceeds to 
+discuss the liturgical acts, namely the saying of the Eucharistic prayer, which take place in 
+the sanctuary.  Indeed, it is almost the reversal of the passage from Ecclesiastical Hierarchy 
+that was quoted above.  In his lectures, we can almost see the Patriarch as he leads us 
+around Hagia Sofia, pointing out the various places and material artifacts used for the 
+liturgy.  Paul Meyendorf argues that Germanus’ organization has much to do with the 
+iconoclastic controversies that Germanus found himself embroiled in [6].  In an attempt to 
+demonstrate the benefit of visual representations of Christ, Germanus is at pains to show 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+13 
+how these material representations can aide in a person’s contemplation and ascent into the 
+spiritual.  In many ways, the physical church becomes the mneumonic devices described by 
+the Greek and Roman rhetoricians.  In this case, the Roman noble house that the author of 
+the Rhetorica ad Hernennium asks the student to visualize in order to locate and situate his 
+ideas and text becomes the physical building of the church where the text or story of Christ 
+is now inseparable from the material of the building.  
+It is important to note that the interpretation that Germanus does bring is one that 
+surprisingly synthesizes the development and interpretation of ἐκκλησία in the Gospels and 
+Epistles with history and development of the church as gathering and as place where the 
+gathering gathers.  We only need read Germanus’ very first line, where he declares 
+“Ecclesía estí naós theou, témenos ágion, oíkos proseuches, sunáthrois laou, soma 
+christou” (1984: 56 [4])  As I noted earlier, the Apostle Paul identifies ἐκκλησία as those who 
+have been called out of the masses by responding to the voice of God.  Paul amplifies Jesus 
+command that the body is the living temple of God to include both the individual members of 
+the church and the church as a whole.  Moreover, because the church is the temple of God, 
+it is also holy and is a house of prayer.  Finally, and most importantly, the church whose 
+body is the temple of God is also the body of Christ.  Germanus clearly picks up on Paul’s 
+theology; however, he integrates it with a more literal reading of naós which identifies it with 
+the physical temple.  Thus, ta ecclesía becomes both the gathering of individuals and the 
+place where those individuals gather, the physical naós or temple of God.  Because these 
+individuals by virtue of the fact that they have bodies and by the Holy Spirit having entered 
+them are the temples or dwelling places of God, the physical structure where they gather too 
+becomes a temple of God.  This new temple, which draws upon the older Jewish temples, is 
+by nature holy and, like the older Jewish temple, a house of prayer and, we may add, of 
+sacrifice.  Yet, it cannot be completely identified with the older Jewish temples because it is 
+also a place where the elect gather for study and instruction, a function that the Jewish 
+tradition reserves for a different structure, the synagogue. Finally, by assuming the 
+characteristics that Paul ascribes to the gathering who has been called out, the physical 
+structure of the church, like its congregation, becomes the body of Christ.  In this manner, 
+Germanus projects the τόποι which had gathered and become associated with the Pauline 
+concept of ta ecclesía onto the physical structure of the church.  The physical structure now 
+becomes a material place where these τόποι are represented for the clergy and laity to 
+reflect, meditate, and develop.  
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+14 
+3   Conclusion  
+We might conclude this paper with a short discussion of the physical structure of the church.  
+In his landmark study on hypermedia, J. David Bolter wryly notes that the medieval 
+cathedrals might properly be considered the first types of hypertext.  His argument is that the 
+cathedrals themselves were a type of text or even a series of text projected onto a physical 
+structure.  By moving about them from room to room without any particular order, a person 
+is able to experience them in the same way that he or she would a webpage or other form of 
+hypermedia.  Carruthers makes a similar observation, though one not directly related to 
+hypermedia, when she observes the cognitive effect that figurative spaces used in memory 
+had on early Christians: 
+The shape or foundation of a composition must be thought of as a place-where-
+one-invents.  Everything is fitted onto it.  And as the composer, acting like a master 
+builder or architectus, fits his tropes onto the foundation stones of a text, he must 
+smooth, scrape, chip off, and in other ways adapt and “translate” the dicta et facta 
+memorabilia he is using as his materials.  So the edifice of one’s life (so to speak), 
+although created from stories available to all citizens, is also a fully personal 
+creation, an expression (and creation) of one’s character.  This is plain in St. Paul’s 
+injunction to be like a wise master-builder: the fire will try the quality of your work.  
+(2006: 16 [1]) 
+While these figurative spaces represented various aspects of a text, Carruthers reminds us 
+that they were somewhat incomplete and thus capable of functioning as a heuristic when 
+brought  into contact with the unique text of the individual.  We may say the same of the 
+church as a material representation of the architectural τόποι.  Because of the visual quality 
+of church buildings, the spaces themselves always elude easy translation.  In other words, 
+there is nowhere within the physical sanctuary that says that it is the cave where Christ was 
+born or where he was laid to rest.  In order to arrive at this interpretation that sees the 
+physical sanctuary as representative of an important part of the story or text of Christ, 
+Germanus must draw upon earlier writers, such as the author of the Ecclesiastical 
+Hierarchy, as well as the sacrificial function of the room.  In short, the sanctuary as text is 
+open for interpretation, though it does have parameters.  In many ways, this is consistent 
+with cathedral architects who made every building gesture grand in order to accentuate the 
+sublimity and ultimate unknowability of God. Like the ancient Greek temples with their 
+imposing statues of the Gods, they were designed to convey a sense of awe that 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+15 
+communicated to the ancient priest and suppliant that only so much could be known and 
+understood.  Had the cathedrals been constructed in such a way that their symbolic nature 
+could easily be understood, I imagine that Carruthers would argue that they would evolve 
+into text simply meant to be memorized in a rote manner, as though one set upon the 
+impossible task of memorizing the Illiad word for word.  By becoming grand and sublime, 
+they overpower us with a sense of awe that can then lead us towards textual invention in the 
+same manner that Hagia Sofia must have led Germanus to produce his series of lectures.  
+4   Bibliography 
+[1]  Carruthers, Mary The Craft of Thought: Meditation, Rhetoric, and the Making of Images, 
+400-1200. Cambridge University Press, 2006, pgs. 399. 
+[2]  Dix, Dom Gregory.  The Shape of the Liturgy.  Simon Jones, 2005, pgs. 764. 
+[3]  Interlinear Greek-English New Testament, 3rd Edition. Ed. Jay P. Green, Sr.  Baker 
+Books, 1996, pgs. 794. 
+[4]  Germanus.  On the Divine Liturgy. St. Vladimir University Press, 1984, pgs. 107. 
+[5]  Krautheimer, Richard. Early Christian and Byzantine Architecture, Penguin, 1989, pgs. 
+556. 
+[6]  Meyendorf. Paul. “Introduction.” On the Divine Liturgy. Germanus. St. Vladimir 
+University Press, 1984, 9-55. 
+[7]  Plato.  Phaedrus.  Penguin Publishers, 2001. 
+[8]  Wybrew, Hugh. The Orthodox Liturgy: The Development of the Eucharistic Liturgy in the 
+Byzantine Rite. St. Vladimir University Press, 1989, pgs. 189.  
+ 
+ 
+M. Todd Harper, PhD 
+Associate Professor of English 
+Kennesaw State University 
+Kennesaw, GA, USA, 30120 
+ 
+ 
+ 
+ 

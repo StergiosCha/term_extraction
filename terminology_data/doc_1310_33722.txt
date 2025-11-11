@@ -1,0 +1,46 @@
+SOURCE: http://www.eleto.gr/download/TermBases/ELECTERM_History-EN.pdf
+
+ELECTERM: 
+Termbase of Electrotechnology 
+Resulting from the work of cooperation with ELOT 
+in Electrotechnical Standardization 
+ 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+August 2022 
+ 
+Short history of the Termbase ELECTERM 
+ 
+The Termbase ELECTERM is quadrilingual (Greek, English, French and German terms) and was created, in 
+1996, by Kostas Valeontis, being an external cooperator of ELOT in the Electrotechnical Standardization, at 
+his own initiative and voluntary work. Initially, ELECTERM was a dBASE III-Plus database, while in 1999, it 
+was converted by its creator into an MS Access 97 database, and today it is an MS Access 2000 database. 
+Initially, imported into ELECTERM were the Greek technical terms which had been used till then in the 
+electrotechnical Hellenic Standards. Then, the Termbase ELECTERM was enriched with terms resulting 
+from the preparation of new electrotechnical standards. Besides the Greek terms, there were entered one or 
+more foreign terms equivalent to each Greek term (mainly English and, where available, French and/or 
+German). 
+The development, operation, maintenance and feeding of ELECTERM was performed by its creator himself, 
+who has also the responsibility for the content in the website. Free accessing and searching the Termbase 
+ELECTERM is available on the Internet, via ELETO’s website. 
+The field structure of the Termbase ELECTERM comprises the following basic fields (which, in each entry, 
+correspond to a single concept): 
+BASIC FIELDS OF ELECTERM  
+English term 
+English abbreviation 
+Greek term 
+Greek abbreviation 
+French term 
+French abbreviation 
+German term 
+German abbreviation 
+Foreign language reference source 
+Greek language reference source 
+Stage of processing 
+ 
+Today, the termbase ELECTERM contains 21.518 terminological entries of electrotechnology. 
+ 

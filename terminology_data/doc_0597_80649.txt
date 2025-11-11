@@ -1,0 +1,356 @@
+SOURCE: http://www.eleto.gr/download/Bodies/Anemologio.pdf
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Πολύγλωσσο Ανεμολόγιο 
+ 
+Σύνταξη: 
+Θεόφιλος Βαμβάκος 
+Συμπλήρωση: Γιώργος Τσιάμας 
+Έγκριση: 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ)  
+της Ελληνικής Εταιρείας Ορολογίας (ΕΛΕΤΟ) 
+ 
+Οκτώβριος 2017 
+ 
+ 
+Εκδοτική επιμέλεια :  Κ. Βαλεοντής 
+Υπόμνημα – Σειρά γλωσσών 
+ 
+Α/Α 
+Γλώσσα 
+ 
+1) 
+Αρχαία Ελληνικά 
+ 
+2) 
+Νέα Ελληνικά 
+ 
+3) 
+Ελληνικά των ναυτικών 
+ 
+4) 
+Ιταλικά 
+ 
+5) 
+Ισπανικά 
+ 
+6) 
+Καταλανικά 
+ 
+7) 
+Αγγλικά 
+ 
+8) 
+Πορτογαλικά 
+ 
+9) 
+Βενετσιάνικα 
+ 
+10) 
+Τοσκανικά 
+ 
+11) 
+Ρουμάνικα 
+ 
+ 
+1)  Απηλιώτης
+2)  Ανατολικός 
+3)  Λεβάντες 
+4)  il vento di Levante 
+5)  el levante 
+6)  el llevant 
+7)  east wind 
+8)  o leste 
+9)  vento da levante 
+10) levante 
+11) Levantul 
+1)  Καικίας 
+2)  Βορειοανατολικός 
+3)  Γραίγος 
+4)  il  grecale 
+5)  el gregal 
+6)  el gregal 
+7)  north east 
+8)  o gregal 
+9)  grego 
+10) greco 
+11) Grecale 
+1) Βορρέας 
+2)  Βοριάς 
+3)  Tραμουντάνα 
+4)  la tramontana  
+5)  la tramuntana 
+6)  la tramuntana 
+7)  north wind 
+8)  a tramontana  
+9)  tramontana, vento
+ da tramontana 
+10) tramontana 
+11) Tramontana 
+1)  Σκίρρων 
+2)  Βορειοδυτικός 
+3)  Μαΐστρος 
+4)  il maestrale 
+5)  el noroeste 
+6)  el mistral 
+7)  north west 
+8)  o noroeste 
+9)  maistral, maestro 
+10) maestro 
+11) Mistral 
+1)  Ζέφυρος 
+2)  Δυτικός 
+3)  Πουνέντες 
+4)  l’ espero 
+5)  el poniente 
+6)  el ponent 
+7)  westerly wind 
+8)  o ponente 
+9)  vento da ponente 
+10) il ponente 
+11) Ponente 
+1)  Λιψ 
+2)  Λίβας 
+3)  Γαρμπής 
+4)  il libeccio 
+5)  el garbino 
+6)  el llebeig 
+7)  southwest wind 
+8)  sudoeste 
+9)  garbin 
+10) garbino 
+11) Libeccio 
+1
+Νότος
+2)  Νοτιάς 
+3)  Όστρια 
+4)  l’ austro 
+5)  el austro 
+6)  el austral, el garbí 
+7)  south wind 
+8)  o austro 
+9)  vento da mezo zorno,
+     ostro 
+10) mezzodie  
+11) Austrul 
+1)  Εύρος 
+2)  Νοτιοανατολικός 
+3)  Σιρόκος 
+4)  il scirocco 
+5)  el sirocco 
+6)  el xaloc, ventfora 
+7)  south east 
+8)  o sirocco 
+9)  sirocco, sirocal, 
+     sirocalon 
+10) siloc 
+11) Siroco 
+2)   Ανεμολόγιο 
+4)  la rosa dei venti 
+5)  la rosa de los vientos
+6)  la rosa dels  vents 
+7)  the windrose 
+8)  a rosa  dos ventos 
+11) roza vânturilor 
+Πολύγλωσσο Ανεμολόγιο 
+Σελίδα 2 
+ 
+Πίνακας αντιστοιχίας των ονομάτων των ανέμων στις γλώσσες του Ανεμολογίου 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+Αρχαία 
+Ελληνικά 
+Νέα Ελληνικά 
+Ελληνικά 
+των 
+ναυτικών 
+Ιταλικά 
+Ισπανικά 
+Καταλανικά 
+Αγγλικά 
+Πορτογαλικά 
+Βενετσιάνικα 
+Τοσκανικά 
+Ρουμάνικα 
+Βορρέας 
+Βοριάς 
+Tραμουντάνα 
+tramontana 
+tramuntana 
+tramuntana 
+north wind 
+tramontana 
+tramontana, vento 
+da tramontana 
+tramontana 
+Tramontana 
+Σκίρων 
+Βορειοδυτικός 
+Μαΐστρος 
+maestrale 
+noroeste 
+mistral 
+north west 
+noroeste 
+maistral, maestro 
+maestro 
+Mistral 
+Ζέφυρος 
+Δυτικός 
+Πουνέντες 
+espero 
+poniente 
+ponent 
+westerly wind 
+ponente 
+vento da ponente 
+ponente 
+Ponente 
+Λιψ 
+Λίβας 
+Γαρμπής 
+libeccio 
+el garbino 
+llebeig 
+southwest wind 
+sudoeste 
+garbin 
+garbino 
+Libeccio 
+Νότος 
+Νοτιάς 
+Όστρια 
+austro 
+austro 
+austral, garbí 
+south wind 
+austro 
+vento da mezo 
+zorno, ostro 
+mezzodie 
+Austrul 
+Εύρος 
+Νοτιοανατολικός 
+Σιρόκος 
+scirocco 
+sirocco 
+xaloc, ventfora 
+south east 
+sirocco 
+sirocco, sirocal, 
+sirocalon 
+siloc 
+Siroco  
+Απηλιώτης 
+Ανατολικός 
+Λεβάντες 
+vento di Levante 
+levante 
+llevant 
+east wind 
+leste 
+vento da levante 
+levante 
+Levantul 
+Καικίας 
+Βορειοανατολικός 
+Γραίγος 
+grecale 
+gregal 
+gregal 
+north east 
+gregal 
+grego 
+greco 
+Grecale 
+  
+Ανεμολόγιο 
+  
+rosa dei venti 
+rosa de los 
+vientos 
+rosa dels  
+vents 
+windrose 
+rosa  dos 
+ventos 
+  
+  
+roza vânturilor 
+ 
+ 
+ 
+ 
+ 

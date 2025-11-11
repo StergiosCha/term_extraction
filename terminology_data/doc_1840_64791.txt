@@ -1,0 +1,477 @@
+SOURCE: http://www.eleto.gr/download/Conferences/ELETO-EAFT_Conference_2013-11-07/ELETO-EAFT-Symposium-2013_Joseph%20Mariani_paper_EN_ppt.pdf
+
+ICT E
+bli
+L
+Di
+it
+ICT Enabling Language Diversity
+J. Mariani
+LIMSI CNRS &
+LIMSI-CNRS &
+Director
+Institute for Multilingual & Multimedia Information 
+(IMMI)
+(IMMI)
+The Challenges of 
+Multilingualism
+P
+th
+lt
+(l
+)
+• Preserve the cultures (languages)
+– Allow citizens to speak their own language
+• Study for the EC:
+Study for the EC:
+– 90% of European citizens prefer to have access to a Web site 
+in their native language
+• Only 30% of the Web in English (50% (2000), 35% (2004))
+y
+g
+(
+(
+),
+(
+))
+• 50% of European citizens speak only one language
+• Only 3% of Japanese citizens fluently speak a foreign 
+language
+g
+g
+• Only less than 5% of Indian citizens speak English
+7 November 2013
+2
+National Languages in Higher 
+Education & Science - Athens
+The Challenges of 
+Multilingualism
+All
+f
+i
+ti
+h
+• Allow for communication among humans
+– European Union
+• 28 Member States, 24 official languages / 552 language pairs
+28 Member States, 24 official languages / 552 language pairs
+• 35 national languages, 60 to 220 languages spoken in Europe
+• 2,500 translators at the EC - 1.8 Mpages translated per year
+• Fully Multilingual EC: 8,500 translators – 6.8 Million documents
+y
+g
+,
+• 30% European Parliament budget (300 M€) – 500 translators
+• Total cost for EU: 1.1 B€ per year = 2.2€ per European citizen
+• Study for the EC:
+– Economic barrier: Only 33% of EU citizens would agree to buy goods 
+on the Internet in a foreign language
+– Cultural exchange: 80% of EU citizens think that websites in their 
+language should be translated in foreign languages
+g
+g
+g
+g
+g
+– Globalization of information
+• 72 hours of new video every minute on YouTube in all languages
+• > 6,500 languages = > 40,000,000 language pairs
+7 November 2013
+3
+ 6,500 languages   40,000,000 language pairs
+National Languages in Higher 
+Education & Science - Athens
+Examples of Needs
+Examples of Needs
+E
+• Europe
+– European Digital Library (Europeana)
+• 23 millions documents in 26 languages (2013)
+23 millions documents in 26 languages (2013)
+• Multilingual / crosslingual : need to have tools
+– European Patent Office
+3 l
+(E
+li h G
+F
+h) i
+d
+t
+d
+• 3 languages (English, German, French) in order to decrease 
+the costs
+– European Commission, Parliament, Court of Justice 
+(d
+t
+t
+ti
+)
+(documents, reports, meetings)…
+• 1997 : 45% of source documents translated at the EC were 
+in English and 40% in French
+in English and 40% in French
+• 2007 : 72% of source documents translated at the EC were 
+in English and 12% in French!
+7 November 2013
+4
+National Languages in Higher 
+Education & Science - Athens
+Examples of Needs
+Examples of Needs
+I t
+ti
+l
+• International
+– Technical notices (aeronautics, car industry, 
+consumer products…)
+p
+)
+– Dubbing and subtitling of audiovisuals
+– Translation of Texts, Videos, Radio & TV broadcasts 
+on the Internet
+on the Internet
+– Interpretation in military and sanitary operations 
+(Haiti)
+– Interpretation at meetings, conferences, workshops
+– Interpretation of courses (MOOC)
+Writing of scientific articles in native language
+– Writing of scientific articles in native language
+7 November 2013
+5
+National Languages in Higher 
+Education & Science - Athens
+Languages in scientific publications
+Languages in scientific publications
+• Publications and 
+Science Citation 
+Index (SCI)
+1980
+1990
+2000
+English
+85%
+90%
+96%
+French
+4%
+2%
+1%
+1990
+English
+97%
+German
+1%
+French
+4%
+2%
+1%
+German
+5%
+2.5%
+1%
+Spanish
+0.7%
+0.4%
+0.3%
+German
+1%
+French
+0.6%
+Japanese
+0.1%
+p
+Japanese
+0.7%
+0.5%
+0.3%
+# docs.
+555 000
+690 000
+950 000
+p
+7 November 2013
+6
+National Languages in Higher 
+Education & Science - Athens
+Findings (1)
+Findings (1)
+– Impossibility to answer (quickly/at all)  all the 
+numerous present and future needs of 
+multilingualism with the present (and even 
+future) Human Resources
+7 November 2013
+7
+National Languages in Higher 
+Education & Science - Athens
+Findings (2)
+Findings (2)
+– Considering Multilingualism is not the first 
+priority in any economical sector
+– But the sum of the small priorities in each of 
+those economical sectors is very large
+y
+g
+– It therefore necessitates a political thinking 
+and a political action
+and a political action
+7 November 2013
+8
+National Languages in Higher 
+Education & Science - Athens
+Findings (3)
+Findings (3)
+• Multilingualism is necessary, but its cost is 
+very important 
+• Benefiting from Language Technologies
+Benefiting from Language Technologies 
+would facilitate multilingualism by
+D
+i
+it
+t
+– Decreasing its cost
+– Generalizing its use
+– If LT quality meets the user needs
+7 November 2013
+9
+National Languages in Higher 
+Education & Science - Athens
+Findings (4)
+Findings (4)
+• Languages that lack LT will be less and 
+less used
+– Car GPS, Smartphone interaction, Internet
+Car GPS, Smartphone interaction, Internet 
+search, Emergency access,…
+• Languages that benefit from crosslingual LT will
+• Languages that benefit from crosslingual LT will 
+get more and more used
+Machine Translation Speech Translation
+– Machine Translation, Speech Translation
+7 November 2013
+10
+National Languages in Higher 
+Education & Science - Athens
+Findings (5)
+Findings (5)
+– LT aren’t yet enough mature
+• Machine Translation didn’t reach good enough 
+quality for translating literary books or documents 
+which request a good translation
+H
+it
+l
+d
+• However, it may already:
+– On one hand, help the human translator in his/her activity
+– On the other hand provide an approximate translation for
+On the other hand, provide an approximate translation for 
+the general public, especially if free and online
+7 November 2013
+11
+National Languages in Higher 
+Education & Science - Athens
+Language Technologies
+Language Technologies
+W itt
+L
+i
+• Written Language processing
+• Syntactic parsing, Terminology extraction… Text 
+understanding and Generation, Summarization, Information 
+t i
+l Q&A ( f IBM W t
+)
+retrieval, Q&A (cf IBM Watson)…
+• Crosslingual Information Retrieval, Automatic or Machine 
+Assisted Translation...
+S
+k
+L
+i
+• Spoken Language processing
+• Speech Recognition and Understanding, Speech Synthesis, 
+Oral Dialog, Speaker Recognition…
+g
+p
+g
+• Language Identification, Speech Translation…
+• Gestual language processing
+Si
+L
+P
+i
+(
+l
+i
+th
+i
+t
+l ti
+)
+• Sign Language Processing (analysis, synthesis, translation)
+7 November 2013
+National Languages in Higher 
+Education & Science - Athens
+12
+Language Resources and 
+Evaluation
+• Necessity to have an infrastructure to develop LT
+• Language Resources
+g
+g
+– Data: corpus, lexica, dictionaries, terminology databases…
+• Necessary for research investigations in linguistics
+• Necessary for training automatic processing systems based on 
+y
+g
+p
+g y
+statistical approaches
+• Larger training data = better systems
+• Language Technology Evaluation
+a guage
+ec
+o ogy
+a uat o
+– Compare the performances of different systems based on 
+different approaches, on common data, with the same protocol, 
+in the framework of evaluation campaigns
+• Indicates the quality of research and the technological progress
+• Compares Technology performances with application needs
+7 November 2013
+National Languages in Higher 
+Education & Science - Athens
+13
+Language coverage
+Language coverage
+•
+Two speed situation : Digital Divide
+•
+Two-speed situation : Digital Divide
+– 95% of 6,500 languages are spoken by 6% of population worldwide
+– 90% of languages may disappear in the next century
+Only 1 2% of languages benefit from Language Technologies
+– Only 1-2% of languages benefit from Language Technologies
+– Resourced / under- or non-resourced / oral tradition languages
+•
+How to address minority, regional languages ? Migrants languages 
+? Foreign regional accents ?
+? Foreign, regional accents ?
+– Political challenge
+– Who is ready to pay for it ?
+– What about languages which do not have the “chance” to be considered
+What about languages which do not have the chance to be considered 
+by DARPA as a  Peace Keeping Operations language, or a victim of war, 
+Tsunami or earthquake ?
+7 November 2013
+National Languages in Higher 
+Education & Science - Athens
+14
+Commercial interest
+Commercial interest
+Google
+• Google
+– Search Engine in 145 languages (national and regional)
+– Free online Google Translate 
+• 72 languages and 5,112 language pairs (17 ASR, 26 TTS on SmartPhones)
+• 200 million users, 1 million books per day: more than translators do in a year
+– Google Books
+O
+30
+illi
+d
+t i
+46 l
+(2013)
+• Over 30 millions documents in 46 languages (2013)
+• Statistics on the history of language (2010): 500 BWords
+• Microsoft
+Word Spelling checker in 126 languages (233 with regional variants)
+• Word Spelling checker in 126 languages (233 with regional variants)
+• Apple
+• Siri Speech Interface on iPhone
+8 languages
+19 language varieties (Chinese (3) English (4) French (3)
+• 8 languages – 19 language varieties (Chinese (3), English (4), French (3), 
+German (2), Japanese, Korean, Italian (2), Spanish (3))
+• Large investments Facebook, eBay, Amazon, IBM, etc.
+7 November 2013
+National Languages in Higher 
+Education & Science - Athens
+15
+National interest
+National interest
+I di
+• India
+– TDIL (Technology Development for Indian Languages)
+– Language Technologies for English and 22
+– Language Technologies for English and 22 
+“constitutionally recognized” languages
+• Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, 
+Konkani Malayalam Maithili Manipuri Marathi Nepali Oriya Punjabi
+Konkani, Malayalam, Maithili, Manipuri, Marathi, Nepali, Oriya, Punjabi, 
+Sanskrit, Santhali, Sindhi, Tamil, Telugu, Urdu.
+• South Africa
+NHN (N ti
+l H
+L
+T
+h
+l
+N t
+k)
+– NHN (National Human Language Technology Network)
+– English and 11 official languages
+• Afrikaans, South African English, isiZulu, isiXhosa, isiNdebele, Siswati, 
+,
+g
+,
+,
+,
+,
+,
+Southern Sotho, Northern Sotho, Setswana, Xitsonga, Tschivenda
+7 November 2013
+National Languages in Higher 
+Education & Science - Athens
+16
+Situation in the EU
+Situation in the EU
+• State-of-the Art Research (Evaluation campaigns)
+• Only SMEs, no large company as in the US
+• Not yet a EC program addressing LT to support 
+Multilingualism in the EU as a political issue (only as a 
+research issue)
+research issue)
+• 21 European languages in danger of digital extinction 
+(META-NET Language White Papers)
+(META NET Language White Papers)
+– Should we abandon them ?
+– Should we let US companies take care of them ?
+p
+• Probably, EC doesn’t have enough forces to address by 
+itself all LT for all (EU official / European) languages
+7 November 2013
+17
+National Languages in Higher 
+Education & Science - Athens
+Conclusion & Perspective
+Conclusion & Perspective
+• Language Technologies are the only way to allow for full 
+Multilingualism, in Europe and worldwide
+Presently available for a very small set of languages
+– Presently available for a very small set of languages
+– Other languages are in danger of digital extinction
+• In order to develop LT LR and LT evaluation are needed
+In order to develop LT, LR and LT evaluation are needed
+• Proposal:
+– EC, MS and regions jointly support the development efforts
+EC, MS and regions jointly support the development efforts
+– To share the LR and evaluate the LT within a common platform
+– Can be extended beyond Europe through collaboration with non-
+European partners
+7 November 2013
+18
+National Languages in Higher 
+Education & Science - Athens

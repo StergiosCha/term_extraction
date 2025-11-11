@@ -1,0 +1,699 @@
+SOURCE: http://www.eleto.gr/download/Conferences/9th%20Conference/Papers-and-speakers/9th_31-12-17_LiontouKonstantina_Paper_V03.pdf
+
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+405 
+31     Rendering collocations in German-Greek simultaneous 
+interpreting 
+    
+Konstantina Liontou 
+ABSTRACT 
+The present paper concentrates on interpreters’ attitude towards collocations in German-Greek simultaneous 
+interpreting. It is based on a European Parliament corpus initially designed to study anticipation in the 
+specific language pair. All collocations involved in anticipation are identified and their rendition in the target 
+language is studied. The conclusion is drawn that interpreters primarily seek to express the meaning of the 
+source text in the target language. If this can be done by maintaining the source text form, in this case the 
+collocations under study, interpreters readily do it as this practice is simultaneously a very helpful effort-
+saving technique.  
+Η απόδοση των συνάψεων κατά την ταυτόχρονη διερμηνεία από τη 
+Γερμανική στην Ελληνική 
+    
+Κωνσταντίνα Λιόντου 
+ΠΕΡΙΛΗΨΗ 
+Η παρούσα εργασία μελετά την απόδοση των συνάψεων κατά την ταυτόχρονη διερμηνεία από τη γερμανική 
+στην ελληνική γλώσσα. Βασίζεται σε σώμα κειμένων ηχογραφημένο στο Ευρωπαϊκό Κοινοβούλιο την 
+περίοδο Απρίλιος 2006-Ιούλιος 2008. Το συγκεκριμένο σώμα κειμένων δημιουργήθηκε αρχικά με σκοπό τη 
+μελέτη της τακτικής της «προήγησης» του διερμηνέα κατά τη διερμηνεία μεταξύ του γλωσσικού ζεύγους 
+Γερμανικά-Ελληνικά. Παρατηρήθηκε κατά τη μελέτη αυτή ότι ο διερμηνέας συχνά βασίζεται στις υπάρχουσες 
+στο κείμενο συνάψεις, προκειμένου να μπορέσει να προηγηθεί του ομιλητή.  Στηριζόμενος δηλαδή ο 
+διερμηνέας σε τμήμα μιας σύναψης καταφέρνει να προηγηθεί του ομιλητή παράγοντας τη συνέχεια της 
+συγκεκριμένης σύναψης πριν από εκείνον. Οι συνάψεις που παρατηρήθηκε ότι εμπλέκονται στην προήγηση 
+απομονώθηκαν σε αυτήν την εργασία, προκειμένου να μελετηθεί η απόδοσή τους στην ελληνική γλώσσα. Ο 
+λόγος που επιλέχθηκαν οι συγκεκριμένες συνάψεις ήταν ότι κρίθηκε πολύτιμη για την εργασία η πληροφορία 
+ότι ο διερμηνέας είχε όντως αναγνωρίσει την ύπαρξη σύναψης στο κείμενο πηγή. 
+Ακολουθήθηκε η εξής μεθοδολογία: οι ομιλίες που συμπεριλήφθησαν στο σώμα κειμένων καταφορτώθηκαν 
+από την επίσημη ιστοσελίδα του Ευρωπαϊκού Κοινοβουλίου. Δημιουργήθηκαν έτσι δύο σώματα κειμένων, 
+ένα στη γερμανική γλώσσα, αποτελούμενο από ψηφιακά βίντεο πρωτότυπων ομιλιών γερμανόφωνων 
+Ευρωβουλευτών και Επιτρόπων στο Ευρωπαϊκό Κοινοβούλιο, και ένα στην ελληνική γλώσσα, αποτελούμενο 
+από τα ίδια βίντεο τα οποία όμως ως ηχητική υπόκρουση έφεραν την ταυτόχρονη διερμηνεία των ομιλιών 
+αυτών στην ελληνική γλώσσα. Τα βίντεο αυτά ενοποιήθηκαν με τη βοήθεια του ηλεκτρονικού εργαλείου 
+Windows Movie Maker. Έτσι δημιουργήθηκε ένα νέο σώμα κειμένων αποτελούμενο και αυτή τη φορά από τα 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+406 
+βίντεο των ομιλιών, τα οποία όμως έφεραν δυο ηχητικές υποκρούσεις ταυτόχρονα: αυτή της πρωτότυπης 
+ομιλίας και αυτή της διερμηνείας. Η μεταγραφή των ηχητικών δεδομένων, η οποία απαιτείται προκειμένου να 
+γίνει πιο εύκολη η μελέτη τους, πραγματοποιήθηκε με τη βοήθεια του ηλεκτρονικού εργαλείου EXMARaLDA, 
+μιας πλατφόρμας που επιτρέπει την ταυτόχρονη παρουσία ήχου και κειμένου.  
+Εντοπίστηκαν εξήντα τέσσερις συνάψεις εμπλεκόμενες στην προήγηση στο γερμανικό σώμα κειμένων, οι 
+οποίες μελετήθηκαν ως προς την απόδοσή τους στο ελληνικό κείμενο. Παρατηρήθηκε ότι οι διερμηνείς, των 
+οποίων πρωταρχικό μέλημα είναι η μετάδοση του νοήματος του πρωτοτύπου κειμένου, διατηρούν τη μορφή 
+του πρωτοτύπου, όσον αφορά τις συνάψεις, όπου αυτό είναι δυνατόν. Στις περιπτώσεις δηλαδή, στις οποίες 
+όντως υπήρχε αντίστοιχη σύναψη στην ελληνική γλώσσα ο διερμηνέας την εξέφερε στο κείμενο στόχο. Μόνο 
+μία περίπτωση παρατηρήθηκε, στην οποία ο διερμηνέας δεν απέδωσε γερμανική σύναψη με αντίστοιχη 
+ελληνική, ενώ αυτή υπήρχε, αλλά με ένα απλό ρήμα. Η απόδοση αυτή, ωστόσο, δεν αποδίδεται στην 
+επιλογή του διερμηνέα να διαφοροποιηθεί, αλλά θεωρείται ως τυχαία γλωσσική επιλογή, συνέπεια μεταξύ 
+άλλων και της πίεσης υπό την οποία λειτουργεί ο διερμηνέας κατά τη σύνθετη διαδικασία της ταυτόχρονης 
+διερμηνείας.  
+Η μη απόδοση πλήθους γερμανικών συνάψεων στην ελληνική με αντίστοιχες συνάψεις θεωρείται ότι 
+επιβλήθηκε κυρίως από τη διαφορετική σύνταξη η οποία χαρακτηρίζει τις δύο γλώσσες και η οποία απαιτεί 
+διαφορετικές συντακτικές δομές για την απόδοση αντίστοιχων νοημάτων. 
+ 
+ 
+0   Introduction  
+The present paper is the result of a study conducted on the basis of the corpus which I compiled 
+in the framework of my doctoral research on anticipation in German-Greek simultaneous 
+interpreting (SI) [1]. The paper concentrates on word clusters known as collocations, that is 
+groups of words which co-occur in speech or writing more often than would be expected by 
+chance, and it investigates how interpreters treat collocations in simultaneous interpreting from 
+German into Greek. The main research question is whether interpreters make any effort to 
+maintain in the target text (TT) collocations which they have recognised as such in the source 
+text (ST); the necessary condition being that similar corresponding collocations exist in the target 
+language (TL). Should the answer to the question be positive this would serve as proof that 
+interpreters engage themselves not only in reproducing ST meanings in the TL, but also in 
+preserving the ST form.    
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+407 
+1   Corpus background and methodology 
+As already mentioned in the introduction of the paper the corpus used for this study was initially 
+compiled to serve a much larger research. It is a bilingual, parallel spoken corpus which consists 
+of two sub-corpora, one comprising authentic German speeches given at the European 
+parliament and the other comprising the respective Greek interpretations. Both the speeches 
+and the interpretations were downloaded form the European Parliament’s official website1 in the 
+form of digital video files. The speeches downloaded were given in the period between April 
+2006 and July 2008. They include parts of six part-sessions of 2006, eight part-sessions of 2007 
+and seven part sessions of 2008. The sole criterion for a speech to be included in the corpus 
+(beside its time) was its subject. The environment was chosen as a “topic umbrella” as this could 
+guarantee a certain degree of homogeneity with respect to terminology. Moreover, being a 
+general subject, environmental terminology was not expected to cause extra difficulties for the 
+interpreters. 
+The downloading of the single video clips available on the EP’s website resulted in the creation 
+of two almost equally long video sub-corpora, one in the German language composed of the 
+speeches by the German and Austrian MEPs, and one in the Greek language composed of the 
+corresponding Greek interpretations. The aim, however, was to have one single corpus, with two 
+audio streams. This was achieved through the use of Windows Movie Maker, a tool which allows 
+both the trimming of the video files and their merging into one single file. 
+After merging and synchronising the German and Greek videos the result was a single corpus 
+consisting of films with two audio streams. The recorded material was transcribed via the 
+EXMARaLDA (Extensible Markup Language for Discourse Annotation) transcription editor 2 
+which allows the simultaneous presence of sound and text and does not place any space 
+limitations but allows the transcription to scroll without unnatural abruptions.  The transcription is 
+orthographical: a verbatim record of what was actually said. No corrections were made in cases 
+in which unintelligible or mispronounced words were heard and numbers and abbreviations were 
+spelled out.  
+                                                 
+1 http://www.europarl.europa.eu/ (last visited 10.6.2013) 
+2 www.exmaralda.org (last visited 10.6.2013) 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+408 
+ 
+Figure 1   Screenshot of EXMARaLDA tool 
+The initial research for which the corpus was compiled looked into anticipation in German-Greek 
+SI and concentrated among others also on the stimuli which urge the interpreter to anticipate ST 
+terms in the TL. One of the primary findings of the doctoral research was that anticipation is 
+often based on the existence of collocations in the ST: Interpreters identify the existence of 
+collocations in the ST and thus produce corresponding renditions in the TT before the 
+collocations have been produced in their entirety in the SL. These anticipated collocations and 
+their contexts were used as the corpus of this study. The choice to limit the object of study to the 
+collocations involved in anticipation and not to extend the research to the entire corpus was 
+made on the fact that anticipation could prove that the collocations had actually been identified 
+as such by the interpreter; for one cannot claim interpreters’ effort to maintain ST form if there is 
+no information on whether the interpreter has recognised the existence of a given syntactic form, 
+in this case a collocation.  
+2   Corpus collocations 
+As mentioned above, the term collocation refers to a sequence of words that co-occur in speech 
+or writing more often than would be expected by chance. Examples of the most frequent English 
+language collocations are those of “you know”, “a bit” or “as well”. Collocations, however, can 
+also be formed by more complex combinations of words. In the German language, which is of 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+409 
+interest for this work, among the most common collocations are those of verbs co-occurring with 
+specific nouns (objects) and prepositions (e.g. “Gewicht legen auf” = to attach importance to), 
+verb-(predicate)-preposition combinations (e.g. “zuständig sein für” = to be responsible for), or 
+other idiomatic expressions that can have various syntactic forms (e.g. jemandem am Herzen 
+liegen = “to lie at somebody’s heart” = to be important for somebody, composed of a verb and a 
+prepositional phrase). It was noticed in the corpus that when one part of such collocations 
+appears early in discourse it often serves as a trigger for the interpreter to anticipate the rest of it 
+without extra effort. 
+Sixty-four such collocations involved in anticipation were encountered in this corpus. A complete 
+list thereof can be found in Appendix 1. One of the collocations is presented below as an 
+example.  
+Example 1 
+Original German text: 
+“Dessen ungeachtet nimmt aber diese besagte Eklärung der Kommission aber eben zu Artikel 
+neun, Absatz drei, nicht auf das in der Verordnung festgelegte Verfahren Bezug, sondern…” 
+English verbatim translation: 
+“Irrespective of this takes however the aforementioned statement of the Commission however to 
+article nine, paragraph three, not to the in the regulation defined procedure reference, but…” 
+English translation: 
+“Irrespective of this, however, the Commission’s aforementioned statement on article nine, 
+paragraph three, does not take reference to (refer to) the procedure defined in the regulation, 
+but…” 
+This paper examines how interpreters rendered these collocations in Greek and whether the ST 
+form influenced the interpreters’ wording choices for the TT.  
+3   Analysis 
+The first observation that one can make regarding the corpus used for this paper is that 
+interpreters try to make the best use possible of collocations, as collocations can be reliable 
+cues regarding the evolution of meaning.  
+In the majority of cases the interpreter provided accurate corresponding expressions for the 
+German collocations. These expressions were, however, only in few cases collocations 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+410 
+themselves. Thus “σημειώνεται πρόοδος” (progress is made) was used for “Fortschritt 
+unternehmen” (to make progress), which means that a collocation was indeed used for another 
+collocation, but other collocations like “sich bedanken bei” (to thank somebody) were rendered 
+by simple terms, in this case the verb “ευχαριστώ” (to thank).  
+More specifically, interpreters did indeed use collocations in cases in which meanings which 
+were expressed by collocations in the German text could also be expressed by corresponding 
+collocations in Greek. Just to name some examples, the German “einen Vorschlag einbringen” 
+(to introduce a suggestion) was rendered by the Greek “κάνω πρόταση” (make a suggestion). 
+Similarly the ST collocation “es handelt sich um” (to concern) was interpreted by the Greek 
+collocation “πρόκειται για” (to concern) and the collocation “Maßnahmen ergreifen” by the Greek 
+corresponding collocation “λαμβάνω μέτρα”, both carrying the meaning of “to take measures”.  
+The collocations which were not rendered by collocations but by simple terms were either 
+idiomatic expressions particular to the German language which did not have a corresponding 
+collocation in Greek, for example the simple verb “απασχολούν” (preoccupy) for the German 
+collocation “am Herzen liegen” (to lie at one’s heart = to be of great importance for someone), or 
+other syntagms particular to the German language, which could not possibly be preserved in the 
+Greek TT. For example the collocation “sich halten an” (to abide by) was rendered by the Greek 
+verb “τηρώ” which has the same meaning with the German collocation but a different syntactic 
+form.  
+Only in one case in this corpus did the interpreter not use a Greek collocation for a German one, 
+even though it existed. The German collocation “sein Augenmerk auf etwas richten” (to turn 
+one’s attention to) was not rendered by the Greek collocation “στρέφω την προσοχή μου σε”, or 
+other similar collocations, which could form possible Greek corresponding expressions. Instead, 
+it was interpreted by the Greek simple verb “σημειώνω” (to mind, to take into consideration). 
+In Appendix 1 one can find the renditions provided by the Greek language interpreters for all 
+German collocations.  
+4   Conclusions 
+The preceding analysis has shown that the primary concern of the interpreter is to maintain the 
+ST meaning in the TT. This was achieved in the majority of cases regardless of whether only ST 
+meaning or both form and meaning were preserved in the TT.  
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+411 
+It seems, however, that interpreters were led by ST form in this specific corpus: Source text 
+collocations were maintained in the majority of cases in which corresponding collocations existed 
+in the TL. The question remains whether this was a matter of choice to preserve the ST form. No 
+definite answer can be provided since in corpus studies one does not possess information on 
+the language users’, in this case the interpreters’, choices. However, the conclusion could be 
+drawn that, when possible, interpreters remain as close as they can to the syntactic form (or 
+rhetorical means) of the ST. This can be explained both as a result of interpreters’ attempt to 
+remain faithful to the ST, but also as the most effort saving technique for an interpreter: if 
+interpreters can express correct meanings which sound natural in the TL by preserving the SL 
+form they can save a lot of effort on the language production level by doing it.  
+The only case where the interpreter did not use a collocation even though he could have done 
+so does not indicate an attempt to change ST form. It is much more possible that the interpreter 
+did simply not think of the specific collocation while trying to manage so many other tasks at the 
+same time (listening and memory for example), or that he could not accommodate the specific 
+collocation in the syntactic route that he had given the sentence he was producing. 
+The remaining cases in which the interpreter could not preserve ST collocations in the TT but 
+used simpler renditions instead were most possibly the result of the restrictions dictated by the 
+nature of the TL, whose syntax differs to a considerable extent from this of the SL.  
+5   Bibliography 
+ [1] Liontou, K., Anticipation in German to Greek simultaneous interpreting, unpublished doctoral 
+thesis, 2012, 416. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+412 
+Appendix 1 
+Ref. 
+no 
+Name 
+Date 
+Time 
+Original 
+Interpretation 
+1 
+Seeber 
+4.4.2006 
+02:14.0 
+Bezug nehmen auf 
+αναφέρεται 
+2 
+Leichtfried 
+16.5.2006 
+00:16.6 
+sich bedanken bei 
+ευχαριστώ 
+3 
+Leichtfried 
+16.5.2006 
+00:24.2 
+sich bedanken bei 
+ευχαριστώ 
+4 
+Leichtfried 
+16.5.2006 
+02:59.5 
+Fortschritt 
+unternehmen 
+σημειώνεται πρόοδος 
+5 
+Rack 
+16.5.2006 
+04:52.0 
+Vorschlag einbringen 
+κάνω πρόταση 
+6 
+Rack 
+16.5.2006 
+05:11.0 
+sorgen für 
+έχουμε 
+7 
+Rack 
+16.5.2006 
+05:43.1 
+Notwendigkeit haben 
+zu 
+υπάρχει ανάγκη να 
+8 
+Berend 
+18.5.2006 
+02:42.1 
+es handelt sich um 
+πρόκειται για 
+9 
+Klass 
+12.6.2006 
+02:34.0 
+die Möglichkeit wird 
+eröffnet 
+δίνω τη δυνατότητα 
+10 
+Klass 
+12.6.2006 
+02:46.1 
+Gewicht legen auf 
+αποδίδω σημασία 
+11 
+Klass 
+12.6.2006 
+04:31.8 
+Aussage geben  
+έχω να πω 
+12 
+Klass 
+12.6.2006 
+00:35.0 
+Änderungsantrag 
+annehmen 
+δέχομαι την 
+τροπολογία 
+13 
+Seeber 
+12.6.2006 
+00:22.0 
+hätte Vorschlag 
+erwartet 
+θα ήθελα να 
+υποβάλουν  
+14 
+Ulmer 
+12.6.2006 
+00:29.9 
+Ziel verteidigen gegen 
+προασπίζομαι μια 
+άποψη 
+15 
+Scheele 
+3.7.2006 
+04:50.4 
+Glükwünsche sagen  
+συγχαίρω 
+16 
+Rübig 
+3.7.2006 
+00:04.3 
+sich bedanken bei 
+ευχαριστώ 
+17 
+Haug 
+4.9.2006 
+00:45.0 
+einhergehen mit 
+συνδυάζεται με  
+18 
+Haug 
+4.9.2006 
+01:19.3 
+zur Verfügung stehen 
+διατίθεμαι 
+19 
+Scheele 
+5.9.2006 
+03:30.8 
+sich halten an  
+τηρώ 
+20 
+Weißgerber 
+25.9.2006 
+02:04.0 
+Maßnahmen ergreifen  
+λαμβάνω μέτρα 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+413 
+Ref. 
+no 
+Name 
+Date 
+Time 
+Original 
+Interpretation 
+21 
+Groote 
+25.9.2006 
+00:27.7 
+sind zu beklagen 
+υπάρχουν  
+22 
+Kallenbach 
+25.9.2006 
+00:33.8 
+verbinden mit 
+συνδυάζω με 
+23 
+Gräfe zu 
+Baringdorf 
+27.9.2006 
+02:37.5 
+interessiert sein an  
+ενδιαφέρομαι για 
+24 
+Jeggle 
+11.10.2006 
+00:16.1 
+eine Mitteilung 
+vorlegen  
+καταθέτω ανακοίνωση 
+25 
+Jeggle 
+11.10.2006 
+00:30.7 
+Bericht erstellen  
+αναλαμβάνω έκθεση 
+26 
+Jeggle 
+11.10.2006 
+00:35.7 
+Bericht annehmen  
+εγκρίνω έκθεση 
+27 
+Jeggle 
+11.10.2006 
+02:21.7 
+liegen am Herzen  
+απασχολούν 
+28 
+Scheele 
+23.10.2006 
+01:53.5 
+ausstatten mit  
+υποστηρίζω με  
+29 
+Scheele 
+23.10.2006 
+02:23.6 
+sehen als 
+θεωρώ 
+30 
+Klass 
+12.12.2006 
+03:05.2 
+zu berücksichtigen 
+sein  
+χρειάζονται 
+31 
+Gräfe zu 
+Baringdorf 
+28.3.2007 
+00:14.1 
+Gebrauch machen von 
+λαμβάνω υπόψη 
+32 
+Scheele 
+29.5.2007 
+01:29.8 
+nennen als 
+θεωρώ 
+33 
+Seeber 
+29.5.2007 
+02:21.9 
+sich bedanken bei 
+ευχαριστώ 
+34 
+Seeber 
+29.5.2007 
+04:30.9 
+hinweisen auf 
+αναφέρω 
+35 
+Rübig 
+29.5.2007 
+02:12.7 
+in Probleme bringen  
+δημιουργώ πρόβλημα  
+36 
+Rack 
+10.7.2007 
+02:25.4 
+nutzen als 
+χρησιμοποιώ ως  
+37 
+Roth-Behrendt 
+3.9.2007 
+00:30.7 
+jmdm schuldig sein 
+έχομε ευθύνες  
+38 
+Roth-Behrendt 
+3.9.2007 
+01:08.3 
+Aktionsprogramm 
+verabschieden  
+θεσπίζω πρόγραμμα 
+39 
+Schulz 
+3.9.2007 
+01:44.4 
+zur Verfügung stellen  
+διαθέτω 
+40 
+Schulz 
+3.9.2007 
+05:12.6 
+gemeinsam 
+nachdenken mit 
+έρχομαι σε επαφή με 
+41 
+Reul 
+24.9.2007 
+00:36.3 
+dazugehören zu 
+βοηθούν  
+42 
+Roth 
+24.9.2007 
+02:40.2 
+es geht um 
+πρόκειται για 
+43 
+Schierhuber 
+24.9.2007 
+00:26.2 
+Beitrag leisten zu 
+συμβάλω  
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+414 
+Ref. 
+no 
+Name 
+Date 
+Time 
+Original 
+Interpretation 
+44 
+Schierhuber 
+24.9.2007 
+01:55.8 
+beitragen zu 
+συμβάλω 
+45 
+Schuth 
+24.9.2007 
+01:01.1 
+führen zu 
+οδηγώ σε  
+46 
+Bulfon 
+22.10.2007 
+00:58.6 
+sich einsetzen für 
+υποστηρίζω 
+47 
+Bulfon 
+22.10.2007 
+01:14.1 
+Gesetzvorschlag 
+vorlegen  
+κάνω πρόταση 
+48 
+Groote 
+22.10.2007 
+00:09.4 
+es mit etwas ernst 
+meinen  
+παίρνω στα σοβαρά 
+49 
+Reul 
+14.11.2007 
+01:58.1 
+diskutieren über 
+συζητώ (αιτιατική) 
+50 
+Scheele 
+14.11.2007 
+00:50.57 
+Messages senden 
+στέλνω μήνυμα 
+51 
+Krahmer 
+10.12.2007 
+00:20.8 
+beteiligt sein an  
+συμμετέχω 
+52 
+Krahmer 
+10.12.2007 
+00:45.2 
+entscheidend 
+beitragen zu 
+ήταν σημαντική η 
+υποστήριξη 
+53 
+Krahmer 
+10.12.2007 
+01:25.9 
+ausgehen von  
+δημιουργώ 
+54 
+Krahmer 
+10.12.2007 
+02:48.1 
+senken wollen auf 
+μπορώ να επιτύχω 
+μείωση 
+55 
+Krahmer 
+10.12.2007 
+03:36.8 
+sich für etwas 
+einsetzen 
+είμαι υπέρ 
+56 
+Dess 
+11.3.2008 
+00:18.7 
+Beitrag leisten zu 
+συμβάλλω 
+57 
+Schuth 
+11.3.2008 
+00:02.0 
+gratulieren zu 
+συγχαίρω 
+58 
+Schuth 
+11.3.2008 
+00:08.9 
+die Bedeutung 
+aufzeigen 
+αναδεικνύω τη 
+σημασία 
+59 
+Schuth 
+11.3.2008 
+01:12.1 
+Beitrag leisten zu 
+συμβάλω 
+60 
+Groote 
+12.3.2008 
+00:04.5 
+danken für 
+συγχαίρω 
+61 
+Harms 
+10.4.2008 
+03:41.4 
+sich beschäftigen mit 
+ασχολούμαι με  
+62 
+Harms 
+21.5.2008 
+01:24.7 
+zu tun haben mit 
+συνδέομαι με  
+63 
+Schulz 
+21.5.2008 
+02:25.0 
+zu etwas führen 
+οδηγώ σε 
+64 
+Seeber 
+16.6.2008 
+01:40.4 
+sein Augenmerk auf 
+etwas richten 
+ 
+σημειώνω 
+ 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+415 
+ 
+Appendix 2 
+Glossary 
+English 
+Greek 
+collocation 
+σύναψη 
+anticipation  
+προήγηση 
+corpus 
+σώμα κειμένων  
+source text 
+κείμενο πηγή 
+target text 
+κείμενο στόχος 
+source language 
+γλώσσα πηγή 
+target language 
+γλώσσα στόχος 
+ 
+ 
+Dr. Konstantina Liontou 
+Ηλ-ταχ.: konstantina.liontou@yahoo.com  
+ 
+ 
+ 

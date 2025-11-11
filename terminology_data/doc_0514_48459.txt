@@ -1,0 +1,1645 @@
+SOURCE: http://eleto.gr/download/Bodies/English-Greek-French-German_Glossary_of_Sensory_Analysis.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+Μάρτιος 2023 
+ 
+ 
+ 
+Αλφαβητικό αγγλοελληνογαλλογερμανικό γλωσσάριο όρων  
+αισθητηριακής ανάλυσης 
+(286 ορολογικά λήμματα) 
+Με βάση τις πηγές: 
+– το ISO 5492:2008 Sensory analysis – Vocabulary και  
+– το Αγγλοελληνικό γλωσσάριο όρων και ορισμών εννοιών αισθητηριακής ανάλυσης 
+ 
+Σύνταξη: Κώστας Βαλεοντής1, Γιώργος Τσιάμας1, Μαλαματένια Παναγιώτου2 
+Έγκριση: ΓΕΣΥ 
+ 
+Εισαγωγικό σημείωμα 
+Τόσο στο ISO 5492:2008 (πηγή των ξενόγλωσσων όρων) όσο και στο Αγγλοελληνικό γλωσσάριο όρων 
+και ορισμών εννοιών αισθητηριακής ανάλυσης (πηγή των ελληνικών όρων), πολλά λήμματα δεν 
+αντιστοιχούν σε μία και μόνο έννοια το καθένα, αλλά σε περισσότερες από μία (δίνουν π.χ. την έννοια μιας 
+ιδιότητας ενός τροφίμου, η οποία κατασημαίνεται με ένα ουσιαστικό και της οποίας δίνεται ο ορισμός, αλλά 
+και την έννοια του κατόχου αυτής της ιδιότητας σε μία ή περισσότερες διαβαθμίσεις της, ο οποίος 
+κατασημαίνεται με ένα επίθετο). Στο παρόν γλωσσάριο τα παραπάνω λήμματα έχουν αναλυθεί σε δύο ή 
+περισσότερα λήμματα, από τα οποία το καθένα αντιστοιχεί σε μία και μόνο έννοια και φέρουν όλα τον 
+κωδικό του αρχικού λήμματος, π.χ. το λήμμα: hardness (κωδικός 3.42) αναλύθηκε στα 4 λήμματα: 
+hardness, soft, firm και hard με κοινό κωδικό: 3.42, αφού και οι τέσσερις έννοιες ‘hardness’, ‘soft’, ‘firm’ 
+και ‘hard᾿ περιλαμβάνονται στο λήμμα με κωδικό 3.42 στο γλωσσάριο-πηγή. Το αποτέλεσμα είναι ότι το 
+σύνολο των ορολογικών λημμάτων του παρόντος γλωσσαρίου είναι 286 έναντι των 199 λημμάτων που 
+περιλαμβάνουν οι πηγές. 
+Στο παρόν γλωσσάριο δεν περιλαμβάνονται οι ορισμοί των εννοιών (οι οποίοι υπάρχουν ήδη στο 
+Αγγλοελληνικό γλωσσάριο όρων και ορισμών εννοιών αισθητηριακής ανάλυσης) και έχουν περιληφθεί οι 
+ισοδύναμοι γαλλικοί και γερμανικοί όροι προκειμένου το τετράγλωσσο αποτέλεσμα (EN, GR, FR, DE) να 
+εισαχθεί σε βάση όρων SENSOTERM, η οποία θα ενταχθεί στην Τράπεζα όρων του ιστοτόπου της 
+ΕΛΕΤΟ και θα είναι διαθέσιμη για αναζήτηση μαζί με τις άλλες βάσεις της ΕΛΕΤΟ, για τις οποίες 
+προβλέπεται αναζήτηση στις τέσσερις συγκεκριμενες γλώσσες. Τόσο στο γλωσσάριο όσο και στη βάση θα 
+μπορούν αργότερα (σε επόμενες εκδόσεις) να προστίθενται λήμματα με ισοδύναμους όρους 
+αισθητηριακής ανάλυσης και από άλλες πηγές, ακόμη και αν αυτά δεν περιλαμβάνουν και τις τέσσερις 
+γλώσσες. Το ίδιο, βέβαια, το τετράγλωσσο γλωσσάριο θα αναρτηθεί και στην ιστοσελίδα των γλωσσαρίων 
+της ΕΛΕΤΟ. 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+“A” or “not A” test {n.} 
+δοκιμή «Α» ή «όχι Α» {ουσ.} 
+essai «A» ou «non A» 
+„A“ – „nicht A“-Prüfung 
+4.21 
+“two-out-of-five” test {n.} 
+δοκιμή «δύο από πέντε» {ουσ.} 
+essai «2 sur 5» 
+2-aus-5“-Prüfung 
+4.20 
+absolute judgement {n.} 
+απόλυτη κρίση {ουσ.} 
+jugement absolu 
+absolute Beurteilung 
+4.12 
+acceptability {n.} 
+αποδεκτότητα {ουσ.} 
+acceptabilité 
+Akzeptanz 
+1.23 
+acid, sour {adj.} 
+οξύς -εία -ύ, ξινός -ή -ό {επίθ.} 
+acide 
+sauer 
+3.2 
+acidity, acid taste {n.} 
+οξύτητα {ουσ.},  
+όξινη γεύση {ουσ.} 
+acidité 
+Azidität 
+3.3 
+acuity {n.} 
+αντιληπτική οξύτητα {ουσ.} 
+sensibilité 
+Sensitivität 
+2.10 
+adhesiveness {n.} 
+προσφυσικότητα 
+adhérence 
+Adhäsivität 
+3.51 
+                                                     
+1 
+ΕΛΕΤΟ (ΓΕΣΥ). 
+2 
+Εργαστήριο Μελέτης Αντιδράσεων Καταναλωτή και Οργανοληπτικής Ανάλυσης Τροφίμων και Ποτών (ΕΜΑΚΟΑΤΠ) του Πανεπιστημίου Αιγαίου. 
+E 
+Λ 
+Ε  Τ  Ο 
+L 
+E 
+2 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+aerated {pp.} 
+αεριούχος -α -ο {επίθ.} 
+aéré 
+belüftet 
+3.60 
+aeration {n.} 
+αεριούχηση {ουσ.} 
+aération 
+Belüftung 
+3.60 
+after-feel {n.} 
+μεταίσθημα {ουσ.} 
+sensation résiduelle 
+Abgang, Nachgefühl 
+3.66 
+after-taste, residual taste 
+{n.} 
+επίγευση, υπολειμματική γεύση 
+{ουσ.} 
+arrière-goût 
+Nachgeschmack 
+3.65 
+ageusia {n.} 
+αγευσία {ουσ.} 
+agueusie 
+Ageusie,Geschmacksverlust 
+2.31 
+alkaline {adj.} 
+αλκαλικός -ή -ό {επίθ.} 
+alcaline 
+alkalisch 
+3.2 
+alkalinity, alkaline taste 
+{n.} 
+αλκαλικότητα, αλκαλική γεύση 
+{ουσ.} 
+alcalinité, saveur alcaline 
+alkalischer Geschmack 
+3.8 
+anchor point {n.} 
+σημείο αγκύρωσης {ουσ.} 
+point étalon 
+Festpunkt 
+4.46 
+anosmia {n.} 
+ανοσμία {ουσ.} 
+anosmie 
+Anosmie 
+2.32 
+antagonism {n.} 
+ανταγωνισμός {ουσ.} 
+antagonisme 
+Antagonismus 
+2.35 
+appearance {n.} 
+εμφάνιση {ουσ.} 
+aspect 
+Aussehen 
+3.1 
+appetite {n.} 
+όρεξη {ουσ.} 
+appétit 
+Appetit 
+1.28 
+appetizing, adj. 
+ορεκτικός -ή -ό {επίθ.} 
+appétissant 
+appetitanregend 
+1.29 
+aroma
+1 {n.} 
+οσμή
+2 {ουσ.} 
+arôme 
+Aroma 
+3.24 
+aroma
+2 {n.} 
+άρωμα {ουσ.} 
+arôme 
+Aroma 
+3.25 
+astringency {n.} 
+στυφότητα {ουσ.} 
+astringence 
+Adstringenz 
+3.10 
+astringent {adj.} 
+στυφός -ή -ό {επίθ.} 
+astringent  
+adstringierend 
+3.11 
+attitude {n.} 
+στάση {ουσ.} 
+attitude 
+Einstellung 
+1.38 
+attitude scale {n.} 
+κλίμακα στάσεων {ουσ.} 
+échelle d'attitude 
+Einstellungsskala 
+4.31 
+attribute {n.} 
+(αντιληπτό) χαρακτηριστικό {ουσ.} 
+attribut, descripteur 
+Merkmalseigenschaft 
+1.3 
+auditory {adj.} 
+ακουστικός -ή -ό {επίθ.} 
+auditif 
+auditiv 
+2.18 
+aversion {n.} 
+απέχθεια {ουσ.} 
+aversion 
+Abneigung, Aversion 
+1.25 
+basic taste {n.} 
+βασική γεύση {ουσ.} 
+saveur élémentaire 
+Grundgeschmacksarten 
+3.2 
+beady {adj.} 
+πολύ κοκκώδης -ης -ες {επίθ.} 
+perlé 
+perlartig 
+3.54 
+bias {n.} 
+μεροληψία {ουσ.} 
+biais 
+systematische 
+Abweichungskomponente 
+4.41 
+bipolar scale {n.} 
+διπολική κλίμακα {ουσ.} 
+échelle bipolaire 
+bipolare Skala 
+4.34 
+bitter {adj.} 
+πικρός -ή -ό {επίθ.} 
+amère 
+bitter 
+3.2 
+bitterness, bitter taste {n.} 
+πικρότητα, πικρή γεύση {ουσ.} 
+amertume, saveur amère 
+Bitterkeit, bitterer Geschmack 
+3.5 
+bland {adj.} 
+αδιάφορος -η -ο {επίθ.} 
+fade 
+geschmacklos 
+3.69 
+body {n.} 
+σώμα {ουσ.} 
+corps 
+Körper 
+3.27 
+bouquet {n.} 
+μπουκέτο {ουσ.} 
+bouquet 
+Bukett 
+3.26 
+brightness contrast {n.} 
+αντίθεση λαμπρότητας {ουσ.} 
+contraste de luminosité 
+Helligkeitskontrast 
+3.36 
+brittle {adj.} 
+εύθραυστος -η -ο {επίθ.} 
+croquant 
+brüchig 
+3.44 
+bubbly {adj.} 
+φυσαλιδούχος {επίθ.} 
+pétillant 
+sprudelnd 
+3.61 
+burning {adj.} 
+καυτερός, θερμαντικός -ή -ό {επίθ.} 
+brûlant 
+brennend 
+3.11 
+burning, warming {adj.} 
+καυτερός, θερμαντικός -ή -ό {επίθ.} 
+brûlant, échauffant 
+brennend 
+3.12 
+cellular {adj.} 
+κυτταρώδης -ης -ες {επίθ.} 
+cellulaire 
+zellenartig 
+3.55 
+character note {n.} 
+νότα χαρακτήρα {ουσ.} 
+flaveur 
+charakteristische Noten 
+3.30 
+chemical cooling {n.} 
+χημικό ψύχος {ουσ.} 
+froid chimique 
+chemische Kältewirkung 
+3.14 
+chemical effect {n.} 
+χημική επίδραση {ουσ.} 
+effet chimique 
+chemische Wirkung 
+3.11 
+chemical heat {n.} 
+χημική θερμότητα {ουσ.} 
+chaleur chimique 
+chemische Wärmewirkung 
+3.16 
+3 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+chemothermal sensation 
+{n.} 
+χημειοθερμικό αίσθημα {ουσ.} 
+sensation chimiothermique 
+chemothermaler Effekt 
+2.21 
+chew count {n.} 
+αριθμός μασημάτων {ουσ.} 
+nombre de mastications 
+Kauzahl 
+3.46 
+chewiness {n.} 
+μασητότητα {ουσ.} 
+masticabilité 
+Kaubarkeit  
+3.45 
+chewy {adj.} 
+μασητός -ή -ό {επίθ.} 
+masticable 
+kaubar 
+3.45 
+classification {n.} 
+ταξινόμηση {ουσ.} 
+catégorisation 
+Klassifizierung 
+4.5 
+clean {adj.} 
+καθαρός -ή -ό {επίθ.} 
+propre 
+sauber 
+3.63 
+clean feel {n.} 
+καθαρότητα (στοματαισθήματος) 
+{ουσ.} 
+absence de sensation résiduelle 
+sauberes Gefühl 
+3.63 
+cleansing {adj.} 
+καθαριστικός -ή -ό {επίθ.} 
+nettoyant 
+neutralisierend 
+3.64 
+clinging {adj.} 
+μετρίως κολλώδης -ης -ες {επίθ.} 
+adhérent 
+anhaftend 
+3.51 
+coarse {adj.} 
+αδρός -ή -ό {επίθ.} 
+grossier 
+grob 
+3.54 
+cohesive {adj.} 
+συνεκτικός -ή -ό {επίθ.} 
+cohésif 
+kohäsiv 
+3.44 
+cohesiveness {n.} 
+συνεκτικότητα {ουσ.} 
+cohésion 
+Kohäsivität 
+3.43 
+colour blindness 
+αχρωματοψία {ουσ.} 
+achromatopsie, daltonisme 
+Farbenblindheit 
+2.34 
+colour
+1 {n.} 
+χρώμα
+1 {ουσ.} 
+couleur 
+Farbe 
+3.31 
+colour
+2 {n.} 
+χρώμα
+2 {ουσ.} 
+couleur 
+Farbe 
+3.32 
+comparative assessment 
+{n.} 
+συγκριτική αξιολόγηση {ουσ.} 
+évaluation comparative 
+vergleichende Bewertung 
+4.13 
+conformation {n.} 
+διαμόρφωση {ουσ.} 
+conformation 
+Konformation 
+3.55 
+consistency {n.} 
+συνοχή {ουσ.} 
+consistance 
+Konsistenz 
+3.49 
+consumer {n.} 
+καταναλωτής {ουσ.} 
+consommateur 
+Verbraucher 
+1.12 
+contrast effect {n.} 
+φαινόμενο αντίθεσης {ουσ.} 
+effet de contraste 
+Kontrastwirkung 
+2.38 
+control sample {n.} 
+δείγμα ελέγχου {ουσ.} 
+échantillon témoin 
+Kontrollprobe, Standardprobe 
+1.20 
+convergence effect {n.} 
+φαινόμενο σύγκλισης {ουσ.} 
+effet de convergence 
+Konvergenzwirkung 
+2.39 
+crispy {adj.} 
+κριτσανιστός -ή -ό {επίθ.} 
+craquant 
+kross 
+3.44 
+crumbly {adj.} 
+εύθρυπτος -η -ο {επίθ.} 
+friable 
+krümelig 
+3.44 
+crunchy {adj.} 
+τραγανός (κατά τη μάσηση) {επίθ.} 
+croquant 
+knackig 
+3.44 
+crusty {adj.} 
+κρουστός -ή -ό {επίθ.} 
+croustillant 
+knusprig 
+3.44 
+crystalline {adj.} 
+κρυσταλλικός -ή -ό {επίθ.} 
+cristallisé 
+kristallin 
+3.55 
+cutaneous sense, haptics 
+{n.} 
+δερματική αίσθηση, απτική 
+αίσθηση {ουσ.} 
+sens tactile 
+Hautsinn 
+2.20 
+denseness {n.} 
+πυκνότητα {ουσ.} 
+densité 
+Dichte 
+3.53 
+descriptive analysis {n.} 
+περιγραφική ανάλυση {ουσ.} 
+analyse descriptive 
+beschreibende Analyse 
+4.22 
+difference threshold {n.} 
+κατώφλιο διαφοράς {ουσ.} 
+seuil differentiel 
+Unterscheidungsschwelle 
+2.27 
+dilution method {n.} 
+μέθοδος αραίωσης {ουσ.} 
+méthode par dilution 
+Verdünnungsverfahren 
+4.14 
+discriminating ability {n.} 
+διακριτική ικανότητα {ουσ.} 
+aptitude à la discrimination 
+Unterscheidungsvermögen 
+1.27 
+discrimination {n.} 
+διάκριση {ουσ.} 
+discrimination 
+Unterscheidung 
+1.26 
+discrimination test {n.} 
+δοκιμή διάκρισης {ουσ.} 
+essai de discrimination, essai de 
+différence 
+Diskriminierungsprüfung 
+4.16 
+dry {adj.} 
+ξηρός -ή -ό {επίθ.} 
+sec 
+trocken 
+3.58 
+dry {body attribute} {adj.} 
+στεγνός -ή -ό {χαρακτηριστικό 
+σώματος} {επίθ.} 
+sec 
+trocken 
+3.57 
+dry {surface attribute} 
+{adj.} 
+ξηρός -ή -ό {επιφανειακό 
+χαρακτηριστικό υφής} {επίθ.} 
+sec 
+trocken 
+3.57 
+dryness {n.} 
+ξηρότητα {ουσ.} 
+siccité 
+Trockenheit 
+3.58 
+4 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+duo-trio test {n.} 
+δοκιμή «δύο από τρία» {ουσ.} 
+essai duo-trio 
+Duo-Trio-Prüfung 
+4.19 
+dyschromatopsia {n.} 
+δυσχρωματοψία {ουσ.} 
+dyschromatopsie 
+Dyschromatopsie, 
+Farbenfehlsichtigkeit 
+2.33 
+effervescence {n.} 
+αναβρασμός {ουσ.} 
+effervescence 
+Sprudeln 
+3.61 
+effervescent {adj.} 
+αναβράζων, -ουσα, -ον, αεριούχος 
+-α –ο, αφρώδης -ης -ες {επίθ.} 
+effervescent 
+sprudelnd 
+3.61 
+elastic, springy, rubbery 
+{adj.} 
+ελαστικός -ή -ό {επίθ.} 
+élastique, flexible, 
+caoutchouteux 
+elastisch 
+3.50 
+elasticity, springiness, 
+resilience {n.} 
+ελαστικότητα, επανατακτικότητα 
+{ουσ.} 
+élasticité, flexibilité, résilience 
+Elastizität 
+3.50 
+error (of assessment) {n.} 
+σφάλμα (αξιολόγησης) {ουσ.} 
+erreur de mesure 
+Messfehler 
+4.39 
+expectation bias {n.} 
+μεροληψία προϊδεασμού {ουσ.} 
+erreur d'attente 
+Erwartungsbias 
+4.42 
+expert {n.} 
+ειδικός {ουσ.} 
+expert 
+Sachverständiger 
+1.7 
+expert sensory assessor 
+{n.} 
+ειδικός αισθητηριακός αξιολογητής 
+{ουσ.} 
+sujet expert sensoriel 
+Sensoriker 
+1.8 
+fattiness {n.} 
+λιπαρότητα {ουσ.} 
+lipidité 
+Fettigkeit 
+3.59 
+fatty {adj.} 
+λιπαρός, λιπώδης -ης -ες {επίθ.} 
+gras 
+speckig 
+3.59 
+fibrous {adj.} 
+ινώδης -ης -ες {επίθ.} 
+fibreux 
+faserig 
+3.55 
+firm {adj.} 
+ημίσκληρος, σφιχτός -ή -ό {επίθ.} 
+ferme 
+fest 
+3.42 
+fizzy {adj.} 
+αφρώδης -ης -ες {επίθ.} 
+gazeux 
+zischend 
+3.61 
+flaky {adj.} 
+νιφαδοειδής -ής -ές {επίθ.} 
+feuilleté 
+blätterig 
+3.55 
+flat {adj.} 
+ξεθυμασμένος -η -ο {επιθ. μετ.} 
+éventé 
+schal 
+3.61 
+flat {adj.} 
+επίπεδος, άτονος -η -ο {επίθ.} 
+plat 
+schal 
+3.71 
+flavour {n.} 
+οσμόγευση {ουσ.} 
+flaveur 
+Flavour 
+3.20 
+flavour enhancer {n.} 
+βελτιωτικό οσμόγευσης {ουσ.} 
+renforçateur de goût, 
+renforçateur de flaveur 
+Geschmacksverstärker 
+3.22 
+fluid {adj.} 
+ρευστός -ή -ό {επίθ.} 
+fluide, liquide 
+flüssig 
+3.48 
+foamy 
+αφρώδης 
+mousseux 
+schäumend 
+3.60 
+fracturability {n.} 
+θραυστότητα {ουσ.} 
+cohésion 
+Sprödigkeit 
+3.44 
+free choice sensory profile 
+{n.} 
+αισθητηριακό προφίλ ελεύθερης 
+επιλογής {ουσ.} 
+profil sensoriel libre choix 
+freies Auswahlprofil 
+4.26 
+frothy 
+αφρώδης 
+écumeux 
+schaumig 
+3.60 
+general terminology 
+γενική ορολογία 
+terminologie générale 
+Allgemeine Terminologie 
+1 
+gloss {n.} 
+στιλπνότητα {ουσ.} 
+brillance, brillant 
+Glanz 
+3.40 
+glossy, shiny {adj.} 
+στιλπνός -ή -ό {επίθ.} 
+luisant, brillant 
+glänzend 
+3.40 
+gooey, gluey {adj.} 
+πολύ κολλώδης -ης -ες {επίθ.} 
+gluant, poisseux 
+leimähnlich haftend 
+3.51 
+grading {n.} 
+διαβάθμιση {ουσ.} 
+classification 
+Sortierung 
+4.3 
+grainy {adj.} 
+μετρίως κοκκώδης -ης -ες {επίθ.} 
+grenu 
+körnig 
+3.54 
+granular {adj.} 
+κοκκώδης -ης -ες {επίθ.} 
+granuleux 
+gekörnt 
+3.54 
+granularity {n.} 
+κοκκιότητα {ουσ.} 
+granulosité 
+Körnigkeit 
+3.54 
+greasy {adj.} 
+λιπαρώδης -ης -ες {επίθ.} 
+graisseux 
+fettig 
+3.59 
+gritty {adj.} 
+ελαφρώς κοκκώδης -ης -ες {επίθ.} 
+sableux, graveleux 
+kiesig 
+3.54 
+gumminess {n.} 
+κομμιώδης υφή, μαστιχωτή υφή 
+{ουσ.} 
+broyabilité 
+Klebrigkeit 
+3.47 
+gummy {adj.} 
+κομμιώδης -ης –ες, μαστιχωτός -ή 
+-ό {επίθ.} 
+gommeux, gélatineux 
+gummiartig 
+3.47 
+5 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+gustatory {adj.} 
+γευστικός -ή -ό {επίθ.} 
+gustatif 
+gustatorisch 
+2.13 
+halo effect {n.} 
+φαινόμενο της άλω {ουσ.} 
+effet de halo 
+Halo-Effekt 
+4.43 
+haptic {adj.} 
+απτικός -ή -ό {επίθ.} 
+tactile 
+taktil 
+2.20 
+hard {adj.} 
+σκληρός -ή -ό {επίθ.} 
+dur 
+hart 
+3.42 
+hardness {n.} 
+σκληρότητα {ουσ.} 
+dureté 
+Härte 
+3.42 
+heaviness {n.} 
+βαρύτητα {ουσ.} 
+épaisseur 
+Schwere 
+3.52 
+heavy {adj.} 
+βαρύς -ιά -ύ {επίθ.} 
+épais 
+schwer 
+3.52 
+hedonic scale {n.} 
+κλίμακα αρέσκειας {ουσ.} 
+échelle hédonique 
+hedonische Skala 
+4.33 
+hedonic, adj 
+αρέσκειας, επιθ. προσδ. 
+hédonique 
+hedonisch 
+1.22 
+hue {n.} 
+απόχρωση {ουσ.} 
+teinte 
+Farbton 
+3.33 
+independent assessment 
+{n.} 
+ανεξάρτητη αξιολόγηση {ουσ.} 
+évaluation indépendante 
+unabhängige Bewertung 
+4.11 
+insipid {adj.} 
+άνοστος, -η, -ο {επίθ.} 
+insipide 
+fade 
+3.68 
+intensity scale {n.} 
+κλίμακα έντασης {ουσ.} 
+échelle d'intensité 
+Intensitätsskala 
+4.30 
+intensity
+1 {n.} 
+ένταση
+1, ένταση αισθήματος {ουσ.} 
+intensité 
+Intensität 
+2.8 
+intensity
+2 {n.} 
+ένταση
+2, ένταση ερεθίσματος 
+{ουσ.} 
+intensité 
+Intensität 
+2.9 
+interval scale {n.} 
+κλίμακα διαστημάτων {ουσ.} 
+échelle d'intervalles 
+Intervallskala 
+4.37 
+juicy {adj.} 
+ζουμερός -ή -ό {επίθ.} 
+juteux 
+saftig 
+3.57 
+kinaesthesis {n.} 
+κιναισθησία, κιναίσθηση {ουσ.} 
+kinesthésie 
+Kinästhesie 
+2.24 
+lightness {n.} 
+φωτεινότητα {ουσ.} 
+clarté 
+Helligkeit 
+3.35 
+lumpy {adj.} 
+σβολώδης -ης -ες {επίθ.} 
+grumeleux 
+klumpig 
+3.54 
+magnitude estimation {n.} 
+εκτίμηση μέτρου {ουσ.} 
+estimation de la grandeur 
+Abschätzung der Größenordnung 
+4.10 
+malleable {adj.} 
+εύπλαστος -η -ο {επίθ.} 
+malléable 
+verformbar 
+3.50 
+masking {n.} 
+επικάλυψη {ουσ.} 
+masquage 
+Maskierung 
+2.37 
+mastication {n.} 
+μάσηση {ουσ.} 
+mastication 
+Kauvorgang 
+1.39 
+matching {n.} 
+αντιστοίχιση {ουσ.} 
+appariement 
+Abgleichung 
+4.9 
+mealy {adj.} 
+αλευρώδης -ης -ες {επίθ.} 
+farineux 
+mehlig 
+3.47 
+measurement scale {n.} 
+κλίμακα μέτρησης {ουσ.} 
+échelle de mesure 
+Messskala  
+4.29.2 
+melting {adj.} 
+εύτηκτος -η -ο {επίθ.} 
+fondant 
+schmelzend 
+3.45 
+metallic {adj.} 
+μεταλλικός -ή -ό {επίθ.} 
+métallique 
+metallisch 
+3.2 
+modality, sensory 
+modality {n.} 
+τροπικότητα, αισθητηριακή 
+τροπικότητα {ουσ.} 
+modalité, modalité sensorielle 
+Modalität 
+2.11 
+moist {body attribute} 
+{adj.} 
+ελαφρώς υγρός -ή -ό 
+{χαρακτηριστικό σώματος} {επίθ.} 
+humide 
+feucht 
+3.57 
+moist {surface attribute} 
+{adj.} 
+ελαφρώς υγρός -ή -ό {επιφανειακό 
+χαρακτηριστικό υφής} {επίθ.} 
+humide 
+feucht 
+3.57 
+moisture
+1 
+υγρασία {ουσ.} 
+humidité 
+Feuchte 
+3.56 
+moisture
+2, moistness {n.} 
+υγρότητα {ουσ.} 
+humidité 
+Feuchte 
+3.57 
+mouthfeel {n.} 
+στοματαίσθημα {ουσ.} 
+sensation en bouche 
+Mundgefühl 
+3.62 
+neutral {adj.} 
+ουδέτερος -η -ο {επίθ.} 
+neutre 
+neutral 
+3.70 
+note {n.} 
+νότα {ουσ.} 
+note 
+Note 
+3.28 
+objective method {n.} 
+αντικειμενική μέθοδος {ουσ.} 
+méthode objective 
+objektives Verfahren 
+4.1 
+odorant {n.} 
+οσμητικό {ουσ.} 
+substance odorante 
+Duftstoff 
+1.35 
+odorimetry {n.} 
+οσμομετρία {ουσ.} 
+odorimétrie 
+Odorimetrie 
+1.34 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+odour {n.} 
+οσμή
+1 {ουσ.} 
+odeur 
+Geruch 
+3.18 
+off-flavour {n.} 
+αποκλίνουσα οσμόγευση {ουσ.} 
+flaveur atypique 
+Fremdgeschmack 
+3.21 
+off-note {n.} 
+αποκλίνουσα νότα {ουσ.} 
+note atypique 
+Fremdnote 
+3.29 
+off-odour {n.} 
+αποκλίνουσα οσμή {ουσ.} 
+odeur atypique 
+Fremdgeruch 
+3.19 
+oily {adj.} 
+ελαιώδης -ης -ες {επίθ.} 
+huileux 
+ölig 
+3.59 
+olfactometer {n.} 
+οσφρησιόμετρο {ουσ.} 
+olfactomètre 
+Olfaktometer  
+1.33 
+olfactometry {n.} 
+οσφρησιομετρία {ουσ.} 
+olfactométrie 
+Olfaktometrie 
+1.32 
+olfactory {adj.} 
+οσφρητικός {επίθ.} 
+olfactométrie 
+olfaktorisch  
+2.14 
+opacity {n.} 
+αδιαφάνεια {ουσ.} 
+opacité 
+undurchsichtig  
+3.39 
+opaque {adj.} 
+αδιαφανής -ής -ές {επίθ.} 
+opaque 
+Undurchsichtigkeit 
+3.39 
+ordinal scale {n.} 
+διατακτική κλίμακα {ουσ.} 
+échelle ordinale 
+Ordinalskala 
+4.36 
+organoleptic, adj 
+οργανοληπτικός -ή -ό {επίθ.} 
+organoleptique 
+organoleptisch 
+1.4 
+paired comparison test 
+{n.} 
+δοκιμή ζευγαρωτής σύγκρισης 
+{ουσ.} 
+essai de comparaison par paires 
+paarweise Vergleichsprüfung  
+4.17 
+palatability {n.} 
+ευγευστότητα {ουσ.} 
+palatabilité 
+Schmackhaftigkeit  
+1.30 
+palate cleanser {n.} 
+καθαριστικό ουρανίσκου {ουσ.} 
+rince-bouche 
+Geschmacksneutralisator, 
+3.64 
+panel consensus {n.} 
+συναίνεση ομάδας {ουσ.} 
+consensus du jury 
+Konsens des Panels  
+1.11 
+panel training {n.} 
+κατάρτιση ομάδας {ουσ.} 
+formation du jury 
+Schulung des Panels  
+1.10 
+pasty {adj.} 
+πολτώδης -ης -ες {επίθ.} 
+pâteux 
+pastös 
+3.47 
+perception {n.} 
+αντίληψη {ουσ.} 
+perception 
+Wahrnehmung  
+2.3 
+persistence {n.} 
+επιμονή {ουσ.} 
+persistance 
+Fortdauern  
+3.67 
+physical cooling {n.} 
+φυσικό ψύχος {ουσ.} 
+froid physique 
+physikalische Kältewirkung  
+3.15 
+physical heat {n.} 
+φυσική θερμότητα {ουσ.} 
+chaleur physique 
+physikalische Wärmewirkung  
+3.17 
+plastic {adj.} 
+πλαστικός -ή -ό {επίθ.} 
+plastique 
+plastisch 
+3.50 
+porous 
+πορώδης 
+poreux 
+porös 
+3.60 
+preference {n.} 
+προτίμηση {ουσ.} 
+essai de préférence 
+Präferenz  
+1.24 
+preference test {n.} 
+δοκιμή προτίμησης {ουσ.} 
+essai de préférence 
+Präferenzprüfung  
+4.28 
+product {n.} 
+προϊόν {ουσ.} 
+produit 
+Prüfmaterial  
+1.15 
+psychophysical method 
+{n.} 
+ψυχοφυσική μέθοδος {ουσ.} 
+méthode psychophysique 
+psychophysikalisches Verfahren  
+4.15 
+psychophysics {n.} 
+ψυχοφυσική {ουσ.} 
+psychophysique 
+Psychophysik  
+1.31 
+puffy {adj.} 
+φουσκωτός -ή -ό {επίθ.} 
+soufflé 
+aufgebläht 
+3.55 
+pulverulent {adj.} 
+κονιώδης -ης -ες {επίθ.} 
+pulvérulent 
+eicht zerbröckelnd 
+3.44 
+pungency {n.} 
+πικαντικότητα {ουσ.} 
+goût piquant 
+Schärfe  
+3.13 
+pungent {adj.} 
+πικάντικος -η -ο {επίθ.} 
+piquant 
+scharf 
+3.11 
+pungent {adj.} 
+πικάντικος -η -ο {επίθ.} 
+irritant, piquant au nez 
+scharf, stechend 
+3.13 
+qualitative sensory profile 
+{n.} 
+ποιοτικό αισθητηριακό προφίλ 
+{ουσ.} 
+profil sensoriel qualitatif 
+qualitatives sensorisches Profil  
+4.23 
+quality {n.} 
+ποιότητα {ουσ.} 
+qualité 
+Qualität  
+1.36 
+quality factor {n.} 
+παράγοντας ποιότητας {ουσ.} 
+facteur de qualité, critère de 
+qualité 
+Qualitätsfaktor 
+1.37 
+quantitative sensory 
+profile {n.} 
+ποσοτικό αισθητηριακό προφίλ 
+{ουσ.} 
+profil sensoriel qualitatif 
+quantitatives sensorisches Profil  
+4.23 
+random errors {n.} 
+τυχαία σφάλματα {ουσ.} 
+erreur aléatoire 
+zufällige Abweichung  
+4.40 
+ranking {n.} 
+κατάταξη {ουσ.} 
+classement par rang 
+Einstufung in eine Rangordnung  
+4.4 
+7 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+rating {n.} 
+διαβάθμιση σε κλίμακα, κλιμακωτή 
+διαβάθμιση {ουσ.} 
+cotation 
+Bewertung  
+4.6 
+ratio scale {n.} 
+κλίμακα λόγων {ουσ.} 
+échelle de rapport 
+Verhältnisskala  
+4.38 
+receptor {n.} 
+υποδοχέας {ουσ.} 
+récepteur 
+Rezeptor  
+2.1 
+recognition threshold {n.} 
+κατώφλιο αναγνώρισης {ουσ.} 
+seuil de reconnaissance, seuil 
+d'identification 
+Identifizierungsschwelle, 
+Relativschwelle  
+2.26 
+reference point {n.} 
+σημείο αναφοράς {ουσ.} 
+point de référence 
+Bezugspunkt 
+1.19 
+reference sample {n.} 
+δείγμα αναφοράς {ουσ.} 
+échantillon de référence, produit 
+de référence 
+Bezugsprobe, 
+Referenzprobe, 
+Vergleichsprobe  
+1.21 
+reference scale {n.} 
+κλίμακα αναφοράς {ουσ.} 
+échelle de référence 
+Bezugsskala, Referenzskala  
+4.32 
+response scale {n.} 
+κλίμακα απόκρισης ουσ. 
+échelle de réponses 
+Antwortskala 
+4.29.1 
+saltiness, salty taste {n.} 
+αλμυρότητα, αλμυρή γεύση {ουσ.} 
+salinité, saveur salée 
+Salzigkeit, salziger Geschmack 
+3.6 
+salty {adj.} 
+αλμυρός -ή -ό {επίθ.} 
+salée 
+salzig 
+3.2 
+sample, sample of product 
+{n.} 
+δείγμα, δείγμα προϊόντος {ουσ.} 
+échantillon, échantillon d'un 
+produit 
+Probe, Probe eines Prüfmaterials 
+1.16 
+saturation {n.} 
+κορεσμός {ουσ.} 
+saturation 
+Sättigung 
+3.34 
+scale {n.} 
+κλίμακα {ουσ.} 
+échelle 
+Skala  
+4.29 
+score {n.} 
+βαθμός {ουσ.} 
+note, score 
+Punktzahl  
+4.47 
+score sheet, score card 
+{n.} 
+βαθμοδέλτιο {ουσ.} 
+formulaire de réponse 
+Antwortbogen/Antwortkarte  
+4.48 
+scoring {n.} 
+βαθμολόγηση {ουσ.} 
+note, score 
+Auswertung durch Punktevergabe  
+4.7 
+screening {n.} 
+διαλογή {ουσ.} 
+sélection 
+Vorauswahl  
+4.8 
+selected assessor {n.} 
+επιλεγμένος αξιολογητής {ουσ.} 
+sujet qualifié 
+ausgewähler Prüfer 
+1.6 
+sensation {n.} 
+αίσθημα {ουσ.} 
+sensation 
+Empfindung, Sinneseindruck  
+2.4 
+sensitivity {n.} 
+ευαισθησία {ουσ.} 
+acuité 
+Empfindlichkeit, Sensibilität  
+2.5 
+sensory {adj.} 
+αισθητηριακός -ή -ό {επίθ.} 
+sensoriel 
+sensorisch  
+1.2 
+sensory adaptation {n.} 
+αισθητηριακή προσαρμογή {ουσ.} 
+adaptation sensorielle 
+sensorische Anpassung 
+2.6 
+sensory analysis {n.} 
+αισθητηριακή ανάλυση {ουσ.} 
+analyse sensorielle 
+sensorische Analyse 
+1.1 
+sensory assessor {n.} 
+αισθητηριακός αξιολογητής {ουσ.} 
+sujet sensoriel 
+Prüfperson 
+1.5 
+sensory fatigue {n.} 
+αισθητηριακή κόπωση {ουσ.} 
+fatigue sensorielle 
+Sinnermüdung 
+2.7 
+sensory panel {n.} 
+αισθητηριακή ομάδα {ουσ.} 
+jury 
+Panel, Prüfpersonengruppe 
+1.9 
+sensory profile {n.} 
+αισθητηριακό προφίλ {ουσ.} 
+profil sensoriel 
+sensorisches Profil  
+4.25 
+sharp {adj.} 
+αιχμηρός -ή -ό {επίθ.} 
+âpre 
+herb oder pikant 
+3.11 
+short {adj.} 
+βραχύς –εία -ύ 
+sablé 
+mürbe 
+3.47 
+smooth, powdery {adj.} 
+λείος {επίθ.} 
+lisse, pulvérulent, poudreux 
+glatt 
+3.54 
+soft {adj.} 
+μαλακός -ή -ό {επίθ.} 
+mou 
+weich 
+3.42 
+somesthesis {n.} 
+σωματαισθησία, σωματαίσθηση 
+{ουσ.} 
+somesthésie 
+Hautsensibilität, Somästhesie 
+2.22 
+sourness, sour taste {n.} 
+ξινότητα, ξινάδα, ξινή γεύση {ουσ.} 
+aigreur, saveur aigre 
+Herbheit  
+3.4 
+standard illuminant {n.} 
+πρότυπο φωτιστικό {ουσ.} 
+illuminant normalisé 
+Normlichtart 
+4.45 
+sticky, adhesive {adj.} 
+εξαιρετικά κολλώδης -ης -ες {επίθ.} 
+collant, adhésif 
+hochgradig klebrig 
+3.51 
+still {adj.} 
+χωρίς ανθρακικό {επίρρ.} 
+plat, non gazeux 
+still 
+3.61 
+stimulus {n.} 
+ερέθισμα {ουσ.} 
+stimulus 
+Reiz 
+2.2 
+stimulus threshold, 
+detection threshold {n.} 
+κατώφλιο ερεθίσματος, κατώφλιο 
+ανίχνευσης {ουσ.} 
+seuil d'apparition, seuil de 
+détection, seuil de perception 
+Reizschwelle, 
+Wahrnehmungsschwelle 
+2.25 
+subjective method {n.} 
+υποκειμενική μέθοδος {ουσ.} 
+méthode subjective 
+subjektives Verfahren  
+4.2 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+sub-threshold {adj.} 
+υποκατωφλιακός {επίθ.} 
+infra-liminaire 
+unterschwellig 
+2.29 
+succulent {adj.} 
+χυμώδης -ης -ες {χαρακτηριστικό 
+σώματος} {επίθ.} 
+..... (pas d'équivalent français: le 
+terme «succulent» a une 
+signification hédonique et ne 
+peut pas être utilisé ici); 
+vollsaftig 
+3.57 
+supra-threshold {adj.} 
+υπερκατωφλιακός {επίθ.} 
+supra-liminaire 
+überschwellig  
+2.30 
+sweet {adj.} 
+γλυκός -ειά -ό {επίθ.} 
+sucrée 
+süß 
+3.2 
+sweetness, sweet taste 
+{n.} 
+γλυκύτητα, γλυκιά γεύση {ουσ.} 
+sucrosité, saveur sucrée 
+Süe, süer Geschmack  
+3.7 
+synergism {n.} 
+συνεργισμός {ουσ.} 
+synergisme 
+Synergismus 
+2.36 
+tacky {adj.} 
+ελαφρώς κολλώδης -ης -ες {επίθ.} 
+pâteux 
+leicht klebrig 
+3.51 
+tactile somesthetic 
+receptor {n.} 
+απτικός σωματοαισθητικός 
+υποδοχέας {ουσ.} 
+récepteur tactile 
+taktiler somästhetischer Rezeptor  
+2.23 
+taint {n.} 
+μόλυσμα {ουσ.} 
+flaveur parasite, odeur parasite 
+Nebengeruch, Nebengeschmack 
+3.23 
+taste {n.} 
+γεύση {ουσ.} 
+goût 
+Geschmack 
+2.12 
+taster {n.} 
+δοκιμαστής {ουσ.} 
+dégustateur 
+Verkoster 
+1.13 
+tasting {n.} 
+γευστική δοκιμή {ουσ.} 
+dégustation 
+Degustation, Verkostung  
+1.14 
+tender {adj.} 
+τρυφερός -ή -ό {επίθ.} 
+tendre 
+zart 
+3.45 
+terminal threshold {n.} 
+τερματικό κατώφλιο {ουσ.} 
+seuil final, saturation 
+Sättigungsschwelle 
+2.28 
+terminology relating to 
+methods 
+ορολογία σχετική με μεθόδους 
+terminologie relative aux 
+méthodes 
+Verfahrensbezogene 
+Terminologie 
+4 
+terminology relating to 
+organoleptic attributes 
+ορολογία σχετική με 
+οργανοληπτικά χαρακτηριστικά 
+terminologie relative aux 
+propriétés organoleptiques 
+Terminologie in Bezug auf 
+organoleptische 
+Merkmalseigenschaften 
+3 
+terminology relating to the 
+senses 
+ορολογία σχετική με τις αισθήσεις 
+terminologie relative à la 
+physiologie 
+Auf die Sinne bezogene 
+Terminologie 
+2 
+test portion {n.} 
+μερίδα δοκιμής {ουσ.} 
+prise d'essai 
+Prüfprobe 
+1.18 
+test sample {n.} 
+δείγμα δοκιμής {ουσ.} 
+échantillon pour essai 
+Prüfgut, Prüfmuster 
+1.17 
+texture {n.} 
+υφή {ουσ.} 
+texture 
+Textur 
+3.41 
+texture profile {n.} 
+προφίλ υφής ουσ. 
+profil de texture 
+Texturprofil  
+4.27 
+thick, viscous {adj.} 
+παχύρρευστος -η -ο {επίθ.} 
+visqueux, épais 
+dickflüssig 
+3.48 
+thin {adj.} 
+λεπτόρρευστος -η -ο {επίθ.} 
+lié 
+dünnschichtbildend 
+3.48 
+tingly {adj.} 
+γαργαλιστικός -ή -ό {επίθ.} 
+perlant 
+prickelnd 
+3.61 
+to smell {v.} 
+οσφραίνομαι {ρ.} 
+sentir 
+riechen 
+2.15 
+touch {n.} 
+αφή {ουσ.} 
+sentir 
+Berühren  
+2.16 
+tough {adj.} 
+σκληρός -ή -ό {επίθ.} 
+coriace 
+zäh 
+3.45 
+translucency {n.} 
+ημιδιαφάνεια {ουσ.} 
+translucidité 
+Durchscheinbarkeit, 
+Lichtdurchlässigkeit 
+3.38 
+translucent {adj.} 
+ημιδιαφανής -ής -ές {επίθ.} 
+translucide 
+durchscheinend 
+3.38 
+transparency {n.} 
+διαφάνεια {ουσ.} 
+transparence 
+Durchsichtigkeit, Transparenz  
+3.37 
+transparent {adj.} 
+διαφανής -ής -ές {επίθ.} 
+transparent 
+durchsichtig 
+3.37 
+triangle test {n.} 
+τριγωνική δοκιμή ουσ. 
+essai triangulaire 
+Dreiecksprüfung 
+4.18 
+trigeminal sensations, oro-
+nasal chemesthesis {n.}  
+αισθήματα τριδύμου, 
+στοματορρινική χημειoαισθησία, 
+στοματορρινική χημειοαίσθηση 
+{ουσ.} 
+sensation trigéminale 
+trigeminale Empfindungen 
+2.19 
+true value noun 
+αληθής τιμή ουσ. 
+valeur vraie 
+wahrer Wert 
+4.44 
+umami {adj.} 
+ουμάμι {επίθ.} 
+umami 
+umami 
+3.2 
+9 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Κωδικός 
+όρου 
+umami {n.} 
+ουμάμι {ουσ.} 
+umami 
+Umami 
+3.9 
+unctuous, creamy {adj.} 
+κρεμώδης -ης -ες {επίθ.} 
+onctueux, crémeux 
+cremig, sahnig 
+3.48 
+unipolar scale {n.} 
+μονοπολική κλίμακα {ουσ.} 
+échelle unipolaire 
+unipolare Skala 
+4.35 
+viscosity {n.} 
+ιξώδες {ουσ.} 
+viscosité 
+Viskosität 
+3.48 
+vision {n.} 
+όραση {ουσ.} 
+vision 
+Sehen 
+2.17 
+watery {adj.} 
+υδαρής -ής -ές {χαρακτηριστικό 
+σώματος} {επίθ.} 
+aqueux 
+wässrig 
+3.57 
+wet {surface attribute} 
+{adj.} 
+υγρός -ή -ό {επιφανειακό 
+χαρακτηριστικό υφής} {επίθ.} 
+mouillé 
+nass 
+3.57 
+ 
+ 

@@ -1,0 +1,37 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_22-17-SofitisVas_FrantziK_CV-Frantzi_V02.pdf
+
+ΕΛΕΤΟ – 7ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+ 
+ 
+ 
+Κατερίνα Τ. Φραντζή 
+Επίκουρη Καθηγήτρια στην Υπολογιστική Γλωσσολογία 
+Τμήμα Μεσογειακών Σπουδών 
+Πανεπιστήμιο Αιγαίου 
+Δημοκρατίας 1, 85100, Ρόδος 
+frantzi@rhodes.aegean.gr 
+ 
+Βιογραφικό Σημείωμα 
+ 
+Η Κατερίνα Θ. Φραντζή είναι Επίκουρη Καθηγήτρια στην Υπολογιστική Γλωσσολογία στο Τμήμα 
+Μεσογειακών Σπουδών του Πανεπιστημίου Αιγαίου.  
+Πήρε το πρώτο της πτυχίο από το Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και 
+Καποδιστριακού Πανεπιστημίου Αθηνών το 1992 και το διδακτορικό της δίπλωμα από το Manchester 
+Metropolitan University σε συνεργασία με το University of Manchester Institute of Science and 
+Technology (UMIST), στο Μάντσεστερ, Ηνωμένο Βασίλειο το 1998.  
+Σε αναγνώριση της διδακτορικής της διατριβής με τίτλο «Automatic Recognition of Multi-Word Terms» 
+κέρδισε το  «Certificate for Outstanding Achievement in Applied Research and Development in the 
+field of Terminology» από το International Information Centre for Terminology – INFOTERM.  
+Έχει δουλέψει σαν ερευνήτρια στο Language Engineering Department, University of Manchester 
+Institute of Science and Technology (UMIST), και σαν επισκέπτρια ερευνήτρια στον Τομέα Research 
+and Development, Communication Science Department, Nippon Telegraph and Telephone 
+Corporation (NTT), στη Yokosuka, Ιαπωνία. Έχει φτιάξει την      C-value μέθοδο/εργαλείο, ανεξάρτητη 
+από τη γλώσσα και υπογλώσσα εφαρμογής, για την ημι-αυτόματη αναγνώριση πολυλεκτικών όρων 
+και συμφράσεων, η οποία έχει εφαρμοστεί και εφαρμόζεται σε πολλές γλώσσες και ποικίλες 
+εφαρμογές.  
+Τα ερευνητικά της ενδιαφέροντα περιλαμβάνουν: Υπολογιστική Γλωσσολογία, Γλωσσολογία Σωμάτων 
+Κειμένων, Υπολογιστική Λεξικογραφία και Ορολογία, Πολιτική Γλωσσολογία και Δικαστική 
+Γλωσσολογία.  
+ 

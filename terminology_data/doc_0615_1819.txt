@@ -1,0 +1,1201 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ELETO-MOTO_e-signatures_Glossary.pdf
+
+ΕΛΕΤΟ 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ) 
+Συλλογικό Μέλος: 
+ΜΟΤΟ (Μόνιμη Ομάδα Τηλεπικοινωνιακής Ορολογίας) 
+ 
+Μάιος 2020 
+ 
+ 
+Ι.   Αγγλοελληνικό Γλωσσάριο Όρων Ηλεκτρονικών Υπογραφών 
+Όροι έννοιών που ορίζονται στην Τεχνική Έκθεση ETSI TR 119 001 V1.1.1 (2015-07)  
+Electronic Signatures and Infrastructures (ESI); The framework for standardization 
+ of signatures – Definitions and abbreviations 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+advanced electronic seal 
+ 
+προηγμένη ηλεκτρονική σφραγίδα 
+advanced electronic signature 
+ 
+προηγμένη ηλεκτρονική υπογραφή 
+advanced electronic signature 
+under e-signature Directive 
+ 
+προηγμένη ηλεκτρονική υπογραφή στο πλαίσιο της 
+Οδηγίας των ηλεκτρονικών υπογραφών 
+approval 
+ 
+έγκριση 
+approval scheme 
+ 
+σχήμα έγκρισης 
+ASiCArchiveManifest file 
+ 
+αρχείο ASiCArchiveManifest 
+ASiCManifest file 
+ 
+αρχείο ASiCManifest 
+associated signature container 
+ASIC 
+περιέκτης συσχετισμένων υπογραφών 
+attribute authority 
+ 
+αρχή (έκδοσης πιστοποιητικών) ιδιοχαρακτηριστικών 
+attribute certificate 
+AC 
+πιστοποιητικό ιδιοχαρακτηριστικών 
+auditor 
+ 
+επιθεωρητής 
+CAdES signature 
+ 
+υπογραφή CAdES 
+CA-certificate 
+ 
+πιστοποιητικό CA 
+certificate 
+ 
+πιστοποιητικό 
+certificate identifier 
+ 
+αναγνωριστικό πιστοποιητικού 
+certificate path chain validation, 
+certificate path validation 
+ 
+επικύρωση της (αλυσίδας) διαδρομής πιστοποιητικού 
+certificate policy 
+ 
+πολιτική πιστοποιητικών 
+certificate revocation list 
+ 
+κατάλογος ανάκλησης πιστοποιητικών 
+certificate validation 
+ 
+επικύρωση πιστοποιητικού 
+certification authority 
+CA 
+αρχή πιστοποίησης 
+certification authority revocation 
+list 
+ 
+κατάλογος ανακλήσεων για τις αρχές πιστοποίησης 
+certification path 
+ 
+διαδρομή πιστοποίησης 
+certification practice statement 
+ 
+δήλωση πρακτικής (της) πιστοποίησης 
+certification service provider 
+ 
+παροχέας υπηρεσιών πιστοποίησης, πάροχος 
+υπηρεσιών πιστοποίησης 
+certification signature 
+ 
+υπογραφή πιστοποίησης 
+claimed signing time 
+ 
+δηλούμενος χρόνος υπογραφής 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+2 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+commitment type, signature 
+commitment type 
+ 
+τύπος δέσμευσης (υπογραφής) 
+conformity assessment 
+ 
+αξιολόγηση (της) συμμόρφωσης 
+conformity assessment body 
+ 
+φορέας αξιολόγησης συμμόρφωσης 
+constraints, signature constraints 
+ 
+περιορισμοί (υπογραφής) 
+competence 
+ 
+επάρκεια,  καταλληλότητα 
+coordinated universal time 
+UTC 
+παγκόσμια συντονισμένη ώρα 
+cross certificate 
+ 
+αλληλοπιστοποιητικό 
+cryptographic suite 
+ 
+κρυπτογραφική ακολουθία 
+cryptographic system 
+ 
+κρυπτογραφικό σύστημα, κρυπτοσύστημα, 
+κρυπτοθετικό σύστημα 
+data object 
+ 
+αντικείμενο δεδομένων 
+data integrity 
+ 
+ακεραιότητα δεδομένων 
+data origin authentication 
+ 
+επαλήθευση προέλευσης δεδομένων 
+digital signature 
+ 
+ψηφιακή υπογραφή 
+digital signature value 
+ 
+τιμή ψηφιακής υπογραφής 
+domain validation certificate 
+ 
+πιστοποιητικό επικύρωσης τομέα 
+driving application 
+ 
+εφαρμογή οδηγός 
+electronic document 
+ 
+ηλεκτρονικό έγγραφο, ηλεκτρονικό τεκμήριο 
+electronic signature 
+ 
+ηλεκτρονική υπογραφή 
+EU qualified certificate 
+ 
+πιστοποιητικό αξιολογημένο κατά ΕΕ 
+evidence 
+ 
+αποδεικτικά στοιχεία, μαρτυρία, απόδειξη 
+evidence record 
+ 
+αποδεικτική εγγραφή 
+extended validation certificate, EV 
+certificate 
+ 
+πιστοποιητικό επεκτεταμένης επικύρωσης, 
+πιστοποιητικό EV 
+generator 
+ 
+γεννήτρια 
+hash function 
+ 
+συνάρτηση κατατεμαχισμού 
+high security zone 
+ 
+ζώνη υψηλής ασφάλειας 
+legacy CAdES 101 733 signature 
+ 
+κληροδοτημένη υπογραφή CAdES 101 733 
+legacy CAdES baseline signature 
+ 
+κληροδοτημένη υπογραφή CAdES γραμμής βάσης 
+legacy CAdES signature 
+ 
+κληροδοτημένη υπογραφή CAdES 
+legacy PAdES baseline signature 
+ 
+κληροδοτημένη υπογραφή PAdES γραμμής βάσης 
+legacy XAdES 101 903 signature 
+ 
+κληροδοτημένη υπογραφή XAdES 101 903 
+legacy XAdES baseline signature 
+ 
+κληροδοτημένη υπογραφή XAdES γραμμής βάσης 
+legacy XAdES signature 
+ 
+κληροδοτημένη υπογραφή XAdES 
+media type 
+ 
+τύπος μέσων 
+message imprint 
+ 
+εντύπωμα μηνύματος 
+metadata 
+ 
+μεταδεδομένα 
+national accreditation body 
+ 
+εθνικός φορέας διαπίστευσης 
+3 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+organizational validation certificate 
+ 
+πιστοποιητικό οργανωτικής πιστοποίησης 
+PAdES signature 
+ 
+υπογραφή PAdES 
+PDF serial signature 
+ 
+σειριακή υπογραφή PDF 
+PDF signature 
+ 
+υπογραφή PDF 
+private key 
+ 
+ιδιωτικό κλειδί 
+proof of existence 
+ 
+απόδειξη ύπαρξης 
+public key 
+ 
+δημόσιο κλειδί 
+public key certificate 
+PKC 
+πιστοποιητικό δημόσιου κλειδιού 
+public key infrastructure 
+ 
+υποδομή δημόσιου κλειδιού 
+publicly-trusted certificate 
+PTC 
+δημόσια εμπιστευμένο πιστοποιητικό 
+QCStatement 
+ 
+επέκταση για κατατομή αξιολογημένου 
+πιστοποιητικού, επέκταση δήλωσης QC 
+qualified certificate under e-
+signature Directive 
+ 
+αξιολογημένο πιστοποιητικό στο πλαίσιο της 
+Οδηγίας των ηλ-υπογραφών 
+qualified electronic seal 
+ 
+αξιολογημένη ηλεκτρονική σφραγίδα 
+qualified electronic signature 
+ 
+αξιολογημένη ηλεκτρονική υπογραφή 
+qualified electronic seal creation 
+device 
+QESCD 
+διάταξη δημιουργίας αξιολογημένης ηλεκτρονικής 
+σφραγίδας 
+qualified electronic signature 
+creation device 
+QESCD 
+διάταξη δημιουργίας αξιολογημένης ηλεκτρονικής 
+υπογραφής 
+registration authority 
+ 
+αρχή καταχώρησης 
+registration officer 
+ 
+υπεύθυνος καταχώρησης 
+relying party 
+ 
+εμπιστευόμενο μέρος 
+repudiation 
+ 
+αποκήρυξη 
+revocation officer 
+ 
+υπεύθυνος ανάκλησης 
+root CA 
+ 
+επιτελής CA, ανώτατη CA 
+seal creator 
+ 
+δημιουργός σφραγίδας 
+secure signature creation device 
+ 
+διάταξη δημιουργίας ασφαλούς υπογραφής 
+scheme operator 
+ 
+λειτουργός σχήματος 
+secure cryptographic device 
+ 
+ασφαλής κρυπτογραφική διάταξη 
+seed value dictionary 
+ 
+λεξικό τιμών σπόρου 
+signatory 
+ 
+συμβαλλόμενος 
+signature attribute 
+ 
+ιδιοχαρακτηριστικό υπογραφής 
+signature augmentation 
+ 
+επαύξηση υπογραφής 
+signature augmentation policy 
+ 
+πολιτική επαύξησης υπογραφής 
+signature creation application 
+SCA 
+εφαρμογή δημιουργίας υπογραφής 
+signature creation data 
+SCD 
+δεδομένα δημιουργίας υπογραφής 
+signature creation device 
+SCDev 
+διάταξη δημιουργίας υπογραφής 
+signature creation environment 
+SCE 
+περιβάλλον δημιουργίας υπογραφής 
+4 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+signature creation policy 
+ 
+πολιτική δημιουργίας υπογραφής 
+signature creation system 
+SCS 
+σύστημα δημιουργίας υπογραφής 
+signature dictionary 
+ 
+λεξικό υπογραφής 
+signature handler 
+ 
+χειριστής υπογραφής 
+signature invocation 
+ 
+επίκληση υπογραφής 
+signature policy 
+ 
+πολιτική υπογραφών 
+signature policy authority 
+ 
+αρχή πολιτικής υπογραφών 
+signature policy document 
+ 
+τεκμήριο πολιτικής υπογραφών, έγγραφο πολιτικής 
+υπογραφών 
+signature scheme 
+ 
+σχήμα υπογραφών {αλγοριθμικό} 
+signature validation 
+ 
+επικύρωση υπογραφής 
+signature validation application 
+ 
+εφαρμογή επικύρωσης υπογραφής 
+signature validation policy 
+ 
+πολιτική επικύρωσης υπογραφής 
+signature verification 
+ 
+επαλήθευση υπογραφής 
+signature verification data 
+ 
+δεδομένα επαλήθευσης υπογραφής 
+signature verification device 
+ 
+διάταξη επαλήθευσης υπογραφής 
+signer 
+ 
+υπογράφων, -ουσα, -ον 
+subject 
+ 
+υποκείμενο 
+subordinate CA 
+ 
+υποτελής CA, κατώτερη CA 
+subscriber 
+ 
+συνδρομητής 
+supervision system 
+ 
+σύστημα εποπτείας 
+technical expert 
+ 
+τεχνικός εμπειρογνώμονας 
+time assertion 
+ 
+ισχυρισμός χρόνου 
+time-stamp 
+ 
+χρονοσφραγίδα 
+time-stamp policy 
+ 
+πολιτική χρονοσφραγίδων 
+time-stamp token 
+ 
+έκφανση χρονοσφραγίδας 
+time-stamping authority 
+TSA 
+αρχή χρονοσφράγισης 
+time-stamping unit 
+ 
+μονάδα χρονοσφράγισης 
+trust 
+ 
+εμπίστευση 
+trust anchor 
+ 
+αγκύρωση εμπίστευσης 
+trust anchor information 
+ 
+πληροφορίες αγκύρωσης εμπίστευσης 
+trust service 
+ 
+υπηρεσία εμπίστευσης 
+trust service policy 
+ 
+πολιτική υπηρεσίας εμπίστευσης 
+trust service practice statement 
+ 
+δήλωση πρακτικής υπηρεσίας εμπίστευσης 
+trust service provider 
+TSP 
+παροχέας υπηρεσίας εμπίστευσης, πάροχος 
+υπηρεσίας εμπίστευσης 
+trust service status list 
+ 
+κατάλογος στάτου υπηρεσίας εμπίστευσης 
+5 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+trust service status list provider 
+ 
+παροχέας καταλόγων στάτου υπηρεσίας 
+εμπίστευσης, πάροχος καταλόγων στάτου υπηρεσίας 
+εμπίστευσης 
+trust service token 
+ 
+έκφανση υπηρεσίας εμπίστευσης 
+trusted list 
+ 
+εμπιστευμένος κατάλογος 
+trusted list provider 
+ 
+παροχέας εμπιστευμένων καταλόγων, πάροχος 
+εμπιστευμένων καταλόγων 
+TSA disclosure statement 
+ 
+δήλωση αποκάλυψης TSA 
+TSA practice statement 
+ 
+δήλωση πρακτικής TSA 
+TSA system 
+ 
+σύστημα TSA 
+Universal Time Coordinated (k) 
+UTC(k) 
+παγκόσμια συντονισμένη ώρα (k) 
+validation 
+ 
+επικύρωση 
+validation constraint 
+ 
+περιορισμός επικύρωσης 
+validation data 
+ 
+δεδομένα επικύρωσης 
+verifier 
+ 
+επαληθευτής 
+voluntary accreditation 
+ 
+εθελοντική διαπίστευση 
+XAdES signature 
+ 
+υπογραφή XAdES 
+ 
+6 
+ 
+ 
+ΙΙ.  Αγγλοελληνικός Κατάλογος Συντομομορφών 
+που περιέχονται στην Τεχνική Έκθεση ETSI TR 119 001 V1.1.1 (2015-07) 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+AARL 
+attribute authority revocation list 
+κατάλογος ανακλήσεων της αρχής 
+ιδιοχαρακτηριστικών  
+AC 
+attribute certificate 
+πιστοποιητικό ιδιοχαρακτηριστικών 
+ACA 
+attribute certification authority 
+αρχή πιστοποίησης ιδιοχαρακτηριστικών 
+ANSI 
+American National Standards Institute 
+Ινστιτούτο Αμερικανικών Εθνικών Προτύπων 
+AP 
+Asia Pacific 
+Ασία–Ειρηνικός 
+ARL 
+authority revocation list 
+κατάλογος ανακλήσεων αρχής  
+ASiC 
+associated signature container 
+περιέκτης συσχετισμένων υπογραφών 
+ASN 
+abstract syntax notation 
+συμβολισμός αφηρημένης σύνταξης 
+ASN.1 
+abstract syntax notation one 
+συμβολισμός αφηρημένης σύνταξης ένα 
+ATSv2 
+archive-time-stamp attribute 
+ιδιοχαρακτηριστικό αρχείο-χρόνος-σφραγίδα 
+ATSv3 
+archive-time-stamp-v3 attribute 
+ιδιοχαρακτηριστικό αρχείο-χρόνος-σφραγίδα-v3 
+B2B 
+business to business 
+διεπιχειρησιακός 
+B2C 
+business to consumer 
+επιχείρηση προς καταναλωτή 
+BER 
+basic encoding rules 
+βασικοί κανόνες εγκωδίκευσης 
+BES 
+basic electronic signature 
+βασική ηλεκτρονική υπογραφή 
+BIPM 
+Bureau International des Poids et 
+Mesures 
+Διεθνές Γραφείο Μέτρων και Σταθμών 
+BMP 
+basic multilingual plane 
+βασικό πολυγλωσσικό επίπεδο 
+BPMN 
+business process modelling notation 
+συμβολισμός μοντελοποίησης επιχειρηματικής 
+διεργασίας 
+BRG 
+baseline requirements guidelines 
+κατευθυντήριες οδηγίες απαιτήσεων γραμμής βάσης 
+BSP 
+business scoping parameter 
+παράμετρος επιχειρηματικής εμβέλειας 
+BTSP 
+best practices time-stamp policy 
+πολιτική χρονοσφραγίδων άριστων πρακτικών 
+CA 
+certification authority 
+αρχή πιστοποίησης 
+CAB 
+conformity assessment body 
+φορέας αξιολόγησης συμμόρφωσης 
+CAB 
+Forum CA/Browser Forum 
+Φόρο CA/Φόρο διαφυλλιστή 
+CARL 
+certification authority revocation list 
+κατάλογος ανακλήσεων αρχής πιστοποίησης  
+CC 
+country code 
+κωδικός χώρας 
+CD 
+commission decision 
+απόφαση επιτροπής 
+CER 
+canonical encoding rules 
+κανόνες κανονικής εγκωδίκευσης 
+CMS 
+cryptographic message syntax 
+σύνταξη κρυπτογραφικού μηνύματος 
+CP 
+certificate policy 
+πολιτική πιστοποιητικών 
+CPS 
+certification practice statement 
+δήλωση πρακτικής πιστοποίησης 
+CR 
+carriage return 
+επαναφορά φορείου 
+7 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+CRL 
+certificate revocation list 
+κατάλογος ανακλήσεων πιστοποιητικού 
+CSP 
+certification service provider 
+παροχέας υπηρεσίας πιστοποίησης, πάροχος 
+υπηρεσίας πιστοποίησης 
+DA 
+driving application 
+εφαρμογή οδηγός 
+DER 
+distinguished encoding rules 
+διακεκριμένοι κανόνες εγκωδίκευσης 
+DES 
+data encryption standard 
+πρότυπο έγκρυψης δεδομένων 
+DIT 
+directory information tree 
+δένδρο πληροφοριών καταλόγου 
+DN 
+distinguished name 
+διακεκριμένο όνομα 
+DRBG 
+deterministic random bit generator 
+αιτιοκρατική γεννήτρια τυχαίων δυφίων 
+DRG 
+deterministic random generator 
+αιτιοκρατική τυχαιογεννήτρια 
+DRNG 
+deterministic random number 
+generator 
+αιτιοκρατική γεννήτρια τυχαίων αριθμών 
+DS 
+digital signature 
+ψηφιακή υπογραφή 
+DSA 
+digital signature algorithm 
+αλγόριθμος ψηφιακής υπογραφής 
+DSS 
+document security store 
+αποθήκη ασφάλειας τεκμηρίων, αποθήκη ασφάλειας 
+εγγράφων 
+DTBS 
+data to be signed 
+δεδομένα προς υπογραφή 
+DTBSF 
+data to be signed formatter 
+μορφοτυπητής δεδομένων προς υπογραφή 
+DTBSR 
+data to be signed representation 
+παράσταση δεδομένων προς υπογραφή 
+DTD 
+document type definition 
+ορισμός τύπου τεκμηρίου, ορισμός τύπου εγγράφου 
+DVC 
+domain validation certificate 
+πιστοποιητικό επικύρωσης τομέα 
+DVCP 
+domain validation certificate policy 
+πολιτική πιστοποίησης επικύρωσης τομέα 
+EA 
+European Cooperation for 
+Accreditation 
+Ευρωπαϊκή Συνεργασία για την Διαπίστευση 
+EAL 
+evaluation assurance level 
+στάθμη διασφάλισης αξιολόγησης 
+EAP 
+extensible authentication protocol 
+επεκτάσιμο πρωτόκολλο επαλήθευσης ταυτότητας 
+EC 
+European Commission 
+Ευρωπαϊκή Επιτροπή 
+EC 
+elliptic curve 
+ελλειπτική καμπύλη 
+ECC 
+elliptic curve cryptography 
+κρυπτογραφία ελλειπτικής καμπύλης 
+ECDSA 
+elliptic curve digital signature 
+algorithm 
+αλγόριθμος ψηφιακής υπογραφής ελλειπτικής 
+καμπύλης 
+ECGDSA 
+elliptic curve German digital signature 
+algorithm 
+γερμανικός αλγόριθμος ψηφιακής υπογραφής 
+ελλειπτικής καμπύλης 
+EDS 
+Electronic Delivery Service 
+υπηρεσία ηλεκτρονικής παράδοσης 
+EEA 
+European Economic Area 
+Ευρωπαϊκός Οικονομικός Χώρος, ΕΟΧ 
+EL 
+Greece 
+NOTE: Alpha 2 country code for 
+Greece, ISO 3166-1 [i.15] 
+Ελλάδα 
+ΣΗΜΕΙΩΣΗ: Alpha 2 κωδικός χώρας για την Ελλάδα, 
+ISO 3166-1 [i.15] 
+EN 
+European Norm Standard 
+Ευρωπαϊκό Πρότυπο 
+ENISA 
+European Union Agency for Network 
+and Information Security 
+Υπηρεσία της Ευρωπαϊκής Ένωσης για την Ασφάλεια 
+Δικτύων και Πληροφοριών 
+8 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+EPES 
+explicit policy-based electronic 
+signature 
+εμφανής πολιτικοπαγής ηλεκτρονική υπογραφή 
+ER 
+evidence record 
+εγγραφή αποδεικτικών στοιχείων 
+ERS 
+evidence record syntax 
+σύνταξη εγγραφής αποδεικτικών στοιχείων 
+EU 
+European Union 
+Ευρωπαϊκή Ένωση 
+EUMS 
+European Union member states 
+κράτη μέλη της Ευρωπαϊκής Ένωσης 
+EVC 
+extended validation certificate 
+πιστοποιητικό επεκτεταμένης επικύρωσης 
+EVCG 
+extended validation certificate 
+guidelines 
+κατευθυντήριες οδηγίες πιστοποιητικού 
+επεκτεταμένης επικύρωσης 
+EVCP 
+extended validation certificate policy 
+πολιτική πιστοποιητικών επεκτεταμένης επικύρωσης 
+FTP 
+file transfer protocol 
+πρωτόκολλο μεταφοράς αρχείων 
+GCC 
+Gulf Cooperation Council 
+Συμβούλιο Συνεργασίας του Κόλπου 
+GMST 
+Greenwich Mean Sidereal Time 
+μέσος αστρικός χρόνος Γκρίνουιτς, μέση αστρική 
+ώρα Γκρίνουιτς 
+GMT 
+Greenwich Mean Time 
+μέση ώρα Γκρίνουιτς, μέσος χρόνος Γκρίνουιτς 
+Gov2B 
+government to business 
+κυβέρνηση προς επιχείρηση 
+Gov2C 
+government to consumer 
+κυβέρνηση προς καταναλωτή 
+GTC 
+general terms & conditions 
+γενικοί όροι και συνθήκες 
+HTML 
+hypertext markup language 
+γλώσσα υπερκειμενικής σήμανσης 
+HTTP 
+hypertext transfer protocol 
+πρωτόκολλο υπερκειμενικής μεταφοράς 
+IAF 
+International Accreditation Forum 
+Διεθνές Φόρο Διαπίστευσης 
+IERS 
+International Earth Rotation and 
+Reference System Service 
+Διεθνής Υπηρεσία Περιστροφής της Γης και 
+Συστήματος Αναφοράς 
+IETF 
+Internet Engineering Task Force 
+Ομάδα Έργου Μηχανίκευσης Ίντερνετ 
+IPR 
+intellectual property rights 
+δικαιώματα πνευματικής ιδιοκτησίας 
+ISO 
+International Organization for 
+Standardization 
+Διεθνής Οργανισμός Τυποποίησης 
+IT 
+information technology 
+Τεχνολογία Πληροφοριών 
+KEA 
+key encipherment or agreement 
+κλειδιακή κρυπτογράφηση ή συμφωνία, κλειδιακή 
+κρυπτοθέτηση ή συμφωνία 
+LCP 
+lightweight certificate policy 
+πολιτική ελαφρού πιστοποιητικού 
+LDAP 
+lightweight directory access protocol 
+ελαφρό πρωτόκολλο πρόσβασης καταλόγου 
+LF 
+line feed 
+τροφοδότηση γραμμής 
+LoA 
+level of assurance 
+στάθμη διασφάλισης 
+LOTL 
+list of trusted lists 
+κατάλογος εμπιστευμένων καταλόγων 
+LTV 
+long term validation 
+μακροχρόνια επικύρωση 
+MS 
+member state 
+κράτος μέλος 
+NCP 
+normalized certificate policy 
+πολιτική κανονικοποιημένου πιστοποιητικού 
+NCP+ 
+extended normalized certificate policy 
+επεκτεταμένη πολιτική κανονικοποιημένου 
+πιστοποιητικού 
+9 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+NIST 
+National Institute of Standards and 
+Technology 
+Εθνικό Ινστιτούτο Προτύπων και Τεχνολογίας {ΗΠΑ} 
+NR 
+non-repudiation 
+αναποκηρυξία 
+NRNG 
+non-deterministic random number 
+generator 
+μη αιτιοκρατική γεννήτρια τυχαίων αριθμών 
+OCF 
+OEBPS container format 
+μορφότυπο περιέκτη OEBPS 
+OCSP 
+online certificate status protocol 
+πρωτόκολλο στάτου επιγραμμικού πιστοποιητικού 
+ODF 
+open document format 
+μορφότυπο ανοικτού εγγράφου, μορφότυπο ODF 
+OEBPS 
+open ebook publication structure 
+δομή δημοσίευσης ανοικτών ηλεκτρονικών βιβλίων  
+OID 
+object identifier 
+αναγνωριστικό αντικειμένου 
+OJEU 
+Official Journal of the European Union 
+Επίσημη Εφημερίδα της Ευρωπαϊκής Ένωσης 
+OVC 
+organizational validation certificate 
+πιστοποιητικό οργανωτικής επικύρωσης 
+OVCP 
+organizational validation certificate 
+policy 
+πολιτική πιστοποιητικών οργανωτικής επικύρωσης 
+PDF 
+portable document format 
+μορφότυπο φορητού εγγράφου, μορφότυπο PDF 
+PDS 
+policy disclosure statement 
+δήλωση γνωστοποίησης πολιτικής 
+PER 
+packed encoding rules 
+κανόνες συμπυκνωμένης εγκωδίκευσης 
+PIN 
+personal identification number 
+προσωπικός αριθμός αναγνώρισης 
+PKC 
+public key certificate 
+πιστοποιητικό δημόσιου κλειδιού 
+PKCS 
+public-key cryptography standard 
+πρότυπο κρυπτογραφίας δημόσιου κλειδιού 
+PKI 
+public key infrastructure 
+υποδομή δημόσιου κλειδιού 
+POE 
+proof of existence 
+απόδειξη ύπαρξης 
+PSES 
+Preservation Service for Electronic 
+Signatures 
+υπηρεσία διατήρησης ηλεκτρονικών υπογραφών 
+PSS 
+probabilistic signature scheme 
+πιθανοτικό σχήμα υπογραφής 
+PTC 
+publicly-trusted certificate 
+δημόσια εμπιστευμένο πιστοποιητικό 
+QC 
+qualified certificate 
+αξιολογημένο πιστοποιητικό 
+QCP 
+qualified certificate policy 
+πολιτική αξιολογημένων πιστοποιητικών 
+QCP-l 
+policy for EU qualified certificate 
+issued to a legal person 
+πολιτική για αξιολογημένο πιστοποιητικό κατά ΕΕ 
+που χορηγείται σε νομικό πρόσωπο 
+QCP-n 
+policy for EU qualified certificate 
+issued to a natural person 
+πολιτική για αξιολογημένο πιστοποιητικό κατά ΕΕ 
+που χορηγείται σε φυσικό πρόσωπο 
+QCP-w 
+policy for EU qualified certificate 
+issued to a web site 
+πολιτική για αξιολογημένο πιστοποιητικό κατά ΕΕ 
+που χορηγείται σε ιστότοπο 
+QSCD 
+qualified electronic signature creation 
+device 
+διάταξη δημιουργίας αξιολογημένης ηλεκτρονικής 
+υπογραφής 
+QSCD 
+qualified electronic seal creation 
+device 
+διάταξη δημιουργίας αξιολογημένης ηλεκτρονικής 
+σφραγίδας 
+RA 
+registration authority 
+αρχή καταχώρησης 
+REM 
+registered electronic mail 
+καταχωρημένο ηλεκτρονικό ταχυδρομείο 
+REM-MD 
+REM management domain 
+τομέας διαχείρισης REM 
+10 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+RFC 
+request for comments 
+αίτηση σχολιασμού 
+RGS 
+référentiel général de sécurité 
+γενικό σύστημα αναφοράς ασφάλειας 
+RNG 
+random number generator 
+γεννήτρια τυχαίων αριθμών 
+RSA 
+Rivest, Shamir and Adleman algorithm 
+αλγόριθμος Rivest, Shamir και Adleman 
+RTF 
+rich text format 
+μορφότυπο εμπλουτισμένου κειμένου, μορφότυπο 
+RTF 
+SAV 
+signature acceptance validation 
+επικύρωση αποδοχής υπογραφής 
+SCA 
+signature creation application 
+εφαρμογή δημιουργίας υπογραφής 
+SCD 
+signature creation data 
+δεδομένα δημιουργίας υπογραφής 
+SCDev 
+signature creation device 
+διάταξη δημιουργίας υπογραφής 
+SCE 
+signature creation environment 
+περιβάλλον δημιουργίας υπογραφής 
+SCS 
+signature creation system 
+σύστημα δημιουργίας υπογραφής 
+SD 
+signer's document 
+έγγραφο υπογράφοντος 
+SDO 
+signed data object 
+αντικείμενο υπογεγραμμένων δεδομένων 
+SDR 
+signer's document representation 
+παρουσίαση εγγράφου υπογράφοντος 
+SGML 
+standard generalized markup language 
+πρότυπη γλώσσα γενικευμένης σήμανσης 
+SHA 
+secure hash algorithm 
+αλγόριθμος ασφαλούς κατακερματισμού 
+NIST 
+National Institute of Standards and 
+Technology {USA} 
+Εθνικό Ινστιτούτο Προτύπων και Τεχνολογίας {ΗΠΑ} 
+SP NIST 
+NIST special publication 
+ειδική δημοσίευση NIST 
+SSCD 
+secure signature creation device 
+διάταξη δημιουργίας ασφαλούς υπογραφής 
+SSL 
+secure socket layer 
+στρώμα ασφαλών υποδοχών 
+SVA 
+signature validation application 
+εφαρμογή επικύρωσης υπογραφής 
+TA 
+trust anchor 
+αγκύρωση εμπίστευσης 
+TAB 
+TABulator 
+πινακοποιητής 
+TAI 
+international atomic time 
+διεθνής ατομική ώρα, διεθνής ατομικός χρόνος 
+TC 
+technical committee 
+τεχνική επιτροπή 
+TDP TL 
+TL distribution point 
+σημείο διανομής TL 
+TL 
+trusted list 
+εμπιστευμένος κατάλογος 
+TLS 
+transport layer security 
+ασφάλεια στρώματος μεταφοράς 
+TLS/SSL 
+transport layer security/secure socket 
+layer protocol 
+ασφάλεια στρώματος μεταφοράς/πρωτόκολλο 
+στρώματος ασφαλών υποδοχών 
+TLSO 
+trusted list scheme operator 
+φορέας λειτουργίας σχήματος εμπιστευμένου 
+καταλόγου 
+ToC 
+table of contents 
+πίνακας περιεχομένων 
+TR 
+technical report 
+τεχνική έκθεση 
+TrST 
+trust service token 
+έκφανση υπηρεσίας εμπίστευσης 
+TS 
+technical specification 
+τεχνική προδιαγραφή 
+TS 
+trust service 
+υπηρεσία εμπίστευσης 
+11 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+TSA 
+time-stamping authority 
+αρχή χρονοσφράγισης 
+TSL 
+trust-service status list 
+κατάλογος στάτου υπηρεσίας εμπίστευσης 
+TSLSO 
+trust service status list scheme 
+operator 
+φορέας λειτουργίας σχήματος καταλόγου στάτου 
+υπηρεσίας εμπίστευσης 
+TSP 
+trust service provider 
+παροχέας εμπιστευμένων υπηρεσιών 
+TST 
+time-stamp token 
+έκφανση χρονοσφραγίδας 
+TSTA 
+time-stamp token applied in an archive 
+level of CAdES signature or XAdES 
+signature 
+έκφανση χρονοσφραγίδας που εφαρμόζεται σε 
+στάθμη αρχειοθήκης υπογραφής CAdES ή 
+υπογραφής XAdES 
+TSTT-Level 
+time-stamp token applied in a T-Level 
+of CAdES signature or XAdES 
+signature 
+έκφανση χρονοσφραγίδας που εφαρμόζεται σε 
+στάθμη T υπογραφής CAdES ή υπογραφής XAdES 
+TSU 
+time-stamping unit 
+μονάδα χρονοσφράγισης 
+UA 
+user agent 
+πράκτορας χρήστη 
+UCF 
+universal container format 
+καθολικό μορφότυπο περιέκτη 
+UCS 
+universal character set 
+καθολικό σύνολο χαρακτήρων, καθολικό 
+χαρακτηροσύνολο 
+UK 
+United Kingdom 
+NOTE: Alpha 2 country code for Great-
+Britain, ISO 3166-1 [i.15] 
+Ηνωμένο Βασίλειο 
+ΣΗΜΕΙΩΣΗ: Alpha 2 κωδικός χώρας για τη Μεγάλη 
+Βρετανία, ISO 3166-1 [i.15] 
+UML 
+unified modelling language 
+ενοποιημένη γλώσσα μοντελοποίησης 
+URI 
+uniform resource identifier 
+ομοιόμορφο αναγνωριστικό πόρων 
+URL 
+uniform resource locator 
+ομοιόμορφος εντοπιστής πόρων 
+URN 
+uniform resource name 
+ομοιόμορφο όνομα πόρων 
+UTC 
+coordinated universal time 
+παγκόσμια συντονισμένη ώρα, παγκόσμιος 
+συντονισμένος χρόνος 
+UTF 
+Unicode transformation format 
+μορφότυπο μετασχηματισμού Unicode 
+VCI 
+validation context initialization 
+αρχικοθέτηση συγκειμένου επικύρωσης 
+VRI 
+validation related information 
+πληροφορίες σχετικές με επικύρωση 
+WWW 
+World Wide Web 
+Παγκόσμιος Ιστός, Ιστός 
+WYSIWHBS 
+what you see is what has been signed 
+ό,τι βλέπεις είναι ό,τι έχει υπογραφεί 
+WYSIWYS 
+what you see is what you sign 
+ό,τι βλέπεις είναι ό,τι υπογράφεις 
+XER XML 
+encoding rules 
+κανόνες εγκωδίκευσης 
+XHTML 
+extended HTML 
+επεκτεταμένη HTML 
+XML 
+extensible markup language 
+επεκτάσιμη γλώσσα σήμανσης 
+XMLDSIG 
+extensible markup language digital 
+signature 
+ψηφιακή υπογραφή επεκτάσιμης γλώσσας 
+σήμανσης, ψηφιακή υπογραφή XML 
+XSLT 
+extensible stylesheet language 
+transformations 
+μετασχηματισμοί επεκτάσιμης γλώσσας φύλλων 
+τεχνοτροπίας 
+ 
+ 

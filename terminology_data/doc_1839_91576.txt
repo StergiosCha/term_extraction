@@ -1,0 +1,46 @@
+SOURCE: http://www.eleto.gr/download/TermBases/SENSOTERM_History-EN.pdf
+
+SENSOTERM: 
+Termbase of Sensory Analysis 
+Resulting from the work of cooperation between GESY of ELETO 
+and Consumer and Sensory Lab of the University of the Aegean 
+ 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+March 2023 
+ 
+Short history of the Termbase SENSOTERM 
+ 
+The Termbase SENSOTERM is quadrilingual (Greek, English, French and German terms) and was created, 
+in 2023, by Kostas Valeontis, president of the Hellenic Society for Terminology (ELETO) and chairman of 
+ELETO’s Scientific Board (GESY) in order to import all the English, Greek, French and German equivalent 
+terms of the Alphabetical English-Greek-French-German glossary of terms of Sensory Analysis (286 entries), 
+which was prepared by Kostas Valeontis, George Tsiamas and Malamatenia Panagiotou, based on the 
+sources: ISO 5492:2008 Sensory analysis – Vocabulary και English-Greek-Glossary of terms and concept 
+definitions of Sensory Analysis. The latter has been prepared by GESY in cooperation with the Consumer 
+and Sensory Lab of the University of the Aegean. 
+The development, operation, maintenance and feeding of SENSOTERM is performed by its creator himself, 
+who has also the responsibility for the content of ELETO’s website. Searching via the Termbank of the 
+website has been ensured by Nikos Valeontis, the IT administrator of the website. Thus, free accessing and 
+searching the Termbase SENSOTERM is available on the Internet, via ELETO’s website. 
+The field structure of the Termbase SENSOTERM comprises the following basic fields (which, in each entry, 
+correspond to a single concept): 
+BASIC FIELDS OF SENSOTERM  
+English term 
+English abbreviation 
+Greek term 
+Greek abbreviation 
+French term 
+French abbreviation 
+German term 
+German abbreviation 
+Foreign language reference source 
+Greek language reference source 
+Stage of processing 
+ 
+Today, the termbase SENSOTERM contains 286 terminological entries of sensory analysis. 
+ 

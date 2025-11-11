@@ -1,0 +1,660 @@
+SOURCE: http://www.eleto.gr/download/Conferences/8th%20Conference/Papers/8th_12-26_SotiropoulouEirini_paper3_V01.pdf
+
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+ 
+Economic activity in Greece without official currency:  
+The terms and their economies 
+    
+Irene Sotiropoulou 
+ABSTRACT 
+This paper belongs to an ongoing PhD research project, titled “Exchange Networks and Parallel 
+Currencies: Theoretical approaches and the case of Greece”, which is already in its third-year phase. 
+The project comprises both theoretical study and field research and it focuses on economic activity in 
+Greece which is performed without the use of any official currency. The research faces severe 
+terminology problems, which may be categorised, for analytical purposes only, in: 
+a)  
+the terms used to describe the activity itself in one language. 
+b)  
+the terms used in Greek to describe this activity in comparison to the terms used in other 
+languages for same or quite similar activities. 
+c)  
+the academic terminology on international level concerning all this economic activity and the 
+major problem that this terminology refers to currencies only but not to the rest of the activity. 
+d)  
+the inexistent academic terminology in Greek for all this economic activity, as the latter has not 
+been systematically studied on academic level so far. 
+e)  
+the peculiarity of Greek terms already used to describe this activity: not only English or French 
+terms are used, either translated or even transcribed into Greek language as they are, but also 
+several terms seem to be probably originating in Turkish, or other languages. 
+At the beginning of the research, it seemed that the choice of terminology was a practical issue, which 
+would simply enable the researcher to create a concise view of the topic studied. However, the more the 
+research advanced, the more the terms used acquired a power of their own; they created questions well 
+linked to a multi-dimensional viewing of the economy and at the end, they “demand” to “talk economics” 
+on behalf of their users.  
+Οικονομική δραστηριότητα στην Ελλάδα χωρίς επίσημο νόμισμα:  
+Οι όροι και οι οικονομίες τους 
+ 
+Ειρήνη Σωτηροπούλου 
+ΠΕΡΙΛΗΨΗ 
+Η παρούσα εργασία ανήκει σε ένα πρόγραμμα διδακτορικής έρευνας, με τίτλο «Δίκτυα Ανταλλαγής και 
+Παράλληλα Νομίσματα: Θεωρητικές προσεγγίσεις και το παράδειγμα της Ελλάδας», το οποίο βρίσκεται 
+ήδη στο τρίτο έτος του προγράμματος. Το πρόγραμμα περιλαμβάνει θεωρητική μελέτη και έρευνα 
+πεδίου και ασχολείται με την οικονομική δραστηριότητα στην Ελλάδα από το 2009 και μετά που 
+πραγματοποιείται χωρίς τη χρήση κανενός επισήμου νομίσματος: παράλληλα νομίσματα, δίκτυα και 
+ομάδες ανταλλαγής, χαριστικά-ανταλλακτικά παζάρια, χαριστικά δίκτυα, αλλά και ιδιότυπα σχήματα που 
+δεν κατατάσσονται σε άλλες κατηγορίες. Η έρευνα αντιμετωπίζει σοβαρά ορολογικά προβλήματα, τόσο 
+από την άποψη της χρήσης εννοιών από τους συμμετέχοντες στην έρευνα, όσο και από την χρήση των 
+εννοιών στη συγγραφή της διατριβής. Τα προβλήματα αυτά μπορούν να διακριθούν, για διευκόλυνση 
+της ανάλυσης και μόνο, στις ακόλουθες κατηγορίες:  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+2
+α)  όροι που χρησιμοποιούνται για να περιγράψουν τη δραστηριότητα καθ’ αυτή σε μια γλώσσα. 
+Στην πραγματικότητα η έρευνα δείχνει ότι ένας όρος όχι μόνο δεν είναι μονοσήμαντος, αλλά 
+μπορεί και να καλύπτει διάφορες περιπτώσεις οικονομικής δραστηριότητας, ανάλογα με τις 
+περιστάσεις, συνθέτοντας μια διαφορετική εικόνα για τη δραστηριότητα αυτή, από εκείνη που 
+έχουμε συνήθως στην καθομιλουμένη ή ακόμη και στα ακαδημαϊκά κείμενα.   
+β)  όροι που χρησιμοποιούνται στην Ελληνική για να περιγραφεί αυτή η δραστηριότητα σε σύγκριση 
+με τους όρους που χρησιμοποιούνται σε άλλες γλώσσες για ίδιες ή κατά βάση παρόμοιες 
+δραστηριότητες. Ακόμη και λέξεις που, θεωρητικά, έχουμε δυνατότητα να μεταφράσουμε 
+επακριβώς από/προς την Ελληνική, αποδεικνύεται ότι αντιστοιχούν σε πολύ διαφορετικές 
+έννοιες και οικονομίες όταν έρχεται η στιγμή να διερευνήσουμε το νόημά τους στην Ελληνική και 
+σε μια άλλη γλώσσα.  
+γ) 
+ακαδημαϊκή ορολογία σε διεθνές επίπεδο, που αφορά σε όλην αυτήν την οικονομική 
+δραστηριότητα και το μείζον πρόβλημα, ότι αυτή η ορολογία αναφέρεται σε νομίσματα μόνο και 
+όχι στην υπόλοιπη δραστηριότητα. Η διεθνής ακαδημαϊκή ορολογία δεν έχει έννοιες που 
+μπορούν να χρησιμοποιηθούν για το μεγαλύτερο μέρος της οικονομικής δραστηριότητας που 
+μελετάει η έρευνα, δηλαδή συναλλαγές χωρίς κανένα νόμισμα. Κατά συνέπεια, ακόμη και η 
+μετάφραση των χρησιμοποιούμενων εννοιών από την Ελληνική σε μια άλλη γλώσσα καθίσταται 
+προβληματική, δεδομένου ότι οι λέξεις αναφέρονται σε φαινόμενα που, εξ όσων γνωρίζουμε 
+μέχρι στιγμής, έχουν μελετηθεί μόνο στην Ελλάδα.  
+δ)  
+ανύπαρκτη ακαδημαϊκή ορολογία στην Ελληνική για όλην αυτήν την οικονομική δραστηριότητα, 
+καθώς δεν έχει μελετηθεί συστηματικά μέχρι στιγμής σε ακαδημαϊκό επίπεδο. Η δυσκολία της 
+οριοθέτησης των εννοιών καθίσταται τεράστια, αφού γίνεται τελικά σε πρωτόλειο επίπεδο. Αυτό 
+συνδέεται άμεσα με το ότι η μελετώμενη δραστηριότητα δεν είχε ερευνηθεί προηγουμένως στην 
+Ελλάδα, οπότε η έλλειψη αντικατοπτρίζεται και στην ακαδημαϊκή ορολογία.  
+ε) 
+η ιδιαιτερότητα των ελληνικών όρων που ήδη χρησιμοποιούνται για να περιγράψουν αυτή τη 
+δραστηριότητα: όχι μόνο χρησιμοποιούνται αγγλικοί ή γαλλικοί όροι, είτε μεταφρασμένοι είτε 
+μεταγεγραμμένοι στην Ελληνική γλώσσα, όπως αυτοί είναι, αλλά αρκετοί όροι φαίνεται να 
+έλκουν την καταγωγή τους στην Τουρκική ή σε άλλες γλώσσες. Με αυτήν την έννοια, κανείς 
+συναντά έναν πλούτο εννοιών που δεν γνωρίζαμε ότι υπάρχει σχετικά με την οικονομία, αλλά 
+και ανακαλύπτουμε ότι αυτές οι έννοιες χρησιμοποιούνται πλέον για να αποδώσουν και 
+δραστηριότητες που πριν μερικά χρόνια είτε δεν υπήρχαν είτε υπήρχαν με διαφορετική μορφή.  
+Στην αρχή του προγράμματος, υπήρχε η εντύπωση ότι η επιλογή της ορολογίας ήταν ένα πρακτικό 
+ζήτημα, που θα επέτρεπε απλώς στην ερευνήτρια να δημιουργήσει μια συνοπτική θεώρηση του 
+μελετωμένου αντικειμένου. Εντούτοις, όσο η έρευνα προχωρούσε, τόσο οι όροι αποκτούσαν τη δική 
+τους ισχύ: έδειξαν ότι υπάρχουν πολλά ζητήματα ορολογίας των οποίων η λύση δεν είναι δεδομένη  και 
+σίγουρα δεν μπορεί να βρεθεί στα πλαίσια της τρέχουσας διατριβής. Την ίδια στιγμή, οι όροι που 
+χρησιμοποιούνται στην έρευνα δημιούργησαν ερωτήσεις σαφώς συνδεδεμένες σε μια πολυδιάστατη 
+θεώρηση της οικονομίας, που δεν είχαμε κατά την έναρξη του προγράμματος, και τελικά, «απαιτούν» να 
+«μιλήσουν για τα οικονομικά» για λογαριασμό όσων τους χρησιμοποιούν.  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+3
+ 
+    “The question is,” said Alice, “whether you can make words mean so many different things.” 
+    “The question is,” said Humpty Dumpty, “which is to be master      that’s all.” 
+ 
+L. Carroll, Through the looking-glass 
+ 
+0   Introduction: The scope of the research project  
+This paper belongs to a larger research project (the PhD research project of the author) 
+titled “Exchange Networks and Parallel Currencies: Theoretical approaches and the case of 
+Greece”, which studies economic activity without the use of any official currency. The criteria 
+used to include a phenomenon into the object of the research have been: that the 
+transactions take place without the use of any type of money or that the currency used in the 
+transactions is not official, e.g. not created by a state authority; that the transactions, even 
+those who just give away stuff for free, are not performed within the framework of charity; 
+finally, that the transactions are not performed among friends or relatives because of their 
+relation of kinship or friendship1.  
+By the term “exchange networks” we mean structures which facilitate non-monetary 
+exchange for their members and they are either of general nature or specialised in one 
+sector of activity. The term free-exchange bazaar (χαριστικό-ανταλλακτικό παζάρι) 
+[charistiko-antallaktiko pazari] is the one used for bazaars where people can bring things 
+(clothes, petty machines, shoes, toys, books, CDs, furniture, etc) to exchange them or just 
+give them away and take anything they believe it is useful to them. The free networks are 
+online only; their members notify when they want to give something away for free or when 
+they need anything that might be available but not yet announced online, and they get 
+instantly notified when something is disposed by any network member.  
+By “parallel currencies” we mean any currency used by people in transactions, without this 
+being official in any country. A parallel currency might have only a virtual or digital 
+appearance (f.ex. units credited in a computer database) or it might take a physical 
+appearance in notes, issued by the currency users. There are several types of parallel 
+currencies, but one could distinguish them into three main categories2: time banks3, where 
+all transactions are accounted in terms of working hours without having various prices for 
+                                                 
+1  
+Of course, in some cases there are already or there are being created relations of kinship or 
+friendship within the schemes, but those are not a necessary nor a sufficient condition for the 
+transaction to take place.  
+2  
+Those categories are rather schematic. Most current schemes around the world tend to adopt local 
+characteristics or to combine features of various currency types, so that the users or the local 
+community can cover their specific needs.  
+3  
+For more information, see www.timebanks.org/ & http://timebank.org.uk/. 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+4
+different types of work; virtual currencies, like Local Exchange Trading Systems1 or the 
+Swiss Wirtschaftsring2, in which the parallel currency is an accounting unit created and 
+eliminated according to production and use/consumption of a product and services – and of 
+course in this type of currency, there is possibility for variety of prices; and currencies which 
+take material form but at the same time are managed by a committee or the entire 
+community (like Ithaca Hours3 or the Chiemgauer currency4) and their quantity and 
+redemption are linked to the entire local or community economy and not to the economic 
+activity of each of its users as producers and consumers. The important feature of parallel 
+currencies is that they have no (positive) interest rate, so loans are without interest 
+payments and currency accumulation is not encouraged.  
+Therefore, the research project examines parallel currencies, exchange networks and free 
+bazaars, most of which emerged the very last years in Greece and still emerge and develop, 
+especially since 2009 onwards. Moreover, some sui generis initiatives have been included, 
+despite the fact that they cannot be categorised into any of the already mentioned scheme 
+types.  
+The research is as a three-stage project which combines fieldwork and theoretical study. 
+Moreover, qualitative and quantitative methods of data collection have been selected in 
+order that a more global and detailed image of this economic activity is concluded out of the 
+research results.  These combinations (fieldwork and theoretical study, qualitative and 
+quantitative methods) have been necessary because the related literature is very limited and 
+the schemes studied are choices and activities that cannot be easily explained, given that 
+there is not any thoroughly elaborated theoretical framework in economics to explain such 
+activity.  
+This paper explores the issues that have been raised concerning terminology used in the 
+schemes but mostly, concerning the terms used by the author in describing and analysing 
+the economic activity studied.   
+1   Terminology issues: the power of words  
+Terminology is not yet fixed in this field and actually, it is very common that each author 
+uses terms in the way the author herself/himself perceives. This is not bad a feature in itself, 
+in the sense that we still are in this adventurous phase where authors, experts, students and 
+                                                 
+1  
+For more information, see http://www.letslinkuk.net/ . 
+2  
+For more information, see http://www.wir.ch/index.cfm?BFE9B56235A311D6B9940001020761E5. 
+WIR currency has been “circulating” in Switzerland since 1934. 
+3  
+For more information, see http://www.ithacahours.com/.  
+4  
+For more information, see http://www.chiemgauer.info/.  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+5
+activists argue and fight over meanings for an entire sector of social activity. This reveals not 
+only the vivid nature of the activity, but also the multiple struggles taking place around or by 
+the means of the activity itself concerning theory and meanings.  
+Therefore, at the beginning of the PhD programme I was… unaware enough of the urgency 
+the terminology problems might have. Instead, it seemed that the choice of terminology 
+would be a practical issue, rather a simple tool to write down the findings of the research 
+and a way to enable the researcher to have a better global view of the activity researched. 
+Being a student has been a good excuse to try to keep up with the terminology mainstream 
+choices – however, research itself proved that there is no easy way with words.  
+As a consequence, the more the research was advancing, especially after the second year, 
+where the first theoretical arguments had been constructed and the interviews of the first 
+phase of the research have been conducted, the more any choice of words has been proved 
+crucial. It seemed that words had started to acquire a power of their own, as if each of them 
+was calling to look at a different point of the horizon. In that sense, each word has been a 
+petition to express a certain view about the economy, to challenge economics as a science 
+and to suggest that in “real world”, there is an amazing multi-dimensional viewing of the 
+economy, far beyond what I could have imagined at the beginning of the project.  
+In other words, the research is full of issues concerning the terms used. One could also say 
+that I would need another PhD dissertation for the terms only. Given, however, that this 
+could not be possible, I decided that the least I can do within this project is to point out the 
+terminology problems I am facing and find out some hints for further study later, after the 
+dissertation is over.  
+For analytical purposes only, the terminology issues of my project have been distinguished 
+among several categories, although it is not possible to say whether we could really decide 
+that one category is a separate issue from the rest.  
+1.a   One language, several terms 
+Even if one wanted to use generic terms about the activity I am studying, this would not be 
+an easy venture.  
+First, because “by habit” we tend to easily think anything beyond the official currency as 
+barter. I write barter here, although in Greek we say “ανταλλαγή” [antallagi], e.g. exchange. 
+However, exchange in English is also used for all transactions, including those involving 
+official currency.  
+Anyway, in Greek we also use “exchange” to connote all transactions without the use of 
+official currency. In some cases we use the idea of “non-monetary” [αχρήματες/μη 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+6
+χρηματικές συναλλαγές] transactions so that at least we are able to mean bilateral and multi-
+lateral barter. However, non-monetary is not covering a major part of the activity studied, 
+which is monetary whatsoever. It is not a coincidence that the title of the dissertation 
+comprises both exchange networks and parallel currencies, given that in reality, there are 
+schemes which use non-official currencies.  
+At the end, I started to use the phrase “transactions without official currency” to present in as 
+few as possible words the topic of the dissertation. However, this is not even an exact term 
+of the activity, because, as already mentioned, the dissertation does not comprise charity 
+transactions or any transactions made among friends or relatives because of the friend or 
+family relationship. Therefore, in all cases, even when I use the phrase “transactions without 
+official currency” or “economic activity without the euro” I always need to explain the above 
+about the scope of the research1.  
+Apart from that, I realised that even when I am not trying to explain terms from one language 
+in relation to another, there is no clear image about those same terms in one language. For 
+example, when we say barter in English or “exchange” in Greek, we mean usually that two 
+people offer and receive at the same time what each party has agreed for the transaction. In 
+real world, this picture is one possible only for barter: time of offers and provisions may vary 
+and this can be an inherent feature of the transaction, f.ex. when the goods offered are 
+produce of earth, the transaction performance follows the natural cycles of seasons. 
+Moreover, people are not really independent individuals searching alone in the world for the 
+best deal: they are usually members of multi-member households with a variety of needs, so 
+it is common that a person offers today a service and as a reward asks for a good that will 
+be used by the old parents living nearby. Or, it is also possible that exchanges are not equal 
+in terms of quantity, quality or (any type of) value, but people keep participating in the 
+transactions because they are neighbours, or because they feel that they cannot ask for 
+more under certain conditions of hardship of the other party, or because they are sure about 
+the quality of the goods and services received, despite the high cost they might have, etc. 2 
+A transaction without official currency assists people in taking into account all the above 
+features of real economy, because there is no clear-cut price-taking situation as it exists in 
+conventional economy. People (seem to) become more independent of prices or general 
+economic valuings when they can form a transaction without official currency. Therefore, the 
+stereotype of barter or exchange does not hold in the transactions I am studying. How one 
+                                                 
+1  
+Sotiropoulou, I. (2011c).  
+2  
+Sotiropoulou, I. (2010b, 2011a, 2011b). 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+7
+could show this by the term usually connected to that stereotype? 
+Another term which arrives to be used for certain cases only is countertrade. In Greek it is 
+usually translated as “ανταλλακτικό εμπόριο” [antallaktiko emporio]. Countertrade is often 
+used for barter taking place among companies, usually on international business level1. 
+“Εμπόριο” [emporio] means “trade”, which is not that common in the schemes I am studying. 
+Producing for trading exists just like there exist companies or professionals participating in 
+the schemes, but trade is not the main feature of the schemes. Therefore, I do not use 
+“countertrade” or “ανταλλακτικό εμπόριο” especially because companies and professionals 
+are not trading among themselves only. In most cases they participate in the schemes along 
+with individuals and households and in many cases, given that companies are run by 
+humans, they even compromise their profit-seeking picture they have in formal economics, 
+with activities that might seem like a charity or a “stepping back” from the profit-seeking 
+major aim of economic activity according to economic literature.  
+1.b   Greek terms in comparison to terms used in other languages 
+I am writing my dissertation in English and this has been a choice for making the publication 
+and critique of results quick, because the original texts would be immediately accessible to 
+the academic community even outside Greece. However, this choice made me realise that 
+Greek and English languages, but also Greek and other languages used in the same 
+economic field (mostly French and Spanish) have important features that make the 
+translation of essential terms very difficult or even impossible.  
+One major difference is the word “economy” itself. In Greek the word is a composed one: 
+“οικονομία”2 [oikonomia], from the words οίκος [oikos] and νόμος/νέμω [nomos/nemo]. Oikos 
+is in Greek for “household”, nomos is law and nemo is “to share, to divide, to manage, to 
+possess” 3. As a consequence, economy in Greek means sharing within the household or 
+making law within the household. It is very important to say that in Greek language law is 
+directly connected to sharing. So, distribution is inherent in economy and household is 
+inherent as the space and analytical tool concernıng the economy. However, despite the use 
+of this same word in classical and modern economics, the agents in economic literature are 
+independent individuals and not households, and instead of sharing and law-making, 
+competition and profit-seeking is the inherent idea of economy. The Greek word “oikonomia” 
+                                                 
+1  
+Liesch, P.W. & Palia, A.P. (1999).  
+2  
+I used the dictionary of Greek language by Dimitrakos, D. (1936) p. 5052. However, it seems that 
+Taussig, M. (2010) at p. 118, discusses the same topic, not in its etymological aspects but in its 
+meanings.  
+3  
+Dimitrakos, D. (1936), p. 4868.  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+8
+is well fit with the schemes I study, if we take into account that they involve members of 
+households and in some cases, households as such. And competition is not the main 
+feature of the schemes, but sharing and distribution, if not redistribution.  
+Same problems I face with the notion of market. In Greek we use the term “αγορά”  [agora]1, 
+which in Homeric times meant “gathering” or “assembly”, in classical times it meant the 
+space where the assembly took place while at the same space there were taking place 
+selling and buying activities and in modern times it means the space where selling and 
+buying activities take place. In that sense, “market” and modern “agora” might be the same 
+notion and I should not worry that much.  
+However, after the first year of my research, my questions reached the core of both notions, 
+as I was asking whether the schemes are economies or markets (αγορές, agores) or 
+whether we could distinguish markets (agores) where we have prices, even if they are set in 
+parallel currencies, and economies, where we have productive activities without necessarily 
+any prices being involved.  
+At the third year of the research, I realised that the problem in not about whether we have 
+exact prices or not to know whether we have an economy or a market (agora), but the 
+problem was about the meaning of both notions in English and modern economics, built on 
+English language, and Greek and Greek economic reality, built on Greek language.  
+Therefore, the schemes are not only economies or part of economies, no matter whether 
+they fit the definition of economy of economics textbooks. They are also “agores”, in all three 
+possible meaning I mentioned above: they are gatherings and assemblies, they are places 
+where both assemblies and selling-buying activities take place and they are places where 
+one might encounter prices over the economic activities taking place. However, it would be 
+impossible to translate those “agores” into “markets”.  
+At the end, I would like to mention the problem which exists in Greek with the term  
+“νόμισμα” [nomisma] which in Greek means currency [monnaie, moneda]. There is no 
+counterpart for “money” in Greek. There is the notion of “χρήμα” [chrima] (meaning “that, 
+which is used or can be used” and it also meant in ancient times the material wealth of a 
+person) which in ancient times comprised all material wealth that could be used in a 
+transaction. But nomisma is not currency either. Nomisma stems from “nomizo”, which 
+means “I think, I create rules for, I legislate”. Therefore, nomisma is something that has been 
+legislated and something that has been thought of as such. Currency has the meaning of the 
+                                                 
+1  
+A very interesting analysis of the evolution of the term αγορά (agora) is found in Seaford, M. 
+(2003), pp. 178-184.  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+9
+flow and this is why it is used for all social transactions as well and not only for money. 
+However, nomisma is not for any other social transaction but for economic currency. Mostly, 
+it expresses the legislated economic currency1.  
+Therefore, it is very difficult to make those sharp distinctions in a dissertation written in 
+English about Greek economy. Even when I write about the transactions without the “official 
+currency” I mean nomisma with currency; while in English currency does not mean 
+necessarily the money made as such by legislation.  
+1.c   International academic terminology and the limits of currencies  
+As if I had not enough problems with terms in my project, international academic terminology 
+is not established yet on such type of economic activity. This has happened first because 
+the activity has been for years despised by academics and most economists ignore it as an 
+activity, under the pretext (or reason) that it does not belong to formal economy or it cannot 
+be measured as it would be needed for economic science.  
+The other issue is that given that the topic is relatively new for academics, each one 
+chooses the terms that better fit the ideas she/he means and the case studies she/he works 
+on. This is interesting in the sense that we can see different aspects of the same activity, 
+just by studying the terminology used. However, we cannot rely for academic terminology on 
+such unstable bases.  
+Therefore, one can find texts talking about same or similar schemes and using terms like 
+parallel currencies (monnaies parallèles), complementary currencies, alternative currencies, 
+community currencies, social currencies, local currencies etc. There has been proposed that 
+acronyms might be a solution for academics to overpass the problems of defining each time 
+the terms we use2.  
+However, complementarity is one thing and community is another, so I think that each term 
+used talks about different currencies, at least concerning their aims. It is possible that a 
+currency might also be complementary and alternative, and community-enhancing and 
+social, but it might not be all those features. So, each adjective might also be a possible 
+mistake concerning a certain scheme.  
+The major problem one could see from international academic literature is that there are 
+currencies but there are no other schemes, like exchange networks, or free bazaars or free 
+                                                 
+1  
+This discussion about currency and money (νόμισμα- χρήμα) is also based on long discussions I 
+have had with the members of ARTBANK on 17.12.2010 and 10.05.2011, because they work on 
+both those notions http://orizontasgegonotwn.blogspot.com/search/label/ArtBank.  
+2  
+A very interesting discussion on terminology concerning non-official currencies can be found at 
+Blanc, J. (2011).  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+10
+networks or even the sui generis schemes we have in Greece. It is important to say that till 
+now not even the activist texts have information about such initiatives or even if they have, 
+they just mention the exact name of the initiative without giving a generic name to it. So, 
+apart from mercados anónimos (anonymous markets) in the rural areas of Venezuela1, there 
+is nothing similar as a term for free bazaars in Greece.  
+Even if we put aside the entire argumentation why this lack of information exists, we cannot 
+but be amazed about the currency-monoculture of academic literature concerning 
+transactions without official currency in modern times. Barter is considered still in this 
+literature as primitive and inefficient, while in Greece, it seems that it holds a major part of 
+the activity without official currency2.  
+Therefore, writing about what I have found in Greece, I could not but write on schemes that 
+have never appeared in any academic literature concerning modern economies. Writing 
+directly in English made me to write in a language where the exact meanings of free bazaars 
+or exchange networks have been originating in an economy where economic agents do not 
+use English to perform the transactions. So, I know that those English terms are just 
+translation (and probably a bad one) from Greek terms and they might not ever acquire a 
+real meaning in the English language.  
+I am also very worried about my use of Greek terms, as I know that there is nothing to 
+compare them to, apart from what the schemes themselves might have told me and written 
+on their websites or leaflets. However, as one research participant and scheme coordinator 
+has told me when I asked a question about terminology “things change names… it has not 
+one meaning only and it changes… i promise you that in ten years from now it will have 
+changed”.  
+1.d   Terminology from scratch: the Greek case 
+As one can imagine, there is no academic terminology at all in Greek concerning all this 
+activity. It is really very difficult for me to be sure whether the terms I use in Greek are the 
+appropriate ones, or at least, they have some meaning for both the scheme participants and 
+academia. Of course, this happens because this activity has not been studied till now by 
+academic economists.  
+It is even very difficult to find any texts by any academic in Greece writing about such 
+                                                 
+1  
+Information gathered through personal communication with experts from Venezuela.  
+2  
+For a thorough discussion about this peculiarity and its possible explanations, see Sotiropoulou, I. 
+(2011b).  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+11
+economic activity, even to see how they might have translated foreign terms into Greek1. So, 
+I am aware that in the future I might recall and change my terminology, in case we see that it 
+does not express the meaning we need it to express.  
+Even concerning currencies, we use translated terms without even having decided why and 
+whether each term is for a different type of scheme. I have chosen the adjective “parallel” for 
+non-official currencies in Greece and integrated the term in the dissertation title, hoping that 
+it is the least “coloured” among all. Parallel shows co-existence which is something that 
+cannot be denied as a fact, without however showing the type or attitude of co-existence.  
+1.e   Other languages within local language: The Greek and the others  
+Therefore, concerning non-official currencies, people in Greece often use terms that are 
+exactly the same or direct translations from other languages. LETS is used often as an 
+acronym and actually there is a group in Herakleion city using this acronym on its website2. 
+Ovolos 
+currency3 
+is 
+self-named 
+as 
+social 
+currency 
+(closer 
+to 
+French 
+and  
+Spanish literature) while the local currency of Volos avoids in purpose the term “nomisma” 
+and its formal name is Local Alternative Unit – Τοπική Εναλλακτική Μονάδα4.  
+Time banks are not considered a currency-nomisma or at least people do not present them 
+as one form of currency. In reality, it is currency based on formal time measurement. 
+However, although Time Banks are translated as Τράπεζες Χρόνου (Χρονοτράπεζες) 
+[Trapezes Chronou, Chronotrapezes], people do not use the rest of related terms used in 
+English literature: time-banking, time-broking, time-broker, etc5.  
+One major problem I face with the research is that concerning free-exchange bazaars. 
+Bazaar is named παζάρι [pazari] in Greek and it means the open market held at some 
+special place, usually with low prices. Pazari in Greek has both a positive and a negative 
+meaning, depending on the local economic and social conditions. For example, buying stuff 
+at the bazaar in a big city, esp. in the South part of the country, is considered to be a trait 
+which is particular for poor people or low class people. However,  in that same geographical 
+and social context, the English term bazaar is used for charity. Bazaars, where stuff is sold 
+at low prices in euro currency in order to fund-raise for an NGO or a charity purpose, have 
+high status as the people buying there are by definition, charitable, e.g. wealthy people.  
+In other areas, f.ex. in the North East, bazaars never lost their high reputation among the 
+                                                 
+1  
+See Kapoyannis, D. & Nikolopoulos, T. (2010).  
+2  
+http://www.lets.net.gr/.  
+3  
+www.ovolos.gr  
+4  
+www.tem-magnisia.gr  
+5  
+http://www.enow.gr/196/1633.aspx. See also Seyfang, G. (2006).  
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+12
+local merchants who are able to sell their stock directly at sale prices instead of selling it at 
+bulk [much lower] prices to other merchants, and among the local population, who are able 
+both to find great works of handicraft that has remained beyond mass production and even 
+same stuff like the city shops, but at better prices. Cities in those areas compete about the 
+best and richest bazaars and assist the bazaars’ organisation, so that they attract merchants 
+from all south Balkan area and as many as possible buyers from the entire region where the 
+bazaar is held.  
+My search on internet showed that bazaar or pazari is a Persian word, from the old phrase 
+baha-char, meaning the place of prices1. I searched a lot in databases to find more about 
+the meaning of bazaar beyond the great commercial buildings in entire Middle East, but I 
+could not find any further detail, nor my attempt to contact experts in Iranian-Persian studies 
+shed any more light on whether really bazaar meant this thing exactly and whether “price” 
+was meant in the bazaar the way we mean it today.  
+So, one major part of my research comprises a Persian-origin word in combination with the 
+trait that there are no prices at all. I do not know why the people who organised free bazaars 
+named them like this, but it seems that till now this word prevails to express this activity.  
+There are other words that appeared in my research and seem foreign, but I am not totally 
+sure about that, because I am not doing a linguistic research as well! In some cases, a 
+collective garden is named baxé2 and written as bahçe, e.g. directly in Turkish (!). In other 
+cases, the work in the land lots of the group members is described as kaireti, from gayret 
+(Arabic word, which also exists in Turkish and means courage, zeal and protective feeling). 
+This word (kaireti) is still used even today in Crete but also in mainland Greece, and it 
+means the work in the fields of another person without remuneration, for support or for 
+assistance. In other cases we have agreements with combination of two languages, f.ex. the 
+xehartzisto (xe-harts-isto), e.g. “[contract] made without money”…3. 
+2   First thoughts, last notes 
+Those findings show that I am in front of or within a “new” universe of economic terminology. 
+Possibly it is not as new as one can imagine, but one would say that the lack of academic 
+literature has not impeded people in real economy to transact and create notions about 
+several activities without official currency. One would also say that despite the difficulty of 
+                                                 
+1  
+Unfortunately, the only source I could find till now about bazaar’s etymology was Wikipedia  
+http://en.wikipedia.org/wiki/Bazaar.  
+2  
+There is the Greek version of the same word, μπαξέ, but curiously, this version is not used! In 
+other cases people use the term κήπος [kipos], which is the Greek word for garden.  
+3  
+For the Turkish words, I used the dictionary by Tuncay, F. & Karatzas, L. (2000): Τουρκο-Ελληνικό 
+Λεξικό [Turkish-Greek Dictionary]. I also used the online dictionary www.turkishdictionary.net 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+13
+the economist to understand the exact meaning of the notions used in every transaction 
+within the schemes, people using those same notions understand perfectly each other. 
+Therefore, one would suspect that all this plurality of ideas and names raises the question 
+whether the formal economics’ terminology misses to grasp the multi-dimensional structure 
+of the economy in Greece (possibly in other countries, too) but also the popular knowledge 
+which exists concerning this structure. It seems that the use of words makes the latter a 
+powerful tool to talk about the economy and economics without the limitations academic 
+literature might have. Therefore, one would say that the scheme users challenge economics 
+in its very hard core: ideas.  
+On the other hand, my dissertation was not aiming in resolving terminology issues and I am 
+afraid that those will remain unsolved after the dissertation is over. However, it has been a 
+fortunate adventure to enrich my “further research” chapter with questions based on the 
+terms I use. Moreover, I think that all this terminology “mess” creates a sound base for 
+research anyway: it makes us aware that certainty about the terms we use in economics 
+does not exist.  
+3   References 
+[ 1] 
+Blanc, J.: Classifying “CCs”: “Community, complementary and local currencies’ types 
+and 
+generations” 
+(2011), 
+International 
+Conference 
+on 
+Community 
+and 
+Complementary Currencies, (February 16-17th 2011) Lyon-France. Accessible at 
+http://conferences.ish-lyon.cnrs.fr/index.php/cc-conf/2011/paper/view/136/4.  
+[ 2] 
+Dimitrakos, D. Μέγα Λεξικόν Όλης της Ελληνικής Γλώσσης [Great Dictionary of the 
+Entire Greek Language] (1936), Δομή, Athens.  
+[ 3] 
+Kapogiannis Dimitris & Nikolopoulos Takis: Crises are the mothers of invention: 
+Alternative-Social Currencies (Κρίσεις τέχνας κατεργάζονται: Εναλλακτικά Κοινωνικά 
+Νομίσματα) (2010), unpublished paper (in Greek).  
+[ 4] 
+Karatzas, 
+L. 
+& 
+Tuncay, 
+F.: 
+“Τουρκο-Ελληνικό 
+Λεξικό” 
+[Turkish-Greek 
+Dictionary](2000), published by the Centre of Oriental Languages and Culture, 
+Athens. 
+[ 5] 
+Liesch, P.W. & Palia, A.P.: “Australian perceptions and experiences of international 
+countertrade with some international comparisons” (1999), European Journal of 
+Marketing, vol. 33, no. 5-6, pp. 488-511.  
+[ 6] 
+Seaford, R.: “Money and the early Greek mind – Homer, philosophy, tragedy” (2003), 
+Cambridge University Press, Cambridge & New York.  
+[ 7] 
+Seyfang, G.: “Time Banks in the UK: Building Sustainable Communities” (2006), 
+‘Monetary Regionalisation’ conference, (September 28-29th 2006), Weimar, Germany, 
+accessible at  
+http://files.uniteddiversity.com/Money_and_Economics/Community_Currencies/Time_
+Banks/Time_Banks_in_the_UK-Building_Sustainable_Communities.pdf  
+[ 8] 
+Sotiropoulou, I.: “Exchange networks & parallel currencies: Theoretical issues or 
+research in Wonderland” (2010a), 1st International Conference in Political Economy, 
+titled “Beyond the Crisis” (September 10-12th 2010), Rethymno-Greece. Accessible at 
+http://www.iippe.org/wiki/images/d/d2/CONF_APE_Sotiropoulou.pdf  
+[ 9] 
+Sotiropoulou, I. “How environmental awareness can be practical and funny while 
+ΕΛΕΤΟ – 8ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 10-12 Νοεμβρίου 2011 
+14
+puzzling economists: Exchange networks, parallel currencies and free bazaars in 
+Greece” (2010b), International Conference: Environment, Innovation and Sustainable 
+Development (October 7-8th, 2010) Marseille-France. Accessible at http://innovation. 
+univ-littoral.fr/wp-content/uploads/2010/09/sotiropoulou.pdf. 
+[10] 
+Sotiropoulou, I. :“Alternative Exchange Systems in Contemporary Greece” (Regional 
+Review) (2010c), International Journal of Community Currency Research, 15: Special 
+Issue: The State of the Art, D27-31. Accessible at http://www.ijccr.net/IJCCR/ 
+2011_(15)_files/06%20Sotiropoulou.pdf.  
+[11] 
+Sotiropoulou, I.: “In deep (epistemological) waters: Studying transactions without 
+official currency” (2010d), unpublished paper, Department of Economics, University of 
+Crete.  
+[12] 
+Sotiropoulou, I.:“Exchange networks & parallel currencies on the map of Greece: 
+Geographical patterns and schemes’ activity”, (2011a), International Conference on 
+Community and Complementary Currencies, (February 16-17th 2011) Lyon-France. 
+Accessible 
+at 
+http://conferences.ish-lyon.cnrs.fr/index.php/cc-conf/2011/paper/ 
+viewFile/98/34.  
+[13] 
+Sotiropoulou, I.: “Economic activity without official currency in Greece: The * 
+hypothesis” (2011b)., 2nd International Conference in Political Economy, titled 
+“Neoliberalism and the crises of economic science” (May 20-22nd 2011), Istanbul – 
+Turkey. 
+Accessible 
+at 
+http://www.iippe.org/wiki/Conference_2011/Conference_Papers.  
+[14] 
+Sotiropoulou, I.: “Economic activity in Greece without the euro” (2011c). Paper 
+presented at the 5th Biennial Hellenic Observatory PhD Symposium, held in London, 
+United Kingdom (02-03.06.2011) and organised by the Hellenic Observatory of 
+London School of Economics.  
+[15] 
+Taussig, M. : “The devil and commodity fetishism in Latin America” (30th anniversary 
+edition with a new chapter by the author), (2010), The University of North Carolina 
+Press, Chapel Hill.   
+ 
+Αγγλο-ελληνικό γλωσσάριο όρων 
+Αγγλικός όρος 
+Ελληνικός όρος 
+• barter 
+• ανταλλαγή 
+• community currencies 
+• κοινοτικά νομίσματα 
+• complementary currencies 
+• συμπληρωματικά νομίσματα 
+• exchange 
+• ανταλλαγή, συναλλαγή 
+• exchange networks 
+• δίκτυα ανταλλαγής 
+• free bazaars 
+• χαριστικά παζάρια 
+• free networks 
+• χαριστικά δίκτυα 
+• free-exchange bazaars 
+• χαριστικά-ανταλλακτικά παζάρια  
+• local currencies 
+• τοπικά νομίσματα 
+• parallel currencies 
+• παράλληλα νομίσματα 
+ 
+Irene Sotiropoulou 
+PhD Student (Department of Economics, University of Crete)  
+34, Panepistimiou Street, 10679-Athens, Greece 
+E-mail: isotiropoulou@econ.soc.uoc.gr  
+Supervisor: Professor George Stathakis (Department of Economics, University of Crete)  
+E-mail: stathakis@econ.soc.uoc.gr  
+ 

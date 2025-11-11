@@ -1,0 +1,669 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ELETO-MOTO-TE48OE1_ISOIEC-Security-Glossary.pdf
+
+ΕΛΕΤΟ 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ) 
+Συλλογικά Μέλη σε συνεργασία: 
+ΜΟΤΟ (Μόνιμη Ομάδα Τηλεπικοινωνιακής Ορολογίας) 
+ΕΛΟΤ/ΤΕ48/ΟΕ1 (Ορολογία Πληροφορικής) 
+ 
+Ιούλιος 2020 
+ 
+Αγγλοελληνικό Γλωσσάριο Όρων Ασφάλειας των ISO/IEC 
+Όροι εννοιών που ορίζονται στο Διεθνές Πρότυπο ISO/IEC 2382:2015 Information 
+Technology – Vocabulary  
+(Απόσπασμα με τους όρους του ISO 2382/8-1998: Information  
+technology – Vocabulary – Part 8: Security) 
+(188 λήμματα) 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+aborted connection 
+αποβλημένη σύνδεση 
+2126351 
+access category 
+κατηγορία πρόσβασης 
+2126296 
+access control 
+έλεγχος πρόσβασης 
+2126294 
+access control list 
+κατάλογος ελέγχου πρόσβασης 
+2126295 
+access level 
+στάθμη πρόσβασης, επίπεδο πρόσβασης 
+2126297 
+access period 
+περίοδος πρόσβασης 
+2126300 
+access permission 
+άδεια πρόσβασης 
+2126299 
+access right 
+δικαίωμα πρόσβασης 
+2126298 
+access type 
+τύπος πρόσβασης 
+2126301 
+accountability 
+υπολογότητα 
+2126250 
+active threat 
+ενεργητική απειλή 
+2126322 
+active wiretapping 
+ενεργητική απομάστευση 
+2126344 
+administrative security, 
+procedural security 
+διοικητική ασφάλεια, διαδικασιακή ασφάλεια 
+2126242 
+aggregation 
+συνάθροιση 
+2126356 
+analytical attack, cryptanalytical 
+attack 
+αναλυτική επίθεση, κρυπταναλυτική επίθεση 
+2126337 
+anti-virus program, vaccine 
+program 
+αντιιικό πρόγραμμα, αλεξίιο πρόγραμμα 
+2126401 
+archive 
+αρχειοθηκεύω 
+2126409 
+archive file 
+αρχείο αρχειοθήκευσης 
+2126410 
+archived file 
+αρχειοθηκευμένο αρχείο 
+2126411 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+2 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+attack 
+επίθεση 
+2126336 
+audit trail 
+ίχνος επιθεώρησης 
+2126376 
+authentication 
+εξακρίβωση (ταυτότητας) {δεδομένων} 
+2126251 
+authentication exchange 
+ανταλλαγή πληροφοριών εξακρίβωσης 
+(ταυτότητας) 
+2126255 
+authentication information 
+πληροφορίες εξακρίβωσης (ταυτότητας) 
+2126253 
+authorization 
+εξουσιοδότηση 
+2126256 
+availability 
+διαθεσιμότητα 
+2126257 
+backup file 
+εφεδρικό αρχείο 
+2126406 
+backup procedure 
+εφεδρική διαδικασία 
+2126405 
+backward recovery 
+οπισθόφορη ανάκαμψη 
+2126407 
+bacterium, chain letter 
+βακτήριο 
+2126367 
+bad sectoring 
+κακή τομεοποίηση 
+2126418 
+between-the-lines entry 
+παρεισφρητική είσοδος 
+2126353 
+biometric 
+βιομετρικός 
+2126380 
+breach 
+ρήγμα 
+2126334 
+call-back, dial-back 
+αναστροφή κλήσης 
+2126381 
+capability 
+ικανότητα 
+2126303 
+capability list 
+κατάλογος ικανότητας 
+2126304 
+certification 
+πιστοποίηση 
+2126258 
+checking code 
+κώδικας εξελέγχου 
+2126419 
+chosen-plaintext attack 
+επίθεση επιλεγμένου καθαρού κειμένου, 
+επίθεση επιλεγμένου άκρυπτου κειμένου 
+2126340 
+ciphertext 
+κρυπτοκείμενο, έγκρυπτο κείμενο, 
+κρυπτοθετημένο κείμενο, κρυπτογραφημένο 
+κείμενο 
+2126285 
+ciphertext-only attack 
+επίθεση μόνο με κρυπτοκείμενο 
+2126338 
+clearing 
+εκκαθάριση 
+2126382 
+closed-security environment 
+περιβάλλον κλειστής ασφάλειας 
+2126261 
+cold site, shell site 
+ψυχρή τοποθεσία, εγκατάσταση με 
+υποστήριξη εφεδρείας 
+2126412 
+communications security 
+ασφάλεια επικοινωνιών 
+2126243 
+compartmentalization 
+διαμερισματοποίηση 
+2126275 
+compromise 
+παραβίαση 
+2126328 
+compromising emanation 
+παραβιαστική διαφυγή 
+2126331 
+computer abuse 
+κατάχρηση υπολογιστή 
+2126318 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+computer crime 
+ηλεκτρονικό έγκλημα 
+2126319 
+computer fraud 
+ηλεκτρονική απάτη 
+2126320 
+computer security 
+ασφάλεια υπολογιστή 
+2126241 
+computer-system audit 
+επιθεώρηση συστήματος υπολογιστή 
+2126388 
+confidentiality 
+εμπιστευτικότητα 
+2126249 
+contamination 
+μόλυνση 
+2126361 
+contingency plan, disaster 
+recovery plan 
+σχέδιο έκτακτης διαδικασίας, σχέδιο 
+διαδικασίας υποκατάστασης 
+2126414 
+contingency procedure 
+έκτακτη διαδικασία, διαδικασία 
+υποκατάστασης 
+2126389 
+controlled access system 
+σύστημα ελεγχόμενης πρόσβασης 
+2126312 
+copy protection 
+προστασία από αντιγραφή 
+2126415 
+countermeasure 
+μέτρο αντιμετώπισης 
+2126372 
+covert channel 
+συγκαλυμμένο κανάλι 
+2126362 
+credentials 
+διαπιστευτήρια 
+2126254 
+cryptanalysis 
+κρυπτανάλυση 
+2126283 
+cryptographic system, cipher 
+system, cryptosystem 
+κρυπτογραφικό σύστημα, κρυπτοσύστημα 
+2126282 
+cryptography 
+κρυπτογραφία 
+2126278 
+data authentication 
+εξακρίβωση (ταυτότητας) δεδομένων 
+2126390 
+data corruption 
+διάβρωση δεδομένων, αλλοίωση δεδομένων 
+2126359 
+data integrity 
+ακεραιότητα δεδομένων 
+2126247 
+data protection 
+προστασία δεδομένων 
+2126371 
+data reconstitution 
+ανασύνθεση δεδομένων 
+2126404 
+data reconstruction 
+ανακατασκευή δεδομένων 
+2126403 
+data restoration 
+επαναφορά δεδομένων 
+2126402 
+data security 
+ασφάλεια δεδομένων 
+2126244 
+data validation 
+επικύρωση δεδομένων 
+2126374 
+decryption, decipherment 
+απέγκρυψη, αποκρυπτοθέτηση, 
+αποκρυπτογράφηση 
+2126281 
+denial of service 
+άρνηση υπηρεσίας 
+2126327 
+digital envelope 
+ψηφιακός φάκελος 
+2126379 
+digital signature 
+ψηφιακή υπογραφή 
+2126378 
+disclosure 
+αποκάλυψη 
+2126332 
+eavesdropping 
+ωτακουστία, λαθρακρόαση 
+2126342 
+encryption, encipherment 
+έγκρυψη, κρυπτοθέτηση, κρυπτογράφηση 
+2126279 
+4 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+entrapment 
+παγίδευση 
+2126386 
+exhaustive attack, brute-force 
+attack 
+διεξοδική επίθεση, βάναυση επίθεση 
+2126341 
+exposure 
+έκθεση 
+2126330 
+extra sector 
+επιπρόσθετος τομέας, επιπλέον τομέας  
+2126420 
+extra track 
+επιπρόσθετο ίχνος, επιπλέον ίχνος 
+2126421 
+failsafe 
+αντισφαλματικός 
+2126373 
+failure access 
+πρόσβαση επί αποτυχίας 
+2126352 
+fake sector 
+πλαστός τομέας 
+2126422 
+file protection 
+προστασία αρχείου 
+2126248 
+flaw, loophole 
+(αφανές) ελάττωμα, παραθυράκι 
+2126324 
+flooding 
+πλημμύρισμα 
+2126360 
+forward recovery 
+εμπροσθόφορη ανάκαμψη 
+2126408 
+guard 
+φρουρός 
+2126396 
+hot site 
+θερμή τοποθεσία, εγκατάσταση με πλήρη 
+εφεδρεία 
+2126413 
+identity authentication 
+εξακρίβωση ταυτότητας  
+2126305 
+identity token 
+ενδεικτικό ταυτότητας 
+2126306 
+irreversible encryption, 
+irreversible encipherment, one-
+way encryption 
+αναντίστρεπτη έγκρυψη, αναντίστρεπτη 
+κρυπτοθέτηση, μονόδρομη έγκρυψη 
+2126280 
+key 
+κλειδί 
+2126286 
+keystroke verification 
+επαλήθευση με πληκτρολόγηση 
+2126375 
+known-plaintext attack 
+επίθεση γνωστού καθαρού κειμένου, επίθεση 
+γνωστού άκρυπτου κειμένου 
+2126339 
+linkage, fusion 
+συνδυασμός (δεδομένων) 
+2126357 
+logic bomb 
+λογισμική βόμβα 
+2126368 
+logical access control 
+λογικός έλεγχος πρόσβασης  
+2126310 
+loss 
+απώλεια 
+2126329 
+maintenance hook 
+άγκιστρο συντήρησης 
+2126355 
+malicious logic 
+κακόβουλη λογική 
+2126363 
+manipulation detection code, 
+modification detection code 
+κωδικός ανίχνευσης χειραγώγησης 
+2126393 
+manipulation detection, 
+modification detection 
+ανίχνευση χειραγώγησης 
+2126392 
+masquerade 
+μεταμφίεση, αντιποίηση 
+2126346 
+message authentication 
+εξακρίβωση ταυτότητας μηνύματος 
+2126252 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+message authentication code 
+κωδικός εξακρίβωσης ταυτότητας μηνύματος 
+2126391 
+minimum privilege 
+ελάχιστο προνόμιο 
+2126308 
+multilevel device 
+πολυσταθμική διάταξη 
+2126276 
+mutual suspicion 
+αλληλοκαχυποψία 
+2126397 
+need-to-know 
+απαίτηση γνώσης, χρεία γνώσης 
+2126309 
+network weaving 
+πολυδικτυακή λαθροχρησία 
+2126335 
+notarization 
+συμβολαιογράφηση, επικυρωτική καταγραφή 
+2126398 
+object 
+αντικείμενο 
+2126271 
+offset track 
+αποκλίνον ίχνος 
+2126423 
+open-security environment 
+περιβάλλον ανοικτής ασφάλειας 
+2126262 
+padlocking 
+ισχυρό κλείδωμα 
+2126417 
+passive threat 
+παθητική απειλή 
+2126323 
+passive wiretapping 
+παθητική απομάστευση 
+2126345 
+password 
+διελευτήριο, κωδικός πρόσβασης 
+2126307 
+penetration 
+διείσδυση 
+2126333 
+penetration testing 
+δοκιμές διείσδυσης 
+2126387 
+physical access control 
+φυσικός έλεγχος πρόσβασης 
+2126311 
+piggyback entry 
+είσοδος επωμισμού 
+2126347 
+plaintext, cleartext 
+καθαρό κείμενο, άκρυπτο κείμενο 
+2126284 
+privacy 
+ιδιωτικότητα, απόρρητο 
+2126263 
+privacy protection 
+προστασία της ιδιωτικότητας, προστασία 
+απορρήτου  
+2126377 
+private key 
+ιδιωτικό κλειδί 
+2126287 
+public key 
+δημόσιο κλειδί 
+2126288 
+public-key cryptography, 
+asymmetric cryptography 
+κρυπτογραφία δημόσιου κλειδιού, ασύμμετρη 
+κρυπτογραφία 
+2126289 
+read access 
+πρόσβαση ανάγνωσης 
+2126313 
+repudiation 
+αποκήρυξη 
+2126394 
+residual data 
+παραμένοντα δεδομένα, υπολείμματα 
+δεδομένων 
+2126384 
+risk 
+διακινδύνευση 
+2126326 
+risk acceptance 
+αποδοχή διακινδύνευσης 
+2126265 
+risk analysis, risk assessment 
+ανάλυση διακινδύνευσης, αξιολόγηση 
+διακινδύνευσης 
+2126264 
+sanitizing 
+εξυγίανση 
+2126383 
+scavenge 
+ερευνώ υπολείμματα (δεδομένων) 
+2126349 
+6 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+secret key 
+μυστικό κλειδί 
+2126291 
+sector alignment 
+ευθυγράμμιση τομέων 
+2126424 
+security audit 
+επιθεώρηση ασφάλειας 
+2126245 
+security category 
+κατηγορία ασφάλειας 
+2126274 
+security classification 
+κατηγορία διαβάθμισης ασφάλειας 
+2126272 
+security clearance 
+διασάφηση ασφάλειας 
+2126259 
+security filter 
+φίλτρο ασφάλειας 
+2126395 
+security level 
+στάθμη ασφάλειας, επίπεδο ασφάλειας 
+2126260 
+security policy 
+πολιτική ασφάλειας 
+2126246 
+sensitive information 
+ευαίσθητες πληροφορίες 
+2126273 
+sensitivity 
+ευαισθησία 
+2126266 
+separation of duties 
+διαχωρισμός καθηκόντων 
+2126385 
+single-level device 
+μονοσταθμική διάταξη 
+2126277 
+software piracy 
+πειρατεία λογισμικού 
+2126416 
+spiral track 
+σπειροειδές ίχνος 
+2126425 
+spoof 
+παραπλανώ 
+2126350 
+subject 
+υποκείμενο 
+2126270 
+substitution 
+υποκατάσταση 
+2126293 
+supersector 
+υπερτομέας 
+2126426 
+symmetric cryptography 
+συμμετρική κρυπτογραφία 
+2126290 
+system integrity 
+ακεραιότητα συστήματος 
+2126267 
+tailgate 
+παρεισέρχομαι 
+2126348 
+threat 
+απειλή 
+2126321 
+threat analysis 
+ανάλυση απειλών 
+2126268 
+ticket 
+εισιτήριο 
+2126302 
+time bomb 
+ωρολογιακή βόμβα 
+2126369 
+traffic analysis 
+ανάλυση κίνησης 
+2126358 
+traffic padding 
+πλήρωση κίνησης 
+2126399 
+transposition 
+μετάθεση 
+2126292 
+trapdoor 
+καταπακτή 
+2126354 
+Trojan horse 
+δούρειος ίππος 
+2126366 
+trusted computer system 
+εμπιστευμένο σύστημα υπολογιστή 
+2126269 
+user ID 
+ID χρήστη 
+2126315 
+user profile1 
+κατατομή χρήστη1, προφίλ χρήστη1 
+2126316 
+user profile2 
+κατατομή χρήστη2, προφίλ χρήστη2 
+2126317 
+7 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+αριθμός της 
+έννοιας 
+(στο Πρότυπο) 
+verification 
+επαλήθευση 
+2126370 
+virus 
+ιός 
+2126364 
+virus signature 
+υπογραφή ιού 
+2126400 
+vulnerability 
+τρωτότητα, ευπάθεια 
+2126325 
+weak bit 
+ασθενές δυφίο 
+2126427 
+wide track 
+ευρύ ίχνος 
+2126428 
+wiretapping 
+απομάστευση 
+2126343 
+worm 
+σκουλήκι {λογισμικό} 
+2126365 
+write access 
+πρόσβαση γραφής 
+2126314 
+ 
+ 
+ 

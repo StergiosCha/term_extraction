@@ -1,0 +1,37 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/Papers-and-speakers/12th_18-02-20_Michalis_Vazirgiannis_cv_V02.pdf
+
+ELETO – 12th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2019 
+ 
+ 
+Michalis Vazirgiannis 
+Athens University of Economics and Business,  
+Department of Informatics  
+E-mail: mvazirg@aueb.gr  
+Curriculum vitae 
+Dr. Vazirgiannis is a Professor at LIX, Ecole Polytechnique in France with a joint part time 
+affiliation to AUEB, Greece. He has conducted research in  Frauenhofer and Max Planck-MPI 
+(Germany), in INRIA/FUTURS (Paris). He has been a teaching in AUEB (Greece), Ecole 
+Polytechnique, Telecom-Paristech, ENS (France), Tsinghua, Jiaotong Shanghai (China) and 
+in Deusto University (Spain).   
+His current research interests are on deep and machine learning for Graph analysis (including 
+community 
+detection, 
+graph 
+classification, 
+clustering 
+and 
+embeddings, 
+influence 
+maximization), Text mining including Graph of Words, deep learning for word embeddings 
+with applications to web advertising and marketing, event detection and summarization. He 
+has active cooperation with industrial partners in the area of data analytics and machine 
+learning for large scale data repositories in different application domains. He has supervised 
+twenty completed PhD theses.  
+He has published three books and more than a 200 papers in international refereed journals 
+and conferences and received best paper awards in ACM CIKM2013 and IJCAI2018. He has 
+organized large scale conferences in the area of Data Mining and Machine Learning (such as 
+ECML/PKDD) while he participates in the senior PC of AI and ML conferences – such as 
+AAAI and IJCAI,  
+He has received the ERCIM and the Marie Curie EU fellowships, the Rhino-Bird International 
+Academic Expert Award by Tencent and since 2015 he leads the AXA Data Science chair. 

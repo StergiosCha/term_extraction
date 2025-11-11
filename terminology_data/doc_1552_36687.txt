@@ -1,0 +1,391 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_27-01-KvamSigmund%20paper_V03.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+1
+27   Terminology and translation theory:  
+A functional-pragmatic approach 
+    
+Sigmund Kvam 
+ABSTRACT 
+In this paper the concept terms covers both the systematic designation of defined concepts within a 
+specific field as well as ‘field specific lexemes in a broader sense’. 
+The object of functional pragmatic translation is text as a communicative unit, representing a specific 
+genre, which again is defined as conventionalized patterns of communication. In this context translation 
+is seen as an interlingual, target group oriented reproduction of a text in a given genre. 
+Within a functional-pragmatic framework terms cannot be translated in communicative isolation, but as 
+structural configurations of onomastic fields to fulfil a specific set of functions in the target text discourse 
+community. This will be demonstrated by means of examples from translations between German, 
+English, Norwegian and Greek.  
+In accordance with the theoretical statements and as shown in the examples, the translation of 
+terminological elements in texts is carried out as ‘lexeme-in-function’: Both the specific translation 
+situation (the intended effect(s) of the target text in a specific situation) and the specific socio-lingual 
+context (semantic, structural and cultural factors) of the translation constrain the lexicalisation and 
+grammaticalisation of specific onomastic fields. 
+ 
+Ορολογία και θεωρία της μετάφρασης: Μια λειτουργική-
+πραγματολογική προσέγγιση 
+ 
+Sigmund Kvam 
+ΠΕΡΙΛΗΨΗ 
+Στην παρούσα ανακοίνωση η έννοια όροι καλύπτει τη συστηματική κατασήμανση εννοιών που ορίζονται 
+σε ένα συγκεκριμένο πεδίο καθώς και ‘προσιδιάζοντα σε ένα πεδίο λεξήματα υπό την ευρύτερη έννοια’. 
+Αντικείμενο της λειτουργικής πραγματολογικής μετάφρασης είναι το κείμενο ως επικοινωνιακή μονάδα, 
+που αντιπροσωπεύει ένα συγκεκριμένο κειμενικό είδος, το οποίο, με τη σειρά του, ορίζεται ως 
+συμβατικός τύπος επικοινωνίας. Στο πλαίσιο αυτό, η μετάφραση αντιμετωπίζεται ως διαγλωσσική, 
+προσανατολισμένη στην ομάδα-στόχο αναπαραγωγή ενός κειμένου σε ένα συγκεκριμένο κειμενικό 
+είδος. 
+Σε ένα λειτουργικό-πραγματολογικό πλαίσιο, οι όροι δεν μπορούν να μεταφραστούν απομονωμένοι από 
+την επικοινωνιακή τους λειτουργία αλλά ως δομικά μορφώματα ονομαστικών πεδίων προς εκπλήρωση 
+ενός συγκεκριμένου συνόλου λειτουργιών στην κοινότητα-δέκτη του κειμένου-στόχου. Αυτό θα 
+αποδειχθεί με παραδείγματα από μεταφράσεις μεταξύ Γερμανικών, Αγγλικών, Νορβηγικών και 
+Ελληνικών. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+2
+Σύμφωνα με τη θεωρητική προσέγγιση και όπως φαίνεται στα παραδείγματα, η μετάφραση ορολογικών 
+στοιχείων σε κείμενα διεξάγεται ως ‘λέξημα εν λειτουργία’. Τόσο η συγκεκριμένη μεταφραστική 
+κατάσταση (το(τα) επιδιωκόμενο(α) αποτέλεσμα(τα) του κειμένου-στόχου σε συγκεκριμένη κατάσταση) 
+όσο και το συγκεκριμένο κοινωνιογλωσσικό συγκείμενο (σημασιολογικοί, δομικοί και πολιτισμικοί 
+παράγοντες) της μετάφρασης θέτουν περιορισμούς στη λεξικοποίηση και γραμματικοποίηση των 
+συγκεκριμένων ονομαστικών πεδίων. 
+ 
+ 
+ 
+ 
+1   Definitions  
+1.1   Topic of analysis 
+The topic of the following analysis is terminology within the framework of functional 
+pragmatics in translation theory. To discuss this, definitions of the central concepts 
+terminology,  functional pragmatics, and translation are needed. 
+Terminology is regarded as the systematic designation of defined concepts within a specific 
+field, requiring specialized knowledge and the authorization to exercise a specific profession 
+connected to this specialized knowledge. Terminology is thus not only defined 
+onomastically, but also socially: it is also connected to language use in specific professional 
+situations by people with specific qualifications for exercising a given profession. 
+This is indeed a pragmatic approach to terminology, being derived from a pragmatic 
+definition of Fachsprache or special language as this is frequently labelled in English: Verbal 
+and non-verbal official professional communication, carried out by specialists for the purpose 
+of representing the social interests of an organisation ([8], 31; [5], 51ff.). 
+The basic aspect of functional pragmatics  is closely related to the concept of meaning. In 
+this paper meaning is a social, anthropologic category, not a fixed system of taxonomically 
+organized semantic features as traditionally known in structural semantics. An example of 
+the latter is the mathematical model of communication presented by [10]  where meaning is 
+seen as a fixed system of static entities outside communication  from which certain elements 
+were to be selected and shuffled though a channel of communication, passing filters of noise 
+and reaching the receiver with the same exact amount of information as they were sent by 
+the sender through the channel. A pragmatic approach, however, regards meaning as a 
+dynamic category that is being constituted  - and reconstituted – in a given socio-cultural 
+context: “Meaning is not embedded in the form of an expression alone, and does not 
+become transparent by the most elegant analysis of that form: it can only be interpreted 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+3
+when it is located in a social organization and a praxis of communication” (Fredrik Barth, 
+cited  in: [7], 18). Functional pragmatics is based on this anthropologic definition of meaning. 
+Meaning is thus a social category; it does not exist irrespective of and ‘outside’ a 
+communicative situation, but is constituted in such a situation. A given communicative 
+situation in a given culture is therefore a necessary precondition for the constitution – and 
+also reconstitution - of meaning.  Since meaning depends on situation and culture, it is also 
+conventionalised. A situation is interpreted on the basis of tradition, conventions, i.e.: cultural 
+constraints. In linguistics, this can be seen how communication is organised. Communication 
+is patterned, it is realized by means of structured units called texts, and every text is 
+interpreted by a given discourse community as token of a specific genre. Genre is defined 
+according to the German tradition of Textsorten (e.g. [2], 129ff.) as historically developed, 
+i.e. conventionalized patterns of communication serving as a point of orientation for social 
+action within a given discourse community. 
+In this context translation very briefly can be seen as an interlingual, target group oriented 
+reconstitution of meaning in the form of a written text in a given genre in a different socio-
+linguistic setting. The translation of terminology is thus more than just ‘translating the words’: 
+In a translation situation the meaning of any textual element, including special lexis,  is re-
+interpreted as parts of a given text in a given situation in a given language in an given 
+culture and even ‘textual details’ like terminology can only be adequately analysed within this 
+broad anthropologic approach. This does not mean that any analysis has to be carried out 
+only at this broad, cultural level. Research on textual details is both interesting and 
+necessary and therefore requires descriptive categories for such details, like traditional 
+grammatical categories or a consistent model of syntactic analysis. But it would be 
+erroneous to regard e.g. terminology as a purely lexical phenomenon:  as a unit of analysis it 
+is lexical, but as such it is embedded in the functional framework of the text as a whole and 
+can only be properly analysed with this framework, cf. [9]. 
+1.2   Goal of analysis 
+In the following I will first show how terms, most of them related to the onomastic field 
+diabetes mellitus are translated differently depending on the specific needs of the translation 
+situation, second, on the basis of these findings, I would like to set up a hypothesis in the 
+form of a model or a scale for interpreting the translation of terminology within this functional-
+pragmatic framework.  
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+4
+2   Terminology in functional-pragmatic translation  
+2.1   Working hypothesis 
+As pointed out in chapter 1, no textual element can be translated in communicative isolation. 
+As for terms as specific lexical textual elements, they are structural configurations of more or 
+less pre-defined onomastic fields to fulfil a specific set of functions in the target text 
+discourse community.  This can be further explained by means of the following hypothesis: 
+A. If an onomastic field X of a subject field F is communicated by a specialist S in F  in 
+a situation C where S is acting officially in his or her role as SF, then the specific 
+situational context CFS decides how X is contextualised and linguistically realised. 
+Such linguistic realisations will be called professional field specific denotations 
+(PFSD). 
+B. PFSDs range from internationally normed lexemes (terminology)  via more or less 
+internationally conventionalised lexemes(semi-terminology)  in field specialist 
+internal knowledge management to language specific denotations in external 
+knowledge management discourse by field specialists for different target groups of 
+non-specialists. 
+C. In this paper, translation has been defined as an interlingual reconstitution of 
+meaning in a different  
+socio-cultural setting. The management of these professional onomastic fields thus 
+depends on the specific situation of the target discourse community, not only target 
+language genre conventions, but also on the field knowledge of the target group 
+and the purpose of the target text: This new contextualisation of professional 
+onomastic fields calls for different linguistic choices all along the PFSD scale. In the 
+following I will present some examples of the use of PFSD in different translation 
+situations, thereby trying to shed some more light on the above mentioned 
+hypothesis. 
+2.2   Examples 
+2.2.1   Change of target groups in professional medical communication 
+A text on eye diseases in connection with diabetes written by an American eye specialist for 
+non-specialist doctors ([6]) was translated into Norwegian as an information leaflet for 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+5
+nurses working at municipal health stations in Norway1. The knowledge level of the two 
+target groups differed, but both target groups have professional knowledge on the field of 
+diabetes. The American source text made use of a wide range of Greek-Latin medical 
+terminology. Some of these were translated as Greek-Latin terminology (group A):  
+ 
+Endocrine – endokrin 
+Insulin resistance – insulinresistens 
+Hyperglycemia – hyperglykemi 
+Glycogenic amino acids – glykogene aminosyrer 
+Stenosis of the internal carotid artery – stenose  i arteria carotis interna. 
+Other medical terms were translated into a non-terminological PFSD, preceded or followed 
+by the corresponding Greek-Latin term (group B):  
+Chronic conjunctival injection – kronisk røde øyne (konjunktival injeksjon) 
+Pancreas – bukspyttkjertelen (pancreas) 
+Retina – netthinnen (retina) 
+Glycosuria - Glykosuri (glucose i urinen) 
+Most of the terms in the source text were translated into non-terminological Norwegian 
+PFSD (group C): 
+Tissue hypoxia - Oksygenmangel  i vevet 
+premature cataractogenesis – tidlig utvikling av grå stær 
+Myopia -  nærsynthet 
+Ophtalmic – når det gjelder øynene 
+And some of the terms in the source text were first introduced by means of a non-
+terminological PFSD, later on in the target text as Greek-Latin medical terminology, i.e. as 
+text determined presuppositions (group D): 
+Retinopathy – skadelige forandringer I netthinnen – retinopati 
+Cataract – grå stær (katarakt) --- katarakt 
+Fluctuations in refraction – fluktasjoner i brytningen (refraksjon) --- refraktive endringer 
+                                                 
+1  
+Exam papers in LSP translation (Trans 2120) at the University of Oslo in April 2007. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+6
+Due to the fact that the source text sender and the target group community on the one side 
+have shared knowledge with respect to diabetes, on the other side the commissioner of the 
+translation prescribes the target text to be produced for a target group (nurses) with less field 
+specific knowledge than the target group of the source text (doctors), a wide range of the 
+PFSD scale is applied as a translation strategy:  Group A represents the common field 
+specific knowledge of both target groups –  terminology is used without any further 
+explanation. This is a clear sign of professional communication between different 
+professional groups with differing knowledge within one onomastic field. In this case the use 
+of terminology indicates the shared knowledge of the two groups. In group B a common field 
+knowledge is presupposed, but not a common lexical knowledge. The semasiology of the 
+case is explained, not the onomasiology. In group C the translator has left the terminology all 
+together, using  the Norwegian lexemes, but presupposing the onomasiology. Group D 
+corresponds in a way to group B: first, the terminological PFSD is ‘redenoted’ in Norwegian, 
+and then the Greek-Latin term is used in the thematic progression of these onomastic fields 
+in the text. In group B – D the translation of terminology in the source text by semi-
+terminology and non-terminological PFSD clearly indicates the gap of knowledge not only 
+between the sender of the source text (eye specialists) and the intended target group of the 
+source text (doctors), but also between the target group of the source text (doctors) and that 
+of the target text (nurses). 
+2.2.2   Changes in culture between target groups  
+In the case of the translation of an information leaflet for parents on diabetes by small 
+children  from German to Greek2 the German expressions Zucker, ins Bett machen  were 
+represented as Glukose, Sychnuria in the Greek  target text. In the Norwegian translation of 
+the same source text these onomastic fields were realised as sukker (‘sugar’) and hyppig 
+vannlating (‘frequent water release’). In this case all three languages realised the same 
+onomastic field for corresponding target groups, all three using lexemes of external 
+knowledge management, and the Greek text just being apparently terminological due to the 
+etymology of these lexemes and since these lexemes also function as non-PSFD, i.e. these 
+lexemes are also used by non-professionals in non-professional discourse on the given 
+topic. 
+                                                 
+2  
+This German text was made at the Erasmus Wisstrans seminar in Corfu in March 2006 and was 
+translated into Greek, Danish, Norwegian and Latvian. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+7
+In all these examples professionally defined onomastic fields are filled with what could be 
+called ‘purpose oriented lexemes’ in order to obtain a specific effect by a specific target 
+group. In all these cases the function, defined as the intended effect by the intended target 
+group, has been predominantly informative. Due to different  levels of  field specific 
+knowledge within these target groups different types of PFSD have been used. But not all 
+professional communication is informative – the use of PFSD may serve appellative 
+purposes and then the PFSD scale is used completely differently. 
+ 
+2.2.3   Function as the key of analysis 
+Carbamid is used in a variety of creams and lotions for the skin and even for bleaching of 
+the teeth. Carbamid is commonly known as urinstoff in Norwegian and Harnstoff in German. 
+But the terminological carbamid is used in the description of the product (karbamidsalve 
+(Karbamidsalbe) to avoid connotations with the smell of urine and urinating, like in adverts 
+for Widmer Carbamid Cream Carbamid cream for a healthy skin and for a gel for tooth 
+bleaching  Carbamid Peroxid Gel 35% zum Zähne bleichen. 
+Another example would be the consistent use of diabetes in stead of sukkersyke (‘sugar 
+disease’) by the Norwegian diabetes association in order to avoid depicting their members 
+as people suffering from a disease. Diabetics are instead presented as social group with 
+some special needs in order to lead a normal life like the rest of us. And – as well known in 
+the world of adverts – we even find quasi-terminology used for marketing purposes like the 
+use of gardol in a toothpaste generally guarding your teeth against caries and other 
+unpleasant phenomena. 
+In these examples hard core terminology  -  and what could have been terminology -  is used 
+to not because the recipient of the text is expected to be a field specialist,  but because the 
+use of terminology is supposed to have some sort of marketing effect: in the case of 
+carbamid a possible negative effect for the promotion of the product should be avoided, in 
+the case of diabetes the social status of  a group of patients is redefined and in the case of 
+gardol positive connotations for the sale of the product are triggered by the use of a 
+linguistically sophisticated terminological fake  (‘ the product guarding your teeth’). In order 
+to obtain the intended marketing effect , terminological PFSD is used in spite of the huge 
+gap in field knowledge between the sender and the target  groups. These terms are not used 
+for descriptive purposes, but to give the impression of an expert status and/or connotatively 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+8
+denoting a field in a way promoting economic or political goals. This appellative use of 
+terminology takes advantage of the field knowledge deficit of the target groups in order to 
+create a meaning coinciding with specific appellative, not descriptive goals. 
+3   Conclusion and final hypothesis 
+On the basis of  the theoretical statements and as shown in the examples, the translation of 
+terminological elements in texts is carried out as ‘lexeme-in-function’: Both the specific 
+intention of the translation (the intended effect(s) of the target text in a specific situation by 
+an intended target group) and the specific socio-lingual context of the translation (socio-
+cultural factors of the target group of the source text and that of the target text) constrain the 
+lexicalisation and grammaticalisation of  meaning, both generally and with regard to the 
+lexicalisation of  onomastic fields in professional communication. The specific function of a 
+given onomastic field in a given communicative situation is thus the core of any analysis of 
+terminology. It is important to emphasize once again that function is defined as the intended 
+effect by a specific target group in a specific situation and not as the real effect by all sorts of 
+readers of a given text in all sorts of situations.  
+In order to fill in these onomastic fields we would like to propose the notion of PSFD, which 
+could be defined as a scale of denotations in professional communication ranging from 
+internationally normed terminology with a highest possible level of specialist knowledge on 
+the one hand to singular use of lexemes from everyday language on the other. The 
+relevance of PFSD as a scale of referential and social meaning  is clearly seen in our 
+examples: Depending on the specific interaction in a specific the situation onomastic fields 
+are filled differently, even in one and the same text. Thus a flexible concept of professional 
+use of language to fulfil different  communicative purposes, based on the notion of meaning 
+as a social category,  seems far more descriptively adequate than referring to terminology as 
+a static system of lexical realisation  of given semantic fields. 
+This does not, however, mean that terminology should be ‘abolished’  as a category for 
+describing lexical phenomena in  LSP discourse. Terminology could be identified as those 
+pre-defined PFSDs designed for the use in specific LSP discourse, like in military discourse, 
+air speak, police speak. In these situations the use of specific lexemes for specific 
+denotations are prescribed by law. But they are also frequently used as a convention in 
+scientific discourse between specialists of the same field and even as a means of promoting 
+products with a fairly vague or even no connection to a specific onomastic field.  Thus, as 
+shown in the examples, the situation and its participants decide what level of PFSD is 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+9
+chosen for a particular communicative purpose. In our examples, even the use of hard core 
+terminology depends on the needs of a given interaction. This clearly shows that terminology 
+first of all is a social category: It is not about a lexeme as corresponding to a predefined 
+concept, but about how a lexeme is contextualised in a specific social setting. This again can 
+be described by means of PFSD as a yardstick for interpreting the lexical realisation of 
+onomastic fields in professional communication.  The PFSD is thus a prototypically 
+organised scale for the interpretation, not the classification of central aspects of professional 
+communication.   
+With regard to translation the PFSD concept seems highly relevant. Since translation has 
+been defined as an interlingual reconstitution of meaning in a different socio-cultural setting, 
+onomastic fields that are   terminologically lexicalised in one language for one specific target 
+group, may need a quite different type of PFSD for another target group in another 
+language. As shown in the translation of medical terminology in the American text on eye 
+diseases by diabetes, the change of target groups in the Norwegian source text resulted in 
+the use of different parts of the PFSD scale, not in a direct translation terms according to 
+some fixed system for how medical terminology should be translated. Translation thus 
+implies a contrastive analysis of the genre and situation of the source text and the designed 
+situation for the target text. Depending on the use of a tertium comparationis 3  in the specific 
+translation situation the problem of lexicalisation of onomastic fields in the translation of 
+professional communication can be solved by using PFSD as a scale for the interpretation of 
+a functional, target group oriented professional communication.  
+This again calls for a dominant status of text function as the overall intended effect by a 
+given act of communication as the dominant category for the analysis of professional 
+communication, as also stated and discussed in e.g. [3], 7-20. As we have seen in the 
+present study,   the use of different PFSD is connected to both appellative and informative 
+functions and to shifts between these within one and the same text. But not only these two 
+functions and variations between them would be relevant. It would be highly relevant to carry 
+out research on other functional groups like obligative and declarative text functions, see [1], 
+31ff. and [2], 102ff.  for further reading.  
+ 
+                                                 
+3  A thorough discussion of the notion of tertium comparationis in translation analysis is carried out in 
+the first chapter of [4]. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+10
+Bibliographic references 
+[1]  
+Adamzik, Kirsten:  Textlinguistik (= Germanistische Arbeitshefte 40). Tübingen 2004, 
+176 pages.  
+[2]  
+Brinker, Klaus: Textlinguistik (=Grundlagen der Germanistik 29). Berlin 2001, 168 
+pages. 
+[3]  
+Brünner,  Gisela: Wirtschaftskommunikation (= Reihe Germanistische Linguistik 213). 
+Tübingen 2000, 331 pages. 
+[4]  
+Chesterman, Andrew:  Contrastive Functional Analysis (= Pragmatics &beyond. New 
+series 47). Amsterdam  1998, 230 pages.  
+[5]  
+Ditlevsen, Marianne Grove et al.: Sprog på arbejde. Fredriksberg 2003, 227 pages. 
+[6]  
+Gurwood, Andrew S./ Sowka, Joseph W. (April 2007): Handbook of Ocular Disease 
+Management (=www.revoptom.com) 
+[7]  
+Hustad, Jon: En time med Barth. In: Forskerforum 2/2006, 18-20. Oslo, 3 pages. 
+[8]  
+Kvam, Sigmund: Fachkommunikation und Klassifizierung von Fachtexten.  
+In: Fachsprache 2/1998, 29-36. Vienna, 8 pages. 
+[9]  
+Nord, Christiane: „Wer nimmt nun mal den ersten Satz?“ In: Lauer,  Angelika: 
+Übersetzungswissenschaft im Umbruch(= Festschrift für Wolfram Wilss zum 70. 
+Geburtstag), 313 – 327. Tübingen 1996,  15 pages.  
+[10]  Shannon, Claude E. /Weaver, Warren: The Mathematical Theory of Communication. 
+Urbana 1949,  117 pages. 
+ 
+ 
+ 
+Prof. Dr. Sigmund Kvam 
+Østfold University College 
+Remmen  
+N-1757 Halden 
+Norway 
+Tel: +47 69215243 
+E-mail: sigmund.kvam@hiof.no 
+ 
+ 

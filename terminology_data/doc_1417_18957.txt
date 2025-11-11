@@ -1,0 +1,3270 @@
+SOURCE: http://www.eleto.gr/download/Bodies/English-Greek_Glossary-of-ISO-TR20694(2018).pdf
+
+ 
+ 
+Τεχνική Επιτροπή 21 “Ορολογία – Γλωσσικοί πόροι” ΕΛΟΤ 
+Συλλογικό μέλος της ΕΛΕΤΟ 
+ 
+Μάρτιος 2023 
+ 
+Αγγλοελληνικό γλωσσάριο όρων της Τεχνικής Έκθεσης  
+«Τυπολογία των επιπέδων χρήσης της γλώσσας» 
+ISO/TR 20694:2018 “A typology of language registers”1 
+(Έκδοση 1, Αριθμός λημμάτων: 373) 
+ 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+1. 
+ academic discourse 
+ακαδημαϊκός λόγος 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+2. 
+ academic level of 
+language 
+ακαδημαϊκό επίπεδο 
+γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+3.1.9 
+3. 
+ academic register 
+ακαδημαϊκό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+4. 
+ accent 
+(ιδιο)προφορά, αξάν 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+5. 
+ accepted standard 
+αποδεκτό πρότυπο 
+ 
+ 
+ISO/TR 20694:2018 
+3.6 
+                                                                    
+1 Σχετικά με το σκεπτικό και την απόφαση της ΤΕ21 για το ισοδύναμο του όρου (language) register στα ελληνικά, βλ. Ορόγραμμα αρ. 176 (Σεπτέμβριος-
+Οκτώβριος 2022): https://www.eleto.gr/download/Orogramma/Or176.pdf  
+ 
+2 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+6. 
+ active teaching 
+ενεργητική διδασκαλία 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+7. 
+ addressee 
+δέκτης 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+8. 
+ addresser 
+πομπός 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+9. 
+ addressing people 
+προσφώνηση προσώπων 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+10. 
+ adverb 
+επίρρημα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+11. 
+ affix 
+πρόσφυμα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+12. 
+ affixoid 
+προσφυματοειδές 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+13. 
+ agent 
+λογικό υποκείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+14. 
+ air quotes 
+νοερά εισαγωγικά 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+15. 
+ antepenultimate stress 
+τονισμός στην 
+προπαραλήγουσα 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+16. 
+ archaic register 
+αρχαιοπρεπές επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+17. 
+ archaic use 
+αρχαΐζουσα χρήση 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+18. 
+ assignation of gender 
+απόδοση γένους 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+19. 
+ auxiliary verb 
+βοηθητικό ρήμα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.5 
+20. 
+ bench-level register 
+επίπεδο χρήσης των 
+εμπειροτεχνών, μαστορικό 
+επίπεδο χρήσης 
+register of terms used in 
+applications-oriented as 
+opposed to theoretical or 
+academic levels of language 
+επίπεδο χρήσης όρων που 
+χρησιμοποιούνται σε 
+επίπεδα γλώσσας που 
+αφορούν πεδία εφαρμογών 
+και διαφοροποιούνται από 
+τα θεωρητικά ή ακαδημαϊκά 
+επίπεδα γλώσσας 
+ISO/TR 20694:2018 
+3.19 
+21. 
+ bench-level terminology 
+μαστορική ορολογία  
+ 
+ 
+ISO/TR 20694:2018 
+3.18 
+22. 
+ bilingual society 
+δίγλωσση κοινότητα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+23. 
+ borrowed phrase 
+δάνεια φράση 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+ 
+3 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+24. 
+ borrowed technical term 
+δάνειος τεχνικός όρος 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+25. 
+ borrowed word 
+δάνεια λέξη 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+26. 
+ borrowing 
+δάνειο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+27. 
+ bottom of a vertical 
+continuum of language 
+registers 
+βάση ενός κατακόρυφου 
+συνεχούς επιπέδων χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+3.9 
+28. 
+ break in the continuum 
+of language registers 
+ρήγμα στο συνεχές των 
+επιπέδων χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+29. 
+ business circles 
+επιχειρηματικοί κύκλοι 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+30. 
+ casual level of 
+politeness 
+χαλαρό επίπεδο  
+ευγένειας 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+31. 
+ casual register 
+χαλαρό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+32. 
+ casual situation 
+χαλαρή (επικοινωνιακή) 
+περίσταση 
+ 
+ 
+ISO/TR 20694:2018 
+3.7 
+33. 
+ change of stress 
+placement 
+μετατόπιση του τόνου 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+34. 
+ change to orthography 
+ορθογραφική αλλαγή 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+35. 
+ clear and simple 
+communication 
+απλή και κατανοητή 
+επικοινωνία 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+36. 
+ clear and plain language 
+απλή και κατανοητή 
+γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+37. 
+ code (of practice) for 
+language registers 
+κώδικας πρακτικής για 
+επίπεδα χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+38. 
+ code switching 
+εναλλαγή κωδίκων 
+changing backwards and 
+forwards between two or 
+more languages or language 
+varieties in conversation 
+εναλλαγή δύο ή 
+περισσότερων γλωσσών ή 
+γλωσσικών ποικιλιών κατά 
+την επικοινωνία 
+ISO/TR 20694:2018 
+3.2 
+39. 
+ colloquial register 
+καθημερινό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+ 
+4 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+40. 
+ common register 
+κοινό επίπεδο χρήσης 
+language register used in 
+addressing or referring to 
+non-royal persons 
+επίπεδο χρήσης που 
+χρησιμοποιούμε όταν 
+απευθυνόμαστε ή 
+αναφερόμαστε σε βασιλικά 
+μέλη 
+ISO/TR 20694:2018 
+3.4 
+41. 
+ community of practice 
+κοινότητα πρακτικής 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.2 
+42. 
+ company document 
+εταιρικό έγγραφο 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+43. 
+ complex sentence 
+σύνθετη πρόταση 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+44. 
+ computational 
+management 
+υπολογιστική διαχείριση 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+45. 
+ computational method 
+υπολογιστική μέθοδος 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+46. 
+ computer-mediated 
+control 
+έλεγχος μέσω υπολογιστή 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+47. 
+ conformity 
+συμμόρφωση 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+48. 
+ conjugation 
+κλίση (ρἠματος) 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+49. 
+ conjunction 
+σύνδεσμος 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.7 
+50. 
+ conservative 
+grammatical feature 
+συντηρητικό γραμματικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.1 
+51. 
+ conservative linguistic 
+feature 
+συντηρητικό γλωσσικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+52. 
+ consistency of language 
+register 
+συνέπεια στο επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+53. 
+ consonant cluster 
+σύμπλεγμα συμφώνων 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+54. 
+ consultative register 
+συμβουλευτικό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+55. 
+ contact language 
+γλώσσα επαφής 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+56. 
+ continuum (pl. continua) 
+συνεχές 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+ 
+5 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+57. 
+ continuum of language 
+registers 
+συνεχές των επιπέδων 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+58. 
+ controlled language 
+ελεγχόμενη γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+59. 
+ convention 
+σύμβαση 
+ 
+ 
+ISO/TR 20694:2018 
+3.7 
+60. 
+ creation of technical 
+terms 
+δημιουργία τεχνικών όρων 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+61. 
+ cultural context 
+πολιτισμικό πλαίσιο 
+ 
+ 
+ISO/TR 20694:2018 
+4.10 
+62. 
+ customer 
+πελάτης, πελάτισσα 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+63. 
+ customer/server 
+relationship 
+σχέση πελάτη–παρόχου 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+64. 
+ Data Category 
+Repository, DatCatInfo 
+Αποθετήριο Κατηγοριών 
+Δεδομένων, DatCatInfo 
+ 
+ 
+ISO/TR 20694:2018 
+4.8 
+65. 
+ declension 
+κλίση (ονόματος ή 
+αντωνυμίας) 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+66. 
+ degree of formality 
+βαθμός επισημότητας 
+ 
+ 
+ISO/TR 20694:2018 
+3.3 
+67. 
+ deprived background 
+ελλιπές υπόβαθρο 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+68. 
+ derivational affix 
+παραγωγικό πρόσφυμα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+69. 
+ descriptive dictionary 
+περιγραφικό λεξικό 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+70. 
+ descriptive environment  
+περιγραφικό περιβάλλον  
+ 
+ 
+ISO/TR 20694:2018 
+1 
+71. 
+ descriptive language 
+register 
+περιγραφικό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+72. 
+ descriptor 
+περιγραφέας 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+73. 
+ dialect 
+διάλεκτος 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+74. 
+ dialect register 
+διαλεκτικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+75. 
+ diglossia 
+κοινωνική διγλωσσία 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+76. 
+ diglossic register 
+επίπεδο χρήσης κοινωνικής 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+ 
+6 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+διγλωσσίας 
+77. 
+ diglossic situation 
+(επικοινωνιακή) περίσταση 
+κοινωνικής διγλωσσίας 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+78. 
+ diglossic variety 
+ποικιλία κοινωνικής 
+διγλωσσίας 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+79. 
+ diplomatic circles 
+διπλωματικοί κύκλοι 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+80. 
+ discoursal-semantic 
+pattern 
+κειμενικο-σημασιολογικό 
+μοτίβο 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+81. 
+ domain 
+θεματικό πεδίο, τομέας 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+82. 
+ domain loss 
+απώλεια θεματικού πεδίου 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+83. 
+ domain of law 
+νομικός τομέας 
+ 
+ 
+ISO/TR 20694:2018 
+3.12 
+84. 
+ domain-specific register 
+επίπεδο χρήσης είδιο ως 
+προς το θεματικό πεδίο 
+ 
+ 
+ISO/TR 20694:2018 
+4.7 
+85. 
+ domain-specific 
+technical term 
+τεχνικός όρος είδιος ως 
+προς το θεματικό πεδίο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.2 
+86. 
+ dominant language 
+κυρίαρχη γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+87. 
+ East Asian language 
+ανατολικοασιατική γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+88. 
+ educated speaker 
+μορφωμένος ομιλητής, 
+μορφωμένη ομιλήτρια 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+89. 
+ elegant speech 
+(Japanese) 
+κομψός λόγος (ιαπωνικά) 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+90. 
+ email register 
+επίπεδο χρήσης 
+ηλεκτρονικού ταχυδρομείου 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+91. 
+ engineering register 
+επίπεδο χρήσης των 
+μηχανικών 
+ 
+ 
+ISO/TR 20694:2018 
+4.7 
+92. 
+ environment 
+περιβάλλον 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+93. 
+ event of language use 
+συμβάν γλωσσικής χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+3.3 
+ 
+7 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+94. 
+ external criterion for 
+linguistic variation 
+εξωτερικό κριτήριο 
+γλωσσικής ποικιλότητας 
+ 
+ 
+ISO/TR 20694:2018 
+3.1 
+95. 
+ extremely informal 
+register 
+άκρως ανεπίσημο επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+3.10 
+96. 
+ facetious register 
+εξυπνακίστικο επίπεδο 
+χρήσης 
+language register  related to 
+an expression that is 
+intended to be clever and 
+funny but that is really silly 
+and annoying 
+επίπεδο χρήσης που 
+χαρακτηρίζει μια έκφραση 
+που είναι δήθεν έξυπνη και 
+αστεία, αλλά που εντέλει 
+είναι ανόητη και ενοχλητική 
+ISO/TR 20694:2018 
+3.11 
+97. 
+ familiar register 
+οικείο επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+98. 
+ familiar situation 
+οικεία (επικοινωνιακή) 
+περίσταση 
+ 
+ 
+ISO/TR 20694:2018 
+3.7 
+99. 
+ film script 
+σενάριο ταινίας 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+100. 
+ first name 
+μικρό όνομα 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+101. 
+ folk etymology 
+παρετυμολογία 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.3 
+102. 
+ formal form of address 
+επίσημος τύπος 
+προσφώνησης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+103. 
+ formal grammatical 
+feature 
+επίσημο γραμματικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+104. 
+ formal lexical item 
+επίσημο λεξικό στοιχείο 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+105. 
+ formal marker 
+τυπικός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+106. 
+ formal register 
+επίσημο επίπεδο χρήσης, 
+τυπικό επίπεδο χρήσης 
+language register that 
+conforms to accepted 
+standards and conventions 
+and is used in serious and 
+official situations 
+επίπεδο χρήσης που 
+συνάδει με τα κοινώς 
+αποδεκτά πρότυπα και 
+συμβάσεις και 
+χρησιμοποιείται σε σοβαρές 
+και επίσημες περιστάσεις 
+ISO/TR 20694:2018 
+3.6 
+107. 
+ formal speech 
+επίσημος λόγος 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+ 
+8 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+108. 
+ formal stem 
+επίσημο θέμα 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+109. 
+ formal to informal 
+continuum 
+συνεχές από το επίσημο 
+στο ανεπίσημο 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+110. 
+ formality axis 
+άξονας επισημότητας 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+111. 
+ formality scale 
+κλίμακα επισημότητας 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+112. 
+ formality/informality axis 
+άξονας 
+επισημότητας/ανεπισημότητ
+ας 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+113. 
+ formal-polite register 
+(Korean) 
+επίσημο-ευγενικό επίπεδο 
+χρήσης (κορεάτικα) 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+114. 
+ fossilized expression 
+απολιθωμένη έκφραση 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.3 
+115. 
+ frequency of use 
+συχνότητα χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+116. 
+ frozen or static register 
+παγιωμένο επίπεδο 
+χρήσης, στατικό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+117. 
+ full name 
+ονοματεπώνυμο 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+118. 
+ general consensus 
+γενική συναίνεση  
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+119. 
+ general text 
+γενικό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+3.14 
+120. 
+ genre 
+γραμματειακό είδος 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+121. 
+ geographic designation 
+γεωγραφικός 
+χαρακτηρισμός 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+122. 
+ geographic language 
+variant 
+γεωγραφική γλωσσική 
+παραλλαγή 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+123. 
+ geographical 
+distribution 
+γεωγραφική κατανομή 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+124. 
+ gesture 
+χειρονομία 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+125. 
+ grammar feature 
+γραμματικό χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+ 
+9 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+126. 
+ grammatical feature 
+γραμματικό χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.1 
+127. 
+ grammatical form 
+γραμματικός τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+3.2.1 
+128. 
+ grammatical marker 
+γραμματικός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.1 
+129. 
+ grammatical norm 
+γραμματική νόρμα 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+130. 
+ hierarchy of registers 
+ιεραρχία επιπέδων χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+131. 
+ high register 
+υψηλό επίπεδο χρήσης  
+formal register conceived of 
+as being at the top of a 
+vertical continuum of 
+language registers 
+επίσημο επίπεδο χρήσης 
+που θεωρείται ότι βρίσκεται 
+στην κορυφή ενός 
+κατακόρυφου άξονα 
+επιπέδων χρήσης  
+ISO/TR 20694:2018 
+3.8 
+132. 
+ ‘high’ language 
+«υψηλή» γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+133. 
+ ‘high’ variety  
+«υψηλή» ποικιλία  
+ 
+ 
+ISO/TR 20694:2018 
+7 
+134. 
+ high to low continuum 
+συνεχές από το υψηλό στο 
+χαμηλό 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+135. 
+ highly stratified 
+community 
+κοινότητα με έντονη 
+κοινωνική διαστρωμάτωση 
+ 
+ 
+ISO/TR 20694:2018 
+4.3 
+136. 
+ high-status language 
+γλώσσα υψηλού κύρους 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+137. 
+ historical document 
+ιστορικό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+4.10 
+138. 
+ homogeneous subset 
+ομοιογενές υποσύνολο 
+ 
+ 
+ISO/TR 20694:2018 
+3.1 
+139. 
+ honorific 
+τιμητική προσφώνηση 
+word, title, or grammatical 
+form that signals respect or 
+high social status 
+λέξη, τίτλος ή γραμματικός 
+τύπος που δείχνει σεβασμό 
+ή υψηλή κοινωνική θέση 
+ISO/TR 20694:2018 
+3.2.1 
+140. 
+ honorific form of 
+address 
+τιμητικός τύπος 
+προσφώνησης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+141. 
+ honorific prefix 
+τιμητικό πρόθημα 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+142. 
+ honorific register 
+τιμητικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+143. 
+ honorific/humble level of 
+τιμητικό/ταπεινό επίπεδο 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+ 
+10 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+politeness 
+ευγένειας 
+144. 
+ horizontal most formal 
+to least formal 
+continuum 
+οριζόντιο συνεχές από το 
+πιο επίσημο στο πιο 
+ανεπίσημο 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+145. 
+ host language 
+γλώσσα υποδοχής 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+146. 
+ humble form of address 
+ταπεινός τύπος 
+προσφώνησης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+147. 
+ humorous register 
+χιουμοριστικό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+148. 
+ impersonal pronoun 
+απρόσωπη αντωνυμία 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.3 
+149. 
+ inconsistency of 
+language register 
+ασυνέπεια στο επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+150. 
+ indicator of formality 
+δείκτης επισημότητας 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+151. 
+ individual 
+άτομο 
+ 
+ 
+ISO/TR 20694:2018 
+3.3 
+152. 
+ individual language 
+ξεχωριστή γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+3.1 
+153. 
+ inflectional form 
+κλιτὀς τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.5 
+154. 
+ inflectional suffix 
+κλιτικό επίθημα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+155. 
+ informal affix 
+ανεπίσημο πρόσφυμα 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+156. 
+ informal grammatical 
+feature 
+ανεπίσημο γραμματικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+157. 
+ informal lexical item 
+ανεπίσημο λεξικό στοιχείο 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+158. 
+ informal register 
+ανεπίσημο επίπεδο χρήσης,  
+μη τυπικό επίπεδο χρήσης 
+language register that does 
+not pay special attention to 
+standards and conventions 
+and is used in casual and 
+familiar situations 
+επίπεδο χρήσης που δεν 
+δίνει ιδιαίτερη προσοχή στα 
+πρότυπα και τις συμβάσεις 
+και  χρησιμοποιείται σε 
+χαλαρές και οικείες 
+περιστάσεις 
+ISO/TR 20694:2018 
+3.7 
+159. 
+ informal situation 
+ανεπίσημη (επικοινωνιακή) 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+ 
+11 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+περίσταση 
+160. 
+ in-house register 
+ενδοεταιρικό επίπεδο 
+χρήσης 
+language register that is 
+company-specific and not 
+readily recognized outside 
+this environment  
+ 
+Note 1 to entry: In-house 
+terminology is not 
+necessarily equivalent to 
+bench-level terminology, 
+inasmuch as the former can 
+thrive at very high levels of 
+research and development. 
+In-house terminology is 
+frequently the source of new 
+technical terminology that 
+eventually gains widespread 
+acceptance on a broader 
+scale. 
+επίπεδο χρήσης που 
+χρησιμοποιείται εντός μιας 
+ορισμένης εταιρείας και δεν 
+είναι εύκολα κατανοητό 
+εκτός αυτής 
+ΣΗΜΕΊΩΣΗ 1: Η 
+ενδοεταιρική ορολογία δεν 
+ισοδυναμεί αναγκαστικά με 
+ορολογία των 
+εμπειροτεχνών, δεδομένου 
+ότι η πρώτη μπορεί να 
+συναντάται σε πολύ υψηλά 
+επίπεδα έρευνας και 
+ανάπτυξης. Σε πολλές 
+περιπτώσεις, η ενδοεταιρική 
+ορολογία αποτελεί πηγή 
+νέας τεχνικής ορολογίας η 
+οποία ενδέχεται να αποκτά 
+ευρύτερη αποδοχή σε 
+μεγαλύτερη κλίμακα.  
+ISO/TR 20694:2018 
+3.18 
+161. 
+ in-house terminology 
+ενδοεταιρική ορολογία 
+ 
+ 
+ISO/TR 20694:2018 
+3.18 
+162. 
+ innovative grammatical 
+feature 
+νεωτεριστικό γραμματικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.1 
+163. 
+ innovative linguistic 
+feature 
+νεωτεριστικό γλωσσικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+164. 
+ instant messaging 
+στιγμιαία μηνυματοδοσία, 
+άμεση ανταλλαγή 
+μηνυμάτων 
+ 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.4 
+165. 
+ intended audience 
+σκοπούμενο κοινό 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+166. 
+ internal linguistic 
+characteristic 
+εσωτερικό γλωσσικό 
+χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+ 
+12 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+167. 
+ international youth slang 
+διεθνής αργκό των νέων 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+168. 
+ intimate register 
+εξαιρετικά οικείο επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+169. 
+ ironic register 
+ειρωνικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+170. 
+ irony 
+ειρωνεία 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+171. 
+ language category 
+γλωσσική κατηγορία 
+ 
+ 
+ISO/TR 20694:2018 
+4.8 
+172. 
+ language community 
+γλωσσική κοινότητα 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+173. 
+ language level 
+γλωσσικό επίπεδο 
+ 
+ 
+ISO/TR 20694:2018 
+1, 7 
+174. 
+ language register, 
+register 
+επίπεδο χρήσης, επίπεδο 
+ύφους 
+language variety used for a 
+particular purpose or in an 
+event of language use, 
+depending on the type of 
+situation, especially its 
+degree of formality  
+Note 1 to entry: An individual 
+usually has more than one 
+language register in their 
+verbal repertoire and can 
+vary their use of register 
+according to their perception 
+of what is appropriate for 
+different purposes or 
+domains. 
+γλωσσική ποικιλία που 
+επιλέγεται για συγκεκριμένο 
+σκοπό ή σε ένα συμβάν 
+γλωσσικής χρήσης, ανάλογα 
+με το είδος της περίστασης, 
+και ειδικά ανάλογα με τον 
+βαθμό επισημότητάς της  
+ΣΗΜΕΊΩΣΗ 1: Συνήθως, 
+ένα άτομο διαθέτει 
+περισσότερα από ένα 
+επίπεδα χρήσης στο λεκτικό 
+ρεπερτόριό του, επιλέγοντας 
+κάθε φορά εκείνο που 
+αντιλαμβάνεται ότι αρμόζει 
+στον εκάστοτε σκοπό ή 
+θεματικό τομέα.  
+ΣΗΜΕΊΩΣΗ 2: Στα ελληνικά, 
+οι όροι «επίπεδο χρήσης», 
+«επίπεδο ύφους», «επίπεδο 
+λόγου», «υφολογικό 
+επίπεδο», «γλωσσικό 
+επίπεδο», «χρηστικό 
+επίπεδο», «καταστασιακό 
+ιδίωμα», «λειτουργική 
+ποικιλία», «εύρος χρήσης» 
+ISO/TR 20694:2018 
+Εισαγωγή, 
+3.3 
+ 
+13 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+θεωρούνται συνώνυμοι.    
+ 
+175. 
+ language resource 
+γλωσσικός πόρος 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+176. 
+ language use 
+γλωσσική χρήση 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+177. 
+ language variant 
+γλωσσική παραλλαγή 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή, 
+1 
+178. 
+ language variety 
+γλωσσική ποικιλία 
+largest subset of an 
+individual language that is 
+homogeneous both with 
+regard to a certain criterion 
+for linguistic variation and 
+with regard to a certain 
+structural criterion for 
+linguistic variation 
+το ευρύτερο υποσύνολο μιας 
+ξεχωριστής γλώσσας που 
+είναι ομοιογενές τόσο ως 
+προς ένα ορισμένο 
+εξωτερικό κριτήριο 
+γλωσσικής ποικιλότητας όσο 
+και ως προς ένα ορισμένο 
+δομικό κριτήριο γλωσσικής 
+ποικιλότητας  
+ISO/TR 20694:2018 
+3.1 
+179. 
+ Latin borrowing 
+λατινικό δάνειο, δάνειο από 
+τα λατινικά 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+180. 
+ learned environment 
+περιβάλλον υψηλού 
+μορφωτικού επιπέδου 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+181. 
+ lecture 
+διάλεξη 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+182. 
+ legal document 
+νομικό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+183. 
+ legal register 
+νομικό επίπεδο χρήσης 
+language register used in 
+the domain of law 
+επίπεδο χρήσης που 
+χρησιμοποιείται στον νομικό 
+τομέα 
+ISO/TR 20694:2018 
+3.12 
+184. 
+ level of politeness 
+επίπεδο ευγένειας 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+185. 
+ lexical item 
+λεξικό στοιχείο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+186. 
+ lexical marker 
+λεξικός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+187. 
+ lexical norm 
+λεξική νόρμα 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+188. 
+ lexico-grammatical 
+λεξικογραμματικό μοτίβο 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+ 
+14 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+pattern 
+189. 
+ lexicographic 
+description 
+λεξικογραφική περιγραφή 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+190. 
+ lexicography 
+λεξικογραφία 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+191. 
+ linguist 
+γλωσσολόγος 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+192. 
+ linguistic characteristic 
+γλωσσικό χαρακτηριστικό 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+193. 
+ linguistic marker 
+γλωσσικός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+194. 
+ linguistic marker of 
+language register 
+γλωσσικός δείκτης 
+επιπέδου χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+195. 
+ linguistic pattern 
+γλωσσικό μοτίβο 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+196. 
+ linguistic purism 
+γλωσσική καθαρολογία 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+197. 
+ linguistic theorist 
+θεωρητικός της γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+198. 
+ linking phrase 
+συνδετική φράση 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.7 
+199. 
+ literary borrowing 
+λόγιο δάνειο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+200. 
+ literary register 
+λογοτεχνικό επίπεδο 
+χρήσης 
+language register commonly 
+used in literary works 
+επίπεδο χρήσης που 
+χρησιμοποιείται κυρίως σε 
+λογοτεχνικά έργα 
+ISO/TR 20694:2018 
+3.13 
+201. 
+ literary theorist 
+θεωρητικός της λογοτεχνίας 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+202. 
+ literary work 
+λογοτεχνικό έργο 
+ 
+ 
+ISO/TR 20694:2018 
+3.13 
+203. 
+ low register 
+χαμηλό επίπεδο χρήσης  
+informal register conceived 
+of as being at the bottom of 
+a vertical continuum of 
+language registers 
+ανεπίσημο επίπεδο χρήσης 
+που θεωρείται ότι βρίσκεται 
+στη βάση ενός κατακόρυφου 
+άξονα επιπέδων χρήσης 
+ISO/TR 20694:2018 
+3.9 
+204. 
+ ‘low’ language 
+«χαμηλή» γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+205. 
+ ‘low’ variety 
+«χαμηλή» ποικιλία 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+206. 
+ management of 
+translation memories 
+διαχείριση μεταφραστικών 
+μνημών 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+ 
+15 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+207. 
+ mappable common 
+scientific discourse 
+αντιστοιχίσιμος κοινός 
+επιστημονικός λόγος 
+ 
+ 
+ISO/TR 20694:2018 
+6.1 
+208. 
+ marker 
+δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.4 
+209. 
+ marker of 
+formality/informality 
+δείκτης 
+επισημότητας/ανεπισημότητ
+ας 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+210. 
+ medical register 
+ιατρικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+4.7 
+211. 
+ metadata schema 
+σχήμα μεταδεδομένων 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+212. 
+ middle register 
+μεσαίο επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+213. 
+ mixed language 
+registers 
+ανάμεικτα επίπεδα χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+214. 
+ morpheme 
+μόρφημα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.1 
+215. 
+ morphological system 
+μορφολογικό σύστημα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.2 
+216. 
+ motherese, baby talk 
+μαμαδίστικα, μπεμπεκίστικα 
+language register often used 
+by adults in addressing very 
+small children 
+επίπεδο χρήσης που 
+χρησιμοποιείται συχνά από 
+ενήλικες όταν απευθύνονται 
+σε πολύ μικρά παιδιά 
+ISO/TR 20694:2018 
+3.22 
+217. 
+ multifaceted description 
+πολύπλευρη περιγραφή 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+218. 
+ multilingual society 
+πολύγλωσση κοινότητα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+219. 
+ multiword unit 
+πολυλεκτική μονάδα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.6 
+220. 
+ neutral register, 
+standard register 
+ουδέτερο επίπεδο χρήσης, 
+πρότυπο επίπεδο χρήσης 
+language register 
+appropriate to general texts 
+or discourse 
+επίπεδο χρήσης κατάλληλο 
+για γενικά κείμενα ή γενική 
+γλώσσα 
+ISO/TR 20694:2018 
+3.14 
+221. 
+ non-geographic 
+language variant 
+μη γεωγραφική γλωσσική 
+παραλλαγή 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+222. 
+ non-linguistic signal 
+εξωγλωσσικό σήμα 
+ 
+ 
+ISO/TR 20694:2018 
+4.2 
+223. 
+ non-neutral register 
+μη ουδέτερο επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+ 
+16 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+224. 
+ non-royal person 
+μη βασιλικό πρόσωπο 
+ 
+ 
+ISO/TR 20694:2018 
+3.4 
+225. 
+ non-technical register 
+μη τεχνικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+226. 
+ noun compound 
+σύνθετο ουσιαστικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.6 
+227. 
+ novel 
+μυθιστόρημα 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+228. 
+ offence 
+προσβολή 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+229. 
+ official situation 
+επίσημη (επικοινωνιακή) 
+περίσταση  
+ 
+ 
+ISO/TR 20694:2018 
+3.6 
+230. 
+ online communication 
+επιγραμμική επικοινωνία 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.4 
+231. 
+ oral text 
+προφορικό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+232. 
+ paraphrase 
+παραφράζω 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.7 
+233. 
+ passive construction 
+παθητική σύνταξη  
+ 
+ 
+ISO/TR 20694:2018 
+5.3.3 
+234. 
+ peer group solidarity 
+αλληλεγγύη μεταξύ των 
+μελών μιας ομάδας 
+ 
+ 
+ISO/TR 20694:2018 
+4.3 
+235. 
+ penultimate stress 
+τονισμός στην 
+παραλήγουσα 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+236. 
+ periphrastic verb form 
+περιφραστικός ρηματικός 
+τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.5 
+237. 
+ permissible value 
+επιτρεπτή τιμή 
+ 
+ 
+ISO/TR 20694:2018 
+4.8 
+238. 
+ phonological marker 
+φωνολογικός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.2 
+239. 
+ plain English 
+απλά αγγλικά 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+240. 
+ plain language register 
+απλό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+241. 
+ polarized duality of high 
+and low 
+πολωμένη δυαδικότητα 
+υψηλού–χαμηλού 
+ 
+ 
+ISO/TR 20694:2018 
+7 
+242. 
+ polite form of address 
+ευγενικός τύπος 
+προσφώνησης 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+243. 
+ polite level 
+ευγενικό επίπεδο  
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+ 
+17 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+244. 
+ polite register (Korean) 
+ευγενικό επίπεδο χρήσης 
+(κορεάτικα) 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+245. 
+ politeness 
+ευγένεια 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+246. 
+ polyhierarchical 
+description 
+πολυϊεραρχική περιγραφή 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+247. 
+ prefabricated expression 
+στερεότυπη έκφραση 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.3 
+248. 
+ prepared speech 
+προσχεδιασμένη ομιλία  
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+249. 
+ preposition 
+πρόθεση 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+250. 
+ prescribed use of 
+language 
+ρυθμισμένη χρήση της 
+γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+251. 
+ prescription 
+ρύθμιση 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+252. 
+ prescriptive 
+environment 
+ρυθμιστικό περιβάλλον 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+253. 
+ prescriptive language 
+register 
+ρυθμιστικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+3.15 
+254. 
+ profane term 
+υβριστικός όρος 
+ 
+ 
+ISO/TR 20694:2018 
+3.1.7 
+255. 
+ profane text type 
+υβριστικός κειμενικός τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+3.1.7 
+256. 
+ profanity 
+βωμολοχία, βρισιά 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.5 
+257. 
+ professional 
+επαγγελματίας 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+258. 
+ professional group 
+επαγγελματική ομάδα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+259. 
+ professional setting 
+επαγγελματικό περιβάλλον 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+260. 
+ public address 
+δημόσια αναγγελία 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+261. 
+ publicity leaflet 
+διαφημιστικό φυλλάδιο 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+262. 
+ publishing environment 
+εκδοτικό περιβάλλον 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+263. 
+ range of language 
+registers 
+φάσμα των επιπέδων 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+ 
+18 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+264. 
+ ranking of politeness 
+διαβάθμιση ευγένειας 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+265. 
+ regional language 
+variant 
+τοπική παραλλαγή 
+γλώσσας,  
+τοπική γλωσσική 
+παραλλαγή 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.5 
+266. 
+ register label 
+ένδειξη του επιπέδου 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+267. 
+ register switch marker 
+δείκτης εναλλαγής επιπέδου 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+268. 
+ relative pronoun 
+αναφορική αντωνυμία 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+269. 
+ religious register 
+θρησκευτικό επίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+270. 
+ report 
+έκθεση 
+ 
+ 
+ISO/TR 20694:2018 
+6.2 
+271. 
+ rich hierarchy of 
+registers 
+πλούσια ιεραρχία επιπέδων 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+272. 
+ royal court 
+βασιλική αυλή 
+ 
+ 
+ISO/TR 20694:2018 
+4.10 
+273. 
+ royal person 
+βασιλικό μέλος  
+ 
+ 
+ISO/TR 20694:2018 
+3.5 
+274. 
+ royal register 
+βασιλικό επίπεδο χρήσης 
+language register used in 
+addressing or referring to 
+royal persons 
+επίπεδο χρήσης που 
+χρησιμοποιούμε όταν 
+απευθυνόμαστε ή 
+αναφερόμαστε σε μη 
+βασιλικά μέλη 
+ISO/TR 20694:2018 
+3.5 
+275. 
+ royal register (Thai) 
+βασιλικό επίπεδο χρήσης 
+(ταϊλανδέζικα) 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+276. 
+ safe indicator 
+δείκτης ασφαλούς 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+277. 
+ sarcasm 
+σαρκασμός 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+278. 
+ satire 
+διακωμώδηση, σάτιρα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.7 
+279. 
+ scientific register 
+επιστημονικό επίπεδο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+ 
+19 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+χρήσης 
+280. 
+ scientific subregister 
+επιστημονικό υποεπίπεδο 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.3 
+281. 
+ scientific text 
+επιστημονικό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+3.16 
+282. 
+ scientist 
+επιστήμονας 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+283. 
+ second language 
+learning 
+εκμάθηση δεύτερης 
+γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+284. 
+ second language 
+teaching 
+διδασκαλία δεύτερης 
+γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+1, 4.1 
+285. 
+ second person plural 
+form of address 
+τύπος προσφώνησης στο 
+δεύτερο πρόσωπο του 
+πληθυντικού 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+286. 
+ second person singular 
+form of address 
+τύπος προσφώνησης στο 
+δεύτερο πρόσωπο του 
+ενικού 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+287. 
+ semi-formal register, 
+formal-lateral register 
+(Korean) 
+ημιεπίσημο επίπεδο χρήσης 
+(κορεάτικα) 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+288. 
+ sentence complexity 
+πολυπλοκότητα πρότασης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+289. 
+ sentence length 
+μήκος πρότασης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+290. 
+ serious situation 
+σοβαρή (επικοινωνιακή) 
+περίσταση  
+ 
+ 
+ISO/TR 20694:2018 
+3.6 
+291. 
+ sermon 
+κήρυγμα 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+292. 
+ shop term  
+όρος της πιάτσας 
+ 
+ 
+ISO/TR 20694:2018 
+3.19 
+293. 
+ shortened form 
+συντομευμένη μορφή 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.4 
+294. 
+ simplified language 
+απλοποιημένη γλώσσα 
+prescriptive language 
+register following guidelines 
+to make text and/or speech 
+easier to understand 
+ρυθμιστικό επίπεδο χρήσης 
+που ακολουθεί 
+συγκεκριμένες 
+κατευθυντήριες οδηγίες 
+ISO/TR 20694:2018 
+3.15 
+ 
+20 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+ώστε να κάνει ευκολότερη 
+την κατανόηση ενός 
+γραπτού κειμένου και/ή μιας 
+προφορικής ομιλίας 
+295. 
+ simplified natural 
+language 
+απλοποιημένη φυσική 
+γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+296. 
+ situation 
+(επικοινωνιακή) περίσταση  
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+297. 
+ situation of convergence 
+περίπτωση σύγκλισης 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+298. 
+ situation of divergence 
+περίπτωση απόκλισης 
+ 
+ 
+ISO/TR 20694:2018 
+6.4 
+299. 
+ slang register 
+αργκοτικό επίπεδο χρήσης 
+extremely informal register 
+of a word, term, or text that 
+is used in spoken and 
+everyday language and less 
+commonly in documents  
+ 
+EXAMPLE In aviation, the 
+phrase fly by the seat of 
+your pants is slang for the 
+more formal fly without 
+instruments. 
+άκρως ανεπίσημο επίπεδο 
+χρήσης μιας λέξης, ενός 
+όρου ή ενός κειμένου, που 
+χρησιμοποιείται στον 
+προφορικό και καθημερινό 
+λόγο και σπανιότερα στον 
+γραπτό  
+ΠΑΡΑΔΕΙΓΜΑ 
+Η 
+έκφραση κόβω λάσπη  
+χρησιμοποιείται σε 
+αργκοτικό επίπεδο χρήσης 
+αντί για το δραπετεύω, 
+φεύγω βιαστικά (συνήθως 
+για να αποφύγω κάτι).  
+ISO/TR 20694:2018 
+3.10 
+300. 
+ social attitude 
+κοινωνική στάση 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+301. 
+ social context 
+κοινωνικές συνθήκες 
+ 
+ 
+ISO/TR 20694:2018 
+4.10 
+302. 
+ social group 
+κοινωνική ομάδα 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+303. 
+ social media 
+μέσα κοινωνικής δικτύωσης 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.4 
+304. 
+ social norm 
+κοινωνική νόρμα 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+305. 
+ social status 
+κοινωνική θέση 
+ 
+ 
+ISO/TR 20694:2018 
+3.2.1 
+306. 
+ social stratification 
+κοινωνική διαστρωμάτωση  
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+ 
+21 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+307. 
+ social structure 
+κοινωνική δομή 
+ 
+ 
+ISO/TR 20694:2018 
+4.3 
+308. 
+ socially unacceptable 
+term 
+κοινωνικά μη αποδεκτός 
+όρος 
+ 
+ 
+ISO/TR 20694:2018 
+3.17 
+309. 
+ socially unacceptable 
+text type 
+κοινωνικά μη αποδεκτός 
+κειμενικός τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+3.17 
+310. 
+ societal distribution 
+κοινωνική κατανομή 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+311. 
+ sociolinguist 
+κοινωνιογλωσσολόγος 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+312. 
+ sociolinguistics 
+κοινωνιογλωσσολογία 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+313. 
+ software 
+λογισμικό 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+314. 
+ source language 
+γλώσσα-πηγή 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+315. 
+ source of borrowings 
+πηγή δανείων 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+316. 
+ special language 
+ειδική γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+3.16 
+317. 
+ specialized 
+communication 
+εξειδικευμένη επικοινωνία 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+318. 
+ spoken register 
+προφορικό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+319. 
+ spoken text 
+εκφωνούμενο κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+320. 
+ spontaneous speech 
+αυθόρμητος λόγος 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+321. 
+ Standard English 
+πρότυπη αγγλική 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+322. 
+ standard language 
+πρότυπη γλώσσα 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.3 
+323. 
+ strong indicator 
+ισχυρός δείκτης 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.6 
+324. 
+ structural criterion for 
+linguistic variation 
+δομικό κριτήριο γλωσσικής 
+ποικιλότητας 
+ 
+ 
+ISO/TR 20694:2018 
+3.1 
+325. 
+ style 
+ύφος 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+326. 
+ style guide 
+οδηγός σύνταξης 
+ 
+ 
+ISO/TR 20694:2018 
+4.4 
+327. 
+ subclause 
+δευτερεύουσα πρόταση 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.8 
+ 
+22 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+328. 
+ subject-specific 
+grammar 
+γραμματική είδια του 
+θέματος 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.2 
+329. 
+ subordinate 
+υφιστάμενος 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+330. 
+ subregister 
+υποεπίπεδο χρήσης 
+subsidiary division of 
+language register  
+υποδιαίρεση του επιπέδου 
+χρήσης  
+ISO/TR 20694:2018 
+3.20 
+331. 
+ superior 
+προϊστάμενος, προϊσταμένη 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.1 
+332. 
+ surname 
+επώνυμο 
+ 
+ 
+ISO/TR 20694:2018 
+5.4.2 
+333. 
+ swear word 
+βρισιά 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.5 
+334. 
+ taboo register 
+επίπεδο χρήσης ταμπού 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+335. 
+ taboo word 
+λέξη ταμπού 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.5 
+336. 
+ tag 
+σημαντήρας, ετικέτα 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+337. 
+ tagging 
+σήμανση, ανάρτηση 
+ετικέτας 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+338. 
+ target language 
+γλώσσα-στόχος 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+339. 
+ teaching of foreign 
+languages 
+διδασκαλία ξένων γλωσσών 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+340. 
+ technical 
+communication 
+τεχνική επικοινωνία 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+341. 
+ technical register 
+τεχνικό επίπεδο χρήσης,  
+ειδικό επίπεδο χρήσης 
+language register 
+appropriate to scientific texts 
+or special languages 
+επίπεδο χρήσης κατάλληλο 
+για επιστημονικά κείμενα ή 
+ειδικές γλώσσες 
+ISO/TR 20694:2018 
+3.16 
+342. 
+ technical terminology 
+τεχνική ορολογία 
+ 
+ 
+ISO/TR 20694:2018 
+3.18 
+343. 
+ technical vocabulary 
+τεχνικό λεξιλόγιο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.2 
+344. 
+ technologist 
+τεχνολόγος 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.4 
+345. 
+ term formation 
+σχηματισμός όρων 
+ 
+ 
+ISO/TR 20694:2018 
+5.3.6 
+346. 
+ terminology database, 
+termbase 
+βάση ορολογικών 
+δεδομένων 
+ 
+ 
+ISO/TR 20694:2018 
+4.8 
+ 
+23 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+347. 
+ terminology planning 
+ορολογικός σχεδιασμός 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.3 
+348. 
+ terminology work 
+ορολογική εργασία 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+349. 
+ text type 
+κειμενικός τύπος 
+ 
+ 
+ISO/TR 20694:2018 
+4.5 
+350. 
+ theme 
+θέμα 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+351. 
+ theoretical level of 
+language 
+θεωρητικό επίπεδο 
+γλώσσας 
+ 
+ 
+ISO/TR 20694:2018 
+3.19 
+352. 
+ top of a vertical 
+continuum of language 
+registers 
+κορυφή ενός κατακόρυφου 
+συνεχούς επιπέδων χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+ 
+3.8 
+353. 
+ traditional dictionary 
+παραδοσιακό λεξικό 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+354. 
+ trance register 
+εκστασιακό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Πίνακας 1 
+355. 
+ translation 
+μετάφραση 
+ 
+ 
+ISO/TR 20694:2018 
+1 
+356. 
+ translation environment 
+μεταφραστικό περιβάλλον 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+357. 
+ translation memory 
+μεταφραστική μνήμη 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+358. 
+ translation memory 
+system 
+σύστημα μεταφραστικής 
+μνήμης 
+ 
+ 
+ISO/TR 20694:2018 
+6.5 
+359. 
+ translation work 
+μεταφραστική εργασία 
+ 
+ 
+ISO/TR 20694:2018 
+4.1 
+360. 
+ translator training 
+κατάρτιση μεταφραστών 
+ 
+ 
+ISO/TR 20694:2018 
+6.3 
+361. 
+ type of situation 
+είδος (επικοινωνιακής) 
+περίστασης 
+ 
+ 
+ISO/TR 20694:2018 
+3.3 
+362. 
+ typology of language 
+registers 
+τυπολογία των επιπέδων 
+χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+363. 
+ verbal repertoire 
+λεκτικό ρεπερτόριο 
+ 
+ 
+ISO/TR 20694:2018 
+3.3 
+364. 
+ vertical continuum of 
+language registers 
+κατακόρυφο συνεχές 
+επιπέδων χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+3.8 
+365. 
+ vertical high to low 
+κατακόρυφο συνεχές από το 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+ 
+24 
+Α/Α 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Πηγή 
+Θέση 
+continuum 
+υψηλότερο στο χαμηλότερο 
+366. 
+ very high level of 
+research and 
+development 
+πολύ υψηλό επίπεδο 
+έρευνας και ανάπτυξης 
+ 
+ 
+ISO/TR 20694:2018 
+3.18 
+367. 
+ vocabulary difference 
+λεξιλογική διαφορά 
+ 
+ 
+ISO/TR 20694:2018 
+4.6 
+368. 
+ vocabulary item 
+λεξιλογικό στοιχείο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.1 
+369. 
+ vulgar register 
+χυδαίο επίπεδο χρήσης 
+language register of a term 
+or text type that can be 
+characterized as profane or 
+socially unacceptable 
+επίπεδο χρήσης ενός όρου ή 
+ενός κειμενικού τύπου που 
+μπορεί να χαρακτηριστεί 
+βλάσφημος ή κοινωνικά 
+απαράδεκτος 
+ISO/TR 20694:2018 
+3.1.7 
+370. 
+ widespread acceptance 
+γενική αποδοχή 
+ 
+ 
+ISO/TR 20694:2018 
+3.18 
+371. 
+ work of fiction 
+έργο μυθοπλασίας 
+ 
+ 
+ISO/TR 20694:2018 
+4.10 
+372. 
+ written register 
+γραπτό επίπεδο χρήσης 
+ 
+ 
+ISO/TR 20694:2018 
+Εισαγωγή 
+373. 
+ written text 
+γραπτό κείμενο 
+ 
+ 
+ISO/TR 20694:2018 
+5.1.6.2 
+ 
+ 

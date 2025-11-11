@@ -1,0 +1,721 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/Papers-and-speakers/12th_17-08-04_DoikasSpyros_Paper2_V03.pdf
+
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+245 
+17    Rev(i|er)sing the LSJ 
+  
+Spiros Doikas 
+ABSTRACT 
+Liddell-Scott-Jones (LSJ) is a standard lexicographical work of the Ancient Greek language available 
+online in a number of different incarnations. Its directionality is from Ancient Greek to English. What if 
+one wants to search from English to Ancient Greek? The Perseus Project, a seminal and authoritative 
+electronic source, provides a functionality whereby a reverse search is possible, based on a simple 
+term-to-translation(s) logic, devoid of any further processing.  
+The above approach is a far cry from being satisfactory and is susceptible to a number of pitfalls. This 
+paper aims to explore these pitfalls and provide a framework for their remediation on a linguistic and 
+computational level. Some of the types of issues identified: 
+1. 
+Missing term elements (“commander of a” for “τελάρχης”) 
+2. 
+Missing Greek-derived equivalents (no “cephalalgia” in “κεφαλαλγία” and no “pankration” in 
+“παγκράτιον”) 
+3. 
+Use of Greek as part of the translation (for example “παρανυμφεύω” rendered as “act as 
+παράνυμφος”) 
+4. 
+Use of anaphora (“σκοτωματικός” as “causing dizziness | suffering from it”) 
+5. 
+Use of Latin instead of English, especially for taboo words (“crepitus ventris” for “ἔριθος”) 
+6. 
+Use of old English (“shew” instead of “show”, “connexion” instead of “connection”) 
+7. 
+Use of dash inbetween words ( “to-morrow”) 
+8. 
+Abbreviated forms of the headword in phrases resulting in inflectional ambiguity (“κλυτὰ δ. 
+βένθεσι λίμνης”) 
+9. 
+Incomplete example phrases with mid-phrase ellipsis (“τὸ ὕδωρ… αὐ. μὲν οὔκ ἐστι”) 
+10. Typos and linguistic errors (“ἐντονία” instead of “εὐτονία”) 
+A script was created to extract the term/translation equivalents from the xml file. Phase I consisted of a) 
+analysis of the output in Ancient Greek to English format b) identification and categorization of the 
+issues and c) a plan for their remediation. Phase II was an analysis and further revision of the reversed 
+material. Phase III was preparation and publication of the output in wiki format as an interactive 
+supplemental resource to LSJ proper. 
+Επιμέλεια και αντιστροφή του LSJ 
+Σπύρος ∆όικας 
+ΠΕΡΙΛΗΨΗ 
+Το Liddell-Scott-Jones (LSJ) είναι ένα λεξικογραφικό έργο-ορόσημο της αρχαίας ελληνικής γλώσσας το 
+οποίο διατίθεται στο ∆ιαδίκτυο σε πολυάριθμες διαφορετικές υλοποιήσεις. Η κατεύθυνσή του είναι από 
+τα αρχαία ελληνικά στα αγγλικά. Αν όμως κάποιος θέλει να πραγματοποιήσει αναζήτηση από τα αγγλικά 
+στα αρχαία ελληνικά τι επιλογές έχει; Το Perseus, μια σημαντική και έγκυρη ηλεκτρονική πηγή, παρέχει 
+μια λειτουργικότητα με την οποία είναι δυνατή η αντίστροφη αναζήτηση, με βάση μια απλή λογική 
+αντίστροφης παράθεσης των αποδοθέντων όρων, χωρίς όμως περαιτέρω επεξεργασία. 
+Η παραπάνω προσέγγιση πόρρω απέχει από το να είναι ικανοποιητική και υποπίπτει σε πολυάριθμες 
+παγίδες τις οποίες έχει ως στόχο να διερευνήσει η παρούσα εργασία, καθώς επίσης να παράσχει ένα 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+246 
+πλαίσιο για την αποκατάστασή τους σε γλωσσικό και υπολογιστικό επίπεδο. Μερικές από τις κατηγορίες 
+ορολογικών ζητημάτων που εντοπίστηκαν: 
+1. 
+Οροστοιχεία που λείπουν («commander of a» για το «τελάρχης») 
+2. 
+Μη παράθεση ελληνικών ισοδύναμων (δεν υπάρχουν οι αποδόσεις «acatalepsy, anodynia, 
+cephalalgia, Eteocretans, hubris, otalgia, pankration, philhellene, rhapsodist, strigil» για τα 
+«ἀκαταληψία, ἀνωδυνία, κεφαλαλγία, Ἐτεόκρητες, ὕβρις, ὠταλγία, παγκράτιον, φιλέλλην, 
+ῥαψῳδός, στλεγγίς» αντίστοιχα) 
+3. 
+Χρήση της ελληνικής ως μέρος της απόδοσης του όρου ( «act as παράνυμφος» για το 
+«παρανυμφεύω», «κώθων-maker» για το «κωθωνοποιός», «πρόεδρος-designate» για το 
+«μελλοπρόεδρος», «γάρον mixed with wine» για το «οἰνόγαρον», «from Θῆβαι» για το 
+«Θήβηθε») 
+4. 
+Χρήση αναφοράς (το «σκοτωματικός» αποδίδεται «causing dizziness | suffering from it») 
+5. 
+Χρήση λατινικών όρων αντί για αγγλικών, ιδίως για λέξεις-ταμπού: «crepitus ventris» για το 
+«ἔριθος» αντί για «flatulence» ή «fart»· «membrum virile» αντί για «penis» για τα «πέος, 
+φαλλός, σαύρα, κέρκος, σχοινίον, κορύνη, ἀνδρεῖον, πόσθη, φλέψ, ψωλή, κωλῆ, πάσσαλος»· 
+«pudenda muliebria» ή «pudendum muliebre» αντί για «vagina» για τα «κέλης, κῆπος, κόκκος, 
+κτείς, κύσθος, λειμών, Μηριόνης, πεδίον, ῥόδον, σαβαρίχις, σάκανδρος, σάραβος, σῦκον, 
+ταῦρος, τρῆμα, ὕειον, ὕσσακος, χοῖρος». 
+6. 
+Χρήση παλαιών Αγγλικών («shew» αντί για «show», «connexion» αντί για «connection») 
+7. 
+Χρήση παύλας μεταξύ λέξεων («to-morrow») 
+8. 
+Συντομευμένες μορφές του λήμματος σε φράσεις με αποτέλεσμα μορφολογική ασάφεια  
+(«κλυτὰ δ. βένθεσι λίμνης» στο λήμμα «δῶμα» όπου το «δ.» είναι συντομογραφία του 
+«δώματα») 
+9. 
+Παραδειγματικές φράσεις με ελλιπή στοιχεία αναφερόμενα μέσω αποσιωπητικών στο μέσον 
+(«τὸ ὕδωρ… αὐ. μὲν οὔκ ἐστι») 
+10. Τυπογραφικά και γλωσσολογικά σφάλματα («incilement» αντί για «incitement»· «ἐντονία» αντί 
+για «εὐτονία») 
+∆ημιουργήθηκε μια δέσμη ενεργειών για την εξαγωγή των ισοδύναμων όρων/αποδόσεων από το αρχείο 
+xml. Η πρώτη φάση περιελάμβανε α) ανάλυση του λημματολογίου στην πρωτογενή μορφή από αρχαία 
+ελληνικά προς αγγλικά β) ταυτοποίηση και κατηγοριοποίηση των ορολογικών ζητημάτων και γ) σχέδιο 
+βελτιστοποίησης. Η δεύτερη φάση ενείχε μια ανάλυση και περαιτέρω αναθεώρηση του λημματολογίου 
+στην ανεστραμμένη μορφή του (από αγγλικά προς αρχαία ελληνικά). Η τρίτη φάση ήταν η προετοιμασία 
+για τη δημοσίευση του λημματολογίου σε μορφή βίκι ως διαδραστικός συμπληρωματικός πόρος για το 
+LSJ. 
+ 
+ 
+ 
+ 
+0   Introduction 
+Liddell-Scott-Jones (LSJ) is a standard lexicographical work of the Ancient Greek language 
+available online in several different incarnations. Its directionality is from Ancient Greek to 
+English. However, there are not many satisfactory options when one wants to search from 
+English to Ancient Greek. The Perseus Project, a seminal and authoritative electronic 
+source, provides a functionality whereby a reverse search is possible, based on a simple 
+term-to-translation(s) logic, devoid of any further processing.  
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+247 
+The above approach is a far cry from being satisfactory and is subject to numerous pitfalls 
+which this paper aims to explore and provide a framework for their remediation on a 
+linguistic and computational level.  
+In order to create a list of entries for reversal, a script was created to extract the 
+term/translation equivalents from the LSJ xml file in a two-column tab-delimited format. 
+Phase I consisted of a) analysis of the output in Ancient Greek to English format b) 
+identification and categorization of the issues and c) a plan for their remediation. Phase II 
+was an analysis and further revision and enrichment of the reversed material with other 
+resources. Phase III was preparation and publication of the output in wiki format as an 
+interactive supplemental resource to LSJ proper on lsj.gr1, a dedicated Ancient Greek and 
+Latin wiki with multilingual coverage of Ancient Greek (English, Spanish, German, French, 
+Dutch, Russian). 
+Due to the size limitations of this paper, the focus will be on the issues identified in the 
+process of reversal and revision. 
+1.0   Types of issues identified 
+The automatic reversal of the list of entries highlighted the following issues: 
+1. 
+Missing term elements 
+o 
+Missing verb in phrasal verbs or noun in compound terms 
+2. 
+Use of Greek as part of the translation 
+3. 
+Use of anaphora 
+4. 
+Use of Latin instead of English 
+o 
+Use of Latin in taboo words and expressions 
+5. 
+Missing Greek-derived equivalents 
+6. 
+Missing Latin-derived terms 
+7. 
+Abbreviated forms 
+o 
+Abbreviated forms of the headword in phrases resulting in inflectional 
+ambiguity 
+o 
+Adverbs in abbreviated form 
+o 
+Incomplete example phrases with mid-phrase ellipsis 
+o 
+Incomplete example phrases without translation 
+8. 
+Use of antonyms 
+9. 
+Use of old English  
+o 
+Erroneous or old English use of dash  
+10. Missing translations 
+                                                 
+1  
+A paper by the same author (in Greek), published at the 9
+th conference “Hellenic Language and 
+Terminology” (2013), outlying the wikification of the LSJ can be accessed at 
+http://www.eleto.gr/download/Conferences/9th%20Conference/Papers-and-speakers/9th_23-05-
+01_DoikasSpyros_Paper_V05.pdf 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+248 
+11. Typos and linguistic errors 
+o 
+Latin binomials with both compounds in capitals 
+o 
+Missing dash 
+o 
+Use of Beta Code instead of polytonic Greek 
+o 
+Linguistic errors 
+The issues will be discussed in the subsections that follow. 
+1.1   Missing term elements 
+As one can see in the image below in the Perseus reverse search2, there are term elements 
+missing. 
+ 
+ 
+ 
+Figure 1 Search results for the word “command” in Perseus 
+ 
+For example, if we click on the LSJ link next to “τετραφαλαγγάρχης” we will see the Ancient 
+Greek to English lemma of the LSJ which might give as a clue as for why this happens. 
+                                                 
+2  
+http://www.perseus.tufts.edu/hopper/definitionlookup?type=begin&q=command&target=greek 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+249 
+If one looks carefully at the English text that is presented as a translation of the term in the 
+English to Ancient Greek search, a part of it is italicized in LSJ proper and another part is in 
+Greek, hyperlinked and non-italicized (“commander of a τετραφαλαγγία”). Perseus, in order 
+to produce the reverse search output, uses the part of the entry that is italicized; hence the 
+term clipping. 
+ 
+Figure 2   τετραφαλαγγάρχης in Perseus LSJ 
+ 
+Even after the improvement of the extraction script to include the non-italicized part, we 
+have a mixed language output for term translations which is not acceptable in a bilingual 
+dictionary (“commander of a τετραφαλαγγία” instead of “commander of a corps of four 
+phalanxes”). See further down “Use of Greek as part of the translation”. 
+1.1.1 Missing verb in phrasal verbs or noun in compound terms 
+Another subcase of missing term element is missing the verb in some of the translations due 
+to the “economical” layout of the original (print) dictionary. For example, for the entry 
+“ἀνεπηρέαστος” the translation is “free from injury or insult”. What is extracted by the script 
+is “free from injury | insult”; therefore, instead of “free from injury | free from insult”. 
+ἀκτήμων 
+without property | poor | in 
+ἀμφικυλίνδω 
+roll about | round | on 
+ἀναντλέω 
+draw up | out  
+ἀνεπηρέαστος 
+free from injury | insult  
+ἀπομηρύομαι 
+draw up from | out of 
+ἀποτρέχω 
+run off | away  
+διαίσσω 
+rush | dart through | across 
+ἐγκαταμίγνυμαι 
+be mixed in | with 
+ἐγκοιμάομαι 
+sleep in | sleep upon | after 
+ἐγκοιτέω 
+sleep in | on 
+εἰσθέω 
+run into | in | runs up | run up 
+εἰσθρώσκω 
+leap into | in 
+ἐκπίνω 
+drink out | off  
+ἐννυχεύω 
+sleep in | on | to sleep in | sink 
+ἐντρίβω 
+rub in | crumble | into  
+ἐπειστρέχω 
+run in upon | after 
+ἐπίφθονος 
+liable to envy | jealousy  
+εὐνῆθεν 
+from | out of bed 
+κρήνηθεν 
+from a well | spring 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+250 
+μακροδρόμος 
+running long | far 
+ναυπρύτανις 
+ruling ships | the sea 
+ὁμόπολις 
+from | of the same city | state 
+ὁμοτροχάω 
+run in company | together 
+παραρρέγχω 
+snore beside | near 
+παραρριγόω 
+freeze beside | near 
+παρυπνόω 
+sleep by | with 
+περιθρύπτω 
+rub | pound in pieces 
+ποντόθεν 
+from | out of the sea 
+προσκαθεύδω 
+sleep by | near 
+προστρέχω 
+run to | towards  
+συγκατακαλύπτω 
+wrap up with | in 
+συμβρέμω 
+roar along with | together 
+ὑπομειδιάω 
+smile a little | gently 
+ὠτειλῆθεν 
+from | out of the wound 
+ 
+1.2   Use of Greek as part of the translation  
+As described above, an extremely high number of translations use Greek as part of the 
+term. This is cumbersome as the user would have to look up the Greek part of the term too.  
+A typical example is “τερατογραφέω” which is translated as “write of τέρατα”. If we look it up 
+in other dictionaries of the same era, like for example James Donogan’s, A New Greek and 
+English Lexicon (1840)3, we see that not only there is no Greek in the translation but we also 
+have multiple suggestions: “To describe, or relate wonderful, or preternatural occurrences; 
+to describe prodigies, portentous appearances, or miracles ; to discourse, or write 
+concerning, such subjects.” 
+It is also worth noting Franco Montanari's, The Brill Dictionary of Ancient Greek (2015), 
+which, not only uses contemporary English, but examples of use are also translated. And of 
+course, it is not beset by LSJ’s idiosyncrasy of using Greek as part of the translation, i.e. in 
+LSJ we get “like ἀβυρτάκη” for “ἀβυρτακώδης”, whereas in Brill we get “like spicy sauce”4. 
+This approach, taken to the extreme, results in the linguistically unappealing formation of 
+hyphenated chimeric compounds (“half-κάδος”, “πρόεδρος-designate”, “κώθων-maker”, 
+“μάννα-like”). The way to remedy this issue is to provide full translations for all such entries 
+(about 3.000). 
+                                                 
+3  
+https://archive.org/details/newgreekenglishl00donnuoft 
+4  https://brill.com/fileasset/downloads_products/34732_Preview.pdf (page 11) 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+251 
+ἀγελαστέω 
+be ἀγέλαστος 
+ἀθλοθεσία 
+office of ἀθλοθέτης 
+Ἀμφιαράϊον 
+sanctuary of Ἀμφιάραος 
+ἀρχιφυλακέω 
+hold office of ἀρχιφύλαξ 
+διαπαγκρατιάζω 
+contend in the παγκράτιον 
+διλοχίτης 
+commander of a διλοχία 
+ἐπαγκυλίζομαι 
+be fitted with an ἀγκύλη 
+ἡμικάδιον 
+half-κάδος 
+Θήβηθε 
+from Θῆβαι 
+καρυκοειδής 
+like καρύκη 
+κοτυλιαῖος 
+holding a κοτύλη 
+κωθωνοποιός 
+κώθων-maker 
+κωμαρχέω 
+be a κωμάρχης | administer as κωμάρχης 
+λικνίτης 
+of the λίκνον 
+μελλοπρόεδρος 
+πρόεδρος-designate 
+ναρθηκώδης 
+like a νάρθηξ 
+οἰνόγαρον 
+γάρον mixed with wine 
+πρατορεύω 
+act as πράτωρ 
+σῦκον Αἰγύπτιον 
+the fruit of the κερωνία (instead of “carob” 
+or “locust bean”) 
+συνεφηβεύω 
+serve as ἔφηβοι together 
+σωριτικός 
+of the nature of the σωρίτης 
+ταῦρος 
+the male αἰδοῖον 
+τερατογραφέω 
+write of τέρατα 
+τηγανιστός 
+fried in a τήγανον 
+χλαινηφόρος 
+wearing a χλαῖνα 
+ 
+1.3   Use of anaphora 
+Anaphora is the use of a pronoun or other linguistic unit to refer back to another word or 
+phrase. While it is convenient for linguistic economy in print dictionaries, terms using it are 
+not reversible as a vital term element is obscured (its antecedent or postcedent) by the 
+anaphor (the pronoun referring to the term element). 
+ἀγρυπνητικός 
+wakeful | producing wakefulness | spell for this purpose 
+αἱ ἐ. τῶν Ἄλπεων 
+the difficulties of passing them (from the entry “ἐρυμνότης”) 
+Ἀναγυροῦς 
+Adj. Ἀναγυρ-άσιο ς, ὁ, man of this deme 
+ἀποδιψάω 
+cease from thirst | be relieved of it 
+ἀφλέγμαντος 
+free from inflammation | not liable to it  
+∆ιδυμαῖος 
+their temple | their festival 
+Ἰσοκράτει ἀργύριον 
+ἀναλίσκω 
+spend money in paying him (from the entry “ἀναλίσκω”) 
+σκοτωματικός 
+causing dizziness | suffering from it 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+252 
+ 
+1.4   Use of Latin instead of English 
+Many entries are translated with their Latin equivalent only. 
+ἀμπελοφύλαξ 
+custos vineae | MISSING vineyard-keeper 
+ἐξαίνυμαι 
+ἐξαίνυτο θυμόν = animam eripuit (instead of “took away 
+breath, took away life, killed”) 
+καταφιμόω 
+conticisco 
+καυκαλίς 
+Tordylium apulum | MISSING Mediterranean hartwort 
+κούστωρ 
+custos | MISSING guard, watch, preserver, keeper, overseer, 
+protector, defender, attendant 
+λαβδοειδής 
+ὀστοῦν λαβδοειδές = os hyoïdes (strangely, a French term is 
+used here instead of the Latin “os hyoideum”) | MISSING 
+hyoid bone 
+εὐαντόλως5 
+correpte 
+ἀναλίσκω6 
+λόγῳ ἀ. τὸν χρόνον τῆς ἡμέρας = diem eximere dicendo 
+πυλουρός 
+custos 
+σαγάπηνον 
+Ferula persica | MISSING sagapenum 
+ 
+1.4.1   Use of Latin in taboo words and expressions 
+This is a phenomenon which is widespread in the Ancient Greek dictionaries of the 18th and 
+19th centuries. We see it also in Anatole Bailly’s Dictionnaire grec-français (1895)7, Wilhelm 
+Pape’s Griechisch-Deutsches Handwörterbuch (1842)8 as well as Dvoretsky’s Ancient 
+Greek to Russian dictionary (1958) [И. Х. Дворецкий, Древнегреческо-русский]9. 
+ 
+εὐρύπρωκτος, χαυνόπρωκτος 
+wide-breeched | pathicus (instead of 
+“catamite, sodomite, person who submits to 
+anal sex, passive male partner in anal 
+intercourse, passive homosexual, brownie 
+queen, browning queen, passive partner”) 
+πορδή 
+crepitus ventris (instead of “flatulence” or 
+“fart”) 
+                                                 
+5  
+https://www.translatum.gr/forum/index.php?topic=575947.0 
+6  
+https://www.translatum.gr/forum/index.php?topic=578597.0 
+7  
+https://archive.org/details/BaillyDictionnaireGrecFrancais. A study on taboo expressions in Ancient 
+Greek with French translations can be found here: http://chaerephon.e-
+monsite.com/pages/miscellanea/pudenda.html 
+8  
+https://archive.org/details/drwpapeshandwrt03bensgoog 
+9  
+All the above dictionaries are searchable on lsj.gr 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+253 
+πέος, φαλλός, σαύρα, κέρκος, σχοινίον, 
+κορύνη, ἀνδρεῖον, πόσθη, φλέψ, ψωλή, 
+κωλῆ, πάσσαλος 
+membrum virile (instead of “penis”) 
+κέλης, κῆπος, κόκκος, κτείς, κύσθος, 
+λειμών, Μηριόνης, πεδίον, ῥόδον, 
+σαβαρίχις, σάκανδρος, σάραβος, 
+σῦκον, ταῦρος, τρῆμα, ὕειον, ὕσσακος, 
+χοῖρος 
+“pudenda muliebria” or “pudendum muliebre” 
+(instead of “vagina”) 
+ψωλή 
+membrum virile praeputio retracto (instead 
+of “erect penis” or, to be precise, 
+“uncircumsized penis in a state of arousal”)  
+ἀποψωλέω 
+praeputium retrahere alicui | verpum facere 
+ἐντονία10 
+distentio penis 
+ 
+1.5   Missing Greek-derived equivalents 
+There are numerous English words of Greek origin, such as medical terms or Greek cultural 
+references, which are near-transcriptions of the Greek word. Many blatant and commonly 
+used words are missing like “acatalepsy, anodynia, cephalalgia, hubris, Eteocretans, otalgia, 
+pankration, philhellene, rhapsodist, strigil”. 
+ 
+ἀκαταληψία 
+MISSING acatalepsy | inability to comprehend | inability attain 
+conviction 
+ἀνθρωπολόγος 
+speaking of man, i.e. fond of personal conversation  | MISSING 
+anthropologist  
+Ἀνθρωφηρακλῆς 
+title of play by Pherecrates | MISSING Anthropheracles 
+ἀνωδυνία 
+freedom from pain | MISSING anodinia | MISSING anodynia 
+ἀπορητικός 
+dubitative | inclined to doubt | MISSING aporetic 
+Βοηδρομιών 
+third Attic month | MISSING Boedromion 
+γαστραφέτης 
+stomach-bow | MISSING gastraphetes 
+ἑταίρα 
+MISSING hetaira | MISSING hetaera 
+Ἐτεόκρητες 
+true Cretans | MISSING Eteocretans 
+ἐφεκτικός 
+MISSING ephectic 
+ζητητικός 
+MISSING zetetic 
+Κενταυρομαχία 
+battle of Centaurs | MISSING Centauromachy 
+κεφαλαλγία 
+head-ache | MISSING cephalalgia 
+ὀμφάκιον 
+juice of unripe grapes | oil made from unripe olives | MISSING 
+omphacium 
+ὀψιμαθής 
+late in learning, late to learn | MISSING opsimath 
+ὀψιμαθία 
+late-gotten learning | MISSING opsimathy 
+παγκράτιον 
+all-in contest in boxing and wrestling | MISSING pankration 
+                                                 
+10 https://www.translatum.gr/forum/index.php?topic=577708.0 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+254 
+ῥαψῳδός 
+reciter of Epic poems | MISSING rhapsodist 
+στλεγγίς  
+MISSING strigil 
+τριχίασις 
+MISSING trichiasis  
+ὕβρις 
+MISSING hubris 
+φαλλοφόρος 
+bearing a phallus | MISSING phallophorus | MISSING 
+phallophoros 
+φαρμακοποιΐα 
+preparation of drugs | MISSING pharmacopoeia 
+φιλέλλην 
+fond of the Hellenes | MISSING philhellene 
+ὠταλγία 
+earache | MISSING otalgia 
+ 
+1.6   Missing Latin-derived terms 
+Often, terms of Latin origin which are perfectly acceptable and in current usage, are not 
+used as translations. 
+ἀγκύλη 
+MISSING amentum 
+βρεφοκτόνος, παιδολέτωρ, τεκνοφόνος, 
+ὠλεσίτεκνος 
+MISSING infanticide | child-
+murdering 
+παιδοκτονία, τεκνοκτονία 
+MISSING infanticide | child-
+murder 
+παιδοκτόνος 
+MISSING filicide 
+ 
+1.7   Abbreviated forms 
+Print dictionaries tend to use all sorts of abbreviated forms in order to save space. However, 
+the result is not only less transparency but also lexical and inflectional ambiguity, especially 
+with such highly inflectional languages as Ancient Greek. 
+1.7.1   Abbreviated forms of the headword in phrases resulting in inflectional 
+ambiguity 
+ἀγκύλη 
+ἀ. χρυσόστροφοι (instead of “ἀγκύλαι χρυσόστροφοι”) 
+ἀλκυόνειος 
+of the ἀλκυών, ἀ. ἡμέραι (which could be “ἁλκυόνειοι ἡμέραι” or 
+“ἀλκυονίδες ἡμέραι”) 
+βασιλεύς 
+β. τῶν ἱερῶν = rex sacrorum (instead of “βασιλεύς τῶν ἱερῶν”) 
+δῶμα 
+κλυτὰ δ. βένθεσι λίμνης (full phrase is “κλυτὰ δώματα βένθεσι λίμνης”) 
+ἐχθές 
+οὐ γάρ τι νῦν γε κἀ. (“κἀ.” should be “κἀχθές”) 
+Μαύσσωλλος 
+Μαυσωλεῖον = tomb of M. (instead of “tomb of Mausolus”) 
+μωρός 
+μ. ἀνάγκη = blind necessity (which should be “μωρά ἀνάγκη”) 
+μωρός 
+τὸ μ. (this could be “τὸ μῶρον” or to “τὸ μωρόν”) 
+ὑοειδής 
+ὀστοῦν ὑ. the hyoid bone (instead of “ὀστοῦν ὑοειδές” or “ὑοειδές 
+ὀστοῦν”) 
+ 
+1.7.2   Adverbs in abbreviated form 
+Given that adverbs are listed in an abbreviated form and no appropriate mark-up in the 
+actual code, there is no easy way to extract them as additional entries. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+255 
+ἀγαπητός 
+-τῶς gladly, contentedly 
+γνωστός 
+-τῶς clearly 
+δυνατός 
+-τῶς strongly 
+ἐνδοιαστός 
+-τῶς doubtfully 
+νοητός 
+-τῶς carefully 
+προπετής 
+-τῶς headlong, out of control 
+συνετός 
+-τῶς intelligently 
+χαμαιπετής 
+-τῶς along the ground, like a goose's flight 
+χρηστός 
+-τῶς well, properly 
+ 
+1.7.3   Incomplete example phrases with mid-phrase ellipsis 
+There are multiple instances of example phrases which are incomplete and the user would 
+have to look up the original source in order to retrieve the full phrase. 
+αὐθιγενής 
+τὸ ὕδωρ… αὐ. μὲν οὔκ ἐστι = not from a natural spring 
+ 
+1.7.4   Incomplete example phrases without translation 
+Sometimes, the example phrases not only are incomplete, but also no translation is 
+provided. 
+αἴτιος 
+τί ποτ' οὖν ἐστι τὸ αἴτιον τό… μηδένα εἰπεῖν 
+ 
+1.8   Use of antonyms 
+Antonyms are listed in a way that they are indistinguishable from translations of the term. 
+ 
+ἀλήθεια 
+truth | lie | mere appearance 
+κουρότερος 
+young | elder [full source text: young, opp. elder] 
+ἀπανθρωπίζομαι 
+become a man, beast [full source text: “become a man, opp. a 
+beast”.] (Missing “ἐκθηριοῦσθαι” as a possible antonym.) 
+ 
+1.9   Use of old English  
+Given that LSJ was first published in 1819, there are many remnants of old English spelling.  
+connexion 
+(instead of “connection”) 
+shew 
+(instead of “show”) 
+ἀναλίσκω 
+ἀνήλωσας λόγον = hast wasted words (instead of “has”) 
+Ὀλυμπιονίκης 
+conqueror in the Olympic games (instead of: “Olympic winner, 
+Olympian winner, Olympian, victor in the Olympic games, winner in 
+the Olympic games”) 
+ 
+1.9.1   Erroneous or old English use of dash  
+For example: camel-hay, Can-daules, door-keeper, pumice-stone, rupture-wort, to-morrow. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+256 
+1.10   Missing translations 
+Some terms are devoid of translation; in some cases they only provide meta-information as 
+in the one below: 
+μνηστηροφονία 
+name of the twenty-second book of the odyssey (missing “slaughter 
+of the suitors”; Bailly does translate as “meurtre des prétendants”) 
+ 
+1.11   Typos and linguistic errors 
+ἀγκύλη 
+χρυσόστροΦοι (instead of “χρυσόστροφοι”) 
+ἄμβιξ 
+spouied cup (instead of “spouted cup”) 
+ἀπλεονέκτητος 
+free from anarice (instead of “avarice”) 
+διυφή 
+woven fabrie (instead of “fabric”) 
+ἐμφόρησις 
+replelion (instead of “repletion”) 
+ἑτέροζυξ 
+(instead of “ἑτερόζυξ”) 
+καταχορηγέω 
+lauish as χορηγός (instead of “lavish”) 
+παρόρμησις 
+incilement (instead of “incitement”) 
+πέος 
+membrum uirile (instead of “virile”) 
+ῥύστης 
+leliverer (instead of “beliverer”) 
+φιάλη 
+broad, fiat bowl or saucer for drinking or pouring 
+libations (“fiat” instead of “flat”) 
+ 
+1.11.1   Latin binomials with both compounds in capitals 
+In modern usage, the first letter of the first part of the name, the genus, is always capitalized 
+in writing, while that of the second part is not, even when derived from a proper noun such 
+as the name of a person or place11. Hence, in the entry “κυνόγλωσσος”, “Cynoglossum 
+Columnae” should be spelled “Cynoglossum columnae” instead. 
+1.11.2   Missing dash 
+In the entry “πυριμαχέω” one can read “be fireresisting” (instead of “be fire-resisting”). 
+1.11.3   Use of Beta Code instead of polytonic Greek 
+In the entry “λίνος” one can read “li/nos: to\ di/ktuon” which should be “λίνος τὸ δίκτυον”. 
+1.11.4   Linguistic errors 
+Usage of the non-existent headword “ἐντονία” instead of “εὐτονία”. Even the text referred to 
+(Horapollo 1.46) has εὐτονία (“vigor”) and not “ἐντονία”12. 
+                                                 
+11  https://en.wikipedia.org/wiki/Binomial_nomenclature 
+12  https://www.translatum.gr/forum/index.php?topic=577708.0 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+257 
+2   Conclusion 
+In this brief paper I tried to breach different kinds of issues encountered in the task of 
+reversing the LSJ. It quickly became apparent that a reversal was not possible without a 
+thorough revision which would also affect the dictionary in its standard form. A 
+categorization of the issues is helpful in managing the revision of such an extensive work. 
+The aim is to publish the end result on lsj.gr as a supplemental, interactive, wikified resource 
+to LSJ proper. Similar work is being carried out on other language pairs involving Ancient 
+Greek (French, German, Russian).  
+ 
+Spiros Doikas 
+Founder of translatum.gr translation portal and lsj.gr classics wiki 
+E-mail: translatum@translatum.gr 
+ 
+ 

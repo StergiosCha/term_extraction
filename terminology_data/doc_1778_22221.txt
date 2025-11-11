@@ -1,0 +1,7631 @@
+SOURCE: http://eleto.gr/download/Bodies/English-Greek-Glossary-of-Sensory-analysis_ELETO_EMAKOATP.pdf
+
+ 
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+Δεκέμβριος 2022 
+ 
+ 
+ 
+Αγγλοελληνικό γλωσσάριο όρων και ορισμών εννοιών  
+αισθητηριακής ανάλυσης 
+(199 λήμματα) 
+Πηγή των αγγλικών όρων και ορισμών:  ISO 5492:2008 Sensory analysis – Vocabulary 
+Μετάφραση/αναθεώρηση:  Γιώργος Τσιάμας, Κώστας Βαλεοντής, Μαλαματένια Παναγιώτου, Κωνσταντίνος 
+Γκατζιώνης 
+Επεξεργασία: ΓΕΣΥ σε συνεργασία με το Εργαστήριο Μελέτης Αντιδράσεων Καταναλωτή και 
+Οργανοληπτικής Ανάλυσης Τροφίμων και Ποτών (ΕΜΑΚΟΑΤΠ) του Πανεπιστημίου 
+Αιγαίου 
+ 
+Περιεχόμενα 
+Περιεχόμενα ............................................................................................................................................................................ 1 
+Πρόλογος – Ιστορικό ............................................................................................................................................................... 1 
+1   General terminology – Γενική ορολογία ............................................................................................................................. 2 
+2   Terminology relating to the senses – Ορολογία σχετική με τις αισθήσεις ......................................................................... 5 
+3   Terminology relating to organoleptic attributes – Ορολογία σχετική με οργανοληπτικά χαρακτηριστικά .......................... 8 
+4   Terminology relating to methods – Ορολογία σχετική με μεθόδους ................................................................................ 20 
+ΣΥΝΟΛΙΚΟ ΑΛΦΑΒΗΤΙΚΟ ΑΓΓΛΟΕΛΛΗΝΙΚΟ ΓΛΩΣΣΑΡΙΟ .............................................................................................. 25 
+Βιβλιογραφία ......................................................................................................................................................................... 50 
+ 
+ 
+Πρόλογος – Ιστορικό 
+Το Αγγλοελληνικό γλωσσάριο όρων και ορισμών εννοιών αισθητηριακής ανάλυσης (στο εξής «Γλωσσάριο») αποτελείται 
+από το αγγλικό μέρος του ISO 5492:2008 Sensory analysis – Vocabulary και το ελληνικό ισοδύναμό του, που συντάχθηκε 
+ύστερα από μετάφραση, αναθεώρηση και επεξεργασία του αγγλικού, και περιέχει 199 αγγλοελληνικά ορολογικά λήμματα 
+το καθένα με τον αγγλικό όρο, τον ελληνικό όρο, τον αγγλικό ορισμό της έννοιας, τον ελληνικό ορισμό της έννοιας και τον 
+κωδικό αριθμό του όρου.  
+Αφορμή για την ανάληψη του εγχειρήματος αποτέλεσε η ανακοίνωση «Πρόταση απόδοσης της ορολογίας του κλάδου της 
+γλωσσολογίας ‘sensory linguistics’ στην ελληνική γλώσσα» της Μαλαματένιας Παναγιώτου (υποψήφιας διδακτόρισσας) 
+και του Κωνσταντίνου Γκατζιώνη, διευθυντή του Εργαστηρίου Μελέτης Αντιδράσεων Καταναλωτή και Οργανοληπτικής 
+Ανάλυσης Τροφίμων και Ποτών (στο εξής «Εργαστήριο ΕΜΑΚΟΑΤΠ») του Πανεπιστημίου Αιγαίου στο 13ο Συνέδριο 
+«Ελληνική Γλώσσα και Ορολογία» (11–13/11/2021).  
+Μετά το 13ο Συνέδριο, ο Γενικός Γραμματέας της ΕΛΕΤΟ Γιώργος Τσιάμας, με δική του πρωτοβουλία, πραγματοποίησε 
+μια πρώτη μετάφραση των αγγλικών λήμμάτων του ISO 5492:2008 και τον Δεκέμβριο 2021 υπέβαλε το μετάφρασμα στο 
+E 
+Λ 
+Ε  Τ  Ο 
+L 
+E 
+2 
+ΓΕΣΥ, το οποίο και αποφάσισε την περαιτέρω διαδικασία για την επεξεργασία και έγκριση του Γλωσσαρίου. Παράλληλα, 
+η ΕΛΕΤΟ ήρθε σε επαφή με τον Κ. Γκατζιώνη και αποφασίστηκε η συνεργασία ΕΛΕΤΟ – Εργαστηρίου ΕΜΑΚΟΑΤΠ στη 
+μετάφραση και επεξεργασία του γλωσσαρίου καθώς και η συμμετοχή της Μ. Παναγιώτου, ως εκπροσώπου του 
+Εργαστηρίου ΕΜΑΚΟΑΤΠ, στις συνεδριάσεις του ΓΕΣΥ. Σύμφωνα με την απόφαση, με εισηγητή τον Πρόεδρο του ΓΕΣΥ 
+Κώστα Βαλεοντή, ακολούθησε σταδιακή συζήτηση–επεξεργασία των λημμάτων σε 14 συνεδριάσεις του ΓΕΣΥ (από τις 
+11/1/2022 ως τις 11/10/2022).  
+Κατ’ αντιστοιχίαν προς το ISO 5492:2008, το Γλωσσάριο περιλαμβάνει τέσσερα θεματικά κεφάλαια: Γενική Ορολογία, 
+Ορολογία σχετική με τις αισθήσεις, Ορολογία σχετική με οργανοληπτικά χαρακτηριστικά και Ορολογία σχετική με μεθόδους 
+καθώς και το Συνολικό αλφαβητικό αγγλοελληνικό γλωσσάριο, που περιλαμβάνει όλα τα λήμματα με αλφαβητική σειρά ως 
+προς τον αγγλικό όρο. 
+Σύμφωνα με την απόφαση του ΓΕΣΥ, το Γλωσσάριο υποβλήθηκε αφενός στην Κρίση Μελών της ΕΛΕΤΟ και αφετέρου 
+στην Επιστημονική Επιτροπή του Ελληνικού Δικτύου Ορολογίας (ΕΔΟ) και εγκρίθηκε από το ΓΕΣΥ, σε συνεργασία με το 
+Εργαστήριο ΕΜΑΚΟΑΤΠ, στις 6/12/2022. 
+ 
+1   General terminology – Γενική ορολογία 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+sensory analysis, 
+noun 
+αισθητηριακή 
+ανάλυση, ουσ. 
+science involved with the 
+assessment of the organoleptic 
+attributes of a product by the 
+senses 
+επιστήμη που ασχολείται με την 
+αξιολόγηση των οργανοληπτικών 
+χαρακτηριστικών ενός προϊόντος 
+μέσω των αισθήσεων 
+1.1 
+sensory, adj 
+αισθητηριακός -ή -ό, 
+επίθ. 
+relating to the use of the senses, 
+i.e. to the experience of a 
+person 
+που έχει σχέση με τη χρήση των 
+αισθήσεων, δηλ. με την εμπειρία ενός 
+προσώπου 
+1.2 
+attribute, noun 
+(αντιληπτό) 
+χαρακτηριστικό, 
+ουσ. 
+perceptible characteristic 
+χαρακτηριστικό που προσλαμβάνεται 
+μέσω των αισθήσεων 
+1.3 
+organoleptic, adj 
+οργανοληπτικός -ή 
+-ό, επίθ. 
+relating to an attribute 
+perceptible by the senses, i.e. to 
+an attribute of a product 
+που έχει σχέση με ένα χαρακτηριστικό 
+προϊόντος αντιληπτό μέσω των 
+αισθήσεων 
+1.4 
+sensory assessor, 
+noun 
+αισθητηριακός 
+αξιολογητής, ουσ. 
+any person taking part in a 
+sensory test 
+Note 1 to entry: A naive 
+assessor is a person who does 
+not meet any particular criterion. 
+Note 2 to entry: An initiated 
+assessor has already 
+participated in a sensory test. 
+ 
+πρόσωπο που μετέχει σε 
+αισθητηριακή δοκιμή  
+Σημείωση 1: Αμύητος αξιολογητής 
+είναι το πρόσωπο που δεν πληροί 
+συγκεκριμένα κριτήρια. 
+Σημείωση 2: Μυημένος αξιολογητής 
+είναι το πρόσωπο που έχει ήδη 
+συμμετάσχει σε αισθητηριακή δοκιμή. 
+1.5 
+selected 
+assessor, noun 
+επιλεγμένος 
+αξιολογητής, ουσ. 
+assessor chosen for his/her 
+ability to perform a sensory test 
+αξιολογητής που έχει επιλεγεί για την 
+ικανότητά του να εκτελέσει 
+αισθητηριακές δοκιμές 
+1.6 
+expert, noun 
+ειδικός, ουσ. 
+in the general sense, a person 
+who, through knowledge or 
+experience, has competence to 
+give an opinion in the fields 
+about which he/she is consulted 
+με τη γενική έννοια, πρόσωπο το 
+οποίο, λόγω γνώσης ή εμπειρίας, έχει 
+τα προσόντα να εκφέρει γνώμη στα 
+πεδία για τα οποία ζητείται η 
+συμβουλή του 
+1.7 
+3 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+expert sensory 
+assessor, noun 
+ειδικός 
+αισθητηριακός 
+αξιολογητής, ουσ. 
+selected assessor with a 
+demonstrated sensory sensitivity 
+and with considerable training 
+and experience in sensory 
+testing, who is able to make 
+consistent and repeatable 
+sensory assessments of various 
+products 
+επιλεγμένος αξιολογητής με 
+αποδεδειγμένη αισθητηριακή 
+ευαισθησία και με σημαντική 
+κατάρτιση και εμπειρία σε 
+αισθητηριακές δοκιμές που είναι 
+ικανός να εκτελεί συνεπείς και 
+επαναλήψιμες αισθητηριακές 
+αξιολογήσεις διαφόρων προϊόντων 
+1.8 
+sensory panel, 
+noun 
+αισθητηριακή 
+ομάδα, ουσ. 
+group of assessors participating 
+in a sensory test 
+ομάδα αξιολογητών που συμμετέχουν 
+σε αισθητηριακή δοκιμή 
+1.9 
+panel training, 
+noun 
+κατάρτιση ομάδας, 
+ουσ. 
+series of sessions in which 
+assessors are oriented to the 
+tasks to be completed by a 
+sensory panel in assessing 
+particular product(s), which may 
+include relevant product 
+characteristics, standard rating 
+scales, techniques of evaluation 
+and terminology 
+σειρά συνεδριών κατά τις οποίες οι 
+αξιολογητές μυούνται στις εργασίες 
+που πρέπει να επιτελεί μια 
+αισθητηριακή ομάδα κατά την 
+αξιολόγηση συγκεκριμένων 
+προϊόντων 
+Σημείωση 1: Η αξιολόγηση μπορεί να 
+περιλαμβάνει σχετικά χαρακτηριστικά 
+προϊόντος, πρότυπες κλίμακες 
+κατάταξης, τεχνικές αποτίμησης και 
+ορολογία. 
+1.10 
+panel consensus, 
+noun 
+συναίνεση ομάδας, 
+ουσ. 
+agreement among assessors 
+regarding terminology and 
+intensity of product 
+characteristics 
+συμφωνία μεταξύ των αξιολογητών 
+που αφορά την ορολογία και ένταση 
+των χαρακτηριστικών προϊόντος 
+1.11 
+consumer, noun 
+καταναλωτής, ουσ. 
+person who uses a product 
+πρόσωπο που χρησιμοποιεί ένα 
+προϊόν 
+1.12 
+taster, noun 
+δοκιμαστής, ουσ. 
+assessor, selected assessor or 
+expert who evaluates the 
+organoleptic attributes of a food 
+product, mainly with the mouth 
+Note 1 to entry: The term 
+“assessor” is usually preferred. 
+αξιολογητής, επιλεγμένος αξιολογητής 
+ή ειδικός που εκτιμά τα 
+οργανοληπτικά χαρακτηριστικά ενός 
+τροφίμου, κυρίως με το στόμα 
+Σημείωση 1: Συνήθως, προτιμάται ο 
+όρος «αξιολογητής». 
+1.13 
+tasting, noun 
+γευστική δοκιμή, 
+ουσ. 
+sensory assessment of a food 
+product in the mouth 
+αισθητηριακή αξιολόγηση ενός 
+τροφίμου στο στόμα 
+1.14 
+product, noun 
+προϊόν, ουσ. 
+matter, edible or otherwise, 
+which can be evaluated by 
+sensory analysis 
+EXAMPLE: 
+Food products, cosmetics, 
+textile fabrics. 
+υλικό, φαγώσιμο ή μη, που μπορεί να 
+αξιολογηθεί με αισθητηριακή ανάλυση 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Τρόφιμα, καλλυντικά, υφάσματα 
+1.15 
+sample, noun, 
+sample of 
+product, noun 
+δείγμα, ουσ.,  
+δείγμα προϊόντος, 
+ουσ. 
+specimen or aliquot of product 
+presented for assessment 
+δοκίμιο ή κλάσμα προϊόντος που 
+παρουσιάζεται για αξιολόγηση 
+1.16 
+test sample, noun 
+δείγμα δοκιμής, ουσ. 
+sample of the material under 
+test 
+δείγμα του υπό δοκιμή υλικού 
+1.17 
+test portion, noun 
+μερίδα δοκιμής, 
+ουσ. 
+portion of the test sample which 
+is directly tested by the assessor 
+μέρος δείγματος δοκιμής που 
+δοκιμάζεται απευθείας από τον 
+αξιολογητή 
+1.18 
+reference point, 
+noun 
+σημείο αναφοράς, 
+ουσ. 
+selected value (of one or several 
+attributes or of a product) 
+against which samples are 
+assessed 
+επιλεγμένη τιμή (ενός ή 
+περισσοτέρων αντιληπτών 
+χαρακτηριστικών ενός προϊόντος) ως 
+προς την οποία αξιολογούνται τα 
+δείγματα 
+1.19 
+control sample, 
+noun 
+δείγμα ελέγχου, ουσ. 
+sample of the material under 
+evaluation, chosen as a 
+reference against which all other 
+samples are compared 
+Note 1 to entry: The sample may 
+be identified as a control sample 
+or be a blind control. 
+δείγμα του υπό αξιολόγηση υλικού, 
+που επιλέχθηκε ως αναφορά, με το 
+οποίο συγκρίνονται όλα τα άλλα 
+δείγματα 
+Σημείωση 1: Το δείγμα μπορεί να 
+προσδιορίζεται ως δείγμα ελέγχου ή 
+ως τυφλό δείγμα. 
+1.20 
+4 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+reference sample, 
+noun 
+δείγμα αναφοράς, 
+ουσ. 
+stimulus/substance, sometimes 
+different from the material under 
+test, carefully selected to define 
+or illustrate an attribute or a 
+specified level of a given 
+attribute to which all others are 
+to be compared 
+ερέθισμα/ουσία, μερικές φορές 
+διαφορετικά από το υπό δοκιμή υλικό, 
+προσεκτικά επιλεγμένα για να ορίζουν 
+ή απεικονίζουν ένα αντιληπτό 
+χαρακτηριστικό ή ένα 
+προκαθορισμένο επίπεδο ενός 
+δεδομένου αντιληπτού 
+χαρακτηριστικού με το οποίο 
+πρόκειται να συγκριθούν όλα τα άλλα 
+1.21 
+hedonic, adj 
+αρέσκειας, επιθ. 
+προσδ. 
+relating to like or dislike 
+που έχει σχέση με 
+αρέσκεια/απαρέσκεια 
+Σημείωση 1: Δεν πρέπει να συγχέεται 
+με το επίθετο «ηδονικός» (= που έχει 
+σχέση με ηδονή ή που προκαλεί 
+ηδονή) της γενικής γλώσσας. 
+1.22 
+acceptability, noun 
+αποδεκτότητα, ουσ. 
+degree to which a stimulus is 
+liked or disliked, overall or for 
+particular sensory attributes 
+βαθμός στον οποίο ένα ερέθισμα είναι 
+αρεστό ή όχι, συνολικά ή για ιδιαίτερα 
+αισθητηριακά χαρακτηριστικά 
+1.23 
+preference, noun 
+προτίμηση, ουσ. 
+selection, by an assessor, of 
+one stimulus or product over 
+others in a given set based on 
+hedonic criteria 
+επιλογή, από έναν αξιολογητή, ενός 
+ερεθίσματος ή ενός προϊόντος έναντι 
+άλλων σε ένα δεδομένο σύνολο, 
+βασισμένη σε κριτήρια αρέσκειας 
+1.24 
+aversion, noun 
+απέχθεια, ουσ. 
+feeling of repulsion provoked by 
+a stimulus 
+αίσθημα αποστροφής που 
+προκαλείται από ένα ερέθισμα 
+1.25 
+discrimination, 
+noun 
+διάκριση, ουσ. 
+act of qualitative and/or 
+quantitative differentiation 
+between two or more stimuli 
+πράξη ποιοτικής και/ή ποσοτικής 
+διαφοροποίησης μεταξύ δύο ή 
+περισσότερων ερεθισμάτων 
+1.26 
+discriminating 
+ability, noun 
+διακριτική 
+ικανότητα, ουσ. 
+sensitivity, acuity, ability to 
+perceive quantitative and/or 
+qualitative differences 
+ικανότητα αντίληψης ποσοτικών και/ή 
+ποιοτικών διαφορών 
+1.27 
+appetite, noun 
+όρεξη, ουσ. 
+physiological and psychological 
+state expressed by the desire to 
+eat and/or to drink 
+φυσιολογική και ψυχολογική 
+κατάσταση που εκφράζεται με την 
+επιθυμία για φαγητό ή ποτό 
+1.28 
+appetizing, adj. 
+ορεκτικός -ή -ό, 
+επίθ. 
+describes a product capable of 
+exciting the appetite of the 
+individual 
+(για προϊόν)  ικανός -ή -ό να διεγείρει 
+την όρεξη ενός ατόμου 
+1.29 
+palatability, noun 
+ευγευστότητα, ουσ. 
+quality of a product which makes 
+it pleasant to eat or drink 
+ιδιότητα ενός προϊόντος που το 
+καθιστά ευχάριστο στη βρώση ή 
+πόση 
+1.30 
+psychophysics, 
+noun 
+ψυχοφυσική, ουσ. 
+study of relationships between 
+measurable stimuli and the 
+corresponding sensory 
+responses 
+μελέτη των σχέσεων μεταξύ 
+μετρήσιμων ερεθισμάτων και των 
+αντίστοιχων αισθητηριακών 
+αποκρίσεων 
+1.31 
+olfactometry, noun 
+οσφρησιομετρία, 
+ουσ. 
+measurement of the response of 
+assessors to olfactory stimuli 
+Note 1 to entry: Refers to the 
+assessors. 
+μέτρηση της απόκρισης των 
+αξιολογητών σε οσφρητικά 
+ερεθίσματα 
+Σημείωση 1: Αναφέρεται στους 
+αξιολογητές. 
+1.32 
+olfactometer, noun 
+οσφρησιόμετρο, 
+ουσ. 
+apparatus used to present 
+olfactory stimuli to assessors 
+under reproducible conditions 
+συσκευή που χρησιμοποιείται για την 
+παρουσίαση οσφρητικών 
+ερεθισμάτων στους αξιολογητές κάτω 
+από αναπαραγώγιμες συνθήκες 
+1.33 
+odorimetry, noun 
+οσμομετρία, ουσ. 
+measurement of the odour 
+properties of substances 
+Note 1 to entry: Refers to the 
+products 
+μέτρηση των οσμητικών ιδιοτήτων 
+των ουσιών  
+Σημείωση 1: Αναφέρεται στα 
+προϊόντα. 
+1.34 
+odorant, noun 
+οσμητικό, ουσ. 
+substance whose volatiles can 
+be perceived by the olfactory 
+organ (including nerves) 
+ουσία της οποίας οι πτητικές 
+εκπομπές μπορούν να γίνουν 
+αντιληπτές από το οσφρητικό όργανο 
+(συμπεριλαμβανομένων των νεύρων) 
+1.35 
+5 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+quality, noun 
+ποιότητα, ουσ. 
+collection of features and 
+characteristics of a product, 
+process or service that confer its 
+ability to satisfy stated or implied 
+needs 
+σύνολο γνωρισμάτων και 
+χαρακτηριστικών ενός προϊόντος, 
+μιας διεργασίας ή μιας υπηρεσίας 
+που συνεισφέρουν στην ικανότητά 
+του/της να ικανοποιεί δηλωμένες ή 
+υπονοούμενες ανάγκες 
+1.36 
+quality factor, 
+noun 
+παράγοντας 
+ποιότητας, ουσ. 
+one feature or characteristic 
+chosen among others to assess 
+the overall quality of a product 
+ένα γνώρισμα ή χαρακτηριστικό που 
+επιλέχθηκε μεταξύ άλλων για την 
+αξιολόγηση της συνολικής ποιότητας 
+ενός προϊόντος 
+1.37 
+attitude, noun 
+στάση, ουσ. 
+disposition to respond in a given 
+way toward a class of objects or 
+ideas 
+διάθεση για απόκριση με δεδομένο 
+τρόπο σε μια κατηγορία αντικειμένων 
+ή ιδεών 
+1.38 
+mastication, noun 
+μάσηση, ουσ. 
+act of chewing, grinding and 
+comminuting with the teeth 
+κομμάτιασμα, άλεση και πολτοποίηση 
+με τα δόντια 
+1.39 
+ 
+2   Terminology relating to the senses – Ορολογία σχετική με τις αισθήσεις 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+receptor, noun 
+υποδοχέας, ουσ. 
+specific part of a sense organ 
+which responds to a particular 
+stimulus 
+συγκεκριμένο μέρος ενός αισθητήριου 
+οργάνου που αποκρίνεται σε ένα 
+ιδιαίτερο ερέθισμα 
+2.1 
+stimulus, noun 
+ερέθισμα, ουσ. 
+that which excites a receptor 
+φυσικό αίτιο που διεγείρει ένα 
+αισθητήριο όργανο και προκαλεί το 
+αντίστοιχο αίσθημα 
+2.2 
+perception, noun 
+αντίληψη, ουσ. 
+awareness of the effects of 
+single or multiple sensory stimuli 
+επίγνωση των επιδράσεων ενός ή 
+πολλών αισθητηριακών ερεθισμάτων 
+2.3 
+sensation, noun 
+αίσθημα, ουσ. 
+psychophysiological reaction, 
+resulting from sensory 
+stimulation 
+ψυχοφυσιολογική αντίδραση, που 
+προκύπτει από αισθητηριακή 
+διέγερση 
+2.4 
+sensitivity, noun 
+ευαισθησία, ουσ. 
+ability to perceive, identify 
+and/or differentiate, qualitatively 
+and/or quantitatively, one or 
+more stimuli by means of the 
+sense organs 
+Note 1 to entry: In French, this 
+term should be differentiated 
+from the term “sensibilité”, which 
+refers to the level of ability to 
+discriminate (see 2.10). 
+ικανότητα αντίληψης, αναγνώρισης 
+και/ή διαφοροποίησης, ποιοτικά και/ή 
+ποσοτικά, ενός ή περισσοτέρων 
+ερεθισμάτων με τη βοήθεια των 
+αισθητήριων οργάνων 
+2.5 
+sensory 
+adaptation, noun 
+αισθητηριακή 
+προσαρμογή, ουσ. 
+temporary modification of the 
+sensitivity of a sense organ due 
+to continued and/or repeated 
+stimulation 
+προσωρινή μεταβολή της 
+ευαισθησίας ενός αισθητήριου 
+οργάνου λόγω συνεχιζόμενου και/ή 
+επαναλαμβανόμενου ερεθίσματος 
+2.6 
+sensory fatigue, 
+noun 
+αισθητηριακή 
+κόπωση, ουσ. 
+form of sensory adaptation in 
+which a decrease in sensitivity 
+occurs 
+μορφή αισθητηριακής προσαρμογής 
+κατά την οποία επέρχεται ελάττωση 
+της ευαισθησίας 
+2.7 
+intensity1, noun 
+ένταση1, ουσ.,  
+ένταση αισθήματος, 
+ουσ. 
+magnitude of the perceived 
+sensation 
+μέγεθος του αντιληπτού αισθήματος 
+2.8 
+intensity2, noun 
+ένταση2, ουσ.,  
+ένταση ερεθίσματος, 
+ουσ. 
+magnitude of the stimulus 
+causing the perceived sensation 
+μέγεθος του ερεθίσματος που 
+προκαλεί το αντιληπτό αίσθημα 
+2.9 
+acuity, noun 
+αντιληπτική 
+οξύτητα, ουσ. 
+ability to discern small 
+differences in stimuli 
+Note 1 to entry: In French, this 
+term should be differentiated 
+from the term “acuité” which 
+refers to the ability to perceive 
+with no concept of level. 
+ικανότητα διάκρισης μικρών 
+διαφορών του ερεθίσματος 
+2.10 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+modality, noun, 
+sensory modality, 
+noun 
+τροπικότητα, ουσ., 
+αισθητηριακή 
+τροπικότητα, ουσ. 
+sensations mediated by any of 
+the sensory systems, for 
+example auditory, taste, 
+olfaction, touch, somesthesis or 
+visual modality 
+αισθήματα που διαμεσολαβούνται 
+από οποιοδήποτε αισθητηριακό 
+σύστημα 
+ΠΑΡΑΔΕΙΓΜΑΤΑ: Από το σύστημα 
+ακοής, γεύσης, όσφρησης, αφής, 
+σωματαίσθησης ή όρασης 
+2.11 
+taste, noun 
+γεύση, ουσ. 
+sensations perceived by the 
+taste organ when stimulated by 
+certain soluble substances 
+Note 1 to entry: The term “taste” 
+should not be used to designate 
+the combination of gustatory, 
+olfactory and trigeminal 
+sensations which are designated 
+by the term “flavour” (see 3.20). 
+If, in informal language, the term 
+is used in this sense, it should 
+always be associated with a 
+qualifying term, e.g. “musty 
+taste”, “raspberry taste”, “corky 
+taste”. 
+αίσθημα αντιληπτό από το όργανο 
+της γεύσης όταν αυτό ερεθίζεται από 
+ορισμένες διαλυτές ουσίες  
+ 
+Σημείωση 1: Ο όρος ‘γεύση’ δεν 
+πρέπει να χρησιμοποιείται για να 
+κατασημάνει τον συνδυασμό 
+αισθημάτων γεύσης, όσφρησης και 
+τριδύμου (του τρίδυμου νεύρου) που 
+κατασημαίνεται από τον όρο 
+‘οσμόγευση’ (βλ.  3.20). 
+Εάν, σε ανεπίσημη γλώσσα, ο όρος 
+χρησιμοποιείται με αυτή την έννοια, 
+θα πρέπει πάντα να συσχετίζεται με 
+έναν προσδιοριστικό όρο, π.χ. “γεύση 
+μούχλας”, “γεύση βατόμουρου”, 
+“γεύση φελλού”. 
+2.12 
+gustatory, 
+adjective 
+γευστικός, επίθ. 
+pertaining to the sense of taste 
+σχετικός με την αίσθηση της γεύσης 
+2.13 
+olfactory, adjective 
+οσφρητικός, επίθ. 
+pertaining to the sense of smell 
+σχετικός με την αίσθηση της 
+όσφρησης 
+2.14 
+to smell, verb 
+οσφραίνομαι, ρήμα 
+to perceive or to attempt to 
+perceive an odour 
+αντιλαμβάνομαι ή προσπαθώ να 
+αντιληφθώ μια οσμή1 
+2.15 
+touch, noun 
+αφή, ουσ. 
+tactile sense 
+αίσθηση κατά την οποία οτιδήποτε 
+γίνεται αντιληπτό μέσω επαφής με το 
+δέρμα 
+2.16 
+vision, noun 
+όραση, ουσ. 
+sense of sight 
+αίσθηση κατά την οποία γίνονται 
+αντιληπτά ερεθίσματα μέσω των 
+οφθαλμών 
+2.17 
+auditory, adjective 
+ακουστικός, επίθ. 
+pertaining to the sense of 
+hearing 
+σχετικός με την αίσθηση της ακοής 
+2.18 
+trigeminal 
+sensations, noun, 
+oro-nasal 
+chemesthesis, 
+noun  
+αισθήματα 
+τριδύμου, ουσ., 
+στοματορρινική 
+χημειoαισθησία, 
+στοματορρινική 
+χημειοαίσθηση, ουσ. 
+sensations resulting from 
+irritation caused by chemical 
+stimuli in the mouth, nose or 
+throat 
+EXAMPLE: 
+Pungency from horseradish. 
+σύνολο αισθημάτων που 
+δημιουργούνται από ερεθισμό ο 
+οποίος προκαλείται από χημικά 
+ερεθἰσματα στο στόμα, στη μύτη ή 
+στον λαιμό 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Πικαντικότητα από ραπανάκι. 
+2.19 
+cutaneous sense, 
+noun 
+haptics, noun 
+ 
+δερματική αίσθηση, 
+ουσ.,  
+απτική αίσθηση, 
+ουσ. 
+ 
+απτικός -ή -ό,  
+επίθ. 
+any of the senses whose 
+receptors lie in the skin or 
+immediately beneath it (or in the 
+mucous membranes) resulting in 
+the perception of contact, 
+pressure, warmth, cold and pain 
+οποιαδήποτε από τις αισθήσεις των 
+οποίων οι υποδοχείς βρίσκονται μέσα 
+στο δέρμα ή αμέσως κάτω από αυτό 
+(ή στις βλενώδεις μεμβράνες) οι 
+οποίοι συντελούν στην αντίληψη της 
+επαφής, της πίεσης, της θερμότητας, 
+του κρύου και του πόνου 
+2.20 
+chemothermal 
+sensation, noun 
+χημειοθερμικό 
+αίσθημα, ουσ. 
+sensation of heat or cold 
+produced by certain substances, 
+unrelated to the temperature of 
+the substance 
+ΠΑΡΑΔΕΙΓΜΑ: 
+These sensations are produced 
+by capsaicin (hot) and menthol 
+(cold). 
+αίσθημα θερμότητας ή κρύου που 
+παράγεται από ορισμένες ουσίες μη 
+σχετιζόμενο με τη θερμοκρασία της 
+ουσίας 
+ 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Τέτοια αισθήματα παράγονται από 
+την καψαϊκίνη (καυτού) και μινθόλη 
+(κρύου). 
+2.21 
+7 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+somesthesis, noun 
+σωματαισθησία, 
+ουσ.,  
+σωματαίσθηση, ουσ. 
+sensations of pressure (touch), 
+temperature, and pain perceived 
+by the receptors located in the 
+skin and lips, including oral 
+mucosa, tongue and periodontal 
+membrane 
+Note 1 to entry: Do not confuse 
+with kinaesthesis (2.24). 
+αισθήματα πίεσης (αφή), 
+θερμοκρασίας και πόνου που γίνονται 
+αντιληπτά από υποδοχείς που 
+βρίσκονται στο δέρμα και στα χείλη, 
+καθώς και στη στοματική βλενογόνο, 
+στη γλώσσα και στην περιοδοντική 
+μεμβράνη 
+Σημείωση 1: Να μην συγχέεται με την  
+κιναισθησία (2.24). 
+2.22 
+tactile 
+somesthetic 
+receptor, noun 
+απτικός 
+σωματαισθητικός 
+υποδοχέας, ουσ. 
+receptor located in the skin of 
+the tongue, mouth or throat, 
+which perceives geometrical 
+characteristics as reflected in 
+the appearance of the food 
+product 
+υποδοχέας που βρίσκεται στο δέρμα 
+της γλώσσας, του στόματος ή του 
+λαιμού και αντιλαμβάνεται γεωμετρικά 
+χαρακτηριστικά όπως αυτά 
+αντικατοπρίζονται/παρουσιάζονται 
+στην εμφάνιση του τροφίμου 
+2.23 
+kinaesthesis, noun 
+κιναισθησία, ουσ., 
+κιναίσθηση, ουσ. 
+sensation of position, movement 
+and tension of parts of the body 
+perceived through nerves and 
+organs in the muscles, tendons 
+and joints 
+Note 1 to entry: Do not confuse 
+with somesthesis (2.22). 
+αίσθημα της θέσης, της κίνησης και 
+έντασης των μερών του σώματος 
+αντιληπτό μέσω νεύρων και οργάνων 
+στους μύς, στους τένοντες και στις 
+αρθρώσεις 
+Σημείωση 1: Να μην συγχέεται με τη 
+σωματαισθησία (2.22). 
+2.24 
+stimulus 
+threshold, noun, 
+detection 
+threshold, noun 
+κατώφλιο 
+ερεθίσματος, ουσ., 
+κατώφλιο 
+ανίχνευσης, ουσ. 
+minimum value of a sensory 
+stimulus needed a sensation 
+Note 1 to entry: The term 
+“threshold” is always used with a 
+qualifying term. 
+Note 2 to entry: The sensation 
+need not be identified. 
+ 
+ελάχιστη τιμή ενός αισθητηριακού 
+ερεθίσματος  που χρειάζεται για την 
+πρόκληση ενός αισθήματος 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+Σημείωση 2: Το αίσθημα δεν 
+χρειάζεται να ταυτοποιηθεί. 
+ 
+2.25 
+recognition 
+threshold, noun 
+κατώφλιο 
+αναγνώρισης, ουσ. 
+minimum physical intensity of a 
+stimulus for which an assessor 
+will assign the same descriptor 
+each time it is presented 
+Note 1 to entry: The term 
+“threshold” is always used with a 
+qualifying term. 
+ελάχιστη φυσική ένταση ερεθίσματος 
+για την οποία ένας αξιολογητής θα 
+προσδώσει τον ίδιο χαρακτηρισμό 
+κάθε φορά που του παρουσιάζεται 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+2.26 
+difference 
+threshold, noun 
+κατώφλιο διαφοράς, 
+ουσ. 
+value of the smallest perceptible 
+difference in the physical 
+intensity of a stimulus 
+Note 1 to entry: The term 
+“threshold” is always used with a 
+qualifying term. 
+Note 2 to entry: In English, the 
+term “difference threshold” is 
+sometimes designated by the 
+letters “DL” (difference limen) or 
+the letters “JND” (just noticeable 
+difference). 
+τιμή της μικρότερης αντιληπτής 
+διαφοράς στη φυσική ένταση ενός 
+ερεθίσματος 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+Σημείωση 2: Στα αγγλικά, ο όρος 
+«κατώφλιο διαφοράς» μερικές φορές 
+σηματοδοτείται με τα γράμματα “DL” 
+(difference limen) ή με τα γράμματα 
+“JND” (just noticeable difference). 
+2.27 
+terminal 
+threshold, noun 
+τερματικό 
+κατώφλιο, ουσ. 
+minimum value of an intense 
+sensory stimulus above which 
+no difference in intensity can be 
+perceived 
+Note 1 to entry: The term 
+“threshold” is always used with a 
+qualifying term. 
+ελάχιστη τιμή ενός έντονου 
+αισθητηριακού ερεθίσματος πάνω 
+από την οποία δεν μπορεί να γίνει 
+αντιληπτή καμιά διαφορά έντασης 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο.  
+2.28 
+sub-threshold, 
+adjective 
+υποκατωφλιακός, 
+επίθ. 
+pertains to a stimulus intensity 
+below the type of threshold 
+under consideration 
+αναφέρεται σε ένταση ερεθίσματος 
+χαμηλότερη από τον υπό θεώρηση 
+τύπο κατωφλίου 
+2.29 
+supra-threshold, 
+adjective 
+υπερκατωφλιακός, 
+επίθ. 
+pertains to a stimulus intensity 
+above the type of threshold 
+under consideration 
+αναφέρεται σε ένταση ερεθίσματος 
+υψηλότερη από τον υπό θεώρηση 
+τύπο κατωφλίου 
+2.30 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+ageusia, noun 
+αγευσία, ουσ. 
+lack of sensitivity to gustatory 
+stimuli 
+Note 1 to entry: Ageusia may be 
+total or partial, and permanent or 
+temporary. 
+έλλειψη ευαισθησίας σε γευστικά 
+ερεθίσματα 
+Σημείωση 1: Η αγευσία μπορεί να 
+είναι ολική ή μερική και μόνιμη ή 
+παροδική. 
+2.31 
+anosmia, noun 
+ανοσμία, ουσ. 
+lack of sensitivity to olfactory 
+stimuli 
+Note 1 to entry: Anosmia may 
+be total or partial, and 
+permanent or temporary. 
+έλλειψη ευαισθησίας σε οσφρητικά 
+ερεθίσματα 
+Σημείωση 1: Η ανοσμία μπορεί να 
+είναι ολική ή μερική και μόνιμη ή 
+παροδική. 
+2.32 
+dyschromatopsia, 
+noun 
+δυσχρωματοψία, 
+ουσ. 
+defect of colour vision 
+characterized by a perception 
+significantly different from that of 
+a standard observer 
+ελάττωμα της έγχρωμης όρασης που 
+χαρακτηρίζεται από αντίληψη των 
+χρωμάτων σημαντικά διαφορετική 
+από αυτή ενός τυπικού παρατηρητή 
+2.33 
+colour blindness 
+αχρωματοψία, ουσ. 
+otal or partial inability to 
+differentiate certain hues 
+ολική ή μερική ανικανότητα διάκρισης 
+ορισμένων αποχρώσεων 
+2.34 
+antagonism, noun 
+ανταγωνισμός, ουσ. 
+joint action of two or more 
+stimuli, whose combination 
+elicits a level of sensation lower 
+than that expected from 
+superimposing the effects of 
+each stimulus taken separately 
+Note 1 to entry: See also 
+synergism (2.36). 
+συνδυασμένη δράση δύο ή 
+περισσοτέρων ερεθισμάτων των 
+οποίων ο συνδυασμός προκαλεί 
+στάθμη αισθήματος χαμηλότερη από 
+την αναμενόμενη από την υπέρθεση 
+των επιδράσεων κάθε ερεθίσματος 
+όταν λαμβάνεται χωριστά 
+Σημείωση 1: Βλέπε επίσης  
+συνεργισμός (2.36). 
+2.35 
+synergism, noun 
+συνεργισμός, ουσ. 
+joint action of two or more 
+stimuli, whose combination 
+elicits a level of sensation in 
+excess of that expected from a 
+simple addition of the effects of 
+each stimulus taken separately 
+Note 1 to entry: See also 
+antagonism (2.35). 
+συνδυασμένη δράση δύο ή 
+περισσοτέρων ερεθισμάτων των 
+οποίων ο συνδυασμός προκαλεί 
+στάθμη αισθήματος υψηλότερη από 
+αυτή που αναμένεται από την απλή 
+άθροιση των επιδράσεων κάθε 
+ερεθίσματος όταν λαμβάνεται 
+χωριστά 
+Σημείωση 1: Βλέπε επίσης και 
+ανταγωνισμός (2.35). 
+2.36 
+masking, noun 
+επικάλυψη, ουσ. 
+phenomenon where one quality 
+within a mixture obscures one or 
+several other qualities present 
+φαινόμενο όπου μια ιδιότητα σε ένα 
+μείγμα επισκιάζει μία ή περισσότερες 
+άλλες υπάρχουσες ιδιότητες 
+2.37 
+contrast effect, 
+noun 
+φαινόμενο 
+αντίθεσης, ουσ. 
+increase in response to 
+differences between two 
+simultaneous or consecutive 
+stimuli 
+αύξηση της απόκρισης σε διαφορές 
+μεταξύ δύο ταυτόχρονων ή 
+διαδοχικών ερεθισμάτων 
+2.38 
+convergence 
+effect, noun 
+φαινόμενο 
+σύγκλισης, ουσ. 
+decrease in response to 
+differences between two 
+simultaneous or consecutive 
+stimuli 
+μείωση της απόκρισης σε διαφορές 
+μεταξύ δύο ταυτόχρονων ή 
+διαδοχικών ερεθισμάτων 
+2.39 
+ 
+ 
+3   Terminology relating to organoleptic attributes – Ορολογία σχετική με οργανοληπτικά 
+χαρακτηριστικά 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+appearance, noun 
+εμφάνιση, ουσ. 
+all the visible attributes of a 
+substance or object 
+το σύνολο των ορατών 
+χαρακτηριστικών μιας ουσίας ή ενός 
+αντικειμένου 
+3.1 
+basic taste, noun 
+βασική γεύση, ουσ. 
+any one of the distinctive tastes: 
+acid/sour, bitter, salty, sweet, 
+umami 
+Note 1 to entry: Other tastes that 
+may be classified as basic are 
+alkaline and metallic. 
+οποιαδήποτε από τις διακριτικές 
+γεύσεις: οξύ/ξινό, πικρό, αλμυρό, 
+γλυκό, ουμάμι 
+Σημείωση 1: Άλλες γεύσεις που 
+μπορούν να ταξινομηθούν ως βασικές 
+είναι αλκαλικό και μεταλλικό. 
+3.2 
+9 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+acidity, noun 
+acid taste, noun 
+οξύτητα, ουσ.,  
+όξινη γεύση, ουσ. 
+basic taste produced by dilute 
+aqueous solutions of most acid 
+substances (e.g. citric acid and 
+tartaric acid) 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα των 
+περισσοτέρων όξινων ουσιών (π.χ. 
+κιτρικό οξύ και τρυγικό οξύ) 
+3.3 
+sourness, noun 
+sour taste, noun 
+ξινότητα, ουσ.,  
+ξινάδα, ουσ. 
+ξινή γεύση, ουσ. 
+gustatory complex sensation, 
+generally due to presence of 
+organic acids 
+Note 1 to entry: In some 
+languages “sour” is not a 
+synonym for “acid”. 
+Note 2 to entry: Sometimes this 
+term has a negative hedonic 
+sense. 
+σύνθετο γευστικό αίσθημα, που 
+οφείλεται γενικά στην παρουσία 
+οργανικών οξέων 
+Σημείωση 1: Σε κάποιες γλώσσες το 
+«ξινό» δεν είναι συνώνυμο του «οξύ». 
+Σημείωση 2: Μερικές φορές αυτός ο 
+όρος δείχνει δυσαρέσκεια. 
+3.4 
+bitterness, noun 
+bitter taste, noun 
+πικρότητα, ουσ.,  
+πικρή γεύση, ουσ. 
+basic taste produced by dilute 
+aqueous solutions of various 
+substances such as quinine or 
+caffeine 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα διάφορων 
+ουσιών όπως η κινίνη και η καφεΐνη 
+3.5 
+saltiness, noun 
+salty taste, noun 
+αλμυρότητα, ουσ.,  
+αλμυρή γεύση, ουσ. 
+basic taste produced by dilute 
+aqueous solutions of various 
+substances such as sodium 
+chloride 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα διάφορων 
+ουσιών όπως το χλωριούχο νάτριο 
+3.6 
+sweetness, noun 
+sweet taste, noun 
+γλυκύτητα, ουσ 
+γλυκιά γεύση, ουσ. 
+basic taste produced by dilute 
+aqueous solutions of natural or 
+artificial substances such as 
+sucrose or aspartame 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα φυσικών ή 
+τεχνητών ουσιών όπως η σακχαρόζη 
+ή η ασπαρτάμη 
+3.7 
+alkalinity, noun 
+alkaline taste, noun 
+αλκαλικότητα, ουσ., 
+αλκαλική γεύση, ουσ. 
+taste produced by dilute 
+aqueous solutions of basic, i.e. 
+pH > 7,0, substances such as 
+sodium hydroxide 
+γεύση που παράγεται από αραιά 
+υδατικά διαλύματα ουσιών που 
+ανήκουν στις βάσεις, δηλαδή 
+pH > 7,0, όπως το υδροξείδιο του 
+νατρίου 
+3.8 
+umami, noun 
+ουμάμι, ουσ. 
+basic taste produced by dilute 
+aqueous solutions of a certain 
+kind of amino acid or nucleotide 
+such as monosodium glutamate 
+or disodium inosinate 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα ενός 
+συγκεκριμένου είδους αμινοξέος ή 
+νουκλεοτιδίου όπως το γλουταμινικό 
+μονονάτριο ή το ινοσινικό δινάτριο 
+3.9 
+astringency, noun 
+στυφότητα, ουσ. 
+complex sensation, 
+accompanied by shrinking, 
+drawing or puckering of the skin 
+or mucosal surface in the mouth, 
+produced by substances such 
+as kaki tannins or sloe tannins 
+σύνθετο αίσθημα που συνοδεύεται 
+από συρρίκνωση, έλξη ή ζάρωμα της 
+επιφάνειας του δέρματος ή της 
+βλεννογόνου στο στόμα και 
+παράγεται από ουσίες όπως οι 
+τανίνες κάκι ή οι τανίνες σλόου 
+3.10 
+chemical effect, 
+noun 
+χημική επίδραση, 
+ουσ. 
+physical, stinging chemical 
+sensation experienced on the 
+tongue as a result of exposure 
+to substances such as 
+carbonated water 
+Note 1 to entry: The sensation 
+may linger and is independent of 
+temperature, taste and odour. 
+Note 2 to entry: Popular terms: 
+"astringent" (strong tea), 
+"burning" (whisky), "sharp" 
+(prune juice), "pungent" 
+(horseradish). 
+φυσικό, καυστικό χημικό αίσθημα που 
+εμφανίζεται στη γλώσσα ως 
+αποτέλεσμα της έκθεσης σε ουσίες 
+όπως το ανθρακούχο νερό  
+Σημείωση 1: Το αίσθημα μπορεί να 
+παραμείνει και είναι ανεξάρτητο από 
+τη θερμοκρασία, τη γεύση και την 
+οσμή1.  
+Σημείωση 2: Δημοφιλείς όροι: 
+«στυφό» (δυνατό τσάι), 
+«καυτερό/θερμαντικό» (ουίσκι), 
+«αιχμηρό» (χυμός δαμάσκηνου), 
+«πικάντικο» (ραπανάκι). 
+3.11 
+burning, adjective 
+warming, adjective 
+ 
+καυτερός, επίθ., 
+θερμαντικός, επίθ. 
+describes a sensation of heat in 
+the mouth, e.g. as caused by 
+alcohol (warming) or chilli 
+pepper (burning) 
+περιγράφει ένα αίσθημα θερμότητας 
+στο στόμα, π.χ. όπως προκαλείται 
+από αλκοόλ (θέρμανση) ή πιπέρι τσίλι 
+(κάψιμο) 
+3.12 
+pungency, noun  
+pungent, adjective 
+πικαντικότητα 
+πικάντικος -η -ο, 
+επίθ. 
+sharp sensation of the buccal 
+and nasal mucous membranes, 
+e.g. as caused by vinegar, 
+mustard, horseradish 
+οξύ αίσθημα της στοματικής και της 
+ρινικής βλεννογόνου μεμβράνης, π.χ. 
+όπως προκαλείται από ξίδι, 
+μουστάρδα, ραπανάκι 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι πικάντικος. 
+3.13 
+10 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+chemical cooling, 
+noun 
+χημικό ψύχος, ουσ. 
+sensation of reduced 
+temperature experienced as a 
+result of exposure to certain 
+substances such as menthol, 
+mints or anise 
+Note 1 to entry: The sensation 
+usually persists after the 
+stimulus is removed. 
+αίσθημα μειωμένης θερμοκρασίας 
+που εμφανίζεται ως αποτέλεσμα της 
+έκθεσης σε ορισμένες ουσίες όπως η 
+μινθόλη, η μέντα ή το γλυκάνισο  
+Σημείωση 1: Το αίσθημα συνήθως 
+επιμένει μετά την αφαίρεση του 
+ερεθίσματος. 
+3.14 
+physical cooling, 
+noun 
+φυσικό ψύχος, ουσ. 
+sensation of reduced 
+temperature experienced as a 
+result of exposure to thermally 
+cold substances, to substances, 
+that have a negative heat of 
+solution, such as crystalline 
+sorbitol, or to substances, that 
+evaporate rapidly, such as 
+acetone or alcohol 
+Note 1 to entry: The duration of 
+the sensation is usually limited 
+to the time of direct contact with 
+the stimulus. 
+αίσθημα μειωμένης θερμοκρασίας 
+που εμφανίζεται ως αποτέλεσμα της 
+έκθεσης σε ψυχρές ουσίες, σε ουσίες 
+που έχουν αρνητική θερμότητα 
+διάλυσης, όπως η κρυσταλλική 
+σορβιτόλη ή σε ουσίες που 
+εξατμίζονται γρήγορα, όπως η 
+ακετόνη ή το αλκοόλ  
+Σημείωση 1: Η διάρκεια του 
+αισθήματος συνήθως περιορίζεται 
+στον χρόνο της άμεσης επαφής με το 
+ερέθισμα. 
+3.15 
+chemical heat, 
+noun 
+χημική θερμότητα, 
+ουσ. 
+sensation of increased 
+temperature resulting from 
+exposure to substances such as 
+capsaicin or hot peppers 
+Note 1 to entry: The sensation 
+tends to persist after the 
+stimulus is removed. 
+αίσθημα αυξημένης θερμοκρασίας 
+που προκύπτει από την έκθεση σε 
+ουσίες όπως η καψαϊκίνη ή οι 
+καυτερές πιπεριές  
+Σημείωση 1: Το αίσθημα τείνει να 
+επιμένει μετά την αφαίρεση του 
+ερεθίσματος. 
+3.16 
+physical heat, 
+noun 
+φυσική θερμότητα, 
+ουσ. 
+sensation experienced as a 
+result of exposure to thermally 
+hot substances such as water 
+above 48 °C 
+Note 1 to entry: The duration of 
+the sensation is usually limited 
+to the time of direct contact with 
+the stimulus. 
+αίσθημα που εμφανίζεται ως 
+αποτέλεσμα της έκθεσης σε θερμές 
+ουσίες όπως το νερό πάνω από 48 
+°C  
+Σημείωση 1: Η διάρκεια του 
+αισθήματος συνήθως περιορίζεται 
+στον χρόνο της άμεσης επαφής με το 
+ερέθισμα. 
+3.17 
+odour, noun 
+οσμή1, ουσ. 
+sensation perceived by means 
+of the olfactory organ in sniffing 
+certain volatile substances 
+αίσθημα που γίνεται αντιληπτό μέσω 
+του οσφρητικού οργάνου όταν 
+οσφραινόμαστε ορισμένες πτητικές 
+ουσίες 
+3.18 
+off-odour, noun 
+αποκλίνουσα οσμή, 
+ουσ. 
+atypical odour often associated 
+with deterioration or 
+transformation of the product 
+άτυπη οσμή1 (3.18) που συχνά 
+συσχετίζεται με αλλοίωση ή μεταβολή 
+του προϊόντος 
+3.19 
+flavour, noun 
+οσμόγευση, ουσ. 
+complex combination of the 
+olfactory, gustatory and 
+trigeminal sensations perceived 
+during tasting 
+Note 1 to entry: Flavour may be 
+influenced by tactile, thermal, 
+painful and/or kinaesthesic 
+effects. 
+σύνθετος συνδυασμός των 
+αισθημάτων όσφρησης, γεύσης1 και 
+τριδύμου, που γίνονται αντιληπτά 
+κατά τη διάρκεια της γευστικής 
+δοκιμής  
+Σημείωση 1: Η οσμόγευση μπορεί να 
+επηρεαστεί από απτικές, θερμικές, 
+επώδυνες και/ή κιναισθητικές 
+επιδράσεις. 
+3.20 
+off-flavour, noun 
+αποκλίνουσα 
+οσμόγευση, ουσ. 
+atypical flavour often associated 
+with deterioration or 
+transformation of the product 
+άτυπη οσμόγευση που συχνά 
+συνδέεται με αλλοίωση ή μεταβολή 
+του προϊόντος 
+3.21 
+flavour enhancer, 
+noun 
+βελτιωτικό 
+οσμόγευσης, ουσ. 
+substance that intensifies the 
+flavour of a product without 
+possessing its flavour 
+ουσία που ενισχύει τη οσμόγευση 
+ενός προϊόντος χωρίς να την 
+καταλαμβάνει 
+3.22 
+taint, noun 
+μόλυσμα, ουσ. 
+taste or odour foreign to the 
+product originating from external 
+contamination 
+γεύση ή οσμή1 ξένη προς το προϊόν 
+που προέρχεται από εξωτερική 
+μόλυνση 
+3.23 
+11 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+aroma1, noun 
+οσμή2, ουσ. 
+odour with a pleasant or 
+unpleasant connotation 
+Note 1 to entry: The terms 
+“aroma” in English and “arôme” 
+in French are not exactly 
+equivalent. 
+οσμή1 (3.18) με ευχάριστη ή 
+δυσάρεστη χροιά 
+Σημείωση 1: Οι όροι “aroma” στα 
+αγγλικά και “arôme” στα γαλλικά δεν 
+είναι ακριβώς ισοδύναμοι. 
+3.24 
+aroma2, noun 
+άρωμα, ουσ. 
+sensory attribute perceptible by 
+the olfactory organ via the back 
+of the nose when tasting 
+Note 1 to entry: The terms 
+“aroma” in English and “arôme” 
+in French are not exactly 
+equivalent. 
+αισθητηριακό χαρακτηριστικό που 
+γίνεται αντιληπτό από το οσφρητικό 
+όργανο μέσω του πίσω μέρους της 
+μύτης κατά τη γευστική δοκιμή 
+Σημείωση 1: Οι όροι “aroma” στα 
+αγγλικά και “arôme” στα γαλλικά δεν 
+είναι ακριβώς ισοδύναμοι. 
+3.25 
+bouquet, noun 
+μπουκέτο, ουσ. 
+group of specific olfactory notes 
+allowing a product (wine, spirits, 
+etc.) to be characterized 
+ομάδα συγκεκριμένων οσφρητικών 
+διαβαθμίσεων που επιτρέπουν τον 
+χαρακτηρισμό ενός προϊόντος (κρασί, 
+οινοπνευματώδη ποτά κ.λπ.) 
+3.26 
+body, noun 
+σώμα, ουσ. 
+consistency, compactness of 
+texture, fullness, richness, 
+flavour or substance of a 
+product 
+πυκνότητα, συμπαγές υφής, 
+πληρότητα, πλούτος, οσμόγευση ή 
+υλική υπόσταση ενός προϊόντος 
+3.27 
+note, noun 
+νότα, ουσ. 
+distinctive and identifiable 
+feature of an odour or flavor 
+διακριτικό και αναγνωρίσιμο 
+γνώρισμα μιας οσμής ή οσμόγευσης 
+3.28 
+off-note, noun 
+αποκλίνουσα νότα, 
+ουσ. 
+atypical note often associated 
+with deterioration or 
+transformation of the product 
+άτυπη διαβάθμιση που συχνά 
+σχετίζεται με αλλοίωση ή μεταβολή 
+του προϊόντος 
+3.29 
+character note, 
+noun 
+νότα χαρακτήρα, 
+ουσ. 
+perceptible sensory attribute, 
+flavour and texture (mechanical, 
+geometrical, and fat and 
+moisture characteristics), in a 
+food product 
+αντιληπτό αισθητηριακό 
+χαρακτηριστικό, οσμόγευση και υφή 
+(μηχανικά, γεωμετρικά 
+χαρακτηριστικά και χαρακτηριστικά 
+λίπους και υγρασίας) σε ένα τρόφιμο 
+3.30 
+colour1, noun 
+χρώμα1, ουσ. 
+sensation of hue, saturation and 
+lightness induced by stimulation 
+of the retina by light rays of 
+various wavelengths 
+αίσθημα απόχρωσης, κορεσμού και 
+φωτεινότητας που προκαλείται από τη 
+διέγερση του αμφιβληστροειδούς από 
+ακτίνες φωτός διαφόρων μηκών 
+κύματος 
+3.31 
+colour2, noun 
+χρώμα2, ουσ. 
+attribute of products inducing a 
+colour sensation 
+χαρακτηριστικό των προϊόντων που 
+προκαλεί αίσθημα χρώματος1 
+3.32 
+hue, noun 
+απόχρωση, ουσ. 
+attribute of colour that 
+corresponds to variation in 
+wavelength 
+Note 1 to entry: The equivalent 
+Munsell term is “hue”. 
+χαρακτηριστικό του χρώματος2 που 
+αντιστοιχεί σε μεταβολή του μήκους 
+κύματος  
+Σημείωση 1: Ο ισοδύναμος όρος 
+Munsell είναι «hue». 
+3.33 
+saturation, noun 
+κορεσμός, ουσ. 
+dimension of colour that 
+describes its purity 
+Note 1 to entry: If highly 
+saturated, a colour appears to 
+be pure hue — free of gray; if 
+low in saturation, a colour 
+appears to have a great deal of 
+gray. 
+Note 2 to entry: The equivalent 
+Munsell term is “chroma”. 
+διάσταση του χρώματος2 που 
+περιγράφει την καθαρότητά του  
+Σημείωση 1: Ένα πολύ κορεσμένο 
+χρώμα φαίνεται να έχει καθαρή 
+απόχρωση — χωρίς καθόλου γκρι. 
+Ένα χρώμα με χαμηλό 
+κορεσμόφαίνεται να έχει πολύ γκρι.  
+Σημείωση 2: Ο ισοδύναμος όρος 
+Munsell είναι «chroma». 
+3.34 
+lightness, noun 
+φωτεινότητα, ουσ. 
+degree of visual brightness 
+compared with a neutral gray in 
+a scale ranging from absolute 
+black to absolute white 
+Note 1 to entry: The equivalent 
+Munsell term is “value”. 
+βαθμός οπτικής λαμπρότητας σε 
+σύγκριση με ένα ουδέτερο γκρι σε μια 
+κλίμακα που κυμαίνεται από το 
+απόλυτο μαύρο έως το απόλυτο 
+λευκό  
+Σημείωση 1: Ο ισοδύναμος όρος 
+Munsell είναι «value». 
+3.35 
+12 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+brightness 
+contrast, noun 
+αντίθεση 
+λαμπρότητας, ουσ. 
+effect on the visual brightness of 
+one object or colour of the 
+brightness of surrounding 
+objects or colours 
+αποτέλεσμα της επίδρασης της 
+λαμπρότητας των αντικειμένων ή 
+χρωμάτων γύρω από ένα αντικείμενο 
+ή χρώμα2 στην οπτική λαμπρότητα 
+του αντικειμένου ή χρώματος2 
+3.36 
+transparency, 
+noun) 
+transparent, 
+adjective 
+ 
+ 
+διαφάνεια, ουσ. 
+διαφανής, επίθ. 
+allowing light to pass and 
+distinct images to appear 
+ιδιότητα ενός υλικού να επιτρέπει τη 
+διέλευση του φωτός και τη διάκριση 
+εικόνων 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι διαφανής. 
+3.37 
+translucency, 
+noun  
+translucent, 
+adjective 
+ημιδιαφάνεια, ουσ. 
+ημιδιαφανής, επίθ. 
+ 
+allowing light to pass but not 
+allowing images to be 
+distinguished 
+ιδιότητα ενός υλικού να επιτρέπει τη 
+διέλευση του φωτός και όχι τη 
+διάκριση εικόνων 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι ημιδιαφανής. 
+3.38 
+opacity, noun  
+opaque, adjective 
+ 
+αδιαφάνεια, ουσ. 
+αδιαφανής, επίθ. 
+ 
+not allowing the passage of light 
+ιδιότητα ενός υλικού να μην επιτρέπει 
+τη διέλευση του φωτός 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι αδιαφανής. 
+3.39 
+gloss, noun  
+glossy, shiny, 
+adjective 
+στιλπνότητα, ουσ. 
+στιλπνός, επίθ. 
+a shiny or lustrous appearance 
+resulting from the tendency of a 
+surface to reflect light energy at 
+one angle more than at others 
+γυαλιστερή ή απαστράπτουσα 
+εμφάνιση που προκύπτει από την 
+τάση μιας επιφάνειας να ανακλά 
+φωτεινή ενέργεια σε μια γωνία 
+περισσότερο από άλλες 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι στιλπνός. 
+3.40 
+texture, noun 
+ 
+υφή, ουσ. 
+all of the mechanical, 
+geometrical, surface and body 
+attributes of a product 
+perceptible by means of 
+kinaesthesis and somesthesis 
+receptors and (where 
+appropriate) visual and auditory 
+receptors from the first bite to 
+final swallowing 
+Note 1 to entry: Over the course 
+of mastication, perception is 
+influenced by the physical 
+transformations that occur from 
+contact with the teeth and palate 
+and mixture with saliva. 
+Auditory information may 
+contribute to judgement of 
+texture and may predominate 
+with dry products. 
+Note 2 to entry: The “mechanical 
+attributes” are those related to 
+the reaction of the product to 
+stress. They are: hardness, 
+cohesiveness, viscosity, 
+elasticity and adhesiveness. 
+The “geometrical attributes” are 
+those related to the size, shape 
+and arrangement of particles 
+within a product. They are: 
+denseness, granularity and 
+conformation. 
+The “surface attributes” are 
+those related to the sensations 
+produced in the mouth by 
+moisture and/or fat in and near 
+the surface of the product. 
+The “body attributes” are those 
+related to the sensations 
+το σύνολο των μηχανικών, 
+γεωμετρικών, επιφανειακών και 
+σωματικών χαρακτηριστικών ενός 
+προϊόντος που γίνονται αντιληπτά 
+μέσω υποδοχέων κιναισθησίας και 
+σωματαισθησίας και (όπου 
+χρειάζεται) οπτικών και ακουστικών 
+υποδοχέων από την πρώτη εισαγωγή 
+στο στόμα  έως την τελική κατάποση  
+Σημείωση 1: Κατά τη διάρκεια της 
+μάσησης, η αντίληψη επηρεάζεται 
+από τις φυσικές μεταβολές που 
+συμβαίνουν από την επαφή με τα 
+δόντια και τον ουρανίσκο και την 
+ανάμειξη με το σάλιο.  
+Οι ακουστικές πληροφορίες μπορεί να 
+συμβάλλουν στην κρίση της υφής και 
+μπορεί να κυριαρχούν στα ξηρά 
+προϊόντα.  
+Σημείωση 2: Τα μηχανικά 
+χαρακτηριστικά σχετίζονται με την 
+αντίδραση του προϊόντος στην 
+καταπόνηση  και είναι: η σκληρότητα, 
+η συνεκτικότητα, το ιξώδες, η 
+ελαστικότητα και η προσφυσικότητα.  
+Τα γεωμετρικά χαρακτηριστικά 
+σχετίζονται με το μέγεθος, το σχήμα 
+και τη διευθέτηση των σωματιδίων 
+μέσα σε ένα προϊόν και είναι: η 
+πυκνότητα, η κοκκιότητα και η 
+διαμόρφωση.  
+Τα επιφανειακά χαρακτηριστικά 
+σχετίζονται με τα αισθήματα που 
+παράγονται στο στόμα από την 
+υγρασία και/ή το λίπος μέσα και κοντά 
+στην επιφάνεια του προϊόντος.  
+Τα σωματικά χαρακτηριστικά 
+σχετίζονται με τα αισθήματα που 
+3.41 
+13 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+produced in the mouth by 
+moisture and/or fat in the 
+substance of the product and 
+the way in which these 
+constituents are released. 
+ 
+παράγονται στο στόμα από την 
+υγρασία και/ή το λίπος που 
+περιέχονται στο προϊόν και με τον 
+τρόπο με τον οποίο τα εν λόγω 
+συστατικά απελευθερώνονται. 
+ 
+hardness, noun 
+σκληρότητα, ουσ. 
+mechanical textural attribute 
+relating to the force required to 
+achieve a given deformation, 
+penetration, or breakage of a 
+product 
+Note 1 to entry: In the mouth, it 
+is perceived by compressing the 
+product between the teeth 
+(solids) or between the tongue 
+and palate (semi-solids). 
+Note 2 to entry: The main 
+adjectives corresponding to 
+different levels of hardness are: 
+— “soft”: low level, e.g. cream 
+cheese; 
+— “firm”: moderate level, e.g. 
+olive; 
+— “hard”: high level, e.g. boiled 
+sweets. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη δύναμη που 
+απαιτείται για την επίτευξη μιας 
+δεδομένης παραμόρφωσης, 
+διείσδυσης ή θραύσης ενός προϊόντος  
+Σημείωση 1: Στο στόμα γίνεται 
+αντιληπτή με συμπίεση του προϊόντος 
+μεταξύ των δοντιών (στερεά τρόφιμα) 
+ή μεταξύ της γλώσσας και του 
+ουρανίσκου (ημιστερεά τρόφιμα).  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+σκληρότητας είναι: 
+— «μαλακός»: χαμηλό επίπεδο, π.χ. 
+κρεμώδες τυρί,  
+— «ημίσκληρος», «σφιχτός»: μέτριο 
+επίπεδο, π.χ. ελιά,  
+— «σκληρός»: υψηλό επίπεδο, π.χ. 
+καραμέλες. 
+ 
+3.42 
+cohesiveness, 
+noun 
+συνεκτικότητα, ουσ. 
+mechanical textural attribute 
+relating to the degree to which a 
+substance can be deformed 
+before it breaks, including the 
+properties of fracturability 
+(3.44), chewiness (3.45) and 
+gumminess (3.47) 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τον βαθμό μέχρι του 
+οποίου μια ουσία μπορεί να 
+παραμορφωθεί πριν σπάσει, 
+συμπεριλαμβανομένων των ιδιοτήτων 
+της θραυστότητας (3.44), της 
+μασητότητας (3.45) και της 
+κομμιώδους υφής (3.47) 
+ 
+3.43 
+fracturability, noun 
+θραυστότητα, ουσ. 
+mechanical textural attribute 
+related to cohesiveness and 
+hardness and to the force 
+necessary to break a product 
+into crumbs or pieces 
+Note 1 to entry: It is evaluated 
+by suddenly squeezing a 
+product between the incisors 
+(front teeth) or fingers. 
+Note 2 to entry: The main 
+adjectives corresponding to 
+different levels of fracturability 
+are: 
+— “cohesive”: very low level, 
+e.g. caramel, chewing gum; 
+— “crumbly”: low level, e.g. corn 
+muffin, cake; 
+— “crunchy”: moderate level, 
+e.g. apple, raw carrot; 
+— “brittle”: high level, e.g. 
+peanut brittle, brandy snaps; 
+— “crispy”: high level, e.g. 
+potato crisps/chips, 
+cornflakes; 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη συνεκτικότητα και τη 
+σκληρότητα καθώς και τη δύναμη που 
+απαιτείται για να σπάσει ένα προϊόν 
+σε θρύμματα ή κομμάτια  
+Σημείωση 1: Η θραυστότητα 
+αξιολογείται με απότομη συμπίεση 
+ενός προϊόντος ανάμεσα στους 
+κοπτήρες (μπροστινά δόντια) ή στα 
+δάχτυλα.  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+θραυστότητας είναι:  
+— «συνεκτικός»: πολύ χαμηλό 
+επίπεδο, π.χ. καραμέλα, τσίχλα,  
+— «εύθρυπτος» [που θρυμματίζεται 
+κατά τη μάσηση]: χαμηλό 
+επίπεδο, π.χ. κεκάκι 
+καλαμποκιού, κέικ, 
+— «τραγανός (κατά τη μάσηση)»: 
+μέτριο επίπεδο, π.χ. μήλο, ωμό 
+καρότο,  
+— «εύθραυστος» [που θραύεται στο 
+δάγκωμα]: υψηλό επίπεδο, π.χ. 
+νουγκατίνα με αράπικο φιστίκι, 
+τυλιχτά πουράκια,  
+— «κριτσανιστός, τραγανός στο 
+δάγκωμα»: υψηλό επίπεδο, π.χ. 
+πατατάκια, τσιπς, νιφάδες 
+3.44 
+14 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+— “crusty”: high level, e.g. crust 
+of fresh French-style bread; 
+— “pulverulent”: very high level, 
+immediately disintegrating 
+into powder upon biting, e.g. 
+overcooked egg yolk. 
+καλαμποκιού,  
+— «κρουστός»: υψηλό επίπεδο, π.χ. 
+κόρα φρέσκου ψωμιού,  
+— «κονιώδης»: πολύ υψηλό επίπεδο, 
+που διασπάται αμέσως σε σκόνη 
+με το δάγκωμα, π.χ. 
+παραψημένος κρόκος αυγού. 
+chewiness, noun 
+μασητότητα, ουσ. 
+mechanical textural attribute 
+related to the amount of work 
+required to masticate a solid 
+product into a state ready for 
+swallowing 
+Note The main adjectives 
+corresponding to different levels 
+of chewiness are: 
+— “melting”: very low level, e.g. 
+ice cream; 
+— “tender”: low level, e.g. young 
+peas; 
+— “chewy”: moderate level, e.g. 
+fruit gums (confectionery); 
+— “tough”: high level, e.g. old 
+beef, bacon rind. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με την ποσότητα εργασίας 
+που απαιτείται για τη μάσηση ενός 
+στερεού προϊόντος ώστε να είναι 
+έτοιμο για κατάποση  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+μασητότητας είναι: 
+— «εύτηκτος»: πολύ χαμηλό επίπεδο, 
+π.χ. παγωτό,  
+— «τρυφερός»: χαμηλό επίπεδο, π.χ. 
+φρέσκα μπιζέλια, 
+— «μασητός»: μέτριο επίπεδο, π.χ. 
+ζελεδάκια φρούτων,  
+— «σκληρός»: υψηλό επίπεδο, π.χ. 
+κρέας γέρικου βοδιού, φλούδα 
+μπέικον. 
+3.45 
+chew count, noun 
+αριθμός 
+μασημάτων, ουσ. 
+number of chews required to 
+masticate the sample to reduce 
+it to a consistency suitable for 
+swallowing 
+το πλήθος των μασημάτων που 
+απαιτούνται για τη μάσηση του 
+δείγματος ώστε να μειωθεί η συνοχή 
+του ώστε να είναι κατάλληλη για 
+κατάποση 
+3.46 
+gumminess, noun 
+κομμιώδης υφή, 
+ουσ. 
+κομμιώδης -ης -ες, 
+επίθ. 
+μαστιχωτός -ή -ό, 
+επίθ. 
+mechanical textural attribute 
+related to the cohesiveness of a 
+tender product 
+Note 1 In the mouth, it is related 
+to the effort required to 
+disintegrate the product to the 
+state ready for swallowing. 
+Note 2 The main adjectives 
+corresponding to different levels 
+of gumminess are: 
+— “short”: low level, e.g. 
+shortbread; 
+— “mealy”: moderate level, e.g. 
+some potatoes, cooked dry 
+haricot beans; 
+— “pasty”: moderate level, e.g. 
+chestnut puree, flour paste; 
+— “gummy”: high level, e.g. 
+overcooked oatmeal, edible 
+gelatine. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη συνεκτικότητα ενός 
+τρυφερού προϊόντος  
+Σημείωση 1: Στο στόμα, σχετίζεται με 
+την προσπάθεια που απαιτείται για τη 
+διάσπαση του προϊόντος σε 
+κατάσταση έτοιμο για κατάποση.  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+κομμιώδους υφής είναι:  
+— «βραχύς»: χαμηλό επίπεδο, π.χ.  
+θριφτοκούλουρο, κουραμπιές, 
+— «αλευρώδης»: μέτριο επίπεδο, 
+π.χ. κάποιες ποικιλίες πατάτας, 
+μαγειρεμένα ξερά γαλλικά 
+φασόλια,  
+— «πολτώδης»: μέτριο επίπεδο, π.χ. 
+πουρές κάστανου, αλευρόπαστα,  
+— «κομμιώδης»: υψηλό επίπεδο, π.χ. 
+παραμαγειρεμένη βρώμη, 
+βρώσιμη ζελατίνη. 
+3.47 
+viscosity, noun 
+ιξώδες, ουσ. 
+mechanical textural attribute 
+relating to resistance to flow 
+Note 1 It corresponds to the 
+force required to draw a liquid 
+from a spoon over the tongue, or 
+to spread it over a substrate. 
+Note 2 The main adjectives 
+corresponding to different levels 
+of viscosity are: 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με την αντίσταση στη ροή  
+Σημείωση 1: Αντιστοιχεί στη δύναμη 
+που απαιτείται για να τραβηχτεί ένα 
+υγρό από ένα κουτάλι με τη γλώσσα ή 
+να απλωθεί σε ένα υπόστρωμα.  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+ιξώδους είναι:  
+3.48 
+15 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+— “fluid”: low level, e.g. water; 
+— “thin”: moderate level, e.g. 
+olive oil; 
+— “unctuous” or “creamy”: 
+moderate level, e.g. double 
+cream, heavy cream; 
+— “thick” or “viscous”: very high, 
+e.g. sweetened condensed 
+milk, honey. 
+— «ρευστός»: χαμηλό επίπεδο, π.χ. 
+νερό,  
+— «λεπτόρρευστος»: μέτριο επίπεδο, 
+π.χ. ελαιόλαδο,  
+— «κρεμώδης»: μέτριο επίπεδο, π.χ. 
+κρέμα γάλακτος με υψηλά 
+λιπαρά,  
+— «παχύρρευστος»: πολύ υψηλό 
+επίπεδο, π.χ. ζαχαρούχο 
+συμπυκνωμένο γάλα, μέλι. 
+consistency, noun 
+συνοχή, ουσ. 
+mechanical attribute detected by 
+stimulation of the tactile or visual 
+receptors 
+μηχανικό χαρακτηριστικό που 
+ανιχνεύεται με διέγερση των απτικών 
+ή οπτικών υποδοχέων 
+3.49 
+elasticity, noun 
+springiness, noun 
+resilience, noun 
+ελαστικότητα, ουσ. 
+επανατακτικότητα, 
+ουσ. 
+mechanical textural attribute 
+relating to: the rapidity of 
+recovery from a deforming force; 
+and the degree to which a 
+deformed material returns to its 
+original condition after the 
+deforming force is removed 
+Note The main adjectives 
+corresponding to different levels 
+of springiness are: 
+— “plastic”: absence, e.g. 
+margarine; 
+— “malleable”: moderate level, 
+e.g. marshmallow; 
+— “elastic”; “springy”; “rubbery”: 
+high level, e.g. cooked 
+squid, clams, gums. 
+μηχανικό χαρακτηριστικό υφής το 
+οποίο σχετίζεται με την ταχύτητα 
+ανάκαμψης ενός υλικού από 
+παραμόρφωση που προκλήθηκε από 
+μια δύναμη μετά την αφαίρεση της 
+δύναμης και με τον βαθμό στον οποίο 
+το παραμορφωμένο υλικό επιστρέφει 
+στην αρχική του κατάσταση  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+ελαστικότητας είναι: 
+— «πλαστικός»: απουσία 
+ελαστικότητας, π.χ. μαργαρίνη,  
+— «εύπλαστος»: μέτριο επίπεδο, π.χ. 
+μαρσμέλλοου, λουκούμι, 
+— «ελαστικός», «επανατακτικός», 
+«λαστιχωτός»: υψηλό επίπεδο, 
+π.χ. μαγειρεμένα καλαμάρια, 
+αχιβάδες, τσίχλες. 
+3.50 
+adhesiveness, 
+noun 
+προσφυσικότητα 
+ 
+mechanical textural attribute 
+relating to the force required to 
+remove material that sticks to 
+the mouth or to a substrate 
+Note 1 The main adjectives 
+corresponding to different levels 
+of adhesiveness are: 
+— “tacky”: low level, e.g. 
+marshmallow; 
+— “clinging”: moderate level, 
+e.g. peanut butter; 
+— “gooey”, “gluey”: high level, 
+e.g. caramel sundae 
+topping, overcooked rice; 
+— “sticky”, “adhesive”: very high 
+level, e.g. toffee. 
+Note 2 The adhesiveness of a 
+product may be experienced in 
+various ways, e.g. 
+— to palate — force required to 
+remove product completely from 
+the palate, using the tongue, 
+after complete compression of 
+the sample between tongue and 
+palate; 
+— to lips — degree to which the 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη δύναμη που 
+απαιτείται για την αφαίρεση υλικού 
+που κολλάει στο στόμα ή σε ένα 
+υπόστρωμα  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+προσφυσικότητας είναι:  
+— «ελαφρώς κολλώδης»: χαμηλό 
+επίπεδο, π.χ. μαρσμέλλοου,  
+— «μετρίως κολλώδης»: μέτριο 
+επίπεδο, π.χ. φυστικοβούτυρο,  
+— «πολύ κολλώδης»: υψηλό 
+επίπεδο, π.χ. πηχτό σιρόπι 
+καραμέλας, παραψημένο ρύζι,  
+— «εξαιρετικά κολλώδης»: πολύ 
+υψηλό επίπεδο, π.χ. τόφι, 
+καραμέλα. 
+Σημείωση 2: Η προσφυσικότητα ενός 
+προϊόντος μπορεί να παρατηρηθεί με 
+διάφορους τρόπους, π.χ.  
+— στον ουρανίσκο — δύναμη που 
+απαιτείται για την πλήρη αφαίρεση 
+του προϊόντος από τον ουρανίσκο, με 
+τη χρήση της γλώσσας, μετά από 
+πλήρη συμπίεση του δείγματος 
+μεταξύ γλώσσας και υπερώας·  
+— στα χείλη — βαθμός στον οποίο το 
+3.51 
+16 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+product sticks/adheres to the 
+lips — the sample is placed 
+between the lips, compressed 
+once slightly and released to 
+assess adhesiveness; 
+— to teeth — amount of product 
+adhering on/in the teeth after 
+product mastication; 
+— to itself — force required to 
+separate individual pieces with 
+the tongue, when the sample is 
+placed in the mouth; 
+— manually — force required to 
+separate individual pieces 
+adhering to each other using the 
+back of a spoon. 
+προϊόν κολλάει στα χείλη — το δείγμα 
+τοποθετείται ανάμεσα στα χείλη, 
+συμπιέζεται ελαφρά μία φορά και 
+απελευθερώνεται για να εκτιμηθεί η 
+προσφυσικότητά του·  
+— στα δόντια — ποσότητα προϊόντος 
+που προσκολλάται στα δόντια μετά τη 
+μάσηση του προϊόντος·  
+— στον εαυτό του — δύναμη που 
+απαιτείται για να διαχωριστούν 
+μεμονωμένα κομμάτια με τη γλώσσα, 
+όταν το δείγμα τοποθετείται στο 
+στόμα·  
+— χειρακτικά— δύναμη που 
+απαιτείται για να διαχωριστούν 
+μεμονωμένα κομμάτια που 
+προσφύονται το ένα στο άλλο με τη 
+χρήση του κυρτού μέρους ενός 
+κουταλιού. 
+heaviness, noun 
+ 
+heavy, adjective 
+βαρύτητα, ουσ. 
+ 
+βαρύς -ιά -ύ, επίθ.  
+property related to the viscosity 
+of beverages or the denseness 
+of solids  
+Note Describes a solid food 
+whose cross-section is compact 
+or a beverage that flows with 
+some difficulty. 
+ιδιότητα που σχετίζεται με το ιξώδες 
+των ποτών ή την πυκνότητα των 
+στερεών  
+Σημείωση 1: Περιγράφει ένα στερεό 
+τρόφιμο του οποίου η διατομή είναι 
+συμπαγής ή ένα ποτό που ρέει με 
+κάποια δυσκολία. 
+3.52 
+denseness, noun 
+πυκνότητα, ουσ. 
+geometrical textural attribute 
+relating to perception of the 
+compactness of a cross-section 
+of a product after biting 
+completely through it 
+Note The main adjectives 
+corresponding to different levels 
+of denseness are as follows: 
+— “light”: low, e.g. whipped 
+topping; 
+— “heavy”, “dense”: high, e.g. 
+chestnut cream, traditional 
+English-style Christmas 
+pudding. 
+γεωμετρικό χαρακτηριστικό υφής που 
+σχετίζεται με την αντίληψη του 
+συμπαγούς της διατομής ενός 
+προϊόντος μετά από πλήρες δάγκωμα 
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+πυκνότητας είναι τα εξής:  
+— «ελαφρύς»: χαμηλό επίπεδο, π.χ. 
+σαντιγί,  
+— «βαρύς», «πυκνός»: υψηλό 
+επίπεδο, π.χ. κρέμα κάστανου, 
+παραδοσιακή χριστουγεννιάτικη 
+πουτίγκα αγγλικού τύπου. 
+3.53 
+granularity, noun 
+κοκκιότητα, ουσ. 
+geometrical textural attribute 
+relating to the perception of the 
+size, shape and amount of 
+particles in a product 
+Note The main adjectives 
+corresponding to different levels 
+of granularity are as follows: 
+— “smooth”, “powdery”: 
+absence, e.g. icing sugar, dry 
+cornflour; 
+— “gritty”: low level, e.g. some 
+pears; 
+— “grainy”: moderate level, e.g. 
+semolina; 
+— “beady”: having small, 
+spherical particles, e.g. tapioca 
+pudding; 
+— “granular”: having angular, 
+hard particles, e.g. demerara 
+γεωμετρικό χαρακτηριστικό υφής που 
+σχετίζεται με την αντίληψη του 
+μεγέθους, του σχήματος και της 
+ποσότητας των σωματιδίων σε ένα 
+προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+κοκκιότητας είναι τα εξής:  
+— «λείος», «κονιώδης»: απουσία 
+κοκκιότητας, π.χ. ζάχαρη άχνη, 
+στεγνό κορν φλάουρ,  
+— «ελαφρώς κοκκώδης»: χαμηλό 
+επίπεδο, π.χ. κάποιες ποικιλίες 
+αχλαδιών,  
+— «μετρίως κοκκώδης»: μέτριο 
+επίπεδο, π.χ. σιμιγδάλι,  
+— « πολύ κοκκώδης»: που έχει 
+μικρά, σφαιρικά σωματίδια, π.χ. 
+πουτίγκα ταπιόκας,  
+— «κοκκώδης»: που έχει γωνιώδη, 
+3.54 
+17 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+sugar; 
+— “coarse”: high level, e.g. 
+cooked rolled oatmeal; 
+— “lumpy”: high level with 
+larger, irregular particles, e.g. 
+cottage cheese. 
+σκληρά σωματίδια, π.χ. ζάχαρη 
+Demerara,  
+— «αδρός»: υψηλό επίπεδο, π.χ. 
+μαγειρεμένοι κόκκοι βρώμης,  
+— «σβολώδης»: υψηλό επίπεδο με 
+μεγαλύτερα, ακανόνιστα σωματίδια, 
+π.χ. τυρί κότατζ. 
+conformation, 
+noun 
+διαμόρφωση, ουσ. 
+geometrical textural attribute 
+relating to the perception of the 
+shape and the orientation of 
+particles in a product 
+Note The main adjectives 
+corresponding to different 
+conformations are as follows: 
+— “cellular”: spherical or ovoid 
+particles consisting of thin walls 
+surrounding liquid or gas, e.g. 
+orange; 
+— “crystalline”: angular, similarly 
+sized, symmetrical, three-
+dimensional particles, e.g. 
+granulated sugar; 
+— “fibrous”: long particles or 
+strands oriented in the same 
+direction, e.g. celery; 
+— “flaky”: loose layers that 
+separate easily, e.g. cooked 
+tuna, croissant, flaky pastry; 
+— “puffy”: hard or firm outer 
+shells filled with large, often 
+uneven, air pockets, e.g. cream 
+puff, puffed rice. 
+γεωμετρικό χαρακτηριστικό υφής που 
+σχετίζεται με την αντίληψη του 
+σχήματος και του προσανατολισμού 
+των σωματιδίων σε ένα προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικές 
+διαμορφώσεις είναι τα εξής:  
+— «κυτταρώδης»: σφαιρικά ή ωοειδή 
+σωματίδια που αποτελούνται από 
+λεπτά τοιχώματα που περιβάλλουν 
+υγρό ή αέριο, π.χ. πορτοκάλι,  
+— «κρυσταλλικός»: γωνιώδη, 
+παρόμοιου μεγέθους, συμμετρικά, 
+τριδιάστατα σωματίδια, π.χ. 
+κρυσταλλική ζάχαρη, 
+— «ινώδης»: μακριά σωματίδια ή 
+κλώνοι που προσανατολίζονται προς 
+την ίδια κατεύθυνση, π.χ. σέλινο, 
+— « νιφαδοειδής»: χαλαρά στρώματα 
+που διαχωρίζονται εύκολα, π.χ. 
+μαγειρεμένος τόνος, κρουασάν, ζύμη 
+σφολιάτα, 
+— «φουσκωτός»: σκληρά ή σφιχτά 
+εξωτερικά κελύφη γεμάτα με 
+μεγάλους, συχνά ανομοιόμορφους, 
+θύλακες αέρα, π.χ. γλύκισμα σου , 
+αφράτοι τραγανοί κόκκοι ρυζιού. 
+3.55 
+moisture1 
+υγρασία, ουσ. 
+perception of moisture content 
+of a food by the tactile receptors 
+in the mouth and also in relation 
+to the lubricating properties of 
+the product 
+Note Reflects not only the total 
+amount of moisture perceived 
+but the type, rate and manner of 
+release or absorption. 
+αντίληψη της περιεχόμενης 
+ποσότητας υγρασίας ενός τροφίμου 
+από τους απτικούς υποδοχείς στο 
+στόμα και επίσης σε σχέση με τις 
+λιπαντικές ιδιότητες του προϊόντος  
+Σημείωση 1: Αντικατοπτρίζει όχι μόνο 
+τη συνολική ποσότητα υγρασίας που 
+γίνεται αντιληπτή αλλά τον τύπο, τον 
+ρυθμό και τον τρόπο απελευθέρωσης 
+ή απορρόφησης. 
+3.56 
+moisture2, noun 
+moistness, noun 
+υγρότητα, ουσ. 
+surface textural attribute that 
+describes the perception of 
+water absorbed by or released 
+from a product 
+Note The main adjectives 
+corresponding to different levels 
+of moistness are as follows: 
+Surface attributes: 
+— “dry”: absence, e.g. cream 
+cracker; 
+— “moist”: moderate level, e.g. 
+peeled apple; 
+— “wet”: high level, e.g. water 
+chestnut, oyster. 
+επιφανειακό χαρακτηριστικό υφής 
+που περιγράφει την αντίληψη του 
+νερού που απορροφάται ή 
+απελευθερώνεται από ένα προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά επίπεδα 
+υγρότητας είναι τα εξής:  
+Επιφανειακά χαρακτηριστικά υφής: 
+— «ξηρός»: απουσία υγρασίας, π.χ. 
+κράκερ, 
+— «ελαφρώς υγρός»: μέτριο επίπεδο, 
+π.χ. αποφλοιωμένο μήλο, 
+— «υγρός»: υψηλό επίπεδο, π.χ. 
+κινέζικο νεροκάστανο, στρείδι.  
+3.57 
+18 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+Body attributes: 
+— “dry”: absence, e.g. cream 
+cracker; 
+— “moist”: moderate level, e.g. 
+apple; 
+— “juicy”: high level, e.g. 
+orange; 
+— “succulent”: high level, e.g. 
+meat; 
+— “watery”: water-like 
+perception, e.g. watermelon. 
+Χαρακτηριστικά σώματος:  
+— «στεγνός»: απουσία υγρασίας, 
+π.χ. κράκερ, 
+— «ελαφρώς υγρός»: μέτριο επίπεδο, 
+π.χ. μήλο,  
+— «ζουμερός»: υψηλό επίπεδο, π.χ. 
+πορτοκάλι,  
+— «χυμώδης»: υψηλού επιπέδου, 
+π.χ. κρέας, 
+— «υδαρής»: που μοιάζει με νερό, 
+π.χ. καρπούζι. 
+dryness, noun 
+ 
+dry, adjective 
+ξηρότητα, ουσ. 
+ 
+ξηρός -ή -ό, επίθ. 
+textural characteristic describing 
+the perception of moisture 
+absorbed by a product (e.g. 
+cream cracker) 
+Note In beverages, a liquid that 
+feels dry on the tongue and in 
+the throat, e.g. cranberry juice. 
+χαρακτηριστικό υφής που περιγράφει 
+την αντίληψη υγρασίας που 
+απορροφάται από ένα προϊόν (π.χ. 
+γαλέτα)  
+Σημείωση 1: Στα ποτά, ένα υγρό που 
+γίνεται αντιληπτό ως ξηρό στη 
+γλώσσα και στο λαιμό, π.χ. χυμός 
+μούρων. 
+3.58 
+fattiness, noun 
+λιπαρότητα, ουσ. 
+textural attribute relating to the 
+perception of the quantity or the 
+quality of fat on the surface or in 
+the body of a product 
+Note The main adjectives 
+corresponding to the perception 
+of fattiness are as follows: 
+— “oily”: perception of soaking 
+and running fat, e.g. salad with 
+dressing; 
+— “greasy”: perception of 
+exuding fat, e.g. bacon, chips, 
+French fries; 
+— “fatty”: perception of high fat 
+proportion in a product, oily, 
+greasy, e.g. lard, tallow. 
+χαρακτηριστικό υφής που σχετίζεται 
+με την αντίληψη της ποσότητας ή της 
+ποιότητας του λίπους στην επιφάνεια 
+ή στο σώμα ενός προϊόντος  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν στην αντίληψη της 
+λιπαρότητας είναι τα εξής:  
+— «ελαιώδης»: αντίληψη του να είναι 
+κάτι μουσκεμένο ή να στάζει λίπος, 
+π.χ. σαλάτα με λαδόξιδο,  
+— «λιπαρώδης»: αντίληψη του 
+εκκρινόμενου λίπους, π.χ. μπέικον, 
+πατατάκια, τηγανιτές πατάτες,  
+— «λιπαρός, λιπώδης»: αντίληψη 
+υψηλής αναλογίας λιπαρών σε ένα 
+προϊόν, ελαιώδης, λιπαρός, π.χ. 
+λαρδί, ζωικά λίπη. 
+3.59 
+aeration, noun 
+ 
+aerated, pp. 
+αεριούχηση, ουσ. 
+ 
+αεριούχος -α -ο, 
+επίθ. 
+describes a solid or semi-solid 
+product containing small, even 
+cells filled with gas (usually 
+carbon dioxide or air) and 
+usually surrounded by soft cell 
+walls 
+Note 1 See also effervescence 
+(3.61). 
+Note 2 The product may be 
+descrbed as “frothy” or “foamy” 
+(fluid cell walls, e.g. milkshake) 
+or “porous” (solid cell walls), e.g. 
+marshmallows, meringue, 
+chocolate mousse, chiffon pie 
+filling, sandwich loaf. 
+περιγράφει ένα στερεό ή ημιστερεό 
+προϊόν που περιέχει μικρές, 
+ομοιόμορφες κυψελίδες γεμάτες με 
+αέριο (συνήθως διοξείδιο του 
+άνθρακα ή αέρα) που συνήθως 
+περιβάλλονται από μαλακά κυτταρικά 
+τοιχώματα  
+Σημείωση 1: Βλέπε επίσης 
+αναβρασμός (3.61).  
+Σημείωση 2: Το προϊόν μπορεί να 
+περιγραφεί ως «αφρώδες» (υγρά 
+κυτταρικά τοιχώματα, π.χ. μιλκσέικ) ή 
+«πορώδες» (στερεά κυτταρικά 
+τοιχώματα), π.χ.μαρσμέλλοου, 
+μαρέγκα, μους σοκολάτας, γέμιση 
+πίτας σιφόν, φραντζολάκι για 
+σάντουιτς. 
+3.60 
+19 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+effervescence, 
+noun 
+effervescent, 
+adjective 
+αναβρασμός, ουσ. 
+ 
+αναβράζων 
+-ουσα, 
+-ον, επιθ. μετοχή 
+αεριούχος -α -ο, 
+επίθ. 
+αφρώδης -ης -ες, 
+επίθ. 
+formation of gas bubbles in a 
+liquid product when either the 
+gas is generated by a chemical 
+reaction or pressure is released 
+NOTE 1 See also aeration 
+(3.60). 
+NOTE 2 The bubbles or their 
+formation are often perceived as 
+textural attributes, but at high 
+levels may be perceived by 
+vision or audition. 
+Degrees of effervescence may 
+be described as: 
+— “still”: absence, e.g. tap 
+water; 
+— “flat”: having a lower level 
+than expected, e.g. bottled beer 
+that has been too long open; 
+— “tingly”: perceptible mainly as 
+a texture attribute in the mouth; 
+ 
+— “bubbly”: having visibly rising 
+bubbles; 
+— “fizzy”: having briskly bursting 
+bubbles making an audible hiss. 
+σχηματισμός φυσαλίδων αερίου σε 
+ένα υγρό προϊόν όταν είτε το αέριο 
+παράγεται από μια χημική αντίδραση 
+είτε όταν ελαττώνεται η πίεση  
+Σημείωση 1: Βλέπε επίσης 
+αεριούχηση (3.60).  
+Σημείωση 2: Οι φυσαλίδες ή ο 
+σχηματισμός τους συχνά γίνονται 
+αντιληπτές ως χαρακτηριστικά υφής, 
+αλλά σε υψηλά επίπεδα μπορεί να 
+γίνουν αντιληπτές από την όραση ή 
+την ακοή.  
+Οι βαθμοί αναβρασμού μπορούν να 
+περιγραφούν ως:  
+— «χωρίς ανθρακικό»: απουσία 
+αναβρασμού, π.χ. νερό βρύσης, 
+— «ξεθυμασμένος»: έχει χαμηλότερο 
+επίπεδο από το αναμενόμενο, π.χ. 
+εμφιαλωμένη μπύρα που παρέμεινε 
+για πολύ καιρό ανοικτή,  
+— «γαργαλιστικός»: γίνεται αντιληπτό 
+κυρίως ως χαρακτηριστικό υφής στο 
+στόμα,  
+— «φυσαλιδούχος»: με εμφανώς 
+ανερχόμενες φυσαλίδες,  
+— «αφρώδης», «αεριούχος»: με 
+φυσαλίδες που σκάνε ζωηρά και 
+παράγουν ένα ακουστό σφύριγμα. 
+3.61 
+mouthfeel, noun 
+στοματαίσθημα, 
+ουσ. 
+mixed experience derived from 
+sensations in the mouth that 
+relate to physical or chemical 
+properties of a stimulus 
+Note Assessors differentiate the 
+physical sensations (e.g. 
+density, viscosity, particulate) as 
+texture properties and the 
+chemical sensations (e.g. 
+astringency, cooling) as flavour 
+properties. 
+μεικτή εμπειρία που προέρχεται από 
+αισθήματα στο στόμα που σχετίζονται 
+με φυσικές ή χημικές ιδιότητες ενός 
+ερεθίσματος  
+Σημείωση 1: Οι αξιολογητές 
+διαφοροποιούν τα φυσικά αισθήματα 
+(π.χ. πυκνότητα, ιξώδες, 
+διαμόρφωση) ως ιδιότητες υφής και 
+τα χημικά αισθήματα (π.χ.  
+στυφότητα, ψύξη) ως ιδιότητες 
+οσμόγευσης. 
+3.62 
+clean feel, noun 
+ 
+clean, adjective 
+καθαρότητα 
+(στοματαισθήματος), 
+ουσ. 
+ 
+καθαρός -ή -ό, επίθ. 
+ 
+property of leaving no lingering 
+mouth after-feel once swallowed 
+(see adhesiveness, 3.51), e.g. 
+water 
+ιδιότητα του να μην παραμένει στο 
+στόμα κανένα επίμονο μεταίσθημα 
+μετά την κατάποση (βλέπε 
+προσφυσικότητα, 3.51), π.χ. νερό 
+3.63 
+palate cleanser, 
+noun 
+ 
+cleansing, 
+adjective 
+καθαριστικό 
+ουρανίσκου, ουσ. 
+ 
+καθαριστικός -ή -ό, 
+επίθ. 
+product that removes any 
+lingering residue from the mouth 
+EXAMPLE Water, cream 
+crackers. 
+προϊόν που αφαιρεί τυχόν 
+υπολείμματα από το στόμα  
+ΠΑΡΑΔΕΙΓΜΑ: Νερό, κράκερ 
+3.64 
+after-taste, noun 
+residual taste, 
+noun 
+επίγευση, ουσ.  
+υπολειμματική 
+γεύση, ουσ. 
+olfactory and/or gustatory 
+sensation that occurs after the 
+elimination of the product, and 
+differs from the sensations 
+perceived whilst the product was 
+in the mouth 
+οσφρητικό και/ή γευστικό αίσθημα 
+που εμφανίζεται μετά την 
+απομάκρυνση του προϊόντος και 
+διαφέρει από τα αισθήματα που 
+γίνονται αντιληπτά ενόσω το προϊόν 
+βρισκόταν στο στόμα 
+3.65 
+after-feel, noun 
+μεταίσθημα, ουσ. 
+experience that follows the 
+removal of a texture stimulus; it 
+may be continuous with the 
+primary experience or may 
+follow as a different quality after 
+εμπειρία που ακολουθεί την αφαίρεση 
+ενός ερεθίσματος υφής. Μπορεί να 
+είναι σε συνέχεια της πρωταρχικής 
+εμπειρίας ή μπορεί να ακολουθεί ως 
+διαφορετική ιδιότητα μετά από μια 
+3.66 
+20 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+a period during which 
+swallowing, saliva, dilution and 
+other influences may have 
+affected the stimulus substance 
+or sensing field 
+περίοδο κατά την οποία η κατάποση, 
+το σάλιο, η αραίωση και άλλες 
+επιδράσεις μπορεί να έχουν 
+επηρεάσει το ερέθισμα ή το 
+αισθητηριακό πεδίο 
+persistence, noun 
+επιμονή, ουσ. 
+related to a response to a 
+stimulus over a measurable 
+period of time 
+σχετίζεται με απόκριση σε ερέθισμα 
+σε όλη τη διάρκεια μιας μετρήσιμης 
+χρονικής περιόδου 
+3.67 
+insipid, adjective 
+άνοστος -η -ο, επίθ. 
+describes a product with a much 
+lower level of flavour than 
+expected 
+περιγράφει ένα προϊόν με πολύ 
+χαμηλότερο επίπεδο οσμόγευσης 
+από το αναμενόμενο 
+3.68 
+bland, adjective 
+αδιάφορος -η -ο, 
+επίθ. 
+describes a product with a low 
+level of flavour, and without 
+character 
+περιγράφει ένα προϊόν με χαμηλό 
+επίπεδο οσμόγευσης και χωρίς 
+χαρακτήρα 
+3.69 
+neutral, adjective 
+ουδέτερος -η -ο, 
+επίθ. 
+describes a product without any 
+distinct characteristic 
+περιγράφει ένα προϊόν χωρίς κανένα 
+διακριτό χαρακτηριστικό 
+3.70 
+flat, adjective 
+επίπεδος,  
+άτονος -η -ο, επίθ. 
+describes a product perceived to 
+be below the expected 
+organoleptic level 
+περιγράφει ένα προϊόν που γίνεται 
+αντιληπτό ότι είναι κάτω από το 
+αναμενόμενο οργανοληπτικό επίπεδο 
+3.71 
+ 
+4   Terminology relating to methods – Ορολογία σχετική με μεθόδους 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+objective method, 
+noun 
+αντικειμενική 
+μέθοδος, ουσ. 
+any method in which the effects 
+of personal opinions are 
+minimized 
+οποιαδήποτε μέθοδος με την οποία 
+ελαχιστοποιείται η επίδραση 
+προσωπικών απόψεων 
+4.1 
+subjective 
+method, noun 
+υποκειμενική 
+μέθοδος, ουσ. 
+any method based on personal 
+opinions 
+οποιαδήποτε μέθοδος βασίζεται σε 
+προσωπικές απόψεις 
+4.2 
+grading, noun 
+διαβάθμιση, ουσ. 
+method in which an assumption 
+of quality is inherent in the scale 
+in order to categorize products 
+into quality groups EXAMPLES 
+Ranking (4.4), classification 
+(4.5), rating (4.6), and scoring 
+(4.7). 
+μέθοδος κατά την οποία η απόδοση 
+ποιότητας είναι εγγενής στην κλίμακα 
+προκειμένου να κατηγοριοποιηθούν 
+τα προϊόντα σε ομάδες ποιότητας 
+ΠΑΡΑΔΕΙΓΜΑΤΑ: κατάταξη (4.4), 
+ταξινόμηση (4.5), διαβάθμιση σε 
+κλίμακα (4.6) και βαθμολόγηση (4.7). 
+4.3 
+ranking, noun 
+κατάταξη, ουσ. 
+method in which a series of two 
+or more samples is presented at 
+the same time and arranged in 
+order of intensity or degree of 
+some designated attribute 
+μέθοδος κατά την οποία δύο ή 
+περισσότερα δείγματα 
+παρουσιάζονται ταυτόχρονα και 
+διατάσσονται κατά σειρά έντασης ή 
+βαθμού κάποιου καθορισμένου 
+χαρακτηριστικού 
+4.4 
+classification, 
+noun 
+ταξινόμηση, ουσ. 
+method of sorting into categories 
+μέθοδος κατηγοριοποίησης 
+4.5 
+rating, noun 
+διαβάθμιση σε 
+κλίμακα, ουσ. 
+κλιμακωτή 
+διαβάθμιση, ουσ. 
+method of measuring on an 
+ordinal scale where the 
+magnitude of each perception is 
+denoted by one of a number of 
+possible categories 
+μέθοδος μέτρησης σε διατακτική 
+κλίμακα όπου το μέτρο κάθε 
+αντίληψης δηλώνεται με μία από ένα 
+πλήθος δυνατές κατηγορίες 
+4.6 
+scoring, noun 
+βαθμολόγηση, ουσ. 
+evaluation of a product (or of 
+attributes of a product) by 
+assigning numbers that have 
+some mathematical relationship 
+to the product or attributes being 
+evaluated 
+αξιολόγηση ενός προϊόντος (ή των 
+χαρακτηριστικών ενός προϊόντος) με 
+εκχώρηση αριθμών που έχουν 
+κάποια μαθηματική σχέση με το 
+προϊόν ή τα χαρακτηριστικά που 
+αξιολογούνται 
+4.7 
+21 
+screening, noun 
+διαλογή, ουσ. 
+preliminary selection procedure 
+διαδικασία προκαταρκτικής επιλογής 
+4.8 
+matching, noun 
+αντιστοίχιση, ουσ. 
+experimental process of 
+equating or relating stimuli, 
+usually to determine the degree 
+of similarity between a control 
+sample and an unknown or 
+between unknowns 
+πειραματική διεργασία εξίσωσης ή 
+συσχέτισης ερεθισμάτων, συνήθως 
+για τον προσδιορισμό του βαθμού 
+ομοιότητας μεταξύ ενός δείγματος 
+ελέγχου και ενός αγνώστου ή μεταξύ 
+αγνώστων 
+4.9 
+magnitude 
+estimation, noun 
+εκτίμηση μέτρου, 
+ουσ. 
+process of assigning values to 
+the intensities of an attribute in 
+such a way that the ratios 
+between assigned values are 
+the same as between the 
+magnitudes of the perceptions to 
+which they correspond 
+διεργασία εκχώρησης τιμών στις 
+εντάσεις ενός χαρακτηριστικού με 
+τέτοιο τρόπο ώστε οι λόγοι μεταξύ 
+των εκχωρημένων τιμών να είναι ίδιοι 
+με τους λόγους μεταξύ των μέτρων 
+των αντιλήψεων στις οποίες 
+αντιστοιχούν 
+4.10 
+independent 
+assessment, noun 
+ανεξάρτητη 
+αξιολόγηση, ουσ. 
+evaluation of one or more stimuli 
+without direct comparison 
+αξιολόγηση ενός ή περισσότερων 
+ερεθισμάτων χωρίς άμεση σύγκριση 
+4.11 
+absolute 
+judgement, noun 
+απόλυτη κρίση, ουσ. 
+evaluation of a stimulus made 
+without direct comparison (e.g. 
+monadic presentation) 
+αξιολόγηση ενός ερεθίσματος χωρίς 
+άμεση σύγκριση (π.χ. μοναδική 
+παρουσίαση) 
+4.12 
+comparative 
+assessment, noun 
+συγκριτική 
+αξιολόγηση, ουσ. 
+comparison of stimuli presented 
+at the same time 
+σύγκριση ερεθισμάτων που 
+παρουσιάζονται ταυτόχρονα 
+4.13 
+dilution method, 
+noun 
+μέθοδος αραίωσης, 
+ουσ. 
+technique in which samples are 
+prepared at increasingly lower 
+concentrations and examined in 
+series 
+τεχνική κατά την οποία τα δείγματα 
+παρασκευάζονται σε όλο και 
+χαμηλότερες συγκεντρώσεις και 
+εξετάζονται κατά σειρά 
+4.14 
+psychophysical 
+method, noun 
+ψυχοφυσική 
+μέθοδος, ουσ. 
+procedure for establishing 
+relationships between 
+measurable physical stimuli and 
+sensory responses 
+διαδικασία για τη δημιουργία σχέσεων 
+μεταξύ μετρήσιμων φυσικών 
+ερεθισμάτων και αισθητηριακών 
+αποκρίσεων 
+4.15 
+discrimination 
+test, noun 
+δοκιμή διάκρισης, 
+ουσ. 
+any method of test involving 
+comparison between samples to 
+determine if differences are 
+perceptible EXAMPLES Triangle 
+test (4.18), duo-trio test (4.19), 
+or paired comparison (4.17). 
+οποιαδήποτε μέθοδος δοκιμής που 
+περιλαμβάνει σύγκριση μεταξύ 
+δειγμάτων για να προσδιοριστεί εάν οι 
+διαφορές είναι αντιληπτές.  
+ΠΑΡΑΔΕΙΓΜΑΤΑ: Τριγωνική δοκιμή 
+(4.18), δοκιμή «δύο από τρία» (4.19), 
+δοκιμή ζευγαρωτής σύγκρισης (4.17). 
+4.16 
+paired 
+comparison test, 
+noun 
+δοκιμή ζευγαρωτής 
+σύγκρισης, ουσ. 
+method in which stimuli are 
+presented in pairs for 
+comparison on the basis of 
+some defined criteria 
+μέθοδος κατά την οποία τα 
+ερεθίσματα παρουσιάζονται κατά 
+ζεύγη για σύγκριση με βάση 
+καθορισμένα κριτήρια 
+4.17 
+triangle test, noun 
+τριγωνική δοκιμή 
+ουσ. 
+method of discrimination testing 
+involving the simultaneous 
+presentation of three coded 
+samples, two of which are 
+identical, and in which the 
+assessor is asked to select the 
+sample perceived as different 
+μέθοδος δοκιμής διάκρισης που 
+περιλαμβάνει την ταυτόχρονη 
+παρουσίαση τριών κωδικοποιημένων 
+δειγμάτων, δύο από τα οποία είναι 
+πανομοιότυπα, και στην οποία ο 
+αξιολογητής καλείται να επιλέξει το 
+δείγμα που γίνεται αντιληπτό ως 
+διαφορετικό 
+4.18 
+duo-trio test, noun 
+δοκιμή «δύο από 
+τρία», ουσ. 
+method of discrimination testing 
+in which each assessor receives 
+a set of three samples, of which 
+one is labelled as a reference, 
+and is asked to identify either 
+which of the others is the same 
+as the reference or which is 
+different from the reference 
+μέθοδος δοκιμής διάκρισης στην 
+οποία κάθε αξιολογητής λαμβάνει ένα 
+σύνολο τριών δειγμάτων, εκ των 
+οποίων το ένα επισημαίνεται ως 
+αναφορά, και του ζητείται να 
+προσδιορίσει ποιο από τα άλλα είναι 
+το ίδιο με το δείγμα αναφοράς ή ποιο 
+είναι διαφορετικό από το δείγμα 
+αναφοράς 
+4.19 
+22 
+“two-out-of-five” 
+test noun 
+δοκιμή «δύο από 
+πέντε», ουσ. 
+method of discrimination testing 
+involving five coded samples, 
+two of which are of one type and 
+three of which are of another 
+and in which the assessor is 
+asked to group the samples into 
+sets of two and of three samples 
+of similar perception 
+μέθοδος δοκιμής διάκρισης που 
+περιλαμβάνει πέντε κωδικοποιημένα 
+δείγματα, δύο από τα οποία είναι ενός 
+τύπου και τα τρία άλλου τύπου, στην 
+οποία ο αξιολογητής καλείται να 
+ομαδοποιήσει τα δείγματα σε ομάδες 
+των δύο και τριών δειγμάτων 
+παρόμοιας αντίληψης 
+4.20 
+“A” or “not A” 
+test, noun 
+δοκιμή «Α» ή «όχι 
+Α», ουσ. 
+method of discrimination testing 
+in which a series of samples 
+which may be “A” or “not A” is 
+presented to the assessor after 
+he/she has learned to recognize 
+sample “A” and in which the 
+assessor is asked to indicate 
+whether each sample is “A” or 
+“not A” 
+μέθοδος δοκιμής διάκρισης κατά την 
+οποία μια σειρά δειγμάτων που 
+μπορεί να είναι «Α» ή «όχι Α» 
+παρουσιάζεται στον αξιολογητή αφού 
+μάθει να αναγνωρίζει το δείγμα «Α» 
+και στην οποία ο αξιολογητής καλείται 
+να υποδείξει εάν κάθε δείγμα είναι "Α" 
+ή "όχι Α" 
+4.21 
+descriptive 
+analysis, noun 
+περιγραφική 
+ανάλυση, ουσ. 
+any method to describe or 
+quantify the sensory 
+characteristics of stimuli by a 
+panel of trained assessors 
+οποιαδήποτε μέθοδος για την 
+περιγραφή ή την ποσοτικοποίηση των 
+αισθητηριακών χαρακτηριστικών των 
+ερεθισμάτων από μια ομάδα 
+εκπαιδευμένων αξιολογητών 
+4.22 
+qualitative 
+sensory profile, 
+noun 
+ποιοτικό 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of the sensory 
+attributes of a sample but 
+without intensity values 
+περιγραφή των αισθητηριακών 
+χαρακτηριστικών ενός δείγματος αλλά 
+χωρίς τιμές έντασης 
+4.23 
+quantitative 
+sensory profile, 
+noun 
+ποσοτικό 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of a sample 
+consisting of both attributes and 
+their intensity values 
+περιγραφή ενός δείγματος που 
+αποτελείται από δύο χαρακτηριστικά 
+και τις τιμές έντασής τους 
+4.23 
+sensory profile, 
+noun 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of the sensory 
+properties of a sample, 
+consisting of the sensory 
+attributes in the order of 
+perception, and with assignment 
+of an intensity value for each 
+attribute  
+NOTE A generic term for any 
+type of profile, whether full or 
+partial, trademarked or not. 
+περιγραφή των αισθητηριακών 
+ιδιοτήτων ενός δείγματος, που 
+αποτελείται από τα αισθητηριακά 
+χαρακτηριστικά κατά σειρά αντίληψης 
+και με εκχώρηση τιμής έντασης για 
+κάθε χαρακτηριστικό  
+Σημείωση 1: Γενικός όρος για 
+οποιοδήποτε τύπο προφίλ, πλήρες ή 
+μερικό, με εμπορικό σήμα ή όχι. 
+4.25 
+free choice 
+sensory profile, 
+noun 
+αισθητηριακό 
+προφίλ ελεύθερης 
+επιλογής, ουσ. 
+form of sensory profiling in 
+which each assessor 
+independently chooses the 
+attributes to be used for a group 
+of samples  
+NOTE A consensus sample 
+space is derived statistically. 
+μορφή αισθητηριακού προφίλ στην 
+οποία κάθε αξιολογητής επιλέγει 
+ανεξάρτητα τα χαρακτηριστικά που θα 
+χρησιμοποιηθούν για μια ομάδα 
+δειγμάτων  
+Σημείωση 1: Ένας συναινετικός 
+δειγματοχώρος προκύπτει στατιστικά. 
+4.26 
+texture profile, 
+noun 
+προφίλ υφής ουσ. 
+qualitative or quantitative 
+sensory profile of the texture of 
+a sample 
+ποιοτικό ή ποσοτικό αισθητηριακό 
+προφίλ της υφής ενός δείγματος 
+4.27 
+preference test, 
+noun 
+δοκιμή προτίμησης, 
+ουσ. 
+test to assess preference 
+between two or more samples 
+δοκιμή για την αξιολόγηση της 
+προτίμησης μεταξύ δύο ή 
+περισσότερων δειγμάτων 
+4.28 
+scale, noun 
+κλίμακα, ουσ. 
+term applicable to either a 
+response scale or a 
+measurement scale 
+κλίμακα απόκρισης ή κλίμακα 
+μέτρησης 
+4.29 
+response scale, 
+noun 
+κλίμακα απόκρισης 
+ουσ. 
+means (e.g. numerical, verbal or 
+pictorial) by which an assessor 
+registers a quantitative response 
+NOTE 1 In sensory analysis, this 
+is a device or tool to capture the 
+μέσο (π.χ. αριθμητικό, λεκτικό ή 
+εικονογραφικό) με το οποίο ένας 
+αξιολογητής καταχωρεί μια ποσοτική 
+απόκριση  
+Σημείωση 1: Στην αισθητηριακή 
+4.29.1 
+23 
+reaction of an assessor to some 
+property such that it can be 
+converted into numbers. NOTE 
+2 The term “scale” is widely 
+used as being equivalent to the 
+expression “response scale”. 
+ανάλυση, αυτό είναι μια διάταξη ή ένα 
+εργαλείο για τη λήψη της αντίδρασης 
+ενός αξιολογητή σε κάποια ιδιότητα 
+έτσι ώστε αυτή να μπορεί να 
+μετατραπεί σε αριθμούς.  
+Σημείωση 2: Ο όρος «κλίμακα» 
+χρησιμοποιείται ευρέως ως 
+συνώνυμος με τον όρο «κλίμακα 
+απόκρισης». 
+measurement 
+scale, noun 
+κλίμακα μέτρησης, 
+ουσ. 
+formal relationship (e.g. ordinal, 
+interval or ratio) between a 
+property (e.g. the intensity of a 
+sensory perception) and the 
+numbers used to represent 
+values of the property (e.g. 
+numbers registered by the 
+assessors or derived from the 
+assessors' responses)  
+NOTE The term “scale” is widely 
+used as being equivalent to the 
+expression “measurement 
+scale”. 
+τυπική σχέση (π.χ. διάταξη, διάστημα 
+ή λόγος) μεταξύ μιας ιδιότητας (π.χ. η 
+ένταση μιας αισθητηριακής 
+αντίληψης) και των αριθμών που 
+χρησιμοποιούνται για την παράσταση 
+των τιμών της ιδιότητας (π.χ. αριθμοί 
+που έχουν καταχωρηθεί από τους 
+αξιολογητές ή προέρχονται από τις 
+αποκρίσεις των αξιολογητών )  
+Σημείωση 1: Ο όρος «κλίμακα» 
+χρησιμοποιείται ευρέως ως 
+συνώνυμος με τον όρο «κλίμακα 
+μέτρησης». 
+4.29.2 
+intensity scale, 
+noun 
+κλίμακα έντασης, 
+ουσ. 
+scale denoting the strength of a 
+perception 
+κλίμακα που υποδηλώνει τη δύναμη 
+μιας αντίληψης 
+4.30 
+attitude scale, 
+noun 
+κλίμακα στάσεων, 
+ουσ. 
+scale denoting attitudes or 
+opinions 
+κλίμακα που υποδηλώνει στάσεις ή 
+απόψεις 
+4.31 
+reference scale, 
+noun 
+κλίμακα αναφοράς, 
+ουσ. 
+scale in which reference 
+samples are used to define an 
+attribute or specific intensities of 
+a given attribute 
+κλίμακα στην οποία χρησιμοποιούνται 
+δείγματα αναφοράς για να ορίσουν 
+ένα χαρακτηριστικό ή συγκεκριμένες 
+εντάσεις ενός δεδομένου 
+χαρακτηριστικού 
+4.32 
+hedonic scale, 
+noun 
+κλίμακα αρέσκειας, 
+ουσ. 
+scale expressing degrees of 
+likes or dislike 
+κλίμακα που εκφράζει βαθμούς 
+αρέσκειας ή απαρέσκειας 
+4.33 
+bipolar scale, 
+noun 
+διπολική κλίμακα, 
+ουσ. 
+scale with opposite descriptions 
+at the two ends (e.g. a texture 
+scale ranging from hard to soft) 
+κλίμακα με αντίθετες περιγραφές στα 
+δύο άκρα (π.χ. κλίμακα υφής που 
+κυμαίνεται από σκληρό έως μαλακό) 
+4.34 
+unipolar scale, 
+noun 
+μονοπολική 
+κλίμακα, ουσ. 
+scale with only one descriptor at 
+one of the ends 
+κλίμακα με μόνο έναν περιγραφέα σε 
+ένα από τα άκρα 
+4.35 
+ordinal scale, 
+noun 
+διατακτική κλίμακα, 
+ουσ. 
+scale in which the order of the 
+values allocated corresponds to 
+the order of the intensities 
+perceived for the property being 
+assessed 
+κλίμακα στην οποία η σειρά των 
+τιμών που κατανέμονται αντιστοιχεί 
+στη σειρά των εντάσεων που γίνονται 
+αντιληπτές για την ιδιότητα που 
+αξιολογείται 
+4.36 
+interval scale, 
+noun 
+κλίμακα 
+διαστημάτων, ουσ. 
+scale which, in addition to 
+possessing the attributes of an 
+ordinal scale, is distinguished by 
+the fact that equal differences 
+between numerical values 
+correspond to equal differences 
+between properties measured 
+(in sensory analysis, perceived 
+intensities) 
+κλίμακα η οποία, εκτός από το ότι 
+διαθέτει τα χαρακτηριστικά μιας 
+διατακτικής κλίμακας, διακρίνεται από 
+το γεγονός ότι ίσες διαφορές μεταξύ 
+αριθμητικών τιμών αντιστοιχούν σε 
+ίσες διαφορές μεταξύ των ιδιοτήτων 
+που μετρήθηκαν (στην αισθητηριακή 
+ανάλυση, αντιληπτές εντάσεις) 
+4.37 
+ratio scale, noun 
+κλίμακα λόγων, ουσ. 
+scale which has the properties 
+of an interval scale but for 
+which, in addition, the ratio 
+between the values allocated to 
+two stimuli is equal to the ratio 
+between the perceived 
+intensities of these stimuli 
+κλίμακα που έχει τις ιδιότητες μιας 
+κλίμακας διαστημάτων, για την οποία 
+όμως επιπλέον ο λόγος μεταξύ των 
+τιμών που κατανέμονται σε δύο 
+ερεθίσματα είναι ίσος με τον λόγο 
+μεταξύ των αντιληπτών εντάσεων 
+αυτών των ερεθισμάτων 
+4.38 
+24 
+error (of 
+assessment), noun 
+σφάλμα 
+(αξιολόγησης), ουσ. 
+the difference between the 
+observed value (or assessment) 
+and the true value 
+η διαφορά μεταξύ της 
+παρατηρούμενης τιμής (ή εκτίμησης) 
+και της αληθούς τιμής 
+4.39 
+random errors, 
+noun 
+τυχαία σφάλματα, 
+ουσ. 
+〈sensory analysis〉 unpredictable 
+errors which average to zero 
+〈αισθητηριακή ανάλυση〉 απρόβλεπτα 
+σφάλματα που δίνουν μέση τιμή 
+μηδέν 
+4.40 
+bias, noun 
+μεροληψία, ουσ. 
+〈sensory analysis〉 systematic 
+errors which may be positive or 
+negative 
+〈αισθητηριακή ανάλυση〉 συστηματικά 
+σφάλματα που μπορεί να είναι θετικά 
+ή αρνητικά 
+4.41 
+expectation bias, 
+noun 
+μεροληψία 
+προϊδεασμού, ουσ. 
+bias due to the assessor's 
+preconceived ideas 
+μεροληψία λόγω προϊδεασμού του 
+αξιολογητή 
+4.42 
+halo effect, noun 
+φαινόμενο της άλω, 
+ουσ. 
+special case of context effect 
+where the favourable or 
+unfavourable evaluation of a 
+stimulus on one attribute tends 
+to induce favourable or 
+unfavourable evaluation of other 
+attributes of the same stimulus 
+considered at the same time 
+ειδική περίπτωση επίδρασης του 
+πλαισίου εφαρμογής όπου η ευνοϊκή 
+ή δυσμενής αξιολόγηση ενός 
+ερεθίσματος σε ένα χαρακτηριστικό 
+τείνει να προκαλέσει ευνοϊκή ή 
+δυσμενή αξιολόγηση άλλων 
+χαρακτηριστικών του ίδιου 
+ερεθίσματος που εξετάζονται 
+ταυτόχρονα 
+4.43 
+true value noun 
+αληθής τιμή ουσ. 
+〈sensory analysis〉 particular 
+value which assessments are 
+intended to estimate 
+ιδιαίτερη τιμή στην εκτίμηση της 
+οποίας αποσκοπούν οι αξιολογήσεις 
+4.44 
+standard 
+illuminant, noun 
+πρότυπο φωτιστικό 
+ουσ. 
+colorimetric illuminant relating to 
+the range of artificial or natural 
+lights defined by the 
+International Lighting 
+Commission (CIE) 
+χρωματομετρικό φωτιστικό που 
+σχετίζεται με το εύρος των τεχνητών ή 
+φυσικών φώτων που ορίζεται από τη 
+Διεθνή Επιτροπή Φωτισμού (CIE) 
+4.45 
+anchor point, noun 
+σημείο αγκύρωσης, 
+ουσ. 
+reference point against which 
+samples are assessed  
+NOTE See reference point 
+(1.19). 
+σημείο αναφοράς βάσει του οποίου 
+αξιολογούνται τα δείγματα  
+Σημείωση 1: Βλέπε σημείο αναφοράς 
+(1.19). 
+4.46 
+score, noun 
+βαθμός, ουσ. 
+value assigned which describes 
+the specific location of a 
+stimulus material in the possible 
+range of intensities for that 
+attribute  
+NOTE To score a food is to rate 
+its properties on a scale or 
+according to some numerically 
+defined sense of criteria. 
+εκχωρούμενη τιμή που περιγράφει τη 
+συγκεκριμένη θέση ενός διεγερτικού 
+υλικού στο πιθανό εύρος εντάσεων 
+για αυτό το χαρακτηριστικό  
+Σημείωση 1: Η βαθμολόγηση ενός 
+τροφίμου γίνεται μέσω της 
+τοποθέτησης των ιδιοτήτων του σε 
+κλίμακα ή σύμφωνα με κάποια 
+αριθμητικά καθορισμένη έννοια 
+κριτηρίων. 
+4.47 
+score sheet/card, 
+noun 
+βαθμοδέλτιο, ουσ. 
+ballot 
+φύλλο/κάρτα βαθμολόγησης 
+4.48 
+ 
+25 
+ΣΥΝΟΛΙΚΟ ΑΛΦΑΒΗΤΙΚΟ ΑΓΓΛΟΕΛΛΗΝΙΚΟ ΓΛΩΣΣΑΡΙΟ 
+1. General terminology – Γενική ορολογία 
+2. Terminology relating to the senses – Ορολογία σχετική με τις αισθήσεις 
+3. Terminology relating to organoleptic attributes – Ορολογία σχετική με οργανοληπτικά χαρακτηριστικά 
+4. Terminology relating to methods – Ορολογία σχετική με μεθόδους 
+ 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+1. 
+“A” or “not A” test, 
+noun 
+δοκιμή «Α» ή «όχι 
+Α», ουσ. 
+method of discrimination 
+testing in which a series of 
+samples which may be “A” 
+or “not A” is presented to 
+the assessor after he/she 
+has learned to recognize 
+sample “A” and in which 
+the assessor is asked to 
+indicate whether each 
+sample is “A” or “not A” 
+μέθοδος δοκιμής διάκρισης κατά 
+την οποία μια σειρά δειγμάτων που 
+μπορεί να είναι «Α» ή «όχι Α» 
+παρουσιάζεται στον αξιολογητή 
+αφού μάθει να αναγνωρίζει το 
+δείγμα «Α» και στην οποία ο 
+αξιολογητής καλείται να υποδείξει 
+εάν κάθε δείγμα είναι "Α" ή "όχι Α" 
+4.21 
+2. 
+“two-out-of-five” test 
+noun 
+δοκιμή «δύο από 
+πέντε», ουσ. 
+method of discrimination 
+testing involving five coded 
+samples, two of which are 
+of one type and three of 
+which are of another and in 
+which the assessor is 
+asked to group the 
+samples into sets of two 
+and of three samples of 
+similar perception 
+μέθοδος δοκιμής διάκρισης που 
+περιλαμβάνει πέντε 
+κωδικοποιημένα δείγματα, δύο από 
+τα οποία είναι ενός τύπου και τα 
+τρία άλλου τύπου, στην οποία ο 
+αξιολογητής καλείται να 
+ομαδοποιήσει τα δείγματα σε 
+ομάδες των δύο και τριών 
+δειγμάτων παρόμοιας αντίληψης 
+4.20 
+3. 
+absolute judgement, 
+noun 
+απόλυτη κρίση, 
+ουσ. 
+evaluation of a stimulus 
+made without direct 
+comparison (e.g. monadic 
+presentation) 
+αξιολόγηση ενός ερεθίσματος χωρίς 
+άμεση σύγκριση (π.χ. μοναδική 
+παρουσίαση) 
+4.12 
+4. 
+acceptability, noun 
+αποδεκτότητα, 
+ουσ. 
+degree to which a stimulus 
+is liked or disliked, overall 
+or for particular sensory 
+attributes 
+βαθμός στον οποίο ένα ερέθισμα 
+είναι αρεστό ή όχι, συνολικά ή για 
+ιδιαίτερα αισθητηριακά 
+χαρακτηριστικά 
+1.23 
+5. 
+acidity, noun 
+acid taste, noun 
+οξύτητα, ουσ.,  
+όξινη γεύση, ουσ. 
+basic taste produced by 
+dilute aqueous solutions of 
+most acid substances (e.g. 
+citric acid and tartaric acid) 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα των 
+περισσοτέρων όξινων ουσιών (π.χ. 
+κιτρικό οξύ και τρυγικό οξύ) 
+3.3 
+6. 
+acuity, noun 
+αντιληπτική 
+οξύτητα, ουσ. 
+ability to discern small 
+differences in stimuli 
+Note 1 to entry: In French, 
+this term should be 
+differentiated from the term 
+“acuité” which refers to the 
+ability to perceive with no 
+concept of level. 
+ικανότητα διάκρισης μικρών 
+διαφορών του ερεθίσματος 
+2.10 
+7. 
+adhesiveness, noun 
+προσφυσικότητα 
+mechanical textural 
+attribute relating to the 
+force required to remove 
+material that sticks to the 
+mouth or to a substrate 
+Note 1 The main 
+adjectives corresponding 
+to different levels of 
+adhesiveness are: 
+— “tacky”: low level, e.g. 
+marshmallow; 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη δύναμη που 
+απαιτείται για την αφαίρεση υλικού 
+που κολλάει στο στόμα ή σε ένα 
+υπόστρωμα  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα προσφυσικότητας είναι:  
+— «ελαφρώς κολλώδης»: χαμηλό 
+επίπεδο, π.χ. μαρσμέλλοου,  
+— «μετρίως κολλώδης»: μέτριο 
+3.51 
+26 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+— “clinging”: moderate 
+level, e.g. peanut 
+butter; 
+— “gooey”, “gluey”: high 
+level, e.g. caramel 
+sundae topping, 
+overcooked rice; 
+— “sticky”, “adhesive”: 
+very high level, e.g. 
+toffee. 
+Note 2 The adhesiveness 
+of a product may be 
+experienced in various 
+ways, e.g. 
+— to palate — force 
+required to remove product 
+completely from the palate, 
+using the tongue, after 
+complete compression of 
+the sample between 
+tongue and palate; 
+— to lips — degree to 
+which the product 
+sticks/adheres to the lips 
+— the sample is placed 
+between the lips, 
+compressed once slightly 
+and released to assess 
+adhesiveness; 
+— to teeth — amount of 
+product adhering on/in the 
+teeth after product 
+mastication; 
+— to itself — force 
+required to separate 
+individual pieces with the 
+tongue, when the sample 
+is placed in the mouth; 
+— manually — force 
+required to separate 
+individual pieces adhering 
+to each other using the 
+back of a spoon. 
+επίπεδο, π.χ. φυστικοβούτυρο,  
+— «πολύ κολλώδης»: υψηλό 
+επίπεδο, π.χ. πηχτό σιρόπι 
+καραμέλας, παραψημένο ρύζι,  
+— «εξαιρετικά κολλώδης»: πολύ 
+υψηλό επίπεδο, π.χ. τόφι, 
+καραμέλα. 
+Σημείωση 2: Η προσφυσικότητα 
+ενός προϊόντος μπορεί να 
+παρατηρηθεί με διάφορους 
+τρόπους, π.χ.  
+— στον ουρανίσκο — δύναμη που 
+απαιτείται για την πλήρη αφαίρεση 
+του προϊόντος από τον ουρανίσκο, 
+με τη χρήση της γλώσσας, μετά 
+από πλήρη συμπίεση του δείγματος 
+μεταξύ γλώσσας και υπερώας·  
+— στα χείλη — βαθμός στον οποίο 
+το προϊόν κολλάει στα χείλη — το 
+δείγμα τοποθετείται ανάμεσα στα 
+χείλη, συμπιέζεται ελαφρά μία φορά 
+και απελευθερώνεται για να 
+εκτιμηθεί η προσφυσικότητά του·  
+— στα δόντια — ποσότητα 
+προϊόντος που προσκολλάται στα 
+δόντια μετά τη μάσηση του 
+προϊόντος·  
+— στον εαυτό του — δύναμη που 
+απαιτείται για να διαχωριστούν 
+μεμονωμένα κομμάτια με τη 
+γλώσσα, όταν το δείγμα 
+τοποθετείται στο στόμα·  
+— χειρακτικά— δύναμη που 
+απαιτείται για να διαχωριστούν 
+μεμονωμένα κομμάτια που 
+προσφύονται το ένα στο άλλο με τη 
+χρήση του κυρτού μέρους ενός 
+κουταλιού. 
+8. 
+aeration, noun, 
+ 
+aerated, pp. 
+αεριούχηση, ουσ. 
+ 
+αεριούχος -α -ο, 
+επίθ. 
+describes a solid or semi-
+solid product containing 
+small, even cells filled with 
+gas (usually carbon 
+dioxide or air) and usually 
+surrounded by soft cell 
+walls 
+Note 1 See also 
+effervescence (3.61). 
+Note 2 The product may 
+be descrbed as “frothy” or 
+“foamy” (fluid cell walls, 
+e.g. milkshake) or “porous” 
+(solid cell walls), e.g. 
+marshmallows, meringue, 
+chocolate mousse, chiffon 
+pie filling, sandwich loaf. 
+περιγράφει ένα στερεό ή ημιστερεό 
+προϊόν που περιέχει μικρές, 
+ομοιόμορφες κυψελίδες γεμάτες με 
+αέριο (συνήθως διοξείδιο του 
+άνθρακα ή αέρα) που συνήθως 
+περιβάλλονται από μαλακά 
+κυτταρικά τοιχώματα  
+Σημείωση 1: Βλέπε επίσης 
+αναβρασμός (3.61).  
+Σημείωση 2: Το προϊόν μπορεί να 
+περιγραφεί ως «αφρώδες» (υγρά 
+κυτταρικά τοιχώματα, π.χ. μιλκσέικ) 
+ή «πορώδες» (στερεά κυτταρικά 
+τοιχώματα), π.χ.μαρσμέλλοου, 
+μαρέγκα, μους σοκολάτας, γέμιση 
+πίτας σιφόν, φραντζολάκι για 
+σάντουιτς. 
+3.60 
+27 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+9. 
+after-feel, noun 
+μεταίσθημα, ουσ. 
+experience that follows the 
+removal of a texture 
+stimulus; it may be 
+continuous with the 
+primary experience or may 
+follow as a different quality 
+after a period during which 
+swallowing, saliva, dilution 
+and other influences may 
+have affected the stimulus 
+substance or sensing field 
+εμπειρία που ακολουθεί την 
+αφαίρεση ενός ερεθίσματος υφής. 
+Μπορεί να είναι σε συνέχεια της 
+πρωταρχικής εμπειρίας ή μπορεί να 
+ακολουθεί ως διαφορετική ιδιότητα 
+μετά από μια περίοδο κατά την 
+οποία η κατάποση, το σάλιο, η 
+αραίωση και άλλες επιδράσεις 
+μπορεί να έχουν επηρεάσει το 
+ερέθισμα ή το αισθητηριακό πεδίο 
+3.66 
+10. 
+after-taste, noun 
+residual taste, noun 
+επίγευση, ουσ.  
+υπολειμματική 
+γεύση, ουσ. 
+olfactory and/or gustatory 
+sensation that occurs after 
+the elimination of the 
+product, and differs from 
+the sensations perceived 
+whilst the product was in 
+the mouth 
+οσφρητικό και/ή γευστικό αίσθημα 
+που εμφανίζεται μετά την 
+απομάκρυνση του προϊόντος και 
+διαφέρει από τα αισθήματα που 
+γίνονται αντιληπτά ενόσω το προϊόν 
+βρισκόταν στο στόμα 
+3.65 
+11. 
+ageusia, noun 
+αγευσία, ουσ. 
+lack of sensitivity to 
+gustatory stimuli 
+Note 1 to entry: Ageusia 
+may be total or partial, and 
+permanent or temporary. 
+έλλειψη ευαισθησίας σε γευστικά 
+ερεθίσματα 
+Σημείωση 1: Η αγευσία μπορεί να 
+είναι ολική ή μερική και μόνιμη ή 
+παροδική. 
+2.31 
+12. 
+alkalinity, noun 
+alkaline taste, noun 
+αλκαλικότητα, ουσ., 
+αλκαλική γεύση, 
+ουσ. 
+taste produced by dilute 
+aqueous solutions of basic, 
+i.e. pH > 7,0, substances 
+such as sodium hydroxide 
+γεύση που παράγεται από αραιά 
+υδατικά διαλύματα ουσιών που 
+ανήκουν στις βάσεις, δηλαδή 
+pH > 7,0, όπως το υδροξείδιο του 
+νατρίου 
+3.8 
+13. 
+anchor point, noun 
+σημείο 
+αγκύρωσης, ουσ. 
+reference point against 
+which samples are 
+assessed  
+NOTE See reference point 
+(1.19). 
+σημείο αναφοράς βάσει του οποίου 
+αξιολογούνται τα δείγματα  
+Σημείωση 1: Βλέπε σημείο 
+αναφοράς (1.19). 
+4.46 
+14. 
+anosmia, noun 
+ανοσμία, ουσ. 
+lack of sensitivity to 
+olfactory stimuli 
+Note 1 to entry: Anosmia 
+may be total or partial, and 
+permanent or temporary. 
+έλλειψη ευαισθησίας σε οσφρητικά 
+ερεθίσματα 
+Σημείωση 1: Η ανοσμία μπορεί να 
+είναι ολική ή μερική και μόνιμη ή 
+παροδική. 
+2.32 
+15. 
+antagonism, noun 
+ανταγωνισμός, 
+ουσ. 
+joint action of two or more 
+stimuli, whose combination 
+elicits a level of sensation 
+lower than that expected 
+from superimposing the 
+effects of each stimulus 
+taken separately 
+Note 1 to entry: See also 
+synergism (2.36). 
+συνδυασμένη δράση δύο ή 
+περισσοτέρων ερεθισμάτων των 
+οποίων ο συνδυασμός προκαλεί 
+στάθμη αισθήματος χαμηλότερη 
+από την αναμενόμενη από την 
+υπέρθεση των επιδράσεων κάθε 
+ερεθίσματος όταν λαμβάνεται 
+χωριστά 
+Σημείωση 1: Βλέπε επίσης 
+συνεργισμός (2.36). 
+2.35 
+16. 
+appearance, noun 
+εμφάνιση, ουσ. 
+all the visible attributes of a 
+substance or object 
+το σύνολο των ορατών 
+χαρακτηριστικών μιας ουσίας ή 
+ενός αντικειμένου 
+3.1 
+17. 
+appetite, noun 
+όρεξη, ουσ. 
+physiological and 
+psychological state 
+expressed by the desire to 
+eat and/or to drink 
+φυσιολογική και ψυχολογική 
+κατάσταση που εκφράζεται με την 
+επιθυμία για φαγητό ή ποτό 
+1.28 
+18. 
+appetizing, adj. 
+ορεκτικός -ή -ό, 
+επίθ. 
+describes a product 
+capable of exciting the 
+appetite of the individual 
+(για προϊόν)  ικανός -ή -ό να 
+διεγείρει την όρεξη ενός ατόμου 
+1.29 
+28 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+19. 
+aroma1, noun 
+οσμή2, ουσ. 
+odour with a pleasant or 
+unpleasant connotation 
+Note 1 to entry: The terms 
+“aroma” in English and 
+“arôme” in French are not 
+exactly equivalent. 
+οσμή1 (3.18) με ευχάριστη ή 
+δυσάρεστη χροιά 
+Σημείωση 1 Οι όροι “aroma” στα 
+αγγλικά και “arôme” στα γαλλικά 
+δεν είναι ακριβώς ισοδύναμοι. 
+3.24 
+20. 
+aroma2, noun 
+άρωμα, ουσ. 
+sensory attribute 
+perceptible by the olfactory 
+organ via the back of the 
+nose when tasting 
+Note 1 to entry: The terms 
+“aroma” in English and 
+“arôme” in French are not 
+exactly equivalent. 
+αισθητηριακό χαρακτηριστικό που 
+γίνεται αντιληπτό από το οσφρητικό 
+όργανο μέσω του πίσω μέρους της 
+μύτης κατά τη γευστική δοκιμή 
+Σημείωση 1 Οι όροι “aroma” στα 
+αγγλικά και “arôme” στα γαλλικά 
+δεν είναι ακριβώς ισοδύναμοι. 
+3.25 
+21. 
+astringency, noun 
+στυφότητα, ουσ. 
+complex sensation, 
+accompanied by shrinking, 
+drawing or puckering of the 
+skin or mucosal surface in 
+the mouth, produced by 
+substances such as kaki 
+tannins or sloe tannins 
+σύνθετο αίσθημα που συνοδεύεται 
+από συρρίκνωση, έλξη ή ζάρωμα 
+της επιφάνειας του δέρματος ή της 
+βλεννογόνου στο στόμα και 
+παράγεται από ουσίες όπως οι 
+τανίνες κάκι ή οι τανίνες σλόου 
+3.10 
+22. 
+attitude scale, noun 
+κλίμακα στάσεων, 
+ουσ. 
+scale denoting attitudes or 
+opinions 
+κλίμακα που υποδηλώνει στάσεις ή 
+απόψεις 
+4.31 
+23. 
+attitude, noun 
+στάση, ουσ. 
+disposition to respond in a 
+given way toward a class 
+of objects or ideas 
+διάθεση για απόκριση με δεδομένο 
+τρόπο σε μια κατηγορία 
+αντικειμένων ή ιδεών 
+1.38 
+24. 
+attribute, noun 
+(αντιληπτό) 
+χαρακτηριστικό, 
+ουσ. 
+perceptible characteristic 
+χαρακτηριστικό που 
+προσλαμβάνεται μέσω των 
+αισθήσεων 
+1.3 
+25. 
+auditory, adjective 
+ακουστικός, επίθ. 
+pertaining to the sense of 
+hearing 
+σχετικός με την αίσθηση της ακοής 
+2.18 
+26. 
+aversion, noun 
+απέχθεια, ουσ. 
+feeling of repulsion 
+provoked by a stimulus 
+αίσθημα αποστροφής που 
+προκαλείται από ένα ερέθισμα 
+1.25 
+27. 
+basic taste, noun 
+βασική γεύση, ουσ. 
+any one of the distinctive 
+tastes: acid/sour, bitter, 
+salty, sweet, umami 
+Note 1 to entry: Other 
+tastes that may be 
+classified as basic are 
+alkaline and metallic. 
+οποιαδήποτε από τις διακριτικές 
+γεύσεις: οξύ/ξινό, πικρό, αλμυρό, 
+γλυκό, ουμάμι 
+Σημείωση 1: Άλλες γεύσεις που 
+μπορούν να ταξινομηθούν ως 
+βασικές είναι αλκαλικό και 
+μεταλλικό. 
+3.2 
+28. 
+bias, noun 
+μεροληψία, ουσ. 
+〈sensory analysis〉 
+systematic errors which 
+may be positive or 
+negative 
+〈αισθητηριακή ανάλυση〉 
+συστηματικά σφάλματα που μπορεί 
+να είναι θετικά ή αρνητικά 
+4.41 
+29. 
+bipolar scale, noun 
+διπολική κλίμακα, 
+ουσ. 
+scale with opposite 
+descriptions at the two 
+ends (e.g. a texture scale 
+ranging from hard to soft) 
+κλίμακα με αντίθετες περιγραφές 
+στα δύο άκρα (π.χ. κλίμακα υφής 
+που κυμαίνεται από σκληρό έως 
+μαλακό) 
+4.34 
+30. 
+bitterness, noun 
+bitter taste, noun 
+πικρότητα, ουσ.,  
+πικρή γεύση, ουσ. 
+basic taste produced by 
+dilute aqueous solutions of 
+various substances such 
+as quinine or caffeine 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα διάφορων 
+ουσιών όπως η κινίνη και η καφεΐνη 
+3.5 
+31. 
+bland, adjective 
+αδιάφορος -η -ο, 
+επίθ. 
+describes a product with a 
+low level of flavour, and 
+without character 
+περιγράφει ένα προϊόν με χαμηλό 
+επίπεδο οσμόγευσης και χωρίς 
+χαρακτήρα 
+3.69 
+32. 
+body, noun 
+σώμα, ουσ. 
+consistency, compactness 
+of texture, fullness, 
+richness, flavour or 
+substance of a product 
+πυκνότητα, συμπαγές υφής, 
+πληρότητα, πλούτος, οσμόγευση ή 
+υλική υπόσταση ενός προϊόντος 
+3.27 
+29 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+33. 
+bouquet, noun 
+μπουκέτο, ουσ. 
+group of specific olfactory 
+notes allowing a product 
+(wine, spirits, etc.) to be 
+characterized 
+ομάδα συγκεκριμένων οσφρητικών 
+διαβαθμίσεων που επιτρέπουν τον 
+χαρακτηρισμό ενός προϊόντος 
+(κρασί, οινοπνευματώδη ποτά 
+κ.λπ.) 
+3.26 
+34. 
+brightness contrast, 
+noun 
+αντίθεση 
+λαμπρότητας, ουσ. 
+effect on the visual 
+brightness of one object or 
+colour of the brightness of 
+surrounding objects or 
+colours 
+αποτέλεσμα της επίδρασης της 
+λαμπρότητας των αντικειμένων ή 
+χρωμάτων γύρω από ένα 
+αντικείμενο ή χρώμα2 στην οπτική 
+λαμπρότητα του αντικειμένου ή 
+χρώματος2 
+3.36 
+35. 
+burning, adjective 
+warming, adjective 
+ 
+καυτερός, επίθ., 
+θερμαντικός, επίθ. 
+describes a sensation of 
+heat in the mouth, e.g. as 
+caused by alcohol 
+(warming) or chilli pepper 
+(burning) 
+περιγράφει ένα αίσθημα 
+θερμότητας στο στόμα, π.χ. όπως 
+προκαλείται από αλκοόλ 
+(θέρμανση) ή πιπέρι τσίλι (κάψιμο) 
+3.12 
+36. 
+character note, noun 
+νότα χαρακτήρα, 
+ουσ. 
+perceptible sensory 
+attribute, flavour and 
+texture (mechanical, 
+geometrical, and fat and 
+moisture characteristics), 
+in a food product 
+αντιληπτό αισθητηριακό 
+χαρακτηριστικό, οσμόγευση και υφή 
+(μηχανικά, γεωμετρικά 
+χαρακτηριστικά και χαρακτηριστικά 
+λίπους και υγρασίας) σε ένα 
+τρόφιμο 
+3.30 
+37. 
+chemical cooling, 
+noun 
+χημικό ψύχος, ουσ. 
+sensation of reduced 
+temperature experienced 
+as a result of exposure to 
+certain substances such as 
+menthol, mints or anise 
+Note 1 to entry: The 
+sensation usually persists 
+after the stimulus is 
+removed. 
+αίσθημα μειωμένης θερμοκρασίας 
+που εμφανίζεται ως αποτέλεσμα 
+της έκθεσης σε ορισμένες ουσίες 
+όπως η μινθόλη, η μέντα ή το 
+γλυκάνισο  
+Σημείωση 1: Το αίσθημα συνήθως 
+επιμένει μετά την αφαίρεση του 
+ερεθίσματος. 
+3.14 
+38. 
+chemical effect, noun 
+χημική επίδραση, 
+ουσ. 
+physical, stinging chemical 
+sensation experienced on 
+the tongue as a result of 
+exposure to substances 
+such as carbonated water 
+Note 1 to entry: The 
+sensation may linger and 
+is independent of 
+temperature, taste and 
+odour. 
+Note 2 to entry: Popular 
+terms: "astringent" (strong 
+tea), "burning" (whisky), 
+"sharp" (prune juice), 
+"pungent" (horseradish). 
+φυσικό, καυστικό χημικό αίσθημα 
+που εμφανίζεται στη γλώσσα ως 
+αποτέλεσμα της έκθεσης σε ουσίες 
+όπως το ανθρακούχο νερό  
+Σημείωση 1: Το αίσθημα μπορεί να 
+παραμείνει και είναι ανεξάρτητο 
+από τη θερμοκρασία, τη γεύση και 
+την οσμή1.  
+Σημείωση 2: Δημοφιλείς όροι: 
+«στυφό» (δυνατό τσάι), 
+«καυτερό/θερμαντικό» (ουίσκι), 
+«αιχμηρό» (χυμός δαμάσκηνου), 
+«πικάντικο» (ραπανάκι). 
+3.11 
+39. 
+chemical heat, noun 
+χημική θερμότητα, 
+ουσ. 
+sensation of increased 
+temperature resulting from 
+exposure to substances 
+such as capsaicin or hot 
+peppers 
+Note 1 to entry: The 
+sensation tends to persist 
+after the stimulus is 
+removed. 
+αίσθημα αυξημένης θερμοκρασίας 
+που προκύπτει από την έκθεση σε 
+ουσίες όπως η καψαϊκίνη ή οι 
+καυτερές πιπεριές  
+ 
+Σημείωση 1: Το αίσθημα τείνει να 
+επιμένει μετά την αφαίρεση του 
+ερεθίσματος. 
+3.16 
+40. 
+chemothermal 
+sensation, noun 
+χημειοθερμικό 
+αίσθημα, ουσ. 
+sensation of heat or cold 
+produced by certain 
+substances, unrelated to 
+the temperature of the 
+substance 
+ΠΑΡΑΔΕΙΓΜΑ: 
+These sensations are 
+produced by capsaicin 
+(hot) and menthol (cold). 
+αίσθημα θερμότητας ή κρύου που 
+παράγεται από ορισμένες ουσίες μη 
+σχετιζόμενο με τη θερμοκρασία της 
+ουσίας 
+ 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Τέτοια αισθήματα παράγονται από 
+την καψαϊκίνη (καυτού) και μινθόλη 
+(κρύου). 
+2.21 
+30 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+41. 
+chew count, noun 
+αριθμός 
+μασημάτων, ουσ. 
+number of chews required 
+to masticate the sample to 
+reduce it to a consistency 
+suitable for swallowing 
+το πλήθος των μασημάτων που 
+απαιτούνται για τη μάσηση του 
+δείγματος ώστε να μειωθεί η 
+συνοχή του ώστε να είναι 
+κατάλληλη για κατάποση 
+3.46 
+42. 
+chewiness, noun 
+μασητότητα, ουσ. 
+mechanical textural 
+attribute related to the 
+amount of work required to 
+masticate a solid product 
+into a state ready for 
+swallowing 
+Note The main adjectives 
+corresponding to different 
+levels of chewiness are: 
+— “melting”: very low level, 
+e.g. ice cream; 
+— “tender”: low level, e.g. 
+young peas; 
+— “chewy”: moderate 
+level, e.g. fruit gums 
+(confectionery); 
+— “tough”: high level, e.g. 
+old beef, bacon rind. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με την ποσότητα 
+εργασίας που απαιτείται για τη 
+μάσηση ενός στερεού προϊόντος 
+ώστε να είναι έτοιμο για κατάποση  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα μασητότητας είναι: 
+— «εύτηκτος»: πολύ χαμηλό 
+επίπεδο, π.χ. παγωτό,  
+— «τρυφερός»: χαμηλό επίπεδο, 
+π.χ. φρέσκα μπιζέλια, 
+— «μασητός»: μέτριο επίπεδο, π.χ. 
+ζελεδάκια φρούτων,  
+— «σκληρός»: υψηλό επίπεδο, π.χ. 
+κρέας γέρικου βοδιού, φλούδα 
+μπέικον. 
+3.45 
+43. 
+classification, noun 
+ταξινόμηση, ουσ. 
+method of sorting into 
+categories 
+μέθοδος κατηγοριοποίησης 
+4.5 
+44. 
+clean feel, noun 
+ 
+clean, adjective 
+καθαρότητα 
+(στοματαισθήματος),
+ουσ. 
+ 
+καθαρός -ή -ό, επίθ. 
+ 
+property of leaving no 
+lingering mouth after-feel 
+once swallowed (see 
+adhesiveness, 3.51), e.g. 
+water 
+ιδιότητα του να μην παραμένει στο 
+στόμα κανένα επίμονο μεταίσθημα 
+μετά την κατάποση (βλέπε 
+προσφυσικότητα, 3.51), π.χ. νερό 
+3.63 
+45. 
+cohesiveness, noun 
+συνεκτικότητα, 
+ουσ. 
+mechanical textural 
+attribute relating to the 
+degree to which a 
+substance can be 
+deformed before it breaks, 
+including the properties of 
+fracturability (3.44), 
+chewiness (3.45) and 
+gumminess (3.47) 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τον βαθμό μέχρι του 
+οποίου μια ουσία μπορεί να 
+παραμορφωθεί πριν σπάσει, 
+συμπεριλαμβανομένων των 
+ιδιοτήτων της θραυστότητας 
+(3.44), της μασητότητας (3.45) και 
+της κομμιώδους υφής (3.47) 
+ 
+3.43 
+46. 
+colour blindness 
+αχρωματοψία, ουσ. 
+otal or partial inability to 
+differentiate certain hues 
+ολική ή μερική ανικανότητα 
+διάκρισης ορισμένων αποχρώσεων 
+2.34 
+47. 
+colour1, noun 
+χρώμα1, ουσ. 
+sensation of hue, 
+saturation and lightness 
+induced by stimulation of 
+the retina by light rays of 
+various wavelengths 
+αίσθημα απόχρωσης, κορεσμού και 
+φωτεινότητας που προκαλείται από 
+τη διέγερση του αμφιβληστροειδούς 
+από ακτίνες φωτός διαφόρων 
+μηκών κύματος 
+3.31 
+48. 
+colour2, noun 
+χρώμα2, ουσ. 
+attribute of products 
+inducing a colour 
+sensation 
+χαρακτηριστικό των προϊόντων που 
+προκαλεί αίσθημα χρώματος1 
+3.32 
+49. 
+comparative 
+assessment, noun 
+συγκριτική 
+αξιολόγηση, ουσ. 
+comparison of stimuli 
+presented at the same 
+time 
+σύγκριση ερεθισμάτων που 
+παρουσιάζονται ταυτόχρονα 
+4.13 
+50. 
+conformation, noun 
+διαμόρφωση, ουσ. 
+geometrical textural 
+attribute relating to the 
+perception of the shape 
+and the orientation of 
+particles in a product 
+Note The main adjectives 
+corresponding to different 
+conformations are as 
+γεωμετρικό χαρακτηριστικό υφής 
+που σχετίζεται με την αντίληψη του 
+σχήματος και του προσανατολισμού 
+των σωματιδίων σε ένα προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικές 
+διαμορφώσεις είναι τα εξής:  
+— «κυτταρώδης»: σφαιρικά ή 
+3.55 
+31 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+follows: 
+— “cellular”: spherical or 
+ovoid particles consisting 
+of thin walls surrounding 
+liquid or gas, e.g. orange; 
+— “crystalline”: angular, 
+similarly sized, 
+symmetrical, three-
+dimensional particles, e.g. 
+granulated sugar; 
+— “fibrous”: long particles 
+or strands oriented in the 
+same direction, e.g. celery; 
+— “flaky”: loose layers that 
+separate easily, e.g. 
+cooked tuna, croissant, 
+flaky pastry; 
+— “puffy”: hard or firm 
+outer shells filled with 
+large, often uneven, air 
+pockets, e.g. cream puff, 
+puffed rice. 
+ωοειδή σωματίδια που 
+αποτελούνται από λεπτά τοιχώματα 
+που περιβάλλουν υγρό ή αέριο, 
+π.χ. πορτοκάλι,  
+— «κρυσταλλικός»: γωνιώδη, 
+παρόμοιου μεγέθους, συμμετρικά, 
+τριδιάστατα σωματίδια, π.χ. 
+κρυσταλλική ζάχαρη, 
+— «ινώδης»: μακριά σωματίδια ή 
+κλώνοι που προσανατολίζονται 
+προς την ίδια κατεύθυνση, π.χ. 
+σέλινο, 
+— « νιφαδοειδής»: χαλαρά 
+στρώματα που διαχωρίζονται 
+εύκολα, π.χ. μαγειρεμένος τόνος, 
+κρουασάν, ζύμη σφολιάτα, 
+— «φουσκωτός»: σκληρά ή σφιχτά 
+εξωτερικά κελύφη γεμάτα με 
+μεγάλους, συχνά ανομοιόμορφους, 
+θύλακες αέρα, π.χ. γλύκισμα σου , 
+αφράτοι τραγανοί κόκκοι ρυζιού. 
+51. 
+consistency, noun 
+συνοχή, ουσ. 
+mechanical attribute 
+detected by stimulation of 
+the tactile or visual 
+receptors 
+μηχανικό χαρακτηριστικό που 
+ανιχνεύεται με διέγερση των 
+απτικών ή οπτικών υποδοχέων 
+3.49 
+52. 
+consumer, noun 
+καταναλωτής, ουσ. 
+person who uses a product 
+πρόσωπο που χρησιμοποιεί ένα 
+προϊόν 
+1.12 
+53. 
+contrast effect, noun 
+φαινόμενο 
+αντίθεσης, ουσ. 
+increase in response to 
+differences between two 
+simultaneous or 
+consecutive stimuli 
+αύξηση της απόκρισης σε διαφορές 
+μεταξύ δύο ταυτόχρονων ή 
+διαδοχικών ερεθισμάτων 
+2.38 
+54. 
+control sample, noun 
+δείγμα ελέγχου, 
+ουσ. 
+sample of the material 
+under evaluation, chosen 
+as a reference against 
+which all other samples 
+are compared 
+Note 1 to entry: The 
+sample may be identified 
+as a control sample or be a 
+blind control. 
+δείγμα του υπό αξιολόγηση υλικού, 
+που επιλέχθηκε ως αναφορά, με το 
+οποίο συγκρίνονται όλα τα άλλα 
+δείγματα 
+Σημείωση 1: Το δείγμα μπορεί να 
+προσδιορίζεται ως δείγμα ελέγχου ή 
+ως τυφλό δείγμα. 
+1.20 
+55. 
+convergence effect, 
+noun 
+φαινόμενο 
+σύγκλισης, ουσ. 
+decrease in response to 
+differences between two 
+simultaneous or 
+consecutive stimuli 
+μείωση της απόκρισης σε διαφορές 
+μεταξύ δύο ταυτόχρονων ή 
+διαδοχικών ερεθισμάτων 
+2.39 
+56. 
+cutaneous sense, 
+noun 
+haptics, noun 
+ 
+δερματική 
+αίσθηση, ουσ.,  
+απτική αίσθηση, 
+ουσ. 
+ 
+απτικός -ή -ό,  
+επίθ. 
+any of the senses whose 
+receptors lie in the skin or 
+immediately beneath it (or 
+in the mucous 
+membranes) resulting in 
+the perception of contact, 
+pressure, warmth, cold and 
+pain 
+οποιαδήποτε από τις αισθήσεις των 
+οποίων οι υποδοχείς βρίσκονται 
+μέσα στο δέρμα ή αμέσως κάτω 
+από αυτό (ή στις βλενώδεις 
+μεμβράνες) οι οποίοι συντελούν 
+στην αντίληψη της επαφής, της 
+πίεσης, της θερμότητας, του κρύου 
+και του πόνου 
+2.20 
+57. 
+denseness, noun 
+πυκνότητα, ουσ. 
+geometrical textural 
+attribute relating to 
+perception of the 
+compactness of a cross-
+section of a product after 
+biting completely through it 
+Note The main adjectives 
+γεωμετρικό χαρακτηριστικό υφής 
+που σχετίζεται με την αντίληψη του 
+συμπαγούς της διατομής ενός 
+προϊόντος μετά από πλήρες 
+δάγκωμα 
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+3.53 
+32 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+corresponding to different 
+levels of denseness are as 
+follows: 
+— “light”: low, e.g. whipped 
+topping; 
+— “heavy”, “dense”: high, 
+e.g. chestnut cream, 
+traditional English-style 
+Christmas pudding. 
+επίπεδα πυκνότητας είναι τα εξής:  
+— «ελαφρύς»: χαμηλό επίπεδο, 
+π.χ. σαντιγί,  
+— «βαρύς», «πυκνός»: υψηλό 
+επίπεδο, π.χ. κρέμα κάστανου, 
+παραδοσιακή χριστουγεννιάτικη 
+πουτίγκα αγγλικού τύπου. 
+58. 
+descriptive analysis, 
+noun 
+περιγραφική 
+ανάλυση, ουσ. 
+any method to describe or 
+quantify the sensory 
+characteristics of stimuli by 
+a panel of trained 
+assessors 
+οποιαδήποτε μέθοδος για την 
+περιγραφή ή την ποσοτικοποίηση 
+των αισθητηριακών χαρακτηριστι-
+κών των ερεθισμάτων από μια 
+ομάδα εκπαιδευμένων αξιολογητών 
+4.22 
+59. 
+difference threshold, 
+noun 
+κατώφλιο 
+διαφοράς, ουσ. 
+value of the smallest 
+perceptible difference in 
+the physical intensity of a 
+stimulus 
+Note 1 to entry: The term 
+“threshold” is always used 
+with a qualifying term. 
+Note 2 to entry: In English, 
+the term “difference 
+threshold” is sometimes 
+designated by the letters 
+“DL” (difference limen) or 
+the letters “JND” (just 
+noticeable difference). 
+τιμή της μικρότερης αντιληπτής 
+διαφοράς στη φυσική ένταση ενός 
+ερεθίσματος 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+Σημείωση 2: Στα αγγλικά, ο όρος 
+«κατώφλιο διαφοράς» μερικές 
+φορές σηματοδοτείται με τα 
+γράμματα “DL” (difference limen) ή 
+με τα γράμματα “JND” (just 
+noticeable difference). 
+2.27 
+60. 
+dilution method, noun 
+μέθοδος αραίωσης, 
+ουσ. 
+technique in which 
+samples are prepared at 
+increasingly lower 
+concentrations and 
+examined in series 
+τεχνική κατά την οποία τα δείγματα 
+παρασκευάζονται σε όλο και 
+χαμηλότερες συγκεντρώσεις και 
+εξετάζονται κατά σειρά 
+4.14 
+61. 
+discriminating ability, 
+noun 
+διακριτική 
+ικανότητα, ουσ. 
+sensitivity, acuity, ability to 
+perceive quantitative 
+and/or qualitative 
+differences 
+ικανότητα αντίληψης ποσοτικών 
+και/ή ποιοτικών διαφορών 
+1.27 
+62. 
+discrimination test, 
+noun 
+δοκιμή διάκρισης, 
+ουσ. 
+any method of test 
+involving comparison 
+between samples to 
+determine if differences 
+are perceptible 
+EXAMPLES Triangle test 
+(4.18), duo-trio test (4.19), 
+or paired comparison 
+(4.17). 
+οποιαδήποτε μέθοδος δοκιμής που 
+περιλαμβάνει σύγκριση μεταξύ 
+δειγμάτων για να προσδιοριστεί εάν 
+οι διαφορές είναι αντιληπτές.  
+ΠΑΡΑΔΕΙΓΜΑΤΑ: Τριγωνική δοκιμή 
+(4.18), δοκιμή «δύο από τρία» 
+(4.19), δοκιμή ζευγαρωτής 
+σύγκρισης (4.17). 
+4.16 
+63. 
+discrimination, noun 
+διάκριση, ουσ. 
+act of qualitative and/or 
+quantitative differentiation 
+between two or more 
+stimuli 
+πράξη ποιοτικής και/ή ποσοτικής 
+διαφοροποίησης μεταξύ δύο ή 
+περισσότερων ερεθισμάτων 
+1.26 
+64. 
+dryness, noun 
+ 
+dry, adjective 
+ξηρότητα, ουσ. 
+ 
+ξηρός -ή -ό, επίθ. 
+textural characteristic 
+describing the perception 
+of moisture absorbed by a 
+product (e.g. cream 
+cracker) 
+Note In beverages, a liquid 
+that feels dry on the 
+tongue and in the throat, 
+e.g. cranberry juice. 
+χαρακτηριστικό υφής που 
+περιγράφει την αντίληψη υγρασίας 
+που απορροφάται από ένα προϊόν 
+(π.χ. γαλέτα)  
+Σημείωση 1 Στα ποτά, ένα υγρό 
+που γίνεται αντιληπτό ως ξηρό στη 
+γλώσσα και στο λαιμό, π.χ. χυμός 
+μούρων. 
+3.58 
+33 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+65. 
+duo-trio test, noun 
+δοκιμή «δύο από 
+τρία», ουσ. 
+method of discrimination 
+testing in which each 
+assessor receives a set of 
+three samples, of which 
+one is labelled as a 
+reference, and is asked to 
+identify either which of the 
+others is the same as the 
+reference or which is 
+different from the reference 
+μέθοδος δοκιμής διάκρισης στην 
+οποία κάθε αξιολογητής λαμβάνει 
+ένα σύνολο τριών δειγμάτων, εκ 
+των οποίων το ένα επισημαίνεται 
+ως αναφορά, και του ζητείται να 
+προσδιορίσει ποιο από τα άλλα 
+είναι το ίδιο με το δείγμα αναφοράς 
+ή ποιο είναι διαφορετικό από το 
+δείγμα αναφοράς 
+4.19 
+66. 
+dyschromatopsia, 
+noun 
+δυσχρωματοψία, 
+ουσ. 
+defect of colour vision 
+characterized by a 
+perception significantly 
+different from that of a 
+standard observer 
+ελάττωμα της έγχρωμης όρασης 
+που χαρακτηρίζεται από αντίληψη 
+των χρωμάτων σημαντικά 
+διαφορετική από αυτή ενός τυπικού 
+παρατηρητή 
+2.33 
+67. 
+effervescence, noun 
+ 
+effervescent, 
+adjective 
+αναβρασμός, ουσ. 
+ 
+αναβράζων, -ουσα, 
+-ον, επιθ. μετοχή 
+αεριούχος -α -ο, 
+επίθ. 
+αφρώδης -ης -ες, 
+επίθ. 
+formation of gas bubbles in 
+a liquid product when 
+either the gas is generated 
+by a chemical reaction or 
+pressure is released 
+NOTE 1 See also aeration 
+(3.60). 
+NOTE 2 The bubbles or 
+their formation are often 
+perceived as textural 
+attributes, but at high 
+levels may be perceived by 
+vision or audition. 
+Degrees of effervescence 
+may be described as: 
+— “still”: absence, e.g. tap 
+water; 
+— “flat”: having a lower 
+level than expected, e.g. 
+bottled beer that has been 
+too long open; 
+— “tingly”: perceptible 
+mainly as a texture 
+attribute in the mouth; 
+— “bubbly”: having visibly 
+rising bubbles; 
+— “fizzy”: having briskly 
+bursting bubbles making 
+an audible hiss. 
+σχηματισμός φυσαλίδων αερίου σε 
+ένα υγρό προϊόν όταν είτε το αέριο 
+παράγεται από μια χημική 
+αντίδραση είτε όταν ελαττώνεται η 
+πίεση  
+Σημείωση 1: Βλέπε επίσης 
+αεριούχηση (3.60).  
+Σημείωση 2: Οι φυσαλίδες ή ο 
+σχηματισμός τους συχνά γίνονται 
+αντιληπτές ως χαρακτηριστικά 
+υφής, αλλά σε υψηλά επίπεδα 
+μπορεί να γίνουν αντιληπτές από 
+την όραση ή την ακοή.  
+Οι βαθμοί αναβρασμού μπορούν να 
+περιγραφούν ως:  
+— «χωρίς ανθρακικό»: απουσία 
+αναβρασμού, π.χ. νερό βρύσης, 
+— «ξεθυμασμένος»: έχει χαμηλό-
+τερο επίπεδο από το αναμενόμενο, 
+π.χ. εμφιαλωμένη μπύρα που 
+παρέμεινε για πολύ καιρό ανοικτή,  
+— «γαργαλιστικός»: γίνεται αντιλη-
+πτό κυρίως ως χαρακτηριστικό 
+υφής στο στόμα, 
+— «φυσαλιδούχος»: με εμφανώς 
+ανερχόμενες φυσαλίδες,  
+— «αφρώδης», «αεριούχος»: με 
+φυσαλίδες που σκάνε ζωηρά και 
+παράγουν ένα ακουστό σφύριγμα. 
+3.61 
+68. 
+elasticity, noun 
+springiness, noun 
+resilience, noun 
+ελαστικότητα, ουσ. 
+επανατακτικότητα, 
+ουσ. 
+mechanical textural 
+attribute relating to: the 
+rapidity of recovery from a 
+deforming force; and the 
+degree to which a 
+deformed material returns 
+to its original condition 
+after the deforming force is 
+removed 
+Note The main adjectives 
+corresponding to different 
+levels of springiness are: 
+ 
+— “plastic”: absence, e.g. 
+margarine; 
+— “malleable”: moderate 
+μηχανικό χαρακτηριστικό υφής το 
+οποίο σχετίζεται με την ταχύτητα 
+ανάκαμψης ενός υλικού από 
+παραμόρφωση που προκλήθηκε 
+από μια δύναμη μετά την αφαίρεση 
+της δύναμης και με τον βαθμό στον 
+οποίο το παραμορφωμένο υλικό 
+επιστρέφει στην αρχική του 
+κατάσταση  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα ελαστικότητας είναι: 
+— «πλαστικός»: απουσία 
+ελαστικότητας, π.χ. μαργαρίνη,  
+— «εύπλαστος»: μέτριο επίπεδο, 
+π.χ. μαρσμέλλοου, λουκούμι, 
+3.50 
+34 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+level, e.g. 
+marshmallow; 
+— “elastic”; “springy”; 
+“rubbery”: high level, 
+e.g. cooked squid, 
+clams, gums. 
+— «ελαστικός», «επανατακτικός», 
+«λαστιχωτός»: υψηλό επίπεδο, 
+π.χ. μαγειρεμένα καλαμάρια, 
+αχιβάδες, τσίχλες. 
+69. 
+error (of 
+assessment), noun 
+σφάλμα 
+(αξιολόγησης), 
+ουσ. 
+the difference between the 
+observed value (or 
+assessment) and the true 
+value 
+η διαφορά μεταξύ της παρατηρού-
+μενης τιμής (ή εκτίμησης) και της 
+αληθούς τιμής 
+4.39 
+70. 
+expectation bias, 
+noun 
+μεροληψία 
+προϊδεασμού, ουσ. 
+bias due to the assessor's 
+preconceived ideas 
+μεροληψία λόγω προϊδεασμού του 
+αξιολογητή 
+4.42 
+71. 
+expert sensory 
+assessor, noun 
+ειδικός 
+αισθητηριακός 
+αξιολογητής, ουσ. 
+selected assessor with a 
+demonstrated sensory 
+sensitivity and with 
+considerable training and 
+experience in sensory 
+testing, who is able to 
+make consistent and 
+repeatable sensory 
+assessments of various 
+products 
+επιλεγμένος αξιολογητής με 
+αποδεδειγμένη αισθητηριακή 
+ευαισθησία και με σημαντική 
+κατάρτιση και εμπειρία σε 
+αισθητηριακές δοκιμές που είναι 
+ικανός να εκτελεί συνεπείς και 
+επαναλήψιμες αισθητηριακές 
+αξιολογήσεις διαφόρων προϊόντων 
+1.8 
+72. 
+expert, noun 
+ειδικός, ουσ. 
+in the general sense, a 
+person who, through 
+knowledge or experience, 
+has competence to give an 
+opinion in the fields about 
+which he/she is consulted 
+με τη γενική έννοια, πρόσωπο το 
+οποίο, λόγω γνώσης ή εμπειρίας, 
+έχει τα προσόντα να εκφέρει γνώμη 
+στα πεδία για τα οποία ζητείται η 
+συμβουλή του 
+1.7 
+73. 
+fattiness, noun 
+λιπαρότητα, ουσ. 
+textural attribute relating to 
+the perception of the 
+quantity or the quality of fat 
+on the surface or in the 
+body of a product 
+Note The main adjectives 
+corresponding to the 
+perception of fattiness are 
+as follows: 
+— “oily”: perception of 
+soaking and running fat, 
+e.g. salad with dressing; 
+— “greasy”: perception of 
+exuding fat, e.g. bacon, 
+chips, French fries; 
+— “fatty”: perception of 
+high fat proportion in a 
+product, oily, greasy, e.g. 
+lard, tallow. 
+χαρακτηριστικό υφής που σχετίζεται 
+με την αντίληψη της ποσότητας ή 
+της ποιότητας του λίπους στην 
+επιφάνεια ή στο σώμα ενός 
+προϊόντος  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν στην αντίληψη της 
+λιπαρότητας είναι τα εξής:  
+— «ελαιώδης»: αντίληψη του να 
+είναι κάτι μουσκεμένο ή να στάζει 
+λίπος, π.χ. σαλάτα με λαδόξιδο,  
+— «λιπαρώδης»: αντίληψη του 
+εκκρινόμενου λίπους, π.χ. μπέικον, 
+πατατάκια, τηγανιτές πατάτες,  
+— «λιπαρός, λιπώδης»: αντίληψη 
+υψηλής αναλογίας λιπαρών σε ένα 
+προϊόν, ελαιώδης, λιπαρός, π.χ. 
+λαρδί, ζωικά λίπη. 
+3.59 
+74. 
+flat, adjective 
+επίπεδος,  
+άτονος -η -ο, επίθ. 
+describes a product 
+perceived to be below the 
+expected organoleptic 
+level 
+περιγράφει ένα προϊόν που γίνεται 
+αντιληπτό ότι είναι κάτω από το 
+αναμενόμενο οργανοληπτικό 
+επίπεδο 
+3.71 
+75. 
+flavour enhancer, 
+noun 
+βελτιωτικό 
+οσμόγευσης, ουσ. 
+substance that intensifies 
+the flavour of a product 
+without possessing its 
+flavour 
+ουσία που ενισχύει τη οσμόγευση 
+ενός προϊόντος χωρίς να την 
+καταλαμβάνει 
+3.22 
+35 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+76. 
+flavour, noun 
+οσμόγευση, ουσ. 
+complex combination of 
+the olfactory, gustatory and 
+trigeminal sensations 
+perceived during tasting 
+Note 1 to entry: Flavour 
+may be influenced by 
+tactile, thermal, painful 
+and/or kinaesthesic 
+effects. 
+σύνθετος συνδυασμός των 
+αισθημάτων όσφρησης, γεύσης1 και 
+τριδύμου, που γίνονται αντιληπτά 
+κατά τη διάρκεια της γευστικής 
+δοκιμής  
+Σημείωση 1: Η οσμόγευση μπορεί 
+να επηρεαστεί από απτικές, 
+θερμικές, επώδυνες και/ή 
+κιναισθητικές επιδράσεις. 
+3.20 
+77. 
+fracturability, noun 
+θραυστότητα, ουσ. 
+mechanical textural 
+attribute related to 
+cohesiveness and 
+hardness and to the force 
+necessary to break a 
+product into crumbs or 
+pieces 
+Note 1 to entry: It is 
+evaluated by suddenly 
+squeezing a product 
+between the incisors (front 
+teeth) or fingers. 
+Note 2 to entry: The main 
+adjectives corresponding 
+to different levels of 
+fracturability are: 
+— “cohesive”: very low 
+level, e.g. caramel, 
+chewing gum; 
+— “crumbly”: low level, e.g. 
+corn muffin, cake; 
+— “crunchy”: moderate 
+level, e.g. apple, raw 
+carrot; 
+— “brittle”: high level, e.g. 
+peanut brittle, brandy 
+snaps; 
+— “crispy”: high level, e.g. 
+potato crisps/chips, 
+cornflakes; 
+— “crusty”: high level, e.g. 
+crust of fresh French-
+style bread; 
+— “pulverulent”: very high 
+level, immediately 
+disintegrating into 
+powder upon biting, 
+e.g. overcooked egg 
+yolk. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη συνεκτικότητα και 
+τη σκληρότητα καθώς και τη 
+δύναμη που απαιτείται για να 
+σπάσει ένα προϊόν σε θρύμματα ή 
+κομμάτια  
+Σημείωση 1: Η θραυστότητα 
+αξιολογείται με απότομη συμπίεση 
+ενός προϊόντος ανάμεσα στους 
+κοπτήρες (μπροστινά δόντια) ή στα 
+δάχτυλα.  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα θραυστότητας είναι:  
+ 
+— «συνεκτικός»: πολύ χαμηλό 
+επίπεδο, π.χ. καραμέλα, τσίχλα,  
+— «εύθρυπτος» [που θρυμματίζεται 
+κατά τη μάσηση]: χαμηλό 
+επίπεδο, π.χ. κεκάκι 
+καλαμποκιού, κέικ, 
+— «τραγανός (κατά τη μάσηση)»: 
+μέτριο επίπεδο, π.χ. μήλο, ωμό 
+καρότο,  
+— «εύθραυστος» [που θραύεται 
+στο δάγκωμα]: υψηλό επίπεδο, 
+π.χ. νουγκατίνα με αράπικο 
+φιστίκι, τυλιχτά πουράκια,  
+— «κριτσανιστός, τραγανός στο 
+δάγκωμα»: υψηλό επίπεδο, 
+π.χ. τσιπς, νιφάδες 
+καλαμποκιού,  
+— «κρουστός»: υψηλό επίπεδο, 
+π.χ. κόρα φρέσκου ψωμιού,  
+— «κονιώδης»: πολύ υψηλό 
+επίπεδο, που διασπάται 
+αμέσως σε σκόνη με το 
+δάγκωμα, π.χ. παραψημένος 
+κρόκος αυγού. 
+3.44 
+78. 
+free choice sensory 
+profile, noun 
+αισθητηριακό 
+προφίλ ελεύθερης 
+επιλογής, ουσ. 
+form of sensory profiling in 
+which each assessor 
+independently chooses the 
+attributes to be used for a 
+group of samples  
+NOTE A consensus 
+sample space is derived 
+statistically. 
+μορφή αισθητηριακού προφίλ στην 
+οποία κάθε αξιολογητής επιλέγει 
+ανεξάρτητα τα χαρακτηριστικά που 
+θα χρησιμοποιηθούν για μια ομάδα 
+δειγμάτων  
+Σημείωση 1: Ένας συναινετικός 
+δειγματοχώρος προκύπτει 
+στατιστικά. 
+4.26 
+36 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+79. 
+gloss, noun  
+ 
+glossy, shiny, 
+adjective 
+στιλπνότητα, ουσ. 
+στιλπνός, επίθ. 
+a shiny or lustrous 
+appearance resulting from 
+the tendency of a surface 
+to reflect light energy at 
+one angle more than at 
+others 
+γυαλιστερή ή απαστράπτουσα 
+εμφάνιση που προκύπτει από την 
+τάση μιας επιφάνειας να ανακλά 
+φωτεινή ενέργεια σε μια γωνία 
+περισσότερο από άλλες 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι στιλπνός. 
+3.40 
+80. 
+grading, noun 
+διαβάθμιση, ουσ. 
+method in which an 
+assumption of quality is 
+inherent in the scale in 
+order to categorize 
+products into quality 
+groups  
+EXAMPLES Ranking (4.4), 
+classification (4.5), rating 
+(4.6), and scoring (4.7). 
+μέθοδος κατά την οποία η απόδοση 
+ποιότητας είναι εγγενής στην 
+κλίμακα προκειμένου να κατηγοριο-
+ποιηθούν τα προϊόντα σε ομάδες 
+ποιότητας 
+ΠΑΡΑΔΕΙΓΜΑΤΑ: κατάταξη (4.4), 
+ταξινόμηση (4.5), διαβάθμιση σε 
+κλίμακα (4.6) και βαθμολόγηση 
+(4.7). 
+4.3 
+81. 
+granularity, noun 
+κοκκιότητα, ουσ. 
+geometrical textural 
+attribute relating to the 
+perception of the size, 
+shape and amount of 
+particles in a product 
+Note The main adjectives 
+corresponding to different 
+levels of granularity are as 
+follows: 
+— “smooth”, “powdery”: 
+absence, e.g. icing sugar, 
+dry cornflour; 
+— “gritty”: low level, e.g. 
+some pears; 
+— “grainy”: moderate level, 
+e.g. semolina; 
+— “beady”: having small, 
+spherical particles, e.g. 
+tapioca pudding; 
+— “granular”: having 
+angular, hard particles, 
+e.g. demerara sugar; 
+— “coarse”: high level, e.g. 
+cooked rolled oatmeal; 
+— “lumpy”: high level with 
+larger, irregular particles, 
+e.g. cottage cheese. 
+γεωμετρικό χαρακτηριστικό υφής 
+που σχετίζεται με την αντίληψη του 
+μεγέθους, του σχήματος και της 
+ποσότητας των σωματιδίων σε ένα 
+προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα κοκκιότητας είναι τα εξής:  
+— «λείος», «κονιώδης»: απουσία 
+κοκκιότητας, π.χ. ζάχαρη άχνη, 
+στεγνό κορν φλάουρ,  
+— «ελαφρώς κοκκώδης»: χαμηλό 
+επίπεδο, π.χ. κάποιες ποικιλίες 
+αχλαδιών,  
+— «μετρίως κοκκώδης»: μέτριο 
+επίπεδο, π.χ. σιμιγδάλι,  
+— « πολύ κοκκώδης»: που έχει 
+μικρά, σφαιρικά σωματίδια, π.χ. 
+πουτίγκα ταπιόκας,  
+— «κοκκώδης»: που έχει γωνιώδη, 
+σκληρά σωματίδια, π.χ. ζάχαρη 
+Demerara,  
+— «αδρός»: υψηλό επίπεδο, π.χ. 
+μαγειρεμένοι κόκκοι βρώμης,  
+— «σβολώδης»: υψηλό επίπεδο με 
+μεγαλύτερα, ακανόνιστα σωματίδια, 
+π.χ. τυρί κότατζ. 
+3.54 
+82. 
+gumminess, noun 
+κομμιώδης υφή, 
+ουσ. 
+μαστιχωτή υφή, ουσ. 
+ 
+κομμιώδης -ης -ες, 
+επίθ. 
+μαστιχωτός -ή -ό, 
+επίθ. 
+mechanical textural 
+attribute related to the 
+cohesiveness of a tender 
+product 
+Note 1 In the mouth, it is 
+related to the effort 
+required to disintegrate the 
+product to the state ready 
+for swallowing. 
+Note 2 The main 
+adjectives corresponding 
+to different levels of 
+gumminess are: 
+— “short”: low level, e.g. 
+shortbread; 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη συνεκτικότητα ενός 
+τρυφερού προϊόντος  
+Σημείωση 1: Στο στόμα, σχετίζεται 
+με την προσπάθεια που απαιτείται 
+για τη διάσπαση του προϊόντος σε 
+κατάσταση έτοιμο για κατάποση.  
+ 
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα κομμιώδους υφής είναι:  
+— «βραχύς»: χαμηλό επίπεδο, π.χ.  
+θριφτοκούλουρο, κουραμπιές, 
+— «αλευρώδης»: μέτριο επίπεδο, 
+π.χ. κάποιες ποικιλίες πατάτας, 
+3.47 
+37 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+— “mealy”: moderate level, 
+e.g. some potatoes, 
+cooked dry haricot 
+beans; 
+— “pasty”: moderate level, 
+e.g. chestnut puree, 
+flour paste; 
+— “gummy”: high level, 
+e.g. overcooked 
+oatmeal, edible 
+gelatine. 
+μαγειρεμένα ξερά γαλλικά 
+φασόλια,  
+— «πολτώδης»: μέτριο επίπεδο, 
+π.χ. πουρές κάστανου, 
+αλευρόπαστα,  
+— «κομμιώδης»: υψηλό επίπεδο, 
+π.χ. παραμαγειρεμένη βρώμη, 
+βρώσιμη ζελατίνη. 
+83. 
+gustatory, adjective 
+γευστικός, επίθ. 
+pertaining to the sense of 
+taste 
+σχετικός με την αίσθηση της γεύσης 
+ 
+2.13 
+84. 
+halo effect, noun 
+φαινόμενο της 
+άλω, ουσ. 
+special case of context 
+effect where the favourable 
+or unfavourable evaluation 
+of a stimulus on one 
+attribute tends to induce 
+favourable or unfavourable 
+evaluation of other 
+attributes of the same 
+stimulus considered at the 
+same time 
+ειδική περίπτωση επίδρασης του 
+πλαισίου εφαρμογής όπου η 
+ευνοϊκή ή δυσμενής αξιολόγηση 
+ενός ερεθίσματος σε ένα 
+χαρακτηριστικό τείνει να 
+προκαλέσει ευνοϊκή ή δυσμενή 
+αξιολόγηση άλλων 
+χαρακτηριστικών του ίδιου 
+ερεθίσματος που εξετάζονται 
+ταυτόχρονα 
+4.43 
+85. 
+hardness, noun 
+σκληρότητα, ουσ. 
+mechanical textural 
+attribute relating to the 
+force required to achieve a 
+given deformation, 
+penetration, or breakage of 
+a product 
+Note 1 to entry: In the 
+mouth, it is perceived by 
+compressing the product 
+between the teeth (solids) 
+or between the tongue and 
+palate (semi-solids). 
+Note 2 to entry: The main 
+adjectives corresponding 
+to different levels of 
+hardness are: 
+— “soft”: low level, e.g. 
+cream cheese; 
+— “firm”: moderate level, 
+e.g. olive; 
+— “hard”: high level, e.g. 
+boiled sweets. 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με τη δύναμη που 
+απαιτείται για την επίτευξη μιας 
+δεδομένης παραμόρφωσης, διεί-
+σδυσης ή θραύσης ενός προϊόντος  
+Σημείωση 1: Στο στόμα γίνεται 
+αντιληπτή με συμπίεση του 
+προϊόντος μεταξύ των δοντιών 
+(στερεά τρόφιμα) ή μεταξύ της 
+γλώσσας και του ουρανίσκου 
+(ημιστερεά τρόφιμα).  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα σκληρότητας είναι: 
+ 
+— «μαλακός»: χαμηλό επίπεδο, 
+π.χ. κρεμώδες τυρί,  
+— «ημίσκληρος», «σφιχτός»: μέτριο 
+επίπεδο, π.χ. ελιά,  
+— «σκληρός»: υψηλό επίπεδο, π.χ. 
+καραμέλες. 
+ 
+3.42 
+86. 
+heaviness, noun 
+ 
+heavy, adjective 
+βαρύτητα, ουσ. 
+ 
+βαρύς -ιά -ύ, επίθ.  
+property related to the 
+viscosity of beverages or 
+the denseness of solids  
+Note Describes a solid 
+food whose cross-section 
+is compact or a beverage 
+that flows with some 
+difficulty. 
+ιδιότητα που σχετίζεται με το ιξώδες 
+των ποτών ή την πυκνότητα των 
+στερεών  
+Σημείωση 1: Περιγράφει ένα στερεό 
+τρόφιμο του οποίου η διατομή είναι 
+συμπαγής ή ένα ποτό που ρέει με 
+κάποια δυσκολία. 
+3.52 
+87. 
+hedonic scale, noun 
+κλίμακα αρέσκειας, 
+ουσ. 
+scale expressing degrees 
+of likes or dislike 
+κλίμακα που εκφράζει βαθμούς 
+αρέσκειας ή απαρέσκειας 
+4.33 
+38 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+88. 
+hedonic, adj 
+αρέσκειας, επιθ. 
+προσδ. 
+relating to like or dislike 
+που έχει σχέση με αρέσκεια/ 
+απαρέσκεια 
+Σημείωση 1: Δεν πρέπει να 
+συγχέεται με το επίθετο «ηδονικός» 
+(= που έχει σχέση με ηδονή ή που 
+προκαλεί ηδονή) της γενικής 
+γλώσσας. 
+1.22 
+89. 
+hue, noun 
+απόχρωση, ουσ. 
+attribute of colour that 
+corresponds to variation in 
+wavelength 
+Note 1 to entry: The 
+equivalent Munsell term is 
+“hue”. 
+χαρακτηριστικό του χρώματος2 που 
+αντιστοιχεί σε μεταβολή του μήκους 
+κύματος  
+Σημείωση 1: Ο ισοδύναμος όρος 
+Munsell είναι «hue». 
+3.33 
+90. 
+independent 
+assessment, noun 
+ανεξάρτητη 
+αξιολόγηση, ουσ. 
+evaluation of one or more 
+stimuli without direct 
+comparison 
+αξιολόγηση ενός ή περισσότερων 
+ερεθισμάτων χωρίς άμεση 
+σύγκριση 
+4.11 
+91. 
+insipid, adjective 
+άνοστος, -η, -ο, 
+επίθ. 
+describes a product with a 
+much lower level of flavour 
+than expected 
+περιγράφει ένα προϊόν με πολύ 
+χαμηλότερο επίπεδο οσμόγευσης 
+από το αναμενόμενο 
+3.68 
+92. 
+intensity scale, noun 
+κλίμακα έντασης, 
+ουσ. 
+scale denoting the strength 
+of a perception 
+κλίμακα που υποδηλώνει τη δύναμη 
+μιας αντίληψης 
+4.30 
+93. 
+intensity1, noun 
+ένταση1, ουσ.,  
+ένταση 
+αισθήματος, ουσ. 
+magnitude of the perceived 
+sensation 
+μέγεθος του αντιληπτού αισθήματος 
+2.8 
+94. 
+intensity2, noun 
+ένταση2, ουσ.,  
+ένταση 
+ερεθίσματος, ουσ. 
+magnitude of the stimulus 
+causing the perceived 
+sensation 
+μέγεθος του ερεθίσματος που 
+προκαλεί το αντιληπτό αίσθημα 
+2.9 
+95. 
+interval scale, noun 
+κλίμακα 
+διαστημάτων, ουσ. 
+scale which, in addition to 
+possessing the attributes 
+of an ordinal scale, is 
+distinguished by the fact 
+that equal differences 
+between numerical values 
+correspond to equal 
+differences between 
+properties measured (in 
+sensory analysis, 
+perceived intensities) 
+κλίμακα η οποία, εκτός από το ότι 
+διαθέτει τα χαρακτηριστικά μιας 
+διατακτικής κλίμακας, διακρίνεται 
+από το γεγονός ότι ίσες διαφορές 
+μεταξύ αριθμητικών τιμών 
+αντιστοιχούν σε ίσες διαφορές 
+μεταξύ των ιδιοτήτων που 
+μετρήθηκαν (στην αισθητηριακή 
+ανάλυση, αντιληπτές εντάσεις) 
+4.37 
+96. 
+kinaesthesis, noun 
+κιναισθησία, ουσ., 
+κιναίσθηση, ουσ. 
+sensation of position, 
+movement and tension of 
+parts of the body perceived 
+through nerves and organs 
+in the muscles, tendons 
+and joints 
+Note 1 to entry: Do not 
+confuse with somesthesis 
+(2.22). 
+αίσθημα της θέσης, της κίνησης και 
+έντασης των μερών του σώματος 
+αντιληπτό μέσω νεύρων και 
+οργάνων στους μύς, στους τένοντες 
+και στις αρθρώσεις 
+ 
+Σημείωση 1: Να μην συγχέεται με 
+τη σωματαισθησία (2.22). 
+2.24 
+97. 
+lightness, noun 
+φωτεινότητα, ουσ. 
+degree of visual brightness 
+compared with a neutral 
+gray in a scale ranging 
+from absolute black to 
+absolute white 
+Note 1 to entry: The 
+equivalent Munsell term is 
+“value”. 
+βαθμός οπτικής λαμπρότητας σε 
+σύγκριση με ένα ουδέτερο γκρι σε 
+μια κλίμακα που κυμαίνεται από το 
+απόλυτο μαύρο έως το απόλυτο 
+λευκό  
+Σημείωση 1: Ο ισοδύναμος όρος 
+Munsell είναι «value». 
+3.35 
+39 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+98. 
+magnitude 
+estimation, noun 
+εκτίμηση μέτρου, 
+ουσ. 
+process of assigning 
+values to the intensities of 
+an attribute in such a way 
+that the ratios between 
+assigned values are the 
+same as between the 
+magnitudes of the 
+perceptions to which they 
+correspond 
+διεργασία εκχώρησης τιμών στις 
+εντάσεις ενός χαρακτηριστικού με 
+τέτοιο τρόπο ώστε οι λόγοι μεταξύ 
+των εκχωρημένων τιμών να είναι 
+ίδιοι με τους λόγους μεταξύ των 
+μέτρων των αντιλήψεων στις οποίες 
+αντιστοιχούν 
+4.10 
+99. 
+masking, noun 
+επικάλυψη, ουσ. 
+phenomenon where one 
+quality within a mixture 
+obscures one or several 
+other qualities present 
+φαινόμενο όπου μια ιδιότητα σε ένα 
+μείγμα επισκιάζει μία ή περισσότε-
+ρες άλλες υπάρχουσες ιδιότητες 
+2.37 
+100. 
+mastication, noun 
+μάσηση, ουσ. 
+act of chewing, grinding 
+and comminuting with the 
+teeth 
+κομμάτιασμα, άλεση και 
+πολτοποίηση με τα δόντια 
+1.39 
+101. 
+matching, noun 
+αντιστοίχιση, ουσ. 
+experimental process of 
+equating or relating stimuli, 
+usually to determine the 
+degree of similarity 
+between a control sample 
+and an unknown or 
+between unknowns 
+πειραματική διεργασία εξίσωσης ή 
+συσχέτισης ερεθισμάτων, συνήθως 
+για τον προσδιορισμό του βαθμού 
+ομοιότητας μεταξύ ενός δείγματος 
+ελέγχου και ενός αγνώστου ή 
+μεταξύ αγνώστων 
+4.9 
+102. 
+measurement scale, 
+noun 
+κλίμακα μέτρησης, 
+ουσ. 
+formal relationship (e.g. 
+ordinal, interval or ratio) 
+between a property (e.g. 
+the intensity of a sensory 
+perception) and the 
+numbers used to represent 
+values of the property (e.g. 
+numbers registered by the 
+assessors or derived from 
+the assessors' responses)  
+NOTE The term “scale” is 
+widely used as being 
+equivalent to the 
+expression “measurement 
+scale”. 
+τυπική σχέση (π.χ. διάταξη, 
+διάστημα ή λόγος) μεταξύ μιας 
+ιδιότητας (π.χ. η ένταση μιας 
+αισθητηριακής αντίληψης) και των 
+αριθμών που χρησιμοποιούνται για 
+την παράσταση των τιμών της 
+ιδιότητας (π.χ. αριθμοί που έχουν 
+καταχωρηθτεί από τους αξιολογητές 
+ή προέρχονται από τις αποκρίσεις 
+των αξιολογητών )  
+Σημείωση 1: Ο όρος «κλίμακα» 
+χρησιμοποιείται ευρέως ως 
+συνώνυμος με τον όρο «κλίμακα 
+μέτρησης». 
+4.29.2 
+103. 
+modality, noun, 
+sensory modality, 
+noun 
+τροπικότητα, ουσ., 
+αισθητηριακή 
+τροπικότητα, ουσ. 
+sensations mediated by 
+any of the sensory 
+systems, for example 
+auditory, taste, olfaction, 
+touch, somesthesis or 
+visual modality 
+αισθήματα που διαμεσολαβούνται 
+από οποιοδήποτε αισθητηριακό 
+σύστημα 
+ΠΑΡΑΔΕΙΓΜΑΤΑ: Από το σύστημα 
+ακοής, γεύσης, όσφρησης, αφής, 
+σωματαίσθησης ή όρασης 
+2.11 
+104. 
+moisture1 
+υγρασία, ουσ. 
+perception of moisture 
+content of a food by the 
+tactile receptors in the 
+mouth and also in relation 
+to the lubricating properties 
+of the product 
+Note Reflects not only the 
+total amount of moisture 
+perceived but the type, 
+rate and manner of release 
+or absorption. 
+αντίληψη της περιεχόμενης 
+ποσότητας υγρασίας ενός τροφίμου 
+από τους απτικούς υποδοχείς στο 
+στόμα και επίσης σε σχέση με τις 
+λιπαντικές ιδιότητες του προϊόντος  
+Σημείωση 1: Αντικατοπτρίζει όχι 
+μόνο τη συνολική ποσότητα 
+υγρασίας που γίνεται αντιληπτή 
+αλλά τον τύπο, τον ρυθμό και τον 
+τρόπο απελευθέρωσης ή 
+απορρόφησης. 
+3.56 
+105. 
+moisture2, noun 
+moistness, noun 
+υγρότητα, ουσ. 
+surface textural attribute 
+that describes the 
+perception of water 
+absorbed by or released 
+from a product 
+Note The main adjectives 
+επιφανειακό χαρακτηριστικό υφής 
+που περιγράφει την αντίληψη του 
+νερού που απορροφάται ή 
+απελευθερώνεται από ένα προϊόν  
+Σημείωση 1: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+3.57 
+40 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+corresponding to different 
+levels of moistness are as 
+follows: 
+Surface attributes: 
+— “dry”: absence, e.g. 
+cream cracker; 
+— “moist”: moderate level, 
+e.g. peeled apple; 
+— “wet”: high level, e.g. 
+water chestnut, oyster. 
+Body attributes: 
+— “dry”: absence, e.g. 
+cream cracker; 
+— “moist”: moderate level, 
+e.g. apple; 
+— “juicy”: high level, e.g. 
+orange; 
+— “succulent”: high level, 
+e.g. meat; 
+— “watery”: water-like 
+perception, e.g. 
+watermelon. 
+επίπεδα υγρότητας είναι τα εξής:  
+Επιφανειακά χαρακτηριστικά υφής: 
+— «ξηρός»: απουσία υγρασίας, 
+π.χ. κράκερ, 
+— «ελαφρώς υγρός»: μέτριο 
+επίπεδο, π.χ. αποφλοιωμένο μήλο, 
+— «υγρός»: υψηλό επίπεδο, π.χ. 
+κινέζικο νεροκάστανο, στρείδι.  
+Χαρακτηριστικά σώματος:  
+— «στεγνός»: απουσία υγρασίας, 
+π.χ. κράκερ,  
+— «ελαφρώς υγρός»: μέτριο 
+επίπεδο, π.χ. μήλο,  
+— «ζουμερός»: υψηλό επίπεδο, 
+π.χ. πορτοκάλι,  
+— «χυμώδης»: υψηλού επιπέδου, 
+π.χ. κρέας,  
+— «υδαρής»: που μοιάζει με νερό, 
+π.χ. καρπούζι. 
+106. 
+mouthfeel, noun 
+στοματαίσθημα, 
+ουσ. 
+mixed experience derived 
+from sensations in the 
+mouth that relate to 
+physical or chemical 
+properties of a stimulus 
+Note Assessors 
+differentiate the physical 
+sensations (e.g. density, 
+viscosity, particulate) as 
+texture properties and the 
+chemical sensations (e.g. 
+astringency, cooling) as 
+flavour properties. 
+μεικτή εμπειρία που προέρχεται 
+από αισθήματα στο στόμα που 
+σχετίζονται με φυσικές ή χημικές 
+ιδιότητες ενός ερεθίσματος  
+Σημείωση 1: Οι αξιολογητές 
+διαφοροποιούν τα φυσικά 
+αισθήματα (π.χ. πυκνότητα, ιξώδες, 
+διαμόρφωση) ως ιδιότητες υφής και 
+τα χημικά αισθήματα (π.χ.  
+στυφότητα, ψύξη) ως ιδιότητες 
+οσμόγευσης. 
+3.62 
+107. 
+neutral, adjective 
+ουδέτερος -η -ο, 
+επίθ. 
+describes a product 
+without any distinct 
+characteristic 
+περιγράφει ένα προϊόν χωρίς 
+κανένα διακριτό χαρακτηριστικό 
+3.70 
+108. 
+note, noun 
+νότα, ουσ. 
+distinctive and identifiable 
+feature of an odour or 
+flavor 
+διακριτικό και αναγνωρίσιμο 
+γνώρισμα μιας οσμής1 ή 
+οσμόγευσης 
+3.28 
+109. 
+objective method, 
+noun 
+αντικειμενική 
+μέθοδος, ουσ. 
+any method in which the 
+effects of personal 
+opinions are minimized 
+οποιαδήποτε μέθοδος με την οποία 
+ελαχιστοποιείται η επίδραση 
+προσωπικών απόψεων 
+4.1 
+110. 
+odorant, noun 
+οσμητικό, ουσ. 
+substance whose volatiles 
+can be perceived by the 
+olfactory organ (including 
+nerves) 
+ουσία της οποίας οι πτητικές 
+εκπομπές μπορούν να γίνουν 
+αντιληπτές από το οσφρητικό 
+όργανο (συμπεριλαμβανομένων 
+των νεύρων) 
+1.35 
+111. 
+odorimetry, noun 
+οσμομετρία, ουσ. 
+measurement of the odour 
+properties of substances 
+Note 1 to entry: Refers to 
+the products 
+μέτρηση των οσμητικών ιδιοτήτων 
+των ουσιών  
+Σημείωση 1: . Αναφέρεται στα 
+προϊόντα. 
+1.34 
+112. 
+odour, noun 
+οσμή1, ουσ. 
+sensation perceived by 
+means of the olfactory 
+organ in sniffing certain 
+volatile substances 
+αίσθημα που γίνεται αντιληπτό 
+μέσω του οσφρητικού οργάνου 
+όταν οσφραινόμαστε ορισμένες 
+πτητικές ουσίες 
+3.18 
+41 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+113. 
+off-flavour, noun 
+αποκλίνουσα 
+οσμόγευση, ουσ. 
+atypical flavour often 
+associated with 
+deterioration or 
+transformation of the 
+product 
+άτυπη οσμόγευση που συχνά 
+συνδέεται με αλλοίωση ή μεταβολή 
+του προϊόντος 
+3.21 
+114. 
+off-note, noun 
+αποκλίνουσα νότα, 
+ουσ. 
+atypical note often 
+associated with 
+deterioration or 
+transformation of the 
+product 
+άτυπη διαβάθμιση που συχνά 
+σχετίζεται με αλλοίωση ή μεταβολή 
+του προϊόντος 
+3.29 
+115. 
+off-odour, noun 
+αποκλίνουσα 
+οσμή, ουσ. 
+atypical odour often 
+associated with 
+deterioration or 
+transformation of the 
+product 
+άτυπη οσμή1 (3.18) που συχνά 
+συσχετίζεται με αλλοίωση ή 
+μεταβολή του προϊόντος 
+3.19 
+116. 
+olfactometer, noun 
+οσφρησιόμετρο, 
+ουσ. 
+apparatus used to present 
+olfactory stimuli to 
+assessors under 
+reproducible conditions 
+συσκευή που χρησιμοποιείται για 
+την παρουσίαση οσφρητικών 
+ερεθισμάτων στους αξιολογητές 
+κάτω από αναπαραγώγιμες 
+συνθήκες 
+1.33 
+117. 
+olfactometry, noun 
+οσφρησιομετρία, 
+ουσ. 
+measurement of the 
+response of assessors to 
+olfactory stimuli 
+Note 1 to entry: Refers to 
+the assessors. 
+μέτρηση της απόκρισης των 
+αξιολογητών σε οσφρητικά 
+ερεθίσματα 
+Σημείωση 1: Αναφέρεται στους 
+αξιολογητές. 
+1.32 
+118. 
+olfactory, adjective 
+οσφρητικός, επίθ. 
+pertaining to the sense of 
+smell 
+σχετικός με την αίσθηση της 
+όσφρησης 
+2.14 
+119. 
+opacity, noun  
+ 
+opaque, adjective 
+ 
+αδιαφάνεια, ουσ. 
+αδιαφανής, επίθ. 
+ 
+not allowing the passage 
+of light 
+ιδιότητα ενός υλικού να μην 
+επιτρέπει τη διέλευση του φωτός 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι αδιαφανής. 
+3.39 
+120. 
+ordinal scale, noun 
+διατακτική 
+κλίμακα, ουσ. 
+scale in which the order of 
+the values allocated 
+corresponds to the order of 
+the intensities perceived 
+for the property being 
+assessed 
+κλίμακα στην οποία η σειρά των 
+τιμών που κατανέμονται αντιστοιχεί 
+στη σειρά των εντάσεων που 
+γίνονται αντιληπτές για την ιδιότητα 
+που αξιολογείται 
+4.36 
+121. 
+organoleptic, adj 
+οργανοληπτικός -ή 
+-ό, επίθ. 
+relating to an attribute 
+perceptible by the senses, 
+i.e. to an attribute of a 
+product 
+που έχει σχέση με ένα 
+χαρακτηριστικό προϊόντος 
+αντιληπτό μέσω των αισθήσεων 
+1.4 
+122. 
+paired comparison 
+test, noun 
+δοκιμή ζευγαρωτής 
+σύγκρισης, ουσ. 
+method in which stimuli are 
+presented in pairs for 
+comparison on the basis of 
+some defined criteria 
+μέθοδος κατά την οποία τα 
+ερεθίσματα παρουσιάζονται κατά 
+ζεύγη για σύγκριση με βάση 
+καθορισμένα κριτήρια 
+4.17 
+123. 
+palatability, noun 
+ευγευστότητα, ουσ. 
+quality of a product which 
+makes it pleasant to eat or 
+drink 
+ιδιότητα ενός προϊόντος που το 
+καθιστά ευχάριστο στη βρώση ή 
+πόση 
+1.30 
+124. 
+palate cleanser, noun 
+ 
+cleansing, adjective 
+καθαριστικό 
+ουρανίσκου, ουσ. 
+ 
+καθαριστικός -ή -ό, 
+επίθ. 
+ 
+product that removes any 
+lingering residue from the 
+mouth 
+EXAMPLE Water, cream 
+crackers. 
+προϊόν που αφαιρεί τυχόν 
+υπολείμματα από το στόμα  
+ΠΑΡΑΔΕΙΓΜΑ: Νερό, κράκερ 
+3.64 
+125. 
+panel consensus, 
+noun 
+συναίνεση ομάδας, 
+ουσ. 
+agreement among 
+assessors regarding 
+terminology and intensity 
+of product characteristics 
+συμφωνία μεταξύ των αξιολογητών 
+που αφορά την ορολογία και την 
+ένταση των χαρακτηριστικών 
+προϊόντος 
+1.11 
+126. 
+panel training, noun 
+κατάρτιση ομάδας, 
+ουσ. 
+series of sessions in which 
+assessors are oriented to 
+the tasks to be completed 
+by a sensory panel in 
+assessing particular 
+σειρά συνεδριών κατά τις οποίες οι 
+αξιολογητές μυούνται στις εργασίες 
+που πρέπει να επιτελεί μια 
+αισθητηριακή ομάδα κατά την 
+αξιολόγηση συγκεκριμένων 
+1.10 
+42 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+product(s), which may 
+include relevant product 
+characteristics, standard 
+rating scales, techniques 
+of evaluation and 
+terminology 
+προϊόντων 
+Σημείωση 1:  Η αξιολόγηση μπορεί 
+να περιλαμβάνει σχετικά 
+χαρακτηριστικά προϊόντος, 
+πρότυπες κλίμακες κατάταξης, 
+τεχνικές αποτίμησης και ορολογία. 
+127. 
+perception, noun 
+αντίληψη, ουσ. 
+awareness of the effects of 
+single or multiple sensory 
+stimuli 
+επίγνωση των επιδράσεων ενός ή 
+πολλών αισθητηριακών 
+ερεθισμάτων 
+2.3 
+128. 
+persistence, noun 
+επιμονή, ουσ. 
+related to a response to a 
+stimulus over a 
+measurable period of time 
+σχετίζεται με απόκριση σε ερέθισμα 
+σε όλη τη διάρκεια μιας μετρήσιμης 
+χρονικής περιόδου 
+3.67 
+129. 
+physical cooling, 
+noun 
+φυσικό ψύχος, 
+ουσ. 
+sensation of reduced 
+temperature experienced 
+as a result of exposure to 
+thermally cold substances, 
+to substances, that have a 
+negative heat of solution, 
+such as crystalline sorbitol, 
+or to substances, that 
+evaporate rapidly, such as 
+acetone or alcohol 
+Note 1 to entry: The 
+duration of the sensation is 
+usually limited to the time 
+of direct contact with the 
+stimulus. 
+αίσθημα μειωμένης θερμοκρασίας 
+που εμφανίζεται ως αποτέλεσμα 
+της έκθεσης σε ψυχρές ουσίες, σε 
+ουσίες που έχουν αρνητική 
+θερμότητα διάλυσης, όπως η 
+κρυσταλλική σορβιτόλη ή σε ουσίες 
+που εξατμίζονται γρήγορα, όπως η 
+ακετόνη ή το αλκοόλ  
+Σημείωση 1: Η διάρκεια του 
+αισθήματος συνήθως περιορίζεται 
+στον χρόνο της άμεσης επαφής με 
+το ερέθισμα. 
+3.15 
+130. 
+physical heat, noun 
+φυσική θερμότητα, 
+ουσ. 
+sensation experienced as 
+a result of exposure to 
+thermally hot substances 
+such as water above 48 °C 
+Note 1 to entry: The 
+duration of the sensation is 
+usually limited to the time 
+of direct contact with the 
+stimulus. 
+αίσθημα που εμφανίζεται ως 
+αποτέλεσμα της έκθεσης σε θερμές 
+ουσίες όπως το νερό πάνω από 48 
+°C  
+Σημείωση 1: Η διάρκεια του 
+αισθήματος συνήθως περιορίζεται 
+στον χρόνο της άμεσης επαφής με 
+το ερέθισμα. 
+3.17 
+131. 
+preference test, noun 
+δοκιμή 
+προτίμησης, ουσ. 
+test to assess preference 
+between two or more 
+samples 
+δοκιμή για την αξιολόγηση της 
+προτίμησης μεταξύ δύο ή 
+περισσότερων δειγμάτων 
+4.28 
+132. 
+preference, noun 
+προτίμηση, ουσ. 
+selection, by an assessor, 
+of one stimulus or product 
+over others in a given set 
+based on hedonic criteria 
+επιλογή, από έναν αξιολογητή, ενός 
+ερεθίσματος ή ενός προϊόντος 
+έναντι άλλων σε ένα δεδομένο 
+σύνολο, βασισμένη σε κριτήρια 
+αρέσκειας 
+1.24 
+133. 
+product, noun 
+προϊόν, ουσ. 
+matter, edible or otherwise, 
+which can be evaluated by 
+sensory analysis 
+EXAMPLE: 
+Food products, cosmetics, 
+textile fabrics. 
+υλικό, φαγώσιμο ή μη, που μπορεί 
+να αξιολογηθεί με αισθητηριακή 
+ανάλυση 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Τρόφιμα, καλλυντικά, υφάσματα 
+1.15 
+134. 
+psychophysical 
+method, noun 
+ψυχοφυσική 
+μέθοδος, ουσ. 
+procedure for establishing 
+relationships between 
+measurable physical 
+stimuli and sensory 
+responses 
+διαδικασία για τη δημιουργία 
+σχέσεων μεταξύ μετρήσιμων 
+φυσικών ερεθισμάτων και 
+αισθητηριακών αποκρίσεων 
+4.15 
+135. 
+psychophysics, noun 
+ψυχοφυσική, ουσ. 
+study of relationships 
+between measurable 
+stimuli and the 
+corresponding sensory 
+responses 
+μελέτη των σχέσεων μεταξύ 
+μετρήσιμων ερεθισμάτων και των 
+αντίστοιχων αισθητηριακών 
+αποκρίσεων 
+1.31 
+43 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+136. 
+pungency, noun  
+ 
+pungent, adjective 
+πικαντικότητα 
+πικάντικος -η -ο, 
+επίθ. 
+sharp sensation of the 
+buccal and nasal mucous 
+membranes, e.g. as 
+caused by vinegar, 
+mustard, horseradish 
+οξύ αίσθημα της στοματικής και της 
+ρινικής βλεννογόνου μεμβράνης, 
+π.χ. όπως προκαλείται από ξίδι, 
+μουστάρδα, χρένο/ραπανάκι 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι πικάντικος. 
+3.13 
+137. 
+qualitative sensory 
+profile, noun 
+ποιοτικό 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of the sensory 
+attributes of a sample but 
+without intensity values 
+περιγραφή των αισθητηριακών 
+χαρακτηριστικών ενός δείγματος 
+αλλά χωρίς τιμές έντασης 
+4.23 
+138. 
+quality factor, noun 
+παράγοντας 
+ποιότητας, ουσ. 
+one feature or 
+characteristic chosen 
+among others to assess 
+the overall quality of a 
+product 
+ένα γνώρισμα ή χαρακτηριστικό 
+που επιλέχθηκε μεταξύ άλλων για 
+την αξιολόγηση της συνολικής 
+ποιότητας ενός προϊόντος 
+1.37 
+139. 
+quality, noun 
+ποιότητα, ουσ. 
+collection of features and 
+characteristics of a 
+product, process or service 
+that confer its ability to 
+satisfy stated or implied 
+needs 
+σύνολο γνωρισμάτων και 
+χαρακτηριστικών ενός προϊόντος, 
+μιας διεργασίας ή μιας υπηρεσίας 
+που συνεισφέρουν στην ικανότητά 
+του/της να ικανοποιεί δηλωμένες ή 
+υπονοούμενες ανάγκες 
+1.36 
+140. 
+quantitative sensory 
+profile, noun 
+ποσοτικό 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of a sample 
+consisting of both 
+attributes and their 
+intensity values 
+περιγραφή ενός δείγματος που 
+αποτελείται από δύο 
+χαρακτηριστικά και τις τιμές 
+έντασής τους 
+4.23 
+141. 
+random errors, noun 
+τυχαία σφάλματα, 
+ουσ. 
+〈sensory analysis〉 
+unpredictable errors which 
+average to zero 
+〈αισθητηριακή ανάλυση〉 
+απρόβλεπτα σφάλματα που δίνουν 
+μέση τιμή μηδέν 
+4.40 
+142. 
+ranking, noun 
+κατάταξη, ουσ. 
+method in which a series 
+of two or more samples is 
+presented at the same 
+time and arranged in order 
+of intensity or degree of 
+some designated attribute 
+μέθοδος κατά την οποία δύο ή 
+περισσότερα δείγματα 
+παρουσιάζονται ταυτόχρονα και 
+διατάσσονται κατά σειρά έντασης ή 
+βαθμού κάποιου καθορισμένου 
+χαρακτηριστικού 
+4.4 
+143. 
+rating, noun 
+διαβάθμιση σε 
+κλίμακα, ουσ. 
+κλιμακωτή 
+διαβάθμιση, ουσ. 
+method of measuring on 
+an ordinal scale where the 
+magnitude of each 
+perception is denoted by 
+one of a number of 
+possible categories 
+μέθοδος μέτρησης σε διατακτική 
+κλίμακα όπου το μέτρο κάθε 
+αντίληψης δηλώνεται με μία από 
+ένα πλήθος δυνατές κατηγορίες 
+4.6 
+144. 
+ratio scale, noun 
+κλίμακα λόγων, 
+ουσ. 
+scale which has the 
+properties of an interval 
+scale but for which, in 
+addition, the ratio between 
+the values allocated to two 
+stimuli is equal to the ratio 
+between the perceived 
+intensities of these stimuli 
+κλίμακα που έχει τις ιδιότητες μιας 
+κλίμακας διαστημάτων, για την 
+οποία όμως επιπλέον ο λόγος 
+μεταξύ των τιμών που κατανέμονται 
+σε δύο ερεθίσματα είναι ίσος με τον 
+λόγο μεταξύ των αντιληπτών 
+εντάσεων αυτών των ερεθισμάτων 
+4.38 
+145. 
+receptor, noun 
+υποδοχέας, ουσ. 
+specific part of a sense 
+organ which responds to a 
+particular stimulus 
+συγκεκριμένο μέρος ενός 
+αισθητήριου οργάνου που 
+αποκρίνεται σε ένα ιδιαίτερο 
+ερέθισμα 
+2.1 
+146. 
+recognition 
+threshold, noun 
+κατώφλιο 
+αναγνώρισης, ουσ. 
+minimum physical intensity 
+of a stimulus for which an 
+assessor will assign the 
+same descriptor each time 
+it is presented 
+Note 1 to entry: The term 
+“threshold” is always used 
+with a qualifying term. 
+ελάχιστη φυσική ένταση 
+ερεθίσματος για την οποία ένας 
+αξιολογητής θα προσδώσει τον ίδιο 
+χαρακτηρισμό κάθε φορά που του 
+παρουσιάζεται 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+2.26 
+44 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+147. 
+reference point, noun 
+σημείο αναφοράς, 
+ουσ. 
+selected value (of one or 
+several attributes or of a 
+product) against which 
+samples are assessed 
+επιλεγμένη τιμή (ενός ή 
+περισσοτέρων αντιληπτών 
+χαρακτηριστικών ενός προϊόντος) 
+ως προς την οποία αξιολογούνται 
+τα δείγματα 
+1.19 
+148. 
+reference sample, 
+noun 
+δείγμα αναφοράς, 
+ουσ. 
+stimulus/substance, 
+sometimes different from 
+the material under test, 
+carefully selected to define 
+or illustrate an attribute or 
+a specified level of a given 
+attribute to which all others 
+are to be compared 
+ερέθισμα/ουσία, μερικές φορές 
+διαφορετικά από το υπό δοκιμή 
+υλικό, προσεκτικά επιλεγμένα για 
+να ορίζουν ή απεικονίζουν ένα 
+αντιληπτό χαρακτηριστικό ή ένα 
+προκαθορισμένο επίπεδο ενός 
+δεδομένου αντιληπτού 
+χαρακτηριστικού με το οποίο 
+πρόκειται να συγκριθούν όλα τα 
+άλλα 
+1.21 
+149. 
+reference scale, noun 
+κλίμακα αναφοράς, 
+ουσ. 
+scale in which reference 
+samples are used to define 
+an attribute or specific 
+intensities of a given 
+attribute 
+κλίμακα στην οποία 
+χρησιμοποιούνται δείγματα 
+αναφοράς για να ορίσουν ένα 
+χαρακτηριστικό ή συγκεκριμένες 
+εντάσεις ενός δεδομένου 
+χαρακτηριστικού 
+4.32 
+150. 
+response scale, noun 
+κλίμακα 
+απόκρισης ουσ. 
+means (e.g. numerical, 
+verbal or pictorial) by 
+which an assessor 
+registers a quantitative 
+response 
+NOTE 1 In sensory 
+analysis, this is a device or 
+tool to capture the reaction 
+of an assessor to some 
+property such that it can be 
+converted into numbers. 
+NOTE 2 The term “scale” 
+is widely used as being 
+equivalent to the 
+expression “response 
+scale”. 
+μέσο (π.χ. αριθμητικό, λεκτικό ή 
+εικονογραφικό) με το οποίο ένας 
+αξιολογητής καταχωρεί μια 
+ποσοτική απόκριση  
+Σημείωση 1: Στην αισθητηριακή 
+ανάλυση, αυτό είναι μια διάταξη ή 
+ένα εργαλείο για τη λήψη της 
+αντίδρασης ενός αξιολογητή σε 
+κάποια ιδιότητα έτσι ώστε αυτή να 
+μπορεί να μετατραπεί σε αριθμούς.  
+Σημείωση 2: Ο όρος «κλίμακα» 
+χρησιμοποιείται ευρέως ως 
+συνώνυμος με τον όρο «κλίμακα 
+απόκρισης». 
+4.29.1 
+151. 
+saltiness, noun 
+salty taste, noun 
+αλμυρότητα, ουσ.,  
+αλμυρή γεύση, 
+ουσ. 
+basic taste produced by 
+dilute aqueous solutions of 
+various substances such 
+as sodium chloride 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα διάφορων 
+ουσιών όπως το χλωριούχο νάτριο 
+3.6 
+152. 
+sample, noun, 
+sample of product, 
+noun 
+δείγμα, ουσ.,  
+δείγμα προϊόντος, 
+ουσ. 
+specimen or aliquot of 
+product presented for 
+assessment 
+δοκίμιο ή κλάσμα προϊόντος που 
+παρουσιάζεται για αξιολόγηση 
+1.16 
+153. 
+saturation, noun 
+κορεσμός, ουσ. 
+dimension of colour that 
+describes its purity 
+Note 1 to entry: If highly 
+saturated, a colour 
+appears to be pure hue — 
+free of gray; if low in 
+saturation, a colour 
+appears to have a great 
+deal of gray. 
+Note 2 to entry: The 
+equivalent Munsell term is 
+“chroma”. 
+διάσταση του χρώματος2 που 
+περιγράφει την καθαρότητά του  
+Σημείωση 1: Ένα πολύ κορεσμένο 
+χρώμα φαίνεται να έχει καθαρή 
+απόχρωση — χωρίς καθόλου γκρι. 
+Ένα χρώμα με χαμηλό 
+κορεσμόφαίνεται να έχει πολύ γκρι.  
+ 
+Σημείωση 2: Ο ισοδύναμος όρος 
+Munsell είναι «chroma». 
+3.34 
+154. 
+scale, noun 
+κλίμακα, ουσ. 
+term applicable to either a 
+response scale or a 
+measurement scale 
+κλίμακα απόκρισης ή κλίμακα 
+μέτρησης 
+4.29 
+155. 
+score sheet/card, 
+noun 
+βαθμοδέλτιο, ουσ. 
+ballot 
+φύλλο/κάρτα βαθμολόγησης 
+4.48 
+45 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+156. 
+score, noun 
+βαθμός, ουσ. 
+value assigned which 
+describes the specific 
+location of a stimulus 
+material in the possible 
+range of intensities for that 
+attribute  
+NOTE To score a food is 
+to rate its properties on a 
+scale or according to some 
+numerically defined sense 
+of criteria. 
+εκχωρούμενη τιμή που περιγράφει 
+τη συγκεκριμένη θέση ενός 
+διεγερτικού υλικού στο πιθανό 
+εύρος εντάσεων για αυτό το 
+χαρακτηριστικό  
+Σημείωση 1: Η βαθμολόγηση ενός 
+τροφίμου γίνεται μέσω της 
+τοποθέτησης των ιδιοτήτων του σε 
+κλίμακα ή σύμφωνα με κάποια 
+αριθμητικά καθορισμένη έννοια 
+κριτηρίων. 
+4.47 
+157. 
+scoring, noun 
+βαθμολόγηση, ουσ. 
+evaluation of a product (or 
+of attributes of a product) 
+by assigning numbers that 
+have some mathematical 
+relationship to the product 
+or attributes being 
+evaluated 
+αξιολόγηση ενός προϊόντος (ή των 
+χαρακτηριστικών ενός προϊόντος) 
+με εκχώρηση αριθμών που έχουν 
+κάποια μαθηματική σχέση με το 
+προϊόν ή τα χαρακτηριστικά που 
+αξιολογούνται 
+4.7 
+158. 
+screening, noun 
+διαλογή, ουσ. 
+preliminary selection 
+procedure 
+διαδικασία προκαταρκτικής 
+επιλογής 
+4.8 
+159. 
+selected assessor, 
+noun 
+επιλεγμένος 
+αξιολογητής, ουσ. 
+assessor chosen for 
+his/her ability to perform a 
+sensory test 
+αξιολογητής που έχει επιλεγεί για 
+την ικανότητά του να εκτελέσει 
+αισθητηριακές δοκιμές 
+1.6 
+160. 
+sensation, noun 
+αίσθημα, ουσ. 
+psychophysiological 
+reaction, resulting from 
+sensory stimulation 
+ψυχοφυσιολογική αντίδραση, που 
+προκύπτει από αισθητηριακή 
+διέγερση 
+2.4 
+161. 
+sensitivity, noun 
+ευαισθησία, ουσ. 
+ability to perceive, identify 
+and/or differentiate, 
+qualitatively and/or 
+quantitatively, one or more 
+stimuli by means of the 
+sense organs 
+Note 1 to entry: In French, 
+this term should be 
+differentiated from the term 
+“sensibilité”, which refers 
+to the level of ability to 
+discriminate (see 2.10). 
+ικανότητα αντίληψης, αναγνώρισης 
+και/ή διαφοροποίησης, ποιοτικά 
+και/ή ποσοτικά, ενός ή 
+περισσοτέρων ερεθισμάτων με τη 
+βοήθεια των αισθητήριων οργάνων 
+2.5 
+162. 
+sensory adaptation, 
+noun 
+αισθητηριακή 
+προσαρμογή, ουσ. 
+temporary modification of 
+the sensitivity of a sense 
+organ due to continued 
+and/or repeated 
+stimulation 
+προσωρινή μεταβολή της 
+ευαισθησίας ενός αισθητήριου 
+οργάνου λόγω συνεχιζόμενου και/ή 
+επαναλαμβανόμενου ερεθίσματος 
+2.6 
+163. 
+sensory analysis, 
+noun 
+αισθητηριακή 
+ανάλυση, ουσ. 
+science involved with the 
+assessment of the 
+organoleptic attributes of a 
+product by the senses 
+επιστήμη που ασχολείται με την 
+αξιολόγηση των οργανοληπτικών 
+χαρακτηριστικών ενός προϊόντος 
+μέσω των αισθήσεων 
+1.1 
+164. 
+sensory assessor, 
+noun 
+αισθητηριακός 
+αξιολογητής, ουσ. 
+any person taking part in a 
+sensory test 
+Note 1 to entry: A naive 
+assessor is a person who 
+does not meet any 
+particular criterion. 
+Note 2 to entry: An initiated 
+assessor has already 
+participated in a sensory 
+test. 
+πρόσωπο που μετέχει σε 
+αισθητηριακή δοκιμή  
+Σημείωση 1: Αμύητος αξιολογητής 
+είναι το πρόσωπο που δεν πληροί 
+συγκεκριμένα κριτήρια. 
+Σημείωση 2: Μυημένος αξιολογητής 
+είναι το πρόσωπο που έχει ήδη 
+συμμετάσχει σε αισθητηριακή 
+δοκιμή. 
+1.5 
+165. 
+sensory fatigue, noun 
+αισθητηριακή 
+κόπωση, ουσ. 
+form of sensory adaptation 
+in which a decrease in 
+sensitivity occurs 
+μορφή αισθητηριακής 
+προσαρμογής κατά την οποία 
+επέρχεται ελάττωση της 
+ευαισθησίας 
+2.7 
+46 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+166. 
+sensory panel, noun 
+αισθητηριακή 
+ομάδα, ουσ. 
+group of assessors 
+participating in a sensory 
+test 
+ομάδα αξιολογητών που 
+συμμετέχουν σε αισθητηριακή 
+δοκιμή 
+1.9 
+167. 
+sensory profile, noun 
+αισθητηριακό 
+προφίλ, ουσ. 
+description of the sensory 
+properties of a sample, 
+consisting of the sensory 
+attributes in the order of 
+perception, and with 
+assignment of an intensity 
+value for each attribute  
+NOTE A generic term for 
+any type of profile, whether 
+full or partial, trademarked 
+or not. 
+περιγραφή των αισθητηριακών 
+ιδιοτήτων ενός δείγματος, που 
+αποτελείται από τα αισθητηριακά 
+χαρακτηριστικά κατά σειρά 
+αντίληψης και με εκχώρηση τιμής 
+έντασης για κάθε χαρακτηριστικό  
+Σημείωση 1: Γενικός όρος για 
+οποιοδήποτε τύπο προφίλ, πλήρες 
+ή μερικό, με εμπορικό σήμα ή όχι. 
+4.25 
+168. 
+sensory, adj 
+αισθητηριακός -ή 
+-ό, επίθ. 
+relating to the use of the 
+senses, i.e. to the 
+experience of a person 
+που έχει σχέση με τη χρήση των 
+αισθήσεων, δηλ. με την εμπειρία 
+ενός προσώπου 
+1.2 
+169. 
+somesthesis, noun 
+σωματαισθησία, 
+ουσ.,  
+σωματαίσθηση, 
+ουσ. 
+sensations of pressure 
+(touch), temperature, and 
+pain perceived by the 
+receptors located in the 
+skin and lips, including oral 
+mucosa, tongue and 
+periodontal membrane 
+Note 1 to entry: Do not 
+confuse with kinaesthesis 
+(2.24). 
+αισθήματα πίεσης (αφή), 
+θερμοκρασίας και πόνου που 
+γίνονται αντιληπτά από υποδοχείς 
+που βρίσκονται στο δέρμα και στα 
+χείλη, καθώς και στη στοματική 
+βλενογόνο, στη γλώσσα και στην 
+περιοδοντική μεμβράνη 
+Σημείωση 1: Να μην συγχέεται με 
+την  κιναισθησία (2.24). 
+2.22 
+170. 
+sourness, noun 
+sour taste, noun 
+ξινότητα, ουσ.,  
+ξινάδα, ουσ. 
+ξινή γεύση, ουσ. 
+gustatory complex 
+sensation, generally due to 
+presence of organic acids 
+Note 1 to entry: In some 
+languages “sour” is not a 
+synonym for “acid”. 
+Note 2 to entry: 
+Sometimes this term has a 
+negative hedonic sense. 
+σύνθετο γευστικό αίσθημα, που 
+οφείλεται γενικά στην παρουσία 
+οργανικών οξέων 
+Σημείωση 1: Σε κάποιες γλώσσες 
+το «ξινό» δεν είναι συνώνυμο του 
+«οξύ». 
+Σημείωση 2: Μερικές φορές αυτός ο 
+όρος δείχνει δυσαρέσκεια. 
+3.4 
+171. 
+standard illuminant, 
+noun 
+πρότυπο 
+φωτιστικό 
+ουσ. 
+colorimetric illuminant 
+relating to the range of 
+artificial or natural lights 
+defined by the International 
+Lighting Commission (CIE) 
+χρωματομετρικό φωτιστικό που 
+σχετίζεται με το εύρος των 
+τεχνητών ή φυσικών φώτων που 
+ορίζεται από τη Διεθνή Επιτροπή 
+Φωτισμού (CIE) 
+4.45 
+172. 
+stimulus threshold, 
+noun, 
+detection threshold, 
+noun 
+κατώφλιο 
+ερεθίσματος, ουσ., 
+κατώφλιο 
+ανίχνευσης, ουσ. 
+minimum value of a 
+sensory stimulus needed a 
+sensation 
+Note 1 to entry: The term 
+“threshold” is always used 
+with a qualifying term. 
+Note 2 to entry: The 
+sensation need not be 
+identified. 
+ 
+ελάχιστη τιμή ενός αισθητηριακού 
+ερεθίσματος  που χρειάζεται για την 
+πρόκληση ενός αισθήματος 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο. 
+Σημείωση 2: Το αίσθημα δεν 
+χρειάζεται να ταυτοποιηθεί. 
+ 
+2.25 
+173. 
+stimulus, noun 
+ερέθισμα, ουσ. 
+that which excites a 
+receptor 
+φυσικό αίτιο που διεγείρει ένα 
+αισθητήριο όργανο και προκαλεί το 
+αντίστοιχο αίσθημα 
+2.2 
+174. 
+subjective method, 
+noun 
+υποκειμενική 
+μέθοδος, ουσ. 
+any method based on 
+personal opinions 
+οποιαδήποτε μέθοδος βασίζεται σε 
+προσωπικές απόψεις 
+4.2 
+175. 
+sub-threshold, 
+adjective 
+υποκατωφλιακός, 
+επίθ. 
+pertains to a stimulus 
+intensity below the type of 
+threshold under 
+consideration 
+αναφέρεται σε ένταση ερεθίσματος 
+χαμηλότερη από τον υπό θεώρηση 
+τύπο κατωφλίου 
+2.29 
+47 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+176. 
+supra-threshold, 
+adjective 
+υπερκατωφλιακός, 
+επίθ. 
+pertains to a stimulus 
+intensity above the type of 
+threshold under 
+consideration 
+αναφέρεται σε ένταση ερεθίσματος 
+υψηλότερη από τον υπό θεώρηση 
+τύπο κατωφλίου 
+2.30 
+177. 
+sweetness, noun 
+sweet taste, noun 
+γλυκύτητα, ουσ 
+γλυκιά γεύση, ουσ. 
+basic taste produced by 
+dilute aqueous solutions of 
+natural or artificial 
+substances such as 
+sucrose or aspartame 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα φυσικών ή 
+τεχνητών ουσιών όπως η 
+σακχαρόζη ή η ασπαρτάμη 
+3.7 
+178. 
+synergism, noun 
+συνεργισμός, ουσ. 
+joint action of two or more 
+stimuli, whose combination 
+elicits a level of sensation 
+in excess of that expected 
+from a simple addition of 
+the effects of each 
+stimulus taken separately 
+Note 1 to entry: See also 
+antagonism (2.35). 
+συνδυασμένη δράση δύο ή 
+περισσοτέρων ερεθισμάτων των 
+οποίων ο συνδυασμός προκαλεί 
+στάθμη αισθήματος υψηλότερη από 
+αυτή που αναμένεται από την απλή 
+άθροιση των επιδράσεων κάθε 
+ερεθίσματος όταν λαμβάνεται 
+χωριστά 
+Σημείωση 1: Βλέπε επίσης και 
+ανταγωνισμός (2.35). 
+2.36 
+179. 
+tactile somesthetic 
+receptor, noun 
+απτικός 
+σωματοαισθητικός 
+υποδοχέας, ουσ. 
+receptor located in the skin 
+of the tongue, mouth or 
+throat, which perceives 
+geometrical characteristics 
+as reflected in the 
+appearance of the food 
+product 
+υποδοχέας που βρίσκεται στο 
+δέρμα της γλώσσας, του στόματος 
+ή του λαιμού και αντιλαμβάνεται 
+γεωμετρικά χαρακτηριστικά όπως 
+αυτά 
+αντικατοπρίζονται/παρουσιάζονται 
+στην εμφάνιση του τροφίμου 
+2.23 
+180. 
+taint, noun 
+μόλυσμα, ουσ. 
+taste or odour foreign to 
+the product originating 
+from external 
+contamination 
+γεύση ή οσμή1 ξένη προς το προϊόν 
+που προέρχεται από εξωτερική 
+μόλυνση 
+3.23 
+181. 
+taste, noun 
+γεύση, ουσ. 
+sensations perceived by 
+the taste organ when 
+stimulated by certain 
+soluble substances 
+Note 1 to entry: The term 
+“taste” should not be used 
+to designate the 
+combination of gustatory, 
+olfactory and trigeminal 
+sensations which are 
+designated by the term 
+“flavour” (see 3.20). 
+If, in informal language, the 
+term is used in this sense, 
+it should always be 
+associated with a 
+qualifying term, e.g. “musty 
+taste”, “raspberry taste”, 
+“corky taste”. 
+αίσθημα αντιληπτό από το όργανο 
+της γεύσης όταν αυτό ερεθίζεται 
+από ορισμένες διαλυτές ουσίες  
+ 
+Σημείωση 1: Ο όρος ‘γεύση’ δεν 
+πρέπει να χρησιμοποιείται για να 
+κατασημάνει τον συνδυασμό 
+αισθημάτων γεύσης, όσφρησης και 
+τριδύμου (του τρίδυμου νεύρου) 
+που κατασημαίνεται από τον όρο 
+‘οσμόγευση’ (βλ.  3.20). 
+Εάν, σε ανεπίσημη γλώσσα, ο όρος 
+χρησιμοποιείται με αυτή την έννοια, 
+θα πρέπει πάντα να συσχετίζεται με 
+έναν προσδιοριστικό όρο, π.χ. 
+“γεύση μούχλας”, “γεύση 
+βατόμουρου”, “γεύση φελλού”. 
+2.12 
+182. 
+taster, noun 
+δοκιμαστής, ουσ. 
+assessor, selected 
+assessor or expert who 
+evaluates the organoleptic 
+attributes of a food 
+product, mainly with the 
+mouth 
+Note 1 to entry: The term 
+“assessor” is usually 
+preferred. 
+αξιολογητής, επιλεγμένος 
+αξιολογητής ή ειδικός που εκτιμά τα 
+οργανοληπτικά χαρακτηριστικά 
+ενός τροφίμου, κυρίως με το στόμα 
+Σημείωση 1: Συνήθως, προτιμάται ο 
+όρος «αξιολογητής». 
+1.13 
+183. 
+tasting, noun 
+γευστική δοκιμή, 
+ουσ. 
+sensory assessment of a 
+food product in the mouth 
+αισθητηριακή αξιολόγηση ενός 
+τροφίμου στο στόμα 
+1.14 
+48 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+184. 
+terminal threshold, 
+noun 
+τερματικό 
+κατώφλιο, ουσ. 
+minimum value of an 
+intense sensory stimulus 
+above which no difference 
+in intensity can be 
+perceived 
+Note 1 to entry: The term 
+“threshold” is always used 
+with a qualifying term. 
+ελάχιστη τιμή ενός έντονου 
+αισθητηριακού ερεθίσματος πάνω 
+από την οποία δεν μπορεί να γίνει 
+αντιληπτή καμιά διαφορά έντασης 
+Σημείωση 1: Ο όρος «κατώφλιο» 
+χρησιμοποιείται πάντοτε με έναν 
+προσδιοριστικό όρο.  
+2.28 
+185. 
+test portion, noun 
+μερίδα δοκιμής, 
+ουσ. 
+portion of the test sample 
+which is directly tested by 
+the assessor 
+μέρος δείγματος δοκιμής που 
+δοκιμάζεται απευθείας από τον 
+αξιολογητή 
+1.18 
+186. 
+test sample, noun 
+δείγμα δοκιμής, 
+ουσ. 
+sample of the material 
+under test 
+δείγμα του υπό δοκιμή υλικού 
+1.17 
+187. 
+texture profile, noun 
+προφίλ υφής ουσ. 
+qualitative or quantitative 
+sensory profile of the 
+texture of a sample 
+ποιοτικό ή ποσοτικό αισθητηριακό 
+προφίλ της υφής ενός δείγματος 
+4.27 
+188. 
+texture, noun 
+ 
+υφή, ουσ. 
+all of the mechanical, 
+geometrical, surface and 
+body attributes of a 
+product perceptible by 
+means of kinaesthesis and 
+somesthesis receptors and 
+(where appropriate) visual 
+and auditory receptors 
+from the first bite to final 
+swallowing 
+Note 1 to entry: Over the 
+course of mastication, 
+perception is influenced by 
+the physical 
+transformations that occur 
+from contact with the teeth 
+and palate and mixture 
+with saliva. 
+Auditory information may 
+contribute to judgement of 
+texture and may 
+predominate with dry 
+products. 
+Note 2 to entry: The 
+“mechanical attributes” are 
+those related to the 
+reaction of the product to 
+stress. They are: 
+hardness, cohesiveness, 
+viscosity, elasticity and 
+adhesiveness. 
+The “geometrical 
+attributes” are those 
+related to the size, shape 
+and arrangement of 
+particles within a product. 
+They are: denseness, gra-
+nularity and conformation. 
+The “surface attributes” are 
+those related to the 
+sensations produced in the 
+mouth by moisture and/or 
+fat in and near the surface 
+of the product. 
+The “body attributes” are 
+those related to the 
+sensations produced in the 
+mouth by moisture and/or 
+το σύνολο των μηχανικών, 
+γεωμετρικών, επιφανειακών και 
+σωματικών χαρακτηριστικών ενός 
+προϊόντος που γίνονται αντιληπτά 
+μέσω υποδοχέων κιναισθησίας και 
+σωματαισθησίας και (όπου 
+χρειάζεται) οπτικών και ακουστικών 
+υποδοχέων από την πρώτη 
+εισαγωγή στο στόμα  έως την τελική 
+κατάποση  
+Σημείωση 1: Κατά τη διάρκεια της 
+μάσησης, η αντίληψη επηρεάζεται 
+από τις φυσικές μεταβολές που 
+συμβαίνουν από την επαφή με τα 
+δόντια και τον ουρανίσκο και την 
+ανάμειξη με το σάλιο.  
+Οι ακουστικές πληροφορίες μπορεί 
+να συμβάλλουν στην κρίση της 
+υφής και μπορεί να κυριαρχούν στα 
+ξηρά προϊόντα.  
+Σημείωση 2: Τα μηχανικά 
+χαρακτηριστικά σχετίζονται με την 
+αντίδραση του προϊόντος στην 
+καταπόνηση  και είναι: η 
+σκληρότητα, η συνεκτικότητα, το 
+ιξώδες, η ελαστικότητα και η 
+προσφυσικότητα.  
+Τα γεωμετρικά χαρακτηριστικά 
+σχετίζονται με το μέγεθος, το σχήμα 
+και τη διευθέτηση των σωματιδίων 
+μέσα σε ένα προϊόν και είναι: η 
+πυκνότητα, η κοκκιότητα και 
+διαμόρφωση.  
+Τα επιφανειακά χαρακτηριστικά 
+σχετίζονται με τα αισθήματα που 
+παράγονται στο στόμα από την 
+υγρασία και/ή το λίπος μέσα και 
+κοντά στην επιφάνεια του 
+προϊόντος.  
+Τα σωματικά χαρακτηριστικά 
+σχετίζονται με τα αισθήματα που 
+παράγονται στο στόμα από την 
+υγρασία και/ή το λίπος που 
+περιέχονται στο προϊόν και με τον 
+τρόπο με τον οποίο τα εν λόγω 
+συστατικά απελευθερώνονται. 
+ 
+3.41 
+49 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+fat in the substance of the 
+product and the way in 
+which these constituents 
+are released. 
+189. 
+to smell, verb 
+οσφραίνομαι, ρήμα 
+to perceive or to attempt to 
+perceive an odour 
+αντιλαμβάνομαι ή προσπαθώ να 
+αντιληφθώ μια οσμή1 
+2.15 
+190. 
+touch, noun 
+αφή, ουσ. 
+tactile sense 
+αίσθηση κατά την οποία οτιδήποτε 
+γίνεται αντιληπτό μέσω επαφής με 
+το δέρμα 
+2.16 
+191. 
+translucency, noun  
+translucent, adjective 
+ημιδιαφάνεια, ουσ. 
+ημιδιαφανής, επίθ. 
+ 
+allowing light to pass but 
+not allowing images to be 
+distinguished 
+ιδιότητα ενός υλικού να επιτρέπει τη 
+διέλευση του φωτός και όχι τη 
+διάκριση εικόνων 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι ημιδιαφανής. 
+3.38 
+192. 
+transparency, noun) 
+ 
+transparent, adjective 
+διαφάνεια, ουσ. 
+διαφανής, επίθ. 
+allowing light to pass and 
+distinct images to appear 
+ιδιότητα ενός υλικού να επιτρέπει τη 
+διέλευση του φωτός και τη διάκριση 
+εικόνων 
+Σημείωση 1: Το αντίστοιχο επίθετο 
+είναι διαφανής. 
+ 
+3.37 
+193. 
+triangle test, noun 
+τριγωνική δοκιμή 
+ουσ. 
+method of discrimination 
+testing involving the 
+simultaneous presentation 
+of three coded samples, 
+two of which are identical, 
+and in which the assessor 
+is asked to select the 
+sample perceived as 
+different 
+μέθοδος δοκιμής διάκρισης που 
+περιλαμβάνει την ταυτόχρονη 
+παρουσίαση τριών 
+κωδικοποιημένων δειγμάτων, δύο 
+από τα οποία είναι πανομοιότυπα, 
+και στην οποία ο αξιολογητής 
+καλείται να επιλέξει το δείγμα που 
+γίνεται αντιληπτό ως διαφορετικό 
+4.18 
+194. 
+trigeminal 
+sensations, noun, 
+oro-nasal 
+chemesthesis, noun  
+αισθήματα 
+τριδύμου, ουσ., 
+στοματορρινική 
+χημειoαισθησία, 
+στοματορρινική 
+χημειοαίσθηση, 
+ουσ. 
+sensations resulting from 
+irritation caused by 
+chemical stimuli in the 
+mouth, nose or throat 
+EXAMPLE: 
+Pungency from 
+horseradish. 
+σύνολο αισθημάτων που 
+δημιουργούνται από ερεθισμό ο 
+οποίος προκαλείται από χημικά 
+ερεθἰσματα στο στόμα, στη μύτη ή 
+στον λαιμό 
+ΠΑΡΑΔΕΙΓΜΑ: 
+Πικαντικότητα από ραπανάκι. 
+2.19 
+195. 
+true value noun 
+αληθής τιμή ουσ. 
+〈sensory analysis〉 
+particular value which 
+assessments are intended 
+to estimate 
+ιδιαίτερη τιμή στην εκτίμηση της 
+οποίας αποσκοπούν οι 
+αξιολογήσεις 
+4.44 
+196. 
+umami, noun 
+ουμάμι, ουσ. 
+basic taste produced by 
+dilute aqueous solutions of 
+a certain kind of amino 
+acid or nucleotide such as 
+monosodium glutamate or 
+disodium inosinate 
+βασική γεύση που παράγεται από 
+αραιά υδατικά διαλύματα ενός 
+συγκεκριμένου είδους αμινοξέος ή 
+νουκλεοτιδίου όπως το 
+γλουταμινικό μονονάτριο ή το 
+ινοσινικό δινάτριο 
+3.9 
+197. 
+unipolar scale, noun 
+μονοπολική 
+κλίμακα, ουσ. 
+scale with only one 
+descriptor at one of the 
+ends 
+κλίμακα με μόνο έναν περιγραφέα 
+σε ένα από τα άκρα 
+4.35 
+198. 
+viscosity, noun 
+ιξώδες, ουσ. 
+mechanical textural 
+attribute relating to 
+resistance to flow 
+Note 1 It corresponds to 
+the force required to draw 
+a liquid from a spoon over 
+the tongue, or to spread it 
+over a substrate. 
+Note 2 The main 
+adjectives corresponding 
+to different levels of 
+viscosity are: 
+μηχανικό χαρακτηριστικό υφής που 
+σχετίζεται με την αντίσταση στη ροή  
+Σημείωση 1: Αντιστοιχεί στη δύναμη 
+που απαιτείται για να τραβηχτεί ένα 
+υγρό από ένα κουτάλι με τη 
+γλώσσα ή να απλωθεί σε ένα 
+υπόστρωμα.  
+Σημείωση 2: Τα κύρια επίθετα που 
+αντιστοιχούν σε διαφορετικά 
+επίπεδα ιξώδους είναι:  
+— «ρευστός»: χαμηλό επίπεδο, 
+π.χ. νερό,  
+3.48 
+50 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Κωδικός 
+— “fluid”: low level, e.g. 
+water; 
+— “thin”: moderate level, 
+e.g. olive oil; 
+— “unctuous” or “creamy”: 
+moderate level, e.g. 
+double cream, heavy 
+cream; 
+— “thick” or “viscous”: very 
+high, e.g. sweetened 
+condensed milk, 
+honey. 
+— «λεπτόρρευστος»: μέτριο 
+επίπεδο, π.χ. ελαιόλαδο,  
+— «κρεμώδης»: μέτριο επίπεδο, 
+π.χ. κρέμα γάλακτος με υψηλά 
+λιπαρά,  
+— «παχύρρευστος»: πολύ υψηλό 
+επίπεδο, π.χ. ζαχαρούχο 
+συμπυκνωμένο γάλα, μέλι. 
+199. 
+vision, noun 
+όραση, ουσ. 
+sense of sight 
+αίσθηση κατά την οποία γίνονται 
+αντιληπτά ερεθίσματα μέσω των 
+οφθαλμών 
+2.17 
+ 
+ 
+Βιβλιογραφία 
+Κατά τη μετάφραση, αναθεώρηση και επεξεργασία του Γλωσσαρίου, εκτός από το κείμενο του ίδιου του ISO 5492:2008, 
+που περιέχει τα λήμματα στις τρεις επίσημες γλώσσες του ISO (αγγλικά, γαλλικά, ρωσικά) και επιπλέον σε άλλες δύο 
+γλώσσες (γερμανικά και ισπανικά) με ευθύνη των οργανισμών τυποποίησης της Γερμανίας (DIN) και της Αργεντινής 
+(IRAM), αντίστοιχα, χρησιμοποιήθηκαν και τα βοηθήματα που ακολουθούν. 
+Λεξικό της Κοινής Νεοελληνικής (ΛΚΝ), Ινστιτούτο Νεοελληνικών Σπουδών (Ίδρυμα Τριανταφυλλίδη) 
+Λεξικό της Νέας Ελληνικής Γλώσσας (ΛΝΕΓ), Γ. Μπαμπινιώτης 
+Μείζον Ελληνικό Λεξικό (ΜΕΙΖΟΝ), Τεγόπουλος – Φυτράκης 
+Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας (ΧΛΝΕΓ), Ακαδημία Αθηνών, Χ. Χαραλαμπάκης 
+Μέγα Λεξικόν Όλης της Ελληνικής Γλώσσης, Δ. Δημητράκος 
+Βάσεις όρων της ΕΛΕΤΟ. 
+ 

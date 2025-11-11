@@ -1,0 +1,496 @@
+SOURCE: http://www.eleto.gr/download/Conferences/9th%20Conference/Presentations/9th_30-DeligianniDaphne_Presentation.pdf
+
+Δελτία Δεδομένων Ασφαλείας : 
+μ
+φ
+ς
+η τεχνική μετάφραση πέρα από την ορολογία ;
+η τεχνική μετάφραση πέρα από την ορολογία ;
+Δ ά φ ν η  Δ ε λ η γ ι ά ν ν η
+Μορφή των αρχείων
+ρφή
+ρχ
+Τυπολογία των όρων
+γ
+ρ
+ Απλοί όροι 
+ (amine, glycol, method, osmosis)
+ Σύμπλοκοι όροι
+ Μονολεκτικοί (acrylaldeyde, hydroperoxyde)
+(
+y
+y
+, y
+p
+y
+)
+ Πολυλεκτικοί (alicyclic amine, dry polymerization, contained 
+system)
+ Συντομομορφές
+ Αρκτικόλεξα (RCR, TLV, TSCA)
+ Ακρώνυμα (CAS, ThOD, EINECS, SpERC)
+Τυπολογία των όρων
+γ
+ρ
+ Λίγα ρήματα, στην προστακτική και σε αποφατικές 
+κυρίως φράσεις
+κυρίως φράσεις 
+(no smoking, do not contaminate, do not discharge, avoid, dispose, 
+sweep, use)
+p,
+)
+Δελτίο Δεδομένων Ασφάλειας
+μ
+φ
+ς
+Δελτίο Δεδομένων Ασφάλειας
+μ
+φ
+ς
+Δελτίο Δεδομένων Ασφάλειας
+μ
+φ
+ς
+Δελτίο Δεδομένων Ασφάλειας
+μ
+φ
+ς
+Χημεία 
+ημ
+Χ
+ά
+ί
+ύ β λ
+έ
+ή
+y Χημικά στοιχεία : σύμβολο + ανεπτυγμένη μορφή
+Iridium (Ir) Actinium (Ac)
+Χ
+έ
+ώ
+έ
+ή
+y Χημικές ενώσεις + ανεπτυγμένη μορφή
+RC(=O)OH, gamma-butyrolactone, tertiary butyl hydroperoxide
+y Μονάδες και τα σύμβολά τους
+atm m3/mol, centistokeglycine unit /m3, centipoise
+y Χημικές αντιδράσεις και διαδικασίες παραγωγής
+Abel method, AMES test, dry polymerisation, thermal 
+d
+i i
+decomposition
+Χημεία
+ημ
+(Υ
+)
+λλ
+λ
+ό
+λ
+ί
+(Υπερ)πολλαπλασιασμός ορολογίας
+y Επάλληλα επίπεδα ιστορικών ονομασιών : κοινές, 
+λ
+έ
+έ
+ί
+λειτουργικές και συστηματικές ονομασίες
+(1780) «furfur» (lat. πίτουρο-)¼Φουράνιο και Φουρφουράνιο
+(1870) Limpricht ¼Τετραφαινόλη
+(σήμερα)
+Οξόλιο ή 1,4-εποξυ-1,3-βουταδιένιο 
+ή 1 4 βουταδιεν 1 3 υλενοξείδιο
+ή 1,4-βουταδιεν-1,3-υλενοξείδιο 
+ή οξακυκλο-2,4-πενταδιένιο ή Tετρόλιο 
+ή διβυνιλοξείδιο
+ή διβυνιλοξείδιο
+Χημεία
+ημ
+Ε άλλ λ
+ί
+δ
+θ
+ώ
+ύ
+y Επάλληλα επίπεδα ρυθμιστικών συνωνύμων, 
+βιομηχανικών ή εμπορικών ονομασιών :
+Βενζαλδεΰδη = 09143 FLUKA 100-52-7 12010 FLUKA 317-34-0 418099 ALDRICH AI3-
+Βενζαλδεΰδη = 09143_FLUKA, 100 52 7, 12010_FLUKA, 317 34 0, 418099_ALDRICH, AI3
+09931, Ald3.1-H_000160, Ald3.1-H_000479, Ald3.1-H_000798, Ald3-H_000012, Almond 
+artificial essential oil, Artificial almond oil, Artificial bitter almond oil, Artificial Bitter Almond 
+Oil, Artificial essential oil of
+almond B1334 ALDRICH Benzadehyde benzaldehyde Benzaldehyde FFC benzaldehyde
+almond, B1334_ALDRICH, Benzadehyde, benzaldehyde, Benzaldehyde FFC, benzaldehyde, 
+formyl-(14)C-labeled, Benzaldehyde (natural), Benzaldehyde (NF), Benzaldehyde [UN1990] 
+[Class 9], Benzaldehyde [UN1990] [Class 9], Benzaldehyde [USAN], benzanoaldehyde, Benzene 
+carbaldehyde, Benzenecarbonal, Benzenecarboxaldehyde, Benzene 
+carboxaldehyde Benzenemethylal Benzene methylal Benzoic aldehyde Benzoyl
+carboxaldehyde, Benzenemethylal, Benzene methylal, Benzoic aldehyde, Benzoyl 
+hydride, BEZ, Bitter almond oil, synthetic, C00261, c0279, C032175, C7H6O, Caswell No. 
+076, CCRIS 2376, CHEBI:17169, D02314, EINECS 202-860-4, EPA Pesticide Chemical Code 
+008601, FEMA No. 2127, ghl.PD_Mitscher_leg0.170, HSDB 388, LS-27, NCGC00091819-
+01 nchembio814-comp15 NCI-C56133 NSC7917 NSC 7917 Oil Of bitter
+01, nchembio814 comp15, NCI C56133, NSC7917, NSC 7917, Oil Of bitter 
+almond, PENTADEOTERO BENZALDEHYDE, Phenylmethanal, ST5213372, Synthetic oil of 
+bitter almond, UN1990, W212709_ALDRICH, W212717_ALDRICH, WLN: VHR 
+(htt
+//
+h
+i d
+t
+/ h
+i
+l / 6
+ht
+l)
+(http://www.chemindustry.com/chemicals/06391.html)
+Βιομηχανική παραγωγή
+μηχ
+ή
+ρ γ γή
+Β
+ή
+ή
+y Βιομηχανική παραγωγή
+ Εξοπλισμός 
+(
+ti
+h
+d
+t i
+d
+t
+l
+d filli
+li
+l
+(suction hood, contained systems, enclosed filling lines, cool 
+tanks, filter type A)
+ Παραγωγή
+Παραγωγή
+(on-tool extraction , tabletting, continuous operations, 
+extrusion, granulation)
+ Αποθήκευση και μεταφορά
+(lined vessels, steel lined containers, release valve)
+ Απόρριψη
+(sewage sludge, disposal services, aqueus waste, releases)
+Άλλοι τομείς
+μ ς
+Ι
+ή
+ξ
+λ
+ά
+ί
+ώ
+β ήθ
+y Ιατρική  : τοξικολογικά στοιχεία, πρώτες βοήθειες, 
+αντιμετώπιση έκλυσης
+( ki
+li
+i fl
+ti
+f
+j
+ti
+d
+(skin, eyes, liver, severe inflamation of conjunctive and cornea, 
+fatigue, enlargement of the lymph glands, gastro-intestinal 
+tract)
+y Περιβαλλοντολογία
+(ecotoxicological data, biological degradability, environmental
+(ecotoxicological data, biological degradability, environmental 
+exposure, eutrophication)
+y Μεταφορές
+φ ρ ς
+(bulk open unloading, barge loading, packing group, shipping 
+name, inland waterways)
+Γενικό λεξιλόγιο
+ξ
+γ
+Χ ώ
+y Χρώματα
+(blue-green, opalescent yellow, whitish-grey, amber) 
+y Αντικείμενα καθημερινής χρήσης (προϊόντα 
+εφαρμογής)
+(modeling clay, scratch and sniff, insecticide, glue, tablet, 
+f
+)
+perfume)
+Μεταφραστικά λάθη : ορολογία
+φρ
+η
+ρ
+γ
+Σ
+έ
+y Συντομομορφές 
+ Μη μετάφραση
+IBC code ¼ Κωδικός IBC (Κώδικας του ΙΜΟ)
+SDS ¼ SDS (ΔΔΑ)
+SDS ¼ SDS (ΔΔΑ)
+ Μη ανάπτυξη
+ Μη ανάπτυξη
+CESIO recommendations ¼ CESIO – Συμβουλή (Συστάσεις 
+O
+O
+μβ
+ή (
+ς
+της CESIO, της Ευρωπαϊκής Επιτροπής για τις οργανικές 
+επιφανειοδραστικές ουσίες και τα ενδιάμεσα προϊόντα τους)
+Μεταφραστικά λάθη : ορολογία
+φρ
+η
+ρ
+γ
+Θό
+β
+y Θόρυβος
+Relative molecular mass
+Rice Market Monitor
+RMM
+Riverside Municipal Museum
+Rapid Microbiological Methods
+Rapid Microbiological Methods
+Risk Management Measures
+Μεταφραστικά λάθη : ορολογία
+φρ
+η
+ρ
+γ
+Π λ
+ί
+ό
+λ
+ί
+y Πολυσημία όρων – φρασεολογία 
+form dangerous compounds ¼ προκαλέσει επικίνδυνα 
+σκευάσματα (σχηματίσει επικίνδυνες ενώσεις)
+σκευάσματα (σχηματίσει επικίνδυνες ενώσεις)
+with water causes rapid corrosion ¼ με το νερό προκαλεί 
+γρήγορη διάβρωση (παρουσία νερού)
+γρήγ ρη
+βρ
+η (
+ρ
+ρ
+)
+decomposes on burning over 500°C ¼ αποσυντίθεται πάνω από 
+τους... (διασπάται σε θερμοκρασία...)
+the substance dissolves in water ¼ η ουσία διασκορπίζεται στο 
+νερό (διαλύεται)
+flammable vapour air mixture : εύφλεκτη ανάμιξη ατμού αέρα
+flammable vapour-air mixture : εύφλεκτη ανάμιξη ατμού αέρα 
+(εύφλεκτο μίγμα)
+Μεταφραστικά λάθη : ορολογία
+φρ
+η
+ρ
+γ
+Ψ
+δό
+λ
+ό
+y Ψευδόφιλοι όροι : 
+asbestos ¼ άσβεστος (αμίαντος)
+styrene ¼ στυρένιο (στυρόλιο)
+styrene ¼ στυρένιο (στυρόλιο)
+toluene ¼ τολουένιο (τολουόλιο)
+zebra fish ¼ ψάρι ζέβρα (Brachydarion rerio)
+Μεταφραστικά λάθη : ορολογία
+φρ
+η
+ρ
+γ
+Α
+έ
+έ
+λ
+έ
+y Ασυνέπεια στις μεταφραστικές επιλογές
+to conform to the regulations in force
+L
+¾ συμμόρφωση με τους ισχύοντες κανονισμούς  
+¾ συμμορφώνεται με τους εφαρμοστέους κανονισμούς
+¾ συμμορφώνεται με τους εφαρμοστέους κανονισμούς
+dike for recovery
+dike for recovery 
+L
+¾ δημιουργία αναχώματος 
+ημ
+ργ
+χ μ
+ς
+¾ επιχωματώστε το προϊόν
+Μεταφραστικά λάθη : γενικό λεξιλόγιο
+φρ
+η γ
+ξ
+γ
+working area ¼ περιοχή διαδικασιών (χώρος εργασίας)
+soil ¼ επιφάνεια βάδισης (έδαφος)
+humidity ¼ υγρότητα (υγρασία)
+open flame ¼ ανοιχτή φλόγα (γυμνή φλόγα)
+frostbites ¼ εγκαύματα από το κρύο (κρυοπαγήματα)
+Μεταφραστικά λάθη : γραμματική και συντακτικό
+Μεταφραστικά λάθη : γραμματική και συντακτικό
+y Σχηματισμός υπερθετικού βαθμού
+For even minor contact ¼ για ακόμα πιο ελάχιστη επαφή
+y Σύνταξη και στίξη έκτυπα της αγγλικής
+Store in tightly closed, properly ventilated containers away from 
+h
+t
+k
+fl
+¼
+θ
+ύ
+ά
+heat, sparks, open flame ¼ αποθηκεύστε σε ερμητικά 
+κλεισμένα, με σωστό εξαερισμό, δοχεία μακριά από τη ζέστη, 
+τους σπινθήρες, ελεύθερη φλόγα
+ς
+ήρ ς,
+ρη φ
+γ
+Μεταφραστικά λάθη : γραμματική και συντακτικό
+Λάθ
+ώ
+Μεταφραστικά λάθη : γραμματική και συντακτικό
+y Λάθη σε πτώσεις 
+bitter almonds ¼ πικραμύγδαλα (πικραμύγδαλου)
+y Αλλαγή γένους
+( ) ¼
+ζόλ (
+ζόλ)
+spray (n) ¼ αεροζόλη (αεροζόλ)
+Αλλ
+ή
+ή
+ί
+y Αλλαγή γραμματικής κατηγορίας
+siccative (adj) ¼ στεγνωτήρας (στεγνωτικός/-ή/-ό)
+k ( ) ¼
+β λέ (
+βάλλ )
+attacks (v) ¼ προσβολές (προσβάλλει)
+Μεταφραστικά λάθη : ορθογραφία
+φρ
+η
+ρ
+γρ φ
+Π
+ή
+ί
+y Προστακτική αορίστου
+μετακινείστε 
+διατηρείστε
+χρησιμοποιείστε
+Μεταφραστικά λάθη : γλωσσική ανασφάλεια
+φρ
+η γ
+ή
+φ
+Υ
+ά
+y Υπομετάφραση
+i
+¼
+ί
+β ί
+ά
+(
+λ θ ί)
+cyanosis may occur ¼ μπορεί να συμβεί κυάνωση (προκληθεί)
+administrate oxygen ¼ δώστε οξυγόνο (χορηγήστε)
+y Υπερμετάφραση
+y Υπερμετάφραση
+do not discharge into ¼ μη διεξάγετε εκφόρτωση
+do not discharge into ¼ μη διεξάγετε εκφόρτωση
+ill effects ¼ συνέπειες ασθενείας (συμπτώματα)
+Μεταφραστικά λάθη : γλωσσική ανασφάλεια
+Μεταφραστικά λάθη : γλωσσική ανασφάλεια
+Emergency eye wash fountains should be available in the
+Emergency eye wash fountains should be available in the 
+immediate vicinity of any potential exposure
+L
+Πρέπει να διατίθενται στην άμεση εγγύτητα κάθε πιθανής 
+έκθεσης πίδακες πλύσης ματιών επείγουσας ανάγκης
+When mixed with air and exposed to ignition source, can burn in 
+i
+l d if
+fi
+d
+open air or explode if confined
+L
+Μπορεί να καεί σε υπαίθριο χώρο ή να εκραγεί εάν περιοριστεί
+Μπορεί να καεί σε υπαίθριο χώρο ή να εκραγεί εάν περιοριστεί, 
+εφόσον αναμιχθεί με αέρα και εκτεθεί σε πηγή ανάφλεξης
+Μεταφραστικά λάθη : γλωσσική ανασφάλεια
+φρ
+η γ
+ή
+φ
+y Never give something by mouth to the unconscious
+¼
+έ
+δί
+ά
+ό
+έ
+person ¼ Ποτέ μη δίνετε κάτι με το στόμα σε ένα 
+αναίσθητο άτομο
+y Shortness of breath ¼ Βραχύτητα αναπνοής
+(λαχάνιασμα)
+y Spreadings ¼ Όλα όσα έχουν χυθεί (εκχυμένη 
+ουσία)
+ουσία)
+Συμπεράσματα
+μ
+ρ
+μ
+«Ο όγκος της ορολογίας στα τεχνικά κείμενα δεν 
+πρέπει να υπερεκτιμάται˙ ας μην ξεχνάμε ότι 20% 
+ρ
+ρ
+μ
+ς μη ξ χ
+μ
+μόνο ενός τεχνικού κειμένου αποτελείται από 
+όρους»
+ρ
+ς
+Schmitt Peter A., Translation und Technik, Tübingen, Stauffenburg, 1998, 454 p. in Lenzen T., Traductologie pour 
+LEA, Presses universitaires de Rennes, Rennes, 2012, p. 183
+Συμπεράσματα
+μ
+ρ
+μ
+Ό
+λύ
+ό
+ή
+y Όσο
+μεγαλύτερη
+και
+αρτιότερη
+ήταν
+η
+μεταφραστική μονάδα τόσο σοβαρότερα ήταν και τα
+μεταφραστικά λάθη που παρατηρήθηκαν
+μεταφραστικά λάθη που παρατηρήθηκαν
+y Γλωσσικό επίπεδο : γενικό σύστημα
+y Τεχνικό επίπεδο :
+ γενικός γνωσιολογικός εξοπλισμός του μεταφραστή
+γ
+ς γ
+γ
+ς ξ
+μ ς
+μ
+φρ
+ή
+ εξειδίκευση
+Ευχαριστώ
+χ ρ

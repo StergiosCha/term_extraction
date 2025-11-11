@@ -1,0 +1,547 @@
+SOURCE: http://www.eleto.gr/download/Conferences/10th%20Conference/Papers-and-speakers/10th_02-07-11_Pius%20ten%20Hacken%20&%20Maria%20Koliopoulou_Paper2_V02.pdf
+
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+63 
+2    Three types of terminology in chess 
+ 
+Pius ten Hacken, Maria Koliopoulou 
+ABSTRACT 
+In this paper we demonstrate that there are different types of terminology and that the classification of 
+terms does not depend on the domain but on the position of the term in the discussion in the field. In a 
+field such as chess, we find both specialized vocabulary and terms in the narrow sense. The difference 
+is that the former have a prototype-based concept as their meaning, whereas the latter have a 
+terminological definition consisting of necessary and sufficient conditions. Among the latter, we 
+distinguish legal and scientific terms. Legal terms in chess refer to concepts used in the regulations. 
+Scientific terms appear in theories that try to explain why a particular move is good or bad. Specialized 
+vocabulary encompasses all terms for which a terminological definition is not necessary. In Greek chess 
+terms, we find translations and borrowings of various types. There is no obvious correlation between the 
+naming strategy and the terminological type. 
+Τρεις τύποι oρολογίας στο σκάκι 
+ 
+Pius ten Hacken, Μαρία Κολιοπούλου 
+ΠΕΡΙΛΗΨΗ 
+Στην εργασία αυτή παρουσιάζουμε διαφορετικούς τύπους ορολογίας και υποστηρίζουμε ότι η 
+κατηγοριοποίηση των όρων δεν εξαρτάται από το θεματικό πεδίο καθαυτό, αλλά από τις ιδιότητες του 
+όρου στο συγκεκριμένο πεδίο. Συγκεκριμένα, εντοπίζουμε δύο κύριες κατηγορίες όρων: ειδικό λεξιλόγιο 
+και όρους υπό τη στενή έννοια. Η διαφορά των δύο αυτών τύπων έγκειται στα χαρακτηριστικά της 
+έννοιας.  
+Στο ειδικό λεξιλόγιο οι έννοιες έχουν πρωτοτυπικά χαρακτηριστικά. Αυτό σημαίνει ότι τα εννοιακά όρια 
+του ειδικού λεξιλογίου δεν είναι αυστηρώς προσδιορισμένα. Σε αυτή την περίπτωση, η υιοθέτηση ενός 
+ορολογικού ορισμού είναι δύσκολη, αλλά κυρίως μη αναγκαία, καθώς η τυποποίηση του ειδικού 
+λεξιλογίου αφορά πρωτίστως το όνομα του όρου και όχι την έννοια. Το ειδικό λεξιλόγιο απαντά κυρίως 
+σε τεχνικά πεδία.   
+Αντιθέτως, οι όροι υπό τη στενή έννοια απαιτούν έναν ορολογικό ορισμό, βασισμένο σε αναγκαίες και 
+επαρκείς συνθήκες. Στην περίπτωση αυτή, η αυστηρή οριοθέτηση της έννοιας, που υπερβαίνει τη 
+φυσική τάση προσδιορισμού πρωτοτυπικών εννοιών, είναι αναγκαία για την εφαρμογή ενός νόμου ή 
+μιας επιστημονικής θεωρίας. Επομένως, οι όροι αυτού του τύπου απαντούν αντίστοιχα σε νομικά ή 
+επιστημονικά πεδία. Εντούτοις, δεν υπάρχει μια σαφής κατηγοριοποίηση των θεματικών πεδίων που να 
+αντιπροσωπεύει τις διαφορετικές ορολογικές κατηγορίες. Στην ιατρική, για παράδειγμα, απαντούν και οι 
+δύο τύποι όρων.    
+Οι όροι υπό τη στενή έννοια κατηγοριοπούνται περαιτέρω σε νομικούς και επιστημονικούς. Ο ορισμός 
+ενός νομικού όρου δημιουργεί μια νέα έννοια που είναι αυστηρώς προσδιορισμένη και έχει ως σκοπό 
+να διασφαλίσει την εφαρμογή (νομικών) κανόνων και έμμεσα μια εύρυθμη κοινωνία. Οι επιστημονικοί 
+64 
+όροι αποσκοπόυν στην κατηγοριοποίηση, διασφάλιση και μετάδοση της γνώσης. Οι ορισμοί τους 
+βασίζονται σε εμπειρικά κριτήρια και συχνά υπόκεινται σε κριτική. Οι δύο αυτοί τύποι των όρων υπό τη 
+στενή έννοια δεν κατηγοριοπούνται σύμφωνα με το θεματικό πεδίο στο οποίο απαντούν, αλλά 
+σύμφωνα με τις ιδιότητες των εννοιών τους.  
+Ένα θεματικό πεδίο που εμφανίζει τους διαφορετικούς αυτούς τύπους όρων είναι η σκακιστική 
+ορολογία, την οποίο και χρησιμοποιούμε ως παράδειγμα στην παρούσα μελέτη. Παραθέτοντας 
+σκακιστικούς όρους της Αγγλικής καταδεικνύουμε τόσο την ειδοποιό διαφορά μεταξύ ειδικού λεξιλογίου 
+και όρων υπό τη στενή έννοια, όσο και την περαιτέρω κατηγοριοποίηση των τελευταίων σε νομικούς και 
+επιστημονικούς όρους. Νομικού τύπου όροι απαντούν σε περιπτώσεις εννοιών που αφορούν 
+κανονισμούς. Όροι επιστημονικού τύπου αφορούν διαφορετικές θεωρετικές προσεγγίσεις και 
+προκύπτουν κυρίως όταν είναι αναγκαίο να αξιολογηθεί μια συγκεκριμένη σκακιστική κίνηση. Το 
+σκακιστικό ειδικό λεξιλόγιο περιλαμβάνει εκείνους τους όρους, για τους οποίους δεν απαιτείται ένας 
+ορολογικός ορισμός.  
+Συγκεκριμένα, η σκακιστική ορολογία καθορίζεται διεθνώς από την Παγκόσμια Ομοσπονδία Σκακιού. Τα 
+εννοιακά χαρακτηριστικά των διαφόρων όρων, όπως αποδίδονται από την εν λόγω ομοσπονδία, 
+καθορίζουν την κατηγοριοποίησή τους στους τρεις τύπους. Για παράδειγμα, οι λεπτομερώς 
+προσδιορισμένες πληροφορίες που απαιτούνται για να ορίσει κανείς την έννοια της σκακιέρας 
+(‘chessboard’) καταδεικνύουν έναν όρο νομικού τύπου. Επιστημονικού τύπου όροι απαντούν στο 
+πλαίσιο της σκακιστική θεωρίας, όταν, δηλαδή, μια συγκεκριμένη κίνηση αξιολογείται με βάση εμπειρικά 
+κριτήρια. Για παράδειγμα, η αξιολόγηση και οριοθέτηση των διαφόρων τύπων ανοιγμάτων στο σκάκι 
+αποτελούν επιστημονικούς όρους. Το ειδικό λεξιλόγιο περιλαμβάνει όρους, όπως άνοιγμα (‘opening’), 
+μέσο πατρίδας (‘middlegame’) και τέλος παρτίδας ή φινάλε (‘endgame’), καθώς η μετάβαση από τη μία 
+φάση στην άλλη ορίζεται υποκειμενικά. Επομένως, οι τρεις αυτοί όροι αποτελούν πρωτοτυπικές και όχι 
+αυστηρώς προσδιορισμένες έννοιες.    
+Η παρούσα μελέτη εξειδικεύεται περαιτέρω στη σκακιστική ορολογία της Ελληνικής. Αρχικά μελετάμε 
+τον τρόπο σχηματισμού των σκακιστικών όρων και διαπιστώνουμε ότι οι ελληνικοί όροι είναι 
+αποτέλεσμα δευτερογενούς οροδοσίας. Εντοπίζοντας τους πρωτογενούς όρους σε διάφορες γλώσσες, 
+κυρίως στη Γαλλική, αλλά και τις διάφορες μορφές σχηματισμού των ελληνικών όρων προτείνουμε 
+τέσσερις βασικούς τύπους σκακιστικών όρων: α) πλήρως μεταφρασμένοι όροι, β) δάνειες λέξεις, γ) εν 
+μέρει μεταφρασμένοι όροι, δ) πλήρως μεταφρασμένοι όροι με συνώνυμη δάνεια λέξη. 
+Σύμφωνα με τον πρώτο τρόπο σχηματισμού, ο σκακιστικός όρος της Ελληνικής αποτελεί το 
+μετάφρασμα ενός όρου από μια άλλη γλώσσα. Για παράδειγμα, ο όρος βασιλιάς αποτελεί ελεύθερη 
+μετάφραση των αντίστοιχων όρων που αποδίδουν το σχετικό πιόνι στις ευρωπαϊκές γλώσσες. Συχνά 
+είναι δύσκολο να προσδιοριστεί η γλώσσα-πηγή. Οι δάνειοι σκακιστικοί όροι της Ελληνικής προέρχονται 
+από διάφορες γλώσσες, κυρίως από εκείνες που καθόρισαν την ιστορία του σκακιού, μέχρι την 
+καθιέρωση και τυποποίηση της ορολογίας αυτού του πεδίου. Η Γαλλική αποτελεί συχνά γλώσσα 
+προέλευσης για τα μεταφραστικά δάνεια της Ελληνικής, όπως μαρτυρά το παράδειγμα ροκέ (‘castling’) 
+από τον γαλλικό όρο roque.  
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+65 
+Το τρίτο και τέταρτο είδος σχηματισμού όρων συνδυάζουν, με διαφορετικούς τρόπους, τους δύο 
+πρώτους. Το παράδειγμα τεχνητό ροκέ (‘artificial castling’) αποτελεί ένα μετάφρασμα συνδυαστικού 
+τρόπου, αποτελούμενο, στο πρώτο μέρος, από έναν μεταφρασμένο όρο, και στο δεύτερο μέρος, από 
+έναν δάνειο. Η δυνατότητα ύπαρξης συνώνυμων όρων μαρτυρείται από τον όρο διορθώνω και τον 
+συνώνυμό του ζαντούμπ, προερχόμενο από τον γαλλικό όρο j’adoube. Οι συνώνυμοι όροι δεν 
+ακολουθούν τον ίδιο τρόπο σχηματισμού, καθώς ο πρώτος όρος αποτελεί μια μετάφραση και ο 
+δεύτερος μια δάνεια λέξη. 
+Οι έννοιες των σκακιστικών όρων της Ελληνικής καθορίζονται από την Ελληνική Σκακιστική 
+Ομοσπονδία με βάση τις προδιαγραφές της Παγκόσμιας Ομοσπονδίας Σκακιού. Μελετώντας 
+παραδείγματα σκακιστών όρων της Ελληνικής διαπιστώσαμε ότι καταδεικνύουν τόσο τις δύο βασικές 
+κατηγορίες όρων (ειδικό λεξιλόγιο και όροι υπό τη στενή έννοια), όσο και τις υποκατηγορίες όρων 
+νομικού και επιστημονικού τύπου, όπως ακριβώς απαντούν και στην Αγγλική. Ωστόσο, με βάση τα 
+παραδείγματα ελληνικών όρων που παραθέτουμε, δεν προκύπτει συσχετισμός του τρόπου οροδοσίας 
+με τους διαφορετικούς εννοιακούς τύπους όρων.    
+ 
+0   Introduction 
+In classical approaches to terminology, based on [1], standardization of terms is the central 
+concern. The aim of standardization is to facilitate communication in specialized domains. 
+More recently, this emphasis on standardization has been criticized, e.g. by [2]. The central 
+point of criticism is that the classical approach neglects the linguistic nature of terms. In [3] 
+and [4], it is attempted to develop a synthesis that takes into account the linguistic properties 
+of terms while laying a sound theoretical foundation for standardization as required for 
+successful communication. Here, we will first outline the requirements and problems of 
+standardization (section 1) and present a classification of terms (section 2). A crucial point is 
+that the resulting classes do not depend on properties of the domain, but on properties of 
+the communication. This is illustrated by an analysis of the terminology of chess (section 3). 
+Section 4 turns to Greek and addresses the question how the relation between English 
+chess terms and their Greek counterparts correlates with the classes identified in section 3. 
+Finally, section 5 summarizes the conclusions. 
+1   Standardization as a need and as a problem 
+There are many fields in which standardization of terminology is a requirement for 
+successful communication. An obvious example is the domain of chemistry. As shown by [5] 
+and [6], the transition from alchemy to chemistry was marked by the adoption of the 
+nomenclature developed by Antoine de Lavoisier (1743-1794) and others in 1787. Whereas 
+in alchemy, research was secret and communication mostly restricted to the initiated, in 
+66 
+chemistry the aim was to work on a shared scientific knowledge in an open scientific 
+community. Each alchemist had his own names of substances and passed them on to his 
+apprentices. In a proper scientific community, however, it should be possible to repeat 
+experiments on the basis of their description. In order to know the composition of 
+substances, a much more detailed description is necessary, using terms that are understood 
+in the same way by the entire community. 
+In the Western European tradition, Eugen Wüster (1898-1977) was the founder of an 
+approach in which standardization of terminology was studied as a field of its own, not 
+restricted to individual domains. Because of his background as the owner of an electrical 
+engineering company, his main interest was in technical terminology. In his PhD thesis, [7], 
+he argued for an international effort of standardization of technical language. Obviously, 
+such an effort could not be extended to the entire language. In [1], a clear distinction is 
+made between the terminological approach and the linguistic approach to language. The 
+question is, however, to what extent it is possible to separate the two. 
+In the 1970s, it was discovered that natural concepts as stored in people’s mind are based 
+on prototypes, cf. [8], [9]. In the sociocognitive approach to terminology, as elaborated in [2], 
+it is argued that the insights gathered in prototype semantics undermine the possibility of 
+defining concepts in the way advocated by [1]. In a domain such as life sciences, terms are 
+said to behave in a way that exploits the vagueness of the underlying concept. However, if 
+definitions of the classical type are no longer used, this has a negative impact on the 
+precision and success of communication. 
+2   Three types of terminology 
+An attempt to reconcile the communicative needs observed by [1] with the problematic 
+aspects 
+of 
+terminological 
+expressions 
+observed 
+by 
+[2] 
+should 
+start 
+with 
+an 
+acknowledgement that in formulating a terminological definition, we do something 
+profoundly unnatural. A definition in necessary and sufficient conditions imposes precise 
+boundaries on a concept that in its natural form is based on prototypes. In [3] and [4], it is 
+argued that this means that we should not attempt to define concepts in necessary and 
+sufficient conditions unless there is a specific communicative need for such a definition. 
+Such a need does not exist for all terms. Therefore, [3] distinguishes TERMS IN THE NARROW 
+SENSE and SPECIALIZED VOCABULARY.  
+In specialized vocabulary, there is no need for a terminological definition. This is often the 
+case in technical domains or crafts. In [3], the domain of piano manufacturing is used as an 
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+67 
+example. Here the meaning of terms designating parts of the piano and instruments for 
+handling them is prototype-based. It is still useful to standardize such terms, as [10] 
+illustrates, but for specialized vocabulary of this type, the standard only affects the name, 
+not the delimitation of the concept. 
+In terms in the narrow sense, the need to delimit the concept overrides the natural tendency 
+of concepts to be based on prototypes. In [3], two examples of domains where such terms 
+occur are discussed. One is mathematical linguistics. Here we cannot prove any theorem if 
+we have not formally defined the concepts it involves. Another domain is traffic law. Here we 
+cannot enforce a law unless we have delimited the concepts it invokes. We have to know 
+what counts as a moped before we can impose a fine for driving faster than the specific 
+speed limit that mopeds are subject to. 
+There are two types of motivation for overriding the natural tendency to leave a concept as a 
+prototype and instead formulate a terminological definition for it. In [11], legal terminology is 
+discussed. In cases such as traffic law or laws governing the designations on wine labels, 
+the aim of precise definitions is to influence behaviour and protect people who behave in the 
+desired way. In [12], scientific terminology is discussed, e.g. planet. Here the aim of a 
+precise definition is to classify naturally occurring events or objects as a basis for a scientific 
+theory. 
+Many of the problems with terminological definitions identified by [2] disappear when we 
+make a distinction between terms in the narrow sense and specialized vocabulary. For 
+specialized vocabulary it is difficult but also unnecessary to come up with a terminological 
+definition. Also in sciences, it is not the case that all terms are terms in the narrow sense. In 
+medicine, most of the terms designating instruments do not require a terminological 
+definition and should be considered specialized vocabulary. There is also a distinction 
+between the two types of motivation for terminological definitions. The definition of a legal 
+term creates a concept, whereas in science, finding the best definition of a term is often a 
+matter of empirically informed debate. That we actually have two different types of term, not 
+two types of domain, can be illustrated by considering terminology in chess. 
+3   The terminology of chess 
+The game of chess is governed by the Fédération internationale des échecs (FIDE). The 
+FIDE has adopted a set of rules for the game, the latest version of which, [13], was adopted 
+at the 25th FIDE Congress in Tallinn (2012) and came into force in 2014. Although the 
+regulations are not laws in the same way as [14], the way the terms are used is technically 
+68 
+the same. As is typical of a legal text, [13] focuses on the regulation of an aspect of the 
+outside world and uses terms in doing so. At the end of the document a glossary of terms is 
+given with references to the articles with relevant information. As an example, (1) gives the 
+relevant passages for chessboard. 
+(1) a. 
+The game of chess is played between two opponents who move their pieces on a 
+square board called a ‘chessboard’. […] (Art. 1.1) 
+ 
+b. 
+The chessboard is composed of an 8 x 8 grid of 64 squares alternately light (the 
+‘white’ squares) and dark (the ‘black’ squares). […] (Art. 2.1) 
+[13] does not contain a proper terminological definition of chessboard, which would start by 
+stating what a chessboard is and give necessary and sufficient conditions delimiting the 
+concept, but the information needed to formulate such a definition is contained in the two 
+statements in (1). 
+Not all terms in chess are of the legal type. An example of a different type of term is found in 
+the division of a typical game into opening, middlegame, and endgame. The division 
+between these phases reflects a different type of preparation. The opening starts from the 
+defined initial position. An experienced chess player has a repertoire of openings from which 
+to choose the first few moves. Usually, the opening is played quite fast. The middlegame 
+starts when the typical set openings come to an end. Now it is no longer the opening 
+knowledge, but the strategic and tactical insight of the players that determines the moves. 
+The transition to the endgame comes when there are only few pieces left on the board. In 
+most cases, it is known whether the position is winning for one of the players or a draw and 
+experienced players rarely play out an endgame in an actual match. 
+While opening, middlegame, and endgame are clearly terms, their meaning is rather of the 
+prototypical kind. There are clear cases in which we can decide whether we are looking at 
+an opening or a middlegame, but there are also cases where players may disagree with 
+each other. The rules of chess are the same in all three phases of the game, so that it does 
+not really matter if one player considers the position part of the opening, but his opponent 
+takes it to be already in the middlegame. The moves are the same, even though two players 
+may differ in their attribution of a particular position. Opening and middlegame are 
+specialized vocabulary. 
+There is a third type of term in chess, besides legal terms used in formulating the rules of 
+play and prototype-based specialized vocabulary used by players in their communication. 
+This type of term is used in what is called chess theory. Chess theory is concerned with the 
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+69 
+question of how good a particular move is. It treats this question as an empirical one, so that 
+a hypothesis about the answer can be verified by the facts. A famous example of an early 
+work in this genre is the Handbuch des Schachspiels [15], published in 1843 by Tassilo von 
+Heydebrand und der Lasa (1818-1899) after an idea by Rudolph von Bilguer (1815-1840). 
+One of the aims of this work is to classify openings and evaluate how good an opening is for 
+white and for black. A modern successor is Modern Chess Openings [16], now in its 15th 
+edition (2008). 
+In the study of chess openings of this type, the chances of winning for white and black in a 
+particular named opening, e.g. the French opening, are evaluated. The terminological 
+question this raises is how to delimit French opening. The choice of a name for such an 
+opening is not essential, as illustrated by the Encyclopedia of Chess Openings (ECO) [17], 
+which uses alphanumeric codes. What is crucial is which sequences of moves are combined 
+into the relevant concept. This is in part an empirical question, in the sense that the nature 
+of the ensuing game is determined by the opening. We want the name to refer to a set of 
+possible moves that lead to similar games, so that we can make sensible predictions about 
+the outcome. Terms for individual openings are therefore examples of scientific terms, as 
+they behave in a way similar to terms in empirical sciences. 
+Therefore, in the domain of chess we have three types of term. Legal terms, e.g. 
+chessboard, are used to formulate the rules of the game. Specialized vocabulary, e.g. 
+opening, is used to talk about the game in ways that require understanding, but no precise 
+delimitation. Names of individual openings can be used in the same way as terms in 
+empirical science to denote and delimit concepts for which empirical hypotheses are tested. 
+4   Greek chess terms 
+Against the background of these general considerations of chess terminology, we will now 
+discuss chess terms in Greek. In section 4.1, we will consider how names for the concepts 
+have been chosen in Greek. In section 4.2, we turn to the correlation between the types of 
+terminology identified in section 3 and the naming strategies discussed in section 4.1. 
+4.1   Naming strategies 
+Chess as we know it now has a long history in which it gradually developed. In the course of 
+this development, concepts were named in the language that was central or influential in 
+chess or its predecessors. These names often served as the basis for further naming 
+processes. In the late medieval period, the rules of chess were settled in a way that still 
+underlies current rules. At that time, the central focus was in Italy and Spain. Earlier sources 
+70 
+were in Persia and in the Arab world. In the 18th century, France was the undisputed centre 
+of chess, in particular thanks to François-André Danican Philidor (1726-1795). In the 19th 
+century, also England and Germany became important. Although Russia and the Soviet 
+Union dominated chess for much of the 20th century, by that time most terminology had 
+been established. 
+The Greek role in the history of chess has been quite limited. This is reflected in the naming 
+of terms, which generally takes the names in other languages as its starting point. The 
+naming strategies in Greek can be classified as in (2). 
+(2) a. 
+Fully translated terms 
+ 
+b. 
+Loanwords 
+ 
+c. 
+Partially translated terms 
+ 
+d. 
+Fully translated terms with a synonymous loanword 
+Let us consider each of the cases in (2) in turn. A good example of (2a) is βασιλιάς (‘king’). 
+Whereas this piece is generally named in corresponding ways in all languages, other pieces 
+have names that do not correspond so closely. Thus, Greek has αξιωματικός (‘military 
+officer’) for English bishop. French has fou (‘fool’) and German Läufer (‘runner’) for this 
+piece. In all cases, they refer to court officials. In the French court, the court jester was the 
+only person who could freely criticize the king, which made him one of the principal advisors. 
+In German courts, the Läufer was the messenger of the king. In Greek, αξιωματικός is a free 
+translation of such terms.  
+Loanwords as in (2b) come from various languages that played a role in the history of chess. 
+For example, the term σαχ (‘check’) comes from Persian word Šâh (Shah) indicating a title 
+given to emperors or kings in Persia. In general, loanwords have been phonetically adapted 
+to the Greek language, as indicated here by the change in initial consonant. In ματ (‘mate’), 
+we have a loanword from Arabic that did not have to be adapted phonologically. The most 
+common source language for borrowings in Greek is French. It is not always easy to identify 
+the language from which a term is borrowed, but for ροκέ (‘castling’), the French origin is 
+rather clear. The French term is roque, whereas English castling is not a candidate and 
+German Rochade is, with its two variant pronunciations of the -ch-, a clear borrowing itself. 
+Loanwords from English are less common. An example of a clear case is χάντικαπ 
+(‘handicap’). Here French expresses the converse, avantage (‘advantage’) and German 
+Vorgabe (lit. ‘gift in advance’) is a fully translated term. 
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+71 
+Whereas (2a) and (2b) can be seen as opposite strategies, the remaining two classes 
+combine them. In the case of (2c), we have a complex term, i.e. a derivation, compound or 
+multi-word term, of which a part is translated and a part borrowed without translation. An 
+example is αντιγκαμπί (‘countergambit’). The term gambit is originally French, but Italian has 
+gambetto and Spanish gambito. It refers to a move which sacrifices a piece (usually a pawn) 
+in the opening in return for a positional advantage. The other side can accept or reject the 
+sacrifice. A countergambit is a kind of rejection that sacrifices a piece (again, typically a 
+pawn) in return. In the Greek term, gambit is borrowed as καμπί, but counter- is translated 
+as αντι-. 
+An example with a multi-word term is τεχνητό ροκέ (‘artificial castling’). It refers to a series of 
+moves that together have the same effect as castling. It occurs, for example, when the right 
+to castle has been lost by a movement of the king. Here the borrowing ροκέ (‘castling’) is 
+modified by the translation of artificial. 
+An interesting example is κίνηση φορσέ (lit. ‘forced move’). Nowadays, both in English and 
+in French the common term for this concept is zugzwang, a clear borrowing from German. It 
+describes a situation where a player is forced to play a move, but any move will deteriorate 
+the position. The Greek expression is borrowed from the French coup forcé, where coup 
+(‘move’) has been translated, but forcé (‘forced’) only transliterated. 
+Whereas in (2c), the two techniques in (2a) and (2b) are applied to different components of 
+the term, in the case of (2d), we find two competing terms produced by (2a) and (2b). An 
+example is the use of ανπασάν and εν διελεύσει. The former is a borrowing from French en 
+passant (lit. ‘in passing’). The latter is a calque, translating the two French words literally. It 
+refers to a special way of capturing a pawn. A similar pair exists for j’adoube (lit. ‘I adjust’). 
+Normally, if a player touches a piece, this piece has to be played. When they say j’adoube 
+before touching the piece, this obligation is dropped. In Greek we find both the direct 
+loanword ζαντούμπ and the calque διορθώνω. 
+In sum, the concepts in chess have all been named in languages other than Greek. The 
+most common Greek naming strategies are translation of the word that motivated the name 
+and borrowing of the word with its form. In special cases, results of both strategies can exist 
+side by side or different strategies can be applied to different parts of the term. 
+4.2   Types of term and naming strategies 
+As chess is an international game, there is no reason to expect that the considerations in 
+section 3, which identified three types of terminology in chess do not apply to Greek. 
+72 
+Although the FIDE Secretariat is in Athens, this does not affect the position of the Greek 
+Chess Federation (Ελληνική Σκακιστική Ομοσπονδία, ΕΣΟ), founded in 1948. As all national 
+federations, ΕΣΟ organizes chess tournaments and national championships. They also 
+provide a Greek version of the rules of chess, which is a translation of the official English 
+version adopted by FIDE. 
+It is an interesting question to what extent the fact that the official rules are a translation from 
+English affects the naming strategy adopted for terms of the legal type. Where traditional 
+terms were established in Greek before the foundation of FIDE in 1924, there is no reason 
+to expect a strong influence. This is the case for the names of pieces. An example such as 
+αξιωματικός shows this most clearly. The English bishop was not borrowed or translated 
+because there was already a fully adequate term in place. Also the term ροκέ for castling 
+shows a limited influence of English. The term was borrowed from French at a time when 
+French rather than English was the dominant language. The fact that ροκέ was borrowed 
+whereas αξιωματικός uses a Greek form can be explained by the fact that the former is a 
+much more technical term than the latter. However, the use of both ανπασάν and εν 
+διελεύσει shows that this is no more than a general tendency. The underlying concept is 
+highly specialized and precisely delimited, but both the French expression and its translation 
+are in use. 
+When we turn to specialized vocabulary, for which no boundaries have to be established, 
+we can expect that the means of transmission are different. Instead of the formal regulation 
+by an international organization, the emergence of these terms is due to communication 
+about the game that may be very informal. In international communication, English is 
+currently used most frequently, but earlier French and German were more important. Terms 
+like άνοιγμα (‘opening’), μέσο παρτίδας (‘middlegame’) and τέλος παρτίδας or φινάλε 
+(‘endgame’) were probably introduced in Greek by players who had heard the concept being 
+talked about in another language. As these examples suggest, translation is a prominent 
+naming strategy here. 
+The category that is most difficult to determine is the terms of the scientific type. We can 
+easily determine whether a particular term needs to be defined as a term in the narrow 
+sense when this is motivated by its role in the rules of check. It is much more difficult to 
+determine whether any claims made about what is a good move or a good strategy require 
+such a precise terminological definition. The terms in question developed out of specialized 
+vocabulary and the question is whether their boundaries are important. 
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+73 
+As an example, consider σαχ με αποκάλυψη (lit. check with uncovering, ‘discovered check’). 
+It refers to a check that results from moving a piece away from the line between a check-
+giving piece and the enemy king. The most likely origin of the Greek term is French échec à 
+la découverte (lit. ‘check with the uncovering’). German has Abzugsschach (lit. ‘withdrawal 
+check’), which uses a different image. The Greek expression should be classified as a 
+translation (calque). Whether this is an item of specialized vocabulary or a term in the 
+narrow sense of the type used in empirical science depends on the theories it appears in. 
+We can say in general that terms of this type emerge first as specialized vocabulary and 
+only afterwards become terms of the scientific type. This process takes place when the 
+theory of chess develops and more powerful, explanatory accounts of what constitutes a 
+good move are proposed. When we want to establish how important σαχ με αποκάλυψη is 
+in determining the winner of a game, we may want to make more precise claims about the 
+conditions that need to be fulfilled for a position to count as σαχ με αποκάλυψη. 
+As mentioned above, an area of particular attention in theorizing is the opening. Opening 
+theory wants to establish which openings are good. The precise conditions to be included in 
+a particular opening have to be established. In [17], the naming problem is solved by using 
+alphanumeric codes. Instead of using English opening or αγγλικό άνοιγμα (‘English 
+opening’), which leaves open a range of questions as to which positions and sequences of 
+moves are included, [17] assigns A10 to A39 to all openings that start with c2-c4, the 
+characteristic first move of the English opening. 
+5   Conclusion 
+We showed in this paper that there are three types of terminology. We distinguish 
+specialized vocabulary from terms in the narrow sense and within the latter we distinguish 
+legal and scientific terminology. In a field like chess, we find all three types. The study of 
+Greek chess terminology showed that specialized vocabulary is at the basis of most if not all 
+terms. For legal terminology, a conscious decision to impose a regulation determines the 
+transition from specialized vocabulary to terms in the narrow sense. Scientific terminology is 
+much more elusive. In Greek, chess terminology is borrowed or translated. It is also possible 
+to combine the processes for a single expression and in some cases the two strategies are 
+in competition. There is no obvious correlation between the choice of naming strategy and 
+the type of term. A more detailed historical study would be needed to determine any 
+regularities in this respect. However, the fact that most if not all terms originate in 
+specialized vocabulary suggests that no general rules can be formulated for the correlation 
+between terminological type and naming strategy. 
+74 
+ 
+References 
+[1] 
+Wüster  Eugen, Einführung in die allgemeine Terminologielehre und terminologische 
+Lexikographie, Bonn: Romanistischer Verlag, 1991.  
+[2] 
+Temmerman Rita, Towards New Ways of Terminology Description: The Sociocognitive 
+Approach, Amsterdam: Benjamins, 2000.  
+[3] 
+ten Hacken Pius, ‘Prototypes and Discreteness in Terminology’, Bernal  Elisenda  &  
+DeCesaris  Janet  (eds.), Proceedings of the XIII Euralex International Congress, 2008, 
+IULA-UPF, Barcelona, pp. 979-987. 
+[4] 
+Ten Hacken Pius, ‘Terms and Specialized Vocabulary: Taming the Prototypes’, 
+Kockaert Hendrik J. & Steurs Frieda (eds.), Handbook of Terminology, 2015, Volume 
+1, Amsterdam: Benjamins, pp. 3-13. 
+[5] 
+Bensaude-Vincent Bernadette & Stengers Isabelle, Histoire de la chimie, Paris: La 
+Découverte, 1995. 
+[6] 
+Crosland Maurice, The Language of Science: From the Vernacular to the Technical, 
+Cambridge: Lutterworth. 2006.  
+[7] 
+Wüster Eugen, Internationale Sprachnormung in der Technik, besonders in der 
+Elektrotechnik. Die nationale Sprachnormung und ihre Verallgemeinerung, Berlin: VDJ-
+Verlag, 1931. 
+[8] 
+Labov William, ‘The Boundaries of Words and Their Meanings’, Bailey  C.-J. N.  & 
+Shuy R.W. (eds.), New Ways of Analyzing Variation in English, 1973, Washington DC:  
+Georgetown University Press, pp. 340-373. 
+[9] 
+Rosch Eleanor, (1978), ‘Principles of Categorization’, Rosch Barbara & Lloyd Eleanor 
+(eds.), Cognition and categorization, 1978, Hillsdale, NJ: Lawrence Erlbaum, pp. 27-
+48. 
+[10] Arntz 
+Reiner, 
+Picht 
+Heribert 
+& 
+Schmitz 
+Klaus-Dirk, 
+Einführung 
+in 
+die 
+Terminologiearbeit, 7. Auflage, Hildesheim: Olms. 2014.  
+[11] Ten Hacken Pius, ‘Creating Legal Terms: A Linguistic Perspective’, International 
+Journal for the Semiotics of the Law 2010, 23, pp. 407-425. 
+[12] Ten Hacken Pius, ‘The Tension between Definition and Reality in Terminology’, 
+Dykstra  Anne  &  Schoonheim  Tanneke  (eds.), Proceedings  of  the  XIV  Euralex  
+International  Congress,  2010, Ljouwert: Fryske Akademy / Afuk, pp. 915-927 . 
+[13] World Chess Federation, Laws of chess: for competitions starting on or after 1 July 
+2014. FIDE, 2012. (http://www.fide.com/component/handbook/?id=171&view=article).  
+[14] Ανδρουλάκης 
+Νικόλας, 
+Δαλακούρας 
+Θεοχάρης, 
+Γιαννίδης 
+Ιωάννης 
+& 
+Αναγνωστόπουλος Ηλίας. Κώδικας Ποινικής Δικονομίας. Νομολογία κατ΄άρθρον. 
+Αθήνα: Δίκαιο & Οικονομία – Π.Ν. Σάκκουλας, 2015.  
+ΕΛΕΤΟ – 10ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 12–14 Νοεμβρίου 2015 
+ 
+75 
+[15] Von Heydebrand und der Lasa Tassilo, Handbuch des Schachspiels, Berlin: Verlag 
+von Veit & Comp, 1843.  
+[16] De Firmian Nick, Modern Chess Openings, 15th edition, USA: Random House, 2008. 
+[17] Encyclopedia of Chess Openings, Matanović Aleksandar (ed.), ECO code.   
+ 
+Prof. Dr. Pius ten Hacken, Dr. Maria Koliopoulou 
+Institut für Translationswissenschaft,  
+Leopold-Franzens-Universität Innsbruck 
+Herzog-Siegmund-Ufer 15 
+6020 Innsbruck, Austria 
+ 
+English-Greek glossary 
+English term 
+Greek term
+bishop 
+αξιωματικός 
+castling 
+ροκέ 
+check 
+σαχ 
+chessboard 
+σκακιέρα 
+endgame 
+τέλος παρτίδας, φινάλε 
+french opening 
+γαλλικό άνοιγμα, γαλλική άμυνα 
+Greek Chess Federation 
+Ελληνική Σκακιστική Ομοσπονδία (ΕΣΟ) 
+handicap 
+χάντικαπ 
+in passing 
+εν διελεύσει (αν πασσάν) 
+king 
+βασιλιάς 
+legal term 
+νομικός όρος 
+mate 
+ματ 
+middlegame 
+μέσο παρτίδας 
+opening 
+άνοιγμα 
+scientific term 
+επιστημονικός όρος 
+specialized vocabulary 
+ειδικό λεξιλόγιο 
+term in the narrow sense 
+όρος υπό τη στενή έννοια 
+World Chess Federation 
+(Fédération Internationale Des 
+Échecs, FIDE) 
+Παγκόσμια Ομοσπονδία Σκακιού 
+ 
+ 
+ 

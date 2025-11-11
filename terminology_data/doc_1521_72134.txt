@@ -1,0 +1,24 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/Papers-and-speakers/12th_18-02-20_Konstantinos_Skianis_cv_V02.pdf
+
+ELETO – 12th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2019 
+ 
+ 
+Konstantinos Skianis 
+Athens University of Economics and Business,  
+Department of Informatics  
+E-mail: rob.cs.aueb@gmail.com  
+ 
+Curriculum vitae 
+Konstantinos Skian is currently a Postdoctoral Researcher at DaSciM, Ecole 
+Polytechnique, Paris, where he also completed his Ph.D. thesis, supervised by 
+Professors Michalis Vazirgiannis and Guillaume Wisniewski.  
+His main interests focus on Natural Language Processing, Machine Learning and 
+Data Science in general. More specifically he has worked in novel representations, 
+regularization & distances for text classification.  
+During his Ph.D. years, he has published and submitted high level papers in the most 
+competitive conferences and worskhops in the areas of machine learning and natural 
+language processing, like EMNLP, NAACL and NeurIPS.  
+He has also participated in industrial projects with numerous companies and 
+institutions, like AIRBUS, Paris School of Economics, ASIP Sante, INSERM and 
+others. 

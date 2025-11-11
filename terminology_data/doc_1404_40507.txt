@@ -1,0 +1,238 @@
+SOURCE: http://www.eleto.gr/download/TermBases/MOTO_History-EN.pdf
+
+ 
+ 
+ΜΟΤΟ: 
+former Group of OTE &  
+Working Group of ΤΕ-Τ 
+Collective Member of ELETO  
+ 
+Chairman: K. Valeontis, valeonti@otenet.gr 
+ 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+August 2022 
+ 
+Permanent Group for Telecommunication Terminology (MOTO) 
+1 
+MOTO’s establishment 
+MOTO was founded in 1989 by the Hellenic Telecommunications Organization (OTE) to cover the need for 
+representing the new telecommunication concepts by Greek terms for use both by OTE’s staff and services 
+and by the Greek Translation Services of the European Union, as well as by any other person concerned 
+within the telecommunications sector. MOTO started its work (first meeting) at OTE’s Telecommunications 
+Development Centre (KTILA), on 4 December 1989. 
+According to the Founding Decision, the general lines of MOTO’s tasks are: 
+- 
+concentrating, evaluating and definitizing the Greek telecommunications terms already used, by utilizing 
+all available sources, 
+- 
+Hellenizing, acording to the Terminology principles, the terms already used in their foreign forms, 
+- 
+immediately considering the new imported foreign terms, producing their Greek equivalents, and widely 
+disseminating the latter and 
+- 
+continually compiling and updating a “Dynamic Dictionary of Telecommunication Terms”, and at times 
+(e.g. every other year) publishing «snapshots» of this dictionary 
+Almost immediately (March 1990), MOTO became part of the national system of the Hellenic 
+Telecommunications Standardization, in which a central role was played by the Technical Committee 
+«Telecommunications» (TE-T), according to the «OTE-ELOT Memorandum of Understanding for the 
+standardization in the telecommunications sector», which was countersigned by both the Minister of 
+Transport & Communications and the Minister of Development. Eversince, MOTO has been the most active 
+working group of the sixteen active working goups of TE-T’s (see figure 1). 
+ 
+ 
+Figure 1 – Bodies of Greek telecommunications standardization and participating organizations  
+(MOTO as a national standardization and terminology Group) 
+ΟΤΕ 
+ΥΠΑΝ 
+ΥΠΜΕ 
+ΥΕΝ 
+ΕΛΟΤ 
+ΤΕ-Τ 
+ΤΕΕ 
+ΒΕΑ 
+ΣΕΒ 
+ΠΕΧΥ 
+ΚΕΤΕΣ 
+ΑΕΙ  
+(ΕΚΠΑ, ΕΜΠ) 
+  OBSERVERS: 
+ΕΡΤ 
+ΙΝΤΡΑΚΟΜ 
+ΜΑΡΑΚ 
+ΠΑΝΑΦΟΝ 
+ΕΠΥ 
+ΕΕΤΤ 
+MOTO 
+W orki ng Groups  
+  Ε  Λ   Ο  Τ    Ε    
+Μ 
+Ο 
+Τ 
+Ο 
+ 
+2
+ 
+Acronyms and full forms in Figure 1 
+ΤΕ-Τ: 
+Technical Committee «Telecommunications» 
+ΥΠΑΝ: 
+Ministry of Development 
+ΥΠΜΕ: 
+Ministry of Transport & Communications 
+ΥΕΝ: 
+Ministry of Merchant Marine 
+ΕΛΟΤ: 
+Hellenic Organization for Standardization 
+ΟΤΕ: 
+Hellenic Telecommunications Organization 
+ΣΕΒ: 
+Hellenic Industries Association 
+ΒΕΑ: 
+Chamber of arts and crafts 
+ΤΕΕ: 
+Technical Chamber of Greece 
+ΠΕΧΥ: 
+Panhellenic Association of Computer Users 
+ΚΕΤΕΣ 
+Technological Research Centre of the Army 
+ΑΕΙ: 
+Institutions of Higher Education 
+ΠΑ: 
+University of Athens 
+ΕΜΠ: 
+National Technical University of Athens 
+ΕΡΤ: 
+Hellenic Radio and TV Broadcasting (Observer).) 
+ΕΠΥ: 
+Computer Scientists’ Association (Observer) 
+ΕΕΤΤ: 
+National Commission for Telecommunications and Post 
+(Observer) 
+ΙΝΤΡΑΚΟΜ, ΜΑΡΑΚ, ΠΑΝΑΦΟΝ: Companies (Observers) 
+ΜΟΤΟ: 
+Permanent Group for Telecommunications 
+Terminology 
+ 
+2 
+MOTO’s members 
+The members of MOTO, during its most productive period, were: 
+Kostas Valeontis, 
+physicist, electronics and radio scientist, telecom engineer (founding member), 
+Chairman of MOTO  
+Nikos Apostolakis, 
+physicist, electronics and radio scientist, telecom engineer, OTE 
+Theofilos Vamvakos, 
+mechanical-electrical engineer, telecom engineer, OTE 
+Spyros Voulodimos, 
+mechanical-electrical engineer, telecom engineer, OTE (founding member) 
+Katerina Zeriti, 
+philologist, translator, MSc in Terminology, ΟΤΕ International 
+Michalis Karamichalis, 
+mechanical-electrical engineer, telecom engineer 
+Nikos Konstantakakis, 
+Industrial psychologist, OTE (founding member) 
+Charalampos 
+Mousouros, 
+electrical-electronic engineer (ΥΠΑΝ) 
+Anna Nikolaki 
+philologist, translator, ΟΤΕ. 
+Dimitris Synodinos, 
+physicist, electronics and radio scientist, telecom engineer, OTE (founding 
+member) 
+Georgios Tsiamas, 
+mechanical-electrical engineer, telecom engineer, OTE (founding member) 
+ 
+ 
+ 
+3
+3 
+MOTO’s products 
+MOTO’s products can be divided into ordinary programme products and extraordinary programme 
+products (see figure 2). The former comprise publications with telecommunication terms and definitions 
+(ELOT standards or other documents) and Vocabularies of telecommunication terms, while the latter 
+comprise a Quadrilingual Dictionary of telecommunication terms and a number of term collections for the EU 
+Terminology Bank Eurodicautom (today: IATE) under ELETO. All terms produced have been imported into 
+the termbase TELETERM. 
+ 
+ 
+ 
+Figure 2 – MOTO’s products 
+ 
+ 
+Database of  
+telecommunications terms 
+TELETERM 
+(OTE-ELETO) 
+Documents with terms 
+and definitions 
+Individual Vocabularies 
+of terms  
+Eurodicautom 
+term collections  
+Quadrilingual 
+Dictionary, 
+Glossaries 
+Hellenic 
+standards 
+Other 
+documents 
+published 
+by ELOT 
+published 
+by OTE 
+published 
+by ELETO 
+ΜΟΤΟ’S 
+PRODUCTS 
+Ordinary programme 
+products 
+Extraordinary programme 
+products 
+ 
+Products derived from the 
+Termbase 
+Consolidated Vocabulary 
+of telecommunications 
+terms (ELTO) 
+General and special 
+telecommunications 
+Terminology 
+Consolidated Vocabulary of 
+Initialisms, Acronyms and 
+other Abbreviations 
+(SLAAS) 
+published 
+by OTE 
+published 
+by OTE 
+published 
+by OTE 
+ 
+4
+MOTO, during its long life operation, 
+1. prepared 15 standards of telecommunications terminology, equivalent to corresponding standards of the 
+International Telecommunication Union (ITU), 
+2. validated the glossaries of 774 Hellenic Telecommunication Standards equivalent to corresponding 
+European Standards of the European Telecommunications Standards Institute (ETSI), published by 
+ELOT, 
+3. prepared 4 editions of the Consolidated Vocabulary of telecommunications terms (1990–1995, last 
+edition contained: 7.638 terminological entries), 
+4. prepared 2 editions of the Consolidated Vocabulary of Initialisms, Acronyms and other Abbreviations in 
+Telecommunications, 2nd edition 2001: 7.000 entries, 
+5. continued with 10 editions of the General and Special Telecommunications terminology (1996–2001, last 
+edition contained: 62.000 terminological entries), 
+6. since 2003, instead of printed editions, has been offering on the Internet the termbase TELETERM (today 
+containing: 129.625  terminological entries), whose access is free via ELETO’s website, 
+7. prepared the Greek equivalent terms of four term collections of the termbank Eurodicautom (today IATE), 
+8. as a collective member of ELETO, prepared the Greek terms of the “Quadrilingual Dictionary of 
+Telecommunication Terminology – English, German, French, Greek”, J. P. Rehahn & ELETO, Glossima 
+editions, 1995 (about 17.000 λήμματα) and  
+9. has realized 1.277 meetings. 
+ 
+ 
+ 

@@ -1,0 +1,188 @@
+SOURCE: http://www.eleto.gr/download/Conferences/10th%20Conference/10thConference-PaperEditingInstructions-EN.pdf
+
+ 
+1
+ΕΛΕΤΟ 
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+HELLENIC SOCIETY FOR TERMINOLOGY 
+ 
+10th Conference “Hellenic Language and Terminology” 
+12-14 November 2015, Athens GREECE 
+Info: Tel. 6974321009, E-mail: valeonti@otenet.gr 
+ 
+ 
+INSTRUCTIONS FOR EDITING AND PRESENTING THE PAPER 
+ 
+A. Editing 
+ 
+1 
+The paper should be no more than 10 pages and no less than 8 pages long; it should 
+be edited in MS WORD .doc format (compatible with MS Office 2000), in one of the 
+two languages (Greek or English) of the Conference and it should be sent by e-mail to 
+valeonti@otenet.gr not later than 20 July 2015. 
+ 
+2 
+The font to be used is ARIAL 11 for the paper title, ARIAL 10 for the chapter titles, 
+ARIAL 8 for the abstracts και ARIAL 9 for the remaining text, with a spacing of 0 points 
+before and a spacing of 6 points after each paragraph, while the line spacing will be 
+1,5. 
+ 
+3 
+The whole text will be typed in normal template. Footnotes can be used, but not 
+endnotes. 
+ 
+4 
+Page setup will be as follows: 
+ 
+Paper size: 
+Α4 
+Orientation: 
+  Portrait 
+ 
+Margins 
+ 
+ 
+ 
+cm 
+top 
+ 
+2 
+bottom 
+ 
+8,5 
+bottom 
+ 
+2 
+right 
+ 
+6 
+gutter 
+ 
+0 
+header 
+ 
+1 
+footer 
+ 
+1 
+ 
+5 
+The first page should contain: 
+ 
+a) the paper title in small letters (bold), centre aligned 
+b) the name(s) of the author(s) in small letters (bold), centre aligned under the paper 
+title, and separated by commas (no title or profession mentioned) 
+c) the word ΠΕΡΙΛΗΨΗ/ABSTRACT in the language of the paper (Greek or English) 
+d) the abstract text in the language of the paper (Greek or English) 
+e) repetition of the above points a), b), c) and d) in the other official language of the 
+Conference.  
+ 
+E
+Λ  
+Ε  Τ Ο 
+L 
+E
+ 
+2
+6 
+In case that the language of the paper and of the first abstract is English, and the 
+author, or one of the authors, speaks Greek, the second abstract shall be in Greek, 
+and approximately 2 pages long; also, a short English-Greek glossary should be 
+added at the end as an Annex, containing the basic special terms of the paper. In case 
+of difficulties with the equivalent Greek terms needed, the author is encouraged to 
+contact ELETO for help. 
+(Note that neither the abstracts nor the glossary count in the 8-10 pages required for 
+the paper.) 
+ 
+7 
+The paper body should begin four spaces after the end of the second abstract or from 
+a new page (2nd page).  
+ 
+Section or paragraph headings should be in small letters (bold) and in normal 
+template (not formatted as headings). 
+ 
+8 
+Page numbering (temporary) should be placed at the right top of the header on each 
+page. 
+ 
+9 
+Section or paragraph numbering should follow the decimal system (if there exists an 
+introduction it is given the digit 0), with the respective headings being left aligned. 
+ 
+10 
+The transcription of Greek names (conversion of Greek characters to the Latin 
+alphabet) should be conformant to the Greek Standard ELOT 743 (equivalent to the 
+International Standard ISO 843). 
+ 
+11 
+Bibliographic references should use numbers in brackets [ ], while bibliography, as a 
+numbered list, should feature at the end of the paper and contain the following 
+information: author’s name and surname, book title or article title, publisher or journal 
+title, year of publication, page or issue number, total number of pages. 
+ 
+12 
+At the end of the paper, the following information about the author(s) should be 
+indicated: name and surname, title or profession, and postal address. 
+ 
+13 
+In case that the text contains special fonts (special characters, symbols etc.) it should 
+be saved (through WORD) with fonts embedded, by selecting: Word Options – Save – 
+Embed fonts in the file. 
+ 
+B. Presentation 
+14 
+The Conference will be supported by simultaneous translation between the languages 
+English Ù Greek. 
+15 
+The presentation material of a paper (slides, tables, diagrams etc.) may be written in 
+any of the two languages of the Conference, and in large size characters so they be 
+easily read by the conferees. 
+16 
+In case that the language of the text of a paper is English, while the speaker, or one of 
+the speakers, speaks Greek, his/her oral presentation should be in Greek (yet, no 
+translation of the text or of the presentation material is required). 
+ 
+C. Curriculum vitae 
+17 
+The paper should be accompanied by a short CV of each of the authors, in Greek 
+and/or in English, not exceeding 200 words. 
+ 
+ 
+3
+Προβλήματα πρόσληψης της ορολογίας και θεωρίας στη μέση 
+εκπαίδευση 
+    
+Καλλιόπη Πολυμέρου 
+ΠΕΡΙΛΗΨΗ 
+Η περίοδος της λυκειακής εκπαίδευσης είναι η κατάλληλη εποχή για να εισαχθούν οι μαθητές σε 
+ζητήματα θεωρίας και ορολογίας. Η εμπειρική διαπίστωση ότι οι μαθητές δυσκολεύονται να 
+χρησιμοποιούν και να αποκωδικοποιούν λόγο που περιέχει ορολογία φαίνεται να συνδέεται με ζητήματα 
+γλωσσικά και συγκεκριμένα με τον τρόπο με τον οποίο εφαρμόζεται η γλωσσική διδασκαλία στην μέση 
+ιδιαίτερα εκπαίδευση. Τα ζητήματα της γλώσσας και της διδασκαλίας της στη χώρα μας  αποτέλεσαν 
+συχνά θέματα επιστημονικών αλλά και λαϊκών συζητήσεων και αντεγκλήσεων με μόνιμο ζητούμενο το 
+κατά πόσον αυτή η πλούσια πολιτιστική κληρονομιά θα μας βοηθήσει να κερδίσουμε ένα πλούσιο 
+γλωσσικό όργανο. Παράλληλα, η εισβολή της εικόνας και η ραγδαία ανάπτυξη της εισαγόμενης 
+τεχνολογίας έχουν περιαγάγει την ορολογία σε δυνάστη, με αποτέλεσμα όλο και περισσότεροι να 
+συμβιβάζονται με αμετάφραστους και αγοραίους όρους.  
+Problems of understanding terminology and theory in secondary 
+education 
+    
+Kalliopi Polymerou 
+ABSTRACT 
+The period of upper secondary education is the right time to introduce students to issues of theory and 
+terminology. The empirical conclusion that students find it difficult to use and decode speech that 
+contains terminology, seems to be connected with language matters and specifically with the way 
+language teaching is applied in secondary education. The issues of language and language teaching in 
+our country were often matters of both scientific and popular debates and recriminations in a permanent 
+challenge whether this rich cultural heritage will help us gain a rich language. At the same time the 
+invasion of picture and the rapid growth of imported technology have made terminology seem like an 
+oppressor. The result is more and more students being content with untranslated terms as well as  
+terms imposed by the market.    
+ 
+ 
+0. Εισαγωγή 
+Η παρούσα εργασία είναι προϊόν διδακτικής εμπειρίας, ιδιαίτερα από τον χώρο της δημόσιας 
+μέσης εκπαίδευσης, η οποία άλλωστε και αποτελεί κατά την άποψή μου για διάφορους 
+λόγους το ‘κομβικότερο’ σημείο του εκπαιδευτικού μας συστήματος, και  ιδιαίτερα το τμήμα 
+εκείνο που αφορά στη λυκειακή εκπαίδευση (γενική και τεχνική). . . . . . . . . . . . . . . . . . . . . . . 
+An example of 1st page  

@@ -1,0 +1,277 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_32-31-RoukensJanPaper_V03.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+1
+32   Towards a linguistic world order 
+ 
+Jan Roukens 
+ABSTRACT 
+The unexpected effect of globalisation is an increased general interest for language diversity, both in 
+Europe and worldwide. In the EU, multilingualism has become a political priority, languages are 
+important. Nonetheless, continuing advance of English in daily life is observed in practice, even in the 
+EU. Living with many languages in a continental organisation such as the EU, or in a wider global 
+setting, is not obvious. Politicians and ‘citizens’ who are accustomed to live within a state with one 
+national language must adapt, psychologically and in practice. The world must find solutions for this 
+problem or challenge. There is a need for a new linguistic world order, with new ‘rules of the game’. In 
+November 2006
+1, during the EAFT Summit, some first ideas about this order were launched. This 
+presentation is a continuation and elaboration of these initial ideas. 
+ 
+Προς μία γλωσσική παγκόσμια τάξη 
+ 
+Jan Roukens 
+ΠΕΡΙΛΗΨΗ 
+Η απροσδόκητη επίπτωση της παγκοσμιοποίησης είναι ένα αυξανόμενο γενικό ενδιαφέρον για την 
+γλωσσική διαφορετικότητα, τόσο στην Ευρώπη όσο και παγκοσμίως. Στην ΕΕ, η πολυγλωσσία έχει γίνει 
+πολιτική προτεραιότητα, οι γλώσσες είναι σημαντικές. Εν τούτοις, στην πράξη παρατηρείται συνεχής 
+προώθηση της αγγλικής στην καθημερινή ζωή, ακόμη και στην ΕΕ. Το να ζει κανείς με πολλές γλώσσες 
+σε έναν ηπειρωτικό οργανισμό όπως είναι η ΕΕ, ή σε έναν ευρύτερο παγκόσμιο περίγυρο, δεν είναι κάτι 
+προφανές. Οι πολιτικοί και οι «πολίτες» που είναι συνηθισμένοι να ζουν μέσα σε ένα κράτος με μία 
+εθνική γλώσσα πρέπει να προσαρμοστούν, ψυχολογικά και πρακτικά. Για τούτο το πρόβλημα ή τούτη 
+την πρόκληση ο κόσμος πρέπει να βρει λύσεις. Υπάρχει ανάγκη για μια νέα γλωσσική παγκόσμια τάξη, 
+με νέους «κανόνες του παιχνιδιού». Το Νοέμβριο του 2006, κατά τη διάρκεια της Συνόδου Κορυφής της 
+EAFT, πρωτοδιατυπώθηκαν κάποιες πρώτες ιδέες γι’ αυτήν την τάξη. Τούτη η παρουσίαση αποτελεί 
+συνέχεια και επεξεργασία αυτών των αρχικών ιδεών. 
+ 
+                                                          
+1  
+Towards a Linguistic World Order; European Association for Terminology (EAFT) Summit, 13 
+November 2006, Brussels 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+2
+ 
+0   Introduction 
+Whereas languages die at a rate of one every two weeks, other languages are used to 
+exercise political and economic power. Language diversity is the term used to say that there 
+are about 6000 languages spoken globally, but there is no term referring to the immense 
+differences in the positioning of these languages in our global society. 900 million people 
+speak Mandarin, in China, and, randomly chosen, 10 speak Khakas in the same country.  
+Yes, all languages are equal, but at both ends of the sociolinguistic scale some are very 
+unequal. The effect of globalisation is that in many domains inequalities are on the rise: in 
+politics, in the macro-economy and in the personal economy, in the media. And in linguistics: 
+what was unequal in the first place becomes more unequal.  
+This paper deals with this issue. It assumes that most people share the view that a museum 
+of dead languages is much less interesting than the global museum of living languages that 
+can be enjoyed today. But if languages and the people who speak them are subject to the 
+laisser-faire way of life, that is, left at the merci of the stronger forces in their environment, 
+then many of them have no chance to escape the museum of the dead. What is needed? A 
+general ethical attitude such as is behind the human rights issue, a model that indicates how 
+languages and the people who speak them can live together in a wider setting, and political 
+action to enforce measures that are needed, educational, economical and legal. 
+1   The knowledge of words leads to the knowledge of things  
+(Plato, Theaetetus)  
+It is appropriate to start this paper with a citation of one of the most lucid writers the world 
+has known, who lived 2400 years ago but has not lost compactness, focus and clarity of 
+expression. In a superb way, he synthesised the worlds of knowledge and of words by going 
+back to their origins. Probably in his time, as in ours, the world of words had in many 
+instances been dissociated from the world of facts, and he felt pleasure in showing his 
+students that behind the words they believed in, were other words and yet other words that 
+could be pulled away like curtains for a screenplay. The ultimate pleasure for him and 
+probably his students if they did not drown in bitterness was to arrive at the point where both 
+parties agreed about a presentation they considered the truth. 
+The Platonian phrase comes close to a foundation of terminology, if it wasn’t limited to 
+words of what we call a language. Our knowledge of things is not necessarily conveyed to 
+us, or by us, by means of language. Many more systems exist and are actually exploited to 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+3
+communicate knowledge of things, such as sounds, imagery of several kind, physical 
+objects such as smoke may serve communication, electrical and radio and light signals and 
+the representations in computers, symbolically represented by zeros and ones. Even if all 
+these systems and languages live next to each other quite autonomously, they are intimately 
+linked by referring to the same universe of knowledge (of things), sometimes referred to as 
+world knowledge. If one is allowed to use the word ‘synonym’ for different representations of 
+the same meaning in this many-dimensional representation space, there is certainly a 
+wealth of synonyms and quasi-synonyms among the many ‘terms’ defined in this space. 
+Some of synonyms apply to the many languages in this space, but they may also apply to 
+terms defined in a language on the one hand and a computer or any other representation on 
+the other hand. 
+The characteristics of the space of representation systems are important for the 
+identification of synonyms and other relations between the various terms, and for the need 
+to identify the ‘strengths and weaknesses’ of the collection of systems2 to represent the 
+knowledge we want them to represent. This issue is the subject of further research and will 
+not be elaborated in this paper. However, it has some relevance for the issue raised in this 
+paper: the living together of many languages. Because it suggests an abstract space in 
+which all languages ‘live’ together on an equal footing, and that the basic issues of concern 
+are the provision of links between (the terms in) these languages and the very fundamental 
+question whether these languages on their own or together are capable of representing the 
+knowledge we want them to represent. And ultimately, if languages do not suffice, other 
+systems may help. 
+2   The need for a linguistic world order 
+Even if there are more terms than there are in terms in language, the latter are an 
+increasingly important constituent of language. They are the most dynamic component of 
+our languages and far outnumber general lexemes. That is, in languages that are spoken by 
+economically and scientifically developed communities such as those in Europe, but 
+probably in less scientifically developed communities as well. The reverse is also true: if 
+terms in a particular language do not develop at a pace commensurate with knowledge 
+development, that language does not develop as it should and loses ground in being 
+capable of expressing concepts in a modern society. As a consequence, parents may not 
+                                                          
+2  
+The collection of systems might be identified as U(niversal)-Language or Σ-Language 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+4
+choose such a language for the education of their children, thus contributing to the further 
+decline of their language. 
+This is the main challenge for most language communities in today’s international 
+environment: to ensure that their languages and in particular their linguistic terms are 
+continuously adapted to the changing requirements and the pressures of other languages 
+and language communities. The situation is complex. It might be expected that every 
+language community, of which there are about 6000 worldwide, will promote its language to 
+the utmost. Language, after all, is a persons’ mental skin that allows being part of a 
+community of human beings.  
+But the assumption is not always true, some people are prepared to moult and exchange 
+skins. The pressures not to maintain a language and particularly its usage may be 
+endogenous and/or exogenous, they may be confined to particular societal sectors or layers 
+or be of a more general nature. Maintaining a language under pressure is partly an 
+economical issue. Is the expenditure for maintenance of the scientific vocabulary of a 
+language justified? Are the costs of learning more languages justified; is it not cheaper and 
+more effective to learn just that one language, English for example? The answers to such 
+questions are often linked to the size of a language community: the larger the community 
+that shares a language, the lower the ‘cost’ per individual.  
+A concrete example of both exogenous and endogenous pressures on a language is what 
+happens in the science and higher education domains these days, in particular but not 
+exclusively in Northern Europe. The changes have taken place in only a few decades and 
+frighten those concerned with their languages and societies. It can be argued and even 
+justified by historical evidence, that the language used by the intellectual classes will 
+gradually drip down into the whole society after an intermediate period during which 
+language difference served the demarcation between ‘upper and lower’. Fact is that, 
+whereas since four centuries higher education in the people’s language emerged from the 
+long period during which such education was confined to the happy very few that had 
+acquired a sufficient knowledge of Latin, many universities in Europe now oblige their 
+students to follow an increasing part of their science studies in English, use American and 
+English study material exclusively and be examined using English. Some universities even 
+press their students to speak English on their campuses, as a sign of their international 
+orientation and to please foreign students. The pressures behind this (r)evolution are largely 
+endogenous, but they are in response to general exogenous pressures or rather seductive 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+5
+forces associated with 20th century American advances in science, the economy and 
+political influence. There is no difference between Australian aboriginals sending their 
+children to a white boarding school and Dutch parents sending them to the English-speaking 
+university.  
+A second example of both endogenous and exogenous pressures concerns the situation in 
+Africa south of the Sahara, a continent that unlike North America and Australia has been 
+able to retain many viable original languages, up to now. A closer look reveals that the 
+majority of these African countries which were colonised until about half a century ago, with 
+the formal exception of Liberia, have adopted the language of the former coloniser as the 
+official language of the country. Generally, the official languages are the language of law, 
+government, higher levels of education, the elites and big business. The majority of the 
+people does not speak or even understand the official language, and is definitely not able to 
+read or write it. Some statistics: of all 40 sub-Saharan African countries, Africa, 36 adopted a 
+European language (French, English, Portuguese), 3 Arabic and 12 an indigenous language 
+as one of their official languages. South Africa with 11 official languages is an exception and 
+not included in the statistic [2].  External and internal political pressures to freeze the 
+situation are enormous, for a variety of reasons. That the African languages are victimised, 
+and democratic and even economic development as well, seems of lesser importance. The 
+continued efforts of UNESCO and some African politicians may seem to be largely symbolic, 
+they keep the ashes glowing [1]. 
+3   The language framework of the European Union 
+Improving the situation for languages under pressure requires continued efforts. 
+Because of the urgency of the problems in some world regions, significant steps 
+forward on the medium term are indicated. The processes to achieve results are 
+political and multilateral. A global organisation, probably UNESCO that already 
+adopted the International Convention on the protection and promotion of the 
+diversity of cultural expressions [3], may carry such a political process forward. The 
+Charter for regional and minority languages [4] of the Council of Europe. has 
+political weight and serves as another inspiring example.  
+The unique and simple language framework of the European Union might be 
+‘exported’ and serve as a basis for orientation and regulations on the global scale. 
+The moral foundation of the EU is taken up in the preamble of the EU Treaties. The 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+6
+representatives of the member states declare to sign the document “desiring to 
+deepen the solidarity between their peoples while respecting their history, their culture and 
+their traditions”. In other words: every nation is considered unique and has rights that do not 
+differ from those of another nation. This principle remained valid after the EU expanded to 
+embrace 27 states. And on ‘culture’, the language regime now embraces 23 ‘official’ EU 
+languages and a large number of regional and minority languages. EU laws and regulations 
+are available in all 23 official languages, all language versions being equally valid. Another 
+principle of great importance is that the EU institutions communicate with citizens in the 
+language chosen by the citizen – even though the choice is limited to the official languages.  
+Execution of the external multilingual policy of the EU could still improve, in particular with 
+respect to communication with citizens via EU websites.  
+Whereas the EU had shown to be concerned about its communication with citizens and 
+organisations in the member states, not earlier than 1996 an initiative was launched 
+recognising that the EU has a role in promoting language communication among the citizens 
+of Europe [5]. This MLIS programme was concerned with the general support for  
+multilingualism in Europe, but its main focus was on the preparation of the electronic 
+networks and media to accommodate all the languages of Europe, and to facilitate inter-
+lingual communication over the networks. Promotion of terminology and other language 
+resources ‘at the fingertips’ was one action line of the programme. In 2004, multilingualism 
+was included in the portfolio of the European Commission as a distinct policy line.  The EU 
+has taken some responsibility for ‘living together linguistically’, whereas the member states 
+and the regions remain responsible for their languages. 
+Some conclusions can be drawn from this short summary and the preceding analysis. There 
+is no ready-made recipe to accommodate the language problems and needs on the globally. 
+The identification and elaboration of the problems is a first step and contributes to the 
+awareness that solutions are necessary. Solidarity among nations and people concerning 
+language, as indicated in the EU Treaties, is a first and necessary step forward. And no 
+language is better, more elegant or more precise than other languages. People speaking a 
+particular language are not better than people speaking another language. If languages are 
+not yet equipped to deal with the intricacies of modern times, they should be enriched and 
+adapted. Languages that lack a written form – there are still many - should be supplied with 
+a system to write the language. Languages not equipped with the terminologies of science 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+7
+and business, should be enriched with such terminology. Money transfers between nations 
+and communities should benefit material as well as immaterial goods, such as languages. 
+Some tough and less pleasing observations need also be made. A language spoken by very 
+few persons is probably doomed to disappear as a living language anyhow. Languages that 
+are not supported any more by the people speaking them, are also doomed to disappear. 
+The world and larger regions need vehicular languages for communication across language 
+boundaries. If English is a vehicular language on the global scale, so be it. But vehicular 
+languages should not advantage some people over others, which is the argument used in 
+support of Esperanto. Vehicular languages must not replace the mother tongues, and may 
+not have the full functionality of the full language they are derived from.  
+ 
+Bibliography  
+[1] 
+UNESCO General Conference, Universal Declaration on Cultural Diversity (in 6 
+languages), 2002, web: http://unesdoc.unesco.org/images/0012/001271/127160m.pdf 
+[2] 
+Nations Online, Official and Spoken Languages of African Countries, 2007, web: 
+http://www.nationsonline.org/oneworld/index.html 
+[3] 
+UNESCO, International Convention on the Protection and Promotion of the Diversity 
+of Cultural Expressions, 2005, web via: http://portal.unesco.org/en/   
+[4] 
+Council of Europe, European Charter for Regional and Minority Languages, 1992, 
+web: 
+http://www.coe.int/T/E/Legal_Affairs/Local_and_regional_Democracy/Regional_or_Mi
+nority_languages/  
+[5] 
+European Union, Multi-annual programme to promote the language diversity of the 
+Community in the information society (MLIS), 1996, Official Journal of the European 
+Community, L306/40 
+ 
+ 
+Jan Roukens 
+Board member of language associations 
+advisor scientific publishing  
+Eduard Beneslaan 100 
+1080 Brussels 
+Tel. +32 2 465 48 26 
+e-mail jroukens@hotmail.com 
+ 
+ 

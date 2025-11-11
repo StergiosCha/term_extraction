@@ -1,0 +1,158 @@
+SOURCE: http://www.eleto.gr/download/Conferences/9th%20Conference/Presentations/9th_31-LiontouKonstantina_Presentation.pdf
+
+Rendering collocations in 
+German-Greek SI
+Η απόδοση των συμφράσεων κατά την 
+ταυτόχρονη διερμηνεία από τη Γερμανική 
+στην Ελληνική
+στην Ελληνική
+Konstantina Liontou PhD
+Konstantina Liontou, PhD
+Aims
+ How do interpreters deal with 
+collocations?
+collocations? 
+ Are interpreters preoccupied with ST 
+fo m?
+form?
+ Are interpreters only interested in 
+preserving ST meaning? 
+Corpus 
+ Characteristics
+¾ Bilingual parallel spoken corpus
+¾ Bilingual, parallel, spoken corpus 
+ Source 
+¾ E
+opean Pa liament
+¾ European Parliament 
+ Time
+¾ April 2006-July 2008
+ Subject
+ Subject
+¾ Environment
+Methodology
+ Downloading of Original German video 
+clips 
+ Downloading of Original video clips with 
+Greek soundtrack
+¾ Interpretation
+ Synchronisation via Windows Movie 
+Maker
+Maker
+→ single video with 2 audio streams 
+ T
+i ti
+i
+EXMAR LDA (E t
+ibl
+ Transcription via EXMARaLDA (Extensible 
+Markup Language for Discourse Annotation)
+Why this corpus?
+ Initial corpus designed to study 
+anticipation 
+p
+ Anticipation → indication that the 
+collocation has been recognised as such
+collocation has been recognised as such 
+ Crucial question:
+Does a corresponding collocation exist in
+Does a corresponding collocation exist in 
+the target language?
+H
+d
+th
+i t
+t
+d
+l
+ith
+h
+How does the interpreter deal with such 
+cases?
+Corpus Collocations  
+ 64 collocations involved in anticipation
+¾ Verb + Nouns + preposition
+¾ Verb + Nouns + preposition
+→ Gewicht legen auf  (to attach importance to)
+¾ (Ve b +) Adjecti e + p eposition
+¾ (Verb +) Adjective + preposition
+→ zuständig sein für (to be responsible for)
+¾ Idiomatic expressions of various forms
+→ jemandem am Herzen liegen (“to lie at 
+somebody’s heart” = to be of importance)
+Analysis I
+ Vast majority of cases → accurate 
+corresponding expression for German collocation 
+p
+g
+p
+Specifically
+ Use of corresponding collocations when possible
+ Use of corresponding collocations when possible
+¾ Es handelt sich um (to concern) → πρόκειται για 
+¾ Maßnahmen ergreifen (to take measures) →
+¾ Maßnahmen ergreifen (to take measures) → 
+λαμβάνω μέτρα
+¾ Einen Vorschlag einbringen (to make a
+¾ Einen Vorschlag einbringen (to make a 
+suggestion) → κάνω πρόταση
+Analysis II
+ Collocations rendered by simple terms 
+In case of
+In case of
+¾ Idiomatic expressions particular to the 
+German language 
+•
+Am Herzen liegen (preoccupy) → απασχολούν  
+¾ Other syntagms particular to the German 
+language
+language  
+•
+Sich halten an (to abide by) → τηρώ 
+Analysis III
+ Only in one case did the interpreter 
+not use a corresponding Greek 
+p
+g
+collocation even though it existed
+¾ Sein Augenmerk auf etwas richten (to
+¾ Sein Augenmerk auf etwas richten (to 
+turn one’s attention to sth)
+→“σημειώνω” (to mind to take into
+→ σημειώνω  (to mind, to take into 
+consideration)
+not
+not
+→ “στρέφω την προσοχή μου σε” etc.
+Conclusions I
+ Interpreter’s primary concern
+→to maintain ST meaning in TT
+ to maintain ST meaning in TT
+ ST influence can be seen in TT
+→ST collocations maintained in case of
+→ ST collocations maintained in case of 
+corresponding TT collocations 
+ A result of choice?
+ A result of choice?
+→ ?
+tt
+t f
+f ithf l
+• attempt for faithfulness
+• effort saving technique
+Conclusions II
+ No TT collocation even though it 
+existed probably
+existed probably
+→ random linguistic choice
+→ dictated by time pressure – many 
+simultaneous tasks
+ Remaining cases
+→result of restrictions dictated by nature of TL
+→ result of restrictions dictated by nature of TL
+Rendering collocations in German-
+Rendering collocations in German
+Greek SI
+Thank you for your attention!
+Konstantina Liontou
+konstantina.liontou@yahoo.com

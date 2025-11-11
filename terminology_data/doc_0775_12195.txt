@@ -1,0 +1,395 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/Papers-and-speakers/12th_25-22-25_RoukensJan_Paper1_V07.pdf
+
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+344 
+25    Europe needs terms, less theory 
+  
+Jan Roukens 
+ABSTRACT 
+Terminology is about creating terms and doing it right. That is the message of this paper. The paper 
+opens the discussion with summary descriptions of two very different but successful terminology 
+projects oriented to the creation of real solutions for terminology by the actors directly concerned and 
+affected: mycological societies interested in classifying and documenting newly discovered fungi in the 
+sparse woods of the Netherlands and Flanders; and a national society of pathologists that embarked in 
+1965 for a long mission to set up a new and comprehensive classification system and nomenclature for 
+objects and events of medical importance, eventually available in any desired language. 
+The paper continues to report about problems our European languages encountered in the decades 
+past, but that it is necessary to maintain those ‘culture’ languages, if only because Europe will be 
+completely out of control if it would lose its multi-lingual and multi-cultural identity. 
+The final part of the paper is a long plea to do something on the European scale about the problems 
+encountered by our languages and their users, and by all those in need for language and terminology 
+support to solve real problems and provide real solutions.  
+ 
+Η Ευρώπη χρειάζεται όρους, λιγότερη θεωρία 
+Jan Roukens 
+ΠΕΡΙΛΗΨΗ 
+Η Ορολογία πραγματεύεται τη δημιουργία όρων και μάλιστα τη σωστή. Αυτό είναι το μήνυμα τούτης της 
+ανακοίνωσης. Η ανακοίνωση ανοίγει τη συζήτηση με περιληπτικές περιγραφές δύο διαφορετικών αλλά 
+επιτυχημένων έργων ορολογίας προσανατολισμένων στη δημιουργία πραγματικών λύσεων ορολογίας 
+από ανθρώπους που ενδιαφέρονται και επηρεάζονται άμεσα: τις επιστημονικές εταιρείες μυκητολογίας 
+που ενδιαφέρονται για την ταξινόμηση και τεκμηρίωση των νεοανακαλυφθέντων μυκήτων στα αραιά 
+δάση της Ολλανδίας και της Φλάνδρας· και μια εθνική εταιρεία παθολόγων που ξεκίνησε, το 1965, μια 
+μακρόχρονη αποστολή για την καθιέρωση ενός νέου και εκτενούς συστήματος ταξινόμησης και 
+ονοματολογίας αντικειμένων και γεγονότων ιατρικής σπουδαιότητας, διαθέσιμου τελικά σε κάθε 
+επιθυμητή γλώσσα. 
+Η παρούσα ανακοίνωση συνεχίζεται με αναφορά στα προβλήματα που αντιμετώπισαν οι ευρωπαϊκές 
+γλώσσες μας στις περασμένες δεκαετίες και τονίζει ότι είναι ανάγκη να διατηρηθούν αυτές οι γλώσσες 
+του «πολιτισμού» και μόνο για τον λόγο ότι η Ευρώπη θα τεθεί εντελώς εκτός ελέγχου αν χάσει την 
+πολυγλωσσική και πολυπολιτισμική ταυτότητά της. 
+Το τελευταίο μέρος αποτελεί μια μεγάλη έκκληση να γίνει κάτι σε Ευρωπαϊκή κλίμακα για τα 
+προβλήματα που αντιμετωπίζουν οι γλώσσες μας και οι χρήστες τους, και όλοι εκείνοι που χρειάζονται 
+γλωσσική και ορολογική υποστήριξη ώστε να λυθούν πραγματικά προβλήματα και να δοθούν 
+πραγματικές λύσεις. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+345 
+ 
+1   Five hundred (500) newly found fungi and the related terms added to 
+existing collections  
+ 
+ 
+Figure1. The Members of the joint Nomenclature Committee of the Dutch and 
+Flemish Mycological Societies standing behind one of the objects they found in their 
+prize kits: specially designed bath towels. Courtesy: Nieuwe Gracht Producties, 
+Haarlem, the Netherlands, 5 October 2018 
+ 
+Every year, the Dutch Language Foundation awards a person or a group for an outstanding 
+performance, that benefitted the Dutch language and the users of the language. The 
+subjects of the prizes differ greatly, but on this occasion the winning team had made a great 
+effort of a terminological nature. In the 5-year period before 2018, members of the 
+mycological societies and amateurs had discovered 510 new species of fungi (mushrooms 
+and other fungi). These were added to the already existing collection of over 3000 species 
+found earlier in the fields and woods of the Netherlands and Flanders and needed to be 
+systematically classified and described according to the standards for the documentation of 
+these objects. In addition to the descriptions of the nature of each new fungus and pictures 
+of them, an appropriate Dutch name was given to each as well as its scientific Latin name. 
+The joint committee performed brilliantly and finished the job before the deadline. The 
+results of their work are stored in the Dutch library of fungi. The complete classification and 
+documentation, according to the International Code of Nomenclature for algae, fungi, and 
+plants (ICN), including the images of the fungi, the Dutch and Latin names and-so-on is 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+346 
+available from a publicly accessible data bank (soortenbank.nl). This project is an almost 
+ideal example of the realisation of what is required to explore, document and disseminate 
+acquired knowledge about a particular aspect of nature as manifested in a particular region. 
+By dedicated specialists covering the chain of tasks leading to the end result, established at 
+the beginning of the project.  
+Not implemented yet is the embedding in a European or even worldwide fungi knowledge 
+system which would support the sustainable global biodiversity in the first place. As well as 
+the scientific research and understanding of this wide domain of biological species, and the 
+exploitation of fungi for agricultural and pharmaceutical purposes. Later on in this paper the 
+inclusion of fungi terms in a Terminology Infrastructure will be discussed at some length. 
+Summary discussion. 
+- 
+The well-organised project added to our knowledge of a specific domain of living 
+organisms (fungi). The project fits in a long-term effort to discover and document the 
+fungi in a region of Europe, the Netherlands and Flanders. 
+- 
+The results of the project are well-documented, whereas the documents are 
+compatible with similar documents produced in the past. Thus, the users of the 
+collection can be assured that the document reflect the true content of the collection. 
+- 
+The naming of the items in the collection ensures that amateurs and professionals 
+(mycologists) can converse about fungi in their language. 
+- 
+The project is executed by a team of domain (mycology) experts well-equipped and 
+motivated to do this work, who have an excellent knowledge of the field of fungi. 
+They saw their project involvement as an element of their daily professional work. 
+- 
+The results of the project should be integrated into a possibly hypothetical collection 
+of fungi on the European or possibly even wider scale. They should be embedded in 
+the ‘future’ European terminology infrastructure.  
+ 
+2   Probably the most ambitious terminology initiative ever, the systematised 
+nomenclature of medicine: SNOMED 
+SNOMED was launched in 1965 as SNOP(athology) by the American College of 
+Pathologists, as an overambitious project, to embrace all terms used in medicine in a 
+complete and logically interconnected set. In 1965 a new much more powerful generation of 
+computers had been launched. This ground-breaking event stirred the imagination of many 
+professionals and individuals about the potential for application in their fields of interest. 
+Definitely also among medical professionals, who started to think about computerised 
+medical records and even such far away application as computer-assisted diagnoses. For 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+347 
+many individuals, the sky was the limit, whereas some went even further. Compare this to 
+the perceived unlimited potential of artificial intelligence today.  
+There are few other fields that offer so many opportunities for positive human activity and 
+challenges for research, as does the health care field. Treating patients over time implies 
+that a detailed and accurate record is kept of symptoms, social and environmental 
+conditions, technical measurements of physiological conditions, images of internal and 
+external conditions, diagnoses, medical treatments etcetera. The importance of 
+documenting all such facts and opinions is evident, and thus the need for standardised yet 
+flexible specialised languages and terminology to record these data in a comprehensible 
+and compact way. One of the most challenging unique enterprises in terminology, 
+SNOMED, is situated in this domain. Today, SNOMED already comprises 340.000 defined 
+medical terms in English and an equal number in Spanish, whereas partial translations are 
+available in many other languages. Clearly, if SNOMED were available in many more 
+languages, a powerful tool would be available for the exchange of patient data across 
+language barriers, for treatment, education and research. 
+Summary discussion 
+- 
+Whether SNOMED will break through in many or all countries, is not clear. But the 
+effort to create and maintain it over the years have already led to a much better 
+understanding of the giant proportions of such term collections and of the efforts 
+required to create them and to keep them up to date. 
+- 
+This is yet another example of a terminology collection that Is initiated, maintained 
+and actually used by the profession that has the required knowledge and the interest 
+to do this work because of the need for it. 
+- 
+Maintaining SNOMED globally and over time, requires a dedicated yet widely spread 
+team for the management and a very large number of medical expert collaborators. 
+- 
+Numbers matter. The size of the data bank with medical terms implies that the efforts 
+and costs to maintain the collection is considerable, as are the costs of duplications 
+to other languages. Quite a few scientific term banks and banks about technical parts 
+– airplanes, large ships etc. – are even larger, containing millions of items!  
+Society needs medical doctors, construction engineers, judges, teachers, law makers, 
+etcetera in the first place. Medical doctors, engineers and-so-on speak and write specialist 
+languages, and these languages use a specialist vocabularies called terms in People using 
+brains and hands to extend lives, provide water and energy and houses, prepare people to 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+348 
+function in a complex society, and-so-on. Most professionals mentioned are trained in higher 
+education institutions. These institutions have always been involved in teaching as well as 
+research, to ensure that teaching would be at the leading edge of science. Changes in 
+attitudes as well as changed methods of financing have heightened the status of 
+researchers over professionals, who are trained to use their brains to solve real problems or 
+construct solutions for existing needs. This reversal of the status of teaching and research is 
+not in the interest of society and should be redressed.  
+3   European identity challenged but firmly established by founders 
+The cold wave of neoliberalism: finance rules the waves, culture disappears 
+ 
+Figure 2. The globalisation of the banana symbolises the impact of the 
+combined forces of neoliberalism and globalisation on the human 
+nutritional – and natural - environment. Large global banana suppliers 
+offering a few varieties, replaced already many local and small suppliers 
+worldwide, offering over a thousand banana varieties. Two suppliers, 
+Chiquita and Dole, are reported to supply 55% of the international banana 
+market. (This image is reused here by the author) 
+In the last decades of the 20th century, the cold winds of new capitalism – also called 
+neoliberalism – threatened to level off the diverse cultural societies of Europe. And 
+elsewhere. The adagium: maximise financial profit by increasing the volume of products, 
+thus maximise the number of buyers; always keep costs of production, transport, handling 
+and ‘bureaucracy’ low.  
+Product standardisation and diversity reduction are main mantras of neoliberalism, as are 
+brainwashing of buyers to ‘guide’ their preferences. As this is not a paper about economy, 
+we leave it to the imagination of the reader where all this has led to in our modern societies. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+349 
+What concerns here is the impact of new capitalism on cultural diversity and in particular on 
+that outstanding and powerful aspect of culture: language.  
+The quasi disappearance of physical barriers to global communication and transport, due to 
+technological advances, facilitated the trading of goods and even more the trading of 
+services. The barriers remaining are due to cultural differences between the ‘national’ 
+markets in Europe and other continents. The strongest element of culture in this respect is 
+language. Language differences proved difficult to brainwash away, but the pressure by the 
+global actors remains strong. Increasingly higher education institutions, the flags and flowers 
+of European culture, adopted the neoliberal ideology to compete internationally in research 
+to end up high in international university rankings, rather than to provide excellent education 
+for the citizens of the countries nurturing them. And if strong industrial and trade actors have 
+an interest, certain political orientations do not hesitate to follow them.  
+European Union: maintaining European language diversity is key to our  
+cultural policy 
+Since the early 1980s the political elite in and around the European Union increasingly 
+suggested that the Union was composed of independent pieces weakly kept together with 
+too weak external ties and required much stronger internal ties to keep the organisation 
+together for the future. The need of a European identity, ‘all Europeans should look and feel 
+alike’, at least more than they did, became an issue of concern in some circles. As well as 
+the concept of a European leader, implying that Europeans would be prepared to follow the 
+leader and thereby look alike. There had always been suggestions to copy the monocultural 
+United States of America, the state that was most successful overall after the last World 
+War. The suggestion to drop the many European colours was spread widely among 
+business leaders, some politicians and ‘internationalists. Even in institutions as the 
+European Parliament. The idea to drop the European languages as instruction languages in 
+universities, still very popular in some countries, were a spin-off of this idea. But Europe, if it 
+were deprived of its rich cultural heritage and the richness of the languages of their peoples, 
+that Europe wouldn’t be Europe any more, and she would certainly not have the strength to 
+extend its rich history into an equally bright future. During half a millennium this continent 
+provided the world with an unprecedented wealth of political, scientific, technological, 
+artistic, social and legal achievements, and freed the world of superstitions of many kinds. 
+Yes, this also was a continent of devastating internal and external aggression, but it has 
+learned from its own wrongdoing and promised to make the world a better place to live in. 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+350 
+The Holy Grail of the European identity,  
+embedded in the first European Treaty 
+Since 1957, the year the first European Treaty was signed in Rome, the preamble of this 
+and the subsequent Treaties confirmed that cultures and languages served as an internal 
+framework of the Union and would guide its future evolution. Later on, the same concept 
+was phrased over and over again, in similar words. A small selection of such instances: 
+-  (1957) the Union shall respect its rich cultural and linguistic diversity, and shall ensure 
+that Europe’s cultural heritage is safeguarded and enhanced;  
+-  (1992) the Union shall take cultural aspects into account in its action under other 
+provisions of the Treaties, in particular in order to respect and to promote the diversity 
+of its cultures; 
+-  (2000) the millennium change; the Union reaffirmed the importance of the divers 
+cultures of the European peoples, by adopting the official motto of the EU: Unity in 
+Diversity; 
+-  (2009) the Union shall contribute to the flowering of the cultures of the Member States, 
+while respecting their national and regional diversity and at the same time bringing the 
+common cultural heritage to the fore. 
+Undoubtedly, the essence of these phrases comes close to the European identity as 
+conceived by the high representatives of the Member States and by the chosen 
+representatives of the citizens of the Union. For all practical purposes, this could be 
+summarised in the motto 
+Unity in Diversity 
+In 1996, in an effort to make the official EU texts about culture, language and diversity more 
+concrete, the European Institutions adopted a multiannual initiative to 
+“promote the linguistic diversity of the Community in the information society”  
+and to create the Multilingual Information Society (MLIS) 
+This concept is as relevant today as it was in 1996. Implemented, these goals would 
+substantially increase the trust of European citizens that the EU does take care of the 
+richness of the cultural specificities and interests of the European peoples. At the time, the 
+reactions to these proposals differed between EU member states governments: some 
+proved more reluctant than others, focused as they were on the more tangible economic 
+and technological achievements. But in the end all governments were in favour. The 
+European parliamentarians however were unanimously in favour and acted as the guardians 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+351 
+of the cultural and linguistic diversity: it is not exaggerated to say that there was an 
+atmosphere of enthusiasm among them during the discussions about this issue. 
+The main practical goal of this initiative is to ensure that finally the users of the internet and 
+the services provided via internet would be available in the languages of the users, or as it 
+was phrased actually, in the languages chosen by the users. The latter formula took into 
+account that some users were multilingual themselves or were working and even living in 
+multilingual environments, or for whatever reason needed to switch from one to another 
+linguistic environment.  
+The Institutions at the time (1996) were aware that this goal could only be achieved if certain 
+linguistic and technological developments would lead to positive results, at least to 
+‘acceptable’ results as perceived by the human users. This applied for example to the need 
+for the digital availability of full sets of reliable linguistic data on the internet for all the 
+languages of concern to the users, ultimately worldwide. And to the availability of 
+technological tools that would be able to transfer documents in one language into the user-
+selected language in real time. Speculations about real-time transfer between spoken 
+languages were considered somewhat too speculative at the time, but a quarter of a century 
+later this would have been an element of the proposal. 
+Support for European languages by developing the language infrastructure 
+The first paragraph of this paper mentioned two very different illustrations of some 
+observations in this last paragraph. Both illustrations are about real and sizable 
+terminological development actions requiring human creative capabilities and imagination, 
+as well as deep knowledge of the fields for which the terms need to be defined. But the 
+fields of mycology and medicine differ in many ways. Whereas in the first case (mycology) 
+the objective was to add new fungi and their associated terms to and existing globally 
+accepted classification. In the second case the founders of SNOMED decided to create a 
+new and overall classification of objects relevant for medicine in which to replace and 
+redefine basically known objects and objects to be defined in the future. The two may be 
+graphically presented as attaching newly found and defined leaves on the branches of an 
+existing tree; respectively, constructing a new tree on whose branches numerous existing 
+leaves are attached that may need to be redefined to fit their place in the tree. 
+In both cases the results of the projects are part of the virtual European Terminology 
+Infrastructure, launched as part of the MLIS initiative in 1996. Virtual, because the 
+Terminology Infrastructure is not implemented (yet). Neither is the Language Infrastructure, 
+which largely has the same characteristics, but applied to the even wider scope of 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+352 
+languages including sub-languages and specialised domains such terminology. The general 
+characteristics of an infrastructure are: 
+-  all the known elements of a language or linguistic domain are included and updated; 
+-  all the data included are systematically documented and stored in connected data 
+banks; 
+-  all the data banks for a language are connected to the data banks for other languages; 
+-  the infrastructure is accessible for all the potential users of linguistic data. 
+The Language Infrastructure is essentially a huge digital dictionary, enriched with ‘intelligent 
+tools’ facilitating the handling of the data. 
+Terms are urgently needed, the European Terminology Infrastructure is very 
+incomplete 
+Many people, mainly professionals, work hard defining and documenting terms and making 
+the results of their work available. Often, these professionals do not work according to more 
+widely accepted schemes or procedures, nor in the framework of professional societies. As 
+a consequence, much of the results of the hard work risks to get lost sooner or later, 
+whereas huge gaps in the availability of European Terminology Infrastructure remain.  
+As a matter of fact, in the 21st century many European scientists are not capable (any more) 
+to write scientific papers about their own research subjects. The arguments are double: up-
+to-date terminology in their language does not exist, and even if the terms would exist, they 
+would not be known because since the year 2000 the great majority of our scientists always 
+write and speak about their research in English. The scope of this statement can be 
+widened dramatically: it is not possible (any more) to produce handbooks or textbooks for an 
+ever- increasing number of scientific and technological disciplines, in the majority of 
+European languages. As a consequence, students are not able to study these disciplines in 
+their language and they will continue to behave as their masters did. The next generations 
+will have no choice either. They will not doubt any more: English has become the Latin of 
+the Middle Ages. Good for the church, bad for free science. This phenomenon characterises 
+the academic community these days, but that is not the only group having chosen the wrong 
+path. Management and technical staff in companies, dealing with such rapidly evolving 
+technologies such as information technology or space and energy technology behave 
+similarly.   
+As a matter of fact, no terminology expert can tell by approximation what the size of a 
+‘complete’ Terminology Infrastructure for terms might be. Even more of a disgrace: there are 
+no such experts, able to estimate the number of existing terms for a particular discipline, and 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+353 
+even less the terms needed but not existing. Quite astonishing: terminology professors and 
+other experts know about definitions of a terminologist as they understand it, or of training 
+such professionals, or structuring and managing terms in a data bank or of translating terms. 
+But only exceptionally do they have an insider’s view and understand disciplines and 
+professions requiring specific terms and specialised languages for their daily work. This 
+issue should be raised with priority: who out there in science, industry, business and society 
+in general are dealing with terminology; what are their needs and to what extent do solutions 
+comply with their needs?   
+It is therefore impossible to even estimate how far we are away from the ultimate goal of an 
+up-to-date Terminology Infrastructure in Europe. In getting to grips with this problem of huge 
+importance and proportions, and to comply with the need for adequate terms in large 
+sectors of our European societies, a number of measures may be envisaged and are 
+recommended: 
+- 
+The European Commission should launch an investigation to arrive at a map of the 
+terminology needs in all member states and in a large but manageable number well-
+selected subject areas in each of them; this map should be the basis for discussion 
+about the real needs in the broad societal terminology scene and create the societal 
+support for a major policy initiative; 
+- 
+Organise a European conference jointly with the EU member states, with the 
+participation of many European actors concerned, to discuss the map-of-terminology-
+needs to create a wide consensus that this is the basis for a policy initiative to create 
+concrete solutions for the problems observed; 
+- 
+The European Commission should subsequently prepare a long term Europe-wide 
+all-sector terminology initiative on the basis of what has been found and discussed in 
+the study and the conference mentioned above; it is likely that the financial envelope 
+for such an initiative of long duration is in the order of several billion euros. 
+References 
+1.  Nederlandse namen van paddenstoelen (Dutch names of mushrooms). Authors: 
+Thomas W. Kuyper, Jorinde Nuytinck, Anneke van der Putte & Roosmarijn Steeman. 
+More 
+information: 
+https://www.mycologen.nl/Coolia/PDF-files/Coolia_59(2)_p81-
+89_Kuyper_Namen_CNN.pdf 
+2.  SNOMED International: SNOMED Home. More information: www.snomed.org/ 
+ΕΛΕΤΟ – 12o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 7–9 Νοεμβρίου 2019 
+ 
+354 
+3.  Official Journal of the European Communities No. L 306/40of 28.11.96. Council Decision 
+of 21 November 1996 on the adoption of a multi-annual programme to promote the 
+linguistic diversity of the Community in the information society  
+4.  Final Evaluation of the Multi-Lingual Information Society Programme (MLIS). Final 
+Report, June 2000. More information: Http://ec.europa.eu/smart-regulation/evaluation/ 
+search/download.do?documentid=2725. 
+ 
+ 
+Jan Roukens 
+Board member of language and terminology organisations 
+E-mail : jroukens@hotmail.com 
+ 
+ 
+ 

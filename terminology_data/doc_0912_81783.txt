@@ -1,0 +1,188 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7thConference-PaperEditingInstructions-EN.pdf
+
+ 
+1
+ΕΛΕΤΟ 
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+HELLENIC SOCIETY FOR TERMINOLOGY 
+SOCIÉTÉ HELLÉNIQUE DE TERMINOLOGIE 
+ 
+7th Conference “Hellenic Language and Terminology” 
+22-24 October 2009, Athens GREECE 
+Info: Tel. 6974321009, E-mail: valeonti@otenet.gr 
+ 
+ 
+INSTRUCTIONS FOR EDITING AND PRESENTING THE PAPER 
+ 
+A. Editing 
+ 
+1 
+The paper should be no more than 10 pages and no less than 8 pages long; it should 
+be edited in MS WORD format, in one of the three languages (Greek, English or 
+French) of the Conference and it should be sent by e-mail to valeonti@otenet.gr not 
+later than 15 July 2009. 
+ 
+2 
+The font to be used is ARIAL 11 for the paper title, ARIAL 10 for the chapter titles, 
+ARIAL 8 for the abstracts και ARIAL 9 for the remaining text, with a spacing of 0 points 
+before and a spacing of 6 points after each paragraph, while the line spacing will be 
+1,5. 
+ 
+3 
+The whole text will be typed in normal template. Footnotes can be used, but not 
+endnotes. 
+ 
+4 
+Page setup will be as follows: 
+ 
+Paper size: 
+Α4 
+Orientation: 
+  Portrait 
+ 
+Margins 
+ 
+ 
+ 
+cm 
+top 
+ 
+2 
+bottom 
+ 
+8,5 
+bottom 
+ 
+2 
+right 
+ 
+6 
+gutter 
+ 
+0 
+header 
+ 
+1 
+footer 
+ 
+1 
+ 
+5 
+The first page should contain: 
+ 
+a) the paper title in small letters (bold), centre aligned 
+b) the name(s) of the author(s) in small letters (bold), centre aligned under the paper 
+title, and separated by commas (no title or profession mentioned) 
+c) the word ΠΕΡΙΛΗΨΗ/ABSTRACT/RÉSUMÉ in the language of the paper (Greek, 
+English or French) 
+d) the abstract text in the language of the paper (Greek, English or French) 
+e) repetition of the above points a), b), c) and d) in one of the other two official 
+languages of the Conference.  
+E
+Λ  
+Ε  Τ Ο
+L 
+E
+ 
+2
+ 
+6 
+In case that the language of the paper and of the first abstract is English or French, 
+and the author, or one of the authors, is Greek, the second abstract shall be in Greek, 
+and approximately 2 pages long; also, a short English-Greek or French-Greek 
+glossary should be added at the end as an Annex, containing the basic special terms 
+of the paper. In case of difficulties with the equivalent Greek terms needed, the author 
+is encouraged to contact ELETO for help. 
+(Note that neither the abstracts nor the glossary count in the 8-10 pages required for 
+the paper.) 
+ 
+7 
+The paper body should begin four spaces after the end of the second abstract or from 
+a new page (2nd page).  
+ 
+Section or paragraph headings should be in small letters (bold) and in normal 
+template (not formatted as headings). 
+ 
+8 
+Page numbering (temporary) should be placed at the right top of the header on each 
+page. 
+ 
+9 
+Section or paragraph numbering should follow the decimal system (if there exists an 
+introduction it is given the digit 0), with the respective headings being left aligned. 
+ 
+10 
+The transcription of Greek names (conversion of Greek characters to the Latin 
+alphabet) should be conformant to the Greek Standard ELOT 743 (equivalent to the 
+International Standard ISO 843). 
+ 
+11 
+Bibliographic references should use numbers in brackets [ ], while bibliography, as a 
+numbered list, should feature at the end of the paper and contain the following 
+information: author’s name and surname, book title or article title, publisher or journal 
+title, year of publication, page or issue number, total number of pages. 
+ 
+12 
+At the end of the paper, the following information about the author(s) should be 
+indicated: name and surname, title or profession, and postal address. 
+ 
+13 
+In case that the text contains special fonts (special characters, symbols etc.) it should 
+be saved (through WORD) with fonts embedded, by selecting: Tools – Options – Save 
+– Embed true type fonts.  
+ 
+B. Presentation 
+14 
+The Conference will be supported by simultaneous translation between the languages 
+English Ù Greek και French Ù Greek. 
+15 
+The presentation material of a paper (slides, tables, diagrams etc.) may be written in 
+any of the three languages of the Conference. 
+16 
+In case that the language of the text of a paper is English or French, while the speaker, 
+or one of the speakers, is Greek, his/her oral presentation should be in Greek (yet, no 
+translation of the text or of the presentation material is required). 
+ 
+C. Curriculum vitae 
+17 
+The paper should be accompanied by a short CV of each of the authors, not exceeding 
+200 words. 
+ 
+ 
+3
+Πετρ(ο)- και λιθ(ο)- ως στοιχεία της ελληνικής ορολογίας 
+ 
+Άννα Αναστασιάδη-Συμεωνίδη 
+ΠΕΡΙΛΗΨΗ 
+Τα πέτρα και λίθος διατρέχουν την ιστορία της ελληνικής, ωστόσο οι σχέσεις τους δεν παρέμειναν 
+αναλλοίωτες. Το ΝΕ λεξιλόγιο διακρίνει δύο λεξικά μορφήματα, αν και προέρχονται από τον ίδιο 
+απώτερο πρόδρομο, α) πετρ(ο)- ‘λίθος’, μονάδα του γενικού λεξιλογίου με το χαρακτηριστικό [+/-λόγιο], 
+π.χ. πετροπόλεμος, και β) πετρ(ο)- ‘βράχος, πέτρωμα’, μονάδα της ΝΕ ορολογίας, π.χ. πετρολογία. 
+Τέλος στη ΝΕ το λίθος εμφανίζεται ως όρος στα ειδικά λεξιλόγια και χαρακτηρίζεται ως [+λόγιο]. 
+Les formants de la terminologie grecque petro- et litho- 
+ 
+Anna Anastassiadis-Syméonidis 
+RÉSUMÉ 
+Bien que πέτρα et λίθος existent en grec depuis l’antiquité, leurs relations ont bien changé : en nous 
+fondant sur le sens, nous considérons que le grec moderne distingue deux formants homonymes, bien 
+qu’ils proviennent du même étymon, (i) πετρ(ο)- ‘pierre’, formant [+/-savant] du vocabulaire général et 
+(ii) πετρ(ο)- ‘roche, rocher’, formant [+savant] des vocabulaires spécialisés. Par ailleurs, il existe le 
+terme λίθος ‘pierre’ [+savant]. 
+ 
+ 
+ 
+ 
+0. Εισαγωγή 
+Θα εξετάσω τα μορφήματα πετρ(ο)- και λιθ(ο)- τόσο στο γενικό όσο και στα ειδικά λεξιλόγια 
+της ιατρικής και των θετικών επιστημών της νέας ελληνικής (ΝΕ), με στόχο να αναδειχθεί το 
+πλέγμα των σχέσεων μορφής και σημασίας των μορφημάτων αυτών με τις λέξεις πέτρα και 
+λίθος της αρχαίας ελληνικής (ΑΕ) καθώς και με τα σχηματιστικά στοιχεία petr(o)- και lith(o)- 
+των ευρωπαϊκών γλωσσών. Τα ερωτήματα που θέτουμε είναι τα εξής: όσον αφορά τα 
+μορφήματα αυτά, υπάρχει σημασιολογική αλλαγή από την ΑΕ στη ΝΕ; Αν η απάντηση είναι 
+θετική, ποια σημασία διασώζεται στις ευρωπαϊκές γλώσσες; Είναι, τέλος, η ΝΕ ομοιογενής, 
+δηλ. ταυτίζεται το σημαινόμενο των μορφημάτων αυτών στο γενικό και στα ειδικά λεξιλόγια; 
+Αφού . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+A 1st page example  

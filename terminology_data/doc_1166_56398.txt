@@ -1,0 +1,173 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6thConference-PaperEditingInstructions-FR.pdf
+
+ 
+1
+ΕΛΕΤΟ 
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+HELLENIC SOCIETY FOR TERMINOLOGY 
+SOCIÉTÉ HELLÉNIQUE DE TERMINOLOGIE 
+ 
+6e colloque «Langue et terminologie helléniques» 
+1-3 novembre 2007, Athènes 
+Renseignements: valeonti@otenet.gr 
+ 
+INSTRUCTIONS SUR LA PRÉSENTATION  
+ET LA MISE EN PAGE DU TEXTE DES COMMUNICATIONS 
+ 
+ 
+A. Mise en page 
+Le texte de la communication ne doit pas dépasser le nombre de dix pages. Il doit être 
+rédigé sous format MS WORD 97 ou MS WORD 2000  et transmis par courriel. 
+ 
+La Police ARIAL 11 doit être utilisée pour le titre de la communication et la Police ARIAL 10 
+pour les titres des chapitres. Le résumé doit être en taille 8 et le texte en taille 9, avec un 
+espacement de 0 points avant et de 6 points après et un interligne 1,5. 
+ 
+Le style Normal sera uniforme dans tout le texte. Il se peut que des notes de bas de page 
+soient utilisées mais pas de notes de fin. 
+ 
+La mise en page du texte doit être la suivante: 
+ 
+Taille du papier: 
+Α4 
+Orientation: 
+Verticale 
+ 
+Marges 
+ 
+ 
+ 
+cm 
+Haut 
+ 
+2 
+Bas 
+ 
+8,5 
+Gauche 
+ 
+2 
+Droite 
+ 
+6 
+Reliure 
+ 
+0 
+En-tête  
+ 
+1 
+Pied de page  
+ 
+1 
+ 
+La première page doit contenir: 
+ 
+a) 
+le titre de la communication centré, en minuscules et en caractères gras 
+b) 
+le prénom et le nom du (des) auteur(s) en minuscules, centrés sous le titre, sans 
+éléments supplémentaires (des détails sur les auteurs) et le nom de chaque auteur 
+séparé par une virgule 
+c) 
+le mot RÉSUMÉ rédigé dans la même langue que celle du texte de la communication 
+(en grec, en anglais ou en français) 
+d) 
+le résumé de la communication rédigé dans la même langue que celle du texte de la 
+communication (en grec, en anglais ou en français) 
+e) 
+le titre de la communication, le prénom et le nom du (des) auteur(s) et le résumé 
+dans l’une de deux autres langues officielles du colloque. Si l’un des auteurs est grec, 
+les éléments précédents doivent être rédigés en grec. 
+ 
+E
+Λ  
+Ε  Τ Ο
+L 
+E
+ 
+2
+Le texte de la communication doit être séparé du paragraphe précédent par 4 interlignes 
+ou mis à la page suivante. 
+ 
+Les titres des chapitres ou des paragraphes doivent être en minuscules et caractères gras 
+d’un style Normal et pas de style Titre. 
+ 
+Les numéros de pages (provisoires) doivent être placés en haut et à droite dans l’en-tête. 
+ 
+La numérotation des chapitres et des paragraphes doit se faire selon le système décimal -
+chiffres arabes- (le chiffre accordé à l’introduction, s’il y en a une, est le zéro) et leurs titres 
+doivent être alignés à gauche. 
+ 
+La transcription des noms grecs en caractères latins doit être conforme à la Norme Grecque 
+ELOT 743 (équivalente à la Norme Internationale ISO 843). 
+ 
+Il faut aussi numéroter de façon continue les références concernant la bibliographie qui est 
+placée à la fin de la communication. Chaque numéro doit être entre crochets [ ]. La 
+bibliographie contient: le prénom et le nom du (des) auteur(s), le titre de l’ouvrage ou de 
+l’article, l’éditeur ou le périodique, la date de publication exacte, la page ou le numéro de 
+volumes, le nombre de pages au total. 
+ 
+La communication, à la fin, doit comporter les coordonnées du (des) auteur(s) ainsi que son 
+(leur) titre.  
+ 
+S’il y a, dans le texte, des caractères spéciaux ou des symboles, l’enregistrement du texte 
+WORD doit être fait de façon suivante : Outils→Options→Enregistrer→Incorporer Police 
+True Type 
+ 
+B. Présentation 
+ 
+La traduction simultanée en anglais, français et grec est prévue pour toutes les séances. 
+ 
+Tout élément supplémentaire de la communication (des diapositives, des diagrammes, des 
+tableaux, etc.) peut être en français, en anglais ou en grec. 
+ 
+Si l’auteur est grec, même si le texte de la communication ou tout élément supplémentaire 
+sont en français, la présentation doit se faire en grec. 
+ 
+En ce cas, l’auteur doit aussi préparer à la fin de la communication un petit glossaire 
+français-grec, en tant qu’annexe, avec les termes essentiels les plus utilisés. L’auteur peut 
+s’adresser à ELETO au sujet de la terminologie grecque. Le texte de la communication ne 
+doit pas dépasser le nombre de dix pages sans compter le glossaire. 
+ 
+C. Curriculum Vitae 
+ 
+Chaque auteur doit rédiger un bref CV qui ne dépassera pas les 200 mots. 
+ 
+ 
+3
+Πετρ(ο)- και λιθ(ο)- ως στοιχεία της ελληνικής ορολογίας 
+ 
+Άννα Αναστασιάδη-Συμεωνίδη 
+ΠΕΡΙΛΗΨΗ 
+Τα πέτρα και λίθος διατρέχουν την ιστορία της ελληνικής, ωστόσο οι σχέσεις τους δεν παρέμειναν 
+αναλλοίωτες. Το ΝΕ λεξιλόγιο διακρίνει δύο λεξικά μορφήματα, αν και προέρχονται από τον ίδιο 
+απώτερο πρόδρομο, α) πετρ(ο)- ‘λίθος’, μονάδα του γενικού λεξιλογίου με το χαρακτηριστικό [+/-λόγιο], 
+π.χ. πετροπόλεμος, και β) πετρ(ο)- ‘βράχος, πέτρωμα’, μονάδα της ΝΕ ορολογίας, π.χ. πετρολογία. 
+Τέλος στη ΝΕ το λίθος εμφανίζεται ως όρος στα ειδικά λεξιλόγια και χαρακτηρίζεται ως [+λόγιο]. 
+Les formants de la terminologie grecque petro- et litho- 
+ 
+Anna Anastassiadis-Syméonidis 
+RÉSUMÉ 
+Bien que πέτρα et λίθος existent en grec depuis l’antiquité, leurs relations ont bien changé : en nous 
+fondant sur le sens, nous considérons que le grec moderne distingue deux formants homonymes, bien 
+qu’ils proviennent du même étymon, (i) πετρ(ο)- ‘pierre’, formant [+/-savant] du vocabulaire général et 
+(ii) πετρ(ο)- ‘roche, rocher’, formant [+savant] des vocabulaires spécialisés. Par ailleurs, il existe le 
+terme λίθος ‘pierre’ [+savant]. 
+ 
+ 
+ 
+ 
+0. Εισαγωγή 
+Θα εξετάσω τα μορφήματα πετρ(ο)- και λιθ(ο)- τόσο στο γενικό όσο και στα ειδικά λεξιλόγια 
+της ιατρικής και των θετικών επιστημών της νέας ελληνικής (ΝΕ), με στόχο να αναδειχθεί το 
+πλέγμα των σχέσεων μορφής και σημασίας των μορφημάτων αυτών με τις λέξεις πέτρα και 
+λίθος της αρχαίας ελληνικής (ΑΕ) καθώς και με τα σχηματιστικά στοιχεία petr(o)- και lith(o)- 
+των ευρωπαϊκών γλωσσών. Τα ερωτήματα που θέτουμε είναι τα εξής: όσον αφορά τα 
+μορφήματα αυτά, υπάρχει σημασιολογική αλλαγή από την ΑΕ στη ΝΕ; Αν η απάντηση είναι 
+θετική, ποια σημασία διασώζεται στις ευρωπαϊκές γλώσσες; Είναι, τέλος, η ΝΕ ομοιογενής, 
+δηλ. ταυτίζεται το σημαινόμενο των μορφημάτων αυτών στο γενικό και στα ειδικά λεξιλόγια; 
+Αφού . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Un exemple de première page 

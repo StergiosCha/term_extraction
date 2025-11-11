@@ -1,0 +1,421 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_33-16-DiplariChristinaPaper2_V02.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+1
+33   Principes directeurs sur l’élaboration des politiques en matière de 
+terminologie 
+ 
+Diplari Christine 
+RÉSUMÉ  
+Dans les dernières années, la planification en matière de terminologie a pris une place prépondérante 
+dans un grand nombre de pays. En effet, de nombreuses activités de planification des terminologies ont 
+été menées dans de domaines divers. Néanmoins, il est bien connu que les politiques et les stratégies 
+de la terminologie doivent prendre en compte de multiples facteurs démographiques, culturels, 
+ethnographiques et sociolinguistiques.  Dans ce contexte, en 2005, l’UNESCO a publié un document 
+intitulé «Principes directeurs sur l’élaboration des politiques en matière de terminologie» concernant 
+toutes les communautés linguistiques. Il s’agit d’un document rédigé par le Centre International 
+d’Information pour la Terminologie (Infoterm). Cette communication essaie d’analyser le document en 
+question, en insistant particulièrement sur les conditions et les étapes nécessaires pour l’élaboration, la 
+planification et la mise en œuvre systématique d’une politique de terminologie.  
+Plus précisément, il résulte qu’il y a des critères assurant le succès des politiques nationales de 
+terminologie: l’adoption d’approches intégratives et coopératives, des principes du management des 
+ressources humaines et du e-learning, le rapport direct avec l’évolution technologique permettant 
+l’usage constructif des Technologies de l’Information et de la Communication (TIC) et des Technologies 
+du Langage Humain (TLH), la considération de méthodes basées sur la recherche ainsi que la 
+sauvegarde d’un degré élevé d’éducation et d’expertise linguistique. De l’autre côté, indépendamment 
+de la situation économique, sociale et politique d’un pays, les étapes à suivre pour une politique de 
+terminologie bien menée se résument à quatre phases: celle de la préparation, de la formulation, de 
+l’implémentation et du soutien de l’infrastructure de terminologie.            
+ 
+Βασικές αρχές για την εκπόνηση πολιτικών στον τομέα της 
+ορολογίας 
+ 
+Διπλάρη Χριστίνα 
+ΠΕΡΙΛΗΨΗ 
+Τα τελευταία χρόνια, ο σχεδιασμός στον τομέα της ορολογίας κατέχει εξέχουσα θέση σε πολλές χώρες. 
+Πράγματι, πολλές δραστηριότητες σχεδιασμού ορολογίας πραγματοποιήθηκαν σε διάφορους τομείς. 
+Εντούτοις, είναι γνωστό ότι οι πολιτικές και οι στρατηγικές ορολογίας πρέπει να λαμβάνουν υπόψη 
+διάφορους παράγοντες, δημογραφικούς, πολιτισμικούς, εθνογραφικούς και κοινωνιογλωσσολογικούς. 
+Το 2005, ο Οργανισμός των Ηνωμένων Εθνών για την Παιδεία, την Επιστήμη και τον Πολιτισμό 
+(UNESCO) εξέδωσε ένα εγχειρίδιο με τίτλο «Βασικές αρχές για την εκπόνηση πολιτικών στον τομέα της 
+ορολογίας» για όλες τις γλωσσικές κοινότητες. Η παρούσα ανακοίνωση, βασιζόμενη στο εγχειρίδιο 
+αυτό, αναφέρεται στα απαραίτητα στάδια για το σχεδιασμό, την εκπόνηση και την εφαρμογή μιας 
+πολιτικής στον τομέα της ορολογίας. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+2
+0   Introduction 
+La terminologie, comme discipline dont l’objet est l’étude et la compilation des termes 
+spécialisés est ancienne. Cependant, c’est seulement au cours des dernières années 
+qu’elle a connu un développement systématique menant une réflexion profonde sur ses 
+principes, ses fondements et ses méthodes et obtenant la reconnaissance générale de son 
+importance sociale et politique tant sur le plan national qu’international [1].   
+Ainsi, à l’ère actuelle, des professionnels et des décideurs ont pris conscience de la valeur 
+éminente de la terminologie en tant qu’outil de communication et de transfert de 
+connaissances, omniprésent dans toute activité humaine. En effet, la terminologie n’est pas 
+coupée de la pratique sociale, constituant un élément décisif de  l’évolution politique, 
+économique et culturelle mondiale [2]. Les pays et les communautés linguistiques 
+comprennent la nécessité de formuler des politiques de terminologie systématiques afin 
+d’améliorer leur compétitivité. Cette tendance est favorisée par l’esprit de globalisation 
+existant. C’est pourquoi on assiste à la mise en place de politiques terminologiques [3].  
+Dans ce contexte, en 2005, l’UNESCO a publié un document intitulé «Principes directeurs 
+sur l’élaboration des politiques en matière de terminologie» concernant toutes les 
+communautés linguistiques. Il s’agit d’un document rédigé par le Centre International 
+d’Information pour la Terminologie (Infoterm). L’objectif de cette publication est de fournir 
+une assistance méthodologique concernant la formulation et l’implantation d’une politique de 
+terminologie. Ces principes directeurs sont désignés de façon à être utiles à tous les pays et 
+à toutes les communautés linguistiques, indépendamment de leur niveau de développement 
+terminologique. 
+Cette communication se focalise sur les étapes à suivre pour une politique terminologique 
+bien menée, tout en tenant compte de multiples facteurs démographiques, culturels, 
+ethnographiques et sociolinguistiques qui conditionnent une société.   
+1   Concepts-clés  
+Politique nationale de terminologie : c’est une stratégie publique, formulée au niveau de 
+décision politique de la part d’un pays ou d’une communauté linguistique autonome, dans le 
+but de développer ou de régler des terminologies déjà existantes ou émergeantes [4]. 
+Aménageur terminologique : il définit la politique terminologique et il prend toute décision se 
+rapportant à la francisation, à la normalisation ou à l’harmonisation des usages [5]. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+3
+Activité normative ou régulatrice des aménageurs : elle conduit à spécifier des normes de 
+désignation et donc à choisir, parmi des désignations concurrentes, celle qui deviendra la 
+norme / forme recommandée [6]. 
+Aménagement linguistique: l'ensemble des mesures qu'un État arrête lorsqu'il choisit 
+d'intervenir dans le mécanisme de la concurrence des langues sur son territoire. Il implique 
+à la fois des décisions d'ordre politique et des choix de modes et domaines d'intervention, 
+ce qui suppose une connaissance sociolinguistique des mécanismes de la concurrence 
+linguistique en général et sur un territoire donné en particulier [5]. 
+Norme terminologique : elle a comme objectif d'assurer l'efficacité de la communication 
+spécialisée en uniformisant la dénomination de chaque notion pour les communications 
+formelles [5]. 
+La normalisation linguistique : c’est un processus dynamique et graduel à caractère 
+socioculturel dans lequel une langue, à partir d’une situation instable, obtient un statut perçu 
+comme normal. Elle comporte un ensemble de décisions politiques clés, un cadre juridique 
+adéquat, des canaux de diffusion et d’implantation précis et elle doit aussi prévoir une série 
+d’actions stratégiques et de mesures d’intervention destinées à modifier l’évolution 
+«naturelle» d’une langue. La normalisation offre d’importants avantages, notamment par 
+une meilleure adaptation des produits, des processus et des services aux fins qui leur sont 
+assignées, par la prévention des obstacles au commerce en facilitant la coopération 
+technique internationale [7]. 
+2   Nouveau cadre théorique de la terminologie 
+Selon Auger, trois grands courants existent en terminologie ; la terminologie orientée vers la 
+linguistique -écoles de Vienne, de Prague et de Moscou-, la terminologie orientée vers la 
+traduction –l’origine des travaux réalisés par les organismes internationaux multilingues- et 
+celle-ci orientée vers la planification linguistique -liée d’abord à des projets de revalorisation 
+des langues en situation minoritaire sur leur propre territoire [8]. 
+Le point le plus discuté en matière de terminologie reste celui de la distinction entre «terme 
+spécialisé» et «mot» de la langue générale. La terminologie a non seulement indiqué 
+clairement l’écart entre «mot» et «terme» mais elle a également mis en relief quelques 
+différences à propos d’autres aspects des fondements, de la méthodologie et des 
+applications afin de mettre en évidence plus nettement les différences entre le lexique et la 
+terminologie. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+4
+Les termes, en plus d’être des unités grammaticales à trois dimensions (formelle, 
+conceptuelle et fonctionnelle) qui font partie d’un système grammatical, ils sont aussi des 
+unités pragmatiques de communication et de référence. Ils apparaissent dans des discours 
+spécifiques, réalisés par des individus aux caractéristiques déterminées et dans des 
+situations concrètes de communication [9].   
+La terminologie comme discipline et comme activité a besoin d’un regard nouveau qui la 
+rapproche de sa dimension sociale et pragmatique. Les termes ont une valeur sociale dans 
+la seule mesure où ils sont réellement utilisés dans la communication.  
+En effet, de nouveaux termes sont introduits dans une langue, soit pour remplir une lacune, 
+soit pour remplacer un terme déjà existant mais insuffisant. En ce qui concerne cette 
+évolution de terminologie, il y a deux approches : le travail terminologique descriptif et 
+prescriptif. La première observe et analyse l’émergence de nouveaux termes tandis que la 
+deuxième constitue un accord de la part des utilisateurs afin d’adopter un terme commun, 
+utilisé dans des situations données. Celle-ci comprend l’unification terminologique, la 
+standardisation et l’harmonisation.    
+Dans ce nouveau cadre théorique de la terminologie, où le travail terminologique devient 
+descriptif et où il envisage de recueillir les unités dans leur contexte linguistique et 
+communicatif réels, dans lequel les termes circulent beaucoup plus facilement entre la 
+connaissance générale et la connaissance spécialisée, la ligne de séparation claire entre 
+mots et termes défendue par la terminologie traditionnelle n’existe plus [10]. 
+3   Critères assurant le succès des politiques nationales de terminologie 
+Il est à mentionner qu’il y a des critères assurant le succès des politiques nationales de 
+terminologie: l’adoption d’approches intégratives et coopératives, des principes du 
+management des ressources humaines et du e-learning, le rapport direct avec l’évolution 
+technologique permettant l’usage constructif des Technologies de l’Information et de la 
+Communication (TIC) et des Technologies du Langage Humain (TLH), la considération de 
+méthodes basées sur la recherche, la sauvegarde d’un degré élevé d’éducation et 
+d’expertise linguistique en constituent les plus importants. 
+Plus précisément, la nécessité d’une conception systématique, de la formulation, de 
+l’implantation, de l’opération, de la promotion et du maintient d’une politique de terminologie, 
+avec des objectifs et des perspectives bien précis est indéniable. Pour la réalisation d’une 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+5
+telle politique terminologique, l’existence de réseaux d’information est indispensable. En 
+outre, l’établissement  d’infrastructures organisationnelles et techniques est aussi important.   
+De l’autre côté, depuis le début des années 1970, l’apport de l’informatique à la terminologie 
+a presque exclusivement concerné les systèmes de bases de données relationnelles visant 
+au stockage, au traitement et à la diffusion des termes. D’ailleurs, Wüster considère 
+l’informatique comme un des domaines constitutifs de la terminologie [11]. 
+Dans l’évolution de l’informatique au service de la terminologie, les ordinateurs sont utilisés 
+comme des instruments de stockage de l’information pour des raisons bibliographiques et 
+terminologiques. On assiste aussi à l’amélioration de la structure des banques de données 
+et des systèmes de classification conceptuelle et à l’émergence de travaux reliés à 
+l’intelligence artificielle. L’ordinateur peut effectuer des travaux réalisés autrefois par le 
+terminologue : la sélection de documents pour une recherche terminologique, le 
+dépouillement, la rédaction de fiches automatisées, l’élaboration de dossiers de 
+normalisation à partir des informations de différentes bases de données ou l’extraction de 
+nouvelles notions.  
+En ce qui concerne la sauvegarde d’un degré élevé d’éducation et d’expertise linguistique, il 
+est à noter que l’enseignement de la terminologie ne peut pas faire abstraction du contexte 
+social dans lequel le futur terminologue devra s’inscrire. Pour établir un programme 
+international de formation en terminologie, il faut prendre en compte des éléments suivants : 
+la terminologie est une discipline organisée qui ne peut s’improviser. C’est pourquoi, une 
+formation convenable en terminologie doit nécessairement comprendre des aspects 
+théoriques, méthodologiques et techniques ainsi qu’une formation pratique en milieu de 
+travail. 
+4   Etapes à suivre pour une politique de terminologie 
+Indépendamment de la situation économique, sociale et politique d’un pays, les étapes à 
+suivre pour une politique de terminologie bien menée se résument à quatre phases: celle de 
+la préparation, de la formulation, de l’implantation et du soutien de l’infrastructure de 
+terminologie [12]. 
+Ces principes directeurs pourraient être adoptés aussi au niveau régional ou local, pour une 
+ou plusieurs communautés linguistiques en suivant la simplification du modèle présenté.  
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+6
+1   Préparation: vu que la formulation et l’implantation d’une politique de terminologie 
+constituent des phases assez compliquées, le processus doit être bien préparé. En 
+particulier, cette phase peut comprendre:  
+a. 
+L’évaluation de l’environnement linguistique et terminologique ainsi que de la 
+législation existante. Cela devrait identifier l’existence des barrières sociales et 
+psychologiques par rapport à une politique de terminologie, l’attitude de la 
+communauté linguistique face à la terminologie, l’impact de cette politique sur 
+autres politiques et stratégies. Il est aussi important qu’elle comprenne une analyse 
+des profits directs / indirects et des coûts estimatifs concernant la formulation et 
+l’implantation de la politique de terminologie. Les objectifs et le but de cette 
+politique doivent être bien clarifiés. Cette phase peut prendre aussi la forme  d’une 
+étude de cas. L’existence d’un document comprenant une introduction à 
+l’environnement physique, social, économique et administratif, une évaluation des 
+objectifs nationaux majeurs, une évaluation de la situation socio-économique des 
+communautés linguistiques impliquées, de la terminologie nationale, des 
+ressources linguistiques et des institutions relatives se considère indispensable.         
+b. 
+La planification des activités capables de créer une conscience de langage. Des 
+initiatives officielles encourageant la prise en conscience de la nécessité d’adoption 
+d’une telle politique de terminologie devraient se mettre en avance. L’étude de 
+documents existants (recherches, études déjà réalisées), d’exemples et 
+d’expériences d’autres pays / communautés linguistiques pourraient faciliter ce 
+processus.     
+c. 
+La recommandation de méthodologie. Un schéma détaillé indiquant la 
+méthodologie la plus appropriée et la procédure à adopter doit être préparé.    
+d. 
+La préparation de documents préliminaires, pour consolider les résultats de l’étude 
+et de l’évaluation réalisée.    
+e. 
+L’organisation d’un processus de consultation national, sous forme d’interviews, 
+études etc.  
+2 
+Formulation: chaque communauté linguistique peut avoir de besoins différents, 
+selon sa culture et sa situation sociale, économique et politique. Cette phase 
+comprend les étapes suivantes :  
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+7
+f. 
+la préparation d’une proposition de la politique de terminologie. Dans cette 
+proposition, le but, les objectifs, les profits, les directions générales à suivre dans la 
+phase de l’implantation doivent être formulés de façon que le processus de la prise 
+de décision politique soit facilité.    
+g. 
+La préparation d’un plan de coordination de cette politique avec d autres politiques. 
+Des données provenant de ressources nationales et internationales du domaine 
+social, financier, scientifique/ technique, culturel sont indispensables. En général, la 
+planification terminologique peut être liée à la stratégie générale de développement 
+ou à d’autres stratégies/politiques.    
+h. 
+La préparation d’un plan pour l’implantation du projet. Cette étape est très 
+importante pour l’implantation de la politique de terminologie. Le plan doit 
+comprendre la sélection des stratégies adéquates à la réalisation des objectifs 
+visés, l’attribution des priorités, la répartition des ressources pour l’implantation des 
+programmes relatifs et une proposition pour le mécanisme de coordination.  
+i. 
+La présentation du document et du plan d’implantation. Le document final doit être 
+clairement planifié, pas très long, contenant des informations précises et actuelles, 
+étant donné qu’il va être utilisé comme une base pour le texte légal final et un point 
+de référence.     
+j. 
+La prise de décision par rapport à la politique finale. L’approbation officielle peut se 
+réaliser de modes différents : la promulgation d’une loi, l’adoption d’un corps 
+d’implantation etc. 
+3 
+Implantation: une politique de terminologie doit être conçue en relation avec d’autres 
+politiques nationales puisqu’elle a un impact important sur la totalité de la vie 
+professionnelle d’un pays. C’est pourquoi il serait convenant d’assurer la participation 
+des institutions impliquées. Cette phase peut comprendre: 
+k. 
+le management total de l’implantation. Selon la grandeur de la communauté 
+linguistique, la complexité de la situation et le but de la politique de terminologie, 
+l’implantation peut être gérée par une ou plusieurs institutions gouvernementales, 
+un comité, une institution/organisation déjà existante ou récemment établie.  
+l. 
+La planification opérationnelle et organisationnelle de l’implantation. Basées sur 
+des recherches et des recommandations réalisées, des décisions doivent être 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+8
+prises concernant l’établissement d’un mécanisme de coordination, la formulation 
+d’un plan d action, la répartition de ressources humaines et financières ainsi que 
+l’implantation d’un mécanisme d’inspection. L’implantation doit s’accompagner d’un 
+mécanisme d’évaluation.       
+m. La planification d’activités de publicité et de promotion. Pendant la phase de 
+l’implantation, la publicité et la promotion sont très importantes pour assurer le 
+succès, à travers la sensibilisation du public général. Il n’est pas souhaitable qu’un 
+fossé se creuse entre les véritables utilisateurs de la terminologie et les 
+organismes officiels. Même ces mesures-là doivent être attentivement et 
+systématiquement dessinées, réalisées et évaluées.   
+4 
+Soutien 
+de 
+l’infrastructure 
+de 
+terminologie: 
+des 
+experts 
+en 
+politique 
+terminologique sont requis pour que certains pièges au niveau de l’implantation d’une 
+politique de terminologie soient évités. Parallèlement, un plan d’action systématique 
+concernant la formation des experts en terminologie ainsi que la collaboration entre 
+les terminologistes, les spécialistes, les traducteurs, les linguistes et les éducateurs 
+sont considérés nécessaires. Des contributions provenant du secteur privé ne doivent 
+pas être sous-estimées. En outre, des institutions qui fournissent des services de 
+terminologie jouent un rôle important dans la collection, la documentation, la 
+systématisation et la dissémination de l’information terminologique. Des institutions 
+nationales peuvent délivrer des produits multilingues, coordonner la production des 
+terminologies, créer une base de données nationale concernant la terminologie, 
+disséminer des informations terminologiques aux utilisateurs, aux clients ou aux 
+collaborateurs ou se charger de la réalisation des projets terminologiques.    
+5   Conclusion 
+Selon la Déclaration de Bruxelles pour une Coopération Terminologique Internationale, les 
+Etats, les gouvernements, les organismes intergouvernementaux, les organisations 
+internationales ainsi que les entités impliquées dans les politiques linguistiques sont appelés 
+à promouvoir la mise en place des programmes de financement particulier pour le travail 
+terminologique, et surtout pour le développement et la mise à jour des terminologies. En 
+outre, - compte tenu du nombre grandissant des pays émergeants qui entreprennent la mise 
+en œuvre de politiques linguistiques - ils doivent assurer la formation de leurs experts aux 
+principes et méthodes de la terminologie dans le contexte du développement durable et 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+9
+assurer autant que possible un soutien aux experts de ces pays afin de leur permettre de 
+participer activement aux activités terminologiques internationales [3].   
+Dans ce contexte, de nombreux pays ont adopté une politique de coopération internationale 
+en échangeant d’informations terminologiques, bibliographiques et factuelles, en réalisant 
+de projets communs de terminologie appliquée (dictionnaires, logiciels, bases de données), 
+des actions de promotion et de développement linguistiques et en formant de 
+terminologues.  
+ 
+ 
+BIBLIOGRAPHIE 
+[1] 
+Cabré M.T., La terminologie, Théorie, méthode et applications, Les Presses de 
+l’Université d’Ottawa, 1998, p.21.    
+[2] 
+Gambier Y. «Présupposés de la terminologie : vers une remise en cause», Cahiers 
+de linguistique sociale, 1991, no 18, pp.31-58. 
+[3] 
+La Déclaration de Bruxelles pour une Coopération terminologique Internationale, 
+Bruxelles, 2002.  
+[4] 
+UNESCO, Guidelines for Terminology Policies, Formulating and implementing 
+terminology policy in language communities, Paris, 2005, p.4.      
+[5] 
+Corbeil J.C., «La terminologie:une discipline au service d’objectifs multiples», paru 
+dans www.ehu.es/euskalosasuna/baliabideak/liburutegia/01Corbeil.pdf le 10/05/2007. 
+[6] 
+Gouadec D., «Terminologie et terminographie : le point de la situation»,  
+Terminologie – Terminotique, outils, modèles et méthodes, Actes de la Première 
+Université d’Automne en Terminologie, Rennes, 21-26/09/ 1992, p.48. 
+[7] 
+ISO/IEC Guide 2/1991 (E/FR). 
+[8] 
+Auger P., «La terminologie au Québec et dans le monde, de la naissance à la 
+maturité», Actes du sixième colloque OLF-STQ de Τerminologie, Québec, 1988 : 27-
+59. 
+[9] 
+Béjoint  Η. & Thoiron P. (dirs), Le sens en terminologie, P.U.L., 2000 , p.16. 
+[10] 
+Cabré M.T., «Sur la représentation mentale des concepts : bases pour une tentative 
+de modélisation» dans Béjoint  Η. & Thoiron P. (dirs), Le sens en terminologie, 
+P.U.L., 2000 , p.37. 
+[11] 
+Wüster E., «L’étude scientifique générale de la terminologie, zone frontalière entre la 
+linguistique, la  logique, l’ontologie, l’informatique et les sciences de choses», 
+Rondeau G. & Felber H. (réd.), Textes choisis de terminologie, 1981, p.102. 
+[12] 
+UNESCO, Guidelines for Terminology Policies, Formulating and implementing 
+terminology policy in language communities, Paris, 2005, pp.22-30. 
+ 
+ 
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+10
+Glossaire 
+ 
+• planification de terminologie 
+• ορολογικός σχεδιασμός, σχεδιασμός 
+ορολογίας 
+• les politiques et les stratégies de la 
+terminologie 
+• οι πολιτικές και στρατηγικές ορολογίας 
+• politique nationale de terminologie 
+• εθνική πολιτική ορολογίας 
+• aménageur terminologique 
+• Υπεύθυνος ορολογικού σχεδιασμού 
+• activité normative ou régulatrice 
+des aménageurs 
+• τυποποιητική ή κανονιστική δραστηριότητα των 
+Υπευθύνων ορολογικού σχεδιασμού 
+• aménagement linguistique 
+• γλωσσικός σχεδιασμός 
+• norme terminologique 
+• πρότυπο ορολογίας 
+• normalisation linguistique 
+• γλωσσική τυποποίηση 
+• mot 
+• λέξη 
+• terme 
+• όρος 
+ 
+ 
+ 
+Diplari Christine 
+Enseignante de FLE 
+80, rue Ierotheou  
+Patras, 26222, Grèce 
+2610-340628 
+mfcdipla@upatras.gr  
+ 
+ 
+ 

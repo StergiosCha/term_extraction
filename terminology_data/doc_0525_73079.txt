@@ -1,0 +1,1316 @@
+SOURCE: http://www.eleto.gr/download/Bodies/Quadrilingual_Glossary_of_EPapanoutsos'-terms-of-logic.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+Νοέμβριος 2024 
+ 
+ 
+ 
+Τετράγλωσσο γλωσσάριο όρων λογικής του Ευάγγελου Παπανούτσου 
+(108 ορολογικά λήμματα) 
+Πηγή: 
+«ΛΟΓΙΚΗ» Ε.Π.Παπανούτσου, Δεύτερη έκδοση, ΕΚΔΟΣΕΙΣ «ΔΩΔΩΝΗ» ΑΘΗΝΑ, 1974 
+ 
+Σύνταξη: Κώστας Βαλεοντής 
+Έγκριση: ΓΕΣΥ 
+Εισαγωγικό σημείωμα 
+Το παρόν γλωσσάριο αποτελείται από δύο τετράγλωσσους Πίνακες ισοδύναμων όρων (Α και Β). 
+Στον πίνακα ισοδύναμων όρων Α περιλαμβάνονται οι ισοδύναμοι ελληνικοί, γαλλικοί, αγγλικοί και 
+γερμανικοί όροι των εννοιών της λογικής, οι οποίοι περιέχονται στο Μέρος ΙΙ του Παραρτήματος 
+του βιβλίου ΛΟΓΙΚΗ του Ευάγγελου Π. Παπανούτσου1, των Εκδόσεων «Δωδώνη» (Αθήνα, 1974)· 
+η παρουσίαση είναι αλφαβητική ως προς τον ελληνικό όρο. Στον πίνακα ισοδύναμων όρων Β οι όροι 
+παρουσιάζονται με τη σειρά: αγγλικός, ελληνικός, γαλλικός, γερμανικός και αλφαβητικά ως προς 
+τον αγγλικό όρο.  
+Δεν έχουν γίνει ουσιαστικές αλλαγές σε κανέναν από τους όρους. Οι μόνες αλλαγές που έγιναν είναι: 
+α) η αλλαγή της παρουσίασης των όρων και β) η μεταφορά κάποιων όρων από τον πληθυντικό 
+αριθμό στον ενικό, εφόσον δεν υπήρχε λόγος να είναι στον πληθυντικό. 
+Στο βιβλίο, οι ισοδύναμοι όροι δίνονται θεματικά κατά κεφάλαιο με τη μορφή κατακόρυφων ομάδων:  
+ελληνικός όρος 
+γαλλικός όρος 
+αγγλικός όρος 
+γερμανικός όρος. 
+και πολλοί από τούς πολυλεκτικούς όρους παρουσιάζονται με μετάθεση των συνθετικών τους. 
+Στο παρόν γλωσσάριο, οι ισοδύναμοι όροι παρουσιάζονται σε οριζόντιες γραμμές των δύο πινάκων 
+ισοδύναμων όρων, με κάθε γραμμή να αναφέρεται σε μία και μόνο έννοια της λογικής, χωρίς 
+μετάθεση των συνθετικών τους· π.χ. ενώ στο βιβλίο ο ελληνικός όρος είναι: αλήθεια τυπική (δηλαδή 
+παρουσιάζεται με αντιμετάθεση των συνθετικών του) εδώ γράφεται κανονικά: τυπική αλήθεια. 
+Στην τελευταία στήλη του κάθε πίνακα αναγράφεται το θέμα ή θεματικό υποπεδίο της λογικής στο 
+οποίο ανήκει η έννοια του αντίστοιχου ορολογικού λήμματος. 
+Πίνακας ισοδύναμων όρων Α 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Αγγλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+ακολουθία 
+conséquence 
+consequence 
+Folge 
+Προτάσεις 
+άμεσος διαλογισμός 
+raisonnement immediát 
+immediate inference 
+unmittelbarer Schluss 
+Διαλογισμοί 
+αναγκαία πρόταση 
+proposition nécessaire 
+necessary proposition 
+notwendig Satz 
+Προτάσεις 
+αναλογία, αναλογικός 
+διαλογισμός 
+analogie, raisonnement 
+par analogie 
+analogy, analogical 
+inference 
+Analogie, Analogieschluss 
+Διαλογισμοί 
+αναλυτική πρόταση 
+proposition analytique 
+analytic proposition 
+analytisch Satz 
+Προτάσεις 
+αναφορική σχέση 
+relation correlative 
+correlative relation 
+korrelative Relation 
+Νεώτερη Λογική 
+αντίθεση {εννοιών} 
+opposition 
+contrariety 
+Gegensatz 
+Έννοιες 
+αντίθετες προτάσεις 
+propositions contraires 
+contrary propositions 
+gegensätzliche Satze 
+Προτάσεις 
+                                                     
+1 Ο Ευάγγελος Παπανούτσος (1900–1982) ήταν σημαντικός Έλληνας παιδαγωγός και φιλόσοφος του 20ού αιώνα με ιδιαίτερη συμβολή στον 
+εκσυγχρονισμό της Ελληνικής Παιδείας. 
+E 
+Λ 
+Ε  Τ  Ο 
+L 
+E 
+2 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Αγγλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+αντιστροφή {προτάσεων}  
+conversion 
+conversion 
+Umkehrung 
+Προτάσεις 
+αντιφατικές προτάσεις 
+propositions 
+contradictoires 
+contradictory 
+propositions 
+kontradiktorische Satze 
+Προτάσεις 
+αξιολογική κρίση- 
+πρόταση 
+jugement de valeur 
+value judgment, 
+axiological judgment 
+Werturteil 
+Προτάσεις 
+αποδεικτική πρόταση 
+proposition apodictique, 
+proposition assertorique 
+apodictic proposition, 
+assertoric proposition 
+apodiktisch Satz, assertorisch 
+Satz 
+Προτάσεις 
+απόδειξη 
+preuve 
+proof 
+Beweis 
+Διαλογισμοί 
+αποκλεισμός του μέσου, 
+αποκλεισμός του τρίτου 
+exclusion du tiers 
+excluded middle 
+Ausschliessung des Dritten 
+Αρχές του Ορθού 
+λόγου 
+αποκλειστική διάζευξη 
+disjonction exclusive 
+exclusive disjunction 
+Disjunktion 
+Προτάσεις 
+απόφανση {ρ. αποφαίνομαι} assertion 
+statement {assertion} 
+Behauptung 
+Προτάσεις 
+απόφαση {ρ. αποφάσκω} 
+négation 
+negation 
+Negierung 
+Προτάσεις 
+αποφάσκω 
+nier 
+deny 
+verneinen {negieren} 
+Προτάσεις 
+άτοπο 
+absurde 
+non-sense {non-
+sensical} 
+Unsinn {unsinnig} 
+Νεώτερη Λογική 
+βάθος {της έννοιας} 
+compréhension, 
+connotation 
+intension, connotation 
+Inhalt 
+Έννοιες 
+γενική έννοια {γένους}2 
+concept générique 
+generic concept 
+genereller Begriff 
+Έννοιες 
+γενική πρόταση,  
+καθολική πρόταση 
+proposition générale, 
+proposition universelle 
+general proposition, 
+universal proposition 
+allgemein Satz 
+Προτάσεις 
+γένος 
+genre 
+genus 
+Gattung 
+Έννοιες 
+γνώμη 
+opinion 
+belief 
+Meinung 
+Προτάσεις 
+δείκτης ποσού 
+quantificateur 
+quantifier 
+Quantifikator 
+Προτάσεις 
+δεικτικός ορισμός 
+définition ostensive 
+ostensive definition 
+ostensive Definition 
+Έννοιες 
+διαίρεση 
+division 
+division 
+Einteilung 
+Έννοιες 
+διαλογισμός3 
+raisonnement 
+inference 
+Schluss 
+Διαλογισμοί 
+διαξευκτική πρόταση 
+proposition disjonctive 
+disjunctive proposition 
+disjunktive Satz 
+Προτάσεις 
+εγκυρότητα 
+validité 
+validity 
+Gültigkeit 
+Διαλογισμοί 
+ειδοποιός διαφορά4 
+différence spécifique5 
+specific difference6 
+artschaffende Differenz 
+Έννοιες 
+είδος 
+espèce 
+species 
+Art 
+Έννοιες 
+έκφραση 
+expression 
+utterance 
+Ausdruck 
+Προτάσεις 
+ελάσσων όρος 
+terme mineur 
+minor term 
+Unterterm, Unterbegriff 
+Διαλογισμοί 
+ελάσσων προκείμενη 
+prémisse mineure 
+minor premise 
+Untersatz 
+Διαλογισμοί 
+ενική έννοια7 
+concept singulier8 
+singular concept9 
+singulärer Begriff 
+Έννοιες 
+έννοια 
+concept 
+concept 
+Begriff 
+Έννοιες 
+επαγωγή 
+induction, raisonnement 
+inductif 
+induction, inductive 
+inference 
+Induktion, induktiver Schluss 
+Διαλογισμοί 
+επαλλάσσουσες έννοιες 
+partiellement 
+coïncidents 
+partially coincident 
+concepts 
+überschneidende Begriffe 
+Έννοιες 
+                                                     
+2  
+Πρόκειται για τη γένια έννοια της Ορολογίας (ΕΛΟΤ 561) 
+3  
+Νεότεροι συνώνυμοι όροι: συλλογισμός, συναγωγή, συμπερασμός (βάσεις όρων: INFORTERM, FORATERM) 
+4  
+Πρόκειται για το διακριτικό χαρατηριστικό της Ορολογίας (ΕΛΟΤ 561) 
+5  
+Πρόκειται για το caractéristique distinctive της Ορολογίας (ISO 1087) 
+6  
+Πρόκειται για το delimiting characteristic της Ορολογίας (ISO 1087) 
+7  
+Πρόκειται για την ατομική έννοια της Ορολογίας (ΕΛΟΤ 561) 
+8  
+Πρόκειται για την concept unique της Ορολογίας (ISO 1087) 
+9  
+Πρόκειται για την individual concept του ISO 1087 
+3 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Αγγλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+επάλληλες έννοιες 
+concepts coextensifs 
+coextensive concepts 
+koextensive Begriffe 
+Έννοιες 
+επαρκής λόγος, 
+αποχρών λόγος 
+raison sufisante 
+sufficient reason, 
+sufficient ground 
+zureichender Grund 
+Αρχές του Ορθού 
+λόγου 
+επιχείρημα 
+argument 
+argument 
+Argument 
+Διαλογισμοί 
+επόμενο 
+conséquent 
+consequent 
+Nachsatz 
+Προτάσεις 
+ετερότητα 
+altérité 
+otherness 
+Andersheit 
+Προτάσεις 
+ηγούμενο 
+antécédent 
+antecedent 
+Vorsatz 
+Προτάσεις 
+ἱκανοποιεῖν {τη 
+συνάρτηση} 
+satisfaire 
+satisfy 
+erfüllen 
+Νεώτερη Λογική 
+κανονική επιστήμη 
+science normative 
+normative science 
+Normwissenschaft 
+Γενικά 
+καταφάσκω 
+affirmer 
+affirm 
+bejahen 
+Προτάσεις 
+κατηγόρημα 
+prédicat 
+predicate 
+Prädicat 
+Προτάσεις 
+κατηγορική πρόταση 
+proposition catégorique, 
+proposition assertorique 
+categorical proposition, 
+assertoric proposition 
+kategorisch Satz, assertorisch 
+Satz 
+Προτάσεις 
+κρίση 
+jugement 
+judgment 
+Urteil 
+Προτάσεις 
+κύκλος {σόφισμα} 
+cercle 
+circle 
+Zirkel 
+Διαλογισμοί 
+λόγος 
+raison 
+ground 
+Grund 
+Προτάσεις 
+μείζων όρος 
+terme majeur 
+major term 
+Oberterm, Oberbegriff 
+Διαλογισμοί 
+μείζων προκείμενη 
+prémisse majeure 
+major premise 
+Obersatz 
+Διαλογισμοί 
+μερική πρόταση 
+proposition particulier 
+particular proposition 
+partikulär Satz 
+Προτάσεις 
+μέσος όρος 
+terme moyen 
+middle term 
+Mittelterm, Mittelbegriff 
+Διαλογισμοί 
+μεταβατική σχέση 
+relation transitive 
+transitive relation 
+transitive Relation 
+Νεώτερη Λογική 
+μεταβλητή {ουσ.} 
+variable 
+variable 
+Variabel, Veränderliche 
+Νεώτερη Λογική 
+ομοιότητα 
+similarité 
+similarity 
+Aehnlichkeit 
+Προτάσεις 
+οντολογική κρίση- 
+πρόταση 
+jugement ontologique 
+ontological judgment 
+Seinsurteil 
+Προτάσεις 
+ορθότητα 
+justesse 
+correctness 
+Richtigkeit 
+Διαλογισμοί 
+ορισμός 
+définition  
+definition 
+Definition 
+Έννοιες 
+ορισμός κατά το βάθος10 
+définition par intension11 
+intensional definition 
+Inhaltsdefinition12 
+Έννοιες 
+ορισμός κατά το πλάτος13 
+définition par 
+extension14 
+extensional definition 
+Bestandsdefinition15 
+Έννοιες 
+ορισμός ονομάτων 
+définition nominale 
+nominal definition 
+Nominaldefinition 
+Έννοιες 
+ορισμός πραγμάτων 
+définition réelle 
+real definition 
+Realdefinition 
+Έννοιες 
+ουσιαστική αλήθεια 
+vérité matèrielle 
+material truth 
+materiale Wahrheit 
+Γενικά 
+παραγωγή 
+déduction, 
+raisonnement déductif 
+deduction, deductive 
+inference 
+Deduktion, deduktiver Schluss 
+Διαλογισμοί 
+παραδοχή (εκδοχή) 
+supposition 
+assumption 
+(supposition) 
+Annahme 
+Προτάσεις 
+παραλογισμός 
+paralogisme 
+fallacy 
+Fehlschluss 
+Διαλογισμοί 
+παράσταση  
+réprésentation, image 
+image, representation 
+Vorstellung 
+Διαλογισμοί 
+περιγραφική επιστήμη 
+science descriptive 
+descriptive science 
+beschreibende Wissenschaft 
+Γενικά 
+                                                     
+10  Πρόκειται για τον εντατικό ορισμό της Ορολογίας (ΕΛΟΤ 561) 
+11  Συμπληρώθηκε από το ISO 1087 
+12  Συμπληρώθηκε από τη βάση όρων TermTerm 
+13  Πρόκειται για τον εκτατικό ορισμό της Ορολογίας (ΕΛΟΤ 561) 
+14  Συμπληρώθηκε από το ISO 1087 
+15  Συμπληρώθηκε από τη βάση όρων TermTerm 
+4 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Αγγλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+πλάτος {της έννοιας} 
+extension, dénotation 
+extension, denotation 
+Umfang 
+Έννοιες 
+προβληματική πρόταση 
+proposition 
+problematique 
+problematic 
+proposition 
+problematisch Satz 
+Προτάσεις 
+προκείμενη 
+prémisse 
+premise 
+Prämiss 
+Διαλογισμοί 
+πρόταση 
+proposition 
+proposition 
+Satz 
+Προτάσεις 
+πρόταση κατά 
+συμβεβηκός 
+proposition accidentelle 
+contingent proposition 
+akzidentiel Satz 
+Προτάσεις 
+προτασιακή συνάρτηση 
+fonction 
+propositionnelle 
+propositional function 
+Satzfunktion, Satzform 
+Νεώτερη Λογική 
+σκέψη με τον λόγο 
+pensée discursive 
+discursive thinking 
+diskursives Denken 
+Γενικά 
+σταθερά {ουσ.} 
+constante 
+constant 
+Konstante 
+Νεώτερη Λογική 
+σύζευξη 
+conjonction 
+conjunction 
+Konjunktion 
+Προτάσεις 
+συμπέρασμα 
+conclusion 
+conclusion 
+Schlusssatz 
+Διαλογισμοί 
+συμπληρωματικές 
+προτάσεις 
+propositions 
+complémentaires 
+complementary 
+propositions 
+ergänzende Satze 
+Προτάσεις 
+συναίσθημα 
+sentiment 
+sentiment {feeling} 
+Gefühl 
+Προτάσεις 
+συνάλληλες έννοιες16 
+concepts parallèles17 
+parallel concepts18 
+parallele Begriffe 
+Έννοιες 
+συνειρμός {των 
+παραστάσεων} 
+association 
+association 
+Assoziation 
+Διαλογισμοί 
+συνθετική πρόταση 
+proposition synthetique 
+synthetic proposition 
+synthetisch Satz 
+Προτάσεις 
+σύνολο 
+ensemble 
+set 
+Menge 
+Έννοιες 
+σχέση 
+relation 
+relation 
+Relation, Beziehung 
+Νεώτερη Λογική 
+τάξη 
+classe 
+class 
+Klasse 
+Έννοιες 
+ταξινόμηση 
+classification 
+classification 
+Klassifizierung 
+Έννοιες 
+ταυτότητα 
+identité 
+identity 
+Identität 
+Προτάσεις 
+τιμή αλήθειας 
+valeur de verité 
+truth value 
+Wahrheitswert 
+Νεώτερη Λογική 
+τὸ ἐν ἀρχῇ αἰτεῖσθαι19 
+pétition de principe 
+begging the question 
+Forderung des Anfangs 
+Διαλογισμοί 
+τροπική πρόταση 
+proposition modale 
+modal proposition 
+modal Satz, Modalsatz 
+Προτάσεις 
+τυπική αλήθεια 
+vérité formelle 
+formal truth 
+formale Wahrheit 
+Γενικά 
+τυπική Λογική 
+Logique formelle 
+formal Logic 
+formale Logik 
+Γενικά 
+υπάλληλες έννοιες 
+concepts subalternes 
+subaltern concepts 
+subalterne Begriffe 
+Έννοιες 
+υπαρξική πρόταση 
+proposition existentielle 
+existential proposition 
+Existenzsatz, existentialer Satz 
+Νεώτερη Λογική 
+υπεναντίες προτάσεις 
+propositions 
+subcontraires 
+subcontrary 
+propositions 
+subkonträre Satze 
+Προτάσεις 
+υποθετική πρόταση 
+proposition 
+hypothètique, 
+proposition subjonctive 
+hypothetical 
+proposition,  
+conditional proposition 
+hypothetisch Satz, 
+Bedingungssatz 
+Προτάσεις 
+υποκείμενο 
+sujet 
+subject 
+Subjekt 
+Προτάσεις 
+υπόταξη {εννοιών} 
+subordination 
+subordination 
+Unterordnung 
+Έννοιες 
+φράση {ρήση, ισχυρισμός} 
+énonciation 
+sentence 
+Aussage 
+Προτάσεις 
+χαλαρή διάξευξη, 
+εγκλειστική διάξευξη 
+disjonction inclusive 
+inclusive disjunction 
+Alternative 
+Προτάσεις 
+ 
+ 
+                                                     
+16  Πρόκειται για τις παρατασσόμενες έννοιες της Ορολογίας (ΕΛΟΤ 561) 
+17  Πρόκειται για τις concepts coordonnés της Ορολογίας (ISO 1087) 
+18  Πρόκειται για τις coordinate concepts της Ορολογίας (ISO 1087) 
+19  Στα νεοελληνικά ο όρος είναι: λήψη του ζητουμένου (λατ. petitio principii). 
+5 
+Πίνακας ισοδύναμων όρων Β 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+affirm 
+καταφάσκω 
+affirmer 
+bejahen 
+Προτάσεις 
+analogy, analogical 
+inference 
+αναλογία, αναλογικός 
+διαλογισμός 
+analogie, raisonnement 
+par analogie 
+Analogie, Analogieschluss 
+Διαλογισμοί 
+analytic proposition 
+αναλυτική πρόταση 
+proposition analytique 
+analytisch Satz 
+Προτάσεις 
+antecedent 
+ηγούμενο 
+antécédent 
+Vorsatz 
+Προτάσεις 
+apodictic proposition, 
+assertoric proposition 
+αποδεικτική πρόταση 
+proposition apodictique, 
+proposition assertorique 
+apodiktisch Satz, assertorisch 
+Satz 
+Προτάσεις 
+argument 
+επιχείρημα 
+argument 
+Argument 
+Διαλογισμοί 
+association 
+συνειρμός {των 
+παραστάσεων} 
+association 
+Assoziation 
+Διαλογισμοί 
+assumption (supposition) 
+παραδοχή (εκδοχή) 
+supposition 
+Annahme 
+Προτάσεις 
+begging the question 
+τὸ ἐν ἀρχῇ αἰτεῖσθαι20 
+pétition de principe 
+Forderung des Anfangs 
+Διαλογισμοί 
+belief 
+γνώμη 
+opinion 
+Meinung 
+Προτάσεις 
+categorical proposition, 
+assertoric proposition 
+κατηγορική πρόταση 
+proposition catégorique, 
+proposition assertorique 
+kategorisch Satz, assertorisch 
+Satz 
+Προτάσεις 
+circle 
+κύκλος {σόφισμα} 
+cercle 
+Zirkel 
+Διαλογισμοί 
+class 
+τάξη 
+classe 
+Klasse 
+Έννοιες 
+classification 
+ταξινόμηση 
+classification 
+Klassifizierung 
+Έννοιες 
+coextensive concepts 
+επάλληλες έννοιες 
+concepts coextensifs 
+koextensive Begriffe 
+Έννοιες 
+complementary 
+propositions 
+συμπληρωματικές 
+προτάσεις 
+propositions 
+complémentaires 
+ergänzende Satze 
+Προτάσεις 
+concept 
+έννοια 
+concept 
+Begriff 
+Έννοιες 
+conclusion 
+συμπέρασμα 
+conclusion 
+Schlusssatz 
+Διαλογισμοί 
+conjunction 
+σύζευξη 
+conjonction 
+Konjunktion 
+Προτάσεις 
+consequence 
+ακολουθία 
+conséquence 
+Folge 
+Προτάσεις 
+consequent 
+επόμενο 
+conséquent 
+Nachsatz 
+Προτάσεις 
+constant 
+σταθερά {ουσ.} 
+constante 
+Konstante 
+Νεώτερη Λογική 
+contingent proposition 
+πρόταση κατά 
+συμβεβηκός 
+proposition accidentelle 
+akzidentiel Satz 
+Προτάσεις 
+contradictory 
+propositions 
+αντιφατικές προτάσεις 
+propositions 
+contradictoires 
+kontradiktorische Satze 
+Προτάσεις 
+contrariety 
+αντίθεση {εννοιών} 
+opposition 
+Gegensatz 
+Έννοιες 
+contrary propositions 
+αντίθετες προτάσεις 
+propositions contraires 
+gegensätzliche Satze 
+Προτάσεις 
+conversion 
+αντιστροφή {προτάσεων}  
+conversion 
+Umkehrung 
+Προτάσεις 
+correctness 
+ορθότητα 
+justesse 
+Richtigkeit 
+Διαλογισμοί 
+correlative relation 
+αναφορική σχέση 
+relation correlative 
+korrelative Relation 
+Νεώτερη Λογική 
+deduction, deductive 
+inference 
+παραγωγή 
+déduction, 
+raisonnement déductif 
+Deduktion, deduktiver Schluss 
+Διαλογισμοί 
+definition 
+ορισμός 
+définition  
+Definition 
+Έννοιες 
+deny 
+αποφάσκω 
+nier 
+verneinen {negieren} 
+Προτάσεις 
+descriptive science 
+περιγραφική επιστήμη 
+science descriptive 
+beschreibende Wissenschaft 
+Γενικά 
+discursive thinking 
+σκέψη με τον λόγο 
+pensée discursive 
+diskursives Denken 
+Γενικά 
+disjunctive proposition 
+διαξευκτική πρόταση 
+proposition disjonctive 
+disjunktive Satz 
+Προτάσεις 
+division 
+διαίρεση 
+division 
+Einteilung 
+Έννοιες 
+                                                     
+20  Στα νεοελληνικά ο όρος είναι: λήψη του ζητουμένου (λατ. petitio principii). 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+excluded middle 
+αποκλεισμός του μέσου, 
+αποκλεισμός του τρίτου 
+exclusion du tiers 
+Ausschliessung des Dritten 
+Αρχές του Ορθού 
+λόγου 
+exclusive disjunction 
+αποκλειστική διάζευξη 
+disjonction exclusive 
+Disjunktion 
+Προτάσεις 
+existential proposition 
+υπαρξική πρόταση 
+proposition existentielle 
+Existenzsatz, existentialer Satz 
+Νεώτερη Λογική 
+extension, denotation 
+πλάτος {της έννοιας} 
+extension, dénotation 
+Umfang 
+Έννοιες 
+extensional definition 
+ορισμός κατά το πλάτος21 
+définition par 
+extension22 
+Bestandsdefinition23 
+Έννοιες 
+fallacy 
+παραλογισμός 
+paralogisme 
+Fehlschluss 
+Διαλογισμοί 
+formal Logic 
+τυπική Λογική 
+Logique formelle 
+formale Logik 
+Γενικά 
+formal truth 
+τυπική αλήθεια 
+vérité formelle 
+formale Wahrheit 
+Γενικά 
+general proposition, 
+universal proposition 
+γενική πρόταση,  
+καθολική πρόταση 
+proposition générale, 
+proposition universelle 
+allgemein Satz 
+Προτάσεις 
+generic concept 
+γενική έννοια {γένους}24 
+concept générique 
+genereller Begriff 
+Έννοιες 
+genus 
+γένος 
+genre 
+Gattung 
+Έννοιες 
+ground 
+λόγος 
+raison 
+Grund 
+Προτάσεις 
+hypothetical proposition,  
+conditional proposition 
+υποθετική πρόταση 
+proposition 
+hypothètique, 
+proposition subjonctive 
+hypothetisch Satz, 
+Bedingungssatz 
+Προτάσεις 
+identity 
+ταυτότητα 
+identité 
+Identität 
+Προτάσεις 
+image, representation 
+παράσταση  
+réprésentation, image 
+Vorstellung 
+Διαλογισμοί 
+immediate inference 
+άμεσος διαλογισμός 
+raisonnement immediát 
+unmittelbarer Schluss 
+Διαλογισμοί 
+inclusive disjunction 
+χαλαρή διάξευξη, 
+εγκλειστική διάξευξη 
+disjonction inclusive 
+Alternative 
+Προτάσεις 
+induction, inductive 
+inference 
+επαγωγή 
+induction, raisonnement 
+inductif 
+Induktion, induktiver Schluss 
+Διαλογισμοί 
+inference 
+διαλογισμός25 
+raisonnement 
+Schluss 
+Διαλογισμοί 
+intension, connotation 
+βάθος {της έννοιας} 
+compréhension, 
+connotation 
+Inhalt 
+Έννοιες 
+intensional definition 
+ορισμός κατά το βάθος26 
+définition par intension27 
+Inhaltsdefinition28 
+Έννοιες 
+judgment 
+κρίση 
+jugement 
+Urteil 
+Προτάσεις 
+major premise 
+μείζων προκείμενη 
+prémisse majeure 
+Obersatz 
+Διαλογισμοί 
+major term 
+μείζων όρος 
+terme majeur 
+Oberterm, Oberbegriff 
+Διαλογισμοί 
+material truth 
+ουσιαστική αλήθεια 
+vérité matèrielle 
+materiale Wahrheit 
+Γενικά 
+middle term 
+μέσος όρος 
+terme moyen 
+Mittelterm, Mittelbegriff 
+Διαλογισμοί 
+minor premise 
+ελάσσων προκείμενη 
+prémisse mineure 
+Untersatz 
+Διαλογισμοί 
+minor term 
+ελάσσων όρος 
+terme mineur 
+Unterterm, Unterbegriff 
+Διαλογισμοί 
+modal proposition 
+τροπική πρόταση 
+proposition modale 
+modal Satz, Modalsatz 
+Προτάσεις 
+necessary proposition 
+αναγκαία πρόταση 
+proposition nécessaire 
+notwendig Satz 
+Προτάσεις 
+negation 
+απόφαση {ρ. αποφάσκω} 
+négation 
+Negierung 
+Προτάσεις 
+nominal definition 
+ορισμός ονομάτων 
+définition nominale 
+Nominaldefinition 
+Έννοιες 
+                                                     
+21  Πρόκειται για τον εκτατικό ορισμό της Ορολογίας (ΕΛΟΤ 561) 
+22  Συμπληρώθηκε από το ISO 1087 
+23  Συμπληρώθηκε από τη βάση όρων TermTerm 
+24  Πρόκειται για τη γένια έννοια της Ορολογίας (ΕΛΟΤ 561) 
+25  Νεότεροι συνώνυμοι όροι: συλλογισμός, συναγωγή, συμπερασμός (βάσεις όρων: INFORTERM, FORATERM) 
+26  Πρόκειται για τον εντατικό ορισμό της Ορολογίας (ΕΛΟΤ 561) 
+27  Συμπληρώθηκε από το ISO 1087 
+28  Συμπληρώθηκε από τη βάση όρων TermTerm 
+7 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+non-sense {non-sensical} 
+άτοπο 
+absurde 
+Unsinn {unsinnig} 
+Νεώτερη Λογική 
+normative science 
+κανονική επιστήμη 
+science normative 
+Normwissenschaft 
+Γενικά 
+ontological judgment 
+οντολογική κρίση- 
+πρόταση 
+jugement ontologique 
+Seinsurteil 
+Προτάσεις 
+ostensive definition 
+δεικτικός ορισμός 
+définition ostensive 
+ostensive Definition 
+Έννοιες 
+otherness 
+ετερότητα 
+altérité 
+Andersheit 
+Προτάσεις 
+parallel concepts29 
+συνάλληλες έννοιες30 
+concepts parallèles31 
+parallele Begriffe 
+Έννοιες 
+partially coincident 
+concepts 
+επαλλάσσουσες έννοιες 
+partiellement 
+coïncidents 
+überschneidende Begriffe 
+Έννοιες 
+particular proposition 
+μερική πρόταση 
+proposition particulier 
+partikulär Satz 
+Προτάσεις 
+predicate 
+κατηγόρημα 
+prédicat 
+Prädicat 
+Προτάσεις 
+premise 
+προκείμενη 
+prémisse 
+Prämiss 
+Διαλογισμοί 
+problematic proposition 
+προβληματική πρόταση 
+proposition 
+problematique 
+problematisch Satz 
+Προτάσεις 
+proof 
+απόδειξη 
+preuve 
+Beweis 
+Διαλογισμοί 
+proposition 
+πρόταση 
+proposition 
+Satz 
+Προτάσεις 
+propositional function 
+προτασιακή συνάρτηση 
+fonction 
+propositionnelle 
+Satzfunktion, Satzform 
+Νεώτερη Λογική 
+quantifier 
+δείκτης ποσού 
+quantificateur 
+Quantifikator 
+Προτάσεις 
+real definition 
+ορισμός πραγμάτων 
+définition réelle 
+Realdefinition 
+Έννοιες 
+relation 
+σχέση 
+relation 
+Relation, Beziehung 
+Νεώτερη Λογική 
+satisfy 
+ἱκανοποιεῖν {τη 
+συνάρτηση} 
+satisfaire 
+erfüllen 
+Νεώτερη Λογική 
+sentence 
+φράση {ρήση, ισχυρισμός} 
+énonciation 
+Aussage 
+Προτάσεις 
+sentiment {feeling} 
+συναίσθημα 
+sentiment 
+Gefühl 
+Προτάσεις 
+set 
+σύνολο 
+ensemble 
+Menge 
+Έννοιες 
+similarity 
+ομοιότητα 
+similarité 
+Aehnlichkeit 
+Προτάσεις 
+singular concept32 
+ενική έννοια33 
+concept singulier34 
+singulärer Begriff 
+Έννοιες 
+species 
+είδος 
+espèce 
+Art 
+Έννοιες 
+specific difference35 
+ειδοποιός διαφορά36 
+différence spécifique37 
+artschaffende Differenz 
+Έννοιες 
+statement {assertion} 
+απόφανση {ρ. 
+αποφαίνομαι} 
+assertion 
+Behauptung 
+Προτάσεις 
+subaltern concepts 
+υπάλληλες έννοιες 
+concepts subalternes 
+subalterne Begriffe 
+Έννοιες 
+subcontrary propositions 
+υπεναντίες προτάσεις 
+propositions 
+subcontraires 
+subkonträre Satze 
+Προτάσεις 
+subject 
+υποκείμενο 
+sujet 
+Subjekt 
+Προτάσεις 
+subordination 
+υπόταξη {εννοιών} 
+subordination 
+Unterordnung 
+Έννοιες 
+sufficient reason, 
+sufficient ground 
+επαρκής λόγος, 
+αποχρών λόγος 
+raison sufisante 
+zureichender Grund 
+Αρχές του Ορθού 
+λόγου 
+                                                     
+29  Πρόκειται για τις coordinate concepts της Ορολογίας (ISO 1087) 
+30  Πρόκειται για τις παρατασσόμενες έννοιες της Ορολογίας (ΕΛΟΤ 561) 
+31  Πρόκειται για τις concepts coordonnés της Ορολογίας (ISO 1087) 
+32  Πρόκειται για την individual concept του ISO 1087 
+33  Πρόκειται για την ατομική έννοια της Ορολογίας (ΕΛΟΤ 561) 
+34  Πρόκειται για την concept unique της Ορολογίας (ISO 1087) 
+35  Πρόκειται για το delimiting characteristic της Ορολογίας (ISO 1087) 
+36  Πρόκειται για το διακριτικό χαρατηριστικό της Ορολογίας (ΕΛΟΤ 561) 
+37  Πρόκειται για το caractéristique distinctive της Ορολογίας (ISO 1087) 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Γαλλικός όρος 
+Γερμανικός όρος 
+Θέμα 
+synthetic proposition 
+συνθετική πρόταση 
+proposition synthetique 
+synthetisch Satz 
+Προτάσεις 
+transitive relation 
+μεταβατική σχέση 
+relation transitive 
+transitive Relation 
+Νεώτερη Λογική 
+truth value 
+τιμή αλήθειας 
+valeur de verité 
+Wahrheitswert 
+Νεώτερη Λογική 
+utterance 
+έκφραση 
+expression 
+Ausdruck 
+Προτάσεις 
+validity 
+εγκυρότητα 
+validité 
+Gültigkeit 
+Διαλογισμοί 
+value judgment, 
+axiological judgment 
+αξιολογική κρίση- 
+πρόταση 
+jugement de valeur 
+Werturteil 
+Προτάσεις 
+variable 
+μεταβλητή {ουσ.} 
+variable 
+Variabel, Veränderliche 
+Νεώτερη Λογική 
+ 
+ 
+ΑΝΑΦΟΡΕΣ 
+ 
+ISO 1087:2019 Terminology work and terminology science — Vocabulary 
+ 
+ΕΛΟΤ 561 Ορολογική εργασία και επιστήμη της ορολογίας – Λεξιλόγιο 
+ 
+Βάση όρων στα Φόρα FORATERM 
+ 
+Βάση όρων της Τεχνολογίας Πληροφοριών INFORTERM 
+ 
+Πολύγλωσση Διεθνής Βάση Όρων της Ορολογίας TermTerm. 
+ 
+ 

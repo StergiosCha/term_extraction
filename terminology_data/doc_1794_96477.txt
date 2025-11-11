@@ -1,0 +1,518 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_30-04-KasuyaKeisuke-KovaniMaria_Paper_V03.pdf
+
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+Are Grammatical Terminologies Translatable?; 
+A Debate about “Subject” in Japanese Linguistics 
+Keisuke Kasuya, Maria Kovani 
+AΒSTRACT 
+There has been a long debate about the concept of “subject” in Japanese linguistics. Japanese does not 
+have any relationships of grammatical agreement between subject and predicate and the usage of subject is 
+usually determined by context. In fact, grammatical subjects are frequently omitted in ordinary speech. From 
+the standpoint of functional linguistics, we could even say that the frame of “theme-rheme” is more important 
+for Japanese than the structure of “subject-predicate” with reference to European languages. In fact, it is the 
+frequent usage of the thematic particle –wa, (which does not designate subject but rather, topics of 
+sentence) that characterizes the organization of words in the sentence in Japanese. Then, some scholars go 
+so far as to assert strongly that it is necessary to abandon the term and concept of “subject” from 
+terminologies of Japanese linguistics. According to them, the presence of subject in Japanese is not 
+essential for a sentence to be complete; therefore; it is nothing but a “subjective complement”. This debate 
+brings the tension between universal validity and cultural background of scientific terminologies to the 
+surface. 
+ 
+Χρήση και Μετάφραση του Όρου  “Υποκείμενο”  
+στην Ιαπωνική Γλωσσολογία 
+ 
+Κεϊσουκέ Κασούγια, Μαρία Κοβάνη 
+ΠΕΡΙΛΗΨΗ 
+Ο όρος “υποκείμενο” έχει αποτελέσει συχνά αντικείμενο μελέτης στην Ιαπωνική γλωσσολογία. Σύμφωνα με 
+τη λειτουργική γλωσσολογία το υποκείμενο διακρίνεται σε τρεις κατηγορίες: το θέμα ή αλλιώς το ψυχολογικό 
+υποκείμενο, το γραμματικό υποκείμενο και τέλος το λογικό υποκείμενο. Το γεγονός ότι η Ιαπωνική γλώσσα 
+δεν παρουσιάζει συμφωνία μεταξύ υποκειμένου και κατηγορήματος και ότι η παρουσία του υποκειμένου 
+κρίνεται από το συγκείμενο μας οδηγούν στη διαπίστωση οτι στην περίπτωση της Ιαπωνικής η κατά τη 
+λειτουργική γλωσσολογία δομή “θέμα-ρήμα” είναι ισχυρότερη από τη σχέση “υποκειμένου-κατηγορήματος” 
+όπως νοήται στις Ευρωπαϊκές Γλώσσες. Προσπαθώντας να αναλύσουμε την θέση του όρου “υποκείμενο” 
+στην Ιαπωνική γλωσσολογία παρατηρούμε ότι ενώ από την περίοδο Μέιτζι και έπειτα η γενικότερη τάση που 
+επικρατούσε στην Ιαπωνία ήταν κοινή με την αντίστοιχη δυτική αντιμετώπιση του υποκειμένου ως 
+απαραίτητο συστατικό της πρότασης, τα τελευταία χρόνια οι απόψεις φαίνεται να διίστανται. Σύγχρονοι 
+γλωσσολόγοι αναγνωρίζοντας την καταλύτικη για τη δομή της πρότασης δράση του μορίου wa, ως δείκτη 
+του “θέματος” και όχι του “υποκειμένου”, προτείνουν την εγκατάλειψη του όρου “υποκείμενο” στην Ιαπωνική 
+γλώσσα θεωρώντας το κάθε άλλο παρά απαραίτητο για την ολοκλήρωση μιας πρότασης και 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+2 
+χαρακτηρίζοντας το ως υποκειμενικό συμπλήρωμα. Με αφορμή το ζήτημα της χρήσης ή μη του όρου 
+“υποκείμενο” φαίνεται να έρχεται και πάλι στην επιφάνεια το δίλημμα μεταξύ παγκοσμίας ισχύος και 
+πολιτισμικής προσαρμογής των επιστημονικών όρων.  
+Με δυο λόγια, εάν είναι όντως δυνατή η μετάφραση όρων από τη μία γλώσσα στην άλλη, τότε η αρχή της 
+δυναμικής ισοδυναμίας θα μπορούσε να εφαρμοσθεί ακόμα και σε επίπεδο όρολογίας.  
+ 
+ 
+ 
+ 
+0   Introduction: Terminologies of science and their cultural background 
+It is usually believed that terminologies of science have universal validity and are not affected by 
+a particular culture. If this is true, then these terminologies are not cultural-specific; you can 
+understand them sufficiently without making reference to any particular cultural contexts. But, 
+artificial symbolism in natural sciences put aside, If any given technical term has been derived 
+from its particular natural language, then, how far can it keep distance from its own cultural and 
+linguistic background? 
+In his article titled “Categories of thought and Language”, Emile Benveniste, well known French 
+comparative linguist, said that Aristotelian categories of thought (ten abstract modes of 
+predication based on ontology, which are considered to contribute to organize human 
+experiences a priori) were not abstracted from logic of thought, but, rather, from the grammatical 
+structure of language. Benveniste states; 
+Aristotle thus posits the totality of predictions that may be made about a being, and he aims 
+to define the logical status of each one of them. Now it seems to us ---- and we shall try to 
+show ---- that these distinctions are primarily categories of language and that, in fact, 
+Aristotle, reasoning in the absolute, is simply identifying certain fundamental categories of 
+the language in which he thought. (Benveniste 1971:57) 
+Then, it turns out that Aristotelian categories are nothing but reflections of “the language in which 
+he thought”, that is, Greek. Benveniste follows. 
+He was thus bound to reflect unconsciously the distinction which the language itself showed 
+among the main classes of forms, since it is through their differences that these forms and 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+3 
+these classes have a linguistic meaning. He thought he was defining the attribute of objects 
+but he was really setting up linguistic entities. (Benveniste 1971:61) 
+Benveniste’s considerations help us to pay attention to the problem of cultural background of 
+grammatical terminologies most of which were derived from logic. In this paper, we deal with the 
+notion of “subject” in the Japanese language and examine what problem lies in the concept itself. 
+1   The concept of “subject” in functional linguistics 
+What is “subject”? There have been countless discussions about “subject” in various fields of 
+study to be summarized in a brief definition. Having said this, it is important to set up a 
+theoretical perspective which is relevant, in order to proceed with such a discussion. From the 
+standpoint of functional grammar, which is most congruent with our concern, M. A. K. Halliday 
+observes that the concept of subject can be divided into three categories as below (Halliday 
+2004:55-56). 
+(1) Psychological subject; that which is the concern of the message 
+(2) Grammatical subject: that of which something is being predicated 
+(3) Logical subject: the doer of the action 
+In some cases these three aspects coincide in one word, but in other cases separate words are 
+assigned each of the three subject roles. For example, in the following sentence, three functions 
+are conflated in one word, “the duke”. 
+the duke 
+gave my aunt the teapot 
+psychological subject 
+grammatical subject 
+logical subject 
+ 
+In the following clause, which is derived from the first sentence, each function is distributed to 
+three different words. 
+the teapot 
+my aunt 
+are given by 
+the duke 
+psychological subject 
+grammatical subject 
+ 
+logical subject 
+Halliday says that we should not consider these three functions as sub-division of one 
+comprehensive notion: “They have to be interpreted as what they really are ---- three separate 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+4 
+and distinct functions. There is no such thing as a general concept of ‘Subject’ of which these 
+are different varieties. They are not three kinds of anything; they are three quite different 
+things.”(Halliday 2004:57) And he renames psychological subject as “theme”, grammatical 
+subject as ”subject”, logical subject as ”actor”. These remarks are so important that we can set 
+them as the starting point of our discussion, though we can put side “actor” because it is an 
+extra-linguistic state of affairs. In the following section, the focus is put on the contrast between 
+“theme” and “subject” in Japanese. 
+2   Theme and Rheme in Japanese 
+Halliday gives the following definition of “theme”; “The Theme is the element which serves as the 
+point of departure of the message; it is that which locates and orients the clause within the 
+context. The remainder of the message, the part in which the Theme is developed, is called in 
+Prague school terminology Rheme.”(Halliday 2004:64) According to Halliday, every language 
+has certain procedures to organize messages into thematic structure but the method is different 
+according to languages. For example, in English, “the theme is indicated by position in the 
+clause. In speaking or writing English we signal that an item has thematic status by putting it 
+first,”(ibid.) But there are languages which utilize other tools for marking theme. Here, Halliday 
+properly remarks that “in Japanese, for example, there is a special postposition –wa, which 
+signifies that whatever immediately precedes it is thematic.”(ibid.) What does “whatever 
+immediately precedes” mean? Please see the examples below. 
+Watashi    -wa        gakkou    -ni         iku. 
+I(pron.)    particle    school   particle   go 
+I go to school 
+Kyou     -wa       gakkou      -ni      iku. 
+today   particle   school  particle   go 
+(I) go to school today. 
+These two sentences have in common; “gakkou ni iku” which means “go to school” (“ni” is a 
+postpositional particle of locative). The pronoun “watashi” before the particle “-wa” is the subject 
+in the first sentence, but “kyou”(today) is not in the second. But, both words before –wa function 
+as “theme”, topics to be talked about. In this way, whatever word precedes -wa can become 
+“theme” of the sentence. Furthermore, note that no word for grammatical subject can be found in 
+the second sentence. It does not mean that it is an incomplete sentence nor some word of 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+5 
+subject is eliminated. In Japanese there is nothing missing in this sentence. This point is so 
+important that we would like to discuss it in detail later on. 
+Certainly the particle “-wa” can designate the subject, but not in all cases. And other particles 
+also are used for indicating grammatical subject, from which a very subtle distinction of meaning 
+arises. The contrast of –wa and –ga is a well known example. For example, see these 
+sentences. 
+a. Watashi wa Mary desu. 
+b. Watashi ga Mary desu. 
+Apparently, these two sentences have the same syntactic structure; “watashi” is the first person 
+singular pronoun, “desu” is the copula in Japanese. and “wa” and “ga” are grammatical particles. 
+And “watashi” is the subject of both sentences, but the meaning of the two sentences is different. 
+According to some scholars’ view, a noun before “wa” is the old information already shared by a 
+speaker and a hearer, while a noun before “ga” is the new information that a speaker wants to 
+convey to a hearer. Using Halliday’s terminologies, it could be said that a noun before “wa” is the 
+theme and a noun before “ga” is the rheme. That is to say, “watashi” is the theme and “Mary” is 
+the rheme in the first sentence, while “Mary” is the theme and “watashi” is the rheme in the 
+second. The relationship between theme and rheme can be reversed or changed by using 
+different particles. It can be illustrated as below.  
+Watashi -wa 
+Maria desu 
+Theme 
+Rheme 
+ 
+Watashi –ga 
+Maria desu 
+Rheme 
+Theme 
+Thus, though they have the same syntax structure, the pragmatic meanings of these two 
+sentences are entirely different. 
+3   The Debate about “Subject” in Japanese linguistics 
+Then, is it possible to speak about “subject” in Japanese in the same manner as we do in the 
+grammar of European languages? In Japan, since the Meiji era, most grammarians have 
+considered “subject” as an indispensable element of a sentence. But, faced with great difference 
+between Japanese and European languages, some linguists are inclined to think it is not 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+6 
+necessary to use the concept of “subject” in Japanese grammar. Among them the most famous 
+is Akira Mikami. Mikami wrote a book entitled “Zō wa hana ga nagai”, that means “An Elephant 
+has a long nose”. What is the question in this simple sentence? Its grammatical construction is 
+as following. 
+Zō               -wa          hana      -ga           nagai” 
+elephant    particle     nose     particle      long 
+In Japanese, there is no distinction between singular and plural noun, and a single adjective can 
+be a predicate of a sentence. A predicate of this sentence is “nagai” that means “long”. Then, 
+what word is subject? “Elephant” or “nose”? 
+Mikami thought “subject” exists only in languages that demand the grammatical agreement of 
+person and number between subject and predicate. But Japanese does not have such 
+relationship of agreement at all. Therefore, MIkami observes, it is not necessary to use the term 
+of “subject” in the Japanese grammar. According to him, in the sentence pattern like “Zo wa 
+hana ga nagai”, “NP+wa” is theme and “NP+ga” is subjective case. Neither is “subject” in the 
+sense of European languages. Literally translated this sentence could be put like this: “As for an 
+elephant the nose is long”. 
+The argument of Mikami is very clear and elucidating. According to Mikami, in Japanese the 
+thematic structure is often more important than the relationship between subject and predicate, 
+and a subject does not have any prevalent status over other parts of a sentence. In a sense the 
+subject is nothing but a complement of that sentence. For example, the structure of the sentence, 
+“watashi wa kyō gakkou ni iku” (I go to school today), can be illustrated as below. 
+ 
+Iku 
+“go” [verb] 
+ 
+ 
+Watasi -wa 
+“I” + particle 
+[subjective]  
+ 
+ Kyō 
+“today” [adverb] 
+ 
+Gakkou -ni 
+“school” + particle 
+[locative] 
+ 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+7 
+In this sentence, “I”, “today” and “to school” are all complements that modify the predicate verb 
+“go”. So far as they are complements, it is possible to add or omit them according to contexts. 
+Mikami criticized severely the prevailing view that Japanese indicating no subject is an irrational 
+language. Different languages use different modes of signification according to their linguistic 
+structures. Some languages process given information through definite grammatical procedures, 
+while others can do the same thing in the pragmatic manner, with the reference to the context. 
+Mikami states that without any context it would be impossible to say which is the correct 
+translation of an English phrase such as; “You are very kind” among four following French 
+expressions; “Tu es très gentil”. “Tu es très gentille”. “Vous êtes très gentil”. “Vous êtes très 
+gentille”. In fact, English does not have any grammatical rules which could determine the 
+familiarity between speaker and hearer and the gender of subject in utterances, and leaves all of 
+them to the reference to contexts. Nevertheless, nobody would consider English as an irrational 
+language. According to Mikami, it is the same with subject in Japanese; it can be uttered or 
+omitted depending on the context in which the utterance occurs. It is in this sense that the 
+subject in Japanese exists only as a complement which can be added or omitted if necessary, 
+not as a grammatical category which is indispensable for a sentence to be complete. 
+Mikami was a teacher of mathematics in high school for a long time and pursued the study of 
+grammar outside academia. Owning to it, his writings had been ignored by academic linguists 
+and grammarians. But, presently, the originality of his theory is recognized and highly 
+appreciated by a lot of linguists and teachers of Japanese (e.g. Kanaya 2002). 
+In the next section, we deal with some examples concerning translation of the Japanese subject. 
+4   Translatability of Japanese subject: some examples 
+In the Greek language the subject is usually a noun in the nominative case, but more than often 
+other words, such as pronouns, numerals, sentences or even adverbs are also used as subjects. 
+The verb accords in person and number with the subject, that is the nominative part of the 
+sentence (eg.Ο Γιάννης είναι ψηλός. Ο Γιάννης και ο Κώστας είναι ψηλοί). The subject is 
+eliminated when it is a pronoun of the first or second person, since it is revealed by verb’s 
+ending. It is explicitly stated only for the reason of emphasis. Moreover, the subject in third 
+person of singular/plural may be eliminated when allowed, which means either when it is 
+revealed by the context itself, or when it is indefinite/general (e.g. people, things), or when it is 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+8 
+expressed by the verb (e.g. verbs describing natural phenomena, such as to snow). The subject 
+is not indicated at all when the verb is impersonal. Some impersonal verbs are preceded by 
+personal pronouns in the genitive case but their subject is actually the noun that follows (eg. Μου 
+αρέσουν τα ταξίδια.). In this kind of syntax, the normal position for the subject is after the verb 
+but there are cases where the subject may be found before the personal pronoun. It is also 
+possible to use a secondary clause as a subject (eg. Μου αρέσει να ταξιδεύω.), in this case its 
+verb should have as the subject, the personal pronoun of the main sentence (eg. Μου αρέσει να 
+ταξιδεύω.: Εγώ = Subject of the second clause). 
+In other words, it is not always necessary to state the subject, unless demanded for coherence. 
+Therefore, it is clear that its presence depends on pragmatic factors and sentence structure. 
+Keeping in mind the above general characteristics of the subject in Greek, we will try to see how 
+we can translate the Japanese subject into Greek. Even though in Greek the subject is usually 
+revealed by a verb’s ending, in Japanese there is not such a rule, but there are other words, 
+grammatical particles, indicating the subject of the sentence such as -wa, -ga, -mo, -nara, etc.. 
+The only problem is what we consider as subject in Japanese. A simple definition is: the person, 
+the thing or the situation to which the sentence is referred. For instance, in the following example 
+watashi wa tanaka desu [= I am Tanaka] the subject is watashi [I] as shown by the word -wa and 
+as expressed by the context. In this case, the translation into Greek poses no problems, since 
+the subject of the sentence is the same as the subject of the verb. But, in the phrase, kono 
+tegami wa, watashi ga kakimashita [= I wrote this letter] even though the subject of the verb is 
+watashi [I] the subject of the sentence is the word tegami [letter]. In other words, the formal 
+subject of the last sentence might be watashi, but the semantic subject is tegami.  
+To be more specific, in this example the word wa, introduces the theme of the sentence, while 
+the word ga shows the subject of the verb, in other words, the formal subject of the sentence. 
+When translating from Japanese into Greek the translator will probably transform the first subject 
+into direct object and keep the second subject as the subject of the translated sentence. 
+Therefore, the most common translation would be “I wrote this letter”. The truth is that the syntax 
+SVO can be changed into the form of SOV in Japanese; watashi wa/ga kono tegami o 
+kakimashita (= I wrote this letter.). Therefore, instead of two subjects SSV the author of the 
+original could easily have used the form SVO. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+9 
+The most important difference between the two Japanese phrases lies not in syntactic but rather 
+in the semantic and stylistic order. Let’s see again the two examples: 
+a.  Kono tegami wa, watashi ga kakimashita. 
+b.  Watashi wa/ga kono tegami o kakimashita.    
+“kono” is a demonstrative, “tegami” means “letter”, “kakimashita” is the past tense of the verb 
+“write”. In the example (a) the sentence is nothing more than an explanation about the letter’s 
+author, while in the example (b) the sentence offers information about the subject I, specifying 
+what I did (as the subject). If we translate both examples into the form SVO, the intention of the 
+original (example a) to put more emphasis on the letter than the subject I, will not be conveyed. 
+If we would like to put emphasis on the word letter we could use passive form, where the subject 
+tegami, will be put as the subject and the subject watashi will become an agent. But, since the 
+passive form exists also in Japanese, if the intention of the original was to emphasize on the 
+word letter by using passive voice, example (a) would be written as kono tegami wa (watashi ni 
+yotte) kakaremashita (= This letter is written by me). Therefore, by choosing the passive form 
+when translating the example (a) our goal is partly achieved: keeping letter in the S position, but 
+at the same time we make a syntactic and mainly stylistic change.  
+It is clear that in the above example syntactic equivalence can’t be achieved, one of two subjects 
+must change syntactic role. Therefore, our attention should be directed mainly towards finding a 
+stylistic equivalent, respecting the active voice used on the original and the desire to emphasize 
+on the word letter. While searching for a stylistic equivalent we should be guided by the context. 
+For instance, if the example (a) is part of a dialogue between John and Mary and serves as 
+Mary’s answer to John’s question “Who wrote this letter?” (= Kono tegami wa, dare ga 
+kakimashita ka.) a suggestion would be to translate it by the phrase like “This letter? I wrote it!”.  
+5   Conclusion 
+Then, following the theory of MIkami, is it necessary to completely abandon the “subject” from 
+Japanese linguistics? As a linguist says (I’ori 2003), the use of the term “subject” does not cause 
+any problem if one keeps in mind the important fact that MIkami pointed out: in Japanese a 
+subject is nothing but one of complements of a sentence. In this sense, we should adopt a 
+nominalistic perspective concerning terminologies, which does not assume any abstract entities 
+for grammatical concepts. By doing this, it is possible to modify the outlines of theoretical 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+10 
+concepts according to languages to be described. We need not take on an essentialist view that 
+might consider the same universal categories to be applicable for all languages. 
+Languages are historical products that develop continually under their own cultural 
+circumstances.  The most abstract meta-language can not erase its original historicity.  Does this 
+mean that terminologies are culture-specific? This is not always so. As it is known, translation is 
+not just a mechanical transposition of words, but dynamic process in the historical context 
+between source language and target language. If it is possible to translate terminologies into 
+other languages, it means that the principle of dynamic equivalence in translation is applicable 
+not only to ordinary expressions but also to terminologies of science. Thinking in this way, we 
+could say the historicity of a language is not a negative restraint but rather a favorable condition 
+that makes possible the translation of terminologies. 
+6   References 
+[1] Benveniste, Emile 1971. Problems in General Linguistics, University of Miami Press. 
+[2] Halliday, Michael A.K. 2004. An Introduction to Functional Grammar, Third Edition, Hodder 
+Education. 
+[3] I’ori, Isao 2003. “Zou wa hana ga nagai” Nyūmon (Intoroduction to “Elephants have long 
+noses”), Kuroshio Shuppan. 
+[4] Mikami, Akira 1960. Zou wa hana ga nagai (Elephants have long noses), Kuroshio Shuppan. 
+[5] Mikami, Akira 1963. Nihongo no ronri (Logic of Japanese), Kuroshio Shuppan. 
+[6] Kanaya, Takehiro 2002. Nihongo ni Syugo wa Iranai (The Japanese language does not 
+need any subject), Kodansha. 
+ 
+Glossary 
+Agreement (between subject and verb) 
+Συμφωνία 
+Complement 
+ 
+ 
+ 
+Συμπλήρωμα 
+Context 
+ 
+ 
+ 
+ 
+Συγκείμενο 
+Copula 
+ 
+ 
+ 
+ 
+Συνδετικό Ρήμα 
+Essentialism 
+ 
+ 
+ 
+Ουσιοκρατία 
+Function 
+ 
+ 
+ 
+ 
+Λειτουργία 
+Functional linguistics 
+ 
+ 
+Λειτουργική Γλωσσολογία 
+Nominalism 
+ 
+ 
+ 
+Ονοματοκρατία 
+Object 
+ 
+ 
+ 
+ 
+Αντικείμενο 
+Particle 
+ 
+ 
+ 
+ 
+Μόριο 
+Person 
+ 
+ 
+ 
+ 
+Πρόσωπο 
+Pragmatics 
+ 
+ 
+ 
+Πραγματολογία 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+11 
+Predicate  
+ 
+ 
+ 
+Κατηγόρημα 
+Pro-drop 
+ 
+ 
+ 
+ 
+Παράλειψη Υποκειμένου 
+Pronoun 
+ 
+ 
+ 
+ 
+Αντωνυμία 
+Rheme 
+ 
+ 
+ 
+ 
+Ρήμα 
+ 
+Semantics  
+ 
+ 
+ 
+Σημασιολογία 
+Subject 
+ 
+ 
+ 
+ 
+Υποκείμενο 
+Syntax 
+ 
+ 
+ 
+ 
+Σύνταξη 
+Term 
+ 
+ 
+ 
+ 
+Όρος 
+Terminology 
+ 
+ 
+ 
+Ορολογία 
+Theme 
+ 
+ 
+ 
+ 
+Θέμα 
+Translation 
+ 
+ 
+ 
+Μετάφραση 
+ 
+ 
+ 
+Keisuke Kasuya 
+Professor, Graduate School of Language and Society, Hitotsubashi University 
+2-1 Naka, Kunitachi-shi, Tokyo, Japan, P.C. 186-8601  
+Tel. +81 42 580 8645  
+E-mail: cs00190@srv.cc.hit-u.ac.jp 
+ 
+Maria Kovani 
+Student of the doctoral course of the Graduate School of Language and Society, Hitotsubashi University  
+1-14-23-207 Naka, Kunitachi-shi, Tokyo, Japan, P.C. 186-0004 
+Tel.: +81 80 56 42 74 96   
+E-mail: makovani@hotmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

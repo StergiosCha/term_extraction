@@ -1,0 +1,440 @@
+SOURCE: http://www.eleto.gr/download/Conferences/11th%20Conference/Papers-and-speakers/11th_30-22-33_KaterinakisTh_PapadopoulosNik_Paper_V02.pdf
+
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+381 
+30    The sounds of silence inform situation awareness concepts: 
+Methodological and terminological aspects in aviation culture  
+and the work of OMEODEK in the context of Greek and English 
+    
+Theodoros Katerinakis, Nikos Papadopoulos 
+ 
+ABSTRACT 
+In communication theory, airplane flights are abstract representations of the "sender-receiver" model with 
+flight operating manuals dictating all activities in a sense of “flight normality”; but aviation is paying attention 
+to detail and monitor exceptions beyond ideal flight situations. Different scholars had highlighted diverse 
+aspects in such conversations like linguistic factors; problematic discourse; message misunderstandings, 
+and human error variations. The current study aims to show the convergence of that conversation in terms 
+that play a key role in explaining expertise and knowledge production in the broader field of critical 
+environments. 
+OMEODEK as a special task force for Greek air traffic administration terminology operates under the 
+auspice of the Hellenic Civil Aviation Authority and monitors aviation communication, combining terminology 
+and field knowledge. OMEODEK's interactions are material properly formulated to apply research 
+methodologies like grounded theory, protocol analysis and discourse analysis. In its current work, 
+OMEODEK examines speech acts with the professional community of the field to ensure terminological 
+quality and linguistic security. OMEODEK realizes that translation is an on-going process in order to 
+accomplish localization and deal with open challenges of topical adjustment. In this study, raw data from 
+pilots and air traffic controllers interactions were collected, as part of the work of the theoretical foundation of 
+OMEODEK in order to highlight conceptual and research-oriented contribution and its didactics.  
+The role of silence in non-verbal communication and organization theory, as well as the meaning of expertise 
+in scaling stages of awareness are key theoretical contributions of the current analysis, deriving from the 
+work that supports OMEODEK operations. By reviewing these terms in Greek and in English OMEODEK 
+network partners offer material for specific subject fields like pragmatics and safety-related investigations. 
+Οι ήχοι της σιωπής ενημερώνουν πτυχές της επίγνωσης κατάστασης: 
+Μεθοδολογικές και ορολογικές πτυχές στην αεροπορική κουλτούρα και 
+το έργο της OMEODEK στο πλαίσιο της ελληνικής και της αγγλικής 
+ 
+Θεόδωρος Κατερινάκης, Νίκος Παπαδόπουλος 
+ΠΕΡΙΛΗΨΗ 
+Στη θεωρία επικοινωνίας, οι πτήσεις αεροπλάνων είναι αφηρημένες αναπαραστάσεις του υποδείγματος 
+"αποστολέα-παραλήπτη" στο οποίο η τήρηση των εγχειριδίων υπαγορεύει τις ενέργειες που οδηγούν στην 
+κανονικότητα της πτήσης. Πολλές φορές αυτή η κανονικότητα είναι μια ιδεατή κατάσταση μια και στην 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+382 
+αεροπλοϊα η προσοχή στη λεπτομέρεια και δυντότητα διάγνωσης και εντοπισμού εξαιρέσεων είναι 
+απαραίτητη. Διαφορετικοί μελετητές έχουν επισημάνει διαφορετικές πτυχές σε τέτοιες συζητήσεις όπως οι 
+γλωσσικοί παράγοντες, η προβληματική του λόγου, τα αμφίσημα μηνύματα και οι παραλαγές του, και 
+παραλλαγές του ανθρώπινου λάθους. Η τρέχουσα εργασία επιδιώκει να δείξει τη σύγκλιση αυτής της 
+τυποποιημένης κανονικότητας με όρους των πραγατικών συμβάντων που παίζουν ένα ρόλο κλειδί για την 
+εξήγηση της παραγωγής γνώσης σε κρίσιμα περιβάλλοντα. 
+Η ΟΜΕΟΔΕΚ ως μια ειδική ομάδα εργασίας για της διαχείριση της ορολογίας ενέριας κυκλοφορίας 
+λειτουργεί υπό την αιγίδα της ελληνικής Υπηρεσίας Πολιτικής Αεροπορίας και παρακολουθεί την αεροπορική 
+επικοινωνία, την ορολογία και τη γνώση που παραγεται στο πεδίο της διαχείρισης ενέριας κυκλοφορίας και 
+διαχεέται με τη γλώσσα επικινωνίας. Οι αλληλεπιδράσεις των μελών αλλά και των επαγγελματιών που 
+συνεισφέρουν με περιγραφές συμβάντων στην ΟΜΕΟΔΕΚ αποτελούν υλικό σωστά σχεδιασμένο για να 
+εφαρμόσει μεθοδολογίες έρευνας όπως η θεμελιωμένη θεωρία, ανάλυση πρωτοκόλλων εργασίας και 
+ανάλυση συνομιλιών. Στην τρέχουσα εργασία, η ΟΜΕΟΔΕΚ εξετάζει τη διαδοχή ομιλίας και πράξης στην 
+επαγγελματική κοινότητα του πεδίου για να εξασφαλίσει ορολογική ποιότητα και τη γλωσσική ασφάλεια. Η 
+ΟΜΕΟΔΕΚ συμβάλλει στη συνειδητοποίηση ότι η μετάφραση είναι μια συνεχής διαδικασία προκειμένου να 
+ολοκληρώσει τη την τοπική προσαρμογή και να αντιμετωπίσει τις προσκλήσεις των περιφράσεων και των 
+νεολογισμών. Σε αυτή τη μελέτη συγκεντρώθηκαν ανεπεξέργαστα δεδομένα από τους πιλότους και τις 
+αλληλεπιδράσεις ελεγκτών εναέριας κυκλοφορίας, που καταδεικνύουν τη δουλειά της θεωρητικής 
+θεμελίωσης της εργασίας της ΟΜΕΟΔΕΚ προκειμένου να αναδειχτεί η συμβολή της στη διδακτική της 
+γλώσσας πεδίου και στην εννοιολογική εκλέπτυνση της ορολογίας. Η χρήση των διαθέσιμων για την 
+ΟΜΕΟΔΕΚ πηγών για τη συλλογή δεδομένων, κατηγοριοποίηση και ανάλυση, περιλαμβάνει ενδεικτικά τα 
+ακόλουθα: 
+• προσωπικές εμπειρίες και προκαταλήψεις;  
+• εθνογραφικές επισκέψεις πεδίου σε αερολιμένες, αεροπορικές βάσεις, πύργους ελέγχου και αρχές 
+πολιτικής αεροπορίας 
+• περιπτωσιολογικές μελέτες πτήσεων ορόσημο,  συνεντεύξεις με επαγγελματίες στην αεροπλοϊα  
+• ιστορίες ζωής στα βιογραφικά βιβλία και τα προφορικές αφηγήσεις 
+• αντικείμενα, πολιτιστικά κείμενα και παραγωγές μέσω μιας δραματοποιξμένων σειρών για πιλότους 
+μαχητικών αεροσκαφών  
+ Ο ρόλος της σιωπής στην μη-λεκτική επικοινωνία και τη θεωρία οργάνωσης, καθώς και την έννοια της 
+εμπειρογνωμοσύνης σε κλιμακωτά στάδια της επίγνωσης κατάστασης είναι βασικές θεωρητικές συνεισφορές 
+της τρέχουσας ανάλυσης, που απορρέουν από την εργασία που υποστηρίζει τις λειτουργίες της ΟΜΕΟΔΕΚ. 
+Με την αναθεώρηση αρχικών όρων μετάφρασης στα Ελληνικά και των περιγραφών τους στα Αγγλικά, η 
+ΟΜΕΟΔΕΚ προσφέρει υλικό για συγκεκριμένα θεματικά πεδία και διαμορφώνει και ένα περιβάλλον διάχυσης 
+πληροφόρησης που προάγει το αντικείμενο της εργασίας του ελεγκτή. 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+383 
+0   Introduction  
+In communication theory, airplane flights are abstract representations of the "sender-receiver" 
+model with flight operating manuals dictating all activities in a sense of “flight normality”; but 
+aviation is paying attention to detail and monitor exceptions beyond ideal flight situations. 
+Different scholars had highlighted diverse aspects in such conversations like linguistic factors; 
+problematic discourse; message misunderstandings, and human error variations. The current 
+study aims to show the convergence of that conversation in terms that play a key role in 
+explaining expertise and knowledge production in the broader field of critical environments. 
+A great deal of relevance was accomplished after a series of my field visits for evaluation and 
+active observation in aviation installations, as well as from the accumulated participant 
+observation and work in such environments. A process of constant comparison starts with the 
+first level of reading and identifying phenomena of interest in the analysis of data and then a 
+decision on the theoretical sampling is taken; it is about what type of data are to be collected 
+next to support the theory construction [1]. 
+In aviation communication occurs in an environment which challenges effectiveness and where 
+failures may have severe consequences. Although English as a lingua franca was designated for 
+international aviation use in 1951 [2], substantial issues of culture (in terms of habits and safety), 
+professional behavior, operational training, and compliance in standardization still exist [3] . As 
+Cushing  [4] has analyzed, contextual constraints and language are combined in communication 
+problematic inside the flight deck and when pilots and controllers interact. Jones [5], in his 
+review, writes about “symptoms of miscommunication”; those include procedure or instruction 
+violation (like clearance avoidance) and communication-specific problems (like arbitrary 
+interpretation, dialects, and inappropriate phrasing). Also, Jones speaks about “phraseology 
+defects”, like multiplicity of meaning, multiplicity of synonyms, and implausible words, with a 
+contextual meaning that may be different from the colloquial meaning, as pointed out by Howard  
+[6]. 
+1   Raw Data in the Ego- Alter Conversation 
+The work of OMEODEK paved the way of systematic collection of diverse sources of aviation 
+expression means and cultivated a mindset of sharing events, ideas, and  the incorporation of 
+professional experience as applied and perceived. This paper highlights the methodological 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+384 
+aspects surrounding the work of OMEODEK. Data collection acquires theoretical significance 
+with the selection of additional data (events, testimonies, visual productions, activities, experts, 
+etc.) to exposit all properties of the developing conceptual categories and develop them further, 
+at both the individual and social levels [7]. These resources, as proposed by a grounded theory 
+approach for data gathering, categorizing and analyzing, include the following: 
+• 
+personal experiences and preconceptions;  
+• 
+ethnographic field visits to airports, air bases, control towers and aviation authorities; 
+• 
+case studies of landmark flights;  
+• 
+interviews with aviation professionals;  
+• 
+life stories in biographical books and oral narratives;  
+• 
+artifacts, cultural texts and productions via a special drama series on fighter pilots;  
+• 
+observational, historical, interactional and visual texts, in documentaries and media 
+interviews. 
+• 
+protocol analysis lessons to facilitate the acquisition of insights and 
+• 
+discourse analysis practices with close reading for the theory construction, sorting and 
+comparisons. 
+ 
+A real discussion is the first phase of data acquisition for real life events in aviation is contained 
+below to highlight one type of sources used from OMEODEK. The transcription has several 
+similarities with pieces of the proceeding of MOTO [8]. An excerpt is contained below to highlight 
+the qualitative approach needed to evaluate the knowledge factor in the semantics of "Ego-Alter" 
+interaction: 
+Ego: I was serving my duty in 115 CW during the Imia crisis and I was a substandard 
+during the week of COC missions.  
+Alter: nice, I was in the Academy at the time… 
+Ego: coming from that experience I wanted to accent the importance and role of HAF 
+pilots as highly skilled, risk-taking practitioners and decision makers. Furthermore, I 
+would like to explore the limitations, tolerance or creativity involved when following 
+SOPs and RoEs. Lastly, to explore the role of communication in an efficient 
+implementation of a flight mission. 
+Alter: these are kind of esoteric questions that we keep in the back of my head, since 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+385 
+when I am about to fly I never know what my experience would be. 
+Ego: I know, I know …and I thought to use some real cases to have a base for this 
+discussion. 
+Alter: (nonverbally knocking head to go on) 
+Ego: Here is a situation reported in NASA’s Aviation Safety Reporting System: 
+A real case of a B737 Captain's Report:  On takeoff roll approaching 80 
+knots, the Tower Controller called us and said in a very slow, unsure voice, 
+“[Callsign 1…2…3](pause).” He sounded as if he had something to tell us, but 
+did not know what to say. We both noted a tone of concern and hesitation in 
+his voice as if he was still unsure of something at that moment. We were light 
+weight and had 13,000 feet of runway ahead of us. We had to make an 
+immediate decision.  
+Ego: What is going on here, in your opinion? 
+Alter: Oh… that is not so uncommon situation [laughing]. I am not sure why they report 
+it. 
+Ego: What do you mean? This is the ASRS anonymous system of reporting. What are 
+the rules for that? 
+Alter: So, when we are in the flight school we share training ours with ATC so that we 
+understand their work. They have multiple stimuli in their screens and visual scope and 
+each communication unit is a separate case. 
+Ego: [interrupting] is or should be? Do they have to multitask? 
+Alter: Of course, they do but they have resources to isolate frequencies, call signs, one 
+flight-after another and also to categorize intra-flight communications (from pilot-to 
+copilot etc). 
+Ego: I see, but let’s go back to the rules. What are the SOPs applied in this situation. 
+Alter: I have to say that in such a discussion I feel like a doctor who evaluates another 
+doctor’s patient, without being there. But, this is straightforward to say that I should ask 
+back to ATC, before reporting back on the command, “what happened? Repeat 
+Tower”? 
+Ego:  Do you just repeat, as we would do in routine conversation? What about the tone 
+of the voice and hesitation? 
+Alter: If it is not incidental (as it could be), it could be a warning sign for an 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+386 
+uncomfortable situation, a problematic pendency or something that has to do with the 
+actual flight, or the status of the runaway, or the taxiway. 
+Ego: So how do you evaluate that on site? Do you just follow the book or try to relate 
+more with the ATC person? 
+Alter: It is quite different is you are airborne or you are preparing for clearance. It seems 
+that this pilot is still on the ground, isn’t he? 
+Ego: Correct, he was in the ground. But, how do you decide? 
+Alter: At first, when on the ground, if I have a co-pilot I consult him for his opinion as it is 
+common for us to challenge the ATC when in small airports. If you are airborne that is a 
+different story.  
+Ego: Is it so objective to tell, about a busy or a small airport or how you relate with 
+ATC? 
+Alter: Of course, if I know the ATC person I may bypass the standard phraseology to 
+say “Eh, John what happened? Why do you hesitate?” If not I may just stay to wait, 
+especially if I do not have a series of corresponding flights in a sequence. I know that 
+safety is the primary concern but we are also employees… 
+Ego: So, do you think that this is judgment call? What are your criteria? Are they 
+different from the book? 
+Alter: when I started my career I had a concern, almost fear about the risks that are 
+uncertain when I receive indefinite communication. It took me several hundred hours, I 
+could say after 1,000 flying hours to start felling safe about myself and specific travel 
+routes (when the weather is general terms “stable”). I try to include in my social 
+relations people from ATC, as well as other aviation professionals in order to develop a 
+level of familiarity for their personalities. When I fly abroad, especially overseas I make 
+an effort for an intense briefing about the local controllers, their behaviors and 
+stereotypes in the use of air-speak English and phraseology. 
+... 
+The excerpt above simulates a pattern of realistic conversation commenting on specific 
+scenarios and not just answering questions of Q/A sessions. The scenario approach is more 
+effective for knowledge elicitation rather than perceptions and  opinions. 
+ 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+387 
+2. Advancing from Questioning Route to the Representation 
+The ego-alter discussion provides the data for a structured questionnaire which was dissolved 
+due to the lack of discussion focus; then I introduce the Ishikawa (fishbone-shaped) diagram 
+with contributing “causes and a key effect (in the fish head)” with the a different core topic 
+regarding the conformity and deviance to rules. The operation-related fishbone format 
+disqualified its use from commercial pilots and controllers, where as fighter pilots where keen on 
+it. The Ishikawa diagrams (also known as fishbone diagrams or cause-and-effect diagrams) are 
+visual tools that show the path for contributing factors to a certain event (area of interest or 
+problem). Ishikawa diagrams were first introduced in quality improvement of industrial processes 
+[9]. The theoretical theme is in the “fish head”: Practitioners in their daily practice, rather than 
+totally relying on Standard Operating procedures, make use of their own tacit experiences when 
+faced with decisions to make. 
+Is it valid for pilots? In order to draw the frame for pilots as highly-skilled practitioners in an 
+environment of mediated communication, and explain communicative activities that they commit. 
+Is it valid for Air Traffic Controllers?  In order to show how pilots (senders) perceive or 
+understand the position of ATC (receivers) in their communication interaction. This sequence 
+could be used to validate questions. 
+ 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+388 
+ 
+Fig.1 The Ishikawa diagram 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+389 
+ 
+ 
+Among others, indicative questions, in different branches of the diagram, are the following: 
+a. Flying Instinct: to investigate deeper characteristics that define the pilot’s personality and 
+affect their communication and team spirit. 
+Awareness and trusting colleagues 
+A flight that you always remember 
+Who do you think as your mentor? 
+What is your personal doctrine? 
+Why do you fly? Why did you become a pilot? 
+We-ness: my squadron, my family; my "colleagues", "my brothers"?
+ 
+b. Flying as Feeling or a Profession: emotional profile of a pilot in regards to implicit 
+communication. 
+Is it fearful to fly? 
+How does it feel to serve in defensive missions? 
+Do you have religious feelings for what you do?  
+Is there any morality call when you fly? 
+ 
+The questioning sequence directed by the fishbone diagram generates a context of familiarity for 
+pilots and air traffic controllers to offer their insights. Since the early years of (mainly) civil 
+aviation, crew members’ reluctance to speak up, and the resultant silence has posed a serious 
+threat to flight safety. Silence, in the mid of the responders, may be observed inside the airplane 
+cabin (with passengers, pursers, and flight attendants), inside the airplane cockpit, between 
+cockpits (in crisis situations) or may be measured institutionally with the flight log reports where 
+the crew has to fill any noteworthy information (for the airlines and the manufacturer, such as 
+mechanical problems, operating environment problems, technical inconsistencies and so on).  
+Also, responders are asked to take the point of view of their role, so that silence would emerge 
+as a phenomenon with multiple dimensions: silence from whom, addressed to whom, used by 
+the controller or the crew member, perceived by the controller, crew member, an external pilot or 
+the airline operator. Since a flight is accomplished in a collaborative environment NASA 
+introduced a managerial requirement in 1979, promoting the cockpit resource management that 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+390 
+evolved to Crew Resource Management (CRM). Symbolically, the prompting device of CRM was 
+the triplet: communication, communication, and communication.  
+3   Language Expressing Awareness 
+In the analysis of oral and written discourse in aviation it is important to understand the 
+mechanics of language (and the language of special purposes used in aviation), but how human 
+actors practice “what to say to whom” and “how to say it appropriately in a particular situation”. 
+That is the notion of communicative competence introduced by Hymes  [10],  which defines what 
+is correct and what is not (according to aviation phraseology and institutional contact standards). 
+Also, competence is needed in order to decide when and where to use language appropriately 
+(like the motivating, collaborating language devices, the suspending order to co-pilots, the 
+laconic calls to Control Tower, the readback of important instructions, the non-verbalisms that 
+communicate emotion, activate mediated banner messages to the cabin or message updates to 
+the passengers seats with no announcement)  and with whom (controller, co-pilot, cabin crew 
+members,  passengers as a collective).  
+Another rather latent conceptual dimension is the representative nature of situational awareness 
+(SA). As Flach [11] points out a form of circular reasoning might occur when SA is overestimated 
+as an objective cause of flight accidents: “How do we know that SA was lost? It is because the 
+human actors responded inappropriately? And why did the human respond inappropriately? It is 
+because SA was lost.” In order to avoid tautological conclusions, SA in this study is connected 
+with human communication consequences/effects to aviation safety. The process of SA refers to 
+how SA develops and sustains during flight. At the same time, SA is the resultant concept, like a 
+product of the process.  
+In the typology of awareness the transitory type is closer to the group communication and 
+teamwork. The local type fits typical perception in communication models. Also, the local and 
+global types are linked with situations of multiple levels of hierarchy and intra-organizational 
+communication. The separation of SA in types denotes that an individual could commit in 
+awareness of any type (or of all types at once). Real-life topical factors and message flow (in 
+flight, combat, or other activity) indicate which type is relevant. As it happens in communication 
+patterns, “the participants' confidence” in their situation awareness might be different than their 
+“actual situation awareness”. Receivers perception of a message may be different that the 
+intended content of the message. 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+391 
+SA, especially in the expansion of the three types, implies clear communicative dimensions as 
+human actors should act upon, respond to, and confirm/correct important informational cues. 
+Apart from that, human communication forwards the information flow functioning in L(ocal)A 
+type, and facilitates the move to T(ransitory)A type. The G(lobal)A type needs also reporting and 
+critical evaluation and access to privileged operational and mission information. Awareness (of 
+all types) is internal to the individual and the meaning making process, and does not reside on 
+any (technological) information display. The individual actor develops awareness when 
+considering the interpersonal interactions and relationships with relevant communication. 
+Interpersonal communication, here, includes the form of the “individual-group-team”, or the form 
+of “own vs opposing force/group” in command and control contexts.  
+4   Sustaining OMEODEK 
+While Air Traffic Controllers are following a new intense period of everyday life work in the past 
+two years due to the new legislation and administrative delays [12]. OMEODEK as a special task 
+force for Greek air traffic administration terminology operates under the auspice of the Hellenic 
+Civil Aviation Authority [13] and monitors aviation communication, combining terminology and 
+field knowledge. OMEODEK's interactions are material properly formulated to apply research 
+methodologies like grounded theory, protocol analysis and discourse analysis. 
+In its current work, OMEODEK examines speech acts with the professional community of the 
+field to ensure terminological quality and linguistic security. OMEODEK realizes that translation 
+is an on-going process in order to accomplish localization and deal with open challenges of 
+topical adjustment. In this study, raw data from pilots and air traffic controllers interactions were 
+collected, as part of the work of the theoretical foundation of OMEODEK in order to highlight 
+conceptual and research-oriented contribution and its didactics.  
+The role of silence in non-verbal communication and organization theory, as well as the meaning 
+of expertise in scaling stages of awareness are key theoretical contributions of the current 
+analysis, deriving from the work that supports OMEODEK operations [14]. By reviewing these 
+terms in Greek and in English OMEODEK network partners offer material for specific subject 
+fields like pragmatics and safety-related investigations. 
+ 
+ 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+392 
+References 
+[ 1] Glaser, B. G., & Strauss, A. L. (1967). The discovery of grounded theory: Strategies for 
+qualitative research. New York: Aldine de Gruyter. 
+[ 2] Rubenbauer, F.(2009). Linguistics and flight safety: Aspects of oral English communication 
+in aviation. Aachen, Germany: Shaker.  [3]. Seidlhofer, B. (2005). English as a lingua 
+franca. ELT Journal 59 (4). 339-341.  
+[ 4] Cushing, S. (1994). Fatal words: communication clashes and aircraft crashes. Chicago, IL: 
+The University of Chicago Press. 
+[ 5] Jones, R. K. (2003). Miscommunication between pilots and air traffic control, 2003). 
+Language Problems and Language Planning 27(3): 233–248. 
+[ 6] Howard, J. W. III. (2008). ‘Tower, Am I Cleared to Land?’: Problematic Communication in 
+Aviation Discourse. Human Communication Research, 34 (3): 370–391. 
+[ 7] Locke, K. (1996_). Rewriting the discovery of grounded theory after 25 years? Journal of 
+Management Inquiry, 5(3), 239−245. 
+[ 8] Katerinakis, T (2004). Economist Logion. Sideris Publications, Athens 
+[ 9] Ishikawa, K. (1968). Guide to Quality Control. Tokyo: JUSE. 
+[10]. Hymes, D. H. (1972). On Communicative Competence. In Pride, J. B., & Holmes, J. (Eds.), 
+Sociolinguistics, 269-293. Baltimore, USA: Penguin Education, Penguin Books Ltd 
+[11] Flach, J. M. (1995). Situation awareness: Proceed with caution. Human Factors, 37, 149-
+157 
+[12] Commission Regulation 340/2015. Laying down technical requirements and administrative 
+procedures relating to air traffic controllers' licences and certificates pursuant to Regulation 
+(EC) No 216/2008 of the European Parliament and of the Council.  
+[13]. Papadimitropoulou F. (2012). Establishment of Special Task Force for Air Traffic Control 
+Administration (OMEODEK- TFΑTCT), Ministerial Decision D4/38654/1084/HAA 
+[14] Katerinakis T. (2014). Aviate, Navigate, Communicate: Silence, Voice and Situational 
+Awareness in Aviation Safety. Doctoral Dissertation, Drexel University. 
+ELETO – 11th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 9-11 November 2017 
+ 
+393 
+ 
+Appendix 
+English to Greek glossary 
+ 
+Basic term in English 
+Βασικός όρος στο ελληνικά
+1 
+sender-receiver model 
+υπόδειγμα αποστολέα-παραλήπτη 
+2 
+flight normality 
+πτητική κανονικότητα 
+3 
+situational awareness 
+επίγνωση κατάστασης 
+4 
+local awareness 
+τοπική επίγνωση κατάστασης 
+5 
+transitory awareness 
+μεταβατική επίγνωση κατάστασης 
+6 
+readback 
+επανανάγνωση 
+7 
+hearback 
+επανακρόαση 
+ 
+ 
+Dr. Theodoros Katerinakis 
+Adjunct Faculty, Drexel University 
+E-mal: tkaterinakis@gmail.com 
+ 
+ 
+Nikos Papadopoulos 
+MSc, PE22/ΕΕΚ  -HCAA  
+Director, Regional Airports Air Traffic Services 
+OMEODEK Coordinator  
+E-mail: omeodek@gmail.com, d18@hcaa.gr  
+ 
+ 
+ 

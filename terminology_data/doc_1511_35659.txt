@@ -1,0 +1,1258 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_05-29-PantazidouMarina-ValeontisKostas_Paper3_V03.pdf
+
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+Preparing a seminar on Terminology  
+for engineering PhD candidates 
+Marina Pantazidou, Kostas Valeontis 
+SUMMARY 
+As training in transferable skills is becoming an integral component of Doctoral Education in many 
+universities in Europe, engineering doctoral students enroll in a number of seminars on topics that are 
+not strictly technical. In order to be targeted specifically to engineering doctoral students, these 
+seminars must be developed through collaborations among domain specialists and engineering faculty. 
+Following this collaborative model, the present paper discusses the development of a seminar on 
+Terminology Principles, which supplements the activities of a Network on Civil Engineering Education 
+and Training, funded by the European Commission. Seminar material includes a detailed lesson plan 
+and a PowerPoint presentation, as well as suggestions for excerpts of texts, resources and references 
+suitable for such a seminar. The seminar material is meant to enable an engineering instructor to deliver 
+the seminar to a group of engineering PhD candidates after devoting a couple of days to become 
+familiar with basic issues in Terminology and customize the material to the audience of the seminar. 
+ 
+Προετοιμασία σεμιναρίου Ορολογίας για υποψήφιους διδάκτορες 
+Πολυτεχνικών Σχολών 
+Μαρίνα Πανταζίδου, Κώστας Βαλεοντής 
+ΠΕΡΙΛΗΨΗ 
+Οι διδακτορικές σπουδές έχουν γίνει πιο δομημένες τα τελευταία χρόνια στην Ευρώπη, με σκοπό οι 
+υποψήφιοι διδάκτορες να αναπτύσσουν ένα ισορροπημένο σύνολο δεξιοτήτων χρήσιμων τόσο σε 
+ακαδημαϊκό όσο και σε επαγγελματικό πλαίσιο. Ως αποτέλεσμα, οι φοιτητές παρακολουθούν διάφορα 
+σεμινάρια για την κατάρτισή τους και σε μη τεχνικά θέματα. Στην παρούσα ανακοίνωση θα 
+αναφερόμαστε περιληπτικά σε αυτά ως «κατάρτιση δεξιοτήτων», για να τα διακρίνουμε από την 
+«θεματική κατάρτιση», η οποία αναφέρεται σε μεταπτυχιακά μαθήματα που έχουν στενή σχέση με το 
+θεματικό πεδίο της διδακτορικής διατριβής του κάθε φοιτητή. Η κατάρτιση δεξιοτήτων απαιτεί 
+σημαντικούς πόρους. Μερικά σεμινάρια πραγματοποιούνται με εθελοντική απασχόληση του 
+προσωπικού των σχολών, ενώ άλλα παρέχονται από εξωτερικούς ειδικούς που αμείβονται από το 
+πανεπιστήμιο. Και στις δύο περιπτώσεις, τα περισσότερα από τα σεμινάρια αυτά προσφέρονται σε 
+φοιτητές από πολλά διαφορετικά πεδία και, επομένως, δεν έχουν στενή σχέση με τη θεματική περιοχή 
+του κάθε φοιτητή. Λόγω αυτού του γεγονότος είναι δυνατό κάποιοι φοιτητές να μη συμμετέχουν ενεργά, 
+αλλά να μένουν απλοί θεατές. Αυτή η χαλαρή προσαρμογή ανάμεσα στο περιεχόμενο της κατάρτισης 
+δεξιοτήτων και στο υπόβαθρο κάθε συμμετέχοντος μας ώθησε στην ανάπτυξη ενός πιλοτικού 
+σεμιναρίου Ορολογίας που αντλεί τα παραδείγματά του κυρίως από τους τομείς του μηχανικού, με 
+εστίαση στον τομέα του πολιτικού μηχανικού. Η ανάπτυξη του σεμιναρίου στηρίχτηκε σε ένα 
+συνεργασιακό μοντέλο, καθώς συνέβαλαν σε αυτό ένας ειδικός σε θέματα ορολογίας (ο δεύτερος 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+2
+συγγραφέας αυτού του άρθρου) και ένας πολιτικός μηχανικός του πανεπιστημιακού χώρου (η πρώτη 
+συγγραφέας του άρθρου) που συντονίζει την ομάδα εργασίας για διδακτορικές σπουδές του δικτύου 
+ΕUCEET για την εκπαίδευση και την κατάρτιση του πολιτικού μηχανικού στην Ευρώπη. 
+Η ικανοποίηση τριών απαιτήσεων καθοδήγησε την ανάπτυξη του υλικού του σεμιναρίου, με 
+προβλεπόμενο ακροατήριο μεταπτυχιακούς φοιτητές του τομέα του πολιτικού μηχανικού και κυρίως 
+υποψήφιους διδάκτορες. Αυτές είναι: (α) το παραγόμενο εκπαιδευτικό υλικό θα πρέπει να εξασφαλίζει 
+την άνετη παράδοση του σεμιναρίου από ένα μέλος του διδακτικού προσωπικού της σχολής, χωρίς 
+συστηματικό υπόβαθρο στην Ορολογία· (β) οι μαθησιακοί στόχοι πρέπει να διατυπώνονται σαφώς και ο 
+τύπος της παράδοσης να ενθαρρύνει την ενεργό συμμετοχή των φοιτητών και (γ) καθώς οι υποψήφιοι 
+διδάκτορες ανήκουν πια στην κατηγορία «αυτόνομος μανθάνων», το σεμινάριο πρέπει να παρέχει 
+ευκαιρίες στους φοιτητές να ασχοληθούν περαιτέρω με την Ορολογία, μετά τη λήξη του, με δική τους 
+πρωτοβουλία. 
+Το πρώτο κρίσιμο ζήτημα στην πρόταση ενός σεμιναρίου Ορολογίας είναι να πειστούν οι καθηγητές 
+πανεπιστημίων ότι υπάρχουν πράγματι ορολογικές ανάγκες. Στη συνέχεια, κατά τη διάρκεια του 
+σεμιναρίου, η μεγάλη πρόκληση είναι να καθοδηγηθούν κατάλληλα οι υποψήφιοι διδάκτορες ώστε να 
+δουν την Ορολογία ως ερευνητικό εργαλείο. Είναι ακλόνητη πεποίθηση των συγγραφέων ότι είναι 
+αδύνατο να αντιμετωπιστούν αυτές οι δύο δυσκολίες χωρίς να δοθούν παραδείγματα από τη θεματική 
+περιοχή του ακροατηρίου. Για το σκοπό αυτό αφιερώθηκε σημαντική προσπάθεια στην ανάπτυξη 
+παραδειγμάτων από την επιστήμη του πολιτικού μηχανικού, με τη συμβολή και των εταίρων του 
+EUCEET. Κάθε μηχανικός με την παραμικρή τάση για οργανωμένη σκέψη θα συμφωνήσει ότι 
+διαφορετικοί όροι θα πρέπει να έχουν διαφορετικές σημασίες. Εντούτοις, συνήθως, στις επιστήμες του 
+μηχανικού σχεδόν δεν γίνεται διάκριση μεταξύ των ακόλουθων όρων: συντελεστής, σταθερά, 
+παράγοντας, δείκτης, παράμετρος. Πιστεύουμε ότι ένα σεμινάριο Ορολογίας χρειάζεται σε κάθε 
+πολυτεχνική σχολή όπου οι παραπάνω όροι εναλλάσσονται στη χρήση τους και ελπίζουμε ότι ο 
+«θεωρητικός πυρήνας» του σεμιναρίου (βλέπε 2.3) θα βοηθήσει τουλάχιστο στην αμφισβήτηση αυτής 
+της «ορολογικής ελευθεριότητας». Αν και η πλήρης διαφοροποίηση τέτοιων όρων μπορεί να είναι 
+αδύνατη, η διερεύνηση των διαφορετικών αποχρώσεων της σημασίας φαινομενικά παρόμοιων όρων 
+προσφέρει μια εις βάθος κατανόηση του θεματικού πεδίου όπου χρησιμοποιούνται αυτοί οι όροι. 
+Για να καλυφθεί ευρύ φάσμα επιδόσεων των φοιτητών, οι μαθησιακοί στόχοι του σεμιναρίου πρέπει να 
+ικανοποιούν καταρχήν ένα ελάχιστο βασικό υποσύνολο απαιτήσεων στο οποίο προστίθενται βαθμιαία 
+στοιχεία έως το επίπεδο της άριστης επίδοσης. Με αυτήν την προϋπόθεση, ο γενικός σκοπός του 
+σεμιναρίου είναι να καταστήσει ικανούς τους συμμετέχοντες να κάνουν τεκμηριωμένες επιλογές 
+τεχνικών όρων. Για την εκπλήρωση αυτού του σκοπού, το σεμινάριο αρχίζει με τις αρχές της Ορολογίας 
+και τους εξοικειώνει με τις πηγές οργανωμένων γλωσσαρίων. Όσον αφορά συγκεκριμένους 
+μαθησιακούς στόχους, στο τέλος του σεμιναρίου οι συμμετέχοντες: 
+1.  γνωρίζουν για τον εθνικό οργανισμό τυποποίησης και για την εθνική εταιρεία Ορολογίας, εάν 
+υπάρχει, 
+2. 
+μπορούν να εντοπίσουν πρότυπα και γλωσσάρια ορολογίας, στη θεματική περιοχή τους, 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+3
+3. 
+μπορούν να χρησιμοποιήσουν πολυγλωσσικούς ορολογικούς πόρους διαθέσιμους στο 
+διαδίκτυο, 
+4. 
+είναι εξοικειωμένοι με τις καλές πρακτικές διατύπωσης ορισμών και απόδοσης όρων, και 
+5. 
+είναι ικανοί να αξιολογούν τεχνικούς όρους βάσει ορολογικών αρχών. 
+Οι στόχοι 1, 2 και 3 επιτυγχάνονται εύκολα γιατί έχουν κυρίως πληροφοριακό χαρακτήρα και 
+καλύπτονται επαρκώς από το πλούσιο συμπληρωματικό υλικό του σεμιναρίου, ενώ η επίτευξη των 4 και 
+5 βασίζεται στον πλούτο της συζήτησης των παραδειγμάτων του σεμιναρίου. 
+Το σεμινάριο αποτελείται από μια 2ωρη παρουσίαση την ημέρα 1, κατά την οποία ανατίθεται μια 
+εργασία στους φοιτητές που πρέπει να παραδοθεί την ημέρα 15, και ολοκληρώνεται με μια ωριαία 
+συνάντηση την ημέρα 22, αφού ο διδάσκων έχει διαβάσει τις εργασίες και είναι σε θέση να διευθύνει τη 
+συζήτηση. Σε τούτο το κείμενο περιγράφονται τα περιεχόμενα της 2ωρης παρουσίασης (οι αντίστοιχες 
+διαφάνειες περιλαμβάνονται στο Παράρτημα Ι της ηλεκτρονικής έκδοσης του άρθρου που θα αναρτηθεί 
+στις ιστοσελίδες του συνεδρίου μαζί με το υπόλοιπο σεμιναριακό υλικό). 
+Όπως αναφέρθηκε, το πιο σημαντικό καθήκον του διδάσκοντος είναι να καταδείξει τη χρησιμότητα του 
+σεμιναρίου. Η πρώτη διαφάνεια της παρουσίασης, που φαίνεται στο Σχήμα 1, απεικονίζει την ορολογία 
+ως διεπαφή μεταξύ γνώσης και γλώσσας και είναι μια απόπειρα να αλλάξει η αντίληψη για τη θέση της 
+ορολογίας ενός τομέα, ώστε να πλησιάσει αυτή από την περιφέρεια προς τον πυρήνα του. 
+Ύστερα, σύμφωνα με την ορολογική πρακτική, συνιστάται στον διδάσκοντα να δώσει τους δύο 
+ορισμούς της ορολογίας, ως «συνόλου κατασημάνσεων που ανήκουν σε μία ειδική γλώσσα» [4] και ως 
+«επιστημονικού κλάδου που ασχολείται με τις έννοιες και τις κατασημάνσεις τους στις ειδικές γλώσσες» 
+[5]. Στη συνέχεια, σύμφωνα με τη βέλτιστη διδακτική πρακτική, ο διδάσκων διατυπώνει τους 
+μαθησιακούς στόχους. Είναι σημαντικό να παρουσιαστούν με σαφήνεια αυτοί οι στόχοι, που στην ουσία 
+έχουν το ρόλο συμβολαίου μεταξύ του διδάσκοντος και των φοιτητών. Μετά, ακολουθεί η περιγραφή της 
+μορφής και του περιεχομένου του σεμιναρίου, καθώς και μια περίληψη όλης της παρουσίασης με την 
+οποία δηλώνεται ότι τεκμηριωμένες επιλογές όρων κάνουμε όταν: 
+• προδιαγράφουμε πλήρως τις έννοιες που αντιστοιχούν στους όρους δίνοντας έναν ορισμό σε 
+καθεμιά και προσδιορίζοντας τη θέση της σε ένα σύστημα εννοιών, 
+• συμβουλευόμαστε υπάρχοντα γλωσσάρια τεχνικών όρων, 
+• τηρούμε αρχές απόδοσης όρων. 
+Αυτό το συμπέρασμα δίνει και την ευκαιρία να εισαχθούν τα «κύρια πρόσωπα» της Ορολογίας, δηλαδή 
+το αντικείμενο, η έννοια και ο όρος. Το σημαντικό εδώ είναι να τονιστεί από τον διδάσκοντα ότι, στην 
+Ορολογία, αντικείμενο είναι καθετί αντιληπτό ή συλληπτό. 
+Στο δεύτερο και πιο σημαντικό μέρος της παρουσίασης, ο διδάσκων πρέπει να διατυπώσει τις συνήθεις 
+ορολογικές ανάγκες που ανακύπτουν στην έρευνα. Γενικά, οι περισσότεροι ερευνητές στερούνται 
+συστηματικού τρόπου για (1) να προσεγγίσουν έναν άγνωστο όρο, (2) να ονοματοδοτήσουν μια 
+καθιερωμένη έννοια, (3) να ονοματοδοτήσουν μια νέα έννοια και (4) να αποδώσουν ένα όρο από άλλη 
+γλώσσα. Αυτές οι τέσσερις ανάγκες συνοψίζονται στον Πίνακα 1. Είναι ιδιαίτερα σημαντικό κάθε ανάγκη 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+4
+να επεξηγείται με παραδείγματα του τομέα του πολιτικού μηχανικού από διάφορα υποπεδία. Στην 
+παρουσίαση, ως παράδειγμα πιθανώς άγνωστων όρων (ανάγκη 1) συζητώνται οι όροι advection 
+(φυσικό φαινόμενο στη ροή των ρευστών), caisson (μια κατασκευή) και air sparging (μέθοδος 
+αποκατάστασης ρυπασμένου υπόγειου ύδατος). Κάθε ανάγκη εισάγεται με ένα σχήμα και ακολουθεί 
+συζήτηση ειδικών περιπτώσεων από τον τομέα του πολιτικού μηχανικού. Για παράδειγμα η ανάγκη 2 
+απεικονίζεται στο Σχήμα 2.  
+Στον μικρό «πυρήνα θεωρίας» του σεμιναρίου, τα βασικά στοιχεία της Ορολογίας παρουσιάζονται ως 
+εργαλεία αντιμετώπισης των αναγκών που περιγράφονται στο προηγούμενο τμήμα. Εισάγεται το 
+τρίπτυχο: έννοιες, σχέσεις εννοιών, συστήματα εννοιών και τονίζεται ότι η θέση μιας έννοιας σε 
+σύστημα εννοιών, μαζί με τον ορισμό της «αγκυρώνουν» την έννοια στο θεματικό πεδίο. Στα 
+επεξηγηματικά παραδείγματα περιλαμβάνεται ένα σύστημα εννοιών από την περιβαλλοντική υδρολογία 
+(contaminant hydrology) όπου ανήκει η έννοια “advection”. Ένα άλλο σύστημα εννοιών δείχνει την 
+κατηγοριοποίηση των γεφυρών με διάφορα κριτήρια υποδιαίρεσης (π.χ. χρήση, υλικό, μηχανισμό 
+μεταβίβασης φορτίου). Συνιστάται, όμως, η επιλογή συστημάτων εννοιών να ποικίλλει ανάλογα με τις 
+επιμέρους ειδικότητες του ακροατηρίου. Σε μία διαφάνεια παρουσιάζονται οι κατευθυντήριες γραμμές 
+για τους ορισμούς, σύμφωνα με Διεθνές Πρότυπο [8], που συνοψίζονται στον Πίνακα 2. Ακολουθούν 
+δύο διαφάνειες στις οποίες γίνεται συζήτηση διάφορων δυνατών ορισμών των εννοιών που 
+κατασημαίνονται με τους πιθανώς άγνωστους όρους advection και air sparging. Με την εξέταση και 
+σύγκριση εναλλακτικών ορισμών εμπεδώνονται οι κατευθυντήριες γραμμές του Πίνακα 2 και γίνεται 
+εμβάθυνση στην κατανόηση της έννοιας, μέσω των διακριτικών χαρακτηριστικών της. Το θεωρητικό 
+μέρος του σεμιναρίου κλείνει με τα κριτήρια που πρέπει να πληροί ένας όρος, που συνοψίζονται στον 
+Πίνακα 3 και χρησιμοποιούνται στη συνέχεια κατά τη συζήτηση αποσπασμάτων τεχνικών κειμένων. 
+Στο τελευταίο μέρος του σεμιναρίου συζητούνται αποσπάσματα πραγματικών κειμένων. Οι 
+συμμετέχοντες πρέπει να ανεβούν μία βαθμίδα ψηλότερα στην επίδοσή τους: πρώτα να κρίνουν αν 
+κάποιος όρος ξεχωρίζει κατά κάποιο αρνητικό τρόπο και μετά να προχωρήσουν στην αξιολόγησή του. 
+Για το λόγο αυτό, προτιμάται ο διδάσκων να χρησιμοποιεί τεχνικό κείμενο γραμμένο από μη ειδικό, 
+γεγονός που προφυλάσσει τους σπουδαστές από προϊδεασμούς ορθότητας. Κατάλληλα υποψήφια 
+κείμενα είναι άρθρα εφημερίδων ή τεχνικοί κανονισμοί μεταφρασμένοι από μη ειδικούς.  
+Στην παρουσίαση περιλαμβάνεται ένα απόσπασμα από ελληνική εφημερίδα του 2007 σχετικό με μια 
+θεωρία για την κατάρρευση των Δίδυμων Πύργων που χρησιμοποιεί πληροφορίες από σχετικό άρθρο 
+του BBC. Στο συγκεκριμένο άρθρο ο όρος residual capacity (του κτηρίου) αποδίδεται ως κατάλοιπη 
+ικανότητα, ενώ ειδικός καθηγητής πολιτικός μηχανικός αποφαίνεται ότι ο κατάλληλος όρος είναι 
+υπολειπόμενη φέρουσα ικανότητα. Ιδανικά, όμως, είναι καλύτερο ο διδάσκων να εντοπίσει κατάλληλα 
+κείμενα σχετικά με το πεδίο του. 
+Τέλος, ο διδάσκων καλεί τους φοιτητές να εντοπίσουν όρους που πιθανόν χρειάζονται συζήτηση και 
+ζητά να προσδιορίσουν τα κύρια χαρακτηριστικά των αντίστοιχων εννοιών. Χρήσιμο είναι να τους 
+ζητήσει να σκεφτούν την υπερτασσόμενη κατηγορία στην οποία ανήκει η έννοια (π.χ. «μεταγωγή» είναι 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+5
+«φαινόμενο μεταφοράς» που …). Στη συνέχεια, προτείνει δύο ορισμούς της έννοιας και ζητά από τους 
+φοιτητές να τους σχολιάσουν βάσει του Πίνακα 2. Αφού διατυπωθεί κατάλληλος ορισμός, η συζήτηση 
+επανέρχεται στην αξιολόγηση του/των όρου/όρων, κρίνοντας (i) αν έννοια και όρος ταιριάζουν και (ii) αν 
+ο όρος ικανοποιεί κάποια από τα επτά κριτήρια του Πίνακα 3. 
+Η προς ανάθεση εργασία είναι παρόμοια με τη συζήτηση που έγινε στην τάξη, ενώ επιπλέον ενθαρρύνει 
+την ανάληψη κάποιας πρωτοβουλίας εκ μέρους των φοιτητών. Συγκεκριμένα, ζητείται να μελετήσουν 
+δύο αποσπάσματα με επισημειωμένους όρους και να αναζητήσουν και αξιολογήσουν ορισμούς των 
+αντίστοιχων εννοιών, να αξιολογήσουν όρους και να χρησιμοποιήσουν προτεινόμενους (ή να 
+αναζητήσουν πρόσθετους) γλωσσικούς πόρους. 
+Συμπερασματικά, η παρούσα εργασία προτείνει ένα συνεργασιακό μοντέλο ανάπτυξης σεμιναρίων για 
+υποψήφιους διδάκτορες και παρέχει ένα παράδειγμα σεμιναρίου Ορολογίας. Για ένα τέτοιο σεμινάριο 
+χρειάζονται τόσο ειδικοί του θεματικού πεδίου της Ορολογίας, για καθοδήγηση στα ορολογικά θέματα, 
+όσο και ειδικοί του θεματικού πεδίου του υποψήφιου διδάκτορα, για τη δημιουργία παραδειγμάτων από 
+την επιστήμη του μηχανικού. Σε μια τέτοια συνεργασία, οι δύο πλευρές πρέπει να συναντηθούν κάπου 
+στη μέση. Δηλαδή ο ειδικός του θεματικού πεδίου να είναι πρόθυμος να μάθει μερικά πράγματα από τον 
+τομέα της Ορολογίας, ενώ ο ειδικός της Ορολογίας να είναι πρόθυμος να θυσιάσει την πληρότητα.  
+Η παρούσα εργασία υποστηρίζει τη δυνατότητα δημιουργίας μεταβιβάσιμου διδακτικού υλικού, δηλαδή 
+υλικού που είναι δυνατόν να χρησιμοποιηθεί από διδάσκοντες άλλους από αυτούς που το ανέπτυξαν. 
+Για να εξελεγχθεί η μεταβιβασιμότητα, το υλικό που παρουσιάζεται εδώ θα μεταφραστεί στα ελληνικά 
+και θα διδαχθεί σε μια ομάδα φοιτητών σε μεταπτυχιακό πρόγραμμα Τμήματος Πολιτικών Μηχανικών 
+από ένα μέλος του δικτύου EUCEET. 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+6
+ 
+0   Introduction 
+Doctoral Education has attracted a lot of interest lately in Europe, with the result that Doctor 
+of Philosophy (PhD) studies are becoming more structured, often organized through 
+Doctoral Schools [1]. Apart from instituting formal requirements for PhD studies, Doctoral 
+Schools have the role of keeping track of the progress of PhD students and ensuring that the 
+students develop a well-rounded set of skills, including transferable skills useful in both 
+academic and industrial professional settings. This broadened perspective on PhD 
+Education entails that engineering doctoral students enroll in a number of seminars or 
+courses on non-technical topics, such as Academic English, Academic integrity, Intellectual 
+property, Intelligent web searching for research, Media training for researchers (to mention a 
+few) [2, 3]. In this article, we will refer collectively to these modules (whether few-hour 
+seminars or several-week courses) with the term skills training, in order to distinguish them 
+from thematic training, which refers to postgraduate courses that are closely related to the 
+topic of the students’ PhD theses (e.g. Numerical analysis, Fundamental data structures in 
+Computer Science). 
+Skills training requires considerable resources. Some seminars are prepared through 
+interdisciplinary initiatives of faculty members volunteering their time (e.g. Seminar on 
+Academic Integrity at KU Leuven [3]). Others are developed by domain specialists, often 
+external consultants without an engineering background, who must be compensated by the 
+university. In both cases, most of these seminars are offered to students from many different 
+disciplines and, hence, do not provide tight links to the subject area of each participant. Due 
+to this generic orientation of skills training, it is possible that some students attend seminars 
+with the involvement of a spectator rather than of a potential actor. As an illustrative 
+example, a scientific misconduct case in a research project in microbiology will not help civil 
+engineering PhD students understand the technical specifics of how it happened and, hence, 
+will not allow them to draw analogies with potential pitfalls of engineering research 
+methodologies. This loose fit between skills training content and each participant’s 
+background provided the motivation to develop, as a pilot, a seminar on Terminology that 
+draws examples mostly from engineering, with particular focus on civil engineering. The 
+seminar is developed collaboratively by a faculty member of a Civil Engineering School (the 
+first author), who also chairs the work group on Doctoral Education of the Socrates-Erasmus 
+Network “EUCEET” (European University Civil Engineering Education and Training) and the 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+7
+President of the Hellenic Society for Terminology (the second author), with the aim that 
+seminar material be used by engineering faculty members sensitized to terminology needs in 
+research. 
+1   Major considerations for seminar development 
+Three overarching requirements guided the development of the material for the seminar, for 
+an envisioned audience of postgraduate students in civil engineering, mainly PhD 
+candidates. 
+The material produced should make an engineering faculty member with no formal 
+background in Terminology feel comfortable delivering the seminar. To achieve this, seminar 
+material must be grounded firmly to engineering and offer opportunities for further 
+customization to the subfield of the instructor (see Section 3.3). At the same time, the 
+instructor must be supplied with highly selected background material, which is meant to 
+simulate, with a reasonable effort on the instructor’s part, the customary conditions of the 
+teacher-expert most university professors have become accustomed to and cannot do 
+without (see Section 3.2). 
+The seminar should conform to good educational practices. Accordingly, learning objectives 
+are stated explicitly (see Section 1.2) and the delivery format is such that encourages 
+students to participate actively. 
+Finally, when teaching PhD candidates, one takes into account that they are well on their 
+way of becoming autonomous learners. Consequently, the seminar includes open-ended 
+assessment activities, corresponding to the stated objectives, and offers opportunities for 
+students to get more involved with Terminology, after the completion of the seminar, on their 
+own initiative. 
+Specific decisions that follow from the above requirements are discussed in the following two 
+sections. 
+1.1   Communicating relevance and need 
+Convincing faculty members of the existence of Terminology needs is the first critical 
+junction for a proposal of a seminar on Terminology. Then, during seminar delivery, the big 
+challenge is to help PhD candidates realize that Terminology is, essentially, a research tool. 
+It is a firm belief of the authors that it is impossible to address successfully these two 
+difficulties without giving examples from the thematic area of the audience. For this purpose, 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+8
+considerable effort in creating the seminar material was devoted to development of civil 
+engineering examples, in consultation with EUCEET partners and civil engineering 
+colleagues of the first author. One example from the seminar material is left on purpose as 
+an open-ended question, in order to stress the fact that serious terminology uncertainties are 
+often overlooked. Every engineer with a minimum tendency for organized thought and 
+expression will agree that different terms should be used to convey different meanings. In 
+engineering, nevertheless, it is customary that almost no distinction is made among the 
+following terms (listed alphabetically):  coefficient, constant, factor, index, parameter. We 
+believe that a seminar on Terminology is needed in every engineering school where the 
+interchangeable use of the aforementioned terms is the case and we hope that the “theory 
+kernel” of the seminar (see Section 2.3) will help at least with questioning such habits of 
+“laissez dire”. Although complete differentiation of such terms may not be possible or even 
+desirable, investigating different shades of meaning of seemingly similar terms offers a 
+deeper appreciation of the subject field where these terms are being used. 
+1.2   Defining learning objectives 
+When establishing learning objectives, it is important to cover a wide range of student 
+performance. In other words, it is important to have a basic subset of requirements, which is 
+considered to be the minimum for successful completion of a module, to which elements of 
+better performance are added, gradually, all the way to top performance. For an introductory 
+module, such as this seminar on Terminology, it is important to include awareness of the 
+Terminology field itself and of available resources, together with specific tasks that 
+participants will be able to carry out after the completion of the seminar. 
+With these considerations in mind, the overall goal of the seminar is described as enabling 
+the participants to make informed choices of technical terms. To this end, the seminar will 
+get them started with terminology principles and familiarize them with sources of organized 
+glossaries. In terms of specific outcomes, at the end of seminar, participants: 
+1.  know of national standards body & source of standards and can get in contact with 
+the national society for terminology, if it exists; 
+2.  can locate terminology standards and glossaries in their subject area; 
+3.  can use web-based multilingual term resources; 
+4.  are familiar with good practices in definition-giving and term-rendering, and 
+5.  are able to evaluate technical terms on the basis of terminology principles. 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+9
+Outcomes 1, 2 and 3, which form the basic subset of requirements, are easily achieved 
+since they are mostly informational and amply covered by the seminar supplementary 
+material. The success of outcomes 4 and 5 depends on the richness of the discussion of the 
+examples of the seminar. 
+2   Seminar structure 
+The seminar consists of a 2-hour presentation on day 1, during which an assignment is 
+handed, due on day 15. The seminar concludes with a 1-hour discussion on day 22, after the 
+instructor has read the assignments and is in a position to guide the discussion accordingly. 
+The sections below describe the contents of the 2-hour presentation (the corresponding 
+slides are included as Appendix I in the electronic version of this paper, which will be 
+uploaded on the webpages of the conference1 and of the EUCEET work group on Doctoral 
+Programs2, together with the rest of seminar material). 
+2.1   Introduction 
+As mentioned in Section 1.1, the instructor needs above all to establish the relevance of the 
+seminar. The first slide of the presentation, shown as Figure 1, is an attempt to bring the 
+terminology of a domain from the periphery to its core, by depicting terminology as the 
+interface between knowledge and language. The relationship of knowledge to language was 
+first addressed by the philosopher Plato, in the dialogue Cratylus. Figure 1 is, 
+understandably, a simplified version of this relationship, aiming at inviting seminar 
+participants to gradually build their own version, possibly different, possibly more complex. 
+The “endless” path
+knowledge
+language
+terminology
+Endlessly via terms
+does Language
+describe and convey
+Knowledge
+Endlessly via terms
+does Knowledge
+develop and enrich
+Language
+ 
+Figure 1. Knowledge and Language endlessly interacting through 
+Terminology (From: Website of Hellenic Society for Terminology: 
+http://www.eleto.gr/en/TheEndlessPath.htm). 
+                                                          
+1 http://www.eleto.gr/gr/Conference07.htm, 
+2 http://euceet.eu/workgroups/c/index.php?id=78  
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+10
+Practicing good terminology habits, it is recommended that the instructor then give the two 
+definitions of terminology, as “set of designations belonging to one special language” (i.e. 
+subject field) [4] and “scientific discipline dealing with concepts and their representations in 
+special languages” [5]. It is important to stress, both in this article and during the seminar, 
+that terminology is approached herein from the perspective of standardization of technical 
+terms. For a broader view, the interested seminar participant is referred to Cabré [6]. 
+Next, practicing good teaching habits, the instructor spells out the learning objectives of the 
+seminar (Section 1.2). It is important that these are communicated explicitly, since their role 
+is essentially that of a contract between the instructor and the participants. 
+Then the introduction goes on to describe the format and content of the seminar, so that the 
+participants know what to expect. For the same purpose, i.e. so that participants know 
+exactly where they are heading, the introduction closes with the summary of the entire 
+presentation, which states that informed choices of terms are made when: 
+•  concepts corresponding to terms are fully specified by providing for each concept a 
+definition and determining its position in a concept system; 
+•  existing glossaries of technical terms are consulted; 
+•  principles for term rendering are observed. 
+This conclusion also gives the opportunity of introducing early on the main players of 
+terminology, namely object, concept and term. Here it is important that the instructor stress 
+that, in Terminology, an object is anything perceivable or conceivable. 
+2.2   Common types of terminology needs 
+In this second and most important part of the presentation, the instructor has to establish the 
+common needs in terminology that arise in research. In general, most researchers lack a 
+systematic way to (1) approach an unknown term, (2) name an established concept, (3) 
+name a new concept and (4) render a term from another language. These four needs are 
+summarized in Table 1.  
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+11
+Table 1. Terminology needs in research 
+1. What does X mean? 
+ Designation (X) →  definition? 
+ concept? 
+ 
+ 
+2. How should we call it? 
+ Object → 
+ charactertistics →  concept → 
+ definition → 
+ designation? 
+3. Need of new concept (Discovery of new concept) 
+ Characteristics →  concept → 
+ definition? →  designation? 
+ 
+4. Term rendering between languages 
+SOURCE    LANGUAGE 
+ 
+ 
+ 
+ Characteristics →  concept → 
+ definition → 
+ designation 
+ 
+TARGET    LANGUAGE 
+ 
+ 
+ 
+        (same) 
+     (same) 
+   (translated) 
+ designation? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ = initially known (either with certainty or partially) 
+ 
+ 
+The question marks in Table 1 indicate what we are after, while the shaded cells include 
+information initially known or easily accessible. It is interesting to note that, normally, most 
+researchers can think only of term-rendering (need 4) as a terminology need relevant to 
+them, possibly as a result of the low visibility of Terminology as a scientific discipline. 
+It is paramount that every need is illustrated by civil engineering examples from a variety of 
+subfields. Even if an instructor feels that too much time is spent on examples, nevertheless, 
+it is time well spent. If the participants become aware of the nature of a need that is very well 
+known to them, they are bound to address it, even at a later time, after taking the seminar. 
+As an example of potentially unknown terms (need 1), the presentation discusses advection 
+(a physical phenomenon in fluid flow), caisson (a structure) and air sparging (a remediation 
+method for contaminated groundwater). At this point participants are asked where they 
+would search for the definitions of the corresponding concepts (this question will be 
+answered in the next part of the seminar). 
+In the presentation, each need is first introduced with a graphic, before specific civil 
+engineering cases are discussed. As an illustrative example, the slide depicting need 2 is 
+shown in Figure 2. The same slide also hints as to the steps we have to take in order to 
+make an informed choice among the seemingly similar terms mentioned in Section 1.1 (i.e. 
+coefficient, constant, factor, index, parameter). 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+12
+Need to choose among terms: objects Î characteristics Î concept 
+Î definition Î designation
+– Similar terms I don’t think much about when others choose them
+– If I need to make a choice, then I must first (1) seek definitions (use 
+sources, consider attributes of a good definition), (2) create concept system 
+and then make my informed choice
+objects
+context
+(subject field)
+definition
+characteristics
+concept
+designation 
+Χ
+linguistic/mental  
+plane
+Terminology need: how should we call it? (1)
+initially known to all
+ 
+Figure 2. Graphic from a seminar slide: when many designations 
+appear to be possible, the definition of the concept with its delimiting 
+characteristics guide choice of appropriate term (adapted from [7]). 
+2.3   Terminology basics 
+In this “theory kernel” of the seminar, terminology basics are presented as tools that address 
+the needs described in the previous section. From this perspective, what follows is 
+considered as the “bare minimum” of theory. 
+2.3.1   An introduction of the triptych concepts – concept relations – concept systems 
+The message here is that the position of concept in a concept system, which depicts 
+relations among concepts, together with its definition help in anchoring the concept in the 
+subject field. Illustrative examples include a concept system from contaminant hydrology, 
+where “advection” belongs. Another concept system shows bridges categorized according to 
+different criteria (e.g. use, material, load transfer mechanism). Bridges were selected as an 
+emblematic civil engineering topic. If the seminar audience includes other engineering 
+disciplines, it is recommended that concept systems be varied accordingly (e.g. electrical 
+generators or communication systems could be presented to electrical engineers). 
+2.3.2   Definition giving 
+To keep the theoretical part light, the presentation includes only one slide with guidelines on 
+definition giving, shown herein as Table 2, with information abstracted from the international 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+13
+standard on principles and methods of terminology work [8]. This is a good opportunity for 
+the instructor to stress that a definition defines a concept and not a term, so that students be 
+reminded of the often overlooked difference between the two.  
+Table 2. Guidelines for a good definition (adapted from [8]) 
+• A definition is the right member of an equality, the left member being the term (name or 
+symbol) of the concept being defined; hence, a definition is valid if it can replace the 
+corresponding term in a text without loss of or change in meaning 
+• It is a preferred practice to describe the concept in terms of its superordinate 
+concept and its delimiting characteristics 
+Good practices (4 rules of logic) 
+- Definitions must be concise 
+- Do not define a concept with unknown concepts, do not paraphrase 
+- The term designating the concept to be defined cannot appear in the definition (circular 
+definition) 
+- The term designating the concept and the concept’s definition must be equally broad 
+Deficient definitions 
+- Incomplete (too narrow, too broad): clarifications may be included in accompanying notes 
+- Improper negative definitions 
+ 
+Table 2 is immediately followed by two slides discussing possible definitions of the concepts 
+designated by the potentially unknown terms advection and air sparging. These two 
+examples help in introducing systematic searching for definitions in glossaries compiled by 
+technical committees (e.g. see [9] and [10] for “air sparging”), on the internet (using the 
+Google command “define:air sparging”) and in textbooks or specialized dictionaries [11]. 
+Presenting alternative definitions provides a means of digesting the guidelines in Table 2.  
+Interestingly, comparison of alternative definitions is also a powerful tool (for instructors and 
+students alike!) to probe deep understanding of a concept, since a definition forces us to 
+commit as to which are the delimiting characteristics of a concept. 
+2.3.3   Term rendering 
+If making up new terms is the highest level of performance expected from a “terminologist-in-
+the-trenches”, evaluating terms is the highest level of performance expected by the 
+participants of the seminar. Consequently, the theory part of the seminar closes with the 
+desired attributes of a term. These are summarized in Table 3 and will immediately be used 
+in the next part of the seminar, where text excerpts on technical topics are discussed. As 
+part of future work, civil engineering examples will be added to the examples in Table 3 (the 
+first five of which are from [8]), hopefully with contributions from the audience of this paper! 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+14
+For example, a case of consistency in the geotechnical field is the naming of all the 
+geosynthetic materials with the prefix geo- (e.g. geomembrane, geogrid, geonet). 
+Table 3. Seven criteria for a good term (adapted from [8]) 
+• Transparency 
+ 
+- to make the term transparent, a delimiting characteristic is used to create the term 
+(chalk board vs blackboard) 
+• Consistency 
+ 
+- within a concept system (nylon, orlon, dacron, rayon) 
+• Appropriateness 
+ 
+- adhere to establish patterns, avoid confusion (atomic energy vs nuclear energy) 
+• Linguistic economy 
+ 
+- term bank vs terminological data bank 
+• Derivability and compoundability 
+ 
+- herb vs medicinal plant (herbaceous, herbal, herbalist, herbology) 
+• Linguistic correctness 
+ 
+- ιοντισμός vs ιονισμός (<ionization) 
+• Preference for native language 
+ 
+- λογισμικό EL (logiciel FR) vs software EN 
+ 
+It is important that the instructor give at this point a frank personal assessment of the 
+“guiding value” of each criterion and of the ensemble of all seven. First of all, it is not 
+necessarily expected to fulfill all seven criteria, especially since some can be conflicting (e.g. 
+transparency and linguistic economy). In addition, appropriateness, which refers to 
+meaning and not grammar or syntax, is quite fuzzy; unfortunately, many potential terms are 
+discarded on the basis of this “catch-all” criterion. Finally, it should also be stressed that 
+although native speakers may have a natural knack in observing linguistic correctness, 
+they should be extra cautious when the term to be rendered from a source language bears 
+some close resemblance to existing terms in the target language. This is a situation 
+encountered often in Greek, when rendering English terms of Greek origin (e.g. ionization in 
+Table 3). 
+2.4   Application of basics on terms from real texts 
+Up to this point in the seminar, participants have been involved in discussing terms out of 
+context, pre-selected by the instructor and, thus, meriting attention “by default”. In the next 
+and last part of the seminar, excerpts from real texts are discussed. Thus, participants have 
+to move one level up in terms of performance: first, judging whether there is a term that 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+15
+stands out in a negative sense and, then, proceeding with its evaluation. For this purpose, it 
+is preferable that the instructor uses a text on a technical topic written by a non specialist, 
+freeing thus the participants to evaluate terms with no preconceptions of correctness. Good 
+candidate texts are newspaper articles on engineering topics or technical documents 
+translated by non-specialists. It helps if the texts are presented in two languages, because it 
+is easier to spot weak terms in texts translated by non specialists, especially if produced in a 
+hurry or in great volumes and, hence, with somewhat reduced care (e.g. newspaper articles, 
+European regulations). Another possibility is to locate two texts that use different terms for 
+the same concept. In essence, the instructor needs texts with slightly questionable usage of 
+terms. 
+The slide presentation includes an excerpt from a 2007 article on a theory for the collapse of 
+the World Trade Center, which was published in a Greek newspaper [12] using information 
+from an article by the British Broadcasting Corporation [13]. (The supplementary material 
+includes additional excerpts from European Directives and, for the Greek version of the 
+seminar, from Greek newspapers.) In this newspaper article, the term residual capacity (of 
+the building) was translated as κατάλοιπη ικανότητα in the Greek newspaper, whereas a 
+civil engineering professor specializing in structures indicated that the proper term is 
+υπολειπόμενη φέρουσα ικανότητα. It is highly recommended that the instructor substitute 
+the example in the presentation with texts relevant to his/her own field, ideally with terms 
+he/she feels strongly about or with controversial terms, in order to motivate the discussion. 
+For the terms under consideration, the instructor must do some prior research, locating 
+sources of definitions, consulting colleagues, etc.  
+At this point the instructor clarifies that this last part of the seminar is similar to the 
+assignment students will have to hand in. The instructor then invites seminar participants to 
+identify any terms in the excerpt that need to be discussed. Once the terms are spotted or 
+suggested by the instructor, participants are asked to identify the main characteristics of the 
+corresponding concept. A helpful hint at this stage is to ask participants to think of a 
+superordinate category in which the concept belongs (i.e. “advection” is a “transport 
+phenomenon” that…). Asking the students to suggest some definition is unlikely to produce 
+results but it is worth asking. Finally, after enduring some silence, the instructor can suggest 
+a couple definitions and invite the students to critique with the background of Table 2. 
+Having agreed on a workable definition, the discussion returns to the evaluation of term(s) 
+under consideration judging by (i) the match between concept and term and (ii) whether the 
+term possesses some of the seven attributes in Table 3. 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+16
+2.5   Assignment 
+As mentioned, the assignment is similar to the class discussion described in the previous 
+section, with the added expectation that the students exhibit some initiative. Specifically, the 
+students are asked to study a couple excerpts with highlighted terms and asked to: 
+– search for and evaluate definitions of the corresponding concepts; 
+– evaluate terms in own language; 
+– use suggested resources for the evaluation and search for additional ones. 
+To acknowledge (and benefit from) the autonomy exhibited by many PhD candidates, it is 
+recommended that the participants be given the option to work either with the text(s) given in 
+the assignment or with a comparable text located by themselves, which matches more 
+closely their interests. 
+3   Seminar materials 
+It is envisioned that the seminar is offered by instructors other than those who developed it, 
+provided they have a basic interest in Terminology and can devote 2-3 days to systematize 
+familiar concepts, using the material described in the following sections. It is anticipated that 
+the most time-consuming task is customizing the material discussed in Section 2.4 to the 
+instructor’s field of expertise. 
+3.1   Slides 
+The PowerPoint presentation is accompanied by a text, which provides a conversational 
+commentary for each slide and many cues to engage participants in the discussion. The 
+presentation is clearly divided in the parts described in Section 2, hence, together with the 
+text they make a detailed lesson plan. As mentioned, the slide presentation is included as 
+Appendix I in the electronic version of this paper, while the accompanying text is placed in 
+Appendix II. 
+3.2   Resources 
+The norm for university instructors is that they draw upon a big amount of material from 
+which they handpick in order to prepare a presentation. In addition, they are surrounded by a 
+network of experts in the same and neighboring fields to whom they can turn for opinions 
+and advice. To make up for this support structure of knowledge and people, the authors of 
+the seminar prepared a list of contact points for Terminology Societies in various European 
+countries, together with search strategies for international standards and information on 
+International Institutes and Committees for Terminology. This information, presented in a 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+17
+question-and-answer format, is included in the electronic version of the paper as 
+Appendix III. 
+3.3   Sources of multilingual texts on technical issues 
+As mentioned, the texts that best lend themselves to evaluation from a terminology 
+perspective are those that appear in newspapers and popular science magazines. The 
+authors of such texts often use terms that are not preferred by specialists, while the 
+readership, in general, does not have high expectations in this respect. Often the original 
+articles are written in English and are translated with more or less fidelity in the target 
+language. All it takes to compile a list of such texts is a habit of checking newspapers on the 
+internet. Once a suitable article has been located, its reference will help locate the original 
+article from a news agency (e.g. BBC) or newspaper (e.g. The New York Times). The 
+magazine Scientific American, with its international editions in several languages, is also a 
+potential source. Other technical sources include standards, e.g. European Standards (EN) 
+for Structures, known as Eurocodes, and European Community regulations, e.g. legislation 
+concerning environmental issues relevant to civil engineering. As an example, the Greek 
+version of Directive 2006/118/EC on the protection of groundwater against pollution and 
+deterioration, contains several problematic terms, such as υποβόσκον επίπεδο for 
+background level (Article 1) and μολυσμένο έδαφος for contaminated land (Article 5). 
+Several excerpts from the aforementioned sources are included in the electronic version of 
+the paper as Appendix IV. 
+4   Closing comments 
+This paper advocates a collaborative model for the development of seminars for PhD 
+candidates and provides an example for a seminar on Terminology. Terminology experts 
+provide guidance on terminology issues, while subject-matter experts create examples 
+specific to an engineering discipline. For such a collaboration to be fruitful, the two sides 
+must meet somewhere in between. In other words, the subject-matter expert must be willing 
+to learn a little bit about terminology and “bug” his/her colleagues for help, while at the same 
+time the terminology expert must be willing to sacrifice completeness. Technical committees 
+for terminology are the natural ground for fostering such collaborations. 
+Following the “textbook tradition”, the paper also claims that it is possible to create 
+transferable teaching materials, provided that the two basic needs of an academic instructor 
+are addressed. These are: teaching (i) from abundance and (ii) within the area of expertise. 
+The former need is covered with a detailed lesson plan, a slide presentation and 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+18
+accompanying notes. The latter need is met by the opportunity to customize seminar 
+material to the subfield of the instructor, using the provided resources. To check this 
+transferability claim, the material presented herein will be translated in Greek and the 
+seminar will be taught by an EUCEET participant to a group of civil engineering graduate 
+students. His feedback will be used to modify the material as necessary. 
+Acknowledgments 
+The first author acknowledges collegial support provided by Charis Gantes, George Gazetas 
+and partners of the EUCEET Network (European Community Program 230355-CP-1-FR-
+ERASMUS-TN). Both authors appreciate deeply the sustained enthusiasm for terminology 
+work of the members of ELOT TC21 National Technical Committee.  
+References 
+[ 1]  
+European University Association, 2007, Doctoral Programmes in Europe’s 
+Universities: Achievements and Challenges, EUA, Brussels, Belgium (available 
+through www.eua.be). 
+[ 2] 
+Cardiff University, Graduate Centre, http://www.cf.ac.uk/gradc/training/index.html, 
+accessed July 24, 2009. 
+[ 3] 
+Katholieke 
+Universiteit 
+Leuven, 
+K.U. 
+Leuven 
+Arenberg 
+Doctoral 
+School, 
+http://set.kuleuven.be/phd/, accessed July 24, 2009. 
+[ 4] 
+ISO, 2000, Terminology work – Vocabulary – Part 1: Theory and application, ISO 
+1087-1:2000(E/F). 
+[ 5] 
+K.-D. Schmitz, 2006, Terminology and Terminological Databases, Encyclopedia of 
+Language and Linguistics, Elsevier, 578-587. 
+[ 6] 
+M.T. Cabré, 2003, Theories of Terminology: Their description, prescription and 
+explanation, Terminology, 9:2:163-199. 
+[ 7] 
+K. Valeontis, 2008, Contemporary interlingual principles of terminology and their 
+application in the Greek language, EU periodical Μεταφράζοντας, issue 9 (in Greek). 
+[ 8] 
+ISO, 2000, Terminology work – Principles and methods, ISO 704:2000(E). 
+[ 9] 
+ISO, 2005, Soil quality – Vocabulary, ISO 11074:2005. 
+[10] 
+M. Pantazidou and N. Papassiopi, 2007, Launching an Informal Thematic Committee 
+for Terminology, 6th Conference on Greek Language and Terminology, Athens, 
+Greece, Nov. 1–3 (in Greek). 
+[11] 
+J.S. Scott, 2004, Dictionary of Civil Engineering, 4th Revised edition, Penguin. 
+[12] 
+Καθημερινή, 2007, Ανατρέπεται η θεωρία κατάρρευσης των Δίδυμων Πύργων, Sept. 
+11, http://portal.kathimerini.gr/4dcgi/_w_articles_kathbreak_137168_11/09/2007_ 
+203078  (accessed July 24, 2009). 
+[13] 
+British Broadcasting Corporation (BBC) News, 2007, 9/11 demolition theory 
+challenged, 
+Sept. 
+11, 
+http://news.bbc.co.uk/2/hi/science/nature/6987965.stm 
+(accessed July 24, 2009). 
+ 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+19
+ 
+ 
+ 
+ 
+ 
+ 
+Γλωσσάριο Όρων 
+ 
+• abundance 
+• αφθονία 
+• academic instructor • ακαδημαϊκός 
+διδάσκων 
+• accompanying 
+notes 
+• συνοδευτικές 
+σημειώσεις 
+• accompanying text 
+• συνοδευτικό 
+κείμενο 
+• advection 
+• μεταγωγή 
+• air sparging 
+• αεροδιασκορπι-
+σμός 
+• alternative definition • εναλλακτικός 
+ορισμός 
+• appropriateness 
+• καταλληλότητα 
+• area of expertise 
+• περιοχή 
+εμπειρογνωσίας 
+• assignment 
+• εργασία (που 
+ανατίθεται) 
+• attribute 
+• ιδιάζον 
+χαρακτηριστικό 
+• attributes of a term 
+• ιδιάζοντα 
+χαρακτηριστικά 
+ενός όρου 
+• autonomous 
+learners 
+• αυτόνομοι 
+μανθάνοντες 
+• awareness 
+• ενημερότητα 
+• background level 
+• αρχικό 
+υπόστρωμα 
+(στοιχείου σε 
+ρυπασμένο χώρο) 
+• basic subset of 
+requirements 
+• βασικό 
+υποσύνολο 
+απαιτήσεων 
+• caisson 
+• κιβώτιο, καισόν 
+• characteristic 
+• χαρακτηριστικό 
+• circular definition 
+• κυκλικός ορισμός 
+• civil engineering 
+• επιστήμη του 
+πολιτικού 
+μηχανικού 
+• coefficient 
+• συντελεστής 
+• collaborative model
+• συνεργασιακό 
+μοντέλο 
+• communication 
+system 
+• σύστημα 
+επικοινωνιών 
+• completeness 
+• πληρότητα 
+• compoundability 
+• συνθετικότητα 
+• conceivable 
+• συλληπτός (με το 
+νου) 
+• concept 
+• έννοια 
+• concept system 
+• σύστημα εννοιών 
+• concise definition 
+• λακωνικός 
+ορισμός 
+• consistency 
+• συνέπεια 
+• constant 
+• σταθερά 
+• contaminant 
+hydrology 
+• περιβαλλοντική 
+υδρολογία 
+• contaminated land 
+• ρυπασμένη έκταση
+• controversial term 
+• αμφιλεγόμενος 
+όρος 
+• deficient definition 
+• ελαττωματικός 
+ορισμός 
+• define 
+• ορίζω 
+• definition 
+• ορισμός 
+• definition-giving 
+• διατύπωση 
+ορισμών 
+• delimiting 
+characteristic 
+• διακριτικό 
+χαρακτηριστικό 
+• delivery format 
+• τύπος παράδοσης 
+(για μάθημα) 
+• derivability  
+• παραγωγικότητα 
+• designate 
+• κατασημαίνω 
+• designation 
+• κατασήμανση 
+• detailed lesson plan • λεπτομερές πλάνο 
+μαθήματος 
+• doctoral education, 
+PhD education  
+• διδακτορική 
+εκπαίδευση 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+20
+• doctoral students, 
+PhD students 
+• διδακτορικοί 
+φοιτητές 
+• doctoral studies, 
+PhD studies 
+• διδακτορικές 
+σπουδές 
+• domain specialists 
+• ειδικοί του τομέα 
+• electrical engineer 
+• ηλεκτρολόγος 
+μηχανικός 
+• electrical generator • ηλεκτρική 
+γεννήτρια 
+• engineering 
+background 
+• υπόβαθρο 
+μηχανικού 
+• equality 
+• ισότητα 
+• equally broad 
+concepts 
+• έννοιες ίσου 
+πλάτους, 
+ισοπλατείς έννοιες 
+• established concept • καθιερωμένη 
+έννοια 
+• Eurocodes 
+• Ευρωκώδικες 
+• European regulation • ευρωπαϊκός 
+κανονισμός 
+• European Standard, 
+EN 
+• Ευρωπαϊκό 
+Πρότυπο, ΕΝ 
+• European University 
+Civil Engineering 
+Education and 
+Training, EUCEET 
+• Εκπαίδευση και 
+Κατάρτιση του 
+Πολιτικού  
+Μηχανικού στην 
+Ευρώπη, EUCEET 
+• evaluate a term 
+• αξιολογώ όρο 
+• excerpt 
+• απόσπασμα 
+• factor 
+• παράγοντας 
+• faculty members 
+• διδακτικό 
+επιστημονικό 
+προσωπικό (ΔΕΠ) 
+• glossary of 
+technical terms 
+• γλωσσάριο 
+τεχνικών όρων 
+• incomplete 
+definition 
+• ελλιπής ορισμός 
+• index 
+• δείκτης 
+• informed choice of a
+technical term 
+• τεκμηριωμένη 
+επιλογή τεχνικού 
+όρου 
+• instructor 
+• διδάσκων 
+• interdisciplinary 
+initiatives 
+• διαπεδιακές 
+(διαθεματικές) 
+πρωτοβουλίες 
+• interface 
+• διεπαφή 
+• international 
+committees for 
+terminology 
+• διεθνείς επιτροπές 
+ορολογίας 
+• international 
+institutes for 
+terminology 
+• διεθνή ινστιτούτα 
+ορολογίας 
+• International 
+Standard 
+• Διεθνές Πρότυπο 
+• knowledge 
+• γνώση 
+• language 
+• γλώσσα 
+• learning objectives 
+• μαθησιακοί στόχοι 
+• linguistic 
+correctness 
+• γλωσσική 
+ορθότητα 
+• linguistic economy 
+• γλωσσική 
+οικονομία 
+• load transfer 
+mechanism 
+• μηχανισμός 
+μεταβίβασης 
+φορτίου 
+• main characteristics • κύρια 
+χαρακτηριστικά 
+• meaning 
+• σημασία 
+• name 
+• όνομα 
+• name a concept 
+• ονοματοδοτώ 
+έννοια 
+• national society for 
+terminology 
+• εθνική εταιρεία 
+Ορολογίας 
+• national standards 
+body 
+• εθνικός 
+οργανισμός 
+τυποποίησης 
+• network of experts 
+• δίκτυο 
+εμπειρογνωμόνων 
+• new term 
+• νεοόρος 
+• newspaper article 
+• άρθρο εφημερίδας 
+• object 
+• αντικείμενο 
+• overall goal 
+• γενικός σκοπός 
+• parameter 
+• παράμετρος 
+• paraphrase 
+• παραφράζω 
+• participant 
+• συμμετέχων (στο 
+σεμινάριο) 
+• perceivable 
+• αντιληπτός (με τις 
+αισθήσεις) 
+• PhD candidate 
+• υποψήφιος 
+διδάκτορας 
+• preference for 
+native language 
+• γλωσσική 
+εντοπιότητα 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+21
+• principles for term 
+rendering 
+• αρχές απόδοσης 
+όρων 
+• problematic term 
+• προβληματικός 
+όρος 
+• protection of 
+groundwater 
+against pollution 
+and deterioration 
+• προστασία των 
+υπόγειων υδάτων 
+από τη ρύπανση 
+και την 
+υποβάθμιση 
+• relevance 
+• σχετικότητα 
+• remediation method 
+for contaminated 
+groundwater 
+• μέθοδος 
+αποκατάστασης 
+ρυπασμένου 
+υπόγειου ύδατος 
+• residual capacity 
+• υπολειπόμενη 
+φέρουσα 
+ικανότητα 
+• scientific discipline • επιστημονικός 
+κλάδος 
+• seminar on 
+Terminology 
+• σεμινάριο 
+Ορολογίας 
+• shades of meaning 
+• αποχρώσεις της 
+σημασίας 
+• skills  
+• δεξιότητες 
+• skills training 
+• κατάρτιση 
+δεξιοτήτων 
+• slide presentation 
+• παρουσίαση με 
+διαφάνειες 
+• software 
+• λογισμικό 
+• special language 
+• ειδική γλώσσα 
+• specialized 
+dictionary 
+• εξειδικευμένο 
+λεξικό 
+• standardization 
+• τυποποίηση 
+• student 
+performance 
+• επίδοση φοιτητή 
+• subject field 
+• θεματικό πεδίο 
+• subject-matter 
+expert 
+• ειδικός του 
+θέματος 
+• superordinate 
+category 
+• υπερτασσόμενη 
+κατηγορία 
+• superordinate 
+concept 
+• υπερτασσόμενη 
+έννοια 
+• supplementary 
+material 
+• συμπληρωματικό 
+υλικό 
+• symbol 
+• σύμβολο 
+• systematize 
+concepts 
+• συστηματοποιώ 
+έννοιες 
+• target language 
+• γλώσσα στόχου 
+• technical committee 
+for terminology 
+• τεχνική επιτροπή 
+ορολογίας 
+• term 
+• όρος 
+• term bank, 
+terminological data 
+bank 
+• τράπεζα όρων, 
+τράπεζα 
+ορολογικών 
+δεδομένων 
+• terminology 
+• ορολογία 
+(θεματικού 
+πεδίου), Ορολογία 
+(επιστήμη) 
+• terminology basics 
+• βασικά στοιχεία 
+Ορολογίας 
+• terminology field 
+• πεδίο της 
+Ορολογίας 
+• terminology 
+glossary 
+• γλωσσάριο 
+ορολογίας 
+• terminology needs 
+• ορολογικές 
+ανάγκες 
+• terminology 
+principles 
+• αρχές της 
+Ορολογίας 
+• terminology 
+societies 
+• εταιρείες 
+Ορολογίας 
+• terminology 
+standard 
+• πρότυπο 
+ορολογίας 
+• terminology work 
+• ορολογική εργασία
+• term-rendering 
+• απόδοση όρων 
+• thematic area 
+• θεματική περιοχή 
+• thematic training 
+• θεματική 
+κατάρτιση 
+• theory kernel 
+• πυρήνας θεωρίας 
+• top performance 
+• άριστη επίδοση 
+• transferability 
+• μεταβιβασιμότητα 
+• transferable skills 
+• μεταβιβάσιμες 
+δεξιότητες 
+• transferable 
+teaching material 
+• μεταβιβάσιμο 
+διδακτικό υλικό 
+• transparency 
+• διαφάνεια 
+• transparent term 
+• διαφανής όρος 
+• transport 
+phenomenon 
+• φαινόμενο 
+μεταφοράς 
+ΕΛΕΤΟ – 7
+ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 22-24 Οκτωβρίου 2009 
+ 
+22
+• university instructor • πανεπιστημιακός 
+διδάσκων  
+• unknown term 
+• άγνωστος όρος 
+• web-based 
+multilingual term 
+resources 
+• ιστοπαγείς 
+πολυγλωσσικοί 
+ορολογικοί πόροι 
+ 
+ 
+Marina Pantazidou 
+National Technical University of Athens, School of Civil Engineering 
+Member of Greek National Committee ELOT/TC21 mirror to ISO/TC37 
+Iroon Polytechniou 9, Zografou 15780, Greece 
+Tel. +30 2107723745, Εmail: mpanta@central.ntua.gr 
+ 
+Kostas Valeontis 
+Physicist, Electronic Scientist  
+Chairman of Greek terminology bodies: MOTO (telecommunications) and ELOT/TC48/WG1 (information 
+technology) 
+Member of Greek National Committee ELOT/TC21 mirror to ISO/TC37 
+President of ELETO (Hellenic Society for Terminology) 
+Karamanlaki 18, 11253 Athens 
+Tel. +30 2108662069,  
+Εmail: valeonti@otenet.gr 
+ 
+ 
+ 

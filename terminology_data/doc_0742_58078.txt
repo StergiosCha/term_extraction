@@ -1,0 +1,903 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_00-NiGhallchobhairFidelma_V03.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+1 
+ 
+1
+Terminology Planning and Policies in Minority/Minoritized Languages 
+ 
+Fidelma Ní Ghallchobhair 
+ 
+Loanwords in lesser-used languages 
+While all languages borrow words from other languages - sometimes quite extensively – this feature 
+does not always diminish the integrity of the borrowing language. English is an obvious example of a 
+language which has borrowed rampantly and yet continues to develop vigorously. Many major 
+languages exhibit less positive results when viewed in terms of loanwords, especially from English. 
+The minor or lesser-used language is even  more vulnerable and it is probably true to say that the 
+Irish language is the one with the greatest experience of daily exposure to English influence.  
+We in the EAFT are aware of rising levels of anxiety among various European language communities 
+in relation to increased use of English as the main language of instruction in technical areas and as a 
+source language for terminology. This feature, naturally, is leading to domain loss in many hitherto 
+vigorous languages. It has been suggested that the minor or minoritized languages have more 
+experience defending their corner and may have developed some novel strategies. For this reason, 
+we decided to focus on the policies employed by some ‘smaller’ languages to see if there were some 
+patterns or pointers which might be helpful to other language communities. Several language 
+communities presented their terminology policies at a seminar held in Dublin in July 2007, including 
+Welsh, Catalan, Basque, Roma, Ladin, Slovenian, Amazigh (Berber), and Irish. We also heard a case 
+study about terminology planning for the official languages of South Africa. The presentations showed 
+that the circumstances and approaches in each language community were quite different. For this 
+reason, it was difficult to form an immediate overall impression which was to be the topic of this talk. 
+We plan to review the material at a later date, and carry out some further discussion and research 
+with a view to placing the material in context. Thus, I propose to present here one example of an 
+aspect of terminological practice which has been incorporated in national terminology planning. This 
+is a study of the historical development of loanwords in my own language, Irish, and how we have 
+incorporated these features into our approaches to term formation.     
+The nature of loanwords 
+A loanword is a word which is “adopted from another language and completely or partially 
+naturalized”1. There may be various reasons why a language community opts to borrow a foreign 
+word. We might expect that the primary reason would be that the concept is foreign to us and that we 
+cannot readily find an equivalent in our own language for it.  
+Another reason for borrowing seems to have to do with status or fashion, in that the community 
+perceive the incoming words as being more fashionable or having a higher status than equivalents in 
+their own language might have. The fashion of using French terminology on menus in English is a 
+                                                           
+1American Heritage Dictionary of the English Language 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+2 
+ 
+2
+clear example of this motivation, although the first reason mentioned above may come into play in 
+some instances.   
+Although terminological theory holds that concepts are independent of language, it seems that this is 
+often not the case. This is because languages conceptualize differently, and these differences are not 
+always evident to members of a language community encountering a foreign word for the first time. 
+Thus, they may translate the foreign terms they hear in a literal way, which often does not convey the 
+meaning of the concept satisfactorily in their own language, or else they may simply borrow the 
+foreign word or term as it stands. In the latter case, depending on phonetic differences between the 
+two languages in question, the term as loanword may sound somewhat different to the original. 
+Furthermore, it may need to be spelled quite differently, depending on the orthographic rules of the 
+languages in question.  
+General approach to term formation 
+When we come to name new concepts we need to know the relevant languages at a deep level and 
+not simply translate the words. We need to identify the underlying concept for which the incoming 
+term stands, and also the related concepts. Ideally, we need to construct a concept system and 
+analyse the relationships between the concepts. We need to discuss the new concept and propose 
+candidate terms. Then we need to reach consensus among specialists on the ideal candidate term. 
+Finally we need to have an effective method of disseminating the new term. All this activity requires a 
+system, and to operate the system we require training and resources. This implies that there be 
+awareness, prioritization and planning at management level.  
+Revisiting history 
+There are no blank slates in terminology work, for there will always be history, there will always be 
+related concepts, previously agreed terms, and similar terms if not synonyms. It is our duty as 
+terminologists to examine the history to identify the patterns already established and to be true to 
+these patterns in the formation of new terms. Thus, we need to develop a system based on existing 
+patterns, and to be ready to update or modify the system as circumstances change. Much as we 
+would like our terminology to be stable, the reality is that terminology and language, like life, are ever 
+in a state of flux. Not all terminology, of course, is liable to change but we must bear in mind that 
+fashions come and go, new concepts are conceived and others become obsolete, some terms 
+become politicallly incorrect and need to be replaced with more acceptable terms (we no longer talk of 
+a person being ‘mentally handicapped’ but as having an ‘intellectual disability’), some terms are 
+deemed old-fashioned (women wear ‘dresses’ nowadays rather than ‘frocks’) and are replaced by 
+more fashionable ones, and some other terms were clearly wrong for one reason or another (‘trans-
+Plutonian planet’ now needs to be revised in light of recent astronomical discovery) and need to be 
+replaced.  
+Cognates 
+Whatever languages we speak, they all have history and part of that history is that they are 
+descended from some, usually now extinct, ancestral language. Most European languages, for 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+3 
+ 
+3
+instance, are descended from Indo-European and inherited a core of cognate words or terms. Many 
+of these cognates have to do with personal family relationships (father, mother, brother, sister, me, 
+you) – here are some examples: 
+ 
+Irish  
+máthair  
+athair  
+bráthair, 
+deartháir 2 
+trí  
+mé  
+English  
+mother  
+father  
+brother  
+three  
+me  
+French  
+mère  
+père  
+frère  
+trois  
+moi  
+Spanish  
+madre  
+padre  
+hermano  
+tres  
+me  
+Italian  
+madre  
+padre  
+fratello  
+tre  
+me  
+Portuguese  
+mãe  
+pai  
+irmão  
+três  
+ 
+German  
+Mutter  
+Vater  
+Bruder  
+drei  
+mich  
+Dutch  
+moeder  
+vader  
+broer  
+drie  
+mij  
+Norwegian  
+mor  
+far  
+bror  
+tre  
+meg  
+Ícelandic  
+móðir  
+faðir  
+ 
+þrír  
+ 
+Lithuanian  
+mater  
+tèvas  
+brolis  
+tri  
+manen  
+Latin  
+mater  
+pater  
+frater  
+tres  
+me  
+Greek  
+meter, 
+μητέρα  
+πατέρας  
+αδελφός  
+treis, τρία  
+me  
+Sanskrit  
+matar  
+patar  
+bhrator  
+tri  
+me  
+  
+As can be seen from the table, most of these cognates carry across several far-flung European 
+languages and come from an Indo-European ancestral language. Those marked in red are words 
+which clearly have alternative roots.  
+ 
+The origin of loanwords 
+Loanwords arise from contact between one language community and another. This contact may arise 
+from members of a language community going forth to foreign destinations, whether in the form of 
+trading, other professional involvement, travel, living abroad, emigration, or through exposure to 
+foreign media in the form of news, literature, art, film, the Internet or some other format. On the other 
+hand, contact may arise due to incoming influences, be they in the form of travellers, traders, 
+missionaries, settlers, colonizers or incoming media. These types of contact may be sporadic, 
+spontaneous or chance happenings. On the other hand, an accelerated influx of loanwords into a 
+language usually accompanies major sociopolitical, sociocultural or socioeconomic change. With 
+                                                           
+2 In Modern Irish, a blood‐brother is referred to as deartháir < O.I. derbráthair < derb‐ + bráthair, derb meaning ‘sure, 
+certain, genuine’, while bráthair is reserved for brothers in a religious community. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+4 
+ 
+4
+intensity of contact over a prolonged period, the absorption of loanwords intensifies. Thus, the study 
+of loanwords can reveal historical fault lines.  
+ 
+Loanwords and Irish – a brief history 
+An overview of the main historical developments in Ireland over the past sixteen centuries reveals the 
+interconnectedness of history, geography, economics and language: 
+• 
+AD 432: the arrival of Christianity –> borrowings from Latin;  
+• 
+AD 795: the arrival of Viking invaders –> borrowings from Old Norse;  
+• 
+AD 1169: the arrival of Norman invaders –> borrowings from French;  
+• 
+15th/16th centuries: British colonization –> borrowings from English; 
+• 
+17th century: conquest or flight of the native ruling class –> English becomes dominant 
+language;  
+• 
+17th – 19th centuries: Irish becomes the language of the marginalized, intensified by 
+famine and emigration; 
+• 
+20th century: independence for three quarters of the island leading to governmental 
+engagement to preserve the language -> terminology needed for textbooks, legislation, 
+media; 
+• 
+21st century: Language Act, EU status, leading to a major translation industry.  
+ 
+Historical and linguistic fault lines in Irish history  
+With the arrival of Christianity in the fifth century, Irish absorbed loanwords from Latin, many 
+concerning concepts related to writing and learning, and to religious matters. In the table below the 
+words in red show that some of these languages did not make the same borrowings, or that they did 
+not develop in quite the same ways.  
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+5 
+ 
+5
+ 
+Latin  
+Irish  
+English  
+French  
+Spanish  
+legendum  
+léann  
+learning 
+savoir 
+conocimientos  
+schola  
+scoil  
+school 
+école 
+escuela, colegio  
+penna  
+peann  
+pen 
+plume 
+pluma 
+liber  
+leabhar  
+book 
+livre 
+libro  
+scribere  
+scríobh  
+write 
+écrire 
+escribir  
+littera  
+litir  
+letter 
+lettre 
+letra  
+sacerdos  
+sagart  
+priest  
+prêtre  
+cura  
+episcopus  
+easpag  
+bishop  
+évêque  
+obispo  
+ecclesia  
+eaglais  
+church3  
+église  
+iglesia  
+crux  
+cros  
+cross4  
+croix  
+cruz  
+templum  
+teampall  
+temple  
+temple  
+templo  
+infernum  
+ifreann  
+hell  
+enfer  
+infierno  
+ 
+ 
+Sometimes loanwords were imported more than once and have survived with different meanings, in 
+other words, they have been been borrowed as different concepts or applied to different concepts. For 
+instance, in the eighth century the Latin word oratio was borrowed into Old Irish as ortha meaning (a) 
+prayer, esp. a formal or memorized one, whether recited or sung; (b) an incantation, spell, charm), 
+and the latter meaning survives in Modern Irish. The same word was borrowed again during the ninth 
+century as óráid meaning (a) prayer (prob. a ritual prayer rather than an extempore one); (b) a 
+speech, oration, and retains the latter meaning only in Modern Irish. Other borrowings from Latin 
+include Nollaig (Christmas) < O.Ir. notlaic <la  natalicia, Cáisc (Easter) < O.Ir. cásc < la  pascha, 
+abhlann (wafer, altar bread) < O.I. obla(e) <la oblatio, scéimh (beauty, appearance) < O.Ir. scíam, 
+scéim < la schema. This last loanword is an example of Irish borrowing the same word more than 
+once, this time at a considerable remove. The early borrowing of schema (in Latin, shape, figure, 
+form) meant in Old Irish a figure of speech; form, appearance, guise; beauty, and is retained in 
+Modern Irish as scéimh, meaning beauty of face or form; look, appearance. A more recent borrowing, 
+scéim5, meaning a plan or scheme, came via the English form of the word, scheme. 
+ 
+                                                           
+3 But English retained ecclesia, ecclesial, ecclesiarch, ecclesiastic, ecclesiastical. 
+4 Cross  is an example of a Latin loanword borrowed into Old English via Old Norse from Old Irish. Interestingly, 
+the original Latin word was later borrowed unchanged into English as crux, apparently from Medieval Latin 
+crux interpretum (commentator’s torment, i.e., a difficult passage in a text).    
+5 This is the only Irish example cited throughout the article which was borrowed later than the year 1700. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+6 
+ 
+6
+Since our forbears had neither the benefit of standardization nor of mass communication, many 
+different spellings of some loanwords can be found in ancient sources. Here are the instances of the 
+Latin loanword ecclesia (church) found in early Irish sources: 
+  
+eclis eclais eclas eglais æclis ęclais eagluis eglas ecailse æcaillse ecalsé ecalse ecailsi ecalsi eagailse 
+eagailsi eguilsi eclaise eaglaise eagluise e(a)gluisi eglaisi ecolso ecolsa æcolsa æccalsa ǽccalsa 
+ecalsa egalsa eaccalsa ecalsæ æcilso eccailsi eagluiseadhe eagluiseacha eagalsa eclasae eculsa 
+ecailsib eagailsibh egluisibh ecalsaib eaglas eagluiseadh eagalsadh eclais, eclas 
+i, ī, ā, f. (eccles‐) ns. eclis  Wb 16 d 6 . ind eclais  Tur. 60 . (ind) eclas  SR 4421.4923 .  LU 116 a 38 .  Fél. 
+p. 4 .  BB 341 a 45 .  PH 3423 .  6896 . an eglais,  O'Dowley 15.11 . vs. a eclais  Ml 65 d 14 .  66 c 1 . as. 
+æclis  Wb 28 d 26 . ęclais  Ml 65 d 5 . eclais  SR 4440 . eagluis  1 Cor. xvi 19 . eglas  YBL 154 b 22 . ds. 
+æclis  Wb 11 d 16 .  28 d 24 . eclais  Ml 64 c 5 .  66 c 2 .  SR 4484 . gs. (a) (inna) ecailse  Ml 65 d 1 .  Tur. 
+48 .  LU 30 a 25 . æcaillse  Wb 22 c 20 . ecalsé  SR 4242 . ecalse,  Cáin Ad. § 39 .  § 45 . ecailsi  IT i 
+186.15 .  SR 4924 .  Trip. 16.31 ;  28.13 . ecalsi,  Cáin Ad. § 34 .  Trip. 2.18 . eagailse,  TSh. 3475 . 
+eagailsi,  Studies 1919, 439 . eguilsi,  Fl. Earls 20.27 . (b) eclaise,  Laws iii 10.16 . eaglaise, GF,  Ir. 
+Monthly 1919, 623 § 15 . eagluise,  Acts viii 1 .  Rev. ii 1 .  Luc. Fid. 389 z . e(a)gluisi,  Rom. xvi 5.   2 
+Cor. i 1 . eglaisi,  O'Dowley 15.15 ;  20.20 . (c) ecolso  Wb 13 a 3 . ecolsa  11 d 6 . æcolsa  12 b 18 .  13 
+a 27 . æccalsa  9 c 7 . ǽccalsa  7 c 8 . ecalsa,  Lism. L. 2459 .  2553 .  Acall. 2888 .  Ériu ii 204.20 .  Arch. 
+iii 307 § 17 . egalsa,  Cáin Ad. § 53 . eaccalsa,  Studies 1921, 75 . ecalsæ,  BColm. 26.2 . æcilso  Wb 22 
+c 11 . np. (a) ecailsi  RC xxvi 38.9 . eccailsi,  Cáin Ad. § 31 . ecalsi,  Laws v 14.10 .  Cáin Ad. § 30 . (b) 
+eagluiseadhe [sic ]  1 Cor. xvi 19 . eagluiseacha,  Rom. xvi 4 .  Rev. i 20 . (c) ecalsa  Lism. L. 3923 . 
+eagalsa  RC xxvi 38 n. 9 . ap. (a) ecailsi,  Trip. 110.18 . (b) eclasae  122.2 . (c) eculsa,  Fél. 4.17 . dp. (a) 
+ecailsib,  Trip. 8.2 .  Maund. 50 . eagailsibh,  Keat. iii. 310 . (b) egluisibh,  Rev. ii 13 .  iii 22 . (c) ecalsaib, 
+ Lism. L. 36 . gp. (a) eclas  PH 5589 .  Todd Lect. v 58.11 . (eclaise  PH 1663 , etc.  is not written out in 
+the MS.) eaglas  IGT , Decl. § 130 . (b) eagluiseadh,  Rev. i 20 .  IGT , Decl. § 127 . eagalsadh  § 130 .6 
+ 
+The rows of words in bold at the top show the variant spellings of the loanword in Old and Middle 
+Irish, and the entries in blue refer to the sources in which they can be found. The Modern Irish spelling 
+is ‘eaglais’.  
+ 
+Loanwords from Old Norse 
+As a result of the Viking invasions which began towards the end of the eighth century  leading to 
+widespread Viking influence over the following two centuries, many loanwords entered Irish from Old 
+Norse. Being primarily traders, merchants and seamen, the Norse legacy to Irish is characterized by 
+loanwords to do with these fields of endeavour.  
+                                                           
+6 eDIL (electronic Dictionary of the Irish Language), www.dil.ie 
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+7 
+ 
+7
+ 
+   
+Loanwords from French 
+The Norman invasion of Ireland began during the latter half of the 12th century and some French 
+influence prevailed into the 14th century. The examples below show that Irish borrowed some 
+loanwords in the fields of food and clothing, while others relate to administrative and social affairs, 
+and stil others to literary matters.   
+The fact that Irish borrowed garçon and épouser suggest the influence of new social mores. Of the 
+words previously favoured for ‘boy’ - mac meaning ‘son’ and (loosely) a male descendent, macaomh 
+meaning ‘beloved son’, and buachaill meaning ‘cowherd’ - the last is still in use, but garsún or gasúr 
+are dominant, so much so that the latter variation by metathesis has come to mean child of either sex 
+in the most densely populated Irish-speaking region.   
+The loanword plúr is bidimensional, in that it was an early borrowing from O.Fr. flor (which later 
+became fleur de farine – in the sense of the finest part of the wheat - and in Modern French 
+abbreviated to farine). But not only does it still signify ‘flour’ in Irish, but it also carries the metaphorical 
+sense demonstrated in ‘fleur de farine’, in that a beautiful woman is often referred to poetically as ‘plúr 
+na mban’ (the flower of all women). The O.Ir. word bláth is still used as the normal word for ‘flower’, 
+but is not used metaphorically in quite the same way.      
+Old Norse 
+Irish 
+English 
+French 
+Spanish 
+Danish 
+Norwegian 
+knappr 
+cnaipe 
+button 
+bouton  
+botón  
+knap 
+knapp  
+bátr 
+bád 
+boat 
+bateau 
+barco, barca, 
+embarcación  
+båd; fartøj  
+båt, fartøy  
+ey 
+í, inis, oileán  
+island 
+isle 
+isla  
+ø  
+øy  
+poki 
+póca 
+pocket 
+poche  
+bolsillo  
+lomme; ‐lomme; 
+lomme‐  
+lomme  
+bogi 
+bogha 
+bow 
+arc 
+arco  
+bue; flitsbue  
+bue  
+marked 
+margadh  
+market 
+marché  
+mercado  
+marked; 
+markedsplads  
+markedsplass, 
+torg  
+porskr 
+trosc 
+cod(fish) 
+cabillaud 
+bacalao 
+ 
+torsk 
+vindauga 
+fuinneog 
+window 
+fenêtre; 
+vitrine 
+ventana, 
+ventanilla 
+vindue; 
+udstillingsvindue 
+vindu 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+8 
+ 
+8
+ 
+French, O.Fr.  
+Irish 
+English 
+Spanish 
+Norwegian 
+bacon < bacoun 
+bagún 
+bacon 
+tocino 
+bacon, (salt) flesk 
+orange < orenge 
+oráiste 
+orange 
+naranja 
+appelsin 
+farine < fleur de 
+farine < flur 
+plúr 
+flour 
+harina 
+(hvete)mel 
+raisin sec < raisin 
+risín 
+raisin 
+uva pasa 
+rosin 
+baron 
+barún 
+baron 
+barón 
+baron 
+garçon 
+garsún, gasúr, 
+buachaill 
+boy 
+niño 
+gutt 
+épouser 
+pós 
+marry, 
+espouse 
+casarse 
+gifte seg (med), 
+bli gift 
+boucle 
+búcla 
+buckle 
+hebilla 
+spenne 
+robe 
+róba 
+robe 
+manto 
+lang kåpe, *kjole, 
+*drakt 
+goune 
+gúna 
+gown 
+vestido largo 
+(fin)kjole 
+cave voûtée < 
+vou(l)te 
+boghta 
+vault 
+sótano; bodega 
+hvelv, kjeller 
+forêt <forest 
+foraois 
+forest 
+bosque 
+skog 
+nature 
+nádúr 
+nature 
+carácter;  
+naturaleza 
+natur; art, type, 
+beskaffenhet 
+region 
+réigiún 
+region 
+región 
+område, region 
+raison 
+réasún 
+reason 
+razón 
+fornuft, forstand, 
+dømmekraft 
+texte 
+téacs 
+text 
+texto 
+tekst 
+terme 
+téarma 
+term 
+termino 
+faguttrykk, 
+vending 
+ 
+Loanwords from other languages 
+Irish also borrowed from Welsh (once our nearest linguistic neighbours), Greek (usually via Latin), 
+and occasionally from other languages. The examples below from Welsh are suggestive of a 
+storytelling context, the Spanish example of trade, the Hebrew of a biblical context and the Greek of 
+glosses on religious manuscripts. The last example below, fordécsid, is not a borrowing in the normal 
+sense but a calque or loan translation, where the Greek components π and σκοπος have been 
+literally translated by the Irish components for-  and décsid7.  
+                                                           
+7 From O’Mulchonry’s Glossary, an Irish etymologicon which has been dated to before the mid‐eighth century 
+and contains almost 200 citations of Greek words. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+9 
+ 
+9
+ 
+Irish, Old Irish 
+English 
+Welsh 
+Spanish 
+Hebrew 
+Greek 
+óinmhid < óinmit 
+fool 
+ynfyd 
+ 
+ 
+ 
+nós 
+custom 
+naws 
+ 
+ 
+ 
+murúch < 
+muirmorú 
+mermaid 
+morforwyn 
+ 
+ 
+ 
+réal 
+sixpence 
+ 
+real 
+ 
+ 
+seiceal <  cicle 
+shekel 
+ 
+ 
+sheqel 
+ 
+dia‐ < día‐ 
+dia‐ 
+ 
+ 
+ 
+δια‐  
+eo‐ < eó 
+eu‐ 
+ 
+ 
+ 
+ε  
+deichniúr,   decaid 
+decade (set of ten 
+psalms) 
+ 
+ 
+ 
+δεκάς  
+onagri 
+wild ass, onager  
+ 
+ 
+ 
+ναγρος  
+fordécsid  
+overseer 
+ 
+ 
+ 
+πσκοπος 
+ 
+Loanwords from English 
+It would appear that the borrowing activity outlined above did not unduly disturb the integrity of the 
+language. This was not to be the case with the influence of English, however. By far the greatest 
+amount of loanwords in Irish came from or via English. There was some overlap with the period of 
+Norman influence during the 12th-14th centuries, when some words were borrowed from French and 
+some from French via English. With the decline of French influence in the 15th century, the influx of 
+loanwords from English into Irish became the norm and has remained so ever since.   
+ 
+Perusal of early English loanwords reveals types of words which may be roughly grouped as follows:  
+• 
+Eating & drinking  
+béile (meal), branda (brandy), bríbhéir (brewer), bricfeasta (breakfast), cabáiste (cabbage), 
+candaí (candy), cearbhas, carbuaid (caraway), dinnéar8 (dinner), leitís (lettuce), liocras 
+(liquorice), liomóin (lemon), luáiste (lovage), sáiste (sage), scailliún (scallion), siocaire 
+(chicory), sinséar (ginger), suipéar9 (supper) 
+• 
+Clothing & furnishings 
+bríste (breeches), clóca (cloak), cóta (coat), cufa (cuff), cuilt (quilt), cuirtín (curtain), cúisín 
+(cushion), hata (hat), húda (hood), lása (lace), líneáil (lining), ómra (amber), pota (pot), scarfa 
+(scarf), sciorta (skirt), stoca (stocking) 
+• 
+Home & hardware 
+bosca (box), bríce (brick), cairt (cart), campa (camp), cárta (quart, card), cíle (keel), cistin 
+(kitchen), clós (close, yard), corda (cord, rope), hanla (handle), hinse (hinge), laitís (lattice), 
+lampa (lamp), rópa (rope), scafall (scaffolding) 
+                                                           
+8 Or perhaps from French 
+9 Or perhaps from French 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+10 
+ 
+10
+• 
+Personal needs  
+compord (comfort), crampa (cramp), dochtúir (doctor), poitigéir (apothecary), scóip (scope), 
+seirbhís (service), sólás (solace) 
+• 
+Commerce  
+costas (cost), dosaen (dozen), lasta (last, cargo), léas (lease), liosta (list), lóistín (lodging), 
+pingin (penny), scór (score), sórt (sort) 
+   
+The continuum of English influence 
+This aspect is a subject of focus in its own right and I will not attempt to deal with it here. Let it just 
+suffice to say that since the beginning of the seventeenth century, English has increasingly become 
+the dominant language and, for the majority of the population, the only real language of everyday 
+communication. There are no monoglot Irish speakers left and the speech of those for whom Irish is 
+the mother-tongue is being noticably influenced by English, not only in vocabulary but also in syntax.   
+ 
+Laying the foundation for domain gain 
+With the foundation of the Irish Free State in 1922, the Government set about putting in place 
+measures to preserve and restore Irish as the language of the Irish people. This included introducing 
+Irish as the medium of education in primary schools, providing Irish-medium secondary education in 
+some schools and some third-level Irish-medium education. This focus on Irish-medium education 
+necessitated terminology planning, which in turn led to the formulation of recognized methodologies 
+for term formation. 
+  
+Much activity focussed on standardization of spelling and grammar during the 1940s and 50s, on 
+lexicography and terminology work, on provision of textbooks, atlases, and educational aids. Bilingual 
+signage for place-names was introduced, an Irish-medium radio was founded in 1972 and a television 
+station in 1996, while some newsprint has been available in Irish since the late nineteenth century. 
+The recent Official Languages Act 2003 demands the provision of bilingual services by public bodies 
+and, in January 2007, Irish achieved full status as an official working language of the European Union. 
+All of these activities and many others have led to a huge and growing demand for technical 
+terminology.    
+ 
+General approaches to terminology provision 
+There are four simple approaches involved:  
+• 
+Collection of existing terminology in surviving domains; 
+• 
+Collection of previously existing terminology forgotten by the language community due to 
+domain loss; 
+• 
+Term formation; 
+• 
+Standardization and harmonization of existing terminology; 
+• 
+Dissemination of terminology in suitable and accessible resources. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+11 
+ 
+11
+ 
+ Approaches to term formation 
+• 
+Devising new terms using native words or parts of words; 
+• 
+Calques; 
+• 
+Loanwords transcribed; 
+• 
+Loanwords left unchanged. 
+ 
+Early transcription patterns 
+While resorting to borrowing loanwords from English was not promoted as the primary method of term 
+formation, it was considered necessary for scientific and technical terminology. Thus, rules for 
+transcription of technical terms were devised. Special emphasis was laid on the etymology of 
+loanwords, on identifying Latin or Greek roots, and on transcribing them according to the demands of 
+Irish orthography.     
+Features of historical loanwords from Latin were identified as follows:   
+• 
+the Latin endings –um, -us, -is, -io are dropped; 
+• 
+the vowel sounds are kept long or short as in the original Latin or Greek; 
+• 
+the consonants are kept broad or slender as in Irish orthography 
+• 
+short final vowel syllables are rendered as a or e depending on whether preceding vowel is 
+broad or slender. 
+ 
+Mod.Ir.  
+ 
+Mid.or Early Mod.Ir. 
+ 
+Latin  
+criostal   
+ 
+< cristall (8th C)   
+ 
+< crystallum  
+airgead  
+ 
+< argat (9th C)  
+  
+< argentum  
+ciogal   
+ 
+< cicul (9th C) 
+ 
+  
+< cyclus  
+maighnéad   
+ 
+< maignéit (10th C) 
+  
+< magnetum  
+stoidiaca  
+ 
+< stodiace (15th C) 
+  
+< zodiacus  
+éiclips   
+ 
+< éiclips (17th C) 
+  
+ 
+< eclipsis  
+ 
+Devising transcription rules 
+The first step in devising transcription rules is to identify criteria in order to establish which terms to 
+transcribe. While this is not an exact science, the following criteria were adopted by terminology 
+planners for the Irish language:  
+◦ 
+Proper names  
+x people (in general, Irish people and people famous in history and legend)     
+x places (in general, important foreign placenames) 
+x movements (historical, political, artistic) 
+x organizations (administrative, historical, political, artistic)  
+x titles (historical, administrative, ecclesiastical, military) 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+12 
+ 
+12
+x acronyms (some already established, but tend to leave many acronyms in 
+English) 
+◦ 
+Terms  
+x technical 
+x scientific  
+x other terms if no satisfactory solution can be found using native words, or if 
+the borrowing is in common use in the language community 
+    
+Loanwords left unchanged in Irish include many proper names (for practical reasons),  acronyms (for 
+reasons of transparency) and certain types of terms (e.g., some French culinary terms).  
+ 
+Transcription rules from the Latin alphabet to Irish 
+The rules are somewhat complex but these are the main steps: 
+Loanwords are transcribed  syllable by syllable. The first step is to study the etymology for semantic 
+purposes, and check the Greek, Latin or other roots for vowel length. The rules  provide for 
+consonants which do not exist in Irish or which only appear in certain positions. They also provide for 
+diphthongs which do not exist in Irish. They indicate how and when to slenderize or broaden 
+consonants when putting the syllables together. Common scientific endings have been standardized. 
+Finally, the rules provide for application of lenition10 and hyphenation rules in transcribed loanwords. 
+ 
+Almost all new terms are presented to us in English and in the Roman alphabet. These rules have 
+been developed over the past number of decades and applied with varying degrees of consistency. 
+Much existing terminology has recently been been collected in a national terminology database, 
+resulting in a huge harmonization task. Because of the lack of visibility and everyday currency of 
+terms, especially technical terms, there is no real sense of what is ‘commonly in use’, with the result 
+that making harmonization decisions can be quite challenging.   
+ 
+Challenges in term formation 
+As mentioned above, there is very little visibility for technical terminology in Irish. While bilingual 
+signage is becoming more common, the wording is not always technical, or is at least limited by the 
+scope of the signage. Although newspapers, magazines and journals exist, they do not enjoy a wide 
+readership so that the awareness of members of the public concerning spelling, grammar and 
+terminology is often limited to what they remember from their schooldays. Among the community 
+where Irish is the mother-tongue, many speakers are not interested and use English terms in 
+preference to what they consider artificial words from Dublin. Historically, there has been little 
+engagement by universities in the fields of  terminology and lexicography, although this is beginning 
+to change. The transcription rules are complicated and were applied and understood by language 
+experts in the fields of lexicography and terminology. For reasons of resources, the rules had not 
+                                                           
+10 This linguistic feature is very common in Irish in many grammatical situations. It consists of softening a 
+consonant (initial or otherwise) and is indicated by inserting the letter h after the consonant.    
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+13 
+ 
+13
+been finalized or published. However, due to a burgeoning translation industry in recent times, the 
+need to clarify the rules and publish a handbook has become pressing. The handbook is in 
+development and will be published in 2008.    
+ 
+Relevance of this model 
+It will be obvious that the approach to term formation and transcription of loanwords outlined above 
+grew out of the specific circumstances of one language community. These circumstances may seem 
+entirely alien in comparison to those of vigorous languages, Irish being at a very advanced state of 
+decline. But since it is one of the oldest written European languages, it surely merits concerted efforts 
+to secure its passage to a new generation of speakers.  
+ 
+ 
+ 
+Fidelma Ní Ghallchobhair  
+Secretary of the Terminology Committee for the Irish language  
+President of the EAFT 
+Representative of Ireland at the ISO Technical Committee (TC 37) 
+on terminology and other language content resources. 

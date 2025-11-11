@@ -1,0 +1,3175 @@
+SOURCE: http://www.eleto.gr/download/Bodies/SI-System-terms_KValeontis.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Αγγλοελληνικό και Ελληνοαγγλικό γλωσσάριο όρων 
+του Διεθνούς Συστήματος Μονάδων (SI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Σύνταξη – Επιμέλεια: 
+Κώστας Βαλεοντής 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Αθήνα, Αύγουστος 2013 
+E 
+Λ 
+Ε  Τ Ο
+L 
+E 
+2 
+ 
+Αγγλοελληνικό Γλωσσάριο όρων που αφορούν μεγέθη  
+και μονάδες του Διεθνούς Συστήματος Μονάδων (SI) 1 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+absolute pressure 
+απόλυτη πίεση 
+p, pa, pabs 
+absorbed dose, specific energy 
+imparted, kerma, absorbed dose index 
+απορροφούμενη δόση, δείκτης 
+απορροφούμενης δόσης 
+D 
+acceleration 
+επιτάχυνση 
+a 
+acceleration of free fall 
+επιτάχυνση της ελεύθερης πτώσης 
+g 
+acceleration unit 
+μονάδα επιτάχυνσης 
+ 
+acoustics 
+ακουστική 
+ 
+acre 
+ακρ 
+ar 
+active power 
+ενεργός ισχύς 
+P 
+activity (of a radionuclide) 
+ενεργότητα (ραδιονουκλεϊδίου) 
+A 
+activity 
+ενεργότητα 
+A 
+additional unit 
+πρόσθετη μονάδα 
+ 
+agrarian area 
+αγροτική έκταση 
+ 
+algebraic operation 
+αλγεβρική πράξη 
+ 
+ambient pressure 
+πίεση περιβάλλοντος 
+pamb 
+amount of substance 
+ποσότητα ουσίας 
+n 
+amount-of-substance concertration of 
+B 
+συγκέντρωση ποσότητας ουσίας διαλυτέου B 
+cB 
+amount-of-substance fraction of B 
+κλάσμα ποσότητας ουσίας διαλυτέου B 
+xB 
+ampere 
+αμπέρ 
+A 
+ampere hour 
+αμπερώριο 
+A⋅h 
+angular frequency 
+γωνιακή συχνότητα 
+ω 
+angular velocity 
+γωνιακή ταχύτητα 
+ω 
+apparent power 
+φαινόμενη ισχύς 
+S 
+are 
+αρ 
+a 
+area 
+εμβαδό 
+A 
+astronomical unit 
+αστρονομική μονάδα 
+ua 
+atomic physics 
+ατομική φυσική 
+ 
+atto 
+αττο 
+a 
+balance 
+ζυγαριά 
+ 
+                                                          
+1  
+Tα λεξιλόγια του παρόντος τεύχους περιλαμβάνουν όλους τους όρους του «SI Guide International System of Units”, ISO, 1998 και 
+τους ελληνικούς ισοδύναμους όρους του τεύχους «Διεθνές Σύστημα Μονάδων», ΕΛΟΤ, 1999, το οποίο αποτελεί επηυξημένη 
+έκδοση του πρώτου στα ελληνικά, σε μετάφραση – επιμέλεια Κώστα Βαλεοντή. 
+2  
+Τα σύμβολα των μεγεθών γράφονται με  πλαγιότυπους χαρακτήρες, ενώ τα σύμβολα των μονάδων γράφονται με (όρθιους) 
+εντονότυπους χαρακτήρες. Οι συντομογραφίες άλλων όρων γράφονται με απλούς χαρακτήρες. 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+bar 
+μπαρ (βαρίδα) 
+bar 
+base unit 
+θεμελιώδης μονάδα 
+ 
+becquerel 
+μπεκερέλ 
+Bq 
+becquerel per cubic metre 
+μπεκερέλ ανά κυβικό μέτρο 
+Bq/m3 
+becquerel per kilogram 
+μπεκερέλ ανά χιλιόγραμμο 
+Bq/kg 
+bel 
+μπελ 
+B 
+British pound 
+λίρα Μεγάλης Βρετανίας 
+GBP 
+British thermal unit 
+βρετανική θερμική μονάδα 
+Btu 
+british thermal unit per hour 
+βρετανική θερμική μονάδα ανά ώρα 
+Btu/h 
+building technology 
+κτιριακή τεχνολογία 
+ 
+Bureau International des Poids et 
+Mesures 
+Διεθνές Γραφείο Μέτρων και Σταθμών 
+BIPM 
+calculation 
+υπολογισμός 
+ 
+calorie 
+θερμίδα 
+cal 
+candela 
+καντέλα 
+cd 
+capacitance 
+χωρητικότητα 
+C 
+cartesian coordinates 
+καρτεσιανές συντεταγμένες 
+ 
+Celsius temperature 
+θερμοκρασία Κελσίου 
+t 
+centi 
+εκατοστο (πρόθεμα μονάδας = 10-2) 
+c 
+centilitre 
+εκατοστόλιτρο 
+cl 
+centipoise 
+εκατοστοπουάζ 
+cP 
+changeover to the SI 
+μεταγωγή στο SI 
+ 
+characteristic numbers 
+χαρακτηριστικοί αριθμοί 
+ 
+chemical energy 
+χημική ενέργεια 
+U 
+coefficient of heat transfer 
+συντελεστής θερμικής μεταφοράς 
+K 
+coherent 
+συνεκτικός 
+ 
+coherent unit 
+συνεκτική μονάδα 
+ 
+comma 
+κόμμα 
+, 
+compound multiple 
+σύνθετο πολλαπλάσιο 
+ 
+compound prefix 
+σύνθετο πρόθεμα 
+ 
+compound unit 
+σύνθετη μονάδα 
+ 
+conductor 
+αγωγός 
+ 
+consistently 
+συνεπώς, με συνέπεια 
+ 
+context 
+συγκείμενο 
+ 
+coulomb 
+κουλόμπ 
+C 
+coulomb per kilogram 
+κουλόμπ ανά χιλιόγραμμο 
+C/kg 
+cross-sectional area 
+εμβαδό εγκάρσιας διατομής 
+ 
+4 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+cube 
+κύβος 
+ 
+cubic centimetre 
+κυβικό εκατοστόμετρο 
+cm3 
+cubic decimetre 
+κυβικό δεκατόμετρο 
+dm3 
+cubic foot 
+κυβικό πόδι 
+ft3 
+cubic inch 
+κυβική ίντσα 
+in3 
+cubic kilometre 
+κυβικό χιλιόμετρο 
+km3 
+cubic metre 
+κυβικό μέτρο 
+m3 
+cubic millimetre 
+κυβικό χιλιοστόμετρο 
+mm3 
+cubic yard 
+κυβική γιάρδα 
+yd3 
+currency code 
+νομισματικός κώδικας 
+ 
+customary context 
+σύνηθες συγκείμενο 
+ 
+day 
+ημέρα 
+d 
+deca 
+δεκα (πρόθεμα μονάδας = 101) 
+da 
+deci 
+δεκατο (πρόθεμα μονάδας = 10-1) 
+d 
+decibel 
+ντεσιμπέλ 
+decibel 
+decimal 
+δεκαδικός 
+ 
+decimal multiple 
+δεκαδικό πολλαπλάσιο 
+ 
+decimal point 
+υποδιαστολή 
+, 
+decimal sub-multiple 
+δεκαδικό υποπολλαπλάσιο 
+ 
+degree 
+μοίρα 
+° 
+degree Celsius 
+βαθμός Κελσίου 
+°C 
+degree Fahrenheit 
+βαθμός Φαρενάιτ 
+oF 
+degree Rankine 
+βαθμός Ράνκιν 
+oR 
+denominator 
+παρονομαστής 
+ 
+derived unit 
+παράγωγη μονάδα 
+ 
+division of units 
+διαίρεση μονάδων 
+ 
+dose equivalent, dose equivalent index 
+ισοδύναμη δόση, δείκτης ισοδύναμης δόσης 
+H 
+dyn 
+δύνη 
+dyn 
+dynamic viscocity 
+δυναμικό ιξώδες 
+η 
+dynamometer (spring) 
+δυναμόμετρο (με ελατήριο) 
+ 
+edge 
+ακμή 
+ 
+electric cable 
+ηλεκτρικό καλώδιο 
+ 
+electric charge 
+ηλεκτρικό φορτίο 
+Q 
+electric charge, quantity of electricity 
+ηλεκτρικό φορτίο 
+Q 
+electric conductance 
+ηλεκτρική αγωγή 
+ 
+electric current 
+ένταση ηλεκτρικού ρεύματος, ηλεκτρικό ρεύμα 
+I 
+electric potential 
+ηλεκτρικό δυναμικό 
+V 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+electric resistance 
+ηλεκτρική αντίσταση 
+R 
+electric tension 
+ηλεκτρική τάση 
+U 
+electrical energy 
+ηλεκτρική ενέργεια 
+W 
+electrical technology 
+ηλεκτροτεχνία 
+ 
+electricity 
+ηλεκτρισμός 
+ 
+electronvolt 
+ηλεκτρονιοβόλτ 
+eV 
+energy 
+ενέργεια 
+E 
+equation 
+εξίσωση 
+ 
+exa 
+εξα (πρόθεμα μονάδας = 1018) 
+E 
+exposure 
+έκθεση 
+X 
+expression 
+έκφραση 
+ 
+factor 
+παράγοντας 
+ 
+Fahrenheit temperature 
+θερμοκρασία Φαρενάιτ 
+tF 
+farad 
+φαράντ 
+F 
+femto 
+φεμτο 
+f 
+field of application 
+πεδίο εφαρμογής 
+ 
+final speed 
+τελική ταχύτητα 
+ 
+foot 
+πόδι 
+ft 
+foot per second 
+πόδι ανά δευτερόλεπτο 
+ft/s 
+foot per second squared 
+πόδι ανά δευτερόλεπτο στο τετράγωνο 
+ft/s2 
+foot pound-force 
+ποδολίβρα (ενέργειας) 
+ft⋅lbf 
+foot-pound system 
+σύστημα ποδιού-λίβρας 
+ 
+force 
+δύναμη 
+F 
+force unit 
+μονάδα δύναμης 
+ 
+formula 
+τύπος 
+ 
+franc 
+φράγκο 
+fr 
+frequency 
+συχνότητα 
+f, ν 
+friction factor 
+συντελεστής τριβής, παράγοντας τριβής 
+μ 
+galon (UK) 
+γαλόνι Ηνωμένου Βασιλείου 
+ 
+galon (US) 
+γαλόνι ΗΠΑ 
+ 
+gauge pressure 
+πίεση ελεγκτήρα 
+pe 
+General Conference of Weights and 
+measures 
+(Γαλλ.: Conférence Générale des 
+Poids et Mesures) 
+Γενική Διάσκεψη Μέτρων και Σταθμών 
+CGPM 
+geometric dimensions 
+γεωμετρικές διαστάσεις 
+ 
+giga 
+γιγα (πρόθεμα μονάδας = 109)) 
+G 
+gigahertz 
+γιγαχέρτζ 
+GHz 
+6 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+gigajoule 
+γιγατζάουλ 
+GJ 
+gigapascal 
+γιγαπασκάλ 
+GPa 
+gigawatt 
+γιγαβάτ 
+GW 
+Giovanni Giorgi 
+Τζιοβάνι Τζιόρτζι 
+ 
+gon 
+γων 
+gon 
+gram 
+γραμμάριο 
+g 
+gram per litre 
+γραμμάριο ανά λίτρο 
+g/l 
+gravitational force 
+δύναμη της βαρύτητας 
+ 
+gray 
+γκρέι 
+Gy 
+half-high dot 
+μεσοϋψής στιγμή 
+⋅ 
+heat 
+θερμότητα 
+Q 
+hectare 
+εκτάριο 
+ha 
+hecto 
+εκατο (πρόθεμα μονάδας = 102) 
+h 
+hectopascal 
+εκατοπασκάλ 
+hPa 
+Hellenic Standard 
+Ελληνικό Πρότυπο 
+ 
+henry 
+χένρι 
+H 
+hertz 
+χερτζ 
+Hz 
+horizontal bar 
+οριζόντια γραμμή κλάσματος 
+–– 
+horsepower 
+ίππος 
+hp 
+hour 
+ώρα 
+h 
+hundredweight 
+εκατόβαρο 
+cwt 
+illuminance 
+φωτισμός 
+E 
+Imperial foot-pound system 
+Βρετανικό σύστημα ποδιού-λίβρας 
+ 
+Imperial horsepower 
+βρετανικός ίππος 
+ 
+impulse 
+ώθηση 
+I 
+inch 
+ίντσα 
+in 
+inch of mercury 
+ίντσα στήλης υδραργύρου 
+inchHg 
+inch of water 
+ίντσα στήλης ύδατος 
+inchH2O 
+inductance 
+επαγωγή 
+L 
+International Committee for Weights 
+and Measures 
+(Γαλλ.: Comité International des Poids 
+et Mesures) 
+Διεθνής Επιτροπή Μέτρων και Σταθμών 
+CIPM 
+International Electrotechnical 
+Commission 
+Διεθνής Ηλεκτροτεχνική Επιτροπή 
+IEC 
+International Organization for 
+Standardization 
+Διεθνής Οργανισμός Τυποποίησης 
+ISO 
+international prototype of the kilogram 
+διεθνές πρωτότυπο του χιλιογράμμου 
+ 
+International Standard 
+Διεθνές Πρότυπο 
+ 
+7 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+International System of Units 
+(Γαλλ.: Système International d’Unités) 
+Διεθνές Σύστημα Μονάδων 
+SI 
+international unit symbol 
+διεθνές σύμβολο μονάδας 
+ 
+ionizing radiation 
+ιοντίζουσα ακτινοβολία 
+ 
+iridium 
+ιρίδιο 
+ 
+is approximately equal to 
+είναι κατά προσέγγιση ίσο με 
+≈ 
+is by definition equal with 
+είναι εξ ορισμού ίσο με 
+=
+def  
+is exactly equal with 
+είναι ακριβώς ίσο με 
+= 
+ISO Standards Handbook 
+Εγχειρίδιο Πρoτύπων του ISO 
+ 
+joule 
+τζάουλ 
+J 
+joule per kilogram 
+τζάουλ ανά χιλιόγραμμο 
+J/kg 
+kelvin 
+κέλβιν 
+K 
+kilo 
+χιλιο (πρόθεμα μονάδας = 103) 
+k 
+kiloampere 
+χιλιοαμπέρ 
+kA 
+kilobecquerel 
+χιλιομπεκερέλ 
+kBq 
+kilobecquerel per cubic metre 
+χιλιομπεκερέλ ανά κυβικό μέτρο 
+kBq/m3 
+kilobecquerel per kilogram 
+χιλιομπεκερέλ ανά χιλιόγραμμο 
+kBq/kg 
+kilocalorie 
+χιλιοθερμίδα 
+kcal 
+kilogram 
+χιλιόγραμμο 
+kg 
+kilogram metre per second 
+χιλιόγραμμο επί μέτρο ανά δευτερόλεπτο 
+kg⋅m/s 
+kilogram metre squared 
+χιλιόγραμμο επί μέτρο στο τετράγωνο 
+kg⋅m2 
+kilogram per cubic metre 
+χιλιόγραμμο ανά κυβικό μέτρο 
+kg/m3 
+kilogram-force, 
+kilopond 
+χιλιόγραμμο δύναμης, χιλιόγραμμο βάρους, 
+κιλοπόντ 
+kgf, kgr*, 
+kp 
+kilohertz 
+χιλιοχέρτζ 
+kHz 
+kilojoule 
+χιλιοτζάουλ 
+kJ 
+kilometre 
+χιλιόμετρο 
+km 
+kilometre per hour 
+χιλιόμετρο ανά ώρα 
+km/h 
+kiloohm 
+χιλιοώμ 
+kΩ 
+kilopascal 
+χιλιοπασκάλ 
+kPa 
+kilopond 
+κιλοπόντ 
+kp 
+kilopond metre 
+κιλοπόμετρο 
+kp⋅m 
+kilopond,  
+kilogram-force 
+κιλοπόντ, χιλιόγραμμο δύναμης, χιλιόγραμμο 
+βάρους, 
+kp, kgf, 
+kgr* 
+kilovolt 
+χιλιοβόλτ 
+kV 
+kilovolt ampere 
+χιλιοβόλτ επί αμπέρ 
+kV⋅A 
+kilowatt 
+χιλιοβάτ 
+kw 
+8 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+kilowatt hour 
+χιλιοβατώριο 
+kW⋅h 
+kinematic viscocity 
+κινηματικό ιξώδες 
+ν 
+kinetic energy 
+κινητική ενέργεια 
+T 
+knot 
+κόμβος 
+ 
+length 
+μήκος 
+ 
+letter symbol 
+γραμματοσύμβολο 
+ 
+level 
+στάθμη 
+ 
+light 
+φως 
+ 
+light exposure 
+έκθεση σε φως 
+H 
+litre 
+λίτρο 
+l, L 
+local acceleration of free fall 
+τοπική επιτάχυνση ελεύθερης πτώσης 
+g 
+long hundredweight 
+μεγάλο εκατόβαρο 
+cwt 
+long ton 
+μεγάλος τόνος 
+ 
+long ton (US), ton (UK) 
+μεγάλος τόνος, τόνος Ηνωμένου Βασιλείου 
+ 
+lower case letters 
+μικρά (πεζά) γράμματα 
+ 
+lumen 
+λούμεν 
+lm 
+luminous flux 
+φωτεινή ροή, φωτεινή ισχύς 
+Φ 
+luminous intensity 
+φωτεινή ένταση (φωτοβολία) 
+I 
+lux 
+λουξ 
+lx 
+lux second 
+λουξ επί δευτερόλεπτο 
+lx⋅s 
+Mach number 
+αριθμός Μαχ 
+Ma 
+magnetic flux 
+μαγνητική ροή 
+ 
+magnetic flux density 
+πυκνότητα μαγνητικής ροής 
+B 
+magnetism 
+μαγνητισμός 
+ 
+mass 
+μάζα 
+m 
+mass density, volumic mass 
+πυκνότητα (μάζας) 
+ρ 
+mass fraction 
+περιεκτικότητα κατά μάζα, κλάσμα μάζας 
+ 
+mass fraction of B 
+κλάσμα μάζας διαλυτέου Β 
+wB 
+mass moment of inertia 
+ροπή αδράνειας (μάζας) 
+J 
+massic activity, specific activity 
+ενεργότητα μάζας, ειδική ενεργότητα 
+a 
+massic energy, specific energy 
+μαζική ενέργεια, ειδική ενέργεια (μάζας) 
+ 
+massic heat capacity, specific heat 
+capacity 
+ειδική θερμοχωρητικότητα 
+c 
+measured quantity 
+μετρούμενο μέγεθος 
+ 
+mechanical engineering drawing 
+μηχανολογικό σχέδιο 
+ 
+Mechanics 
+Μηχανική 
+ 
+mega 
+μεγα (πρόθεμα μονάδας = 106) 
+M 
+9 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+megabecquerel 
+μεγαμπεκερέλ 
+MBq 
+megabecquerel per kilogram 
+μεγαμπεκερέλ ανά χιλιόγραμμο 
+MBq/kg 
+megagram 
+μεγαγραμμάριο 
+Mg 
+megagram per cubic metre 
+μεγαγραμμάριο ανά κυβικό μέτρο 
+Mg/m3 
+megahertz 
+μεγαχέρτζ 
+MHz 
+megajoule 
+μεγατζάουλ 
+MJ 
+megaohm 
+μεγαώμ 
+MΩ 
+megapascal 
+μεγαπασκάλ 
+MPa 
+megavolt ampere 
+μεγαβόλτ επί αμπέρ 
+MV⋅A 
+megawatt 
+μεγαβάτ 
+MW 
+metre 
+μέτρο 
+m 
+Metre Convention 
+(Γαλλ.: Convention du Mètre) 
+Σύμβαση του Μέτρου 
+ 
+metre cubed 
+μέτρο στον κύβο 
+m3 
+metre per second 
+μέτρο ανά δευτερόλεπτο 
+m/s 
+metre per second squared 
+μέτρο ανά δευτερόλεπτο στο τετράγωνο 
+m/s2 
+metre squared per second 
+μέτρο στο τετράγωνο ανά δευτερόλεπτο 
+m2/s 
+metre to the power four 
+μέτρο στην τετάρτη 
+m4 
+metric horsepower 
+μετρικός ίππος 
+ 
+metric horsepower-hour 
+μετρική ιπποώρα 
+ 
+metric system 
+μετρικό σύστημα 
+ 
+micro 
+μικρο (πρόθεμα μονάδας = 10-6) 
+μ 
+microampere 
+μικροαμπέρ 
+μA 
+microfarad 
+μικροφαράντ 
+μF 
+microhenry 
+μικροχένρυ 
+μH 
+micrometre 
+μικρόμετρο 
+μm 
+microtesla 
+μικροτέσλα 
+μΤ 
+microvolt 
+μικροβόλτ 
+μV 
+mile 
+μίλι 
+ 
+mile per hour 
+μίλι ανά ώρα 
+ 
+miles per hour 
+μίλια ανά ώρα 
+ 
+milli 
+χιλιοστο (πρόθεμα μονάδας = 10-3)) 
+m 
+milliampere 
+χιλιοστοαμπέρ 
+mA 
+millicoulomb per kilogram 
+χιλιοστοκουλόμπ ανά χιλιόγραμμο 
+mC/kg 
+milligram 
+χιλιοστογραμμάριο 
+mg 
+milligray 
+χιλιοστογκρέι 
+mGy 
+millihenry 
+χιλιοστοχένρυ 
+mH 
+10 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+millijoule 
+χιλιοστοτζάουλ 
+mJ 
+millikelvin 
+χιλιοστοκέλβιν 
+mK 
+millilitre 
+χιλιοστόλιτρο 
+ml 
+millimetre 
+χιλιοστόμετρο 
+mm 
+millimetre of mercury, torr 
+χιλιοστό στήλης υδραργύρου, τορ 
+mmHg, 
+Torr 
+millimetre of water 
+χιλιοστό στήλης ύδατος 
+mmH2O 
+millimetre squared per second 
+χιλιοστόμετρο στο τετράγωνο ανά 
+δευτερόλεπτο 
+mm2/s 
+milliohm 
+χιλιοστοώμ 
+mΩ 
+millipascal second 
+χιλιοστοπασκάλ επί δευτερόλεπτο 
+mPa⋅s 
+millisievert 
+χιλιοστοσίβερτ 
+mSv 
+millitesla 
+χιλιοστοτέσλα 
+mΤ 
+millivolt 
+χιλιοστοβόλτ 
+mV 
+milliwatt 
+χιλιοστοβάτ 
+mW 
+minute 
+λεπτό (γωνίας) 
+′ 
+minute 
+λεπτό (χρονου) 
+min 
+MKSA system 
+Σύστημα MKSA 
+MKSA 
+modulus of elasticity 
+μέτρο ελαστικότητας 
+Ε 
+modulus of rigidity 
+μέτρο διατμητικότητας 
+G 
+mole per cubic decimetre 
+μολ ανά κυβικό δεκατόμετρο 
+mol/dm3 
+mole per cubic metre 
+μολ ανά κυβικό μέτρο 
+mol/m3 
+mole per kilogram 
+μολ ανά χιλιόγραμμο 
+mol/kg 
+mole per litre 
+μολ ανά λίτρο 
+mol/l 
+molality of B 
+μοριακή κατά βάρος συγκέντρωση διαλυτέου 
+Β 
+bB, mB 
+mole 
+μολ 
+mol 
+moment of force, torque 
+ροπή δύναμης 
+M 
+momentum 
+ορμή 
+p 
+monetary unit 
+νομισματική μονάδα 
+ 
+multiple 
+πολλαπλάσιο 
+ 
+multiplication 
+πολλαπλασιασμός 
+ 
+nano 
+νανο (πρόθεμα μονάδας = 10-9) 
+n 
+nanofarad 
+νανοφαράντ 
+nF 
+nanogram 
+νανογραμμάριο 
+ng 
+nanometre 
+νανόμετρο 
+nm 
+national standard 
+εθνικό πρότυπο 
+ 
+nautical mile 
+ναυτικό μίλι 
+ 
+11 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+negative exponent 
+αρνητικός εκθέτης 
+ 
+neper 
+νέπερ 
+Np 
+newton 
+νιούτον 
+N 
+newton metre 
+νιούτον επί μέτρο, νιουτόμετρο 
+N⋅m 
+non-coherent 
+μη συνεκτική μονάδα 
+ 
+normal stress 
+κάθετη τάση 
+σ 
+nuclear physics 
+πυρηνική φυσική 
+ 
+numerical factor 
+αριθμητικός παράγοντας 
+ 
+numerical value 
+αριθμητική τιμή 
+ 
+ohm 
+ωμ 
+Ω 
+ounce 
+ουγγία 
+oz 
+parenthesis 
+παρένθεση 
+ 
+particle of mass 
+υλικό σημείο 
+ 
+parts per billion 
+μέρη ανά δισεκατομμύριο 
+ppb 
+parts per million 
+μέρη ανά εκατομμύριο 
+ppm 
+pascal 
+πασκάλ 
+Pa 
+pascal second 
+πασκάλ επί δευτερόλεπτο 
+Pa⋅s 
+per mill 
+επί τοις χιλίοις, τοις χιλίοις 
+ο/οο 
+periodic phenomenon 
+περιοδικό φαινόμενο 
+ 
+peta 
+πετα (πρόθεμα μονάδας = 1015) 
+P 
+phenomenon 
+φαινόμενο 
+ 
+physical chemistry 
+φυσικοχημεία 
+ 
+physical experiment 
+φυσικό πείραμα 
+ 
+physical quantity, quantity 
+φυσικό μέγεθος, μέγεθος 
+ 
+physical relation 
+φυσική σχέση 
+ 
+physical science 
+φυσικές επιστήμες 
+ 
+physical unit of measurement 
+φυσική μονάδα μέτρησης 
+ 
+pico 
+πικο (πρόθεμα μονάδας = 10-12) 
+p 
+picofarad 
+πικοφαράντ 
+pF 
+plane angle 
+επίπεδη γωνία 
+α, β, γ, φ, θ 
+platinum 
+λευκόχρυσος 
+ 
+poise 
+πουάζ 
+P 
+potential difference, electric tension, 
+electromotive force 
+διαφορά δυναμικού, ηλεκτρική τάση, 
+ηλεκτρεργετική δύναμη 
+U 
+potential energy 
+δυναμική ενέργεια 
+V 
+pound 
+λίβρα 
+lb 
+pound force 
+λίβρα δύναμης 
+lbf 
+12 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+pound per cubic foot 
+λίβρα ανά κυβικό πόδι 
+lb/ft3 
+pound per cubic inch 
+λίβρα ανά κυβική ίντσα 
+lb/in3 
+pound-force per square inch 
+λίβρα δύναμης ανά τετραγωνική ίντσα 
+lbf/in2, psi 
+power 
+ισχύς  
+P 
+power of ten 
+δύναμη του δέκα 
+ 
+prefix 
+πρόθεμα 
+ 
+pressure 
+πίεση 
+p 
+quantity of heat 
+ποσό θερμότητας 
+ 
+quantity symbol 
+σύμβολο μεγέθους 
+ 
+quantity value 
+τιμή ενός μεγέθους, τιμή μεγέθους 
+ 
+quantity, physical quantity 
+μέγεθος, φυσικό μέγεθος 
+ 
+radian 
+ακτίνιο 
+rad 
+radian per second 
+ακτίνιο ανά δευτερόλεπτο 
+rad/s 
+radiant flux 
+ακτινοβόλος ισχύς, ακτινοβόλος ροή, 
+(ακτινοβολούμενη ισχύς, ακτινοβολούμενη 
+ροή) 
+ 
+Rankine temrerature 
+θερμοκρασία Ράνκιν 
+ 
+reactive power 
+αντενεργός ισχύς 
+Q 
+reference 
+αναφορά 
+ 
+relative atomic mass 
+σχετική ατομική μάζα 
+Ar 
+relative molecular mass 
+σχετική μοριακή μάζα 
+Mr 
+resistance 
+αντίσταση 
+R 
+revolution 
+περιστροφή 
+ 
+right angle 
+ορθή γωνία 
+ 
+road vehicle 
+οδικό όχημα 
+ 
+roman (upright) characters 
+όρθιοι χαρακτήρες 
+ 
+rotating machinery 
+περιστρεφόμενα μηχανήματα 
+ 
+rotational frequency 
+συχνότητα περιστροφής 
+n 
+rotations per minute 
+περιστροφές ανά λεπτό 
+r/min 
+rotations per second 
+περιστροφές ανά δευτερόλεπτο 
+r/s 
+rule 
+κανόνας 
+ 
+scientific context 
+επιστημονικό συγκείμενο 
+ 
+second 
+δευτερόλεπτο (γωνίας) 
+″ 
+second 
+δευτερόλεπτο (χρόνου) 
+s 
+second axial moment of area 
+δεύτερη αξονική ροπή εμβαδού 
+Ia 
+second polar moment of area 
+δεύτερη πολική ροπή εμβαδού 
+Ip 
+second to the power minus one 
+δευτερόλεπτο στην πλην ένα 
+s-1 
+section modulus 
+μέτρο διατομής 
+Z,W 
+13 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+shear stress 
+διατμητική τάση 
+τ 
+short hundredweight 
+μικρό εκατόβαρο 
+sh cwt 
+short ton  
+μικρός τόνος 
+sh tn 
+SI derived unit 
+παράγωγη μονάδα SI 
+ 
+SI multiple 
+πολλαπλάσιο SI 
+ 
+SI sub-multiple 
+υποπολλαπλάσιο SI 
+ 
+SI unit 
+μονάδα SI 
+ 
+siemens 
+ζίμενς 
+S 
+sievert 
+σίβερτ 
+Sv 
+slug 
+σλαγκ 
+ 
+solid angle 
+στερεά γωνία 
+ 
+solidus 
+πλάγια γραμμή κλάσματος 
+/ 
+sound power 
+ηχητική ισχύς 
+P 
+sound power level 
+στάθμη ηχητικής ισχύος 
+LW 
+sound pressure 
+ηχητική πίεση 
+p 
+sound pressure level 
+στάθμη ηχητικής πίεσης 
+Lp 
+space 
+διάστημα 
+ 
+space 
+χώρος 
+ 
+special name 
+ειδικό όνομα 
+ 
+special symbol 
+ειδικό σύμβολο 
+ 
+square centimetre 
+τετραγωνικό εκατοστόμετρο 
+cm2 
+square decimetre 
+τετραγωνικό δεκατόμετρο 
+dm2 
+square foot 
+τετραγωνικό πόδι 
+ft2 
+square inch 
+τετραγωνική ίντσα 
+in2 
+square kilometre 
+τετραγωνικό χιλιόμετρο 
+km2 
+square metre 
+τετραγωνικό μέτρο 
+m2 
+square metre kelvin per watt 
+τετραγωνικό μέτρο επί κέλβιν ανά βατ 
+m2.K/W 
+square mile 
+τετραγωνικό μίλι 
+ 
+square millimetre 
+τετραγωνικό χιλιοστόμετρο 
+mm2 
+square yard 
+τετραγωνική γιάρδα 
+yd2 
+standard acceleration of free fall 
+τυπική επιτάχυνση ελεύθερης πτώσης 
+ 
+standard atmosphere 
+φυσική ατμόσφαιρα 
+atm 
+steradian 
+στερεακτίνιο 
+sr 
+storage battery 
+συσσωρευτής 
+ 
+subdivision 
+υποδιαίρεση 
+ 
+sub-multiple 
+υποπολλαπλάσιο 
+ 
+subscript 
+υποδείκτης 
+ 
+14 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+substance 
+ουσία 
+ 
+superscript 
+υπερδείκτης (εκθέτης) 
+ 
+superscript-type 
+τύπου υπερδείκτη 
+ 
+surface coefficient of heat transfer 
+επιφανειακός συντελεστής θερμικής 
+μεταφοράς 
+h 
+swedish kronor 
+σουηδική κορόνα 
+SEK 
+symbol 
+σύμβολο 
+ 
+system of units of measurement 
+σύστημα μονάδων μέτρησης 
+ 
+technical context 
+τεχνικό συγκείμενο 
+ 
+technical drawing 
+τεχνικό σχέδιο 
+ 
+technology 
+τεχνολογία 
+ 
+tera 
+τερα 
+T 
+terajoule 
+τερατζάουλ 
+TJ 
+terawatt 
+τεραβάτ 
+TW 
+tesla 
+τέσλα 
+T 
+thermal conductivity 
+θερμική αγωγικότητα (θερμική αγωγιμότητα) 
+λ 
+thermal insulance 
+θερμομονωτικότητα 
+M 
+thermal resistance 
+θερμική αντίσταση 
+R 
+thermal transmittance 
+θερμική εκπομπή 
+U 
+thermochemistry 
+θερμοχημεία 
+ 
+thermodynamic temperature 
+θερμοδυναμική θερμοκρασία 
+T 
+thin space 
+στενό διάστημα 
+ 
+time 
+χρόνος 
+t 
+ton (UK), long ton (US) 
+τόνος Ηνωμένου Βασιλείου, μεγάλος τόνος 
+ 
+tonne, metric ton 
+τόνος, μετρικός τόνος 
+t 
+torr, millimetre of mercury  
+τορ, χιλιοστό στήλης υδραργύρου 
+Torr 
+mmHg 
+troy ounce 
+ουγγία τρόι 
+ 
+unified atomic mass unit 
+ενοποιημένη ατομική μονάδα μάζας 
+u 
+uniform acceleration 
+σταθερή επιτάχυνση 
+ 
+unit 
+μονάδα 
+ 
+unit name 
+όνομα μονάδας 
+ 
+unit of measurement 
+μονάδα μέτρησης 
+ 
+US dollar 
+δολλάριο ΗΠΑ 
+USD 
+var, volt ampere reactive power 
+βαρ 
+var 
+velocity 
+ταχύτητα 
+v 
+volt 
+βολτ 
+V 
+volt ampere 
+βολτ επί αμπέρ 
+V⋅A 
+15 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Σύμβολο2 
+ή 
+Συντ/φία 
+volume 
+όγκος 
+V 
+volume fraction of B 
+κλάσμα όγκου διαλυτέου Β 
+φΒ 
+volume unit 
+μονάδα όγκου 
+ 
+volumic activity, activity concertration 
+ενεργότητα όγκου, συγκέντρωση ενεργότητας 
+cA 
+watt 
+βατ 
+W 
+watt hour 
+βατώριο 
+W⋅h 
+watt per metre kelvin 
+βατ ανά μέτρο και ανά κέλβιν 
+W/m⋅K 
+watt per square metre kelvin 
+βατ ανά τετραγωνικό μέτρο και ανά κέλβιν 
+W/m2⋅K 
+weber 
+βέμπερ 
+Wb 
+weight 
+βάρος 
+ 
+work 
+έργο 
+W, A 
+yard 
+γιάρδα 
+yd 
+year 
+έτος 
+a 
+yocto 
+γιοκτο (πρόθεμα μονάδας = 10-24) 
+y 
+yotta 
+γιοττα (πρόθεμα μονάδας = 1024) 
+Y 
+zepto 
+ζεπτο (πρόθεμα μονάδας = 10-21) 
+z 
+zetta 
+ζεττα (πρόθεμα μονάδας = 1021) 
+Z 
+ 
+16 
+ 
+Ελληνοαγγλικό Γλωσσάριο όρων που αφορούν μεγέθη  
+και μονάδες του Διεθνούς Συστήματος Μονάδων (SI) 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+αγροτική έκταση 
+agrarian area 
+ 
+αγωγός 
+conductor 
+ 
+ακμή 
+edge 
+ 
+ακουστική 
+acoustics 
+ 
+ακρ 
+acre 
+ar 
+ακτίνιο 
+radian 
+rad 
+ακτίνιο ανά δευτερόλεπτο 
+radian per second 
+rad/s 
+ακτινοβόλος ισχύς, ακτινοβόλος ροή, 
+(ακτινοβολούμενη ισχύς, ακτινοβολούμενη 
+ροή) 
+radiant flux 
+ 
+αλγεβρική πράξη 
+algebraic operation 
+ 
+αμπέρ 
+ampere 
+A 
+αμπερώριο 
+ampere hour 
+A⋅h 
+αναφορά 
+reference 
+ 
+αντενεργός ισχύς 
+reactive power 
+Q 
+αντίσταση 
+resistance 
+R 
+απόλυτη πίεση 
+absolute pressure 
+p, pa, pabs 
+απορροφούμενη δόση, δείκτης 
+απορροφούμενης δόσης 
+absorbed dose, specific energy 
+imparted, kerma, absorbed dose index 
+D 
+αρ 
+are 
+a 
+αριθμητική τιμή 
+numerical value 
+ 
+αριθμητικός παράγοντας 
+numerical factor 
+ 
+αριθμός Μαχ 
+Mach number 
+Ma 
+αρνητικός εκθέτης 
+negative exponent 
+ 
+αστρονομική μονάδα 
+astronomical unit 
+au 
+ατομική φυσική 
+atomic physics 
+ 
+αττο (πρόθεμα μονάδας = 10-18) 
+atto 
+a 
+βαθμός Κελσίου 
+degree Celsius 
+°C 
+βαθμός Ράνκιν 
+degree Rankine 
+oR 
+βαθμός Φαρενάιτ 
+degree Fahrenheit 
+oF 
+βαρ 
+var, volt ampere reactive power 
+var 
+βάρος 
+weight 
+ 
+βατ 
+watt 
+W 
+                                                          
+3 Τα σύμβολα των μεγεθών γράφονται με  πλάγιους χαρακτήρες, ενώ τα σύμβολα των μονάδων γράφονται με όρθιους και έντονους 
+χαρακτήρες. Οι συντομογραφίες άλλων όρων γράφονται με απλούς χαρακτήρες. 
+17 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+βατ 
+watt 
+W 
+βατ ανά μέτρο και ανά κέλβιν 
+watt per metre kelvin 
+W/m⋅K 
+βατ ανά τετραγωνικό μέτρο και ανά κέλβιν 
+watt per square metre kelvin 
+W/m2⋅K 
+βατώριο 
+watt hour 
+W⋅h 
+βέμπερ 
+weber 
+Wb 
+βολτ 
+volt 
+V 
+βολτ επί αμπέρ 
+volt ampere 
+V⋅A 
+βρετανική θερμική μονάδα 
+British thermal unit 
+Btu 
+βρετανική θερμική μονάδα ανά ώρα 
+British thermal unit per hour 
+Btu/h 
+Βρετανικό σύστημα ποδιού-λίβρας 
+Imperial foot-pound system 
+ 
+βρετανικός ίππος 
+Imperial horsepower 
+ 
+γαλόνι Ηνωμένου Βασιλείου 
+galon (UK) 
+ 
+γαλόνι ΗΠΑ 
+galon (US) 
+ 
+Γενική Διάσκεψη Μέτρων και Σταθμών 
+General Conference of Weights and 
+measures 
+(Γαλλ.: Conférence Générale des 
+Poids et Mesures) 
+CGPM 
+γεωμετρικές διαστάσεις 
+geometric dimensions 
+ 
+γιάρδα 
+yard 
+yd 
+γιγα (πρόθεμα μονάδας = 109) 
+giga 
+G 
+γιγαβάτ 
+gigawatt 
+GW 
+γιγαπασκάλ 
+gigapascal 
+GPa 
+γιγατζάουλ 
+gigajoule 
+GJ 
+γιγαχέρτζ 
+gigahertz 
+GHz 
+γιοκτο (πρόθεμα μονάδας = 10-24) 
+yocto 
+y 
+γιοττα (πρόθεμα μονάδας = 1024) 
+yotta 
+Y 
+γκρέι 
+gray 
+Gy 
+γραμμάριο 
+gram 
+g 
+γραμμάριο ανά λίτρο 
+gram per litre 
+g/l 
+γραμματοσύμβολο 
+letter symbol 
+ 
+γων 
+gon 
+gon 
+γωνιακή συχνότητα 
+angular frequency 
+ω 
+γωνιακή ταχύτητα 
+angular velocity 
+ω 
+δεκα (πρόθεμα μονάδας = 101) 
+deca 
+da 
+δεκαδικό πολλαπλάσιο 
+decimal multiple 
+ 
+δεκαδικό υποπολλαπλάσιο 
+decimal sub-multiple 
+ 
+δεκαδικός 
+decimal 
+ 
+δεκατο (πρόθεμα μονάδας = 10-1) 
+deci 
+d 
+18 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+δεύτερη αξονική ροπή εμβαδού 
+second axial moment of area 
+Ia 
+δεύτερη πολική ροπή εμβαδού 
+second polar moment of area 
+Ip 
+δευτερόλεπτο (γωνίας) 
+second 
+″ 
+δευτερόλεπτο (χρόνου) 
+second 
+s 
+δευτερόλεπτο στην πλην ένα 
+second to the power minus one 
+s-1 
+διαίρεση μονάδων 
+division of units 
+ 
+διάστημα 
+space 
+ 
+διατμητική τάση 
+shear stress 
+τ 
+διαφορά δυναμικού, ηλεκτρική τάση, 
+ηλεκτρεργετική δύναμη 
+potential difference, electric tension, 
+electromotive force 
+U 
+Διεθνές Γραφείο Μέτρων και Σταθμών 
+Bureau International des Poids et 
+Mesures 
+BIPM 
+Διεθνές Πρότυπο 
+International Standard 
+ 
+διεθνές πρωτότυπο του χιλιογράμμου 
+international prototype of the kilogram 
+ 
+διεθνές σύμβολο μονάδας 
+international unit symbol 
+ 
+Διεθνές Σύστημα Μονάδων 
+International System of Units 
+(Γαλλ.: Système International 
+d’Unités) 
+SI 
+Διεθνής Επιτροπή Μέτρων και Σταθμών 
+International Committee for Weights 
+and Measures 
+(Γαλλ.: Comité International des Poids 
+et Mesures) 
+CIPM 
+Διεθνής Ηλεκτροτεχνική Επιτροπή 
+International Electrotechnical 
+Commission 
+IEC 
+Διεθνής Οργανισμός Τυποποίησης 
+International Organization for 
+Standardization 
+ISO 
+δολλάριο ΗΠΑ 
+US dollar 
+USD 
+δραστική ισχύς 
+active power 
+P 
+δύναμη 
+force 
+F 
+δύναμη της βαρύτητας 
+gravitational force 
+ 
+δύναμη του δέκα 
+power of ten 
+ 
+δυναμική ενέργεια 
+potential energy 
+V 
+δυναμικό ιξώδες 
+dynamic viscocity 
+η 
+δυναμόμετρο (με ελατήριο) 
+dynamometer (spring) 
+ 
+δύνη 
+dyn 
+dyn 
+Εγχειρίδιο Πρoτύπων του ISO 
+ISO Standards Handbook 
+ 
+εθνικό πρότυπο 
+national standard 
+ 
+ειδική θερμοχωρητικότητα 
+massic heat capacity, specific heat 
+capacity 
+c 
+ειδικό όνομα 
+special name 
+ 
+ειδικό σύμβολο 
+special symbol 
+ 
+19 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+είναι ακριβώς ίσο με 
+is exactly equal with 
+= 
+είναι εξ ορισμού ίσο με 
+is by definition equal with 
+=
+def  
+είναι κατά προσέγγιση ίσο με 
+is approximately equal to 
+≈ 
+εκατο (πρόθεμα μονάδας = 102) 
+hecto 
+h 
+εκατόβαρο 
+hundredweight 
+cwt 
+εκατοπασκάλ 
+hectopascal 
+hPa 
+εκατοστο (πρόθεμα μονάδας = 10-2) 
+centi 
+c 
+εκατοστόλιτρο 
+centilitre 
+cl 
+εκατοστοπουάζ 
+centipoise 
+cP 
+έκθεση 
+exposure 
+X 
+έκθεση σε φως 
+light exposure 
+H 
+εκθέτης, υπερδείκτης 
+superscript 
+ 
+εκτάριο 
+hectare 
+ha 
+έκφραση 
+expression 
+ 
+Ελληνικό Πρότυπο 
+Hellenic Standard 
+ 
+εμβαδό 
+area 
+A 
+εμβαδό εγκάρσιας διατομής 
+cross-sectional area 
+ 
+ενέργεια 
+energy 
+E 
+ενεργότητα 
+activity 
+A 
+ενεργότητα (ραδιονουκλεϊδίου) 
+activity (of a radionuclide) 
+A 
+ενεργότητα μάζας, ειδική ενεργότητα 
+massic activity, specific activity 
+a 
+ενεργότητα όγκου, συγκέντρωση 
+ενεργότητας 
+volumic activity, activity concertration 
+cA 
+ενοποιημένη ατομική μονάδα μάζας 
+unified atomic mass unit 
+u 
+ένταση ηλεκτρικού ρεύματος, ηλεκτρικό 
+ρεύμα 
+electric current 
+I 
+εξα (προθεμα μονάδας = 1018) 
+exa 
+E 
+εξίσωση 
+equation 
+ 
+επαγωγή 
+inductance 
+L 
+επί τοις χιλίοις, τοις χιλίοις 
+per mill 
+ο/οο 
+επίπεδη γωνία 
+plane angle 
+α, β, γ, φ, θ 
+επιστημονικό συγκείμενο 
+scientific context 
+ 
+επιτάχυνση 
+acceleration 
+a 
+επιτάχυνση της ελεύθερης πτώσης 
+acceleration of free fall 
+g 
+επιφανειακός συντελεστής θερμικής 
+μεταφοράς 
+surface coefficient of heat transfer 
+h 
+έργο 
+work 
+W, A 
+20 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+έτος 
+year 
+a 
+ζεπτο (πρόθεμα μονάδας = 10-21) 
+zepto 
+z 
+ζεττα (πρόθεμα μονάδας = 1021) 
+zetta 
+Z 
+ζίμενς 
+siemens 
+S 
+ζυγαριά 
+balance 
+ 
+ηλεκτρικό φορτίο 
+electric charge 
+Q 
+ηλεκτρική αγωγή 
+electric conductance 
+ 
+ηλεκτρική αντίσταση 
+electric resistance 
+R 
+ηλεκτρική ενέργεια 
+electrical energy 
+W 
+ηλεκτρική τάση 
+electric tension 
+U 
+ηλεκτρικό δυναμικό 
+electric potential 
+V 
+ηλεκτρικό καλώδιο 
+electric cable 
+ 
+ηλεκτρικό ρεύμα, ένταση ηλεκτρικού 
+ρεύματος 
+electric current 
+I 
+ηλεκτρικό φορτίο 
+electric charge, quantity of electricity 
+Q 
+ηλεκτρισμός 
+electricity 
+ 
+ηλεκτρονιοβόλτ 
+electronvolt 
+eV 
+ηλεκτροτεχνία 
+electrical technology 
+ 
+ημέρα 
+day 
+d 
+ηχητική ισχύς 
+sound power 
+P 
+ηχητική πίεση 
+sound pressure 
+p 
+θεμελιώδης μονάδα 
+base unit 
+ 
+θερμίδα 
+calorie 
+cal 
+θερμική αγωγικότητα (θερμική αγωγιμότητα) 
+thermal conductivity 
+λ 
+θερμική αντίσταση 
+thermal resistance 
+R 
+θερμική εκπομπή 
+thermal transmittance 
+U 
+θερμοδυναμική θερμοκρασία 
+thermodynamic temperature 
+T 
+θερμοκρασία Κελσίου 
+Celsius temperature 
+t 
+θερμοκρασία Ράνκιν 
+Rankine temperature 
+ 
+θερμοκρασία Φαρενάιτ 
+Fahrenheit temperature 
+tF 
+θερμομονωτικότητα 
+thermal insulance 
+M 
+θερμότητα 
+heat 
+Q 
+θερμοχημεία 
+thermochemistry 
+ 
+ίντσα 
+inch 
+in 
+ίντσα στήλης ύδατος 
+inch of water 
+inchH2O 
+ίντσα στήλης υδραργύρου 
+inch of mercury 
+inchHg 
+ιοντίζουσα ακτινοβολία 
+ionizing radiation 
+ 
+21 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+ίππος 
+horsepower 
+hp 
+ιρίδιο 
+iridium 
+ 
+ισοδύναμη δόση, δείκτης ισοδύναμης δόσης 
+dose equivalent, dose equivalent 
+index 
+H 
+ισχύς  
+power 
+P 
+κάθετη τάση 
+normal stress 
+σ 
+κανόνας 
+rule 
+ 
+καντέλα 
+candela 
+cd 
+καρτεσιανές συντεταγμένες 
+cartesian coordinates 
+ 
+κέλβιν 
+kelvin 
+K 
+κιλοπόμετρο 
+kilopond metre 
+kp⋅m 
+κιλοπόντ 
+kilopond 
+kp 
+κιλοπόντ, χιλιόγραμμο δύναμης, χιλιόγραμμο 
+βάρους, 
+kilopond,  
+kilogram-force 
+kp, kgf, kgr* 
+κινηματικό ιξώδες 
+kinematic viscocity 
+ν 
+κινητική ενέργεια 
+kinetic energy 
+T 
+κλάσμα μάζας διαλυτέου Β 
+mass fraction of B 
+wB 
+κλάσμα μάζας, περιεκτικότητα κατά μάζα 
+mass fraction 
+ 
+κλάσμα όγκου διαλυτέου Β 
+volume fraction of B 
+φΒ 
+κλάσμα ποσότητας ουσίας διαλυτέου B 
+amount-of-substance fraction of B 
+xB 
+κόμβος 
+knot 
+ 
+κόμμα 
+comma 
+, 
+κουλόμπ 
+coulomb 
+C 
+κουλόμπ ανά χιλιόγραμμο 
+coulomb per kilogram 
+C/kg 
+κτιριακή τεχνολογία 
+building technology 
+ 
+κυβική γιάρδα 
+cubic yard 
+yd3 
+κυβική ίντσα 
+cubic inch 
+in3 
+κυβικό δεκατόμετρο 
+cubic decimetre 
+dm3 
+κυβικό εκατοστόμετρο 
+cubic centimetre 
+cm3 
+κυβικό μέτρο 
+cubic metre 
+m3 
+κυβικό πόδι 
+cubic foot 
+ft3 
+κυβικό χιλιόμετρο 
+cubic kilometre 
+km3 
+κυβικό χιλιοστόμετρο 
+cubic millimetre 
+mm3 
+κύβος 
+cube 
+ 
+λεπτό (γωνίας) 
+minute 
+′ 
+λεπτό (χρονου) 
+minute 
+min 
+λευκόχρυσος 
+platinum 
+ 
+λίβρα 
+pound 
+lb 
+22 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+λίβρα ανά κυβική ίντσα 
+pound per cubic inch 
+lb/in3 
+λίβρα ανά κυβικό πόδι 
+pound per cubic foot 
+lb/ft3 
+λίβρα δύναμης 
+pound force 
+lbf 
+λίβρα δύναμης ανά τετραγωνική ίντσα 
+pound-force per square inch 
+lbf/in2, psi 
+λίρα Μεγάλης Βρετανίας 
+British pound 
+GBP 
+λίτρο 
+litre 
+l, L 
+λούμεν 
+lumen 
+lm 
+λουξ 
+lux 
+lx 
+λουξ επί δευτερόλεπτο 
+lux second 
+lx⋅s 
+μαγνητική ροή 
+magnetic flux 
+ 
+μαγνητισμός 
+magnetism 
+ 
+μάζα 
+mass 
+m 
+μαζική ενέργεια, ειδική ενέργεια (μάζας) 
+massic energy, specific energy 
+ 
+μεγα (πρόθεμα μονάδας = 106) 
+mega 
+M 
+μεγαβάτ 
+megawatt 
+MW 
+μεγαβόλτ επί αμπέρ 
+megavolt ampere 
+MV⋅A 
+μεγαγραμμάριο 
+megagram 
+Mg 
+μεγαγραμμάριο ανά κυβικό μέτρο 
+megagram per cubic metre 
+Mg/m3 
+μεγάλο εκατόβαρο 
+long hundredweight 
+cwt 
+μεγάλος τόνος 
+long ton 
+ 
+μεγάλος τόνος, τόνος Ηνωμένου Βασιλείου 
+long ton (US), ton (UK) 
+ 
+μεγαμπεκερέλ 
+megabecquerel 
+MBq 
+μεγαμπεκερέλ ανά χιλιόγραμμο 
+megabecquerel per kilogram 
+MBq/kg 
+μεγαπασκάλ 
+megapascal 
+MPa 
+μεγατζάουλ 
+megajoule 
+MJ 
+μεγαχέρτζ 
+megahertz 
+MHz 
+μεγαώμ 
+megaohm 
+MΩ 
+μέγεθος, φυσικό μέγεθος 
+quantity, physical quantity 
+ 
+μέρη ανά δισεκατομμύριο 
+parts per billion 
+ppb 
+μέρη ανά εκατομμύριο 
+parts per million 
+ppm 
+μεσοϋψής στιγμή 
+half-high dot 
+⋅ 
+μεταγωγή στο SI 
+changeover to the SI 
+ 
+μετρική ιπποώρα 
+metric horsepower-hour 
+ 
+μετρικό σύστημα 
+metric system 
+ 
+μετρικός ίππος 
+metric horsepower 
+ 
+μέτρο 
+metre 
+m 
+μέτρο ανά δευτερόλεπτο 
+metre per second 
+m/s 
+23 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+μέτρο ανά δευτερόλεπτο στο τετράγωνο 
+metre per second squared 
+m/s2 
+μέτρο διατμητικότητας 
+modulus of rigidity 
+G 
+μέτρο διατομής 
+section modulus 
+Z,W 
+μέτρο ελαστικότητας 
+modulus of elasticity 
+Ε 
+μέτρο στην τετάρτη 
+metre to the power four 
+m4 
+μέτρο στο τετράγωνο ανά δευτερόλεπτο 
+metre squared per second 
+m2/s 
+μέτρο στον κύβο 
+metre cubed 
+m3 
+μετρούμενο μέγεθος 
+measured quantity 
+ 
+μη συνεκτική μονάδα 
+non-coherent 
+ 
+μήκος 
+length 
+ 
+Μηχανική 
+Mechanics 
+ 
+μηχανολογικό σχέδιο 
+mechanical engineering drawing 
+ 
+μικρά (πεζά) γράμματα 
+lower case letters 
+ 
+μικρο (πρόθεμα μονάδας = 10-9) 
+micro 
+μ 
+μικρό εκατόβαρο 
+short hundredweight 
+sh cwt 
+μικροαμπέρ 
+microampere 
+μA 
+μικροβόλτ 
+microvolt 
+μV 
+μικρόμετρο 
+micrometre 
+μm 
+μικρός τόνος 
+short ton  
+sh tn 
+μικροτέσλα 
+microtesla 
+μΤ 
+μικροφαράντ 
+microfarad 
+μF 
+μικροχένρυ 
+microhenry 
+μH 
+μίλι 
+mile 
+ 
+μίλι ανά ώρα 
+mile per hour 
+ 
+μίλια ανά ώρα 
+miles per hour 
+ 
+μοίρα 
+degree 
+° 
+μολ 
+mole 
+mol 
+μολ ανά κυβικό δεκατόμετρο 
+mole per cubic decimetre 
+mol/dm3 
+μολ ανά κυβικό μέτρο 
+mole per cubic metre 
+mol/m3 
+μολ ανά λίτρο 
+mole per litre 
+mol/l 
+μολ ανά χιλιόγραμμο 
+mole per kilogram 
+mol/kg 
+μονάδα 
+unit 
+ 
+μονάδα SI 
+SI unit 
+ 
+μονάδα δύναμης 
+force unit 
+ 
+μονάδα επιτάχυνσης 
+acceleration unit 
+ 
+μονάδα μέτρησης 
+unit of measurement 
+ 
+μονάδα όγκου 
+volume unit 
+ 
+24 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+μοριακή κατά βάρος συγκέντρωση διαλυτέου 
+Β 
+molality of B 
+bB, mB 
+μπαρ (βαρίδα) 
+bar 
+bar 
+μπεκερέλ 
+becquerel 
+Bq 
+μπεκερέλ ανά κυβικό μέτρο 
+becquerel per cubic metre 
+Bq/m3 
+μπεκερέλ ανά χιλιόγραμμο 
+becquerel per kilogram 
+Bq/kg 
+μπελ 
+bel 
+B 
+νανο (πρόθεμα μονάδας = 10-9) 
+nano 
+n 
+νανογραμμάριο 
+nanogram 
+ng 
+νανόμετρο 
+nanometre 
+nm 
+νανοφαράντ 
+nanofarad 
+nF 
+ναυτικό μίλι 
+nautical mile 
+ 
+νέπερ 
+neper 
+Np 
+νιούτον 
+newton 
+N 
+νιούτον επί μέτρο, νιουτόμετρο 
+newton metre 
+N⋅m 
+νομισματική μονάδα 
+monetary unit 
+ 
+νομισματικός κώδικας 
+currency code 
+ 
+ντεσιμπέλ 
+decibel 
+decibel 
+όγκος 
+volume 
+V 
+οδικό όχημα 
+road vehicle 
+ 
+όνομα μονάδας 
+unit name 
+ 
+ορθή γωνία 
+right angle 
+ 
+όρθιοι χαρακτήρες 
+roman (upright) characters 
+ 
+οριζόντια γραμμή κλάσματος 
+horizontal bar 
+–– 
+ορμή 
+momentum 
+p 
+ουγγία 
+ounce 
+oz 
+ουγγία τρόι 
+troy ounce 
+ 
+ουσία 
+substance 
+ 
+παράγοντας 
+factor 
+ 
+παράγωγη μονάδα 
+derived unit 
+ 
+παράγωγη μονάδα SI 
+SI derived unit 
+ 
+παρένθεση 
+parenthesis 
+ 
+παρονομαστής 
+denominator 
+ 
+πασκάλ 
+pascal 
+Pa 
+πασκάλ επί δευτερόλεπτο 
+pascal second 
+Pa⋅s 
+πεδίο εφαρμογής 
+field of application 
+ 
+περιεκτικότητα 
+mass fraction 
+ 
+25 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+περιοδικό φαινόμενο 
+periodic phenomenon 
+ 
+περιστρεφόμενα μηχανήματα 
+rotating machinery 
+ 
+περιστροφές ανά δευτερόλεπτο 
+rotations per second 
+r/s 
+περιστροφές ανά λεπτό 
+rotations per minute 
+r/min 
+περιστροφή 
+revolution 
+ 
+πετα (πρόθεμα μονάδας = 1015) 
+peta 
+P 
+πίεση 
+pressure 
+p 
+πίεση ελεγκτήρα 
+gauge pressure 
+pe 
+πίεση περιβάλλοντος 
+ambient pressure 
+pamb 
+πικο (πρόθεμα μονάδας = 10-12) 
+pico 
+p 
+πικοφαράντ 
+picofarad 
+pF 
+πλάγια γραμμή κλάσματος 
+solidus 
+/ 
+πόδι 
+foot 
+ft 
+πόδι ανά δευτερόλεπτο 
+foot per second 
+ft/s 
+πόδι ανά δευτερόλεπτο στο τετράγωνο 
+foot per second squared 
+ft/s2 
+ποδολίβρα (ενέργειας) 
+foot pound-force 
+ft⋅lbf 
+πολλαπλασιασμός 
+multiplication 
+ 
+πολλαπλάσιο 
+multiple 
+ 
+πολλαπλάσιο SI 
+SI multiple 
+ 
+ποσό θερμότητας 
+quantity of heat 
+ 
+ποσότητα ουσίας 
+amount of substance 
+n 
+πουάζ 
+poise 
+P 
+πρόθεμα 
+prefix 
+ 
+πρόσθετη μονάδα 
+additional unit 
+ 
+πυκνότητα (μάζας) 
+mass density, volumic mass 
+ρ 
+πυκνότητα μαγνητικής ροής 
+magnetic flux density 
+B 
+πυρηνική φυσική 
+nuclear physics 
+ 
+ροπή αδράνειας (μάζας) 
+mass moment of inertia 
+J 
+ροπή δύναμης 
+moment of force, torque 
+M 
+σίβερτ 
+sievert 
+Sv 
+σλαγκ 
+slug 
+ 
+σουηδική κορόνα 
+swedish kronor 
+SEK 
+σταθερή επιτάχυνση 
+uniform acceleration 
+ 
+στάθμη 
+level 
+ 
+στάθμη ηχητικής ισχύος 
+sound power level 
+LW 
+στάθμη ηχητικής πίεσης 
+sound pressure level 
+Lp 
+στενό διάστημα 
+thin space 
+ 
+26 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+στερεά γωνία 
+solid angle 
+ 
+στερεακτίνιο 
+steradian 
+sr 
+συγκείμενο 
+context 
+ 
+συγκέντρωση ποσότητας ουσίας διαλυτέου B
+amount-of-substance concertration of 
+B 
+cB 
+Σύμβαση του Μέτρου 
+Metre Convention 
+(Γαλλ.: Convention du Mètre) 
+ 
+σύμβολο 
+symbol 
+ 
+σύμβολο μεγέθους 
+quantity symbol 
+ 
+συνεκτική μονάδα 
+coherent unit 
+ 
+συνεκτικός 
+coherent 
+ 
+συνεπώς, με συνέπεια 
+consistently 
+ 
+σύνηθες συγκείμενο 
+customary context 
+ 
+σύνθετη μονάδα 
+compound unit 
+ 
+σύνθετο πολλαπλάσιο 
+compound multiple 
+ 
+σύνθετο πρόθεμα 
+compound prefix 
+ 
+συντελεστής θερμικής μεταφοράς 
+coefficient of heat transfer 
+K 
+συντελεστής τριβής, παράγοντας τριβής 
+friction factor 
+μ 
+συσσωρευτής 
+storage battery 
+ 
+Σύστημα MKSA 
+MKSA system 
+MKSA 
+σύστημα μονάδων μέτρησης 
+system of units of measurement 
+ 
+σύστημα ποδιού-λίβρας 
+foot-pound system 
+ 
+συχνότητα 
+frequency 
+f, ν 
+συχνότητα περιστροφής 
+rotational frequency 
+n 
+σχετική ατομική μάζα 
+relative atomic mass 
+Ar 
+σχετική μοριακή μάζα 
+relative molecular mass 
+Mr 
+ταχύτητα 
+velocity 
+v 
+τελική ταχύτητα 
+final speed 
+ 
+τερα 
+tera 
+T 
+τεραβάτ 
+terawatt 
+TW 
+τερατζάουλ 
+terajoule 
+TJ 
+τέσλα 
+tesla 
+T 
+τετραγωνική γιάρδα 
+square yard 
+yd2 
+τετραγωνική ίντσα 
+square inch 
+in2 
+τετραγωνικό δεκατόμετρο 
+square decimetre 
+dm2 
+τετραγωνικό εκατοστόμετρο 
+square centimetre 
+cm2 
+τετραγωνικό μέτρο 
+square metre 
+m2 
+τετραγωνικό μέτρο επί κέλβιν ανά βατ 
+square metre kelvin per watt 
+m2.K/W 
+27 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+τετραγωνικό μίλι 
+square mile 
+ 
+τετραγωνικό πόδι 
+square foot 
+ft2 
+τετραγωνικό χιλιόμετρο 
+square kilometre 
+km2 
+τετραγωνικό χιλιοστόμετρο 
+square millimetre 
+mm2 
+τεχνικό συγκείμενο 
+technical context 
+ 
+τεχνικό σχέδιο 
+technical drawing 
+ 
+τεχνολογία 
+technology 
+ 
+τζάουλ 
+joule 
+J 
+τζάουλ ανά χιλιόγραμμο 
+joule per kilogram 
+J/kg 
+Τζιοβάνι Τζιόρτζι 
+Giovanni Giorgi 
+ 
+τιμή ενός μεγέθους, τιμή μεγέθους 
+quantity value 
+ 
+τοις χιλίοις, επί τοις χιλίοις 
+per mill 
+ο/οο 
+τόνος Ηνωμένου Βασιλείου, μεγάλος τόνος 
+ton (UK), long ton (US) 
+ 
+τόνος, μετρικός τόνος 
+ton, metric ton 
+t 
+τοπική επιτάχυνση ελεύθερης πτώσης 
+local acceleration of free fall 
+g 
+τορ, χιλιοστό στήλης υδραργύρου 
+torr, millimetre of mercury  
+Torr 
+mmHg 
+τυπική επιτάχυνση ελεύθερης πτώσης 
+standard acceleration of free fall 
+ 
+τύπος 
+formula 
+ 
+τύπου υπερδείκτη 
+superscript-type 
+ 
+υλικό σημείο 
+particle of mass 
+ 
+υπερδείκτης (εκθέτης) 
+superscript 
+ 
+υποδείκτης 
+subscript 
+ 
+υποδιαίρεση 
+subdivision 
+ 
+υποδιαστολή 
+decimal point 
+, 
+υπολογισμός 
+calculation 
+ 
+υποπολλαπλάσιο 
+sub-multiple 
+ 
+υποπολλαπλάσιο SI 
+SI sub-multiple 
+ 
+φαινόμενη ισχύς 
+apparent power 
+S 
+φαινόμενο 
+phenomenon 
+ 
+φαράντ 
+farad 
+F 
+φεμτο 
+femto 
+f 
+φράγκο 
+franc 
+fr 
+φυσικές επιστήμες 
+physical science 
+ 
+φυσική ατμόσφαιρα 
+standard atmosphere 
+atm 
+φυσική μονάδα μέτρησης 
+physical unit of measurement 
+ 
+φυσική σχέση 
+physical relation 
+ 
+28 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+φυσικό μέγεθος, μέγεθος 
+physical quantity, quantity 
+ 
+φυσικό πείραμα 
+physical experiment 
+ 
+φυσικοχημεία 
+physical chemistry 
+ 
+φως 
+light 
+ 
+φωτεινή ένταση (φωτοβολία) 
+luminous intensity 
+I 
+φωτεινή ροή, φωτεινή ισχύς 
+luminous flux 
+Φ 
+φωτισμός 
+illuminance 
+E 
+χαρακτηριστικοί αριθμοί 
+characteristic numbers 
+ 
+χένρι 
+henry 
+H 
+χερτζ 
+hertz 
+Hz 
+χημική ενέργεια 
+chemical energy 
+U 
+χιλιο (πρόθεμα μονάδας = 103) 
+kilo 
+k 
+χιλιοαμπέρ 
+kiloampere 
+kA 
+χιλιοβάτ 
+kilowatt 
+kw 
+χιλιοβατώριο 
+kilowatt hour 
+kW⋅h 
+χιλιοβόλτ 
+kilovolt 
+kV 
+χιλιοβόλτ επί αμπέρ 
+kilovolt ampere 
+kV⋅A 
+χιλιόγραμμο 
+kilogram 
+kg 
+χιλιόγραμμο ανά κυβικό μέτρο 
+kilogram per cubic metre 
+kg/m3 
+χιλιόγραμμο δύναμης, χιλιόγραμμο βάρους, 
+κιλοπόντ 
+kilogram-force, 
+kilopond 
+kgf, kgr*, kp 
+χιλιόγραμμο επί μέτρο ανά δευτερόλεπτο 
+kilogram metre per second 
+kg⋅m/s 
+χιλιόγραμμο επί μέτρο στο τετράγωνο 
+kilogram metre squared 
+kg⋅m2 
+χιλιοθερμίδα 
+kilocalorie 
+kcal 
+χιλιόμετρο 
+kilometre 
+km 
+χιλιόμετρο ανά ώρα 
+kilometre per hour 
+km/h 
+χιλιομπεκερέλ 
+kilobecquerel 
+kBq 
+χιλιομπεκερέλ ανά κυβικό μέτρο 
+kilobecquerel per cubic metre 
+kBq/m3 
+χιλιομπεκερέλ ανά χιλιόγραμμο 
+kilobecquerel per kilogram 
+kBq/kg 
+χιλιοπασκάλ 
+kilopascal 
+kPa 
+χιλιοστο (πρόθεμα μονάδας = 10-3) 
+milli 
+m 
+χιλιοστό στήλης ύδατος 
+millimetre of water 
+mmH2O 
+χιλιοστό στήλης υδραργύρου, τορ 
+millimetre of mercury, torr 
+mmHg, 
+Torr 
+χιλιοστοαμπέρ 
+milliampere 
+mA 
+χιλιοστοβάτ 
+milliwatt 
+mW 
+χιλιοστοβόλτ 
+millivolt 
+mV 
+χιλιοστογκρέι 
+milligray 
+mGy 
+29 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Σύμβολο3 
+ή 
+Συντ/φία 
+χιλιοστογραμμάριο 
+milligram 
+mg 
+χιλιοστοκέλβιν 
+millikelvin 
+mK 
+χιλιοστοκουλόμπ ανά χιλιόγραμμο 
+millicoulomb per kilogram 
+mC/kg 
+χιλιοστόλιτρο 
+millilitre 
+ml 
+χιλιοστόμετρο 
+millimetre 
+mm 
+χιλιοστόμετρο στο τετράγωνο ανά 
+δευτερόλεπτο 
+millimetre squared per second 
+mm2/s 
+χιλιοστοπασκάλ επί δευτερόλεπτο 
+millipascal second 
+mPa⋅s 
+χιλιοστοσίβερτ 
+millisievert 
+mSv 
+χιλιοστοτέσλα 
+millitesla 
+mΤ 
+χιλιοστοτζάουλ 
+millijoule 
+mJ 
+χιλιοστοχένρυ 
+millihenry 
+mH 
+χιλιοστοώμ 
+milliohm 
+mΩ 
+χιλιοτζάουλ 
+kilojoule 
+kJ 
+χιλιοχέρτζ 
+kilohertz 
+kHz 
+χιλιοώμ 
+kiloohm 
+kΩ 
+χρόνος 
+time 
+t 
+χωρητικότητα 
+capacitance 
+C 
+χώρος 
+space 
+ 
+ώθηση 
+impulse 
+I 
+ωμ 
+ohm 
+Ω 
+ώρα 
+hour 
+h 
+ 
+ 

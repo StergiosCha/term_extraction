@@ -1,0 +1,665 @@
+SOURCE: http://www.eleto.gr/download/Bodies/English-Greek_Glossary_of_Translation-and-Interpreting.pdf
+
+ΤΕΕ – EΛΟΤ / Τεχνική Επιτροπή 21 
+“Ορολογία – Γλωσσικοί πόροι” 
+Συλλογικό μέλος της ΕΛΕΤΟ 
+ 
+Απρίλιος 2022 
+ 
+ 
+ 
+ 
+Αγγλοελληνικό γλωσσάριο όρων και ορισμών εννοιών μετάφρασης και διερμηνείας 
+(Έκδοση 2, Αριθμός λημμάτων: 42) 
+(Εγκρίθηκε από την Επιστημονική Επιτροπή του ΕΔΟ) 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Σημειώσεις 
+Πηγή 
+Θέση 
+1. check 
+έλεγχος 
+examination of target language 
+content carried out by the translator 
+εξέταση του περιεχομένου στη γλώσσα-
+στόχο που διενεργείται από τον 
+μεταφραστή 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.2.5 
+2. client, customer 
+πελάτης / 
+πελάτισσα 
+<translation services> person or 
+organization that commissions a 
+translation service from a TSP by 
+formal agreement 
+<υπηρεσίες μετάφρασης> πρόσωπο ή 
+οργανισμός που αναθέτει υπηρεσία 
+μετάφρασης σε έναν πάροχο υπηρεσιών 
+μετάφρασης με επίσημη συμφωνία 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.4.3 
+3. competence 
+επάρκεια, 
+ικανότητα1 
+ability to apply knowledge, 
+experience, and skills to achieve 
+intended results 
+επίκτητη ιδιότητα ενός προσώπου να 
+εφαρμόζει γνώσεις, εμπειρία και 
+δεξιότητες προκειμένου να επιτυγχάνει τα 
+επιδιωκόμενα αποτελέσματα 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ.2 όρου 
+και ορισμού 
+2.4.9 
+4. computer-aided 
+translation, CAT 
+μετάφραση με τη 
+βοήθεια 
+υπολογιστή, CAT 
+part of translation workflow in which 
+a variety of software applications 
+are used to support the task of 
+human translation 
+μέρος της ροής εργασιών της μετάφρασης 
+κατά το οποίο χρησιμοποιείται ποικιλία 
+από λογισμικές εφαρμογές για την 
+υποστήριξη της μετάφρασης που 
+διενεργείται από άνθρωπο 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.2.1 
+5. content 
+περιεχόμενο 
+anything representing meaningful 
+information or knowledge 
+οτιδήποτε παριστάνει σημαίνουσες 
+πληροφορίες ή γνώσεις 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. 
+2.3.1 
+                                                     
+1  
+Οι προτιμώμενοι όροι γράφονται εντονότυπα, οι δεκτοί συνώνυμοι γράφονται κανονικά. 
+2  
+τροπ.: τροποποίηση (ένδειξη ότι έχει γίνει κάποια τροποποίηση στο μέρος του λήμματος της πηγής που ακολουθεί (στον όρο, στον ορισμό ή και στα δύο). 
+Τ.Ε.Ε. ΕΛΟΤ
+ΤΕ21 
+ΕΛΕΤΟ 
+2 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Σημειώσεις 
+Πηγή 
+Θέση 
+6. correction 
+διόρθωση 
+<translation service> action taken to 
+correct an error in target language 
+content or translation process or a 
+nonconformity to a requirement of 
+this International Standard when 
+conformity has been claimed 
+<υπηρεσία μετάφρασης> σύνολο 
+ενεργειών για την αποκατάσταση λάθους 
+στο περιεχόμενο στη γλώσσα-στόχο ή στη 
+μεταφραστική διεργασία ή για την άρση μη 
+συμμόρφωσης με απαίτηση του παρόντος 
+Διεθνούς Προτύπου, σε περιπτώσεις 
+ισχυρισμού περί συμμόρφωσης με αυτό 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. 
+2.5.4 
+7. corrective action 
+διορθωτική 
+ενέργεια 
+action taken to eliminate the cause 
+of a nonconformity or errors in the 
+translation process or target 
+language content 
+<υπηρεσία μετάφρασης> ενέργεια για την 
+εξάλειψη της αιτίας μη συμμόρφωσης ή 
+των λαθών στη μεταφραστική διεργασία ή 
+στο περιεχόμενο στη γλώσσα-στόχο 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.5.5 
+8. document 
+έγγραφο, τεκμήριο 
+information and its supporting 
+medium 
+οι πληροφορίες και το μέσο στο οποίο 
+αυτές εμπεριέχονται 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.5.2 
+9. domain 
+θεματικό πεδίο, 
+τομέας 
+subject field, sphere of knowledge 
+or activity having its own specialized 
+culture, social context, and linguistic 
+characteristics 
+γνωστικό πεδίο ή πεδίο δραστηριοτήτων 
+με ιδιαίτερα πολιτισμικά, κοινωνικά και 
+γλωσσικά χαρακτηριστικά 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.10 
+10. interpret 
+διερμηνεύω 
+render spoken or signed information 
+from one language to another 
+language in oral or signed form 
+αποδίδω πληροφορίες, που είναι σε 
+προφορική ή νοηματική μορφή σε μια 
+γλώσσα, σε προφορική ή νοηματική 
+μορφή σε άλλη γλώσσα 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. ορισμού 
+2.1.7 
+11. language register 
+επίπεδο ύφους 
+variety of language used for a 
+particular purpose or in a particular 
+social or industrial domain 
+γλωσσική ποικιλία που χρησιμοποιείται 
+για συγκεκριμένο σκοπό ή σε 
+συγκεκριμένο κοινωνικό ή επαγγελματικό 
+θεματικό πεδίο 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.7 
+12. language service 
+provider, LSP 
+πάροχος 
+γλωσσικών 
+υπηρεσιών, LSP 
+person or organization who provides 
+language-related services 
+φυσικό ή νομικό πρόσωπο που παρέχει 
+υπηρεσίες σχετικές με τη γλώσσα 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.4.1 
+13. locale 
+τοποστοιχεία, 
+τοποσύνολο 
+set of characteristics, information, or 
+conventions specific to the linguistic, 
+cultural, technical, and geographical 
+conventions of a target audience 
+σύνολο χαρακτηριστικών, πληροφοριών ή 
+συμβάσεων σχετικών με τις γλωσσικές, 
+πολιτισμικές,τεχνικές και γεωγραφικές 
+συμβάσεις μιας κοινότητας στόχου 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου 
+2.3.11 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Σημειώσεις 
+Πηγή 
+Θέση 
+14. machine 
+translation, MT 
+μηχανική 
+μετάφραση, 
+αυτόματη 
+μετάφραση, MT 
+automated translation of text or 
+speech from one natural language 
+to another using a computer system 
+αυτοματοποιημένη μετάφραση κειμένου ή 
+ομιλίας από φυσική γλώσσα σε άλλη με 
+τη χρήση συστήματος υπολογιστή 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου 
+2.2.2 
+15. machine 
+translation output 
+μηχανικό 
+μετάφρασμα 
+outcome of machine translation 
+προϊόν μηχανικής μετάφρασης 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. ορισμού 
+2.2.3 
+16. natural language 
+φυσική γλώσσα 
+written, signed, or spoken human 
+language 
+γραπτή, νοηματική ή ομιλούμενη 
+ανθρώπινη γλώσσα 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.8 
+17. post-edit 
+μετεπιμελούμαι, 
+μετεπεξεργάζομαι 
+edit and correct machine translation 
+output 
+επιμελούμαι και διορθώνω το μηχανικό 
+μετάφρασμα 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.2.4 
+18. process 
+διεργασία 
+set of interrelated and interacting 
+activities performed in order to 
+achieve a stated objective 
+σύνολο αλληλένδετων δραστηριοτήτων 
+που αλληλεπιδρούν, προκειμένου να 
+επιτυγχάνεται δηλωμένος στόχος 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.1.4 
+19. product 
+προϊόν 
+output of process 
+αποτέλεσμα διεργασίας 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. ορισμού 
+2.1.5 
+20. project 
+management 
+διαχείριση έργου 
+coordinating, managing, and 
+monitoring a project throughout its 
+complete lifecycle 
+συντονισμός, διαχείριση και 
+παρακολούθηση ενός έργου καθ’ όλη τη 
+διάρκεια του κύκλου ζωής του 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. ορισμού 
+2.2.9 
+21. project manager, 
+PM 
+υπεύθυνος 
+έργου/υπεύθυνη 
+έργου, διαχειριστής 
+έργου/διαχειρίστρια 
+έργου, PM 
+person who manages specified 
+aspects of a translation project and 
+is responsible for the process 
+πρόσωπο που διαχειρίζεται καθορισμένες 
+επόψεις του μεταφραστικού έργου και 
+είναι υπεύθυνο για τη σχετική διεργασία 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.4.8 
+22. proofread 
+διορθὠνω 
+προεκδοτικά 
+examine the revised target language 
+content and applying corrections 
+before printing 
+εξετάζω το αναθεωρημένο περιεχόμενο 
+στη γλώσσα-στόχο και αποκαθιστώ λάθη 
+και μη συμμορφώσεις πριν από το 
+τυπωθήτω 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.2.8 
+23. proofreader 
+προεκδοτικός 
+διορθωτής 
+person who proofreads target 
+language content 
+πρόσωπο που διορθώνει προεκδοτικά το 
+περιεχόμενο στη γλώσσα-στόχο 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.4.7 
+24. record 
+αρχείο 
+document or report stating results 
+achieved or providing evidence of 
+activities performed 
+έγγραφο ή έκθεση που δηλώνει τα 
+επιτευχθέντα αποτελέσματα ή παρέχει 
+τεκμήρια για τις δραστηριότητες που 
+εκτελέστηκαν 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.5.3 
+4 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Σημειώσεις 
+Πηγή 
+Θέση 
+25. review 
+μονογλωσσική 
+αναθεώρηση 
+monolingual examination of target 
+language content for its suitability 
+for the agreed purpose 
+μονογλωσσική εξέταση του περιεχομένου 
+στη γλώσσα-στόχο ως προς την 
+καταλληλότητά του για τον συμφωνημένο 
+σκοπό 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.2.7 
+26. reviewer 
+μονογλωσσικός 
+αναθεωρητής / 
+μονογλωσσική 
+αναθεωρήτρια 
+person who reviews* target 
+language content 
+πρόσωπο που επιτελεί τη μονογλωσσική 
+αναθεώρηση 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.4.6 
+27. reviser 
+διγλωσσικός 
+αναθεωρητής / 
+διγλωσσική 
+αναθεωρήτρια 
+person who revises* target 
+language content against source 
+language content 
+πρόσωπο που επιτελεί τη διγλωσσική 
+αναθεώρηση 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.4.5 
+28. revision 
+διγλωσσική 
+αναθεώρηση 
+bilingual examination of target 
+language content against source 
+language content for its suitability 
+for the agreed purpose 
+διγλωσσική εξέταση του περιεχομένου 
+στη γλώσσα-στόχο σε σχέση με το 
+περιεχόμενο στη γλώσσα-πηγή ως προς 
+την καταλληλότητά του για τον 
+συμφωνημένο σκοπό 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.2.6 
+29. source language 
+γλώσσα-πηγή, 
+γλώσσα πρωτοτύπου, 
+γλώσσα αφετηρίας 
+language of the source language 
+content 
+γλώσσα του περιεχομένου στη γλώσσα-
+πηγή 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.3.5 
+30. source language 
+content 
+περιεχόμενο στη 
+γλώσσα-πηγή, 
+πρωτότυπο, 
+μεταφραστέο 
+περιεχόμενο 
+language content to be translated 
+το προς μετάφραση γλωσσικό 
+περιεχόμενο 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.2 
+31. style guide 
+οδηγός σύνταξης 
+set of editing and formatting 
+instructions 
+σύνολο οδηγιών σύνταξης και 
+μορφοτύπησης 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.2.10 
+32. target language 
+γλώσσα-στόχος, 
+γλώσσα 
+μεταφράσματος, 
+γλώσσα προορισμού 
+language into which source 
+language content is translated 
+γλώσσα στην οποία μεταφράζεται το 
+περιεχόμενο στη γλώσσα-πηγή 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.3.6 
+33. target language 
+content 
+περιεχόμενο στη 
+γλώσσα-στόχο, 
+μετάφρασμα, 
+μεταφρασμένο 
+περιεχόμενο 
+language content* translated from 
+source language content 
+γλωσσικό περιεχόμενο που μεταφράστηκε 
+από το περιεχόμενο στη γλώσσα-πηγή 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.3 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Αγγλικός ορισμός 
+Ελληνικός ορισμός 
+Σημειώσεις 
+Πηγή 
+Θέση 
+34. text 
+κείμενο 
+content in written form 
+περιεχόμενο σε γραπτή μορφή 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.3.4 
+35. text-type 
+convention 
+σύμβαση 
+κειμενικού είδους, 
+σύμβαση κειμενικού 
+τύπου 
+subset of specifications for the 
+target language content related to 
+the content type and domain 
+υποσύνολο προδιαγραφών για το 
+περιεχόμενο στη γλώσσα-στόχο που 
+σχετίζεται με τον τύπο περιεχομένου και 
+το θεματικό πεδίο 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.3.9 
+36. translate 
+μεταφράζω 
+render source language content into 
+target language content in written 
+form 
+αποδίδω το περιεχόμενο στη γλώσσα-
+πηγή με περιεχόμενο στη γλώσσα-στόχο 
+σε γραπτή μορφή 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.1.1 
+37. translation 
+μετάφραση 
+set of processes to render source 
+language content into target 
+language content in written form 
+σύνολο διεργασιών για την απόδοση του 
+περιεχομένου στη γλώσσα-πηγή με 
+περιεχόμενο στη γλώσσα-στόχο σε 
+γραπτή μορφή 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.1.2 
+38. translation 
+service 
+υπηρεσία 
+μετάφρασης, 
+μεταφραστική 
+υπηρεσία 
+intangible product that is the result 
+of interaction between client and 
+TSP 
+άυλο προϊόν που προκύπτει ως 
+αποτέλεσμα της διάδρασης μεταξύ του 
+πελάτη και του παρόχου υπηρεσιών 
+μετάφρασης 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμού 
+2.1.6 
+39. translation 
+service provider, 
+TSP 
+πάροχος 
+υπηρεσιών 
+μετάφρασης 
+language service provider that 
+provides professional translation 
+services 
+πάροχος γλωσσικών υπηρεσιών που 
+παρέχει επαγγελματικές υπηρεσίες 
+μετάφρασης 
+ 
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.4.2 
+40. translation 
+workflow 
+ροή εργασιών της 
+μετάφρασης, ροή 
+μεταφραστικών 
+εργασιών 
+processes, or parts thereof, involved 
+in achieving target language content 
+διεργασίες ή μέρη διεργασιών που 
+υπεισέρχονται στη δημιουργία του 
+περιεχομένου στη γλώσσα-στόχο 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+τροπ. όρου και 
+ορισμό 
+2.1.3 
+41. translator 
+μεταφραστής / 
+μεταφράστρια 
+person who translates 
+πρόσωπο που μεταφράζει 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.4.4 
+42. verification 
+επαλήθευση 
+confirmation by the project manager 
+that specifications have been 
+fulfilled 
+επιβεβαίωση από τον υπεύθυνο έργου ότι 
+έχουν ικανοποιηθεί οι καθορισμένες 
+προδιαγραφές 
+  
+ΕΛΟΤ EN ISO 
+17100: 2016 
+2.5.1 
+ 
+ 
+Πηγές: 
+EN ISO 17100:2015 Translation services – Requirements for translation services 
+ΕΛΟΤ EN ISO 17100:2016 Υπηρεσίες Μετάφρασης – Απαιτήσεις για την παροχή υπηρεσιών μετάφρασης. 
+ 

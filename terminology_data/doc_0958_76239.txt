@@ -1,0 +1,637 @@
+SOURCE: http://www.eleto.gr/download/Conferences/7th%20Conference/7th_26-26-NilssonHenrik_Paper_V03.pdf
+
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+The realisation of a national term bank – how and why? 
+Henrik Nilsson 
+ABSTRACT 
+Rikstermbanken (www.rikstermbanken.se), Sweden’s national term bank, was officially inaugurated on 
+the 19th March 2009. At its opening, Rikstermbanken included more than 50 000 term records 
+containing terms in some fifteen languages, e.g. English, French, Finnish – but also Greek! 
+Terminologicentrum TNC (The Swedish Centre for Terminology, TNC) has designed the term bank and 
+its software, and the Ministry of Industry, Employment and Communications has contributed financially. 
+More than 70 organizations – mostly public bodies but also some associations and private companies – 
+have contributed with their terminology collections. 
+The idea of a term bank is not new – TNC has been working towards this aim since the late 1960’s. 
+Lately, a complete programme for a national terminology infrastructure has been planned, and the term 
+bank is one of its most important constituents. The opening of Rikstermbanken was therefore an 
+important step forward, not only for TNC, but also for all current and future users: decision makers, civil 
+servants, translators and interpreters, journalists – and ultimately the general public. 
+This paper will describe the experience of creating a national depository of terminology including 
+preliminary steps and various phases (collection, revision etc.) as well as the reactions to the term bank. 
+It will also discuss a term bank as a constituent of an overall national terminology infrastructure, i.e. 
+address the following questions: 
+• What arguments were used in order to convince decision makers etc. about the necessity of a national 
+term bank? 
+• Who contributed terminological material to the term bank, and why did they do it? 
+• What priorities were set up (regarding contents and functionalities), and what steps were taken to 
+ensure the terminological quality? 
+• How can this tool be used in terminology work, research etc.? 
+• What will be the place and functions of this tool in the overall terminology infrastructure under way? 
+ 
+La réalisation d’une banque de données terminologique nationale – 
+comment and pourquoi ? 
+Henrik Nilsson 
+RÉSUMÉ 
+Rikstermbanken (www.rikstermbanken.se.), la banque nationale terminologique de Suède sur le web, 
+fut officiellement inaugurée le 19 mars 2009. Au moment de l’inauguration, Rikstermbanken contenait 
+déjà plus de 50 000 fiches terminologiques dans une quinzaine de langues, par exemple l’anglais, le 
+français et le finnois – mais aussi le grec.  
+Terminologicentrum TNC (le Centre suédois de terminologie) est le constructeur derrière la banque et 
+son logiciel. Le support financier du Ministère suédois de l’industrie, de l’emploi et des communications 
+a rendu possible la réalisation de la banque après trois ans de travail. Plus de 70 organismes divers – 
+des administrations publiques en majorité, mais aussi des divers associations et sociétés privées – ont 
+contribué en délivrant leurs collections de terminologie interne. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+2 
+L’idée d’une banque nationale de terminologie n’est pas nouvelle ; cela fait plus de 40 ans que le TNC 
+travaille dessus. Durant ces dernières années, un programme visant à une infrastructure terminologique 
+nationale (dont la banque nationale constitue un des éléments les plus importants) est en cours. Et ceci 
+dans un monde où les ordinateurs deviennent des acteurs principaux de la communication et de 
+l’administration publique électronique – un fait qui demande des notions bien définies et des termes 
+bien précis. En réalisant Rikstermbanken, le TNC prend un pas important vers l’infrastrucutre 
+terminologique futur en Suède. 
+Dans cette communication nous allons décrire notre expérience de la création d’un recueil national de 
+terminologie en incluant les phases diverses suivies (collection, révision etc.) aussi bien que les 
+réactions des utilisateurs. L’importance d’une banque de données terminologique comme un constituent 
+dans une infrastructure terminologique nationale sera aussi mentionnée à travers les questions 
+suivantes : 
+• Quels arguments ont été utilisés pour convaincre les autorités qu’une banque de données 
+terminologique soit nécessaire ? 
+• Qui a contribué des terminologies à la banque, et pourquoi ? 
+• Quels ont été les prioritiés (concernant le contenu et les fonctionnalités), et quels ont été les phases 
+suivies afin d’assurer la qualité terminologique ? 
+• Comment cet outil pourra-t-il être utilisé dans le travail terminologique, dans la recherche ? 
+• Quelles seront la place et les fonctions de cet outil dans l’infrastructure terminologique à venir ? 
+ 
+ 
+0   Introduction 
+In 2006, Ulrica Messing, the previous Minister for Communications and Regional Policy 
+commented the Government’s decision to grant TNC 1,5 million SEK for the establishment 
+of a national term bank in the following way: 
+“– An adequate and quality-assured term bank will be an efficient tool for both companies 
+and authorities, as well as for the development of new ICT-services.” 
+Three years later, the current Minister for Communications and Regional Policy, Åsa 
+Torstensson, expressed her joy at inaugurating Rikstermbanken (The Swedish National 
+Term Bank): a new – and safe – bank in times of economic crisis and unrest – a bank which 
+is open day and night, without fees or interest rates. 
+The idea of a national term bank is not a new one – TNC has been working towards this aim 
+since the late 1960’s. In TNC’s vision for a national terminology infrastructure (named “TISS” 
+Terminology Infrastructure in Sweden, see below), developed and described during the last 
+few years, the term bank has definitely been highlighted as one of the most important 
+constituents of such an infrastructure. The inauguration of Rikstermbanken therefore 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+3 
+constitutes a major step forward for Swedish terminology work as well as for a heightened 
+terminological awareness in Sweden. 
+But what steps were taken during these three years, what challenges were met, and what 
+will happen next? This paper will try to answer these and other questions. 
+1   Background 
+In October 2002, the Swedish Centre for Terminology, TNC, launched a programme, TISS 
+(Terminology Infrastructure in Sweden), financed by the Swedish Ministry of Industry and 
+Commerce (Näringsdepartementet). The programme, which lasted two years, proposed an 
+enlarged terminology infrastructure for Sweden and it described the basic prerequisites and 
+the needs for such an infrastructure taking into consideration existing and planned 
+terminological resources in Sweden. Overall, TISS aimed at following up the results of the 
+Pointer project, in which it was stressed that among other things a terminology infrastructure 
+was expected to “distribute terminological resources and support the development of new 
+tools for terminology work” [12]. A national term bank, and possibly a terminology portal to 
+go with it, will help achieving that goal. 
+Overall, TISS centred around a number of key concepts: development, intensification, 
+inventory, tools, coordination, training. The programme attempted to describe the 
+organization necessary for a terminology infrastructure, the basic prerequisites and the 
+needs for such an infrastructure taking into consideration existing and planned 
+terminological resources in Sweden. More concretely, it included the establishing of a web-
+based terminology portal with a national term bank, Rikstermbanken, as well as networks of 
+people responsible for terminology work in different organizations. 
+TISS overall contributed greatly to TNC’s overview of terminological activities in Sweden but 
+especially the survey of existing terminological resources showed that there are substantial 
+resources on a national level which could be included in a term bank. The survey also 
+revealed important facts about the in-house organization of terminology work in various 
+places, the tools used for developing, editing and storing terminology and the most important 
+needs related to terminology work, e.g. training, support, tools. 
+During 2005, TNC’s proposal and the ideas put forward in the TISS programme were taken 
+into consideration in two Swedish Government bills: one on information technology and 
+society (IT-propositionen 2004/05:175) and another one on Swedish language politics 
+(språkpolitiska propositionen 2005/06:2 ): 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+4 
+“A central term bank, the national term bank, should be set up so that access to Swedish 
+terms can be facilitated and so that the quality of the terms can be assured. The 
+responsibility for the formation of terms and concepts should be part of the language 
+cultivation work of the [Swedish] authorities, within their respective fields of activity” 
+This was an important step towards the realization of a national terminology infrastructure in 
+Sweden, but also an indication of the growing terminological awareness in Swedish society. 
+2    What arguments were used in order to convince decision makers etc. 
+about the necessity of a national term bank? 
+The recognition by the Swedish Government of a great need for a central terminology 
+repository, a national term bank was an important precondition: 
+“A well-functioning terminology is necessary within all fields of activity if we are to use the 
+fast information flow and communication possibilities of modern society. Terminology work 
+contributes to a well-functioning language within all areas of our society and increases 
+efficiency within, and between various subject fields. The fast development of society 
+requires constant work on creating and making accessible agreed-upon terminologies, 
+within more and more subject fields. An easy access to terms via the Internet in a national 
+term bank endorses such a development.”  
+The current state of affairs can be seen as the result of several conscious steps; TNC has 
+succeeded in presenting the idea and achieving a continued governmental financial support 
+by constantly stressing the importance of terminology work, harmonization and the 
+advantages of a shared national repository for terminologies. In so doing, various arguments 
+have been used, e.g. that a national term bank like Rikstermbanken will 
+• 
+give a simpler and quicker access to terminology from a large number of domains, 
+• 
+facilitate a quicker dissemination of new terms, 
+• 
+bring about a raised terminological quality since the contents will be continuously 
+checked, edited and updated, 
+• 
+make terminology work more efficient by the easier re-use of existing terms and 
+definitions. 
+In preparation for the EAFT (European Association for Terminology) seminar ”The 
+Terminology Profession and the Marketplace” held in Paris in February 2009, an attempt at 
+generalizing this kind of arguments into a draft typology of argument types used for 
+terminology work was made [6]: 
+• 
+time-related arguments: terminology saves time (fewer discussions etc.) → 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+5 
+• 
+money-related arguments: terminology saves money (through saved time, but also 
+through quicker translations, less time for newly employed people to get into the 
+business etc.) 
+• 
+knowledge transfer arguments (between departments within companies, between 
+authorities and citizens, between teachers and students etc.) 
+• 
+educational arguments (raising awareness on the role of LSP) 
+• 
+linguistic arguments (the importance of having terms in one’s native language, 
+domain loss etc.) 
+• 
+authoritative arguments (accuracy, consistency, transparency, standardization, 
+harmonization) 
+• 
+legal arguments (raising awareness on legal implications of incorrect terminology) 
+It would seem that the same arguments could be used on a more detailed level, for the use 
+of a (national) term bank (although this would naturally not mean a limiting of the concept of 
+terminology work to only that of creating a term bank or other terminological resource). A 
+national term bank will be a useful tool for students in learning the subject field specific 
+terminology of their future professions, it will help promote national equivalents and in that 
+way work against domain loss etc. Especially the money-related arguments have recently 
+become more important, and several examples have recently shown the power of cost-
+benefit analysis as an argument for terminology work in general and for term banks in 
+particular. Erdman Thomsen [2] has adapted the cost-benefit models to the implementation 
+of a term bank within a company, showing costs and benefits involved in that kind of 
+implementation, and major companies and authorities such as Scania and FMV (Swedish 
+Defence Materiel Administration) in Sweden have also performed similar analyses. A recent 
+example [13] showed how an array of different cost-benefit analyses performed by in-house 
+economists successfully led to a decision to implement a term bank within the Bank of 
+Finland. No such analysis was however performed by TNC in order to acquire funding for 
+Rikstermbanken. Rather, as shown above, the other types of arguments were used during a 
+long period of time. With the development of the term bank, new arguments also presented 
+themselves, e.g. legal ones: e.g. the often surprisingly low terminological quality of valid 
+legal definitions.1 
+To this list could possibly be added other kinds of arguments, of which technical ones could 
+be relevant in connection to a term bank. There might be a wish to adapt and/or develop 
+terminology management systems – although this could perhaps rather be seen as a 
+                                                     
+1 This could of course be used as an important argument for further terminology work within that subject 
+field. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+6 
+consequence of the decision to construct a term bank. In the case of Rikstermbanken this 
+was not a main aim or argument. TNC started the term bank software development process 
+with earlier experience of evaluating existing terminology management systems (TMS) 
+(during the MLIS-project “Nordterm-Net” etc.). However, it was considered that no existing 
+tool would probably be powerful enough for Rikstermbanken. TNC’s experiences from the 
+IATE development process proved very useful, and a first choice of the IATE software for a 
+Swedish national term bank seemed a natural one. Through a special grant from the 
+Swedish Agency for Innovation Systems, a formal evaluation of IATE was made possible. 
+The evaluation, which focused mainly on data entry, import and search facilities, came to 
+principally positive conclusions, but although a great many of the IATE features could easily 
+be used also for a national term bank, other features were considered slightly too focused 
+on translation or too complicated. For various reasons (legal and others), the process was 
+delayed and TNC opted for an open source-solution instead, based on Linux, Apache 
+Tomcat and MySQL among others. On the structural level, the same basic structure of 
+terminological entries as in IATE and ISO standards has been adopted, i.e. a three-level 
+structure embracing a language independent level, a language level and a term level. 
+Although Rikstermbanken is a national endeavour, fruitful co-operation on technology and 
+other aspects with the project EuroTermBank, as well as with the Lithuanian institutions 
+which have developed the Lithuanian national term bank Terminų bankas, should be 
+mentioned. With Rikstermbanken the supply of national term banks – France 
+(FranceTerme), Turkey (TDK Bilim ve sanat terimleri Ana Sözlüğü), Wales (MAES-T), Irland, 
+Baskien (Euskalterm) and others – has also been further enriched. 
+3    Who contributed terminological material to the term bank, and why did 
+they do it? 
+“The major terminology developers include public institutions, universities, technical 
+societies as well as representatives of the private sector. Although a significant number of 
+such institutions do exist, only a few of them produce resources that are exchangeable 
+and/or marketable” [3, p. 9] 
+A major part of the TISS programme was constituted by a national inventory of existing 
+resources showing as its result that there are many collections of high qualities at various 
+organizations, although few authorities and companies have been working consistently with 
+terminology or even have terminologists employed. The continued inventory in connection to 
+the opening of the term bank also showed the substantial amount of terminology “hidden 
+away” in reports and official documents such as laws and bills; it was decided to also include 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+7 
+this material in the term bank. This material together with the material collected through the 
+years by TNC, including TNC’s glossaries created a sufficient amount of material. In a first 
+stage, some hundred authorities, known to have terminological collections, were contacted 
+through a formal letter, containing a request to incorporate the collection into 
+Rikstermbanken. The response to this letter was overwhelmingly positive, and a majority 
+stated they were happy to contribute their terminological collections to one central 
+terminology repository. For these official institutions, a reference was made to Directive 
+2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-
+use of public sector information where it is stated that: “Public sector information is an 
+important primary material for digital content products and services and will become an even 
+more important content resource with the development of wireless content services.” And 
+Rikstermbanken could certainly count as such a service. To what extent this influenced their 
+decisions to participate is however difficult to say. 
+Parallel to this, some private sector organizations (companies etc.) as well as other types of 
+associations were also contacted, and again, most of these responded positively. To date, 
+there are over 300 different sources from more than 100 contributors included in 
+Rikstermbanken. An interesting consequence is that other organizations have also 
+expressed an interest in contributing material while some started a revision work of their 
+material before it was delivered – in itself an interesting raise of terminological awareness. In 
+one case, a publication was not considered interesting because the terms were considered 
+too specific, which shows the importance of stressing that it is a term bank and not a general 
+language database intended for anyone. Another important factor has been the 
+communication between the TNC and the various contributors concerning their material; 
+quite often a number of questions were raised when the material was prepared for import – 
+questions which often had to be discussed with the experts of the contributors. Such 
+contacts between terminologists and subject field experts are precious opportunities of again 
+discussing terminological issues and raising an awareness and an understanding of how 
+definitions are written and, more generally, what terminology work is all about. 
+4    What priorities were set up (regarding contents and functionalities), and 
+what steps were taken to ensure the terminological quality? 
+Surprisingly little have been written in terminological literature about how to choose and 
+prioritize between possible terminological material for a term bank. A preliminary evaluation 
+included the answering of the following questions: Is the material informative, (technically) 
+manageable, reliable, recent, and unique (the last aspect naturally raising in importance with 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+8 
+the amount of accepted and imported material)? Then, a set of demands were set up 
+according to which accepted material should be 
+• 
+extensive, considering the number of domains covered and the number of terms 
+and concepts, 
+• 
+representative, i.e. the most important domains should be covered, 
+• 
+varied, i.e. the terminological material shall preferably be of different kinds and 
+originate from different organizations, 
+• 
+reliable, 
+• 
+of high terminological quality. 
+On a more detailed level, the priorities concerned 
+• 
+language: at least Swedish terms or terms in one of the five official minority 
+languages of Sweden: Finnish, Meänkieli, Sami, Romani and Yiddish, but 
+preferably also with equivalents in other languages. 
+• 
+language variety: only LSP 
+• 
+types of terminological information: although information about concepts, such as 
+definitions and comments, is considered a crucial part of any material to be 
+included in Rikstermbanken, other kinds of material could also be accepted, e.g. 
+taxonomies, ontologies, thesauri, nomenclatures, controlled vocabularies, concept 
+catalogues, information models, concept(ual) models, lexicons, dictionaries, 
+glossaries, lists of names, etc. 
+• 
+macro- and micro-structure: preferably arranged in term entries, but also other 
+types (see above) structured in different ways. 
+• 
+storage and “manageability”: preferably in electronic format and not demanding 
+enormous amounts of time in preparation. (It should be said, however, that some 
+printed collections considered especially important were digitalized through 
+scanning and OCR.) 
+Reversely, these priorities meant that the following types of material did not make it into the 
+term bank: general language material, material not containing terms in Swedish or any of the 
+official minority languages, incomplete material, terminologically unstructured material, 
+material demanding too much preparation time, politically incorrect material and material 
+protected by copyright for which no permission was granted. 
+With these demands and priorities in mind, there were still some challenges to face in the 
+process of deciding what to import into the term bank: 
+• 
+selection: all, nothing or parts of a particular collection? 
+• 
+interpretation: how should the collection be interpreted (e.g. concerning the 
+indication of synonymy, inconsistencies etc.)? 
+• 
+term choice: should one term be given the status of recommended and if so, which 
+one and why? 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+9 
+• 
+conceptual description: should the information presented in the collection be 
+indicated as a definition, an explanation or a note – or a combination of these? 
+• 
+actualization: the dichotomy between the task of documenting a particular 
+collection and presenting updated and correct information is a tricky one to handle. 
+How should updates be indicated without changing the original source etc.? 
+• 
+“balance issues”: should the term bank contents be balanced and contain e.g. 
+glossaries form all political parties and not only some etc.? 
+This list is naturally not exhaustive but rather gives some samples of some of the challenges 
+at the initiatory stages; in later stages other challenges will arise, e.g. if a later contributor 
+has material similar to one already imported but of a higher quality. Should this be added 
+alongside, supersede the previous or be joined together? 
+Overall, the term bank content work has been divided into stages with the first one being the 
+inventory/presentation stage during which all the selected and revised collections are 
+presented side by side, a consequence of which can be several definitions of the same 
+concept, even within the same subject field – which in itself is a kind of pedagogical 
+challenge to explain to the users. In a stage to follow, the consolidation stage, these could 
+perhaps be reduced so that the reference within one entry would include several 
+organizations all adhering to the presented definition. Such work would of course 
+necessitate “traditional” terminology work with experts and consensus decisions. During the 
+current presentation stage, users are also invited, through a simple comment system, to give 
+comments on the entries which will help in the revision and consolidation of the term bank 
+contents. 
+5   How can this tool be used in terminology work, research etc.? 
+At a seminar in 1976 about computerized terminology work, it was said that the basic 
+functions of a term bank is collection, storage and distribution of terms. This is still valid. But 
+Lie [7] also stresses the importance of a term bank for the marketing of terminology work as 
+a whole, as the nucleus of a system of distribution, publication and knowledge transfer and 
+as a way of marketing small and very specific terminologies to various target groups. In its 
+first “presentation stage”, Rikstermbanken primarily functions as a search and retrieval tool, 
+where answers to the following kinds of questions could be found: 
+• 
+Is there already a definition of a certain concept? And could this definition, with 
+some modification, be used by another organization, in another context? 
+• 
+What terminology is used by different organizations? 
+• 
+What are the equivalents of a particular Swedish term? 
+• 
+etc. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+10 
+A national term bank can naturally be used in many different ways depending on various 
+target groups. 
+Rikstermbanken could help domain experts in their internal and external communication, 
+translators in and outside of Sweden who need quick and easy access to up-to-date 
+Swedish terminology and also companies trading with other companies abroad The media, 
+technical writers, standardisers and other language professionals can easily get an overview 
+over a subject field and will no longer need to be in doubt as to what established terminology 
+ought to be used in different types of texts. With the precise definitions of concepts provided 
+by Rikstermbanken, a further coordination can be achieved and less duplication of effort 
+avoided, which will eventually lead to a smoother public administration and a more clear-cut 
+communication with the citizens. 
+In connection to the aforementioned EAFT seminar, a list of target groups for terminology 
+work was also developed [5], and again this list coincides with many of the possible users of 
+a term bank: 
+A. ”Customers” (users of terminological products and services) 
+i. ”Technical communication” professionals (primary users), e.g. technical 
+writers, translators. journalists, information professionals, education & 
+training professionals, standardisers 
+ii. ”Specific domain” professionals (secondary users), e.g. lawyers, doctors 
+and so on. 
+B. ”Manpower” (directly involved in the production of terminological products and services) 
+i. Language experts, e.g. terminologists, lexicographers, linguists 
+ii. Subject field experts 
+iii. Other participants in networks, work groups etc. 
+C. ”Investors” (indirectly involved in the production of terminological products and services) 
+i. Commercial sponsors 
+ii. Non-profit organizations 
+iii. Public funding authorities 
+D. ”Authorities” 
+i. Language planners 
+ii. Educational policy makers 
+iii. Legislators 
+Although mostly A is interesting in the context of a term bank (the actual users), B–D will 
+also be affected since a national term bank will constitute a working tool also for them, e.g. 
+in developing other terminologies etc. Any priorities set up concerning contents will be linked 
+to the intended target groups, and TNC tested the software with these different target groups 
+in mind. One has to remember, however, that it is a term bank and not a database of 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+11 
+general language which therefore makes the general public somewhat of a secondary target 
+group. This does not mean however, that there is not a substantial amount of terminology in 
+everyday life, no matter what subject field you encounter in work or leisure activities. All 
+citizens can make use of a tool which can facilitate their contacts with authorities, and 
+enhance their possibilities of following and participating in the public debate, understand 
+research results etc. The challenge here is to explain what a term bank is and how it differs 
+from search engines and other types of language databases. 
+From the beginning, it was decided that the service would be free of charge for anyone 
+connected to the Internet, and this fact is of course an important prerequisite for the benefits 
+mentioned above.  
+6    What will be the place and functions of this tool in the overall terminology 
+infrastructure under way? 
+During one of the biannual Nordterm conferences (Helsinki, 1981) the subject of marketing 
+of terminology was touched upon, and especially that of the term bank as a marketing tool: 
+“I believe that the bigger selection and the better access to domain specific terminology we 
+can provide, the easier it will be for us to gain recognition for terminology work. With a better 
+total access to terminologies and an enhanced interest in these small specific terminologies, 
+it will be easier to expand terminology work. It will also be easier to market the total access 
+to terminology at the same time as we make ourselves understood, known and respected in 
+society, among users, politicians and authorities.” [7. pp. 23–24] 
+The final point is especially important since it would have been difficult to implement a 
+national term bank and turn it into a well-used and respected reference without the support 
+of politicians and authorities. As has already been stated, the term bank in itself is only a 
+part of a larger structure2 – a national terminology infrastructure. In the various descriptions 
+of the concept of “terminology infrastructure” which have been presented during the last ten 
+years, focus has been put on organizations and co-operative networks and slightly less on 
+the technical aspect of terminology work. The definition of “terminology infrastructure” 
+presented in the Pointer project in 1996: “framework of institutions, companies (LEs and 
+SMEs), associations, self-employed professionals, etc.; their terminological activities; and 
+co-operation and communication networks (on both the physical and logical levels) they are 
+operating in for a given application area” [12], and the later description by Budin & Wright [1] 
+of the same concept as “all arrangements and configurations of people working together, of 
+                                                     
+2 See [8, 9, 10, 11] for further details on this. 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+12 
+institutions dedicated to or responsible for terminology-related activities, producing and 
+using different kinds of information resources, reference materials, archives, databases, 
+etc.” are examples of this. When Galinski [4] presented five main structural elements or 
+aspects of a horizontal terminology infrastructure – 1. terminology (planning) policy; 2. 
+(systematic) terminology creation; 3. information and documentation in the field of 
+terminology; 4. terminology associations (primarily for individuals); 5. purpose-oriented co-
+operation groupings in private industry or between private industry and public institutions (for 
+the sake of creating and/or sharing terminological data) – there is again no explicit 
+mentioning of a national term bank as a central hub of terminology work. Within the 
+framework of EPOS (National Programme for Terminological Coordination) presented in 
+Greece in 1999 [14], however, a national terminology database was presented as a part of 
+the programme alongside a terminology business plan, human networks for terminology. 
+The situation is slightly different in a country like Sweden, where there is since many years a 
+strong, separate institution devoted to terminology with established networks of different 
+kinds and a continued state support; in that context, focus could more easily be directed 
+towards the realization of a more tangible product such as a national term bank. Several 
+favourable preconditions have influenced the development leading up to the financial grants 
+from the state for the creation of a national term bank. One of them is a raised terminological 
+awareness, of which there are several indications in Sweden today: Discussions in the 
+media often circle around the definition of concepts although they are not explicitly 
+characterized as “terminological”. More and more companies provide glossaries on their 
+web sites and use terminology as a marketing means. And with this awareness, the 
+prospects of enlarging the existing terminology infrastructure into a truly national one has 
+become more probable. Another important precondition not to be forgotten is the raised 
+awareness about language in general: articles, prime time TV-shows and publicity 
+advertisements all refer to language and even terminology to a growing extent, and 
+discussions about the so-called “domain loss” (the inability to use Swedish within certain 
+domains) and the influence of English on the Swedish language, have been frequent. 
+On a national level, it becomes even more important that each authority should be given a 
+formal responsibility for the standardisation of terms and concepts within the domain of the 
+authority. In July 2009 a language law stating that Swedish is the official language of 
+Sweden besides the five official minority languages was instituted, and especially paragraph 
+12 of this language law is crucial for the continued development of a national terminology 
+infrastructure in Sweden. In this paragraph it is stated that all authorities now have "a special 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+13 
+responsibility for Swedish terminology within their respective domains so that such 
+terminology is accessible, used and developed”. For the first time, this has been expressed 
+in a legal document. Currently guidelines for how this work could and should become reality 
+are being drafted, but for certain Rikstermbanken will be an important ingredient in the 
+implementation of this “terminology paragraph”. 
+Even though the existence of a national terminology centre with a long tradition – The 
+Swedish national centre for terminology, TNC was founded as The Swedish Centre for 
+Technical Terminology (Tekniska nomenklaturcentralen, TNC) already in 1941 on the 
+initiative of the Academy of Engineering Sciences (IVA) and other interested parties such as 
+engineers and inventors – and a high credibility is crucial in itself, it is certainly not the only 
+factor to be taken into consideration. The importance of timing, a raised terminological 
+awareness in society and the continued governmental financial support from the Swedish 
+Ministry of Industry, Employment and Communications have already been stressed. To this 
+should then be added the raised awareness about language in general mentioned above. 
+Work on the national term bank has but started, and at TNC we now face more challenges: 
+• 
+New material needs to be included and evaluated, new and already imported 
+material consolidated, and the quality criteria for the material need to be developed 
+further 
+• 
+Further technological development (e.g. related to availability issues) of 
+Rikstermbanken is needed, e.g. personalized interfaces for various user groups 
+and contributors, Web 2.0 and semantic web-adaptions etc. 
+• 
+Implementing Rikstermbanken as a complete terminology management system 
+(TMS) with possibilities of storing and using it as a working tool for external parties. 
+This usage raises new questions: Should organizations already maintaining a term 
+bank (few today) continue this or should they hand it over to Rikstermbanken? 
+Should those without a term bank still invest in a proper TMS? etc. 
+• 
+International co-operation: interest for the software and the work done by TNC has 
+generated an interest from neighbouring countries about creating a similar term 
+bank. 
+• 
+Further financing need to be found, which in itself will call upon several argument 
+types, and through 
+• 
+The consequences of the new language law for the term bank in particular, and for 
+Swedish terminology work in general, need to be further investigated. 
+7   References 
+[ 1] 
+Budin, G. & Wright, S-E (compiled by). 1997. Handbook of Terminology 
+Management. Vol. II: Application-oriented terminology management. Amsterdam: 
+John Benjamin. ISBN: 90-272-2155-3 
+[ 2] 
+Erdman Thomsen, H. 2008. Cost/benefit-analyse af terminologiarbejde. IN: Kunnskap 
+og fagkommunikasjon. Nordterm 2007. Bergen 13.–16. juni 2007, Språkrådet: Oslo. 
+ISBN 978-82-997266-2-7, pp. 237–241 
+ELETO – 7
+th Conference ”Hellenic Language and Terminology” 
+Athens, Greece, 22-24 October 2009 
+ 
+14 
+[ 3] 
+EuroTermBank (2006), Towards Consolidation of European Terminology Resources. 
+Experience and Recommendations from EuroTermBank Project. Latvia: Tilde. ISBN 
+9984-9133-4-1 
+[ 4] 
+Galinski, C. 1998. Terminology infrastructures and the terminology market in Europe. 
+IN: 
+Trans, 
+Internet-Zeitschrift 
+für 
+Kulturwissenschaften, 
+September 
+1998, 
+http://www.inst.at/trans/0Nr/galinski.htm, 2009-07-17 
+[ 5] 
+Giannibas, D. 2009. Unpublished draft on target groups for terminology work. 
+[ 6] 
+Giannibas, D; Nilsson, H. & Ní Ghallchobhair, F. 2009. Unpublished draft on typology 
+of arguments for terminology work. 
+[ 7] 
+Lie, K. 1981. Hur skall vi marknadsföra våra termer? IN: Nordterm 1981 
+Terminologiskt samarbete i Norden. Helsingfors 21–22 maj 1981, pp. 22–27 
+[ 8] 
+Nilsson, H. 2005. TISS & IATE. Svensk terminologisk infrastruktur och svensk 
+rikstermbank. IN: Nordterm 2005 Ord og termer. Reykjavík: Íslensk málstöð. ISBN: 
+9979-842-85-7 
+[ 9] 
+Nilsson, H. 2004. Terminology work – the Swedish way. IN: Eesti oskuskeel 2003. 
+Tallinn: Eesti Keele Sihtasutus. ISBN 9985-79-074-X 
+[10] 
+Nilsson, H. 2000. ”One-stop shop – two-aim game. Improving the availability and 
+quality of terminology in the Nordic countries through Nordterm-Net. Nordic Term 
+bank Services via Internet.”. IN Conférence sur la coopération dans le domaine de la 
+terminologie en Europe, Union Latine. ISBN 92-9122-005-1. 
+[11] 
+Nilsson, H. 2006. ”Towards a national terminology infrastructure – the Swedish 
+experience”. IN Terminology and Society, Benjamins. To be published. 
+[12] 
+POINTER, Final Report, (DIT, 16/02/96), 
+http://www.computing.surrey.ac.uk/ai/pointer/report/, 2007-03-30 
+[13] 
+Puttonen, E. 2009. En termbank växer fram. Från kostnadsnyttoanalys via 
+terminologisk analys till praktisk tillämpning. To be published (in conference report 
+from Nordterm 2009). 
+[14] 
+Valeontis, K. 2006. EPOS in brief (National Programme for Terminological 
+Coordination). Unpublished presentation. 
+Web links 
+<www.tnc.se> 
+www.rikstermbanken.se 
+Keywords: national term bank, Rikstermbanken, terminology coordination, terminology 
+infrastructure, terminology training, terminology work, Swedish Centre for Terminology, 
+TNC, Terminologicentrum 
+ 
+Mr Henrik Nilsson 
+terminologist 
+Terminologicentrum TNC (Swedish Centre for Terminology, TNC) 
+Västra vägen 7 B, SE-169 61 Solna, Sweden 
+Tel.: +46 8 446 66 10, Fax: +46 8 446 66 29 
+E-mail: henrik.nilsson@tnc.se 
+Web site: www.tnc.se 
+ 
+ 
+ 

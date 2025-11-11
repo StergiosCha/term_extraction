@@ -1,0 +1,89 @@
+SOURCE: http://www.eleto.gr/download/TermBases/TELETERM_History-EN.pdf
+
+  Ε  Λ   Ο   Τ    Ε    
+Μ 
+Ο 
+Τ 
+Ο 
+ 
+TELETERM: 
+Database of telecommunication terms 
+Resulting from the work of the  
+Permanent Group of Telecommunications  
+Terminology (MOTO), 
+Collective Member of ELETO  
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+August 2022 
+ 
+Short history of the Termbase TELETERM 
+ 
+ 
+The database of telecommunications terms TELETERM is quadrilingual (Greek, English, French, and 
+German) and was created in 1990 by the leader of the Permanent Group for Telecommunication 
+Terminology (MOTO), Kostas Valeontis, as a dBASE III-Plus database, while in 1999 it was converted by 
+him into an MS Access 97 database; today it is an MS Access 2000 database. 
+The development, operation, maintenance and feeding of TELETERM is performed by the leader of MOTO 
+himself, who has also the responsibility for the content in the website. 
+Accessing and searching the Telecommunications termbase TELETERM is free on the Internet, in order to 
+promote usage of modern Greek telecommunication terms by anybody concerned both inside the 
+Telecommunications sector and in a wider area outside of it, given the intension and extension of the 
+development of this sector within the framework of The Information Society. 
+Free availability of the terms of TELETERM on the Internet was decided in 2002 by a trilateral Agreement of: 
+ 
+the Hellenic Telecommunications Organization (OTE), as the founder and supporter of MOTO, within 
+the work of which MOTO had produced 70.000 terms of the termbase, 
+ 
+the Hellenic Society for Terminology (ELETO), as the formal higher organization for coordination and 
+support of Greek terminology, one of the founding collective members of which is MOTO, and within 
+the work of which MOTO had produced the rest 17.000 terms of the termbase, and of 
+ 
+the chairman of MOTO, as the creator of the Termbase, holds the property rights and is responsible 
+for its dynamic operation, maintenance and development. 
+OTE covered the initial expenditure as well as the hosting of the termbase on the website www.moto-
+teleterm.gr. Today, access and searching in the Termbase is performed via ELETO’s website www.eleto.gr, 
+where the latest version of the Termbase has been uploaded. 
+The field structure of the Termbase TELETERM comprises the following basic fields (which, in each entry, 
+correspond to a single concept): 
+BASIC FIELDS OF TELETERM  
+EXAMPLES 
+English term 
+error-free second  
+English abbreviation 
+EFS  
+Greek term 
+ασφάλματο δευτερόλεπτο  
+Greek abbreviation 
+EFS  
+French term 
+seconde sans erreur 
+French abbreviation 
+SSE  
+German term 
+fehlerfreie Sekunde 
+German abbreviation 
+EFS  
+Foreign language reference source 
+IEC 50(704)  
+Greek language reference source 
+ΕΛΟΤ 1300.04  
+Stage of processing 
+3  
+ 
+Today, the termbase TELETERM contains 129.625 terminological entries of telecommunications. 
+2 
+ 
+Note 1 
+Since there is no national language policy for establishing rules of creation and application purely Greek 
+acronyms and abbreviations, the English ones are generally used both in Information Technology and in 
+Telecommunications. 
+Note 2 
+Terms being in stage of processing 3 are definitive. Those in stage 2 have been prepared by ΜΟΤΟ and the 
+relevant source is in a Draft status for Public Enquiry. Stage 4 or greater indicates that the relevant term has 
+been subjected to one or more revisions. 
+ 
+ 

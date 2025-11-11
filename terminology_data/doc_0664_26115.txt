@@ -1,0 +1,44 @@
+SOURCE: http://www.eleto.gr/download/TermBases/EMCTERM_History-EN.pdf
+
+EMCTERM: 
+Database of EMC (ElectroMagnetic Compatibility) terms 
+Resulting from the work of the  
+Group ELOT/TC80/WG1 “Terminology” 
+ 
+ 
+Ε Λ Ο T  E 80 
+O 
+ 
+1 
+ 
+January 2023 
+ 
+Short history of the Termbase EMCTERM 
+ 
+ 
+The database of EMC terms ACOUTERM is quadrilingual (Greek, English, French and German terms) and 
+was created in 1996 by the chairman of the Group ELOT/TC80/WG1 of the Technical Committee 
+ELOT/TC80 Electromagnetic Compatibility, Kostas Valeontis, as a dBASE III-Plus database, while in 1999 it 
+was converted by him into an MS Access 97 database; today it is an MS Access 2000 database. 
+The development, operation, maintenance and feeding of EMCTERM has been performed by the chairman 
+of ELOT/TC80/WG1, who has also the responsibility for the content in the website. 
+Accessing and searching the termbase EMCTERM is offered on the Internet, via ELETO’s website, by its 
+creator. 
+The field structure of the termbase EMCTERM comprises the following basic fields (which, in each entry, 
+correspond to a single concept): 
+ 
+ BASIC FIELDS OF EMCTERM 
+English term 
+English abbreviation 
+Greek term 
+Greek abbreviation 
+French term 
+French abbreviation 
+German term 
+German abbreviation 
+Foreign language reference source 
+Greek language reference source 
+Stage of processing 
+ 
+The termbase EMCTERM contains 4.141 terminological entries of electromagnetic compatibility (EMC) 
+from 54 Hellenic Standards (ELOT standards). 

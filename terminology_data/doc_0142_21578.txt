@@ -1,0 +1,71 @@
+SOURCE: https://eleto.gr/en/publications/conference-papers/papers-of-the-2nd-conference-hellenic-language-and-terminology/#content
+
+VOLUME OF PROCEEDINGS
+Volume of proceedings of the 2nd Conference
+GUEST SPEAKER PAPER
+Preface
+V. Α. Filopoulos
+SECTION 1 – Lexicography
+Μεθοδολογικές αρχές για τη δημοσίευση λεξικών ορολογίας: Ένα παράδειγμα από το χώρο της αστρονομίας
+Μ. Katsoyannou
+Ελληνική γλώσσα: Δάνεια στη Γαλλική και αντιδάνεια της Νέας Ελληνικής
+D. Pantelodimos
+H μουσική ορολογία στην καθημερινή μας ζωή
+A. Siopsy
+Απόδοση ξενόγλωσσων όρων κατά την τυποποίηση της ορολογίας χημικών αναλύσεων τροφίμων
+K. Tzia, I. Saridakis
+Λεξικό ονομασιών προϊόντων και υπηρεσιών: Το Γαλλικό παράδειγμα και το Ελληνικό Σχέδιο
+A. Hidiroglou-Zachariadi, G. Androulakis
+Lexigraf – Ανάπτυξη πλατφόρμας λογισμικού για αυτοματοποιημένο πολυγλωσσικό λεξικογραφικό desktop publishing
+G. Chatzopoulos
+SECTION 2 – Inter-European multilingual environment
+Διεθνοποίηση ορολογίας και ελληνική γλώσσα
+V. A. Filopoulos
+Η μελλοντική τακτική ορολογίας
+D. Yaxas
+Διεργασίες ορολογίας στην Ευρώπη
+M. Kallergis
+Ανθρωπολογία και ετερότητα – Η διαπολιτισμικότητα μέσα από τη μετάφραση
+M. Koumarianou
+Η αρχαία ελληνική γραμματεία και οι μεταφραστικές δυσκολίες στην απόδοση κειμένων αρχαίας τεχνολογίας στη σύγχρονη γλώσσα μας
+G. Varoufakis
+Οι υπολογιστικές και δικτυακές τεχνολογίες στη δευτεροβάθμια εκπαίδευση
+E. Poupaki
+SECTION 3 – New technologies and terminology
+Συλλογή ηλεκτρονικών ορολογικών πόρων:Μεθοδολογία συγκέντρωσης και αποτελέσματα
+E. Mantzari, M. Gavriilidou, P. Labropoulou, G. Karagiannis
+Matrix Lexica: an alternative description of lexical databases
+E. Papakitsos, M. Gregoriadou
+Αυτόματη δημιουργία μορφολογικών λεξικών με ορολογικό πλούτο βάσει κειμένων εντάσεως όρων
+G. Tabouratzis, G. Karagiannis
+Εμπλουτισμός μορφολογικών λεξικών με όρους και υποστήριξη κειμένων εντάσεως όρων σε διαδικασίες διόρθωσης λαθών
+Ch. Stathis, G. Karagiannis
+TRAID: Ορολογία και σύγχρονη μεταφραστική πρακτική
+I. Triantafyllou, Ch. Malavazos, S. Piperidis
+Greeklish: Μια νέα διάλεκτος του διαδικτύου;
+A. Karakos, L. Kotoulas
+SECTION 4 – Terminography – Terminography documentation
+Θησαυρός ελληνικής εκπαιδευτικής ορολογίας
+R. Gounari
+Ορολογία Πολεοδομίας και Χωροταξίας
+I. Beriatos
+Μουσική πληροφορική: Προβλήματα απόδοσης αγγλικών όρων στην ελληνική γλώσσα
+A. Georgaki
+SECTION  5 – Interpretation and translation
+Μεταφράσεις από τον χώρο των κοινωνικών επιστημών στον Ελληνικό Μεταπολεμικό Τύπο
+A. Bregianni
+Analyse compare de 4 traductions produites par des logiciels de traductions automatique, selon la grille de beaudrande et dressler
+C. Papas
+Μετάφραση ποιητικών κειμένων: Ιδιαιτερα χαρακτηριστικά και προβλήματα
+M. Kokkinidou
+Traduction et connaissances extra-linguistiques
+C. Papas
+Τεχνικές και διδακτική της μετάφρασης ειδικών κειμένων
+A. Parianou, P. I. Kelandrias
+Η μετάφραση των νομικών κειμένων
+M. Kanellopoulou-Boti
+SECTION 6 – Linguistic principles of terminology
+Το προσδιοριστικό συνθετικό του ελληνικού σύμπλοκου όρου και η χρήση της γενικής
+K. Valeontis, K. Zeriti, A. Nikolaki
+Η ορολογική προσέγγιση
+M. Kardouli

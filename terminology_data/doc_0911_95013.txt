@@ -1,0 +1,266 @@
+SOURCE: http://www.eleto.gr/download/Conferences/10th%20Conference/Presentations/10th_00b_AlevantisPanagiotis_Presentation_EN.pdf
+
+E
+C
+i
+i
+European Commission
+creating infrastructure for Greek 
+g
+language and translation
+10th Conference «Greek language and terminology»
+10
+Conference «Greek language and terminology»
+Athens, 13 November 2015
+Panagiotis Alevantis
+Athens Field Office, DGT
+In memoriam of
+MARIOS RAISSIS
+In memoriam of
+Multilingualism and the 
+European Union
+European Union
+EU multilingual «by default»
+¾ B
+iti
+h
+th
+i ht
+¾ Because citizens have the right
+¾ To know the law in their language
+¾ To communicate with the Institutions in their language
+¾ Multilingualism is a foundation of democracy
+¾ Transparency of the legislative process
+¾ Legitimation of the EU
+¾ Legitimation of the EU
+¾ Regulation No. 1/58 determining the languages to be used
+¾ All legislative texts are drafted in all official languages
+¾ Also
+¾ Consultations
+¾ C i
+i
+l
+di
+¾ Criminal proceedings
+¾ Tends to be considered a «fundamental right»
+EU’s official languages over time
+The history of Greek in 
+th
+E
+U i
+the European Union
+1st Period - Pastoral
+1st Period - Pastoral
+28 May 1979 – Zappeion 
+T
+l ti
+b
+t
+h
+d d b
+f E
+i
+i g
+Translation by a team headed by prof. Evrigenisg
+• Translation of the 
+Community acquis
+Community acquis
+• 60.000 pages by a 
+20-person team
+20 person team
+1st January 1981 – Full membership
+What happened before
+What happened before
+¾ Staffing of Greek translation services
+¾ Commission – Section of the Personnel Department
+¾ Commission 
+Section of the Personnel Department
+¾ Institutions of the European Communities
+¾ Introduction of Greek
+¾ In the editorial systems of the Official Journal
+¾ In Eurodicautom
+( d
+i
+f
+)
+- EBCDIL (adaptation of EBCDIC)
+- Adapted terminals …
+From the IBM era …
+… to the Olivetti ETS 2010 era
+Ambiguity between 
+G
+k
+d L ti
+Greek and Latin 
+characters
+The history of Greek in 
+th
+E
+U i
+the European Union
+2nd Period - Heroic
+2nd Period - Heroic
+CELEX as a catalyst
+¾ Single Market
+¾ Single Market
+¾ More and more complex legislation
+¾ Everyday life of citizens
+¾ Internally – Work load
+¾ Productivity
+¾ Communication
+¾ Externally – need to inform the public
+¾ Access to Community law
+What was the Commission’s role
+¾ Intervention in the standardisation procedure
+¾ ELOT 928
+ISO 8859/7
+¾ ELOT 928 – ISO 8859/7
+¾ Terminals, printers
+¾ Common ∀application and language
+¾ Common ∀application and language
+¾ Software
+¾ Word processing (Q-office, WordPerfect, MS-Word
+¾ Word processing (Q office, WordPerfect, MS Word
+¾ Data Base Management Systems (Mistral)
+¾ Conversion programs
+p
+g
+¾ 16 bit Ù 8 bit
+¾ Network
+Full text databases
+Full text databases
+¾ Greek version of CELEX – 1989
+¾ Today Eur-LEX
+¾ Today Eur LEX
+¾ Eurodicautom with Greek
+¾ Today ΙΑΤΕ
+y
+¾ INFO 92 and SCAD in Greek
+¾ Today Europa portal
+The history of Greek in 
+th
+E
+U i
+the European Union
+3rd Period - Choral
+3rd Period - Choral
+Information technology & multilingualism
+¾ 1991-92 Specification for extended multilingualism
+¾ Anticipated enlargement
+¾ Neighbourhood relations w/ Russia, Mediterranean, …
+¾ Methodology
+¾ Languages
+¾ Characters
+¾ Coding (ISO 10646
+Unicode)
+¾ Coding (ISO 10646 – Unicode)
+¾ Keyboards
+¾ Alphabetic ordering
+p
+g
+¾ Polytonic Greek!
+¾ 1995 – In all new computers on the market!!
+995
+a
+e
+co
+pute s o
+t e
+a
+et
+Quality of EU’s Greek texts
+¾ Joint Practical Guide for persons involved in the 
+drafting of European Union legislation
+drafting of European Union legislation
+¾ Interinstitutional
+¾ Guide for drafting, translation and revision of legal
+¾ Guide for drafting, translation and revision of legal 
+and other texts of the EU in Greek
+¾ Greek Language Department, European Commission
+¾ Interinstitutional style guide
+¾ Publications Office of the European Union
+¾ Quality control procedures
+¾ Obligatory revision of translations
+Development of translation tools
+¾ Electronic work flow
+¾ Electronic work flow
+¾ Poetry
+¾ Suivi
+¾ Suivi
+¾ Tradesk
+¾ Memories with Greek
+¾ Euramis
+¾ DGT Vista
+¾ Tools
+¾ SDL Trados Studio
+¾ M
+hi
+t
+l ti
+(i
+l di
+G
+k)
+¾ Machine translation (including Greek)
+¾ MT@EC
+Greek Terminology Network
+htt
+//
+/!GP44 R
+http://europa.eu/!GP44pR
+Why the GTN?
+¾ Terminological differences EU – official docs GR-CY
+¾ Renewal of translators because of age
+¾ Scientists/Engineers vs. Linguists
+¾ No national terminology networks in GR-CY
+¾ Supporting translators of the Institutions
+¾ New terms
+¾ Multiple versions
+¾ Multiple versions
+¾ Contact between translators and experts
+¾ Public authorities GR-CY
+¾ Public authorities GR CY
+¾ Academic community GR-CY
+¾ Support public authorities in GR-CY
+Suppo t pub c aut o t es
+G
+C
+Members
+• Public bodies, professional and scientific 
+organisations, private institutions and 
+g
+, p
+organisations active in Greek language 
+affairs, in translation and terminology
+,
+gy
+• Members of the above bodies, 
+organisations and institutions
+organisations and institutions
+• Professionals working in common or 
+individually
+individually
+The role of the Athens Field Office
+¾ Translation support of the Representation
+¾ Creating infrastructure
+¾ Creating infrastructure
+¾ Greek Terminology Network
+¾ Upgrading of the translation profession
+¾ Upgrading of the translation profession
+¾ Promotion of multilingualism and translation
+¾ Juvenes Translatores, European Day of Languages, 
+,
+p
+y
+g
+g
+,
+MT@EC, Universities
+¾ Translating Europe Forum actions
+¾ Conferences «The future of language professions»
+¾ Thematic Workshops
+Thank you …
+Questions
+Athens Field Office DGT
+DGT-ATHENS@ec.europa.eu
+http://europa.eu/!WF43bm

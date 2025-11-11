@@ -1,0 +1,586 @@
+SOURCE: http://www.eleto.gr/download/Conferences/9th%20Conference/Presentations/9th_23-DoikasSpyros_Presentation.pdf
+
+Όταν το LSJ 
+γνώρισε τη Βίκυ
+γνώρισε τη Βίκυ
+Σπύρος Δόικας
+9ο Συνέδριο
+9ο Συνέδριο 
+«Ελληνική 
+Γλώσσα και 
+Ορολογία»
+Wikifying the LSJ
+Ορολογία» 
+Αθήνα, 
+7-9 Νοεμβρίου 
+2013
+y
+g
+Spiros Doikas
+2013
+9/11/2013
+10 15
+10.15 π.μ.
+ΠΕΡΙΓΡΑΦΗ ΤΟΥ ΕΡΓΟΥ
+PROJECT DESCRIPTION
+Η παρούσα εργασία αφορά στην υλοποίηση σε μορφή 
+MediaWiki (http://lsj.translatum.gr) του 
+αρχαιοελληνικού λεξικού Liddell Scott Jones (LSJ)
+αρχαιοελληνικού λεξικού Liddell, Scott, Jones (LSJ). 
+Ξεκινώντας από ένα αρχείο xml έγινε επεξεργασία και 
+μετατροπή (με χρήση κανονικών εκφράσεων) σε αρχείο 
+κατάλληλο για χρήση σε MediaWiki.
+This paper relates the implementation of the Ancient
+This paper relates the implementation of the Ancient 
+Greek to English dictionary Liddell, Scott, Jones (LSJ)
+in MediaWiki format (http://lsj.translatum.gr). The 
+original xml file was processed and converted (using 
+regular expressions) to a file which was appropriate 
+for use in MediaWiki
+for use in MediaWiki. 
+2
+ΙΣΤΟΡΙΚΟ 
+HISTORY
+Το Liddell, Scott, Jones (LSJ) δημοσιεύτηκε πρώτη 
+φορά το 1843 από της εκδόσεις της Οξφόρδης.
+ό
+ύ
+ί
+Το λογισμικό τύπου βίκι «MediaWiki»
+πρωτοεμφανίστηκε το 2003 — τα χωρίζουν 130 χρόνια. 
+Μεγάλη διαφορά ηλικίας για να έρθουν τόσο κοντά
+Μεγάλη διαφορά ηλικίας για να έρθουν τόσο κοντά.
+Liddell Scott Jones (LSJ) was originally published in
+Liddell, Scott, Jones (LSJ) was originally published in 
+1843 by Oxford publications. Wiki-type software 
+“MediaWiki” first appeared in 2003 — they are 130 
+years apart. What a strange love affair indeed!
+3
+ΣΤΟΧΟΙ ΤΟΥ ΕΡΓΟΥ
+PROJECT OBJECTIVES
+ Μεταγραφή των λημμάτων σε 
+διάφορες μορφές και 
+μεταγραμματισμούς
+ Transcription of headwords 
+in various forms and 
+transliterations
+μεταγραμματισμούς
+ Δυνατότητα αναζήτησης 
+τύπου «αυτόματης
+ Case-insensitive and 
+diacritics-insensitive 
+autocomplete search
+τύπου αυτόματης 
+συμπλήρωσης» χωρίς διάκριση 
+πεζών/κεφαλαίων και 
+δ
+ώ
+suggestions
+ CSS styles to modify the 
+look and feel
+διακριτικών
+ Δημιουργία στυλ CSS
+ Συλλογή αρχαιοελληνικών
+ Collection of ancient Greek 
+quotes and development of 
+a MediaWiki random quote 
+ Συλλογή αρχαιοελληνικών 
+αποφθεγμάτων και 
+δημιουργία επέκτασης για την 
+q
+extension
+εμφάνισή τους
+4
+ΣΤΟΧΟΙ ΤΟΥ ΕΡΓΟΥ
+PROJECT OBJECTIVES
+ Παραμετροποίηση του 
+MediaWiki για λεξικογραφικό 
+ Fine-tuning MediaWiki in a 
+way that is appropriate for 
+a lexicographic work of this
+έργο αυτής της μορφής
+ Δημιουργία προτύπου 
+a lexicographic work of this 
+nature
+ Creation of an import
+εισαγωγής του αρχείου csv με 
+ενσωμάτωση των λειτουργιών 
+Creation of an import 
+template that supports 
+Semantic Mediawiki
+f
+ti
+lit
+Semantic Mediawiki
+ Δημιουργία ευρετηρίων βάσει 
+functionality
+ Creation of indexes for 
+each form and
+μορφής και 
+μεταγραμματισμού
+each form and 
+transliteration
+5
+ΠΡΙΝ ΚΑΙ ΜΕΤΑ
+BEFORE/AFTER
+Η αρχική μορφή ενός λήμματος:
+This is the original format of an entry:
+Και η τελική μορφή:
+And the final format:
+6
+ΜΕΤΑΤΡΟΠΗ ΣΕ ΔΙΣΤΗΛΟ
+CONVERSION TO TWO-COLUMN FORMAT
+Μια σειρά μετατροπών και ενεργειών εύρεσης /
+αντικατάστασης έλαβε χώρα για τη δημιουργία συμβατού 
+κώδικα με το MediaWiki. Χρησιμοποιήθηκε το πρόγραμμα
+κώδικα με το MediaWiki. Χρησιμοποιήθηκε το πρόγραμμα 
+επεξεργασίας κειμένου EmEditor.
+Σε πρώτη φάση έγινε μετατροπή του αρχείου σε δίστηλο, 
+προσθέτοντας στηλοθέτες με πρώτη στήλη το λήμμα και τη
+προσθέτοντας στηλοθέτες, με πρώτη στήλη το λήμμα και τη 
+δεύτερη την ερμηνεία.
+A series of conversions and find/replace operations, using 
+regular expressions in EmEditor, was applied in order to 
+create html and wiki-compatible mark-up.
+Firstly, the file was converted to two-column format, by 
+means of adding tab characters, with the headword in 
+column A and the definition in column B.
+7
+ΕΙΣΑΓΩΓΗ ΣΕ EXCEL 2010
+IMPORTING TO EXCEL 2010
+Σε δεύτερη φάση έγινε εισαγωγή σε Excel 2010. To Excel 
+2003 θα ήταν ακατάλληλο λόγω περιορισμού σε 65.536 
+σειρές σε σχέση με τις 1.048.576 σειρές του Excel 2010. Ο
+σειρές σε σχέση με τις 1.048.576 σειρές του Excel 2010. Ο 
+αριθμός των λημμάτων του έργου ήταν 120.000. Ωστόσο το 
+όριο 32.767 χαρακτήρων ανά κελί που υπάρχει και στα δύο 
+δημιούργησε κάποια προβλήματα σε λήμματα με εκτενείς
+δημιούργησε κάποια προβλήματα σε λήμματα με εκτενείς 
+ερμηνείες.
+Secondly the tab delimited file was imported to Excel
+Secondly, the tab-delimited file was imported to Excel 
+2010. Excel 2003 would fail due to the limitation of 
+65,536 rows compared to 1,048,576 rows by Excel 2010. 
+Th
+j
+’
+h
+d
+d
+120 000 H
+b
+h
+The project’s headword count was 120,000. However, both 
+versions have a limit of 32,767 characters per cell which 
+was a problem for headwords with extended definitions.
+8
+ΕΠΕΞΕΡΓΑΣΙΑ ΠΡΩΤΗΣ ΣΤΗΛΗΣ
+FIRST COLUMN EDITING
+Σε τρίτη φάση έγινε επεξεργασία της πρώτης στήλης, των 
+λημμάτων δηλαδή. Αφαιρέθηκαν σύμβολα όπως αστερίσκοι, 
+άνω τελείες παύλες εντοπίστηκαν περιπτώσεις μη
+άνω τελείες, παύλες, εντοπίστηκαν περιπτώσεις μη 
+συνδυασμένων διακριτικών και διορθώθηκαν, εντοπίστηκαν 
+λήμματα με εννοιολογικές υποδιαιρέσεις και 
+ομαδοποιήθηκαν χρησιμοποιώντας μακροεντολές στο Excel.
+Thi dl
+th
+fi
+t
+l
+t i i g th
+h
+d
+d
+Thirdly, the first column, containing the headwords was 
+edited. Symbols like asterisks, semicolons and dashes 
+were removed; characters with non-combined diacritics 
+;
+were fixed; headwords with multiple entries were grouped 
+using Excel macros.
+9
+ΜΑΚΡΟΕΝΤΟΛΗ ΓΙΑ ΔΥΟ ΕΠΑΝΑΛΗΨΕΙΣ
+MACRO FOR TWO REPETITIONS
+Η μακροεντολή συγχώνευσης λημμάτων:
+The headword merge macro:
+10
+ΠΡΙΝ ΚΑΙ ΜΕΤΑ
+BEFORE/AFTER
+11
+ΕΠΕΞΕΡΓΑΣΙΑ ΔΕΥΤΕΡΗΣ ΣΤΗΛΗΣ
+SECOND COLUMN EDITING
+Χρησιμοποιήθηκαν περί τις 40 
+κανονικές εκφράσεις για 
+μετατροπή σε συμβατό
+About 40 regular 
+expressions were used to 
+convert the original xml
+μετατροπή σε συμβατό 
+βικικώδικα. Για παράδειγμα:
+convert the original xml 
+into wiki-compatible mark-
+up. For example:
+Find: (<ref type="cross" target=")([^<]+)(lang="greek">)([^<]+)(</ref>)
+Replace: [[\4]]
+Find: (<ref type="cross" target=")([^<]+)(lang="greek">)([^<]+)(</ref>)
+Replace: [[\4]]
+p
+[[\ ]]
+(μετατροπή εσωτερικών παραπομπών
+convert internal references)
+p
+[[\ ]]
+(μετατροπή εσωτερικών παραπομπών
+convert internal references)
+Find : (<span class=foreign>)([^<]+)(</span>)
+Replace : <b class="b3">\2</b>
+(δημιουργία στιλ με έντονη γραφή σε υπολήμματα με ελληνικούς χαρακτήρες
+Find : (<span class=foreign>)([^<]+)(</span>)
+Replace : <b class="b3">\2</b>
+(δημιουργία στιλ με έντονη γραφή σε υπολήμματα με ελληνικούς χαρακτήρες
+12
+add a bold style to sub-entries with Greek characters
+add a bold style to sub-entries with Greek characters
+ΜΕΤΑΤΡΟΠΗ ΣΕ ΜΟΡΦΕΣ ΚΑΙ ΜΕΤΑΓΡΑΜΜΑΤΙΣΜΟΥΣ
+CONVERT TO FORMS AND TRANSLITERATIONS
+ Πολυτονικό με 
+βραχύ/μακρό
+Π λ
+ό
+ί
+ Full diacritics (inluding
+macron/vrachy)
+M di
+di
+iti
+ Πολυτονικό χωρίς 
+βραχύ/μακρό
+ Μονοτονικό
+ Medium diacritics 
+(excluding macron/vrachy)
+ Low diacritics (monotonic)
+ Μονοτονικό
+ Κεφαλαία
+ Λατινικοί χαρακτήρες με
+ Low diacritics (monotonic)
+ Capitals
+ Transliteration A (accented
+Λατινικοί χαρακτήρες με 
+τόνους
+ Λατινικοί χαρακτήρες 
+ί
+ό
+Transliteration A (accented 
+Latin characters)
+ Transliteration Β (non-
+χωρίς τόνους
+ Greeklish
+ B t
+C d
+accented Latin characters)
+ Transliteration C 
+(Greeklish)
+ Beta Code
+(Greeklish)
+ Beta Code
+13
+ΜΟΡΦΕΣ ΚΑΙ ΜΕΤΑΓΡΑΜΜΑΤΙΣΜΟΙ
+FORMS AND TRANSLITERATIONS
+14
+ΕΡΓΑΛΕΙΑ ΜΕΤΑΤΡΟΠΗΣ
+CONVERSION TOOLS
+Διάφορα εργαλεία χρησιμοποιήθηκαν για αυτές τις 
+μετατροπές, από λειτουργίες του MS Word (Shift+F3 για 
+μετατροπή σε άτονα κεφαλαία) μακροεντολές VBA και
+μετατροπή σε άτονα κεφαλαία) μακροεντολές VBA και 
+συναρτήσεις σε php που αναπτύχθηκαν ειδικά για την 
+περίπτωση μέχρι και προγράμματα όπως το All Greek to me
+του ΙΕΛ για τη μετατροπή σε Greeklish.
+V
+i
+t
+l
+d f
+th
+i
+f
+Various tools were used for these conversions, from 
+standard MS Word commands (Shift+F3 to convert to 
+capitals without accents) to bespoke VBA macros and php
+p
+)
+p
+p p
+functions as well as commercial applications like All Greek 
+to me by ILSP for Greeklish conversion.
+15
+BETA CODE
+BETA CODE
+Ακολουθήθηκαν οι συμβάσεις Beta Code του Perseus, με 
+χρήση πεζών. Για παράδειγμα,η λέξη Πλάτων μπορεί να 
+μεταγραφεί σε *PLA/TWN ή *pla/twn, το κεφαλαίο
+μεταγραφεί σε PLA/TWN ή pla/twn, το κεφαλαίο 
+επισημαίνεται με τον αστερίσκο. Ωστόσο, υπάρχουν κάποια 
+θέματα με τις διαφορετικές μεταγραφές μεσαίου και 
+τελικού σίγμα καθώς και με τη σειρά των διακριτικών όταν
+τελικού σίγμα καθώς και με τη σειρά των διακριτικών όταν 
+υπάρχουν διαλυτικά με τόνο.
+Perseus Beta Code conventions were followed, using 
+lowercase throughout. For example the word Πλάτων can 
+be converted into *PLA/TWN or *pla/twn, with the capital 
+being marked with the asterisk. However, there is no 
+standardization for the different representations of final 
+“ς” and medial “σ” as well as the order of diacritics when 
+ς
+diaeresis and accent is included.
+16
+ΕΠΕΚΤΑΣΕΙΣ ΤΟΥ MEDIAWIKI
+MEDIAWIKI EXTENSIONS USED
+ SemanticMediaWiki
+ Semantic Drilldown
+The Normalizer extension 
+removes accents and 
+ Data Transfer
+ Parser Functions
+capitalizes polytonic words 
+in order to create the 
+indexes
+ MWSearch
+ Normalizer (custom 
+indexes.
+Η επέκταση Normalizer που
+(
+extension)
+Η επέκταση Normalizer που 
+δημιουργήθηκε ειδικά για το 
+έργο, αφαιρεί τα διακριτικά 
+και μετατρέπει σε κεφαλαία 
+ως βοήθημα για τη 
+δ
+ί
+ί
+δημιουργία των ευρετηρίων.
+17
+MEDIAWIKI SETTINGS
+ΡΥΘΜΙΣΕΙΣ MEDIAWIKI
+Το αρχείο LocalSettings.php
+είναι το κέντρο ελέγχου του 
+ά
+ή
+The LocalSettings.php file 
+is where most settings are 
+προγράμματος. Βασική 
+ρύθμιση για να μη γίνεται 
+αυτόματα κεφαλαίο το
+implemented. A necessary 
+setting so that the first 
+letter is not automatically
+αυτόματα κεφαλαίο το 
+πρώτο γράμμα ενός 
+λήμματος (όπως για 
+letter is not automatically 
+capitalized (as it happens 
+in Wikipedia), is:
+ήμμ
+ς (
+ς γ
+παράδειγμα στη 
+Βικιπαίδεια), είναι το:
+p
+),
+$wgCapitalLinks
+false;
+18
+$wgCapitalLinks = false;
+DATA IMPORT
+ΕΙΣΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ
+Χρησιμοποιήθηκε η επέκταση Data Transfer με εισαγωγή σε δέσμες 
+των 10.000 (από 240.000 συνολικά). Ένα από τα θέματα που 
+προέκυψαν ήταν η εξαφάνιση χαρακτήρων μετά το σύμβολο | Το
+προέκυψαν ήταν η εξαφάνιση χαρακτήρων μετά το σύμβολο |. Το 
+πρόβλημα διορθώθηκε με αντικατάσταση του συμβόλου με την 
+αντίστοιχη αριθμητική οντότητα html (&#124;). Η ολοκλήρωση της 
+ή έ
+ά
+ή
+ί
+εισαγωγής έγινε με την παρακάτω εντολή που ενεργοποιεί τον 
+μηχανισμό εκτέλεσης εκκρεμών εργασιών του MediaWiki.
+The import via the Data Transfer extension was done in batches of 
+10,000 entries (of 240,000 in total). One of the issues was characters 
+disappearing after the pipe symbol (|) This was fixed with replacing it
+disappearing after the pipe symbol (|). This was fixed with replacing it 
+with its html numeric entity (&#124;). The import was finalized using 
+the php command below, which activates the pending jobs execution 
+in MediaWiki:
+19
+cd /home/site/public_html/w/wiki/maintenance/ php runJobs.php --maxjobs 10000
+INDEXES
+ΕΥΡΕΤΗΡΙΑ
+Τα ευρετήρια βασίστηκαν στις μορφές και τους μεταγραμματισμούς 
+που δημιουργήθηκαν για κάθε λήμμα και όπως αυτά ορίστηκαν με τον 
+κώδικα του προτύπου εισαγωγής Αυτός ο κώδικας διασυνδέει τις
+κώδικα του προτύπου εισαγωγής. Αυτός ο κώδικας διασυνδέει τις 
+διαφορετικές μορφές και μεταγραμματισμούς με την επέκταση 
+Semantic MediaWiki, έτσι ώστε να είναι δυνατή η περαιτέρω 
+ί
+ή
+ί
+ώ
+ί
+ά
+αξιοποίησή τους για τη δημιουργία ξεχωριστών ευρετηρίων ανά 
+μορφή/μεταγραμματισμό. 
+The indexes were based on the forms and transliterations as they are 
+defined in the import template code. That code links the various forms 
+d t
+lit
+ti
+ith th S
+ti M di Wiki
+t
+i
+th t
+and transliterations with the Semantic MediaWiki extension, so that 
+they can be used for the creation of different indexes per form / 
+transliteration.
+20
+BETA CODE INDEX
+ΕΥΡΕΤΗΡΙΟ BETA CODE
+21
+FULL DIACRITICS INDEX
+ΕΥΡΕΤΗΡΙΟ ΠΛΗΡΟΥΣ ΜΟΡΦΗΣ
+22
+IMPORT TEMPLATE
+ΠΡΟΤΥΠΟ ΕΙΣΑΓΩΓΗΣ
+Στο πρότυπο εισαγωγής γίνεται ανάμειξη κώδικα html, βικικώδικα και 
+php. Οι εντολές #normalize παραπέμπουν σε ειδική συνάρτηση 
+κανονικοποίησης για την αφαίρεση των διακριτικών έτσι ώστε να είναι 
+η ης γ
+η
+φ
+ρ
+η
+ρ
+δυνατή η σωστή ταξινόμηση στα διαφορετικά ευρετήρια. Τα στοιχεία 
+τύπου <b class="b1"> ορίζουν το στυλ εμφάνισης. Οι ονομασίες 
+μεταγραφών / μορφών όπως «Beta Code» αντιστοιχούν στα πεδία του
+μεταγραφών / μορφών όπως Beta Code  αντιστοιχούν στα πεδία του 
+αρχείου εισαγωγής csv.
+The import template is a mix of html code, wiki mark-up and php. The 
+#normalize commands invoke the normalization function to remove 
+diacritics so that the indexes are displayed correctly The elements like
+diacritics so that the indexes are displayed correctly. The elements like 
+<b class="b1"> refer to the look and feel (css styles). The names of 
+forms/transliterations like “Beta Code” correspond to the csv file’s 
+import field titles
+import field titles.
+23
+IMPORT TEMPLATE
+ΠΡΟΤΥΠΟ ΕΙΣΑΓΩΓΗΣ
+24
+CSV FILE
+ΑΡΧΕΙΟ CSV
+25
+RANDOM QUOTE EXTENSION
+ΕΜΦΑΝΙΣΗ ΤΥΧΑΙΩΝ ΑΠΟΦΘΕΓΜΑΤΩΝ
+Πρόκειται για επέκταση που δημιουργήθηκε ειδικά για την εμφάνιση 
+τυχαίων αποφθεγμάτων πάνω από τα λήμματα. Αρχικά δεν ήταν 
+δυνατή η ανάλυση βικικώδικα αλλά στη συνέχεια βελτιώθηκε έτσι
+δυνατή η ανάλυση βικικώδικα, αλλά στη συνέχεια βελτιώθηκε έτσι 
+ώστε να εμφανίζει και εσωτερικούς συνδέσμους. Ο σκοπός της είναι 
+εκπαιδευτικός καθώς λειτουργεί ως έναυσμα για εκμάθηση νέων 
+έ
+λέξεων.
+This is a custom extension which was developed in order to display 
+random quotes above the entries. It was further improved to parse 
+iki
+k
+i
+d
+t li k t di ti
+t i
+It h
+d
+ti
+l
+wiki mark-up in order to link to dictionary entries. It has an educational 
+purpose as it helps the visitor learn new words.
+26
+RANDOM QUOTE EXTENSION
+ΕΜΦΑΝΙΣΗ ΤΥΧΑΙΩΝ ΑΠΟΦΘΕΓΜΑΤΩΝ
+27
+AUTOCOMPLETE SEARCH
+ΑΝΑΖΗΤΗΣΗ ΑΥΤΟΜΑΤΗΣ ΣΥΜΠΛΗΡΩΣΗΣ
+Μέρος των προδιαγραφών του έργου ήταν η αναζήτηση 
+«αυτόματης συμπλήρωσης» χωρίς διάκριση πεζών/κεφαλαίων 
+και χωρίς διάκριση διακριτικών σημείων τόσο για ελληνικούς όσο
+και χωρίς διάκριση διακριτικών σημείων τόσο για ελληνικούς όσο 
+και για λατινικούς χαρακτήρες (μεταγραμματισμένων ελληνικών 
+λέξεων). Το παραπάνω ζητούμενο διεκπεραιώνει αυτόματα η 
+ή
+ζή
+L
+ί
+λ
+ί
+J
+μηχανή αναζήτησης Lucene η οποία λειτουργεί σε Java και 
+εγκαθίσταται στον διακομιστή.
+Part of the project specs was case-insensitive and diacritics-
+insensitive autocomplete or search suggestions functionality for 
+G
+k
+d L ti
+h
+t
+(t
+lit
+ti
+f G
+k
+d )
+Greek and Latin characters (transliterations of Greek words).
+This is achieved by using the Lucene search engine, which runs 
+in Java and must be installed on the server.
+28
+AUTOCOMPLETE SEARCH
+ΑΝΑΖΗΤΗΣΗ ΑΥΤΟΜΑΤΗΣ ΣΥΜΠΛΗΡΩΣΗΣ
+29
+DEMO
+ΕΠΙΛΟΓΟΣ
+WRAPPING UP
+Η υλοποίηση του έργου 
+ήταν μια πολύπλοκη 
+τεχνικά διαδικασία όπου
+Translatum LSJ was by 
+no means an easy 
+project as numerous
+τεχνικά διαδικασία όπου 
+έπρεπε να ξεπεραστούν 
+πολλά προβλήματα. Το 
+αποτέλεσμα είναι μια
+project as numerous 
+technical difficulties 
+had to be overcome. 
+The result however is
+αποτέλεσμα είναι μια 
+εύχρηστη πλατφόρμα με 
+δυνατότητα μελλοντικού 
+The result, however, is 
+a user-friendly platform 
+which can be further 
+εμπλουτισμού τόσο με 
+μαζική εισαγωγή όσο και 
+με συνεισφορά χρηστών.
+enriched with imports 
+as well as user 
+contributions. Test it:
+με συνεισφορά χρηστών. 
+Δοκιμάστε την:
+contributions. Test it:
+htt
+//l j t
+l t
+31
+http://lsj.translatum.gr

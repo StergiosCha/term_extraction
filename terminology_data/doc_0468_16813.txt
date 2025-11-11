@@ -1,0 +1,80 @@
+SOURCE: http://www.eleto.gr/download/TermBases/INFORTERM_History_EN.pdf
+
+ Ο 
+Ε  Λ  Ο   Τ    Ε 48 
+  1 
+ 
+INFORTERM: 
+Database of IT terms 
+Resulting from the work of ELOT/TC48/WG1 
+“Information Technology Terminology”, 
+Collective Member of ELETO 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+August 2022 
+ 
+Short history of the Termbase INFORTERM 
+ 
+ 
+The Information Technology TermBase INFORTERM is trilingual and includes the Greek terms produced by the 
+Group ELOT/TE48/OE1 “Information Technology Terminology” and equivalent English terms and French terms, 
+based on International Standards (ISO/IEC 2382 series) of the International Organization for Standardization 
+(ISO) and the International Electrotechnical Commission (IEC). 
+The creation of the Information Technology TermBase INFORTERM, the registration of all terminological data in 
+it, and their electronic processing have been done and are being done personally by the chairman of the Group 
+ELOT/TE48/OE1, Kostas Valeontis, who has also the responsibility for the content in the website. 
+Accessing and searching the IT TermBase INFORTERM is free on the Internet, in order to promote usage of 
+modern IT terms by anybody concerned both inside the IT sector and in a wider area outside of it, given the 
+intension and extension of the development of this sector within the framework of the Information Society. 
+Initially, free availability on the Internet was decided by a three-party Agreement among : 
+ 
+ELETO, being the superior organization for coordination and support of Greek terminology, one of the 
+founding collective members of which is ELOT/TC48/WG1, 
+ 
+the Department of Informatics of the Athens University of Economics and Business (AUEB), providing 
+the necessary electronic infrastructure, and 
+ 
+the Chairman of ELOT/TC48/WG1, as the creator of the termbase being responsible for its dynamic 
+operation, maintenance and development. 
+Now, because – for technical reasons – the termbase on AUEB cannot be updated, access is offered via 
+ELETO's website. 
+The field structure of the Termbase INFORTERM comprises the following basic fields (corresponding to one and 
+only one concept for each entry): 
+BASIC FIELDS OF INFORTERM  
+EXAMPLES 
+Greek term 
+λόγος δυφιακών σφαλμάτων 
+Greek abbreviation 
+BER 
+English term 
+bit error ratio, bit error rate 
+English abbreviation 
+BER 
+French term 
+taux d'erreur binaire, taux d'erreur sur les bits 
+French abbreviation 
+TEB 
+Foreign source title 
+ISO/IEC 2382-9:1995 
+Greek source title 
+ΕΛΟΤ 996.9 
+Stage of processing 
+3 
+ 
+Today, the termbase INFORTERM contains 7.135 terminological entries of information technology. 
+2 
+ 
+Note 1 
+Since there is no national language policy for establishing rules of creation and application purely Greek 
+acronyms and abbreviations, the English ones are generally used both in Information Technology and in 
+Telecommunications. 
+Note 2 
+Terms being in stage of processing 3 are definitive. Those in stage 2 have been prepared by ELOT/TE48/OE1 
+and are in a Draft status for Public Enquiry. Stage 4 or greater indicates that the relevant term has been 
+subjected to one or more revisions. 
+ 
+ 

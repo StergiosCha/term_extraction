@@ -1,0 +1,465 @@
+SOURCE: http://www.eleto.gr/download/Conferences/9th%20Conference/Papers-and-speakers/9th_29-17-09_AnsarKhalid_Paper1_V04.pdf
+
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+381 
+29   The standardisation and dissemination of Amazigh terminology 
+in Morocco 
+    
+Khalid ANSAR 
+ABSTRACT 
+Among the complex assortment of changes that have recently been observed in Morocco due to the 
+interplay of many factors foremost among which is presumably the Arab spring, one may speak of the 
+change in the Moroccan linguistic policies observed over the last 13 years. Of paramount importance 
+within such alterations, there is the officialization of Amazigh (Berber), which has, for long, been 
+considered as an autochthonous minority language by the system in Morocco.  
+The revitalization of Amazigh got translated into a number of steps, most important of which is the 
+creation of an Institute called The Royal Institute for Amazigh Culture (IRCAM) whose central thrust is to 
+promote the Amazigh language and Culture. One of the first goals meant to be achieved by the Institute 
+is to standardize and plan the Amazigh language and help its passing from orality to writing. The 
+standardization of the Amazigh language means the unification of the different Amazigh varieties that 
+pervade Morocco along a number of linguistic facets, i.e. the graphic, phonetic, morphological, syntactic 
+and lexical facets. 
+From a lexical standpoint, not only assembling and unifying the lexicon but also undertaking 
+terminological work has become essentially necessitated. The linguists in the Language Planning 
+Centre in IRCAM have carried out a number of technical glossaries and specialized vocabularies in a 
+whole range of scientific fields with a patent prioritization of the education, media and administration 
+fields (as the language is meant to be taught at school and used in the media and the different 
+administrations in Morocco). The experience, though promising, faced a number of problems, of most 
+concern here the problems of disseminating and implanting the newly created terms. 
+The paper is meant to offer a brief retrospective of the experience and an evaluation of the Amazigh 
+terminological standardization and dissemination in Morocco. 
+ 
+ 
+ 
+0   Introduction 
+Amazigh, a language spoken in Morocco, has been subject to progressive attrition for a 
+variety of reasons. The position of the language has been demoted over centuries because 
+it was and still is rivaled by other stronger languages. Well aware of this precarious 
+condition, the Moroccan government has tried to get around this situation by trying to 
+revitalize the Amazigh language, through the creation of a language agency under the name 
+of IRCAM as well as by declaring Amazigh an official language in 2011. This paper tries to 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+382 
+provide a brief retrospective on the experience of planning and standardizing the Amazigh 
+language in Morocco, an operation which has, in large part, been broached by IRCAM 
+researchers. The central thrust of the work meant to be achieved by the researchers is to 
+unify the different Amazigh varieties that hold in Morocco, i.e. Tarifiyt, Tamazight and 
+Tashlhiyt. The most salient problems have been addressed, of most concern here the 
+planning of Amazigh terminology and the problems besetting this operation. A special focus 
+falls on the phenomena of dissemination and acceptability of Amazigh terminology. Some 
+lines of thinking with regard to contending with these problems are addressed at the end of 
+the article. 
+1   Amazigh: from attrition to revitalization 
+Since time immemorial, Amazigh, which also goes by the name Berber, has been used as a 
+language of communication in North Africa. Yet, owing to its contact with a whole range of 
+languages such as Roman, Greek, Phoenician, Arabic, Spanish and French (see Julien 
+(1994)), among others, Amazigh has been subject to a complex assortment of effects, 
+drastic of which is presumably its tendency, nowadays, to undergo progressive attrition and 
+etiolation.  
+In the Moroccan context, the lot of Amazigh is no different from its lot in all North African 
+countries1. In Morocco, Amazigh, which was used by the Amazigh people in the pre-Islamic 
+era, started to know influential changes ever since the arrival of Arabs. The most notable 
+change is the arabization process which was first observed in urban areas and then 
+gradually pervaded many rural zones (see Chafik (1989)). Many Amazigh zones were 
+converted into Arabic-speaking areas. The fact that Arabic gained more ground to the 
+detriment of Amazigh was ascribed to a variety of reasons, foremost among which is the 
+political and military supremacy of Arabs along with the conversion of the Amazigh people 
+into Islam. 
+ The occupation of Morocco by the French and Spanish colonizers, which took place early in 
+the twentieth century, brought about no important changes for Amazigh. Conversely, a close 
+scrutiny of the Amazigh macro-sociolinguistic vista evinces further exacerbation of the status 
+of Amazigh after independence. This is, in large measure, reminiscent of two factors. For 
+one thing, there is the emergence of Spanish and most influentially French, which have 
+notable weight in the linguistic market, due to the logistical force they enjoy in the political, 
+                                                           
+1  
+Amazigh used to be spoken in North Africa in the following countries: Morocco, Algeria, Tunisia, 
+Libya, Mauritania, Mali, Niger, Burkina Faso and The Canary Islands. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+383 
+economic, industrial and scientific grounds (see Boukous (2009, 2012)). For another, there 
+is the institutionalization of administrative life and the schooling of Moroccans, both of which 
+have patently contributed to the promotion of Arabic, the only official language in Morocco 
+since the date of independence in 1956 till 20112. Another reason may also be viewed to 
+have contributed to the degradation of Amazigh. It has to do with the massive migration of 
+the Amazigh people to larger cities, driven in good part by the existence of abundant job 
+opportunities in urban areas in comparison with the poor, usually mountainous, pre-desert 
+areas where they live. This exodus was amortized over a whole range of consequences, 
+most notable of which is the linguistic and cultural assimilation of Amazigh people to Arabic-
+speaking city dwellers. 
+A sociolinguistic analysis of the status of Amazigh shows that the language has always 
+suffered from precarious conditions. This precariousness is evinced in institutional 
+marginalization as well as in the systematic promotion of Arabic and European languages 
+concomitantly with the weakening of Amazigh and the reduction of the number of its 
+speakers.  Since the sixties, a group of Amazigh associations and activists, feeling the 
+necessity to contend with this continuously exacerbating situation, put their hands to initiate 
+a number of extra-institutional development strategies through individual actions as well as 
+actions within associations. These actions were meant to increase Amazigh identity 
+awareness, by claiming Amazigh cultural and linguistic rights as well as by organizing 
+cultural, artistic and literary events and facilitating access to other forms of expression such 
+as written and audio-visual media. Yet, Because of the inhospitable political context, the 
+accomplishment of such actions was often hampered by a whole range of ideological, 
+political and financial obstacles. Hence, although extra-institutional efforts managed to 
+achieve some success, the success remains modest given the limited resources available to 
+the associative fabric. 
+Over the last three decades, the Moroccan policy has known influential changes. Of 
+paramount importance among these changes, there is the increasingly observed culture of 
+human rights which can in no way go unnoticed in the current Moroccan government policy. 
+Defending cultural and linguistic identity was and is still having a great vogue both nationally 
+and internationally. Within this environment, the government policy towards Amazigh has 
+considerably changed. This change was translated into action by the creation of an institute 
+                                                           
+2  
+In 2011, Amazigh was declared an official language in Morocco. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+384 
+under the name of IRCAM3 whose goal is to promote the Amazigh language and culture. In 
+his royal speech in Ajdir 2001, King Mohammed the Sixth set the principles for a new 
+cultural and linguistic policy where Amazigh culture is recognized as an important 
+constituent in Moroccan culture, whose revalorization is a responsibility of all Moroccans. 
+The efforts invested jointly by IRCAM and some government authority agencies, especially 
+the Ministry of Education, have amounted to the insertion of Amazigh in the educational 
+system in 2003. The position of Amazigh in the Media was also endorsed, and an Amazigh 
+channel was launched in 2011. Another event which took place in 2011 and was going to be 
+a turning point in the history of Amazigh is the fact of enshrining Amazigh with official status. 
+2   Amazigh and language planning 
+Although the government has been engaged in the overall project of revitalizing Amazigh, its 
+real contribution in terms of providing the logistical means for the promotion of the Amazigh 
+language and culture was very meager. Conversely, the efforts invested by the language 
+agency may well be considered as important. The language Planning Centre researchers 
+have considered it of prime importance and utility to get around the precariousness of the 
+Amazigh language which is patently apparent in its status, corpus, and functions as well as 
+in its position in the media, education, advertising, film production and publishing. 
+Epilinguistically, the value of Amazigh in the linguistic market is not satisfactory either, nor 
+are people’s attitudes and perceptions of it, as the language is considered to be a rural, 
+popular, folklore language (see Boukous (2012, 1979, 200b) and Gravel (1976).  
+From the foregoing, it emerges that planning Amazigh has become sorely needed. IRCAM 
+researchers have come to the conclusion that the approach that should be adopted for the 
+planning of the status and corpus of Amazigh should be, in large measure, consistent with 
+the approach made avail of in planning the status and corpus of undeveloped indigenous 
+languages. Of course, applying the approach to Amazigh should take into consideration its 
+structural and sociolinguistic specificities. While the approach looks to be a likely key to 
+accommodate the planning of Amazigh, following in that the experiences that have already 
+been broached for African languages such as Swahili and Hausa, the translation of the 
+approach into action was fraught with many problems and obstacles, some of which will be 
+laid out later. 
+                                                           
+3  
+L’Institut Royal de la Culture Amazighe (The Royal Institute of Amazigh Culture) was created in 
+2001. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+385 
+2.1   Status planning 
+The planning of status, mostly political in nature, is of prime importance and utility in 
+language planning. A number of decisions have to be made with regard to the policy to be 
+followed and the functions to associate to the language. The project should by right be 
+carried out by political actors, different authority agencies and language academies if any. 
+Haugen (1966) contends that the policy of language planning consists of four steps which 
+can be set out as follows: the formulation, codification, elaboration and implementation of 
+the policy. Each of the aforementioned steps consists of a complex assortment of strategic 
+stages to be followed if a policy is to succeed. A number of successors, such as Garvin 
+(1973), Gorman (1973), and others, have provided other versions of language planning 
+which, sometimes, exhibit some mismatches with Haugen’s approach. 
+In the span between the creation of IRCAM and 2011, the Moroccan government did not 
+fully engage in setting a fully-fledged status policy for Amazigh. The contribution of the 
+political system was very modest and may sometimes be qualified to follow the “leave 
+language alone” approach (see Fishman (2006)). The State did not project into the future or 
+engage in a long term action plan concerning Amazigh planning. Replete are the facets that 
+exhibit this lack of a concrete policy; some of which are laid out below: 
+- 
+Although there was common consensus that a standard form of Amazigh is the goal 
+meant to be achieved, there was no clear consensus as to how this is to be achieved. 
+The dominating viewpoint in unifying the three main Amazigh dialects is the polynomic 
+approach (see Marcellesi (1983)), albeit not always agreed by all scholars. 
+- 
+There was no clear idea what the functions of the Amazigh language were going to be. 
+Whether Amazigh is to be a national language, a territorial language, a regional 
+language, an official language, a media language, a Work language, a medium of 
+instruction language or a subject language is not clear. These problems were confirmed 
+by the annual report of the Higher Counsel of Teaching (see Boumalk (2009)). 
+- 
+In education terms, the governmental framework which regulates the teaching of 
+Amazigh took the form of ministerial circulars only, which was not enough to generalize 
+the teaching of Amazigh all over Morocco. Many problems remained without clear-cut 
+solutions, i.e. problems associated with the quality and duration of training allotted to 
+teachers as well as the number of hours allocated to the teaching of Amazigh. There 
+were also serious problems portrayed in the scarcity of qualified human resources. Most 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+386 
+of these problems ensued from lack of a legal framework that organizes the teaching of 
+Amazigh in Morocco. 
+- 
+There was no harmonious collaboration between the State and the language agency. 
+The decisions of the state were sometimes hasty and not in fine accord with the nature 
+of the work and efforts undertaken in IRCAM. 
+In 2011, the State enshrined Amazigh with official status, an important move that is 
+expected to bring about important results. The institutionalization of Amazigh means the 
+satisfaction of all the legal conditions that any language needs so as to be planned, 
+standardized and promoted. While Amazigh officialization may be construed as an 
+unprecedented achievement, Moroccans are still waiting for the operationalization of this 
+officialization through the creation of organic laws which will explicit its implementation in 
+real life.  
+2.2   Corpus planning 
+For language planning to be successful, corpus planning is essentially necessitated. The 
+need for corpus planning derives much of its appeal and utility from the need to update, 
+cultivate and modernize the language. While status planning was not accommodated 
+properly by the State, especially between the period of 2001 and 2011, Corpus planning has 
+been addressed more seriously by IRCAM researchers. Two dispositions hold in planning 
+corpus. First, there is the unification of different language varieties along the putative 
+linguistic facets, commonly covering the graphic, phonetic, morphological and syntactic 
+levels. Secondly, there is the compiling of existing lexicon and its modernization by 
+undertaking terminological work. 
+Under Amazigh Corpus planning, the researchers of the Language Planning Centre in 
+IRCAM have assigned lots of importance to variation accommodation, especially as the 
+variation observed in Amazigh pervades a whole range of linguistic facets. The task of 
+getting around this variation has been so daunting, partly due to the dialectal mismatches 
+and disparities attested between some lects
+4, and partly owing to the epistemological 
+fogginess of the notion of the norm. Importantly, within the composite of putative norms to 
+be adopted, the decision was in favor of a national norm, a single standard Amazigh 
+language to be progressively developed from the standardization of the three main Amazigh 
+                                                           
+4  
+This diversity has driven some linguists like Galand (2002) to consider Amazigh as a set of 
+different dialectalized languages, especially as some speakers from different Amazigh lects fail 
+to attain mutual intelligibility. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+387 
+varieties in Morocco, i.e. Tarifiyt, Tamazight and Tashlhiyt. The possibility of choosing 
+regional standard languages or pan-Amazigh standard languages has been foreclosed and 
+abandoned entirely for political and feasibility reasons (see Boukous (2012)). 
+ 
+unity in variation 
+The efforts invested in the standardization of the different linguistic facets of Amazigh 
+happen to be very interesting. Notwithstanding the shortness of the period in which IRCAM 
+has started the workshop of Amazigh planning, the results achieved seem to be promising. 
+The valiant attempts made to unify the graphic, phonetic, morphological and syntactic levels 
+have achieved some success. One may say that the basic standard linguistic rules have 
+been reached.  
+With regard to the Amazigh writing system, a norm of writing, dubbed Tifinagh5, has been 
+developed (see Ameur et.al. (2006). The norm is meant to offer a single writing system to 
+enable the users to read and write in a uniform fashion. A number of criteria have been 
+respected in the choice of the phonetic content and graphic form of the alphabet, such as 
+historicity, univocity, coherence and economy (see Ameur et. al. (2006)). 
+The linguistic facet that exhibits the least variation is presumably the morpho-syntactic level. 
+Yet, a comprehensive analysis of the morpho-syntax of Amazigh yields compelling evidence 
+of the existence of some morphological and syntactic phenomena that patently resist a 
+unifying account. Foremost among such phenomena, there is the Construct State, verb 
+morphology and determinants, among others. The valiant efforts undertaken to standardize 
+the morpho-syntactic level have resulted into a number of interesting works such as 
+Boukhris et. al. (2008). Further work is sorely needed to circumvent the problematic morpho-
+syntactic phenomena that remain. 
+ 
+Compiling and modernizing the lexicon 
+Lexical planning is of prime importance in corpus planning. The activity of lexical planning 
+conflates two prominent activities. The first consists of compiling attested lexical items from 
+existing dictionaries, field work research and linguistic atlases. The second consists of 
+updating, modernizing and enriching the lexical repertoire by resorting to word creation or 
+borrowing. While the first activity, though time-consuming, does not look so daunting to the 
+                                                           
+5  
+Tifinagh is the Amazigh writing system. In areas other than the Touareg regions (Southern 
+Algeria, North of Mali, North of Niger and Southern Libya), Tifinagh ceased to be used at least 
+14 centuries ago.  
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+388 
+trained linguist as it requires nothing more than the collection of the repertoire of lexical 
+items observed in Amazigh dictionaries as well as in everyday life spoken Amazigh, the 
+second activity looks more problematic, as it requires terminological creative work. The 
+creative work carried out by the linguist  necessitates lots of talent not only with regard the 
+grammatical and semantic structure of the language, but also with regard to the 
+representations, perceptions, knowledge structure, attitudes, beliefs, ethnology, sociology 
+and anthropology of the users in a speech community 
+With regard to compiling existing lexical material, the CAL researchers have benefited from 
+the existence of a number of variety-based dictionaries6. As regards terminological work, 
+although some amateurish terminological work had already existed before the creation of 
+IRCAM, most of it was improvised and its creation was devoid of a recognized scientific 
+methodology. Given the sore need in terms of terminological work, IRCAM researchers have 
+carried out a number of technical glossaries and special vocabularies especially in the 
+domains of education, administration and the media7.  
+3   Terminology planning and the problems of acceptability and 
+dissemination 
+Planning the lexicon, as contended by many scholars, conflates the planning of two types of 
+lexicons: a general lexicon and a specialized lexicon. The creation of general and 
+specialized lexicons both fall under the rubric of terminology planning, an activity which is 
+couched under elaboration in Haugen’s approach (1966), intellectualization in Garvin’s 
+scheme (1973) and part of modernization in Ferguson’s model (1968).  
+Corpus planning and, most influentially terminology planning, should be undertaken while 
+taking into consideration the socio-cultural structure of the language community. This idea is 
+largely defended by Fishman (1983:2) who explains: 
+The tendency to view ‘corpus planning’ as nothing special, as just one more technical skill that a 
+linguist should be able to pull out of his bag of tricks, is triply mistaken. It reveals a 
+misunderstanding of lexicons per se, of corpus planning as a whole, and of the societal nexus of 
+language planning more generally. 
+Fishman explains that lexicons “are not endless laundry lists, without rhyme and reason, 
+                                                           
+6  
+Some of the most prominent dictionaries are: Taifi (1991) Serhoual (2002) and Oussikoum 
+(1995). 
+7  
+Some of the terminological works undertaken by the Language Planning Centre researchers in 
+IRCAM are as follows: Ameur et. al. (2009a), Vocabulaire des medias; Ameur et. al. (2009b), 
+Vocabulaire grammatical; Ameur et. al. (in preparation), Lexique d’administration. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+389 
+without order or pattern, without systematic links to each other and to all other facets of 
+language” and that they are directly related to “socio-cultural and political sensitivities”. 
+Fishman explains: 
+Most serious of all, however, is the lack of recognition revealed by the ‘merely lexicon’ view of 
+(a) the delicate and complex social context that commonly surrounds corpus planning and of (b) 
+the need for professional expertise with respect to that context if corpus planning is to succeed. 
+It is a devastating mistake to assume that corpus planning merely requires the interplay and 
+coordination of linguistic expertise and technological expertise, devastating certainly if one’s 
+goal is not merely to do corpus planning (i.e. not merely to create a nomenclature in chemistry, 
+or in some other modern technological area) but to have it accepted (i.e. to have it liked, learned 
+and used). If the latter is our goal (and anything less strikes me as a travesty), then cultural 
+expertise in all its ramifications is called for as well (Fishman (1983: 3)) 
+Societal (non) acceptability of planned terminology, thereby, falls out from the socio-cultural 
+expertise of the planner and the knowledge of the complex structure of lexicon. 
+ The observation reached, thus far, is of prime importance to the case of Amazigh, as the 
+terminological work undertaken in the Language Planning Centre in IRCAM looks to face the 
+same problems raised by Fishman. The problem of acceptability is one of the most 
+prominent problems besetting the diffusion of the terminological work undertaken in IRCAM. 
+The resistance to use IRCAM words is observed in the media, in associations, and for many 
+Amazigh speakers. Some Amazigh speakers consider the terms created by IRCAM to be in 
+conflict with the lexical items they use in their everyday life.  The Amazigh terms issuing 
+from IRCAM, they argue, do not represent Amazigh people. With this observation as 
+background, some of the questions concerning this issue deserve mention. What 
+representations do users have, for example, of sociologically validated borrowed words from 
+other languages like Arabic and French?  And how can this representation invalidate newly 
+created words? What conditions decision-making for a language community, such as the 
+Amazigh language community, particularly in text production? 
+Before addressing the question raised above, it is important to say that the problem of 
+acceptability is not an oddity of Amazigh terminology but pervades the terminology of many 
+other languages. Studies carried out by Alloni-Fainberg (1974), Rubin (1977), Kummer 
+(1983) evince that very few writers use Academy proposed terms. In the domain of 
+chemistry, Rubin (1977) contends that within a number of 24 writers, only 8 know of the 
+terminology proposed by the language academy, and only 5 use the terminology. Antia 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+390 
+(2000) tries to provide an answer to why the display holds as such. One of the hypotheses 
+that he suggests, along with sociology, is the way terms are integrated in discourse.  
+An important work undertaken by Antia discloses the degree to which terms are acceptable. 
+Acceptability is evaluated on the basis of the discourse conveyed in written terminological 
+material. On the basis of written terminological material, Antia explains that a terminology 
+planner is able to spot where the weakness of the terms lurks and, thereby, understand why 
+the terms are resisted by the users. His theoretical framework recognizes a whole range of 
+criteria along which the written material discourse is to be assessed. The criteria are set out 
+as follows: a linguistic approach (strategies used), a terminological systems approach (how 
+groups of terms reflect the relationship in the corresponding sets of concepts), knowledge 
+approach (the effectiveness and efficiency of the terminology project as a means of 
+imparting knowledge), and a sociological approach (societal validation of the terminology 
+planning effort as evidenced by knowledge of, and attitudes towards, the terms). 
+It is my belief that an answer to the questions I have already asked may only be provided if 
+an analysis along Antia’s line of thinking is undertaken to the Amazigh terminological 
+literature. An analysis along this line of thinking will enable us to see the reasons underlying 
+the problem of acceptability and use of the terms adopted by the IRCAM Language Planning 
+Centre. 
+4   Conclusion 
+This paper has tried to give a handle on the experience of Amazigh planning in Morocco. 
+The efforts undertaken by the language agency, called IRCAM, coupled with the efforts 
+invested by the government authority agencies have been evaluated.  The different steps of 
+language planning have been fleshed out and some problems besetting Amazigh planning 
+have been foregrounded. The last section of the article has centered on the problem of 
+terminology dissemination and acceptability and a line of thinking as to how these problems 
+are to be circumvented.  
+5   Bibliography 
+Alloni-Fainberg, Y. (1974). Official Hebrew Terms for Parts of the Car: A Study of 
+knowledge, Usage and Attitudes. In Advances in Language Planning, J. A. Fishman (ed). 
+[493-517]. The Hague: Mouton.    
+Ameur et.al., (in preparation). Terminologie administrative. Rabat: Publications of IRCAM. 
+Ameur et.al., (2006). Graphie et orthographe de l'amazighe. Rabat: Publications of IRCAM. 
+Ameur et.al., (2009a). Vocabulaire des médias. Rabat: Publications of IRCAM. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+391 
+Ameur et.al., (2009b). Terminologie grammaticale. Rabat: Publications of IRCAM. 
+Boukhris et.al. (2008). La nouvelle grammaire de l'amazighe. Rabat: Publications of IRCAM. 
+Boukous,  A. (1979). Le profile sociolinguistique du Maroc;  Bulletin social et économique du 
+Maroc 140, [5-31]. 
+Boukous, A. (2000b). Les Marocains et la langue Française. In La coexistence des langues 
+dans l'espace francophone, approche macro-sociolinguistique, [13-30]. 
+Boukous, A. (2009). L'aménagement de l'amazighe. Pour une planification stratégique. 
+Asinag, n°3. Publications of IRCAM, [13-40]. 
+Boukous, A. (2012). Revitalizing the Amazigh Language: Stakes, Challenges, and 
+Strategies. Rabat: Publications of IRCAM. 
+Boumalk, A. (2009). Condition de réussite d'un aménagement efficient de l'amazighe. In 
+Asinag n°3, [53-61]. 
+Chafik, M. (1989). Aperçu sur trentre-trois siècle d'histoire des Amazighes. Mohammadia: 
+Imprimerie Alkalam.  
+Ferguson, C. A. (1968). Language Development. In Language Problems of Developing 
+Nations, J. A. Ferguson and J. Das Gupta (eds), 27-36. New York: John Wiley and Sons. 
+Fishman, J. A. (1983). Modeling Rationales in Corpus Planning: Modernity and Tradition in 
+Images of the Good Corpus. In Progress in Language Planning, J. Cobarrubias and J. A. 
+Fishman (eds), [107-118]. Berlin: Mouton. 
+Fishman, J. A. (2006). Do Not Leave Your Language Alone: The Hidden Status Agendas 
+Within Corpus Planning in Language Policy. Lawrence: Erlbaum Associates. 
+Galand, L. (2002). La Langue Berbère existe-t-elle ? In Etudes de linguistique Berbère, 69-
+78. Leuven-Paris: Peeters. 
+Garvin, P. L. (1973). Some Comments on Language Planning. In Language Planning: 
+Current Issues and Research, J. Rubin and R. Shuy (eds), [24-33]. 
+Gorman, T. P.  (1973). Language Allocation and Language Planning in a Developing 
+Country. In Can Language be Planned ?, J. Rubin and R. Shuy (eds), 72-82. Hawaii: East-
+West Center/The University Press. 
+Gravel, L. A. (1976). Sociolinguitistic Invistigation of Multilinguilism in Morocco. Ph. D. 
+thesis, Columbia University Teacher's College. 
+Haugen. E. (1966a). Language Conflict and Language Planning: The Case of Modern 
+Norwegian. Cambridge, Massachusetts: Harvard University Press. 
+Julien, C. A. (1994). Histoire de l'Afrique du Nord. Paris: Payot. 
+Kummer. 
+W. 
+(1983). 
+Probleme 
+des 
+Sprachausbaus 
+in 
+Entwicklungslandern. 
+Terminologiepragung im Swahili. In Sprache im Politischen Kontext (Ergebnisse aus 
+Bielefelder Forschungsprojekten zur Anwendung Linuisticher Theorien), P. Finke (ed.), [77-
+118]. Tubingen: Max Niemeyer. 
+Marcellesi, J. B. (1983). La définition des langues en domaine roman : les enseignements à 
+tirer de la situation corse. Actes du congrès des romanistes d'Aix-en-Provence : 
+Sociolinguistique des langues romaines, vol. 5. [309-314]. 
+Oussikoum, B. (1995). Dictionnaire Tamazight-français : Le parler des Ait Wirra Moyen Atlas 
+(Maroc).  Soultan Moulay Slimane University, Faculty of Letters and Human Sciences, Beni 
+Mellal. 
+ELETO – 9th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 7-9 November 2013 
+ 
+392 
+Rubin, J. (1977). Textbook Writers and Language Planning. In Language Planning 
+Processes, J. Rubin, B. H. Jernudd, J. Das nGupta, J. A. Fishman and C. A. Ferguson 
+(eds), [237-253]. The Hague: Mouton. 
+Serhoual, M. (2002). Dictionnaire tarifit-français. Doctoral thesis, Paris, INALCO. 
+Taifi, M. (1991). Dictionnaire tamazight-français (parlers du Maroc Central), Paris, 
+L'Harmattan-Awal. 
+ 
+ 
+Khalid ANSAR 
+Researcher at The Language Planning Center, IRCAM, Morocco 
+IRCAM, Avenue Allal El Fassi, Madinat Al Irfane, Hay Ryad, B. P. 2055, Rabat, Maroc. 
+E-mail: aanssar@ircam.ma  
+ 
+ 
+ 

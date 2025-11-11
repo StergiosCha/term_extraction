@@ -1,0 +1,51 @@
+[
+  {
+    "source_term": "neural network",
+    "target_term": "νευρωνικό δίκτυο",
+    "context": "Machine learning model",
+    "domain": "technical"
+  },
+  {
+    "source_term": "machine learning",
+    "target_term": "μηχανική μάθηση",
+    "context": "AI algorithms that learn from data",
+    "domain": "technical"
+  },
+  {
+    "source_term": "deep learning",
+    "target_term": "βαθιά μάθηση",
+    "context": "Neural networks with multiple layers",
+    "domain": "technical"
+  },
+  {
+    "source_term": "algorithm",
+    "target_term": "αλγόριθμος",
+    "context": "Step-by-step procedure for calculations",
+    "domain": "technical"
+  },
+  {
+    "source_term": "artificial intelligence",
+    "target_term": "τεχνητή νοημοσύνη",
+    "context": "Computer systems that simulate human intelligence",
+    "domain": "technical"
+  },
+  {
+    "source_term": "data preprocessing",
+    "target_term": "προ-επεξεργασία δεδομένων",
+    "context": "Preparing raw data for analysis",
+    "domain": "technical"
+  },
+  {
+    "source_term": "overfitting",
+    "target_term": "υπερπροσαρμογή",
+    "context": "When a model learns training data too well",
+    "domain": "technical"
+  },
+  {
+    "source_term": "gradient descent",
+    "target_term": "κατιούσα κλίση",
+    "context": "Optimization algorithm for minimizing loss",
+    "domain": "technical"
+  }
+]
+

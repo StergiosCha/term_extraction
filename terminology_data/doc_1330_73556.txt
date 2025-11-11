@@ -1,0 +1,165 @@
+SOURCE: http://www.eleto.gr/download/Conferences/ELETO-EAFT_Conference_2013-11-07/ELETO-EAFT-Symposium-2013_Jan%20Roukens_Paper_EN.pdf
+
+EAFT–ELETO Symposium 
+“National Languages and Terminology  
+in Higher Education, Science & Technology” 
+Athens, Greece, 7 November 2013 
+State-of-affairs Round Table 
+ 
+‘Europe and the Low Countries’ 
+Background for the presentation of Jan Roukens 
+ 
+This ‘summary’ provides some background for the presentation. It comprises essentially three 
+citations from recent publications (September 2013), and comments by the author, from: 
+- a report by the Institute of International Education (IIE) 
+- a paper of A. Kornai  
+- a letter to a Dutch language advisory body (English translation).  
+Citations from the report: English-taught Master's programmes in Europe, a 2013 update 
+“The paper, English-Taught Master’s Programs in Europe: A 2013 Update, is an update of a 
+report published by IIE in June 2011, and provides a data-driven look at the continued growth 
+of master’s programs in Europe taught entirely or partially in English.”  
+“In recent years, European countries in which English is not the primary language of 
+instruction have developed an increasing number of programs taught either fully or partly in 
+English in order to serve domestic demand for higher education in English and to attract 
+students from around the world. The authors, Megan Brenn-White and Elias Faethe, examine 
+statistics that they have obtained from MastersPortal.eu, an online directory and 
+comprehensive source of information about postgraduate degree programs in Europe. The 
+authors examine the growth of English-taught master’s programs in Europe, including the 
+total number of programs offered by country and academic discipline, their duration, and data 
+on prospective students.” 
+“According to the report, as of June 2013 the total number of English-taught programs in 
+Europe was 6,609, a 42 percent increase since 2011. The top host countries for English-taught 
+Master's programs are: Netherlands, Germany, Sweden,”  
+Comment 
+IIE is an organisation in the US promoting international education worldwide. The 
+organisation compiles data about student mobility and English-taught university programmes 
+worldwide. In Europe, in-depth studies of the kind have been conducted by the ACA – 
+Academic Cooperation Association in 2002 and 2007. It was expected that a 3rd ACA study 
+covering the situation in 2012 would be published in 2013, but it was not possible to fund that 
+survey. Very recently the European Commission has been able to fund the follow-up survey. 
+That is positive, because the ACA reports are of good quality and provide figures and 
+motives. 
+The numbers of English-Taught Programmes (ETPs) in European universities vary from 
+country to country and from university to university. Trendsetter and leader of the gang are 
+the Netherlands since 2002. But the Scandinavian countries have surpassed the Netherlands in 
+relative terms, i.e. in proportion to the size of their populations. In the Netherlands all the 
+Dutch-taught masters have been abandoned, and many bachelor studies are also offered 
+English-only. The Nordic countries are next in line. And the process is goes on. Large 
+countries like Germany, France and Italy follow at a considerable distance, though steadily. 
+The consequences of these developments for society and for the quality of knowledge transfer 
+and for education in general, have never been studied in some depth in these countries. 
+Politicians were looking in the other direction. In an increasing number of countries, scientific 
+literature in the national language is non-existent. Handbooks, even textbooks in the national 
+languages are not produced any more in several countries. The university staffs potentially 
+able to write such books are not available. If only because the development of scientific 
+terminology is 10-20 years behind.  
+Citations of the article of A. Kornai: On Digital Language Deathi 
+“A language may not be completely dead until the death of its last speaker, but there are three 
+clear signs of imminent death observable well in advance. First, there is loss of function, seen 
+whenever other languages take over entire functional areas such as commerce. Next, there is 
+loss of prestige, especially clearly reflected in the attitudes of the younger generation. Finally, 
+there is loss of competence, manifested by the emergence of ‘semi-speakers’ who still 
+understand the older generation, but adopt a drastically simplified (reanalysed) version of the 
+grammar.” 
+“In the digital age, these signs of incipient language death take on the following 
+characteristics. Loss of function performed digitally increasingly touches every functional 
+area from day to day communication (texting, email) to commerce, official business, and so 
+on. Loss of prestige is clearly seen in the adage if it’s not on the web, it does not exist, and 
+loss of competence boils down to the ability of raising digital natives in your own language. 
+Digital ascent is the opposite process, whereby a language increasingly acquires digital 
+functions and prestige as its speakers increasingly acquire digital skills.” 
+Comment 
+Kornai identifies three endogenous factors leading to the imminent death of a language. They 
+resemble the symptoms of a disease. There are exogenous factors as well, but these are less 
+interesting in this context. Although....Examples of exogenous factors, or forces: natural 
+catastrophes, war and suppression, political pressure, economic pressure. Kornai describes the 
+prolonged phase of decline of a language, not just the terminal phase. During the phase of 
+decline, a language gradually looses functionality and quality. This goes hand in hand with 
+reduced usage of the language; overall throughout society or in particular domains, such as 
+the science and technology domains. 
+ 
+A section of his paper deals with the decline of a language due to insufficient usage in the 
+digital environment. This is a very relevant perspective in modern society, because of the ever 
+increasing impact of the digital environment on the human cognitive habitat. Many scholars 
+share the view that if a language does not survive in the information society, it will not 
+survive tout court. Although the relative volume of images on the internet has increased in 
+comparison with text, text is still the most important medium for transferring knowledge in 
+science and education. In the last century the European Commission recognised this and 
+counteracted the overwhelming use of English in IT and the internet by launching the concept 
+of a multilingual information society.  
+ 
+Citation, from a letter of the stichting Nederlandsii to the president of the Council for Dutch 
+Language and Literature (original: Dutch)iii 
+“With a sense of relief we learned of the intention of the Council for Dutch Language and 
+Literature, to look into the use of teaching languages in higher education institutions and to 
+report its findings. Since its foundation, 15 years ago, the stichting Nederlands has actively 
+promoted Dutch as a cultural language, and therefore resisted the impoverishment of Dutch 
+under the pressure of other languages, English in particular. We believe that your proposal to 
+assess the use of the language in higher education is linked with of a similar desire to let 
+Dutch fully play its important role and to safeguard the language against serious threats. A 
+laureate of the LOF prizeiv of the stichting Nederlands, the comedian Herman Finkers, 
+mentioned in his acceptance speech in 2012 that the ongoing mutilation of the language ‘takes 
+the soul out of the language’. Despite the poetic overexposure a rake characterisation.” 
+ 
+“In the past decade, several LOF prizes were awarded to individuals and institutions in higher 
+education who resisted the pressure. Particularly in the universities the teaching language 
+changed drastically. For the worse, from the perspective of this foundation. One of the 
+laureates of the LOF prize was the Dutch Academy of Sciences. In 2003 the Academy 
+published the report “Dutch, unless .... “, i.e. the teaching language in the humanities should 
+remain Dutch, unless on occasions the choice for another language was inevitablev. Despite 
+the wide acceptance of the recommendations by scholars in the humanities, the report was not 
+acted upon. A sign on the wall.” 
+ 
+“In 2008, the stichting Nederlands, in collaboration with other organisations in the cultural 
+and scientific sectors organised the congress: Dutch in higher education and sciencevi. The 
+report of this congress was issued by the Gent publisher Academia Press. The Netherlands, 
+more than Flanders, is the leader in Europe with respect to Anglicisation of higher education. 
+But that same trend is noticeable in other countries, especially in the Northern- or Germanic-
+speaking European countries.” 
+ 
+“Language policy in higher education has triggered an initiative to raise awareness of the 
+appalling decline of the national language in higher education and science in an ever 
+increasing number of European countries. In Slovenia (2010) and Estonia (2011) events such 
+as the conference held in Brussels (2008) were organised. In November 2013, the prow is 
+turned to Greece. These efforts are minuscule, compared with the forces and inexhaustible 
+resources that are available to universities and other organisations supported by multinational 
+business. They promote and drive the ongoing anglicisation of science and university 
+education.  
+The stichting Nederlands together with equally motivated people and organisations 
+throughout Europe keep the fire burning for the most valuable common heritage, the living 
+language diversity of Europe.” 
+Comment 
+These are citations from a letter addressed to an official Dutch language advisory board on 
+behalf of the stichting Nederlands. After almost two decades of total neglect by the authorities 
+of the declining use of Dutch as the teaching language in higher education institutions in the 
+Netherlands and Flandersvii, a glimpse of a change of attitude is emerging over the horizon. 
+Pretty late, too late probably, as the language is not used any more in scientific writing and 
+has not been enriched by new scientific terminology in the latest decades. Oral Dutch is still 
+used in the first (bachelor) cycle in some university programmes, but declining. Dutch master 
+programmes are virtually non-existent. With some exceptions, all textbooks and handbooks 
+are in English, imported from America and the UK.  
+ 
+Is Dutch scientific language dead? It is stripped of its capability to support modern science 
+and thus may be declared dead. The use of scientific Dutch is discouraged by the political and 
+university authorities, and often forbidden by the universities in accordance with internal 
+regulations. In spite of the fact that the law on Higher Education in the Netherlands states 
+explicitly that the instruction language is Dutch. 
+ 
+But a language differs from a human being: a language may be reanimated if human beings 
+can be found having the vision and the energy to do so. At this moment, the political weight 
+of the good guys is too small. But never say never.  
+ 
+Jan Roukens 
+                                                           
+i   Kornai, A. (2013) Digital Language Death. PLoS ONE 8(10): e77056. doi:10.1371/journal.pone.0077056 
+ii  Civil society foundation promoting the Dutch language 
+iii  Roukens, Jan (2013) Brief aan de Voorzitter van de Raad voor de Nederlandse Taal en Letteren; Brussels, 
+September 2013 
+iv  Prize awarded every year by the stichting Nederlands to an individual or a group for an extraordinary 
+achievement promoting the Dutch language (LOF = PRAISE) 
+v  For example a temporary guest teacher not able to speak Dutch as teaching language 
+vi  Nederlands in hoger onderwijs en wetenschap? Conference proceedings:  Academia Press, Gent, 2008 
+vii The attitudes towards their common Dutch language differ considerably in the two countries, after their 
+separation by force and politics in 1585. In a few words: the Flemish struggled for their language against 
+foreign rulers for almost 400 years, whereas the Netherlands gained independence and flourished. In 
+Flanders, the fire is still glowing 

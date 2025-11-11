@@ -1,0 +1,578 @@
+SOURCE: http://www.eleto.gr/download/Conferences/13th%20Conference/Papers-and-speakers/13th_24_13_08_SvoronouEleni_Paper_V04_Teliko2.pdf
+
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+319 
+24    Multilingual terminology: tracing equivalence in cases of 
+conceptual 
+ non-equivalence in legal terminology 
+ 
+Eleni Svoronou 
+ABSTRACT1 
+In modern society, where physical boundaries are being redefined and international collaboration is 
+being intensified, language and terminology are revisited under this scope of accelerated mobilities. 
+This process is the outcome of the need to communicate in multilingual contexts, where all participants 
+must understand the concepts underlying the lexical choices in a non-native language, or source 
+language (SL) in translational context. It is in such a multilingual environment that the role of 
+terminology management and translation becomes current, with one of the most challenging tasks 
+resting on accurately rendering the terms used and diffused. In fields such as law, however, which has 
+strong links with the cultural specificities of a given society, one can, as a minimum, wonder as to the 
+feasibility of accurately rendering SL terms into a different linguistic and cultural system; this becomes 
+even more stark when the underlying concepts are absent. This paper aims at addressing the above 
+question by presenting challenges of conceptual equivalence in legal translation by using some 
+characteristic Greek/English term pairs in the sub-domains of Civil, Commercial and Penal Law. As 
+such this paper can contribute to the discussion of equivalence between Greek legal terms and their 
+English counterparts as well as to the question whether this is even achievable in the case of 
+conceptual gaps. At the same time this paper explores the potential translation strategies when 
+attempting to accurately convey the conceptual nexus of a given source language term to the target 
+language. 
+Αναζητώντας την ισοδυναμία σε εννοιολογικό επίπεδο στο πλαίσιο 
+της δίγλωσσης Ελληνικής και Αγγλικής νομικής ορολογίας 
+ 
+Ελένη Σβορώνου 
+ΠΕΡΙΛΗΨΗ 
+Στη σύγχρονη εποχή, όπου επαναπροσδιορίζονται τα φυσικά σύνορα και η διεθνής συνεργασία 
+εντατικοποιείται, η επανεξέταση του ρόλου της γλώσσας και της ορολογίας αποτελεί φυσική απόρροια 
+αυτών των φαινομένων. Αυτό οφείλεται στην ανάγκη για επικοινωνία σε ένα πολύγλωσσο περιβάλλον, 
+όπου όλοι οι συμμετέχοντες θα πρέπει να έχουν αμοιβαία κατανόηση των εννοιών που περικλείουν οι 
+                                                 
+1  
+This paper is part of the dissertation thesis submitted in the course of Master of Arts in Translation 
+of Hellenic American University by the author Eleni Svoronou; the work was supervised by Dr. 
+Themis Kaniklidou, Provost. Full title of the dissertation: “Revisiting the Greek and English Legal 
+Term Pairs in the Domains of EU, Civil, Commercial, and Penal Law Based on the Underlying 
+Concepts: A Critical Reflection on Equivalence and the Role of Terminologists and Translators” 
+(https://termcoord.eu/wp-content/uploads/2020/11/Dissertation_Eleni-Svoronou.pdf). 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+320 
+γλωσσολογικές επιλογές σε επίπεδο γλώσσας-πηγής. Σε ένα τέτοιο πλαίσιο ο ρόλος της διαχείρισης 
+ορολογίας και της μετάφρασης είναι πιο επίκαιρος από ποτέ και μία από τις μεγαλύτερες προκλήσεις 
+που αντιμετωπίζουν είναι η απόδοση των εννοιών που αντικατοπτρίζουν οι χρησιμοποιούμενοι από τη 
+γλώσσα-πηγή όροι με ακρίβεια και συνέπεια στη γλώσσα-στόχο. Σε επιστημονικά πεδία όπως το 
+Δίκαιο, ωστόσο, όπου οι πολιτιστικοί δεσμοί του δικαιικού συστήματος μιας δεδομένης κοινωνίας είναι 
+άρρηκτοι με την αντίστοιχη ορολογία και το συναφές εννοιολογικό πλέγμα αυτής, γεννάται μοιραία το 
+ερώτημα κατά πόσον η συγκεκριμένη εργασία μπορεί να είναι επιτυχής. Είναι, άραγε, δυνατόν να 
+αποδοθούν στη γλώσσα-στόχο το νομικό και γλωσσολογικό σύστημα μίας άλλης γλώσσας και κατ’ 
+επέκταση ενός άλλου δικαιικού συστήματος, ιδιαίτερα όταν οι έννοιες που παρουσιάζονται στη γλώσσα-
+πηγή απουσιάζουν πλήρως από τη γλώσσα-στόχο και το συναφές δικαιικό σύστημα; 
+Στην προσπάθεια απόκρισης στο παραπάνω ερώτημα, πραγματοποιήθηκε έρευνα μερικών όρων της 
+Ελληνικής στους τομείς του αστικού, εμπορικού και ποινικού δικαίου. Οι όροι και ορισμοί αυτών 
+αντλήθηκαν από κείμενα όπως ο Αστικός Κώδικας (A.K.), ο Ποινικός Κώδικας (Π.K.) και αποφάσεις της 
+Νομολογίας των ελληνικών δικαστηρίων. Στο πλαίσιο αυτό έγινε προσπάθεια εύρεσης των ισοδύναμων 
+Αγγλικών όρων, αναζητώντας αυτούς στη βάση δεδομένων ΙΑΤΕ (Interactive Terminology for Europe – 
+Διαδραστική Ορολογία για την Ευρώπη), αλλά και δίγλωσσα λεξικά. Οι όροι αυτοί οργανώθηκαν σε μία 
+βάση όρων, όπου περιλαμβάνονται τα πεδία αύξων αριθμός, όρος στην Ελληνική, ορισμός, πηγή 
+ορισμού, όρος στην Αγγλική πηγή άντλησης και παραλλαγή, καθώς και μια σχετική σημείωση από 
+δικαιο-συγκριτική σκοπιά. Οι όροι που περιλαμβάνονται στο συγκεκριμένο έργο είναι καθαρά ενδεικτικοί 
+και αποτελούν τμήμα πληρέστερης έρευνας που διενεργήθηκε στο πλαίσιο εκπόνησης πτυχιακής 
+εργασίας της γράφουσας, ωστόσο τα παραδείγματα που επιλέχθηκαν είναι ενδεικτικά της έρευνας και 
+του ευρύτερου θεωρητικού προβληματισμού. 
+Η έρευνα κατέδειξε ότι οι παραπάνω ενδεικτικοί όροι της γλώσσας-στόχου σε πολλές περιπτώσεις 
+ουσιαστικά προσεγγίζουν τις έννοιες των όρων της γλώσσας-πηγής, δίχως να ταυτίζονται εννοιολογικά. 
+Κάτι τέτοιο, ωστόσο, είναι αμφίβολο αν πράγματι ικανοποιεί την ανάγκη για απόλυτη αμοιβαία 
+κατανόηση των συναλλασσόμενων, παρόλο που ως προσέγγιση βασίζεται στις πάγιες αρχές της 
+επιστήμης της μετάφρασης και της ορολογίας (ΕΛΕΤΟ, 2010). Τα ευρήματα κατέδειξαν ότι είναι 
+ευχερέστερη η εύρεση ισοδύναμου όρου στη γλώσσα-στόχο όταν ο όρος της γλώσσας-πηγής 
+αναφέρεται σε ευρύτερη έννοια (υπερώνυμο) και όχι σε επιμέρους έννοια του δικαιικού συστήματος 
+(υπώνυμο) που δεν απαντάται ή απαντάται μερικώς στο νομικό σύστημα της γλώσσας-στόχου. Ως 
+αποτέλεσμα η ορθή τεχνική προσέγγιση βρίσκεται στο μέσον ανάμεσα στην ορθή γλωσσολογική και την 
+βέλτιστη νομική προσέγγιση. Μάλιστα, η απάντηση στο ερώτημα θα πρέπει να βασιστεί στη φύση της 
+νομικής μετάφρασης που είναι η «μετάβαση» από ένα νομικό σύστημα σε ένα άλλο, μια εργασία κατά 
+την οποία ο βαθμός εναρμόνισης ή προσέγγισης αυτών των συστημάτων συνδράμει είτε ως αρωγός 
+είτε ως εμπόδιο (Mattila σε Valeontis and Krimpas, 2014, σ. 243-244). Συνεπεία των διαφορετικών 
+νομικών συστημάτων προτάθηκε θεωρητικά η χρησιμοποίηση της μεταφραστικής τεχνικής της 
+«λειτουργικής ισοδυναμίας» (functional equivalence) (Šarčević, 1991). Σύμφωνα με τη συγκεκριμένη 
+προσέγγιση επιλέγεται εν τέλει ο όρος που εννοιολογικά εξυπηρετεί τον ίδιο σκοπό στη γλώσσα στόχο, 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+321 
+υπό συγκεκριμένες κάθε φορά προϋποθέσεις (Arntz, 1993).  
+Εντούτοις η παραπάνω θέση εν τέλει είναι αμφίβολο αν πράγματι εξυπηρετεί απόλυτα τη λειτουργία των 
+όρων, οι οποίοι ουσιαστικά μεταφέρουν ένα σύμπλεγμα εννοιών και εικόνων σε διανοητικό επίπεδο, 
+από ένα πρόσωπο που ομιλεί και κατανοεί τη γλώσσα-πηγή σε ένα άλλο που ομιλεί και κατανοεί τη 
+γλώσσα-στόχο (Maslias, 2019). Ικανοποιείται ως εκ τούτου η εν λόγω λειτουργία των όρων όταν 
+χρησιμοποιούνται όροι της γλώσσας-στόχου που είναι απλώς «λειτουργικά ισοδύναμοι» δίχως να 
+ταυτίζονται απόλυτα εννοιολογικά; Ενόψει της ανάγκης για κατανόηση των συμμετεχόντων σε μία 
+διεθνή συναλλακτική σχέση, είναι απαραίτητο να γεννάται μία ταυτόσημη εικόνα στο μυαλό του λήπτη 
+και του αποδέκτη, πράγμα που αποτελεί εξάλλου αναπόσπαστο κομμάτι της λειτουργίας της ορολογίας 
+(Maslias, 2019). Η εν λόγω προβληματική, εντάσσεται στο πλαίσιο του Συγκριτικού Δικαίου και θα 
+πρέπει σαφώς να αξιοποιηθούν τα πορίσματα του εν λόγω κλάδου στο πλαίσιο και τη διαδικασία 
+αντιστοίχισης όρων, προκειμένου να υπάρξει εν τέλει ασφάλεια των συναλλαγών, ενώ ο αποδέκτης του 
+εκάστοτε μεταφράσματος θα πρέπει να κατανοεί ότι οι όροι που χρησιμοποιούνται ουσιαστικά 
+αναφέρονται σε ένα «ξένο» (Venuti, 1995) σύστημα. 
+ 
+0   Introduction 
+0.1   Interdisciplinarity has always been one of the crucial, debated, and yet fascinating 
+features of translation as a field of study and as a process, which in turn affects the 
+translation of terms of a SL to a given Τarget Language (TL). In texts falling in the domain of 
+Law an additional struggle occurs, since it is required to encompass within a translated text 
+concepts both text receivers are knowledgeable of, and original text producers referred to. 
+The question that looms now is: Is all this even possible when it comes to legal terms? Law 
+as a domain aims to provide the set of rules that regulate the relations between members of 
+a given society. The “relations” that need to be regulated are globally (more or less) the 
+same, however, separate legal systems are shaped nationally (Cao, 2007). This is a result 
+of different regimes, traditions, history – in other words – cultures (Cao, 2007). The 
+termbase that follows includes certain interesting cases of standardized bilingual term pairs 
+for which the models discussed by Cabré (1999) were taken into consideration and the 
+fundamental principle that the relationship between a term and a concept must 
+“monosemous” (Pavel and Nolet, 2001). 
+1   Termbase 
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+322 
+Termbase 
+Domain: Law 
+No 
+ST 
+Definition 
+Definition 
+Ref. 
+TT 
+TT Ref. 
+Variant 
+Note 
+1. 
+αδικοπραξία 
+unlawful and liable act of a 
+person leading to harm of 
+another 
+Article 914 of 
+A.K. (1984) 
+tort  
+ 
+(Stamelos et 
+al, 2015, p. 
+760) 
+delict;  
+civil delict 
+Common law set of rules 
+referring to a civil wrong other 
+than breach of contract 
+(Alcaraz and Hughes 2014, 
+78).  
+2. 
+αμέλεια 
+liability subcategory referring 
+to the lack of attention one 
+ought to have paid leading 
+either to the said person’s 
+failure to foresee the 
+unlawful outcome or to their 
+belief that it will not 
+materialize 
+Article 28 of 
+P.K. (2019) 
+negligence 
+ 
+(Stamelos et 
+al, 2015, p. 
+770) 
+recklessness 
+Criminal law experts evaluated 
+the nature of “recklessness” 
+proposing even the 
+introduction of a third kind of 
+liability, a proposal that was 
+rejected by others (Vathiotis, 
+2006). 
+3. 
+ανωτέρα βία 
+non-liable extraordinary in 
+nature event that could not 
+have been foreseen and 
+prevented by the person 
+affected 
+Article 330 of 
+A.K. 
+force 
+majeure 
+ 
+IATE Entry 
+759275  
+act of God 
+The concept of the variant is 
+different to this of force 
+majeure as found in case Gulf 
+v. Oil, (Šarčević, 2000). 
+4. 
+διαφυγόν 
+κέρδος 
+failure to increase one’s 
+property as a result of a 
+harmful event 
+(Stathopoulos, 
+2004, p. 171) 
+consequen
+tial 
+damage 
+(Stamelos et 
+al, 2015, p. 
+906) 
+loss of profit; 
+indirect loss; 
+incidental 
+damage; 
+consequential 
+loss/damage 
+No standardized version 
+exists, in view of the different 
+types of damages recoverable 
+under UK contract (Beatson et 
+al, 2010) and tort law. 
+5. 
+δικαιοπραξία 
+declaration of intent bearing 
+a legal consequence as a 
+result thereof 
+Book 1 of A.K. legal act 
+IATE Entry 
+870306  
+legal 
+transaction 
+Concept bound to Civil Law 
+systems leading to target 
+terms that encompass only 
+part of it.  
+6. 
+δόλος 
+mental disposition towards 
+own unlawful actions 
+describing knowledge as to 
+outcome and (i) desire for 
+Article 27 of 
+P.K. (2019) 
+intent 
+ 
+(Stamelos et 
+al, 2015, p. 
+944) 
+malice 
+fraud; 
+dolus 
+ 
+The variant “fraud” may be in-
+accurate in view of the 
+concept of the SL term, since 
+there is no prerequisite of a 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+323 
+the said effect; or (ii) 
+acceptance of it as 
+necessary result; or (iii) 
+knowledge and acceptance 
+of this potential 
+misrepresentation, which is 
+essential for the concept of 
+“απάτη” under the Greek 
+Penal law.  
+7. 
+έγκλημα 
+punishable conduct 
+characterized under the Law 
+as wrong and imputable  
+Article 14 of 
+P.K. (2019) 
+crime 
+IATE Entry  
+3584001 
+ 
+The specific components that 
+constitute a “crime” in the SL 
+are not identical to these found 
+in other jurisdictions. 
+8. 
+έγκληση 
+document submitted before 
+the competent authorities by 
+a person harmed by the 
+criminal conduct of another 
+Article 117 of 
+P.K. (1984) 
+claim 
+IATE Entry 
+886512 
+charge; 
+complaint 
+The term is also used for 
+“μήνυση”, without 
+acknowledging the conceptual 
+division found in the fact that 
+“έγκληση” is submitted only by 
+someone harmed. 
+9. 
+εμπράγματα 
+δικαιώματα 
+entitlements of ownership, 
+pledge, mortgage, and 
+usufruct granting erga 
+omnes control over movable 
+and immovable things (res) 
+Article 973 of 
+A.K. (1984) 
+rights in 
+rem 
+IATE Entry 
+762561  
+ 
+ 
+The hyponyms of A.K. (1984) 
+are not necessarily the same 
+in all jurisdictions.  
+10. 
+κατοχή 
+physical control over a thing  
+Article 974 of 
+A.K. (1984) 
+possessio
+n 
+IATE Entry 
+1129880 
+ 
+occupation 
+The TL terms seem 
+interchangeable, since 
+Common Law does not 
+introduce the relevant division 
+between the two rights of the 
+Greek A.K.  
+11. 
+νομή 
+right referring to one’s 
+physical control over a thing 
+with ownership intention  
+Article 974 of 
+A.K. (1984) 
+occupation (Stamelos et 
+al, 2015, p. 
+1120) 
+possession; 
+to hold 
+12. 
+συρροή 
+set of rules on the manner a 
+punishable conduct is 
+punished based on the 
+crimes and actions number 
+Article 94 of 
+P.K. (2019) 
+joinder of 
+offences 
+(Stamelos et 
+al, 2015, p. 
+1232) 
+ 
+In Common Law this term 
+serves only “administrative 
+efficiency” (Gianneli, 1997, 
+p.1) 
+ 
+ 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+324 
+2   Discussion 
+2.1   The above characteristic examples confirm that in the process of employing a TL term, the 
+lexical choices are in many cases merely approximating the SL concepts (Šarčević, 1991). This 
+is because the relevant concepts serve different purposes, as in the case of “συρροή” (above 
+Entry No. 12) or because of the overlap amongst them in different legal system (Entry No. 3) or 
+the particularities of the relevant concept in the SL system (Entry No. 8 “έγκληση”). Moreover, 
+the findings suggest that it is easier to translate terms referring to general concepts (hypernyms) 
+rather than specific ones. As an example, the term “έγκλημα”, represents in the mind of the 
+Greek receiver all behaviors that are prohibited by penal law similarly to “crime”, regardless 
+some systematic differences found in national laws. On the contrary, when it comes to more 
+specific categories of broader classes (hyponyms), research proved that there are conceptual 
+differentiations between the SL and TL terms (e.g. “νομή”, “κατοχή”).  
+2.2   In the absence of the highest degree of accuracy between the term pairs one can wonder if 
+the translation choices and strategies employed satisfy the need for mutual understanding. In 
+order to revert to this question, the nature of legal translation should be considered, which is 
+essentially a process of intercultural communication of legal systems (Derlén, 2014). The degree 
+of approximation of these systems acts then as an enabler or barrier to the translation process 
+(Mattila as cited by Valeontis and Krimpas, 2014, pp. 243–244). Additionally, one must keep in 
+mind that the SL legal terms refer to specific concepts with significant features that are triggered 
+to the SL receivers’ mind once the SL author utilizes the relevant term (Valeontis and Krimpas, 
+2014). Having these remarks in mind, David accurately concludes that certain term pairs 
+introduced by legal dictionaries are rather “dangerous” (1974, as cited in Šarčević, 1991, p. 615), 
+if the TL term concept and set of legal rules differ to these of the SL. The above opinions support 
+the view that legal concerns of Comparative law (Šarčević, 1997) must come into play when it 
+comes to legal translation and therefore one can argue that a mere linguistic analysis is 
+insufficient, whereas a purely legal approach could be chaotic. 
+2.3   The fundamental feature of the process is that legal translation is primarily a case of 
+conceptual interpretation where an intermediary (translator or terminologist) attempts to transfer 
+a legal system conceptual nexus to the TL (Derlén, 2014, p. 28). However, since this is rather 
+demanding, challenging and sometimes impossible, professionals essentially search for the 
+“closest equivalent concept” or the “functional equivalent” (Šarčević, 1991, p. 615) in the attempt 
+to deliver a translatum. Moreover, in cases of “no conceptual equivalence” (Arntz, 1993, p. 15) 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+325 
+the approach to include “loan words” (p. 15), neologisms or even “paraphrase” (p. 16) (Cao, 
+2007). 
+2.4   Returning to the above research though, it was observed that this translation strategy leads 
+to term pairs that are partially equivalent on the conceptual level. In such a case, can these 
+linguistic options be equally cognitively processed, in other words “function”, in the mind of 
+receivers of two different legal cultures? Lérat mentioned that terms are symbols that reflect 
+concepts set within a specific field (1989, as cited in Cabré, 1999, p. 81) and especially in law 
+they serve as the means through which a number of principles and rules apply (Weisflog, 1987, 
+p. 207 as cited by Cao, 2007, p. 54). Bilingual terms have an additional, complex task of 
+transferring this conceptual nexus of the SL to the TL receiver (Maslias, 2019).  
+2.5   Having all the above in mind, one can safely conclude that the mental transfer of an 
+accurate image is a fundamental part of the process not satisfied when an “approximate” image 
+is retrieved to the receiver mind. Therefore, in the absence of an accurately corresponding term 
+and concept, in all respects, the most appropriate approach would be to substitute the term with 
+the concept, accurately describing it and keeping the original term as reference for the receiver. 
+3   Conclusion 
+3.1   Legal translation lies at the heart of interdisciplinarity and is a process found in-between 
+reality, communication, and regulation of human relations. The above findings suggest that 
+practitioners strive to find “equivalence” in “non-equivalence” in some cases, trying to balance 
+the terminology principles of accuracy, economy and monosemy (ELETO, 2010) with the need 
+for clear understanding and the aim to avoid disputes. These complexities can be harnessed, if 
+the appropriate translation strategies to be followed are isolated. What is essential, is to help all 
+potential receivers understand that the mental images created in their mind, when they read a 
+TL term, are in most cases “foreign” (Venuti, 1995), to those of their own legal system. 
+ 
+References 
+(a)   References in English language 
+Alcaraz, E. & Hughes, B. (2014). Legal translation explained. New York: Routledge. Available 
+from: https://doi.org/10.4324/9781315760346  
+Arntz, R. (1993). Terminological equivalence and translation. In: Sonneveld, H.B. & Loening, 
+K.L. (Eds.), Terminology: Applications in interdisciplinary communication. John 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+326 
+Benjamins Publishing Company, pp. 5-19. Available from: https://doi.org/10.1075/z.70 
+Beatson, J., Sir, Burrows, A. & Cartwright, J. (2010). Anson’s law of contract. Oxford.  
+Cabré, M.T. (1999). Terminology: Theory, methods and applications. Amsterdam/Philadelphia: 
+Benjamins. Available from: https://doi.org/10.1075/tlrp.1 
+Cao, D. (2007). Translating law. Clevedon/Buffalo/Toronto: Multilingual Matters. Available from: 
+https://doi.org/10.21832/9781853599552 
+Derlén, M. (2014). Multilingualism and legal integration in Europe. In Temmerman, R. & 
+Campenhoudt, M.V. (Eds.), Dynamics and terminology: An interdisciplinary perspective 
+on 
+monolingual 
+and 
+multilingual 
+culture-bound 
+communication. 
+Amsterdam/Philadelphia: John Benjamins Publishing Company, Vol. 16, pp. 17-42. 
+Available from: https://doi.org/10.1075/tlrp.16 
+Gianneli, P. (2006). Joinder & severance of offences. Faculty Publications, 325. Available from 
+https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1324&context=facul
+ty_publications [Accessed 20th July 2021] 
+Maslias, 
+R. 
+(2019). 
+Plain 
+terminology. 
+Termcoord. 
+Available 
+from: 
+https://termcoord.eu/2019/03/plain-terminology/ [Accessed 20th July 2021] 
+Pavel, S. & Nolet, D. (2001). Handbook of terminology. Minister of Public Works & Government 
+Services Canada. Adapted into English by Christine Leonhardt. Available from 
+http://www.atesman.info/wp-content/uploads/2015/10/handbook.pdf 
+[Accessed 
+30th 
+July 2021] 
+Šarčević, S. (1991). Bilingual and multilingual legal dictionaries: New standards for the future. 
+Meta, 36 (4), pp. 615–626. Available from: https://doi.org/10.7202/004030ar 
+Šarčević, S. (1997). New approach to legal translation. Hague/London/Boston: Kluwer Law 
+International. Available from: https://doi.org/10.1075/target.11.2.17gor 
+Šarčević, S. (2000). Legal translation and legal theory a receiver oriented approach. Tradulex. 
+Available from: http://www.tradulex.com/Actes2000/sarcevic.pdf [Accessed 20th July 
+2021]  
+Venuti, L. (1995). The translator’s invisibility: A history of translation. London and New York: 
+Routledge. 
+(b)   References in Greek language 
+Astikos Kodikas [A.K.] [Civil Code] (1984). (Greece). 
+Hellenic Society for Terminology [ELETO]. (2010) Οι διεθνώς τυποποιημένες διαγλωσσικές 
+«αρχές σχηματισμού όρων» (κατά ISO) [The International standardized translingual 
+principles forr term creation (according to ISO)]. Orogramma 102, pp. 375-376. 
+Available 
+from: 
+http://www.eleto.gr/download/Orogramma/Orogramma_Epitomi-
+1_Fylla001-105.pdf [Accessed 30th July 2021] 
+Valeontis, Κ. and Krimpas P., (2014). Νομική γλώσσα - Νομική ορολογία: Θεωρία και πράξη 
+[Legal Language -Terminology: theory and practice]. Athens: Nomiki Bibliothiki. 
+Poinikos Kodikas [P.K.] [Criminal Code] (2019). (Greece). 
+Stamelos, C., Chatzimanoli, D., & Balogianni, E. (2015). English-Greek Greek-English dictionary 
+ELETO – 13th Conference “Hellenic Language and Terminology” 
+11–13 November 2021, Online 
+ 
+ 
+327 
+of legal terms. Athens: Nomiki Bibliothiki. 
+Vathiotis, K. (2006). Recklessness, αδιαφορία υπαιτιότητα [Recklessness, disregard, liability]. 
+Poinika Chronika 1, p. 5. 
+ 
+ 
+ΑΓΓΛΟΕΛΛΗΝΙΚΟ ΓΛΩΣΣΑΡΙ2 
+ΑΓΓΛΙΚΟΣ ΟΡΟΣ 
+ΕΛΛΗΝΙΚΟΣ ΟΡΟΣ 
+civil law 
+αστικό δίκαιο 
+commercial law 
+εμπορικό δίκαιο 
+common law 
+κοινοδίκαιο 
+concept 
+έννοια 
+equivalence 
+ισοδυναμία 
+functional equivalence 
+λειτουργική ισοδυναμία 
+hypernym 
+υπερώνυμο 
+hyponym 
+υπώνυμο 
+loan word 
+λέξη δάνειο 
+monosemy 
+μονοσημία 
+neologism 
+νεολογισμός 
+penal law 
+ποινικό δίκαιο 
+source language 
+γλώσσα πηγή 
+standardization 
+τυποποίηση 
+target language 
+γλώσσα στόχος 
+termbase 
+βάση όρων 
+terminology management 
+διαχείριση ορολογίας 
+translatum 
+μετάφρασμα 
+variant 
+παραλλαγή 
+ 
+ 
+ 
+Eleni Svoronou 
+Attorney at Law, LL.M. & M.Sc. 
+E-mail: eleni@egsvoronou.gr 
+ 
+ 
+                                                 
+2  
+Please refer to the termbase for the relevant term pairs in EN and EL language combination. 

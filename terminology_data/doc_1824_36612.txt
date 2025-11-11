@@ -1,0 +1,360 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_06-02-OpitzKurtPaper_V05.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+1
+6   Mixed signals: thoughts and second thoughts about terminology 
+ 
+Kurt Opitz 
+ 
+ABSTRACT 
+Terminology is characterized by a variety of features which, if the former is considered in a linguistic 
+context, may appear alien, if not contradictory, setting it apart from ordinary language and customary 
+communicative behavior. Looked at singly, terms appear to meet notably three conditions: they are 
+considered 
+–  context-independent 
+–  connotation-free and 
+–  semantically stable, i.e. unaffected by developmental change.  
+While those characteristics do indeed seem to offer a useful instrument for unambiguous usage, they 
+are also responsible for the disadvantage of making terminology opaque and dysfunctional to a large 
+number of users as it is with increasing frequency appropriated by commercial and political interests. As 
+a result, terminology as a linguistic concept is about to lose its intended effectiveness along with its 
+conceptual rigor. In order to preserve its socially meaningful role, a pragmatically-oriented revision of its 
+aims and methods is overdue. 
+ 
+Ανάμεικτα σήματα: Σκέψεις και συλλογισμοί περί ορολογίας 
+ 
+Kurt Opitz 
+ΠΕΡΙΛΗΨΗ 
+Η ορολογία χαρακτηρίζεται από ποικιλία γνωρισμάτων τα οποία, εάν αυτή εξετασθεί σε γλωσσολογικό 
+πλαίσιο, μπορεί να εμφανίζονται ως αλλότρια, αν όχι αντιφατικά, κάνοντάς την να ξεχωρίζει από την 
+κανονική γλώσσα και την συνήθη επικοινωνιακή συμπεριφορά. Εξεταζόμενοι μεμονωμένα, οι όροι 
+εμφανίζονται ότι πληρούν κυρίως τρεις συνθήκες. Θεωρούνται: 
+–  ανεξάρτητοι από το συγκείμενο 
+–  απαλλαγμένοι από συνδηλώσεις και 
+–  σημασιολογικά σταθεροί, δηλαδή ανεπηρέαστοι από αναπτυξιακές μεταβολές. 
+Ενώ αυτά τα χαρακτηριστικά πράγματι φαίνεται ότι προσφέρουν ένα χρήσιμο εργαλείο για αναμφίσημη 
+χρήση, είναι ταυτόχρονα και υπεύθυνα για το ότι η ορολογία καθίσταται αδιαφανής και δυσλειτουργική 
+σε μεγάλο πλήθος χρηστών αφού, με αυξανόμενη συχνότητα, την ιδιοποιούνται εμπορικά και πολιτικά 
+συμφέροντα. Ως αποτέλεσμα, η ορολογία ως γλωσσολογική έννοια κινδυνεύει να χάσει την σκοπούμενη 
+αποτελεσματικότητά της μαζί με την εννοιακή αυστηρότητά της. Για τη διατήρηση του κοινωνικά 
+σημαντικού ρόλου της, επιβάλλεται η αναθεώρηση των σκοπών και μεθόδων της με πραγματολογικό 
+προσανατολισμό, αναθεώρηση η οποία έχει ήδη καθυστερήσει. 
+ 
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+2
+ 
+ 
+0.   Introduction  
+So prolific and various has technical and intellectual work now 
+become, as compared with previous centuries, that natural and 
+controlled evolution of technical terms can no longer be relied on to 
+ensure unambiguity and efficiency in the use of language. 
+ 
+Wüster 1955 
+0.1 
+Like any event in the real world, the activity of terminologists is encumbered by a 
+cluster of paradoxes and contradictions. The expectations on which Eugen Wüster 
+had predicated his groundbreaking work since the early 1930s have in many ways 
+come true; in retrospect they may indeed seem almost too modest. Not only has 
+“technical intellectual work” exploded within the life-span of barely two generations into 
+a firework of inventions and novel processes, but the conditions under which such 
+activity is taking place have dramatically changed as well. The transition from a 
+nationally-based organization of scientific and economic activity into a global one fully 
+vindicates Wüster’s prescient conviction of the overriding need to control language as 
+a vital instrument of such activity. At the same time, his prophecy has proved overly 
+optimistic in regard to the latter part of the above quotation. His chief aim, “to ensure 
+unambiguity and efficiency in the use of language” through standardization of existing 
+and new technical terms, has not been entirely achieved; there are in fact 
+developments that suggest an increasingly uneasy future for the concept of 
+terminology as outlined by Wüster and its practical application.  
+1   Wüster’s technological bias and the consequences 
+1.1 
+There are several reasons for this. For one, Wüster himself was by training an 
+electrical engineer with no particular insight into the ways and means of language. He 
+perceived language as a closed system that can be manipulated in accord with logical 
+principles very much like a numerically-based science and its material manifestations, 
+susceptible to arbitrary, though rational, control within and beyond national linguistic 
+borders. Limited by the terminological scope of his vision, Wüster hardly 
+acknowledged the existence of such - more problematic - areas of terminological 
+interest as the humanities and the social sciences: areas growing in importance as the 
+need for social and political organization of ever more complex structures is becoming 
+apparent. The nascent academic discipline that grew out of Wüster’s efforts to 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+3
+establish Fachsprache as the proper domain of terminology was accordingly 
+dominated by the technological bias of the LSP (language for specific purposes) idea. 
+Since those beginnings in the 1980s, the academic discipline of terminology has - 
+ironically - muted into an abstract science practiced increasingly under the umbrella of 
+philosophy: the business of making and testing of terms has, in other words, passed 
+from the hands of the practical user almost entirely into the field of theory and 
+speculative research. At the other end of the spectrum, international planning and 
+administration, notably at the level of Infoterm in Vienna, has lost much of its initial 
+enthusiasm and direction. Along the way of these developments, a lot of confusion 
+and misunderstanding about terminology and its role has been disseminated around 
+the world, together with some benefits to language teaching and a sizeable output of 
+publications, notably specialized dictionaries.  
+1.2 
+Without doubt, the various approaches to the phenomenon of terminology were made 
+in a problem-oriented spirit. But have they always been focussed on the real 
+problems? Wüster’s legacy was a lexeme-based approach concerned chiefly with a fit 
+of semantics with morphology, to be achieved in a modern spirit of industrial and 
+social management that represents au fond globalism avant la lettre. Following along 
+the same path, lexicography has been preoccupied with the non-linguistic issue of 
+Standardization, to the detriment of such areas vital to language as pragmatics or 
+psychology which would afford a wider, more comprehensive perspective. The 
+reductive isolation of the term from the system of language elements and their 
+interplay on which a large part of research in the field has come to be based, has not 
+yielded commensurate results. If the failure to appraise conditions and requirements 
+for a comprehensive study of terminology is surely one reason for its limited progress, 
+another is the persistent tendency to locate the discipline and its application within a 
+rather narrow range of relatively uncomplicated “hard” subjects in science and 
+technology, medicine, or - more recently - the vast field of law and administration 
+which seems destined to remain impervious to all attempts at effective management, 
+at least as far as the aspect of international standardization is concerned. But what 
+about “soft” fields of interest as e.g. Nina Puuronen’s “concepts of action” (Puuronen 
+1997)? And is not the area of subjective beliefs and judgements as essential to social 
+cohesion and the functioning of the body politic as the objective processing of 
+unambiguous statements of fact is to efficient economic performance? 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+4
+1.3 
+To argue that it is the abstract nature of “soft” concepts that scares potential research 
+away, is to acknowledge but a small part of the truth, for abstraction, besides being a 
+necessary precondition for any systematic assessment of reality, lies at the root of all 
+work related to the physical world as well, in the form of ordering notions like weights, 
+measurements and general descriptions as in fact postulated by Wüster. A 
+fundamental impediment to terminological work in the “soft” portion of experience lies 
+in the fact that, in contrast to departments of the material world, it is not informed by 
+absolute and immutable truths to which the terminologist can refer. Lacking those, 
+standards necessarily become flexible, adapting to changing historical circumstances: 
+the very hotbed of ambiguity. The resulting question is, Does this mean we must 
+abandon all hope of including “soft” knowledge fields in the purview of terminology? 
+Alternatively, can our concept term be modified to fit both, “hard” and “soft” 
+knowledge? Or should we give up the struggle altogether, conceding that Wüster’s 
+concept of terms just does not work for a sizeable portion of human experience? The 
+answer(s) will in no small measure depend on our understanding of what terms are 
+and how they come about. 
+2   Meaning and function of terms 
+2.1 
+Terminology as part of the system of languages has come to be perceived as a 
+phenomenon of the 20th century concomitant with modern civilization. That such a 
+view is hardly justified becomes apparent in a quick glance at our parent civilization of 
+Greek and Roman antiquity where, notably, a complex legal system and its 
+administrative consequences gave rise to a body of dedicated language instruments 
+that can only be described as technical terms -termini technici - satisfying all those 
+demands which we tend to place on such lexical material today as well. The very 
+word, terminus, reflects as much the concept of clarification and delimitation contained 
+in its original sense of “stake” or “cornerstone” as it suggests a continuum from the 
+physical to the immaterial realm in its application. Since the mid-14th century the word 
+turns up in the English language with the marked sense of “expression” and eventually 
+- in the 19th century - gives rise to its derivation terminology, “system of terms”, without 
+arousing any noticeable attention from leading linguists until well into the 20th century. 
+Terminology as an object of language research was from the outset considered in the 
+light of standardization, following Wüster’s elaborate schemes postulating specific 
+functions for concepts, terms, and their correspondence, as well as detailed rules for 
+their use under the aegis of contemporary international agencies. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+5
+2.2 
+The recognition that terms as a specific component of the lexicon have existed in the 
+languages of all organized societies for one or the other social function long before 
+being discovered by Wüster as a salient element of modern civilization, should direct 
+our attention to their fundamental nature and role. This has undoubtedly been one of 
+marking and differentiation - needs that languages would have even in their early 
+rudimentary state of an as yet undeveloped lexical spread. It is therefore reasonable 
+to assume that terminology in its origins was merely the habit of semantic 
+discrimination practiced on a unique ”all-purpose” lexicon as the need to do so arose 
+in certain conventional communicative situations. Morphologically such “language for 
+specific purposes” would be in no way different from “ordinary” speech, with existing 
+single words or collocations turning into “lexicalized” terms on the strength or at the 
+discretion of particular situational requirements, and losing that distinctive quality as 
+soon as the communicative situation reverted back to “normal”.1 Beside these there 
+might exist a small group of words associated with notions of taboo, referring to the 
+divine, sacred or supernatural, which were from the outset reserved exclusively for 
+such restricted use,2 their function has always been symbolic rather than indicative or 
+descriptive and hence linguistically inert. As a general observation it might in other 
+words be said that “term” denotes a context-dependent function, but not an intrinsic 
+quality, of a lexeme. 
+3   Types and their intrinsic limitations 
+3.1 
+Ad-hoc quality determined by circumstantial factors and intentions, rather than existing 
+as an independent lexical item, a term necessarily operates pro tempore as well: its 
+signifié may change from one application to the next one or evolve in the course of 
+time into something else, requiring the term to be accommodated to the new situation. 
+This is of course a natural condition of all language use, and the expectation, that 
+terminology can somehow be exempt from that general rule, would indeed be very 
+unrealistic. Yet this is precisely the aim set by Wüster and pursued at the policy level 
+ever since through ISO norms and international planning efforts. The chief tendency of 
+these efforts appears to be the creation of highly referential and unambiguous 
+                                                 
+1  
+A large number of pre-modern terms originated in this way as a special case of polysemy when 
+common lexemes like vessel, plane, thread adopted a special meaning in certain contexts or among 
+certain speakers. 
+2  
+This group represented by such items as God, the Virgin, Paradise etc. effectively includes all 
+proper names used as terms: Watt, Kelvin, Volt and a host of (old and recent) trade names: Mason, 
+jar, (to) Hoover etc. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+6
+dedicated terms that are considered unalterable under any circumstances. The facts 
+of modern life shaped by swift shifts and developments at many levels should, 
+however, caution us against such an assumption: whether created ex nihilo or though 
+an act of arbitrary selection from a number of existing alternatives, terms must be 
+expected to enjoy but a limited life-span of effective application. There are several 
+reasons to this, of which progress in the technical field itself may be the least 
+problematic one, easily overcome by coining a novel term that soon enough will 
+replace the “unemployed” previous one. A more consequential effect of this process 
+will often be the rapid passage of the new term into uncontrolled general usage where 
+it sooner or later will lose its distinctive quality in becoming “fuzzy” through 
+indiscriminate handling. Neologisms and obsolescence seem but two sides of the 
+same coin, one calling forth the other in like manner. 
+3.2 
+The type and nature of terms apparently matters only marginally in this process. The 
+demand for differentiating descriptive criteria created by the elaboration of 
+nomenclatures and thesauri is frequently met through the device of binary appellation, 
+i.e. collocations consisting of a comprehensive basic designation coupled with a 
+delimiting modifier of the type gross weight, fiberglass etc; other examples of this 
+conventional practice are found in the Linnéan classification system of botanical and 
+zoological names. What these terminologies and others modeled after them all have in 
+common, is their nominal character, combined with the increased defining potential of 
+collocation: two aspects that characterize terminologies regardless of language or field 
+of application even though they may differ in the degree of complexity depending on 
+the combinatory rules and patterns of the languages concerned and the degree of 
+abstraction which the term must convey. The recent proliferation of terms that confer a 
+definite identity to their referenda without offering descriptive markers has introduced a 
+type that is likely to be much more short-lived and at the same time more ambiguous 
+as a consequence of its semantic hermeticism: Velcro, BlackBerry or iPod can only be 
+decoded at the price of comparatively ample world knowledge and are thus 
+particularly prone to misinterpretation and hence, an early demise as effective 
+descriptors. The wide and unreserved use of such terms of the market place which 
+come and pass with the ever-accelerating seasons of economic activity, suggests that 
+the idea of stable and controlled terms in the Wüsterian sense cannot work. 
+So, what is to be done? How can Wüster’s initiative be made more fruitful? 
+ 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+7
+4   Pragmatic proposals  
+4.1 
+Eugen Wüster’s vision of a strictly controlled and minutely defined terminological 
+standard has taken shape in various ISO norms as a key element of language 
+planning. Characteristically, such planning tends to pursue its aim of being effective by 
+adopting a policy of total inclusiveness and universality of method. To proceed this 
+way, is to amass a large number of conditions that cannot be equally well met by all of 
+the various elements affected and to generate, with much cost and effort, a welter of 
+redundant or otherwise irrelevant details.3 A pragmatic approach based on criteria of 
+priority could avoid some of the least tractable features of standardization by 
+concentrating on a few carefully selected problems whose solution can be expected to 
+make a significant contribution to communication at the local as well as the global 
+level. Instead of attempting to emulate the ways and aims of science - which has little 
+need for such support - terminology, as an agent of public interest and as a locus of 
+research, could profitably apply its resources to issues of more immediately social 
+concern. One among the most pressing of those issues, the language of policy and 
+public debate is a hitherto little-explored field where terminological control is urgently 
+needed, albeit for reductive, rather than for generative, effect: contrary to their usual 
+aim of differentiating and expanding a dedicated special lexicon for expert use, 
+terminologists might direct their efforts at clarifying the language of political discourse 
+in a way that enables all citizens to take part in it effectively and responsibly. Cliché 
+terms need to be identified and analyzed, fashionable expressions exposed as the 
+meaningless gestures they are; quite generally, language must be shown to matter. 
+4.2 
+There must, in other words, be a shift of focus. Leaving behind its preoccupation with 
+prescriptive schemes, terminology should discover and accept its potential role as an 
+instrument of education and enlightenment. This shift of focus and methodology would 
+necessarily affect the perspectives of terminological research and, by implication, of 
+the entire field of linguistics which would be well served by a small dose of new 
+pragmatism. The salutary effect of global challenges on local politics may consist in an 
+unorthodox, yet logical and necessary, turn away from grand schemes and towards 
+                                                 
+3  
+As an example, here is definition ISO/DIS1087-1 (1997): (excerpt) 
+ 
+ 
+Object: anything perceivable or conceivable 
+ 
+ 
+NB Object may be material (e.g. an engine, a sheet of paper, a diamond), 
+ 
+ 
+immaterial (e.g. conversion ratio, a project plan) or imagined (e.g. a unicorn). 
+ 
+Concept: unit of knowledge created by a unique combination of characteristics. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+8
+practicable modest measures that have an immediate impact on the lives of people, 
+and terminology can be part of that process. 
+5   Conclusion 
+5.1 
+The attempt to fix, Wüster-style, the total register of specific applications of a language 
+in a prescriptive grid for total control, was a brave but illusory undertaking bound to fail 
+in the long run; and the expectation, to be able to achieve that control at the level of 
+the single lexeme, ignores basic facts of linguistic behavior. A realistic appraisal of all 
+factors involved must conclude that terms are basically words operating as restricted 
+representations of phenomena belonging to the real world; applied within specific 
+limited contexts, their effect is of a transitory nature, arising and subsiding as they play 
+their temporary role for the sole benefit of evanescent communicative situations and in 
+the company of a multitude of mutually dependent factors. To the extent that certain 
+such communicative situations are themselves part of specific controlled operations, 
+terms designed for, and used within, such context may occasionally be represented by 
+exclusively conceived, disambiguated lexemes. Yet even instances of such privileged 
+effectiveness remain subjected to the conditions of general linguistic variety and 
+change. This circumstance serves as a reminder that terminology is most effectively 
+practiced, not as a phenomenon of pure science and technology, but in the purview of 
+the social sciences. 
+5.2 
+Previous activities on behalf of terminology, both at the practical and the research 
+level, have unfortunately neglected the latter aspect to the disadvantage of either 
+approach. Planning and standardization of terms has largely bypassed the social and 
+political sciences in its choice of target areas, thus missing the chance to gain a better 
+understanding of the complexity of the task, while linguistic research has failed to  
+address its object with a sufficiently open mind so as to ask important fundamental 
+questions and to accept inconvenient answers. 
+Bibliography 
+[1] Sergey Grinev  
+“Some semiotic aspects of terminology science”, in Proceedings of 
+the 11th European Symposium on Language for Special Purposes, 
+Copenhagen 1997, vol. I, 300-307 
+[2] Nina Puuronen  
+“On describing dynamic concepts – a philosophical and 
+terminological approach”, in Multilingualism in Specialist 
+Communication, Vienna 1995, vol. 2, 1093-1120 
+[3] Viktor Smith 
+“Polysemy in Terminology”, in Proceedings of the 11th European 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+9
+Symposium on Language for Special Purposes, Copenhagen 1997, 
+vol. I, 408-419 
+[4] H.J. Swann  
+French Terminologies in the Making, New York 1918 
+[5] Eugen Wüster  
+Internationale Sprachnormung in der Technik, besonders in der 
+Elektrotechnik.[1931] Bonn 1970 
+[6] Eugen Wüster  
+“Standardization of technical terms”, in Report Ref. 96/5815, 
+UNESCO, Paris 1955 
+[7] Eugen Wüster  
+"Die allgemeine Terminologielehre - ein Grenzgebiet zwischen 
+Sprachwissenschaft, Logik, Ontologie, Informatik und den 
+Sachwissenschaften“, in Linguistics 119 (1974), 61-106 
+ 
+ 
+ 
+Dr. Kurt Opitz, prof. emeritus, 
+Address: Brahmsallee 75 
+20144 Hamburg / Germany 
+tel. : +49 40 422 1970 
+fax : +49 40 422 2366 
+ 
+ 
+ 
+ 

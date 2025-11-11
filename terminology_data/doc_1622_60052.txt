@@ -1,0 +1,198 @@
+SOURCE: http://www.eleto.gr/download/Conferences/ELETO-EAFT_Conference_2013-11-07/ELETO-EAFT-Symposium-2013_AnnaAnastasiadis-Symeonidis-Abstract_EN.pdf
+
+EAFT–ELETO Symposium 
+“National Languages and Terminology  
+in Higher Education, Science & Technology” 
+Athens, Greece, 7 November 2013 
+ 
+ 
+The contribution of the Greek language  
+to the formation of international scientific terminology 
+Anna Anastassiadis-Symionidis 
+ansym@lit.auth.gr 
+ 
+We first examine what is considered to be Greek. That is to say we refer to the various 
+situations of borrowing Greek by European languages, and pay particular attention to lexical 
+units (l.u.) that the European languages have borrowed from Greek whether directly (direct 
+borrowing from Greek) or through Latin (direct borrowing from Latin), as well as the l.u. that 
+European languages have constructed using elements from AG. Next we follow this by 
+focusing on the fact that borrowing mainly concerns academic and scientific lexis/terms as 
+opposed to everyday, general lexis. The third part of our work examines the types of 
+influences undergone by European languages through adoption from AG, whether an 
+influence be in the form of AG combining forms, prefixes, suffixes e.g. ΑG μικρο- > micro- (≠ 
+macro-, méga(lo)-), ἀντι- > anti-, -ικός > -ic, or formed from the use of Term Formation Rules. 
+Finally we pose the question of why destiny has reserved such a destination for the Greek 
+language. 
+In 1957, in his role of Greek representative, Xenofon Zolotas made a speech to the IMF 
+which tweaked international interest because, while his text was in English, the terms in it all 
+came from Greek.  
+During the Renaissance, French, English and German scholars, in order to cope with the 
+demands made on them by the increasing number of new concepts, turned to the methods 
+used by the Greeks to increase their vocabulary. These scholars were Hellenists or were 
+advised by Hellenists. Thus, onto the European languages were grafted not only new AG 
+elements but also new Term Formation Rules that copied those of AG, e.g. ballistics/French 
+balistique ‘βαλλιστική’ < ΑG βάλλω. 
+ 
+I) 
+We will consider of Greek origin any word or element that occurs as a result of 
+transcription using the Latin alphabet, e.g. M I K P O B I O – M I C R O B E. Three cases 
+can be included here: a) the emergence of new l.u. with AG elements, b) the emergence 
+of new l.u. with indigenous elements whose construction is due to borrowing from AG 
+(loan translations), e.g. χειρό-γραφον > manu-script, and c) emergence caused by 
+borrowing of new meanings further to an existing l.u. We will deal with only the first case, 
+wherein we distinguish three sub-cases: 
+A) A European language borrows directly from AG (direct loans from AG), e.gs French 
+of the 16th century borrowed misogyne from AG μισογύνης, in the 18th century, the noun 
+ἐγκέφαλος took the form encéphale etc. 
+2 
+ 
+B) A European language borrows an item from Latin that had been borrowed from the 
+AG, e.g. the French. bulbe ‘bulb’ comes from the Latin bulbus, which comes from the AG 
+βολβός (direct loans from Latin). 
+C) A European language constructs a word using elements borrowed from AG, e.g 
+French coins the word microbe ‘μικρόβιο’ by borrowing from AG the elements μικρός, 
+βίος. 
+Given the AG items appear in similar forms and with the same meaning in many 
+languages, they belong to the category of internationalisms from an etymological point of 
+view, e.g telephone. In terms of teaching and psycholinguistics, they belong to the 
+category of cognates (cross-linguistic homotypes) that can be used as a key strategy in 
+facilitating the understanding of scientific text and the teaching of scientific discourse and 
+terminology. 
+II) In thematic terms, the type of word in the AG that is subject to borrowing belongs to 
+academic and scientific vocabulary, i.e. it has to do with terms. The names of the 
+sciences are stated in terms borrowed from AG, e.gs archeology, economics, psychology, 
+but also generally the terminology of a science is based on terms borrowed from AG, e.gs 
+basic terms of medicine, e.gs symptoms, diagnosis, therapy; branches of medicine, e.gs 
+hematology, anatomy, gynecology; names of diseases, e.g. asthma; symptoms, e.g. 
+paralysis; treatment, e.g. chemotherapy. Other disciplines: mathematics, geometry, 
+trigonometry, e.gs arithmetic, centre, diameter, symmetry, theorem, scheme, semitone, 
+logarithm, as well as geometric shapes: circle, ellipse, hexagon; physics, e.gs microcosm, 
+macrocosm, atmosphere; astronomy, e.gs chaos , planet, comet; biology, e.gs embryo, 
+enzyme; 
+geography, 
+e.gs 
+horizon, 
+ocean; 
+geology, 
+e.gs 
+epicentre, 
+petro-; 
+philosophy/logic, e.gs axiomatic, dialectic, dialogue, dilemma; literature, e.gs gramma, 
+dialect, dissyllabic, diphthong; rhetoric, e.gs. epic, poetry, metaphor, metonymy; sports, 
+e.gs Olympics, athlete, gymnastics, pentathlon, stadium; theatre, e.gs dialogue, drama, 
+comedy, protagonist, scene, tragedy, choreography; art, e.gs muses museum, aesthetics; 
+music, e.gs harmony, guitar, melody, pentagram, prosody, rhythm; painting, e.g. icon; 
+psychology, e.gs (internal) dialogue, ecstasy; human character, defects and divergences, 
+e.gs ironic, irony, cynical, cynicism, hypocrite, hypocrisy, melancholy; mythical heroes 
+and great men (generals, philosophers, scientists) whose names are connected with 
+salient attributes, e.gs narcissus (narcissism), chimera, Ariadne's thread, Pillars of 
+Hercules, Euclidean geometry, draconian measures, Oedipus complex, platonic love; 
+Christian faith and institutions, theology, e.gs Christ, angel, heresy, apocalypse, apostolic, 
+baptize, demon, devil, cemetery, liturgy, martyr, prophet, psalm. 
+III) Borrowings, however, are not limited to terms whether they be monosyllabic or 
+polysyllabic, but involve borrowing sub-word units of the types:  
+A) Roots that result in semantic-etymological pairings with another word in Indo-European 
+level, e.g. the AG term κύκλος becomes circle/ Fr. cercle, but coexists with the combining 
+form cycl(o)-, i.e. in hemicycle/hémicycle, cyclotron.  
+B) Prefixes, e.g. AG ἀντι-> anti- e.g. antiatomique, and suffixes , e.g. AG -ειδής Æ -oid, 
+e.g. ellipsoid ‘ελλειψοειδής’. 
+3 
+ 
+C) Rules, (i) e.g. compound words retain the AG order. For example, based on AE 
+γεωγραφία > geography/Fr. géographie, photographie (> MG φωτογραφία) is made up in 
+French of the words φῶς, γραφὴ as well as (ii) the stem vowel -o-, e.g.  webometrics.  
+In our opinion, borrowing of this type is more important than terminological borrowing, 
+because it is both more dynamic and also in this way the Greek language influences the 
+system for building terms in the recipient language, which in parallel with the rules at its 
+disposal also adopts the mechanism of construction of terms in AG, namely, the AG Term 
+Formation Rules in order to name new concepts that were unknown to the Greeks. 
+European languages contain many prefixes of AG origin, e.gs. a-/an- , anti-, arch-, dys-, 
+epi-, meta-, para-, peri-, pre-, syn-/sym-, hypo-, hyper-, etc., and many suffixes of AG 
+origin, e.gs. -ic, -ism, the medical suffix -itis ‘inflammation’, e.g. arthritis, -oma, 
+‘tumour/swelling’, e.g. melanoma, hematoma, in chemistry, -on ‘noble gases’, e.gs. argon, 
+krypton, in physics, -on, ‘elementary particle’, e.gs hadron, baryon, in linguistics, -ema 
+‘unit of the abstract level of language’, e.g. phoneme, morpheme. 
+IV) We put forward 2 kinds of reasons to explain why AG has played this role. 
+A) Linguistic reasons. AG has a rich vocabulary, because its speakers intensively 
+cultivated it in all its sources (sciences, arts, etc.). During the Renaissance and in 
+subsequent centuries AG was richer than the European languages, which had started 
+independent life just a few centuries before although there are other rich languages 
+nowadays. Also, Greek had the capability of being able to coin many words through 
+derivation and compounding, i.e. through procedures which enable the combination of 
+elements into a new whole. In particular, it has many such items, over 100 counted only 
+combining forms, prefixes and suffixes, i.e. basic building blocks such as ἀντι- > anti-, 
+μετα- > meta-, -ικός > -ic. However, Greek is not the only European language that has 
+such elements. 
+B) Extralinguistic reasons. Greek was spoken by people who explored the world 
+surrounding them and mankind in body and soul, striving not only to observe 
+systematically in order to describe but to interpret phenomena, substance and structure of 
+things, leaving aside the old beliefs and legends. They tried to understand and interpret 
+the world in a scientific way through passionately researching the truth and by reducing 
+the specific and the variable to the abstract and generalising, using a standard/model. As 
+Professor and Member of the Academy Theodosis Tassios has maintained in his rich 
+work (EMAET http://kotsanas.gr/gr/index_ekthemata.html), they developed technology 
+that was advanced for that time on the one hand as a result of applying the theoretical 
+knowledge they had gained and on the other, being in absolute connection to their 
+everyday lives, which were facilitated by the various technological innovations. 
+Summarizing, we can say that Greece gave to the West what is now referred to as the 
+Latin alphabet and to the East during the Christianization of the Slavs, the Cyrillic 
+alphabet. She founded almost all sciences and by extension European culture, and 
+highlighted the humanitarian attitude. From the time of the Renaissance, in particular, she 
+laid the spiritual foundations of Europe, and the Greek culture was again the driving force 
+in the evolution of Europe. This resulted in the catalytic linguistic contribution of the Greek 
+language to European languages through classical Greco-Roman teachings. This effect is 
+complemented by the influence of Christianity, where again the Greek language, as the 
+4 
+ 
+original language of the Gospels and the Acts of the Apostles, influenced European 
+languages. 
+In such a way was constructed as a result of conceptual explosion, a stock of words 
+needed in all sciences, or what is today called academic vocabulary. The Europeans 
+borrowed the tools of thought which the Greeks invented alongside the words that 
+expressed them. Thus was born metrology and the names of measuring instruments such 
+as 
+barometer, 
+thermometer, 
+chronometer, 
+and 
+the 
+names 
+of 
+observational 
+instrumentation, e.g. microscope, periscope, telescope. Hence arose the need to create 
+classification categories. The Ancient Greeks broadened the role undertaken by the 
+element -ειδής < εἶδος ‘species, kind, article’. This element is semantically linked to the 
+concept of SEEING (past tense form εἶδ(ον) ‘saw’ that serves as the past of ὁράω ‘see’). 
+The broadened role contributes to the classification of the entities between central and 
+peripheral categories. The word εἶδος ‘species, kind, article’ constructs adjectives with the 
+meaning ‘one who resembles in form, shape, texture’. It is a transfer from ΒΛΕΠΩ ‘literally 
+see’ in the real world (more accessible) and which we perceive it through our senses 
+much better than ΕΚΤΙΜΩ ‘I estimate that something is like something else’. This transfer 
+helps evoke the world of thought (less accessible). In such a way European languages 
+borrowed in the form -oid/-oidal, Fr -oïde/-oïdal in many scientific vocabularies, such as in 
+medicine, biology, chemistry, physics, geometry, zoology, botany, mineralogy, 
+psychology, anthropology, biochemistry, e.g. γεωειδής ‘geoid’, ελικοειδής ‘helicoïdal’ (Fr.), 
+ελλειψοειδής ‘ellipsoid’, ημιτονοειδής ‘sinusoidal’, καρδιοειδής ‘cardioid’, παραβολοειδής 
+‘paraboloid/ paraboloïde’, σιγμοειδής ‘sigmoid’, σωληνοειδής ‘solenoid’, τραπεζοειδής 
+‘trapezoidal’, υπερβολοειδής ‘hyperboloidal’. 
+Although there are no longer native speakers of AG, it continues to live through scientific 
+terminology, and is an inexhaustible source for creating new terms and enriching the 
+vocabulary of Greek and European languages, a fact which contributes to the scientific 
+mutual understanding of the scientists of different countries since the cognates are used 
+in the understanding of scientific texts and facilitates the teaching of terminology and 
+generally of European languages and European culture. The borrowing of AG by 
+European languages happened at a time when these languages had limited vocabularies 
+when compared with AG and this continues to this day, while for centuries now they have 
+contained linguistic wealth, because European languages not only borrowed words but 
+also combining forms, prefixes, suffixes and above all Terms Formation Rules. 
+For this reason we bring to the forefront again our proposal for teaching to the scientific 
+world of the European Union and also at a global level those elements of Greek used in 
+academic/scientific discourse, i.e. combining forms, prefixes and suffixes, and Terms 
+Formation Rules. Doing so will allow scientists to take a first step towards understanding 
+the deeper scientific discourse in their mother tongue and also in many other languages, 
+and then in a second stage to produce accurate terminology. If this proposal is 
+implemented, terminology as a cultural option could substantially contribute to building the 
+identity of scientists and particularly the European scientific identity and the 
+democratization of knowledge. 
+AG = Ancient Greek. 
+l.u. = lexical unit. 

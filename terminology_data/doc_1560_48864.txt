@@ -1,0 +1,211 @@
+SOURCE: http://www.eleto.gr/download/Conferences/4th%20Conference/4th_19-44-RoxanaCurca-AlexianuMarius.pdf
+
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+1 
+UN PROJET NECESSAIRE: DICTIONNAIRE DES MOTS GRECS UNIVERSELS 
+ 
+Marius Alexianu, Roxana Curcă 
+ 
+ 
+SOMMAIRE 
+Les auteurs présentent le projet d'un dictionnaire qui comprend en dernier instance le fond principal de mots 
+de la koine terminologique grecque actuelle. Le dictionnaire aura trois sections:  prefixes, suffixes et mots de 
+base. Le critère de la sélection des mots grecs est leur présence dans les principales langues à diffusion 
+internationale et la haute fréquence de leur utilisation. 
+ 
+ 
+ 
+La plupart des langues de l'Europe où d'origine européenne présentent un nombre 
+considérable de lexèmes d'origine grecque appartenant à divers domaines. On peut distinguer,  
+d'une part, une série de mots grecs à circulation générale et, d'autre part, une série qui englobe 
+la terminologie scientifique, mais dont une partie est entrée dans le language courrant . Pour 
+faciliter la compréhension rapide et nuancée de ces mots par le grand public et par les 
+spécialistes de divers domaines, nous considérons que la réalisation d'un dictionnaire des mots 
+grecs universels serait d'une grande utilité. Les versions que nous préparons en anglais et en 
+français contribueront à faciliter l'intercommunication entre diverses entités linguistiques de 
+l'Europe et d'ailleurs sur une base lexicale commune. 
+On préconnise que le dictionnaire ait une première section dédiée aux préfixes, une 
+deuxième aux suffixes et  une autre dédiée aux mots de base. En ce qui concerne la forme de 
+présentation de ce dictionnaire, chaque mot sera écrit et ordonné d'après l'alphabet grec, étant 
+suivi par la translittération en alphabet latin et puis par l'indication du sens original / des sens 
+originaux du mot respectif. Nous tenons à spécifier que dans ce dictionnaire seront inclus, à côté 
+de mots simples, les mots composés sur le terrain du grec ancien. Par exemple, dans le 
+dictionnaire on trouvera: 
+- 
+les mots φίλος et  σοφία , mais aussi le mot φιλοσοφία;  
+- 
+κλέπτειν et ύδωρ mais aussi κλεψύδρα;  
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+2 
+- 
+βιβλίον et γραφή mais aussi βιβλιογραφία, dont le sens originel  'transcription de 
+livres '  est sans doute surprenant pour le lecteur contemporain. 
+- 
+εις et  οδός mais aussi είσοδος. 
+Pour montrer le degré de l'influence d'un mot ou d'un autre, mais aussi des préfixes et des 
+suffixes, chaque lexème est suivi par une sélection des mots de la langue réceptrice. On 
+observera qu’il y a des mots “de succès” qui ont contribué à la formation de beaucoup de 
+composés, mais aussi d’autres moins ou très peu fréquents dans des composants mais qui 
+néannoins sont très connus. Conscients du fait que les connaisseurs du grec ancien constituent 
+un nombre très restreint, avant le dictionnaire proprement - dit on publiera l'alphabet grec avec 
+les minuscules et les majuscules; celui – ci  comprendra aussi les lettres correspondantes en 
+latin, les dénominations des lettres de l'alphabet grec en lettres grecques et en lettres latines et 
+les équivalences phonétiques des lettres grecques dans certains contextes graphiques.    
+Pour chaque mot flexible on donnera les caractéristiques de base de la flexion; en ce 
+qui concerne les substantifs, on précisera le genre et on donnera la forme de genitif, car celle - 
+ci explique dans certains cas les transformations ultérieures (d'ordre phonétique et 
+morphologique) dans les langues réceptrices. Quant aux adjectifs, on précisera le type à lequel 
+ils appartiennent, qui résulte implicitement de l'énumeration des formes de base.  
+Dans diverses cultures on a publié des dictionnaires étymologiques qui présentent, y 
+compris l'origine grecque d'un mot ou d'un autre. Mais pour la plupart des lecteurs qui veulent 
+savoir l'origine de beaucoup de mots de leur propre langue, il en résulte une connaissance 
+minée par fragmentarisme, par empirisme. Par contre, un dictionnaire qui se propose de 
+recueillir les principaux lexèmes d'origine grecque existant en plusieurs langues peut offrir un 
+image (quasi - ) intégrale sur l'influence lexicale du grec (surtout ancien) dans les domaines les 
+plus variés de l'activité humaine. Ce dictionnaire ne se propose pas cependant de s'adresser à 
+un public d'initiés, au nombre si restreint des connaisseurs du grec ancien, mais à tous les 
+lecteurs à divers degrés d'education, de culture, aux spécialistes de tous les domaines.  
+En ce qui concerne sa diffusion, le grec n'a eu – il est vrai -  ni le destin du latin qui par 
+les langues romanes s'est assuré une extension appréciable, ni le destin du germanique qui par 
+l'anglais est parlé aujourd’hui presque partout.  Mais si le grec ne s'est pas imposé en tant que 
+langue, tel que le latin ou le germanique, cette langue,  la première langue indo-européenne 
+écrite de l'Europe, a survécu d'une manière impressionante au niveau lexical. Certes, les 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+3 
+linguistes ont raison quand ils affirment que toutes les langues sont égales, mais si l' on faisait 
+un classement des langues en tant que fournisseurs de lexèmes -clé, le grec occuperait sans 
+doute la première place. 
+Ce processus de diffusion de la terminologie grecque à grande échelle a commencé à 
+partir des premiers contacts des Grecs avec les latinophones et s'est manifesté aussi bien au 
+niveau oral et populaire qu'au niveau écrit et littéraire en sens général; un nombre appréciable 
+de grécismes a survécu dans les langues romanes. Même à partir de cette période des contacts 
+entre le grec et le latin on a constaté que la plupart de la terminologie des disciplines 
+scientifiques et techniques du latin est d'origine grecque. Plus tard, durant la phase koine, le 
+grec chrétien a influencé profondement le latin. 
+Les langues européennes à large circulation ont connu un fort afflux de mots grecs 
+avec la Renaissance. Ce processus continue aujourd'hui dans l'ère scientifique à un degré 
+d'intensité jamais rencontré, si bien que l'on peut affirmer que, sous l'aspect lexical, le grec est la 
+langue de la science.  
+Les mots grecs des principales langues modernes ont donc une triple provenance:  
+1. 
+par l'intermèdiaire du latin, donc indirectement; 
+2. 
+directement, des oeuvres grecques; 
+3. 
+directement, des dictionnaires du grec ancien, car les termes scientifiques ont été 
+et sont formés par de combinaisons inédites entre les termes connus. 
+Il faut expliquer ce que nous comprenons par le terme "universel". Pour les réalisateurs 
+de ce dictionnaire, "universel" signifie la présence d'un mot d'origine grecque aussi dans les 
+langues néolatines que dans la langue germanique la plus diffusée: l'anglais. 
+ 
+"Universel" signifie aussi que le mot respectif jouit d'une diffusion presque généralisée 
+en anglais et dans les langues néolatines et n'appartient donc au language spécialisé d'une 
+certaine discipline ou science ( notre dictionnaire  ne se confond pas avec un dictionnaire 
+explicatif - étymologique d'une discipline / science).  
+"Universel" signifie en plus que le mot respectif se remarque par une fréquence très 
+haute de son utilisation, dans les milieux sociaux les plus divers.     
+"Universel" signifie aussi qu'un mot grec, qui s’est imposé par le prestige de l'anglais ou 
+d'une langue néo - latine (surtout le français), est assimilé dans plusieurs langues n'appartenant 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+4 
+pas à ces deux grandes familles de langues. Dans certains cas, le schéma de la réception d'un 
+mot grec est assez compliqué: il y a une première langue de réception (le latin), une deuxième 
+(l'anglais, le français) et un troisième, un quatrième, etc. Il est ,d'autant plus, nécessaire le retour 
+aux origines.   
+Si l'on accepte l'idée que même l'universalité présente des degrés, alors nous 
+considérons qu'ils faut reconnaître que les préfixes et les suffixes grecs sont les plus universels 
+parce qu'ils peuvent s'ajouter non seulement aux mots grecs, mais aussi aux mots appartenant 
+à n'importe quelle langue (intégration préfixale et suffixale). 
+En guise de conclusion, ce “Dictionnaire des mots grecs universels” sera un 
+dictionnaire du fond principal de mots de l’actuelle koine terminologique grecque qui a atteint 
+aujourd’hui une diffusion si grande, qu’il est complètement justifié de parler de la globalisation du 
+vocabulaire grec. 
+La réalisation de cette idée qui, selon notre connaissance, est originale, permetra à 
+tous les lecteurs intéressés, surtout à ceux qui ne connaissent pas de tout le grec ancien, une 
+orientation rapide dans la constellation si vaste de la terminologie générale et spécialisée 
+d’origine grecque incorporée dans les langues contemporaines à circulation internationale les 
+plus importantes. Ce dictionnaire procède à l’inverse des dictionnaires étymologiques des 
+langues modernes et de cette manière celui – ci offrira une image cohérente et holistique de 
+l’extraordinaire influence lexicale grecque sur le savoir moderne et contemporain. 
+Voilà une page de notre dictionnaire: 
+αθλητής, -ού (¦) / athletes, -ou   
+ 
+lutteur, athlète 
+athlète 
+αιθήρ, -έρος (¦ / £) aither, -eros 
+ 
+ 
+éther 
+éther 
+αίμα, -ματος (το) /  haima, -matos  
+ 
+ 
+sang 
+anémie, hématie, hématologie, hématologue, hématome, hématurie, hémophile, hémoptysie, 
+hémorragie, hémorroide, hémostatique  
+αίνιγμα, -ματος (tó) / ainigma, -matos   
+parole équivoque, enigme 
+enigme 
+αίρεσις -εως (£) / hairesis, -eos  
+ 
+secte religieuse, héresie 
+hérétique, héresie 
+ΕΛΕΤΟ – 4ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 30, 31 Οκτωβρίου και 1 Νοεμβρίου 2003 
+ 
+5 
+αιτία, -ας (£) / aitia, -as 
+ 
+ 
+ 
+cause 
+étiologie, étiopathie 
+αίσθησις, -εως (£) / aisthesis, -eos  
+ 
+ 
+perception, sensation 
+anesthésie, kinesthésie, esthétique, esthésie, synesthésie 
+Ακαδημία, -ας  / Akademia, -as 
+ 
+ 
+jardin d'Akadèmos, Académie 
+académie 
+ακμή, -ής (£) / akme, -es  
+ 
+pointe, le plus haut point de puissance, de force  
+akmé 
+ακόλουθος, -ον / akolouthos, -on   
+ 
+compagnon, serviteur 
+acolyte 
+ακουστικός, -ή, -όν / akoustikos, -e, -on   
+qui concerne l'ouie 
+acousticien, acoustique 
+ακρόπολις, -εως (£) / akropolis, -eos 
+ 
+ 
+la ville haute, l'Acropole 
+acropole 
+άκρος, -α, -ον / akros, -a, -on   
+ 
+extrême, le plus haut 
+acrobat, acrocéphalie, acrocyanose, acrodynie, acromégalie, acrostiche 
+ 
+Roxana Curcã 
+Preparatrice mast. langues classiques, Universite "AL. I. Cuza", Iasi, Roumanie, 
+tel. 0040232201615,  Fax: 0040232201156,  
+e-mail: Gabriela_C23@k.ro     
+Adresse postale: Bd. Independentei nr. 2, Bl. Carmen, et. 4, ap. 16, 6600, Iasi, Romania  
+ 
+Marius Alexianu 
+e-mail:  malex@uaic.ro 
+ 
+ 

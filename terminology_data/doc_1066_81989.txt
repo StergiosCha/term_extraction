@@ -1,0 +1,680 @@
+SOURCE: http://www.eleto.gr/download/Conferences/11th%20Conference/Presentations/11th_30_KaterinakisPapadopoulos_Parousiasi.pdf
+
+The Sounds of Silence Inform Situation Awareness Concepts: Methodological and 
+Terminological Aspects in Aviation Culture and the work of OMEODEK in the 
+Context of Greek and English  
+6th Session: Activities of organizations and bodies  for Terminology –  The Hellenic Network 
+for Terminology (EDO) 
+και η Ομάδα Εργασίας Ορολογίας Διαχείρισης Εναέριας Κυκλοφορίας (ΟΜΕΟΔΕΚ)  
+Θεόδωρος Κατερινάκης, MSc, PhD 
+Drexel On-line Learning Council, 
+Drexel University, 3141 Chestnut St., Philadelphia, 
+ PA 19104, USA,  
+e-mail: tkaterinakis@gmail.com 
+Νίκος Παπαδόπουλος, ΜΔΕ, ΠΕ2/ΕΕΚ  -ΥΠΑ  
+Διευθυντής υπηρεσιών ΕΚ Περιφερειακών 
+Αερολιμένων (ΥΠΑ/Δ18), Συντονιστής ΟΜΕΟΔΕΚ 
+Κτίριο ΚΕΠΑΘ Κτίριο 213 - Πρώην Αμερικανική Βάση 
+Ελληνικού – Τ.Κ. 16777,  
+Αρ. Tηλ: +210 997 3226,  e-mail: nikosatc@yahoo.gr   
+Eleto_tk_np_dz_201
+3
+Grounded Theory Approaches in Research 
+Inquiry: Language in Aviation and 
+Communication to Information Science 
+2 
+The book “The Discovery of Grounded Theory: Strategies for Qualitative Research” (Glaser & 
+Strauss, 1967), as a theory generator for sociological interactions 
+ANSELM L. STRAUSS 
+Barney Glaser 
+..and continues 
+systematic process of gathering and 
+analyzing data  
+“Grounded” Structure 
+• GT steps, evaluation/critique 
+• Examples…(interdisciplinary in  many ways: trust, 
+leadership, marketing, HCI and CSSW) 
+• Keywords to keep 
+• My Application/implementation 
+• The dissertation study with HCAA 
+• Sources/resources 
+ 
+T. Katerinakis, Drexel University 
+3 
+Grounded Theory Paradigm (Glaser & Strauss, 1967)  
+• Compatible with a qualitative research practice 
+and quite important in the study of processes 
+and in organizational studies particularly.  
+• “Grounded,” means that it is following a strategy 
+of bottom-up theory building on discourse 
+issues rather, than a top-down approach 
+dominant in other discourse theoretical 
+perspectives (Strauss, 1998).  
+• GT choices depend on what works better for the 
+data and the participants of the study 
+T. Katerinakis, Drexel University 
+4 
+• Grounded Theory Methods (GTM) are a set of thought 
+processes and procedures for qualitative data analysis that 
+can help a researcher pursue a highly disciplined  
+exploration of a new area, or of a domain without a 
+dominant theory. The thought-processes and procedures 
+are focused on the data, and always return to the data – i.e., 
+the “grounding” in GTM is grounding in the data. 
+• In GTM, there is no hypothesis to be tested.  
+•Rather, research is guided by open-ended questions, and 
+by a set of rigorous strategies that guide data collection, the 
+choice of which data to sample, and the method for 
+developing and testing insights into the data. The result is a 
+rich, deeply interwoven description of the phenomena, 
+and a set of new open-ended questions for further work. 
+Grounded Theory Method in HCI and CSCW 
+  
+Muller, M. J. & Kogan, S. (2010). Grounded Theory Method in HCI and CSCW". IBM Watson Research in 
+Cambridge. Report: 10-09. 
+T. Katerinakis, Drexel University 
+5 
+A GT Research Process vs a Conventional One that 
+may work together 
+T. Katerinakis, Drexel University 
+6 
+Conventional research process (after coding or initial theory development using the 
+data, a GT approach may lead to the conventional steps of a research question- 
+oriented research on the left). This is a complementarity attribute of a GT approach 
+that makes it applicable for diverse research “problem-oriented” methods. 
+T. Katerinakis, Drexel University 
+7 
+Bottom-up approach leads to “construction with theoretical sensitivity” 
+Why Grounded Theory 
+Personal 
+Preconceptions 
+Scenarios 
+The research Topic: Aviation Safety  
+Coding 
+Deep- Interview Scenarios, Transcripts, Accident reports,  Participant 
+Observation on site visits etc. 
+Iterations  
+for data, 
+comparisons, 
+coding 
+Sorting/Comparing 
+The process of a GT approach applied in this exploratory study 
+12 
+I use a GT approach with… 
+ Selective parts from  the Glaser’s stream and 
+the Strauss’s stream, as they evolved in: 
+• coding (Charmaz, 2006; 2009; Grover et al, 
+2014; Jantunen & Gause, 2014),  
+• theory construction and comparisons (Corbin 
+& Strauss, 1990; Glaser, 1992; Christiansen, 
+2011; Kelle, 2005; Ritchie & Lewis; 2004),  
+• evaluation (Wagner et al, 2010; Suddaby, 2006; 
+Robson, 2002; Guba & Lincoln, 1994) and  
+• iterative sorting and analysis (Muller, 2014; 
+Muller & Kogan, 2010; Reichertz, 2007; Locke, 
+2001). 
+T. Katerinakis, Drexel University 
+9 
+A GT Approach as Qualitative Research 
+• Analyzes words, language, and their 
+implied meanings (Miles & Huberman, 
+1994). Extended empirical data are treated 
+as texts with multiple meanings.  
+• Data collection acquires theoretical 
+significance with the selection of additional 
+data (events, testimonies, visual 
+productions, activities, experts, etc.) to 
+exposit all properties of the developing 
+conceptual categories and develop them 
+further (Locke, 1996, p. 240).  
+ 
+T. Katerinakis, Drexel University 
+10 
+A GT Concept and Pattern 
+Ground Theory is based in the study of a Concept 
+and the identification of a pattern: 
+• The concept of the study: Aviation Safety (as a 
+result and) in terms of human communication 
+(crew and ATC). Speech acts in the context of 
+airline cockpits 
+• Secondary concept: The Constraint Reality of 
+time (as a type of affordances) during Flight 
+Crisis 
+• The pattern: Human Communicative behavior, 
+choices and practices in routine flights and in 
+mission critical cases.  
+T. Katerinakis, Drexel University 
+11 
+Data gathering, Categorizing and Analyzing  
+• personal experiences and preconceptions;  
+• ethnographic field visits to airports, air bases, control 
+towers and aviation authorities; 
+• case studies of landmark flights;  
+• interviews with aviation professionals;  
+• life stories in biographical books and oral narratives;  
+• artifacts, cultural texts and productions via a special 
+drama series on fighter pilots;  
+• observational, historical, interactional and visual texts, in 
+documentaries and media interviews. 
+• protocol analysis lessons to facilitate the acquisition of 
+insights and 
+• discourse analysis practices with close reading for the 
+theory construction, sorting and comparisons. 
+T. Katerinakis, Drexel University 
+12 
+Keywords/Expressions in Mind for GT 
+• Personal preconceptions 
+• Selecting sources 
+• Empirical reality 
+• Coding- sorting 
+• Compare-and-question 
+• Dimensionalization 
+• Core concepts, core category 
+• Coding paradigm 
+• Oral documents; historicity, materiality 
+• Chief Concern of the people in the domain 
+• Emergent Theoretical model 
+ 
+T. Katerinakis, Drexel University 
+13 
+T. Katerinakis, Drexel University 
+14 
+Aviate, Navigate, Communicate: Silence, Voice and 
+Situation Awareness in Aviation Safety 
+Theodoros A. Katerinakis, Doctoral with HCAA, as of December 2014 and on   
+T. Katerinakis, Drexel University 
+15 
+An Actual Cockpit  
+in a flight from A to B, … 
+after taxiing 
+Tenerife Accident, 1977 while taxiing 
+Pilot Controller Communication loop 
+ 
+ 
+Shannon & Weaver typical model with Weiner's 
+concepts 
+The Discursive Space of a cockpit 
+• Speak- act: "spoken not yet heard; heard 
+not yet understood; understood not yet 
+agreed; agreed not yet applied; and 
+applied not yet always applied."  
+• Talk and, as emerged, silence too is 
+inseparable from the task, as necessary to 
+develop understanding of the flight 
+situation 
+• Understanding goes beyond receiving and 
+perceiving to situation awareness 
+T. Katerinakis, Drexel University 
+17 
+persons’s perception of elements in the 
+environment  within a volume of time and 
+space 
+the comprehension of their 
+meaning 
+the projection of their status in the near future 
+Increasing time, command span, area of interest, etc 
+Transitory Awareness 
+Local Awareness 
+Global Awareness 
+Situation Awareness Breakdown as a Concept 
+(b) Actors with common  interest, the same high-level task, but different data inputs and degrees of 3 types of awareness  
+(a) A single individual viewpoint – implicit in 
+the original Endsley’s definition 
+Situation Awareness Model in Human Factors 
+T. Katerinakis, Drexel University 
+20 
+Guiding Research Questions 
+ 
+1. How do pilots and air traffic controllers talk, interact, and 
+outeract with orderliness? 
+ 
+2. How are procedural deviations and speech acts recognized? 
+ 
+3. How is specialized language used as an algorithm? Is it a 
+private language? 
+ 
+4. How do air traffic controllers perform an orderly organization 
+of conversation repair when encountering symptoms of 
+miscommunication and phraseology defects? 
+ 
+5. How do interactants negotiate affordances of time and 
+language during an evolving crisis?  
+ 
+6. What differentiates the interaction of a military flight session 
+from a civil aviation one? 
+Coding to Construct Theory 
+T. Katerinakis, Drexel University 
+22 
+Qantas. Flight Safety Magazine, compiled by Capt. A. Poulsen and Dr. G. Edkins, Issue 4, Summer 2002. 
+http://www.skybrary.aero/index.php/Sterile_Flight_Deck_%28OGHFA_BN%29 
+Silence is not always Golden; Voice maybe the Choice 
+23 
+T. Katerinakis, Drexel University 
+Two Landmark Flights 
+The Shaking VIP Falcon 900 Plane 
+ 
+The Ghost Plane Helios 522 
+23 
+T. Katerinakis, Drexel University 
+24 
+The Effect of Erroneous Communication in Aviation 
+Safety 
+Errors in  
+Communication 
+Contradictory 
+ Information 
+Unreliable  
+Information 
+Insufficient 
+Information 
+Plethora but  
+too much 
+ information 
+Non- interpretive  
+information 
+Erroneous  
+Situation  
+Awareness 
+Non-desirable  
+situation  
+Accident 
+Incident 
+Controllers 
+Operators and  
+pilots 
+ICAO/FAA Phraseology,  AirSpeak English, Plain Language,   
+Paralanguage, Hesitation, Non-verbal signals, Mother tongue filter 
+Tenerife Accident on 1977 
+ 
+25 
+T. Katerinakis, Drexel University 
+T. Katerinakis, Drexel University 
+26 
+US (Airways) 1549/United Airlines Flight 1919  Flight in …the river  
+Passengers stand on the wings of the Airbus A320-214 in the Hudson 
+River in New York, on January 15, 2009. 
+T. Katerinakis, Drexel University 
+27 
+Units of Information: Transcripts Used 
+Air France Flight AF 447  
+Rio de Janeiro bound for Paris, 2009 
+T. Katerinakis, Drexel University 
+28 
+A renowned cockpit 
+designer at Boeing—
+himself a transport pilot—
+once said, “We don’t 
+believe there are any bad 
+pilots. We believe there 
+are average pilots who 
+have bad days.” This a 
+principle that underlies 
+Boeing’s cockpit designs 
+A crash  which killed 
+228 people 
+T. Katerinakis, Drexel University 
+29 
+Why Hellenic Aviation and Hellenic Air Force is important? 
+Grouping of Topics from in-depth interviews 
+1.
+Silence: When aircrew 
+members don’t speak-up and 
+why? 
+2.Hesitation Exists or needed? 
+3.Directness in Language 
+5. Standardization language Factor and mother 
+tongue 
+10. Redundancy and mutual verification 
+11. Listening mode (Pilot- ATC) 
+12. Forward Interpretation or “GetThereItis’, 
+(Pilot- ATC, a,b) 
+4. Professional Relationship Factor 
+6. Trust and professionalism 
+7. Instructor with Trainee in flight 
+Mode (a,b) 
+8. Communication Equipment Use 
+and Priorities (a,b) 
+9. Dual Instruction 
+17. Oral Information 
+19. Relationship and Familiarity 
+ 
+13. Superiority and authoritative 
+Mindset (Pilot Specific) 
+14. Witnessability as “Building up the 
+Picture” (controller’s Specific) 
+15. The Two challenge rule (an 
+analogy from the medical 
+profession/nuclear reactor operation) 
+16. Affordnaces and Skills 
+18. Heuristics and Experience 
+20. Air Force/Millitary Aviation 
+Doctrine (Figther Pilot specific) 
+ 
+ 
+Communication phenomena 
+The Culture of professionalism 
+Expertise, Knowledge and Decision making 
+Personal factors (or beyond Human factors) 
+Paralanguage  
+and  
+Hesitation 
+Language 
+with standard 
+phraseology, 
+checklists and 
+mother 
+tongue 
+Category: Silence 
+Category: Voice 
+Situation 
+awareness 
+as a  
+communication 
+parameter  
+ 
+The Core Concept: Aviation Safety  
+T. Katerinakis, Drexel University 
+32 
+Issues Explored 
+1.
+One set of problems involves issues of reference, repetition, 
+ambiguity, sequence breaking, and such.  
+ 
+2.
+A second set of problems concerns the implementation of 
+SOPs/RoE, with the language factor.  
+ 
+3.
+Although, there are highly detailed SOPs, what counts as 
+following them in a crisis situation is not always clear, and 
+sometimes not to be followed at all.  
+ 
+4.
+All of these problems need to be negotiated in time-critical 
+situations, with conversation interaction. 
+ 
+5.
+Also, in the process, it will be examined how inner and outer 
+identities and culture are sustained in crisis conversation where 
+trust is a requirement and safety non-negotiable. 
+Systems Theory (in the Cockpit, Actor- Network theory, rules, team culture, a holon 
+Checkland, 1981; Ostrom, 1997; Bertanlaffy, 1956; Leydesdorff ,2014; Suchman, 2006)  
+ 
+ 
+ 
+Literature Review (…after GT introduction) 
+Human Factors 
+(Human actors, liveware, safety culture, just culture, crew 
+resource management, situation awareness, 
+multitasking inside the cockpit, the view on human errorand 
+correction), accident investigation)  
+Edesley, 2001; Loukopoulos et al., 2001; Dekker, 2012;2005 
+Levenson, 2005 
+Discourse Analysis  
+With few lessons from Conversation 
+Analysis  and Applied linguistics 
+(conversation in critical environments, 
+roles and cockpit identities, affordances of 
+time and limits of language and 
+awareness, reading transcripts for 
+important phenomena) Nevile, 2004; 
+Hutchby, 2001; Barshi, 1997, Paltridge,  
+2006)_ 
+ 
+T. Katerinakis, Drexel University 
+33 
+Methods 
+•
+Discourse Analysis to read raw data (close reading to unpack 
+meanings) 
+•
+In-depth interviews discussions with pilots (civil- military), 
+controllers, accident investigators using selected scenarios to 
+comment and re-enact events 
+•
+Protocol Analysis concepts to prepare the informants on talk-aloud 
+conversation 
+•
+Participant observation (extensive) in real work and military 
+operations environments 
+•
+Grounded theory for core categories, concepts, selection of data 
+collection 
+ 
+T. Katerinakis, Drexel University 
+34 
+T. Katerinakis, Drexel University 
+Sample and with Key Informants 
+35 
+When Silence is not Golden (Scenario-1/4) 
+• Several accidents have shown that crew members’ 
+failure to speak up can have devastating consequences. 
+Despite decades of crew resource management (CRM) 
+training, this problem persists and still poses a risk to 
+flight safety. To resolve this issue, we need to better 
+understand why crew members choose silence over 
+speaking up.  
+• Exploring past speaking up behavior and the reasons 
+for silence in 1,751 crew members from a European 
+airline, who reported to have remained silent in half of 
+all speaking up episodes they had experienced. Silence 
+was highest for first officers and pursers, followed by 
+flight attendants, and lowest for captains.  
+T. Katerinakis, Drexel University 
+36 
+• This can be proven very dangerous behavior as there is 
+always a possibility an indication to turn into a disaster. I 
+believe that there is rather a fear among crew members 
+to speak up in such cases without having in mind the 
+consequences of this decision (freely speak up about the 
+“problem”). 
+ 
+• Last, I would like to mention that during emergencies 
+crew members have to focus on how to navigate the 
+aircraft, so they need time and peace. SILENCE is the 
+magic word imposed to the Controllers who also need it 
+periodically.  
+ 
+T. Katerinakis, Drexel University 
+37 
+When Silence is not Golden (ATC “Ikaros” reply-2/2) 
+Voice of Choice: Hesitation (Scenario -1/2) 
+Captain Reports:  
+•
+On takeoff roll approaching 80 knots, the Tower Controller called us and said 
+in a very slow, unsure voice, “[AE 1549 …(pause).” He sounded as if he 
+had something to tell us, but did not know what to say. We both noted a 
+tone of concern and hesitation in his voice as if he was still unsure of 
+something at that moment. We were light weight and had 13,000 feet of 
+runway ahead of us. We had to make an immediate decision. 
+Captain Acts 
+•
+I elected to initiate rejected takeoff procedures. During deceleration the 
+Tower Controller said, “Disregard.”I would take the same action again. 
+ 
+The First Officer’s report on the same incident 
+ 
+•
+ 
+In the few seconds before Tower finished his thought, we were left to 
+guess what the call was about. We were still relatively slow speed on the 
+roll, so the Captain did what was prudent and safe by rejecting. 
+T. Katerinakis, Drexel University 
+38 
+ 
+• We are trained to keep a calm, strict and precise tone 
+of voice to transmit a sense of safety to the aircraft.  
+• We are supposed to be “the ears and eyes of the pilot 
+on the ground” and our job is to provide them with 
+such information and clearances that are absolutely 
+safe for their cruise. I am of the opinion, and that is 
+something rather common, that even a wrong 
+clearance or instruction should be transferred to the 
+pilot with preciseness, calmness and certainty.  
+• Afterwards, the ATC may correct his/her previous 
+clearance without putting any additional pressure to the 
+pilot due to his unsure tone of voice.  
+ 
+T. Katerinakis, Drexel University 
+39 
+Voice of Choice: Hesitation (ATC “Santorinis” reply- 2/3) 
+ 
+T. Katerinakis, Drexel University 
+40 
+Voice of Choice: Hesitation (ATC “Ikaros” reply- 3/3) 
+• The take-off is a very critical phase for the flight safety. I 
+experienced such cases some times in my career but not 
+harmful ones. The hesitation in this example is rather due to 
+lack of situational awareness of the controller. The pilot did 
+the right thing in order to safeguard the aircraft.  
+ 
+• Controller’s stabilized voice can be proven helpful but this 
+is not easy all the time, due to the human nature and the 
+stress occurring in such dangerous situations. As all 
+communications between pilots and controllers are recorded 
+there is an additional fear for not being compliant with the 
+standards phraseologies or the rules, thus imposing more 
+stress (voice uncertainty, low voice, fear, sweating, hand 
+trembling, heart bit etc). 
+ 
+Summary of Findings 
+• Silence is an interactional element with substantial 
+contribution both to completed flights and aviation 
+accidents 
+• Hesitation is an early symptom and action when situation 
+awareness lacks  
+• Tacit knowledge of pilots, controllers, and accident 
+investigators is a necessary addition to SOPs and RoE 
+• The aviation sub-cultures contains several distinct micro-
+cultures which affect professional responsibility, 
+uncertainty avoidance response, and decision-making in 
+micro-environments 
+• Local rationality is a condition to evaluate communicative 
+behaviors 
+• Human Errors should be acknowledged, talked and 
+repaired with transparent communication 
+T. Katerinakis, Drexel University 
+41 
+What is important in Communication/Information Science 
+• Situation awareness seems to be an enriching addition in 
+communication models 
+• Redundancy can be a message amplifier in several 
+communication contexts 
+• Non-verbal communication in institutional settings and 
+mediated environments is instrumental (produces 
+operational speech acts) 
+• Human error repair (not excuse) evolves as a systemic 
+feedback in communication for mission critical 
+environments 
+• Safety culture and just culture demand continuous intra-
+institutional communication (not only outreach) 
+• Deontological inquiries and moral judgments should 
+always be part of message evaluation in communication 
+models 
+T. Katerinakis, Drexel University 
+42 
+  
+.  
+ 46 airports in an  
+Area size of : 131,957 km2  -  
+Coastline: 15,000 Km-  
+Population: 10,815,197 people   
+.  
+ 
+Infrastructure in Greece and  
+Partnerships already formed 
+Imia crisis 1996-97 
+My NSA  Souda office inCrete 
+T. Katerinakis, Drexel University 
+44 
+•The Grounded Theory Review is an interdisciplinary, online 
+academic journal for the advancement of classic grounded theory 
+and scholarship. The Grounded Theory Review adheres to the 
+highest standards of peer review and engages established and 
+emerging scholars from anywhere in the world.  While centered in 
+social sciences and the health care fields, The Grounded Theory 
+Review is an interdisciplinary, online academic journal for the 
+advancement of classic grounded theory and scholarship.  
+ 
+•The Grounded Theory Review adheres to the highest standards 
+of peer review and engages established and emerging scholars 
+from anywhere in the world.  While centered in social sciences 
+and the health disciplines, the Grounded Theory Review is open 
+and welcoming to contributions from any academic field. 
+http://groundedtheoryreview.com/ 
+Two Applied Cases to Combine 
+T. Katerinakis, Drexel University 
+45 
+Barney G. Glaser is the founder of the Grounded 
+Theory Institute in Mill Valley, California, and has also 
+been a research sociologist at the University of 
+California Medical Center, San Francisco. He is the 
+author or coauthor of several books, including The 
+Grounded Theory Perspective II and Experts versus 
+Laymen: A Study of the Patsy and the Subcontractor, 
+published by Aldine Transaction. Anselm L. Strauss 
+(1916-1996) was emeritus professor of sociology at 
+the University of California, San Francisco. He was the 
+author of numerous books, including Professions, 
+Work and Careers, Mirrors and Masks: The Search for 
+Identity, and Creating Sociological Awareness: 
+Collective Images and Symbolic Representations, all 
+published in new editions by Transaction.  
+Christakis Fowler to connect from ex-patients with 
+expected “date of death”, but surviving through 
+their social network 
+Glaserian GT Resource http://www.groundedtheory.com/ 
+T. Katerinakis, Drexel University 
+46 
+A Final Word 
+•
+“A great advantage of the grounded theory approach is the 
+fact that grounded theories are solution-oriented rather 
+than problem-focused. I believe this solution-seeking 
+speaks convincingly to a main concern of contemporary 
+society, in which new forms of digital communication 
+constantly change the ways that individuals and large groups 
+of people relate to each other.  
+•
+Even if most of us are increasingly computerized in 
+thinking and doing, our apparently rational clear cut goals 
+are still coupled with values, affections, and traditions, as 
+once pointed out by the influential sociologist Max Weber. 
+Grounded theories are outstandingly good at 
+conceptualizing main concerns of the few on behalf of the 
+many, therein lies their explanatory strength and firm support  
+ 
+T. Katerinakis, Drexel University 
+47 
+ 
+From the editorial of GT Review at  http://groundedtheoryreview.com/2014/12/19/the-strength-of-a-solution-seeking-approach-editorial/of productive change”.  
+Brian Robert Webb (2001). Action in Context - Context in Action:Towards a 
+Grounded Theory of Software Design, PhD Thesis, Deptof Computer Science, 
+University College London, Gower Street, London, WC IE 6BT 
+ (John Dewey, Art as Experience, 1934, p. 5 1, quoted in Strauss and Corbin, 
+1990, p. 258) 
+• “[In GT] It is no linguistic accident that "building", 
+"construction", "work", designate both a process and its 
+finished product. Without the meaning of the verb that 
+of the noun remains blank“. 
+ 
+• To this we may add "design“. 
+T. Katerinakis, Drexel University 
+48 
+GT Epistemology 
+T. Katerinakis, Drexel University 
+49 
+49 
+The Sounds of Silence Inform Situation Awareness Concepts: 
+Methodological and Terminological Aspects in Aviation 
+Culture and the work of OMEODEK in the Context of Greek 
+and English  
+Θεόδωρος Κατερινάκης, MSc, PhD,  e-mail: tkaterinakis@gmail.com                              
+Νίκος Παπαδόπουλος, ΜΔΕ, ΠΕ2/ΕΕΚ  -ΥΠΑ, e-mail: nikosatc@yahoo.gr   
+ 
+   
+ 
+ 
+ 
+Thank you 
+Questions and comments are welcomed… 

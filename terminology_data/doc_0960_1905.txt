@@ -1,0 +1,553 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ELETO-MOTO-TE48OE1_ETSI-Security-Glossary.pdf
+
+ΕΛΕΤΟ 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ) 
+Συλλογικά Μέλη σε συνεργασία: 
+ΜΟΤΟ (Μόνιμη Ομάδα Τηλεπικοινωνιακής Ορολογίας) 
+ΕΛΟΤ/ΤΕ48/ΟΕ1 (Ορολογία Πληροφορικής) 
+ 
+Ιούλιος 2020 
+ 
+Αγγλοελληνικό Γλωσσάριο Όρων Ασφάλειας του ETSI 
+Όροι εννοιών που ορίζονται στην Τεχνική Έκθεση  
+ETSI TCR-TR 028: Glossary of Security Terminology 
+ 
+(238 λήμματα) 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+access 
+πρόσβαση 
+access control 
+έλεγχος πρόσβασης 
+access control list, ACL 
+κατάλογος ελέγχου πρόσβασης 
+accidental threat 
+απροσχεδίαστη απειλή 
+accountability 
+υπολογότητα 
+accreditation 
+διαπίστευση 
+active attack 
+ενεργητική επίθεση 
+active threat 
+ενεργητική απειλή 
+activity logging 
+καταγραφή δραστηριότητας, χρονοκαταγραφή 
+δραστηριότητας 
+anonymity 
+ανωνυμία 
+assurance 
+διασφάλιση 
+assurance profile 
+κατατομή διασφάλισης 
+asymmetric authentication method 
+μέθοδος ασύμμετρης εξακρίβωσης (ταυτότητας) 
+audit attribute 
+ιδιοχαρακτηριστικό επιθεώρησης 
+audit description 
+περιγραφή επιθεώρησης 
+audit event 
+συμβάν επιθεώρησης 
+audit event class 
+κατηγορία συμβάντος επιθεώρησης 
+audit of security 
+επιθεώρηση ασφάλειας 
+audit post-selection 
+μετεπιλογή επιθεώρησης 
+audit pre-selection 
+προεπιλογή επιθεώρησης 
+audit record 
+εγγραφή επιθεώρησης 
+audit trail 
+ίχνος επιθεώρησης 
+authenticated identity 
+εξακριβωμένη ταυτότητα 
+authentication 
+εξακρίβωση (ταυτότητας) 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+2 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+authentication algorithm 
+αλγόριθμος εξακρίβωσης (ταυτότητας) 
+authentication certificate 
+πιστοποιητικό εξακρίβωσης (ταυτότητας) 
+authentication information 
+πληροφορία εξακρίβωσης (ταυτότητας) 
+authentication token 
+ενδεικτικό εξακρίβωσης (ταυτότητας) 
+authenticity 
+αυθεντικότητα 
+authorisation 
+εξουσιοδότηση 
+availability 
+διαθεσιμότητα 
+baseline controls 
+έλεγχοι (γραμμής) βάσης 
+block chaining 
+αλύσωση πλοκάδων 
+block cipher algorithm {n-bit} 
+αλγόριθμος πλοκαδικής κρυπτοθέτησης {ν-δύφιος} 
+breach of security 
+ρήγμα ασφάλειας 
+capability 
+ικανότητα 
+card issuer 
+εκδότης κάρτας 
+cardholder 
+κάτοχος κάρτας 
+certificate serial number 
+αύξων αριθμός πιστοποιητικού 
+certification 
+πιστοποίηση 
+certification authority 
+αρχή πιστοποίησης, πιστοποιούσα αρχή 
+certification body 
+οργανισμός πιστοποίησης 
+certification path 
+διαδρομή πιστοποίησης 
+ciphertext 
+κρυπτοκείμενο, κρυπτοθετημένο κείμενο, 
+κρυπτογραφημένο κείμενο, έγκρυπτο κείμενο 
+claim authentication information 
+πληροφορία εξακρίβωσης διεκδίκησης 
+claimant 
+διεκδικητής 
+claims language 
+γλώσσα διεκδίκησης, γλώσσα ισχυρισμών 
+classification 
+διαβάθμιση 
+clearance 
+διασάφηση 
+cleartext 
+καθαρό κείμενο, άκρυπτο κείμενο 
+collision-resistant 
+αντισυγκρουσιακός 
+confidentiality 
+εμπιστευτικότητα 
+continuity plan 
+σχέδιο συνέχειας 
+corporate security policy 
+εταιρική πολιτική ασφάλειας 
+correctness 
+ορθότητα 
+countermeasures 
+μέτρα αντιμετώπισης 
+covert channel 
+συγκαλυμμένο κανάλι 
+credentials 
+διαπιστευτήρια 
+critical mechanism 
+κρίσιμος μηχανισμός 
+cryptanalysis 
+κρυπτανάλυση 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+cryptographic checkvalue 
+κρυπτογραφική εξελεγχοτιμή, κρυπτογραφική τιμή 
+εξελέγχου 
+cryptographic device 
+κρυπτογραφική διάταξη 
+cryptographic equipment 
+κρυπτογραφικός εξοπλισμός 
+cryptographic key 
+κρυπτογραφικό κλειδί 
+cryptographic synchronization 
+κρυπτογραφικός συγχρονισμός 
+cryptographic system, cryptosystem  
+κρυπτογραφικό σύστημα, κρυπτοσύστημα 
+cryptography 
+κρυπτογραφία 
+cryptoperiod 
+κρυπτοπερίοδος 
+damage limitation 
+περιορισμός ζημιάς 
+data integrity 
+ακεραιότητα δεδομένων 
+data origin authentication 
+εξακρίβωση προέλευσης δεδομένων 
+decipherment 
+αποκρυπτοθέτηση, αποκρυπτογράφηση 
+deliberate threat 
+σκόπιμη απειλή, εσκεμμένη απειλή 
+denial of service 
+άρνηση υπηρεσίας 
+detection 
+ανίχνευση 
+detective controls 
+ανιχνευτικοί έλεγχοι 
+digital fingerprint 
+ψηφιακό δακτυλικό αποτύπωμα 
+digital signature 
+ψηφιακή υπογραφή 
+distinguishing identifier 
+διακριτικό αναγνωριστικό 
+distributed security 
+κατανεμημένη ασφάλεια 
+domain 
+τομέας 
+dual control 
+διττός έλεγχος 
+effective privilege 
+ενεργό προνόμιο 
+emanation security 
+ασφάλεια έναντι διαφυγών 
+encipherment 
+κρυπτοθέτηση, κρυπτογράφηση 
+end-to-end encipherment 
+διατερματική κρυπτοθέτηση, διατερματική 
+κρυπτογράφηση 
+entity authentication 
+εξακρίβωση (ταυτότητας) οντότητας 
+exchange authentication information 
+ανταλλασσόμενη πληροφορία εξακρίβωσης 
+(ταυτότητας) 
+formal security policy model 
+τυπικό μοντέλο πολιτικής ασφάλειας 
+functionality class 
+κατηγορία λειτουργικότητας 
+generic security function 
+γένια λειτουργία ασφάλειας, γενική λειτουργία 
+ασφάλειας 
+hash code 
+κωδικός κατατεμαχισμού 
+hash function 
+συνάρτηση κατατεμαχισμού, συνάρτηση 
+κατακερματισμού 
+4 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+hazard 
+κίνδυνος 
+human threat 
+ανθρωπογενής απειλή 
+human vulnerability 
+ανθρωπογενής τρωτότητα, ανθρωπογενής 
+προσβλητότητα 
+identity 
+ταυτότητα 
+identity-based security policy 
+πολιτική ασφάλειας βασιζόμενη σε ταυτότητα 
+impact 
+επίπτωση, αντίκτυπος 
+incident 
+περιστατικό 
+incident detection 
+ανίχνευση περιστατικού 
+information access 
+πρόσβαση σε πληροφορία, πρόσβαση πληροφορίας 
+information access control 
+έλεγχος πρόσβασης σε πληροφορία, έλεγχος 
+πρόσβασης πληροφορίας 
+information availability 
+διαθεσιμότητα πληροφορίας 
+information back up 
+εφεδρικό αντίγραφο πληροφορίας, εφεδρική 
+πληροφορία 
+information label 
+επίσημα πληροφορίας 
+information label floating 
+κινητότητα επισήματος πληροφορίας, μεταβλητότητα 
+επισήματος πληροφορίας 
+information label policy 
+πολιτική επισημάτων πληροφορίας 
+information security 
+ασφάλεια πληροφορίας, ασφάλεια πληροφοριών 
+inheritable privilege 
+κληρονομήσιμο προνόμιο 
+initialisation vector, IV 
+διάνυσμα αρχικοδότησης 
+initialising value 
+τιμή αρχικοδότησης 
+integrity 
+ακεραιότητα 
+key 
+κλειδί 
+key certification centre 
+κέντρο πιστοποίησης κλειδιών 
+key component 
+συστατικό κλειδιού 
+key generator 
+γεννήτρια κλειδιών 
+key loader 
+φορτωτής κλειδιών 
+key management 
+διαχείριση κλειδιών 
+key management facility 
+ευκολία διαχείρισης κλειδιών 
+key offset 
+μετατόπιση κλειδιού 
+keying material; cryptographic keying 
+material 
+υλικό κλειδοχρησίας, υλικό κρυπτογραφικής 
+κλειδοχρησίας 
+keying relationship 
+σχέση κλειδοχρησίας 
+link-by-link encipherment 
+ζευξιπορική κρυπτογράφηση, ζευξιπορική 
+κρυπτοθέτηση 
+manipulation detection 
+ανίχνευση παραποίησης 
+masquerade 
+μεταμφίεση, αντιποίηση 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+message authentication 
+εξακρίβωση (ταυτότητας) μηνύματος 
+message authentication code, MAC 
+κώδικας εξακρίβωσης (ταυτότητας) μηνύματος 
+monitoring 
+παρακολούθηση 
+multilevel directory 
+πολυσταθμικός κατάλογος 
+non repudiation 
+αναποκηρυξία, μη αποκήρυξη 
+notarization 
+συμβολαιογράφηση, 
+επικυρωτική καταγραφή 
+objective 
+αντικειμενικός σκοπός, αντικειμενικός στόχος 
+off-line authentication certificate 
+απογραμμικό πιστοποιητικό εξακρίβωσης 
+(ταυτότητας) 
+one-way function 
+μονόδρομη συνάρτηση 
+on-line authentication certificate 
+επιγραμμικό πιστοποιητικό εξακρίβωσης 
+(ταυτότητας) 
+operating procedures 
+τελεστικές διαδικασίες 
+passive attack 
+παθητική επίθεση 
+passive threat 
+παθητική απειλή 
+password 
+διελευτήριο, κωδικός πρόσβασης 
+peer entity authentication 
+εξακρίβωση (ταυτότητας) ομότιμης οντότητας 
+permitted privilege 
+επιτρεπόμενο προνόμιο 
+personal data 
+προσωπικά δεδομένα 
+personal data integrity 
+ακεραιότητα προσωπικών δεδομένων 
+personal identification number, PIN 
+προσωπικός αριθμός ταυτοποίησης, προσωπικός 
+αριθμός αναγνώρισης (ταυτότητας) 
+physical protection 
+φυσική προστασία 
+physical security 
+φυσική ασφάλεια 
+physical threat 
+φυσική απειλή 
+PIN assignment 
+εκχώρηση PIN 
+PIN issuance 
+έκδοση PIN 
+PIN verification 
+επαλήθευση PIN 
+prevention 
+πρόληψη, παρεμπόδιση 
+preventive measure 
+προληπτικό μέτρο 
+primary account information 
+πληροφορία πρωτεύοντος λογαριασμού 
+primary account number 
+αριθμός πρωτεύοντος λογαριασμού 
+principal {n.} 
+κύρια (οντότητα) 
+privacy 
+απόρρητο 
+privilege 
+προνόμιο 
+privilege bracketing 
+οριοθέτηση προνομίου 
+process privilege flag 
+σημαία προνομίου διεργασίας 
+6 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+process privilege state 
+κατάσταση προνομίου διεργασίας 
+rating 
+διαβάθμιση, κατάταξη 
+read access control 
+έλεγχος πρόσβασης ανάγνωσης 
+redundancy 
+εφεδρεία, πλεονασμός 
+repudiation 
+αποκήρυξη 
+residual hazard 
+παραμένων κίνδυνος 
+residual overall risk 
+παραμένουσα συνολική διακινδύνευση 
+risk 
+διακινδύνευση 
+risk analysis 
+ανάλυση διακινδύνευσης 
+risk transfer 
+μεταφορά διακινδύνευσης 
+routing control 
+έλεγχος δρομολόγησης 
+rule-based security policy 
+πολιτική ασφάλειας βασιζόμενη σε κανόνες, 
+κανονοπαγής πολιτική ασφάλειας 
+safeguard 
+διασφάλιση, μέτρο διασφάλισης 
+secure interaction policy 
+πολιτική ασφαλούς διάδρασης 
+security 
+ασφάλεια 
+security administration 
+διοίκηση ασφάλειας 
+security architecture 
+αρχιτεκτονική ασφάλειας 
+security audit 
+επιθεώρηση ασφάλειας 
+security audit trail 
+ίχνος επιθεώρησης ασφάλειας 
+security domain 
+τομέας ασφάλειας 
+security enforcing 
+επιβολή ασφάλειας 
+security exchange 
+ανταλλαγή (πληροφοριών) ασφάλειας 
+security label 
+επίσημα ασφάλειας 
+security life 
+διάρκεια ασφάλειας 
+security management 
+διαχείριση ασφάλειας 
+security mechanism 
+μηχανισμός ασφάλειας 
+security object 
+αντικείμενο ασφάλειας 
+security objectives 
+αντικειμενικοί στόχοι ασφάλειας, αντικειμενικοί 
+σκοποί ασφάλειας 
+security policy 
+πολιτική ασφάλειας 
+security related event 
+συμβάν σχετιζόμενο με ασφάλεια 
+security relevant 
+σχετικός με ασφάλεια 
+security service 
+υπηρεσία ασφάλειας 
+security state 
+κατάσταση ασφάλειας 
+security subject 
+υποκείμενο ασφάλειας 
+security target 
+στόχος ασφάλειας 
+7 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+selective field protection 
+επιλεκτική προστασία πεδίων 
+sensitive information 
+ευαίσθητη πληροφορία 
+sensitivity 
+ευαισθησία 
+separation of duties 
+διαχωρισμός καθηκόντων 
+signature 
+υπογραφή 
+split knowledge 
+διαχωρισμένη γνώση 
+starting value 
+τιμή εκκίνησης 
+stream cipher algorithm 
+αλγόριθμος ρευματικής κρυπτοθέτησης 
+strength of mechanism 
+αντοχή μηχανισμού 
+symmetric authentication method 
+μέθοδος συμμετρικής εξακρίβωσης (ταυτότητας) 
+system access control 
+έλεγχος πρόσβασης συστήματος 
+system integrity 
+ακεραιότητα συστήματος 
+system security policy 
+πολιτική ασφάλειας συστήματος 
+target of evaluation 
+στόχος αποτίμησης 
+technical security policy 
+τεχνική πολιτική ασφάλειας 
+technical threat 
+τεχνική απειλή 
+technical vulnerability 
+τεχνική τρωτότητα 
+threat 
+απειλή 
+time variant parameter 
+χρονομεταβλητή παράμετρος 
+token 
+ενδεικτικό 
+traffic analysis 
+ανάλυση κίνησης 
+traffic flow confidentiality 
+εμπιστευτικότητα ροής κίνησης 
+traffic padding 
+πλήρωση κίνησης 
+trap-door 
+καταπακτή, θύρα παγίδα 
+trojan horse 
+δούρειος ίππος 
+trusted functionality 
+εμπιστευμένη λειτουργικότητα 
+trusted third party, TTP 
+εμπιστευμένος τρίτος, εμπιστευμένο τρίτο μέρος 
+unauthorised 
+ανεξουσιοδότητος 
+unprivileged subject 
+μη προνομιούχο υποκείμενο 
+user authentication 
+εξακρίβωση (ταυτότητας) χρήστη 
+user certificate  
+πιστοποιητικό χρήστη 
+user identification 
+ταυτοποίηση, αναγνώριση (ταυτότητας) χρήστη 
+validation 
+επικύρωση 
+validity 
+εγκυρότητα 
+verification authentication information 
+πληροφορία επαλήθευσης εξακρίβωσης (ταυτότητας) 
+verifier 
+επαληθευτής 
+8 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+violation 
+παραβίαση 
+violation detection 
+ανίχνευση παραβίασης 
+virus 
+ιός 
+vulnerability 
+τρωτότητα, ευπάθεια 
+vulnerability assessment 
+αξιολόγηση τρωτότητας, αξιολόγηση 
+προσβλητότητας 
+worm 
+σκουλήκι {λογισμικό} 
+write access control 
+έλεγχος πρόσβασης γραφής 
+ 
+ 
+ 
+ 
+ 

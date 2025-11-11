@@ -1,0 +1,451 @@
+SOURCE: https://www.eleto.gr/download/Bodies/English-Greek-prefixed_SI-units.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+Νοέμβριος 2018 
+ 
+ 
+ 
+Διεθνές Σύστημα Μονάδων (SI) 
+Αγγλοελληνικό γλωσσάριο των θεμελιωδών μονάδων SI  
+και των πολλαπλασίων και υποπολλαπλασίων τους 
+(156 αγγλοελληνικές ισοδυναμίες) 
+ 
+Σύνταξη:  Κώστας Βαλεοντής 
+Έγκριση: ΓΕΣΥ 
+ 
+Πίνακας 1 – Θεμελιώδη μεγέθη και μονάδες του Διεθνούς Συστήματος Μονάδων (SI) 
+Base quantity – Θεμελιώδες μέγεθος 
+Base unit – Θεμελιώδης μονάδα 
+Αγγλικό όνομα 
+Ελληνικό όνομα 
+Αγγλικό όνομα 
+Ελληνικό όνομα 
+Σύμβολο 
+length 
+μήκος 
+metre / meter 
+μέτρο 
+m 
+mass 
+μάζα 
+kilogram 
+χιλιόγραμμο 
+kg 
+time 
+χρόνος 
+second 
+δευτερόλεπτο 
+s 
+electric current 
+ένταση ηλεκτρικού 
+ρεύματος, 
+ηλεκτρικό ρεύμα 
+ampere 
+αμπέρ 
+A 
+thermodynamic 
+temperature 
+θερμοδυναμική 
+θερμοκρασία 
+kelvin 
+κέλβιν 
+K 
+amount of substance 
+ποσότητα ουσίας 
+mol 
+μολ 
+mol 
+luminous intensity 
+φωτεινή ένταση, 
+φωτοβολία 
+candela 
+καντέλα 
+cd 
+ 
+Σημείωση – Τα ελληνικά ονόματα των μονάδων και των διεθνών προθεμάτων είναι σύμφωνα με το Ελληνικό Πρότυπο 
+ΕΛΟΤ 100. Ο πίνακας με τα αγγλικά ονόματα των πολλάπλασίων και υποπολλαπλασίων των θεμελιωδών μονάδων SI και 
+άλλα στοιχεία του Διεθνούς Συστήματος Μονάδων στο λήμμα του Wiktionary: https://en.wiktionary.org/wiki/Appendix:SI_units. 
+ 
+E 
+Λ 
+Ε  Τ  Ο 
+L 
+E 
+Πίνακας 2 – Αγγλοελληνικά πολλαπλάσια και υποπολλαπλάσια των θεμελιωδών μονάδων του Διεθνούς Συστήματος Μονάδων (SI) 
+(Tα ελληνικά προθέματα που ισοδυναμούν με τα διεθνή προθέματα SI έχουν καθοριστεί στο Ελληνικό Πρότυπο ΕΛΟΤ 100) 
+Παράγοντας 
+Διεθνές 
+Πρόθεμα 
+Μάζα 
+Χρόνος 
+Μήκος 
+Ένταση ηλεκτικού ρεύματος, 
+ηλεκτρικό ρεύμα 
+Θερμοδυναμική 
+θερμοκρασία 
+Ποσότητα ουσίας 
+Φωτεινή ένταση, 
+φωτοβολία 
+1024 
+yotta- (Y) 
+γιοττα- 
+yottagram(Yg) 
+γιοττάγραμμο 
+yottasecond(Ys) 
+γιοτταδευτερόλεπτο 
+yottametre, yottameter (Ym) 
+γιοττάμετρο 
+yottaampere (YA) 
+γιοττααμπέρ 
+yottakelvin(YK) 
+γιοττακέλβιν 
+yottamole(Ymol) 
+γιοτταμόλ 
+yottacandela(Ycd) 
+γιοττακαντέλα 
+1021 
+zetta- (Z) 
+ζεττα- 
+zettagram(Zg) 
+ζεττάγραμμο 
+zettasecond (Zs) 
+ζετταδευτερόλεπτο 
+zettametre, zettameter (Zm) 
+ζεττάμετρο 
+zettaampere (ZA) 
+ζεττααμπέρ 
+zettakelvin(ZK) 
+ζεττακέλβιν 
+zettamole(Zmol) 
+ζετταμόλ 
+zettacandela(Zcd) 
+ζεττακαντέλα 
+1018 
+exa- (E) 
+εξα- 
+exagram (Eg) 
+εξάγραμμο 
+exasecond (Es) 
+εξαδευτερόλεπτο 
+exametre, exameter (Em) 
+εξάμετρο 
+exaampere (EA) 
+εξααμπέρ 
+exakelvin (EK) 
+εξακέλβιν 
+examole (Emol) 
+εξαμόλ 
+exacandela (Ecd) 
+εξακαντέλα 
+1015 
+peta- (P) 
+πετα- 
+petagram (Pg) 
+πετάγραμμο 
+petasecond (Ps) 
+πεταδευτερόλεπτο 
+petametre, petameter (Pm) 
+πετάμετρο 
+petaampere (PA) 
+πετααμπέρ 
+petakelvin (PK) 
+πετακέλβιν 
+petamole(Pmol) 
+πεταμόλ 
+petacandela (Pcd) 
+πετακαντέλα 
+1012 
+tera- (T) 
+τερα- 
+teragram (Tg) 
+τεράγραμμο 
+terasecond (Ts) 
+τεραδευτερόλεπτο 
+terametre, terameter (Tm) 
+τεράμετρο 
+teraampere (TA) 
+τερααμπέρ 
+terakelvin (TK) 
+τερακέλβιν 
+teramole (Tmol) 
+τεραμόλ 
+teracandela (Tcd) 
+τερακαντέλα 
+109 
+giga- (G) 
+γιγα- 
+gigagram (Gg) 
+γιγάγραμμο 
+gigasecond (Gs) 
+γιγαδευτερόλεπτο 
+gigametre, gigameter (Gm) 
+γιγάμετρο 
+gigaampere (GA) 
+γιγααμπέρ 
+gigakelvin (GK) 
+γιγακέλβιν 
+gigamole(Gmol) 
+γιγαμόλ 
+gigacandela (Gcd) 
+γιγακαντέλα 
+106 
+mega- (M) 
+μεγα- 
+megagram(Mg) 
+μεγάγραμμο 
+megasecond(Ms) 
+μεγαδευτερόλεπτο 
+megametre, megameter(Mm) 
+μεγάμετρο 
+megaampere(MA) 
+μεγααμπέρ 
+megakelvin(MK) 
+μεγακέλβιν 
+megamole(Mmol) 
+μεγαμόλ 
+megacandela(Mcd) 
+μεγακαντέλα 
+103 
+kilo- (k) 
+χιλιο- 
+kilogram (kg) * 
+χιλιόγραμμο 
+kilosecond (ks) 
+χιλιοδευτερόλεπτο 
+kilometre, kilometer (km) 
+χιλιόμετρο 
+kiloampere (kA) 
+χιλιοαμπέρ 
+kilokelvin (kK) 
+χιλιοκέλβιν 
+kilomole (kmol) 
+χιλιομόλ 
+kilocandela (kcd) 
+χιλιοκαντέλα 
+102 
+hecto- (h) 
+εκατο- 
+hectogram(hg) 
+εκατόγραμμο 
+hectosecond(hs) 
+εκατοδευτερόλεπτο 
+hectometre, hectometer (hm) 
+εκατόμετρο 
+hectoampere(hA) 
+εκατοαμπέρ 
+hectokelvin(hK) 
+εκατοκέλβιν 
+hectomole(hmol) 
+εκατομόλ 
+hectocandela(hcd) 
+εκατοκαντέλα 
+101 
+deca- (da) 
+δεκα- 
+decagram (dag) 
+δεκάγραμμο 
+decasecond (das) 
+δεκαδευτερόλεπτο 
+decametre, decameter  (dam) 
+δεκάμετρο 
+decaampere (daA) 
+δεκααμπέρ 
+decakelvin (daK) 
+δεκακέλβιν 
+decamole (damol) 
+δεκαμόλ 
+decacandela (dacd) 
+δεκακαντέλα 
+100 
+Unit 
+Μονάδα 
+gram (g) 1 
+γραμμάριο 
+second (s) 
+δευτερόλεπτο 
+metre, meter (m) 
+μέτρο 
+ampere (A) 
+αμπέρ 
+kelvin (K) 
+κέλβιν 
+mole (mol) 
+μολ 
+candela (cd) +2 
+καντέλα 
+10−1 
+deci- (d) 
+δεκατο- 
+decigram (dg) 
+δεκατόγραμμο 
+decisecond (ds) 
+δεκατοδευτερόλεπτο 
+decimetre, decimeter (dm) 
+δεκατόμετρο 
+deciampere (dA) 
+δεκατοαμπέρ 
+decikelvin (dK) 
+δεκατοκέλβιν 
+decimole (dmol) 
+δεκατομόλ 
+decicandela (dcd) 
+δεκατοκαντέλα 
+10−2 
+centi- (c) 
+εκατοστο- 
+centigram (cg) 
+εκατοστόγραμμο 
+centisecond (cs) 
+εκατοστοδευτερόλεπτο 
+centimetre, centimeter (cm) 
+εκατοστόμετρο 
+centiampere (cA) 
+εκατοστοαμπέρ 
+centikelvin (cK) 
+εκατοστοκέλβιν 
+centimole(cmol) 
+εκατοστομόλ 
+centicandela (ccd) 
+εκατοστοκαντέλα 
+10−3 
+milli- (m) 
+χιλιοστο- 
+milligram (mg) 
+χιλιοστόγραμμο 
+millisecond (ms) 
+χιλιοστοδευτερόλεπτο 
+millimetre, millimeter (mm) 
+χιλιοστόμετρο 
+milliampere (mA) 
+χιλιοστοαμπέρ 
+millikelvin (mK) 
+χιλιοστοκέλβιν 
+millimole(mmol) 
+χιλιοστομόλ 
+millicandela (mcd) 
+χιλιοστοκαντέλα 
+10−6 
+micro- (µ) 
+μικρο- 
+microgram (µg) 
+μικρόγραμμο 
+microsecond (µs) 
+μικροδευτερόλεπτο 
+micrometre, micrometer (µm) 
+μικρόμετρο 
+microampere (µA) 
+μικροαμπέρ 
+microkelvin (µK) 
+μικροκέλβιν 
+micromole(µmol) 
+μικρομόλ 
+microcandela (µcd) 
+μικροκαντέλα 
+10−9 
+nano- (n) 
+νανο- 
+nanogram (ng) 
+νανόγραμμο 
+nanosecond (ns) 
+νανοδευτερόλεπτο 
+nanometre, nanometer (nm) 
+νανόμετρο 
+nanoampere (nA) 
+νανοαμπέρ 
+nanokelvin(nK) 
+νανοκέλβιν 
+nanomole(nmol) 
+νανομόλ 
+nanocandela(ncd) 
+νανοκαντέλα 
+10−12 
+pico- (p) 
+πικο- 
+picogram (pg) 
+πικόγραμμο 
+picosecond (ps) 
+πικοδευτερόλεπτο 
+picometre, picometer (pm) 
+πικόμετρο 
+picoampere (pA) 
+πικοαμπέρ 
+picokelvin (pK) 
+πικοκέλβιν 
+picomole (pmol) 
+πικομόλ 
+picocandela (pcd) 
+πικοκαντέλα 
+10−15 
+femto- (f) 
+φεμτο- 
+femtogram (fg) 
+φεμτόγραμμο 
+femtosecond (fs) 
+φεμτοδευτερόλεπτο 
+femtometre, femtometer (fm) 
+φεμτόμετρο 
+femtoampere (fA) 
+φεμτοαμπέρ 
+femtokelvin(fK) 
+φεμτοκέλβιν 
+femtomole(fmol) 
+φεμτομόλ 
+femtocandela(fcd) 
+φεμτοκαντέλα 
+10−18 
+atto- (a) 
+αττο- 
+attogram (ag) 
+αττόγραμμο 
+attosecond (as) 
+αττοδευτερόλεπτο 
+attometre, attometer (am) 
+αττόμετρο 
+attoampere (aA) 
+αττοαμπέρ 
+attokelvin (aK) 
+αττοκέλβιν 
+attomole (amol) 
+αττομόλ 
+attocandela (acd) 
+αττοκαντέλα 
+10−21 
+zepto- (z) 
+ζεπτο- 
+zeptogram (zg) 
+ζεπτόγραμμο 
+zeptosecond(zs) 
+ζεπτοδευτερόλεπτο 
+zeptometre, zeptometer (zm) 
+ζεπτόμετρο 
+zeptoampere(zA) 
+ζεπτοαμπέρ 
+zeptokelvin(zK) 
+ζεπτοκέλβιν 
+zeptomole(zmol) 
+ζεπτομόλ 
+zeptocandela(zcd) 
+ζεπτοκαντέλα 
+10−24 
+yocto- (y) 
+γιοκτο- 
+yoctogram (yg) 
+γιοκτόγραμμο 
+yoctosecond(ys) 
+γιοκτοδευτερόλεπτο 
+yoctometre, yoctometer (ym) 
+γιοκτόμετρο 
+yoctoampere(yA) 
+γιοκτοαμπέρ 
+yoctokelvin(yK) 
+γιοκτοκέλβιν 
+yoctomole(ymol) 
+γιοκτομόλ 
+yoctocandela(ycd) 
+γιοκτοκαντέλα 
+ 
+                                                          
+1 Η θεμελιώδης μονάδα SI για τη μάζα είναι το χιλιόγραμμο και όχι το γραμμάριο, που ορίζεται ως το 1/1000 του χιλιογράμμου. 
+2 Η καντέλα θεωρείται ακόμη θεμελιώδης μονάδα SI, αν και ορίζεται πλέον συναρτήσει άλλων μονάδων SI. 

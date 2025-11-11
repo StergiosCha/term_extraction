@@ -1,0 +1,68 @@
+SOURCE: http://www.eleto.gr/download/Conferences/15th Conference/Papers-and-Speakers/001_Abstract_NatalieKubler.pdf
+
+15th Conference “Hellenic Language and Terminology” 
+6–8 November 2025, Athens 
+ 
+Translating Variation in Multi-Word Terms:  
+Is the human going to stay in the loop? 
+Natalie Kübler, invited speaker 
+Over the past two decades, interest in variation in terminology has steadily increased (Humbley & Picton 
+2017), and in the last twenty years, significant progress has been made in this field. The emergence of 
+corpora in digital format, along with the development of corpus linguistics approaches, has made it possible to 
+systematically observe the recurring presence of variations in texts. Moreover, terminologists, who were 
+initially domain experts with a strong interest in languages, have progressively evolved into linguists and/or 
+translators—specialists in language rather than experts in specific subject areas. This shift has elevated the 
+role of corpora, which facilitate the extraction of specialised and contextual information about terms. 
+Consequently, research has moved from controlling variation to taking it into account as a legitimate 
+phenomenon that must be analysed to better understand it. 
+In linguistic practice, variation constitutes a source of uncertainty for translators and technical writers (Alarcon-
+Navio et al. 2016). Language professionals have to rely on terminological resources (term bases) to help them 
+finding the correct equivalent and dealing correctly with term variation. However, terminological resources are 
+not always (and cannot be) complete and up-to-date, especially with Multi-Word-Terms (MWT). These MWT 
+are prone to variation for a wide range of reasons that will be detailed. An additional difficulty lies in the fact 
+that MWT are often part of complex noun phrases (CNPs, Kübler et al. 2018), which makes it difficult for 
+translators to find the correct equivalent and to process term variation. The increasing use of machine 
+translation tools, whether Neural Machine Translation (NMT) or generative AI, brings back these long-standing 
+questions that the translation community has faced in relation to machines (Kübler et al. 2022, Cabezas-
+Garcia & Leon-Arauz, 2023). Over the last decades, much has been done to specialise machines with 
+terminological resources (Semenov et al. 2023). However, MWT terms processing has received little attention 
+and machines are not consistent while translating terms, especially in CNPs, thus introducing inappropriate 
+variation. 
+The advent of generative AI has changed the game. AI's ability to predict words, structures, etc. makes it 
+possible, for example, to extract terms from a text and obtain their equivalents in another language, thereby 
+processing bilingual terminology upstream of the translation process.  Thanks to prompts and Chain-of 
+Thought Prompting, generative AI can produce good-looking translations, which may, however, contain 
+errors.  Generative AI can also be used as a help to evaluate translated texts, but the answers can be prone 
+to errors or inconsistencies. 
+After a reminder of term, and especially, MWT variation, we will tackle the issue of translating term variation 
+with examples in English and French. We will then address the issue of evaluating how TAN and generative AI 
+translate terminological variation and Multi-Word Terms, particularly within complex noun phrases. Finally, we 
+will show some possible solutions, especially on a human-in-the loop approach of Generative AI. 
+ 
+ 
+References 
+Alarcón-Navío, E., López-Rodríguez, C., & Tercedor-Sánchez, M. 2016. Variation dénominative et 
+familiarité en tant que source d’incertitude en traduction médicale. Meta, 61(1), 117-144. 
+Cabezas-García, M., & León-Araúz, P. (2023). Machine versus corpus-based translation of 
+multiword terms. Digital Scholarship in the Humanities, 38(Supplement_1), i6-i16. 
+Humbley, J., & Picton, A. (2017). Introduction: Multiple perspectives on terminological variation. 
+In Multiple perspectives on terminological variation (pp. 1-7). John Benjamins Publishing Company. 
+Kübler, N., Mestivier, A., & Pecman, M. (2022). Using comparable corpora for translating and post-
+editing complex noun phrases in specialized texts. Extending the scope of corpus-based translation 
+studies, p-237-266. 
+Kübler, N., Mestivier, A., & Pecman, M. (2018). Teaching specialised translation through corpus 
+linguistics: translation quality assessment and methodology evaluation and enhancement by 
+experimental approach. Meta, 63(3), 807-825. 
+Semenov, K., Zouhar, V., Kocmi, T., Zhang, D., Zhou, W., & Jiang, Y. E. (2023, December). Findings 
+of the WMT 2023 Shared Task on Machine Translation with Terminologies. In Proceedings of the 
+Eighth Conference on Machine Translation (pp. 663-671). 
+ 
+ 
+Natalie Kübler 
+Professeur UFR EILA, linguistique et traduction, Université Paris Cité 
+CLILLAC-ARP devient ALTAE depuis le 1er janvier 2025 
+https://clillac-arp.u-paris.fr/annuaire/kubler-natalie/ 
+Projet MaTOS : https://anr-matos.github.io/ 
+Co-responsable du Master Langues de Spécialité, Corpus et traductologie 
+https://u-paris.fr/eila/licences-et-masters/ 
+ 

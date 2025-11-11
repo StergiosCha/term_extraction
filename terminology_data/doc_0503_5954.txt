@@ -1,0 +1,464 @@
+SOURCE: http://www.eleto.gr/download/Conferences/6th%20Conference/6th_21-13-BertacciniFranco-BertozziBenedettaPaper_V04.pdf
+
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+1
+21   Italian-Hellenic Chamber of Commerce of Thessaloniki: an Italian-
+Greek-English Socioterminological Study 
+ 
+Benedetta Bertozzi, Franco Bertaccini 
+ 
+ABSTRACT 
+The purpose of this study is to comparatively analyse the main socioterminological trends related to the 
+Institution of the Italian Chamber of Commerce in three languages: Italian, Greek and English. 
+n particular, the domain the project is focused on refers to the terminology contained in the Italian-
+Hellenic Chamber of Commerce of Thessaloniki website and in the bilingual publications of the above-
+mentioned body.  
+ 
+Chambre de Commerce Italo-Hellènique de Salonique : une étude 
+socioterminologique dans les langues Italienne, Grecque et Anglaise 
+ 
+Benedetta Bertozzi, Franco Bertaccini 
+RÉSUMÉ 
+Le but de cette étude réside dans la volonté d’effectuer une analyse comparée, en trois langues (grec, 
+italien et anglais), des principales tendances au niveau socioterminologique dans le cadre de 
+l’Institution de la Chambre de Commerce italienne.  
+En particulier, le domaine retenu pour ce projet porte sur la terminologie utilisée dans le site web de la 
+Chambre de Commerce Italo-grecque de Salonique et dans les publications bilingues de ce même 
+organisme.  
+ 
+ 
+1   Introduction 
+The present terminological study has been inspired by the apprenticeship I served at the 
+Italian-Hellenic Chamber of Commerce of Thessaloniki. Being a bridge institution between 
+two countries, the Chamber of Commerce was the ideal setting where to deal 
+simultaneously with the specific terminology of the sector in two languages: Greek and 
+Italian. The purpose of this study is to provide an overview of the neological trends, in 
+particular concerning the use of the abbreviations and the loanwords in the analysed 
+languages, and the social trends in terms of diastratic variation. 
+It is worth highlighting that the decision to include English language in the project and, 
+primarily in the terminological corpora, fulfils two main fundamental needs: the first one is a 
+direct consequence of the loanword analysis. Indeed most of the loanwords (both semantic 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+2
+and morphological) analysed in the corpora proved to be imported from English. Therefore, 
+it was necessary to provide the user with an English version of the final database in order to 
+have a reference version of the studied phenomena.  
+The second reason to create the English version of the database serves the purpose to 
+create a consultation tool that can tangibly meet the needs of the users who have 
+terminological and linguistic doubts and, above all, to increase the availability and 
+usefulness of this study. 
+2   Corpora and terminological extraction  
+ The reference texts for the creation of the Italian and Greek corpora are the website pages 
+of the Italian-Hellenic Chamber of Commerce, while the localization of the English parallel 
+texts focused on the website of the same Italian institution in English-speaking countries, in 
+order to collect the most relevant texts in terms of textual genres and communicative 
+purpose of the above-mentioned corpora. The English equivalents of the terms that 
+compose the database were extracted from the Italian Chamber of Commerce website in 
+United Kingdom, United States of America and Australia. 
+It should be stressed that we made an important methodological choice with a view to the 
+corpora creation: to collect heterogeneous source texts. Someone, reading the above-listed 
+websites, could claim that we selected “dangerous” texts due to their composition, but we 
+must acknowledge that, even if we were aware of the potential risks, such a choice was 
+extremely useful for a socioterminological study. These texts are addressed to multiple and 
+varied target readers.  Really the different sections of the Italian-Hellenic Chamber of 
+Commerce website are thought for a general audience that seek practical information, for 
+those who approach this institution for the first time and ignore its specific competences, for 
+sector specialists like entrepreneurs and agents interested in new trade opportunities and 
+importers-exporters who need accounting and legal information. 
+Consequently, to this user mulltiplicity corresponds a multiplicity of texts and particularly of 
+terminological sub-domains (related to the main one), which differ considerably in 
+specialization degree, text genre and, obviously, in linguistic register. The above-explained 
+corpora heterogeneity plays a fundamental role in researching the diastratic variants of the 
+examined domain. Moreover, also Maria Teresa Cabré [2003:179] mentions this feature 
+among the reasons, which, in her opinion, underpin a new theory of the Terminology instead 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+3
+of the General Theory of Terminology  by Wuster, because it is not  structured enough to 
+achieve a comprehensive description of the terms: 
+En quinto lugar porque su corpus de observación es totalmente homogéneo, con lo que no 
+puede dar cuenta de la variedad que se produce tanto desde la observación de ámbitos 
+temáticos distintos, como desde la inclusión en el corpus de datos procedentes de corpus 
+de naturaleza real, no normalizados.   
+Maria Teresa Cabré [2003:179] suggests which kind of texts a corpora aiming at an “in vivo” 
+(i.e. in their actual discourse operating) term analysis should contain, as follows:  
+Para ello debemos incluir producciones que sean [...] en situaciones de distinto nivel de 
+formalidad y de grado de abstracción o nivel de especialidad diferente (discurso altamente 
+especializado, medianamente especializado, discurso de divulgación científica) y de 
+distintas funciones, o mejor dicho con valores distintos de las funciones que un discurso 
+especializado puede tener (función informativa, función didáctica, directiva, evaluativo, etc.). 
+We here below include a diagram of the sub-domains that make up the domain: 
+In the first 1st degree sub-domain (“Organization chart and internal organization”) the terms 
+refer to the institutional positions and the competence subdivision inside the Chamber of 
+Commerce. Then, the second 1st degree sub-domain (“Chamber activities”) is more 
+Italian-Hellenic Chamber of
+Commerce of Thessaloniki
+Organization chart and
+internal organization
+    Chamber Activities
+  Observatory
+      on the
+   Balkans
+      Fairs
+    Provided
+    Services
+   Guidelines
+         for
+entrepreneurs
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+4
+complex and it contains most of the information regarding the provided services and the 
+dossiers for the users.  Now let us consider the 2nd sub-domains, the one called "Provided 
+Services” is both general and specialized and it addresses specialist and no-specialist 
+readers. Hence, it contains highly specialized terms and specialized terms that make 
+already part of the general language. This phenomenon should be anything but unexpected; 
+indeed it is a very common trend, as Maria Teresa Cabré [2003:183] points out:  
+Ello nos ha llevado a formular el postulado del “valor especializado”: las llamadas unidades 
+terminológicas, usadas en los ámbitos de especialidad, y las palabras usadas en contextos 
+generales pueden explicarse  a partir de una misma unidad de base, la unidad léxica. Una 
+unidad especializada se convierte en una unidad de conocimiento especializado, es decir, 
+adquiere valor especializado, cuando en un discurso de determinadas características se 
+activa un contenido preciso.   
+On the other hand, in the sub-domains “Fairs”, “Guidelines for entrepreneurs” and 
+“Observatory on the Balkans” there is only extremely specialized terminology, in particular 
+belonging to the economic, tax and legal fields.  
+With reference to the 2nd degree sub-domain “Observatory on the Balkans”, the presence of 
+this section in the Chamber of Commerce website depends on a peculiar geopolitical 
+situation in the examined region. Indeed Thessaloniki in particular, and Macedonia in 
+general border on the Balkans and this Greek region is considered as the anteroom to these 
+countries. So this factor makes potential Hellenic-Italian partnerships acquire an added 
+value in terms of trade possibilities, because they may result in projects conceived for the 
+Balkans as it has already occurred and still happens.  
+Therefore, leaving out this aspect during the analysis of the domain and its terminology 
+would turn out to be the cause of a limited and inaccurate work. Moreover, since the project 
+intends to be an operational tool for the studied institution, in order to be useful and reliable 
+the database must necessarily include all the components and the sectors of action of the 
+Chamber of Commerce itself. 
+Before rounding off this section, we should mention also the other sources we used for the 
+terminological extraction: the four-month bilingual journal “Notizie italoelleniche” published 
+by the Italian-Hellenic Chamber of Commerce of Thessaloniki, the Italian journal “Business 
+Italia 2004” by the Italian  Ministry of Economy and Finance (Tax Policy Department) and the 
+monthly “Eureka” published in Athens. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+5
+3   Conceptual tree diagrams 
+After creating the above-described corpora, we extracted the candidate terms and then we 
+identified the conceptual relations among the terms. The following step consisted in studying 
+the linguistic relations that connect the vedette terms with their variants and finally we drew 
+the diagrams. The diagrams we designed are divided into two types [Meyer 1994:7]. 
+The first one provides an overview of the sub-domain to be analysed and the conceptual 
+relations are marked with different colours according to the legend in each table. On the 
+other hand, he second one contains detailed parts of the general diagrams. On the arrows 
+linking the term there are some “satellites”, where the relation between two terms is 
+indicated explicitly. This binomial enables us to explain the sub-domain clearly and it allows 
+the user to look the semantic relations up quickly and effectively, so that these relations 
+become transparent also for a not-specialist audience. Before giving an example of an ad-
+hoc tree diagram designed for this domain, it is advisable to make a few remarks aiming at 
+reaffirming the importance of this key phase in terminological research, as Lucia Fabbri 
+[2005:7] appropriately claimed: 
+Si words are the living things with then power to move1 la finalidad del modelo de análisis y 
+de representación de los sistemas conceptuales debe ser la comprensión y no la 
+clasificación. El modelo debe ayudar a comprender, que es ayudar a identificar, analizar, 
+organizar, alertar, alterar, comparar, decidir y en todo momento ser dueños del proceso. El 
+modelo debe permitir realizar y distinguir estas operaciones. 
+The above-mentioned opinion is worth being considered, if we assume that in terminology 
+the terms are “unidades de conocimiento (M.T.Cabré), unidades de comunicación 
+especializada (M.T.Cabré) o units of understanding (R. Temmerman)”2, because, 
+conversely, the terminological study would be a mere recording and cataloguing of terms 
+that belong to a same domain. It is undeniable that, carrying out an analysis of the terms at a 
+comprehensive semantic and linguistic level, the socioterminological perspective is a 
+condition sine qua non. Indeed if the ultimate objective of the terminologist is to provide an 
+overall overview of the terminology of a specific domain, it is impossible to leave the concept 
+of variant out of consideration, otherwise the value of the study would be jeopardized. 
+                                                 
+1  
+Rita Temmerman, Towards New Ways of Terminology, John Benjamins Publishing Company, 2000, 
+258. 
+2  
+Lucia Fabbri, “Mutatis Mutandis”, Riterm, 2005, 1-03, 22. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+6
+This approach implies the need for the terminologist to ask oneself  many questions at each 
+step on all the slightest nuances of the terms, intended as vehicle of meaning and  illocutory 
+acts, that are able to influence the speaker and characterize specific social groups 
+(according to age, geographical origin, social background, etc):  
+High-quality concept-analysis is a sine qua non for high-quality terminology work: without 
+understanding of the conceptual structures underlying the domain, the terminologist cannot 
+properly carry out many of the practical tasks related to the production of a vocabulary. 
+This opinion diverges remarkably from the Felber’s and Wuster’s theories according to 
+which the term comes before the concept and, as a consequence, diamesic and diastratic 
+variants do not exist. If we look closer at the conceptual diagrams, we notice that the use of 
+the tree diagrams allows hierarchizing the terms and thus to identify unequivocally the 
+domain and the sub-domains for the reasons outlined by Dubuc [1992:39]: 
+I sistemi concettuali arborescenti rappresentano quasi sempre strutture concettuali 
+gerarchiche (dove dominano le relazioni gerarchiche e meronimiche). In questi sistemi la 
+parte superiore del grafico serve soprattutto per indicare i domini e sotto-domini della 
+ricerca. La parte medio-bassa contiene la maggior parte dei termini più importanti del 
+dominio. In altre parole al parte alta dell’albero serve a colocare il lavoro nel quadro del 
+campo specialistico considerato. La parte bassa serve per strutturare la ricerca dei termini e 
+permette di classificare i concetti sevcondo le loro caratteristiche. 
+Our terminological trees are both poli-hierarchical and mixed, in other words, respectively, 
+they are systems that “ofrecen la posibilidad de combinar un tipo de característica con otro 
+empleando simultáneamente características de ordenación” [H. Felber & H. Picht; 1984:192] 
+and “aquellos en los que se han combinado varias relaciones. De esta manera se amplia 
+considerablemente la expresividad de un sistema, ya que caben en el mismo sistema 
+concepto de distinta índole que no se pueden juntar al emplear una sola relación” [H. Felber 
+& H. Picht; 1984:204]. This is particularly clear in the following example where different 
+relations are used simultaneously, as indicated in the legend: 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+7
+LEGENDA
+Tavola 4 – Ricerca 
+partner commerciali
+DOMINIO
+SOTTODOMINIO DI I GRADO
+SOTTODOMINIO DI II GRADO
+TERMINE
+IPONIMO
+SEQUENZIALE (ASSOCIATIVA)
+MERONIMO
+CAUSA/EFFETTO
+SINONIMO
+Camera di
+Commercio
+Italo-Ellenica
+di Salonicco
+Attività
+camerale
+Servizi erogati
+Ricerca partner
+commerciali
+Partner
+commerciale
+Importatore
+Importazioni
+Esportatore
+Esportazioni
+concessionario
+distributore
+Distribuzione
+Concessionario
+esclusivo
+Cliente
+Agente
+Commerciante
+all’ingrosso
+Commerciante al
+dettaglio
+Licenza
+Vendita
+all’ingrosso
+Vendita al dettaglio
+Licenza di
+importazione
+Licenza di
+esportazione
+Affiliato
+Affiliazione
+commerciale
+(franchising)
+RELAZIONE CONCETTUALE
+SUBJECT/ACTIVITY
+Among the hierarchical conceptual relations we pointed out, there is a marked 
+preponderance of the meronimic and hyponimic ones, while, for the not-hierarchical 
+relations, we decided to create the new following definitions and employ them in our trees: 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+8
+- 
+Object-operation: it refers to the activities undertaken by the Chamber of 
+Commerce of Thessaloniki, considered as a service provider. 
+- 
+Sequential (associative): it points out a connection between two terms that share 
+an associative relation such as exhibitor-stand. 
+- 
+Subject-activity: it is the equivalent of the object-operation relation but referred to 
+animate subjects. 
+- 
+Phenomenon- measurement: it indicates the basic reference parameter to perform 
+a specific calculation or measurement (i.e. the tax burden is calculated on the basis 
+of the  taxable base) 
+- 
+Process-object: it refers to an object that is necessary to carry out an operation (i.e. 
+the tax allowance is a crucial factor to quantify the tax base) 
+4   Terminological Sheets 
+The terminological sheets, in addition to the commonly included fields (definition, context, 
+grammatical notes, etc) include new linguistic and semantic fields: synonyms, pseudo-
+synonyms, acronyms, abbreviations and initials; hyponyms, super ordinates, holonyms, 
+isonyms, not-assimilated loanwords and assimilated loanwords. 
+5   Loanwords, abbreviations and variants  
+The socioterminological approach is closely bound to social phenomena and their 
+repercussions on linguistic and terminological level. Therefore, in the study of the 
+terminological variants we cannot undermine the effects of the knowledge spread and 
+circulation, which in the last few years have reached extraordinary proportions. The 
+language, which is the tangible expression of the knowledge and its transmission vehicle, 
+has been considerably affected by these changes. When this trend crossed the national 
+borders and this exchange took place among speakers of different languages, inevitably 
+new linguistic trends emerged. In particular we will focus on the not-assimilated loanwords. 
+The uneven distribution of technical and scientific development and the imbalances in terms 
+of economic power in the world led to the appearance of some dominant languages, both in 
+general and specialized communication. The languages spoken in the countries at the 
+cutting edge in the technical-scientific research coined new concepts and words, which have 
+been exported and used by other language speakers by starting up a contamination 
+phenomenon that poses new challenges to linguists and terminologist. 
+Analysing the loanwords of our corpora, we notice that both Italian and Greek use English 
+loanwords. In a research by Adamo e Della Valle, the English influence proved to be 
+significant in particular in compound nouns; moreover, only a few English forming particles 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+9
+combine with a large number of Italian words by creating determinant+determined hybrid 
+compounds typical of English3 language. The amount of not-assimilated loanwords is far 
+higher than the amount of other loanwords, due to the fact that the integral loanwords meet 
+multiple needs. Some are justified because they belong to specialized domains and they are 
+characterized by the “monoreferentiality of their use”, whereas others depend on a growing 
+trend according to which the English term has an increased stylistic value and higher 
+prestige than the national equivalent. 
+Concerning this aspect, it is worth mentioning the so-called Analogue Rule coined by 
+K.Valeontis [2006:10], according to which “when forming a term in a target language in order 
+to name a new concept that has been primarily named in the source language, the namer’s 
+first choice should be to apply a term-formation mechanism analogous to the term-formation 
+mechanism used for the source language term”. 
+In our reference corpora there are some examples of the phenomena we outlined so far. In 
+some cases both Italian and Greek use English loanwords such as mailing e joint ventures. 
+Regarding the latter, we would like to make a few interesting remarks, the most accredited  
+Greek equivalents of  joint ventures are κοινοπραξία and κοινή επιχείρηση, whose reliability 
+is 3 according to EU inter-institutional terminology database (IATE). Also the ΛΕΞΙΚΟ 
+ΟΙΚΟΝΟΜΙΚΩΝ ΟΡΩΝ4 mentions both the terms as equivalent of the English loanword.  
+The presence of the not-assimilated loanwords, neither at orthographical level, in our 
+corpora serves on a specific communicative purpose. 
+The use of the not-assimilated loanword, in fact, may depend on the need of transparency 
+and monoreferentiality, which are guaranteed by the employment of the English term, 
+although there is a reliable Greek equivalent. Another example of not-assimilated loanword 
+is franchising, it is used both in Greek and in Italian, in the latter the ‘geolectal’ variant 
+affiliazione commerciale is less frequent and the re is no accredited Italian equivalent for the 
+derived term franchisee, excepting the term affiliato that is used in “Fare Affari in Grecia- 
+Guida all’imprenditore” [2006:48]. In the guidelines the term franchising appears 27 times 
+and, only the first time it is mentioned, it is followed by the geolectal variant in to bracket 
+(affiliazione commerciale).A similar phenomenon exists also in Greek, where franchising is 
+commonly 
+used, 
+even 
+by 
+the 
+Greek 
+National 
+Association 
+of 
+Franchising 
+                                                 
+3  
+Susanna Soglia, La terminologia come supporto alla traduzione: metodologie, applicazioni e 
+prospettive future, S.S.L.M.I.T.- Università di Bologna, 2000, 548. 
+4  
+ΛΕΞΙΚΟ ΟΙΚΟΝΟΜΙΚΩΝ ΟΡΩΝ4, ΜΑΛΛΙΑΡΗΣ-ΠΑΙΔΕΙΑ Α.Ε., 2000. 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+10
+(www.franchising,gr). The term has been normalized by Greek language till it acquired the 
+same reliability as the Greek equivalent, confirming that IATE assigned to it a 3 reliability as 
+to its equivalents παραχώρηση προνομίου e δικαιόχρηση. 
+To conclude this brief overview on the loanwords in our corpora, we illustrate a 
+representative example of the normalizing approach of Greek language. This analysis is 
+considerably interesting also for the fact that it focuses on a language, which has not a Latin 
+alphabet; therefore, it is possible to examine the transliteration of the loanwords in the Greek 
+alphabet that is the first assimilation step of a borrowing. For instance, if we consider the 
+term leasing, in Italian it has been imported without being assimilated, while in Greek both 
+the transliterated variant λήζινγκ and the Greek χρηματοδοτικη μίσθωσι are awarded with 
+the same reliability (i.e. 3) by IATE. 
+Our research deals also with abbreviations (initialisms and acronyms). In our reference 
+corpora we identified a large amount of these forms, and we provide some examples: Gross 
+domestic product: (English GDP, Italian PIL ; Greek ΑΕΠ); Ordinary partnership (English 
+OP, Italian S.N.C., Greek Ο.Ε); Limited partnership: English LP, Italian S.A.S, Greek Ε.Ε. In 
+our opinion, these forms- all the types of abbreviations- can be considered as synonym of 
+the extended form both at interlinguistic and intralinguistic level and, Owing to the evaluation 
+of the trend and use frequency at socioterminological level, we fully agree with Cabrè 
+[1993:217] when she claims that there is a synonymic relation between the abbreviation and 
+the correspondent extended form that designate the same concept. There is a diametrically 
+opposed theory to this one, stating that the abbreviations just accomplish the task to remind 
+the extended form.5 
+For instance, if we consider the compound società in nome collettivo, we observe that  it is 
+more frequent in “Fare Affari in Grecia- Guida all’imprenditore“, which is a specialized 
+publication, while S.N.C. is more frequent in the articles of the Chamber of Commerce 
+Journal (general language publication) and in the spoken language. Thus, we should admit 
+that the two forms unquestionably differ from usage context, social status and pragmatic 
+purpose; however we cannot they that are variants of the same terms, otherwise, we 
+jeopardize the concept itself of variant.  
+ 
+                                                 
+5  
+Ana María Cardero, “Abreviaturas, Acrónimos, Siglas y Símbolos en los vocabularios 
+especializados. Una propuesta”, Riterm, 2006, 2-07, 10 
+ELETO – 6th Conference «Hellenic Language and Terminology» 
+Athens, GREECE, 1-3 November 2007 
+ 
+ 
+11
+6   Conclusions 
+In conclusion our study analysed the creation process of a terminological database about a 
+specific domain in order to provide practical suggestions on the key phase of this work, 
+particularly the systematization of the conceptual relations with a view to the intralinguistic 
+variant and the interlinguistic equivalent identification in a socioterminological perspective. 
+Moreover it demonstrates that a terminological research aiming at the harmonization of the 
+terms of a specific domain must take into account those aspects that are closely connected 
+with the term usage in particular the speakers, who are markedly different in social 
+background, specialization degree, geographical position and age. Therefore, to create 
+reliable and valuable tools, terminology should draw from the sociological knowledge to 
+achieve a synergy, whose outcome is a thorough term analysis. Furthermore, terminology 
+should accept the challenge to take a huge step forward till it reaches the imperceptible 
+border of knowledge branches that permeate each others and whose ultimate objective is to 
+study a complex and rich microcosm: the term. 
+7   Bibliography 
+[1] 
+Rita Temmerman, Towards New Ways of Terminology, John Benjamins Publishing 
+Company, 2000, 258. 
+[2] 
+Lucia Fabbri, “Mutatis Mutandis”, Riterm, 2005, 1-03, 22. 
+[3] 
+Ana María Cardero, “Abreviaturas, Acrónimos, Siglas y Símbolos en los vocabularios 
+especializados. Una propuesta”, Riterm, 2006, 2-07, 10. 
+[4] 
+ΛΕΞΙΚΟ ΟΙΚΟΝΟΜΙΚΩΝ ΟΡΩΝ1, ΜΑΛΛΙΑΡΗΣ-ΠΑΙΔΕΙΑ Α.Ε., 2000. 
+[5] 
+Susanna Soglia, La terminologia come supporto alla traduzione: metodologie, 
+applicazioni e prospettive future, S.S.L.M.I.T.- Università di Bologna, 2000, 548. 
+[6] 
+Kostas Valeontis, Elena Mantzari, The Linguistic Dimension of Terminology: 
+Principles and Methods of Term Formation, 1st Athens International Conference on 
+Translation and Interpretations Translation: Between Art and Social Science, 13-14 
+October 2006. 
+ 
+Benedetta Bertozzi – Franco Bertaccini 
+SSLMIT Forlì -  Università di Bologna 
+Corso della Repubblica, 136 
+47100 Forlì (FC) Italy 
+Tel.: ++ 39 0543 370521    
+E-mail: bertaccini@sslmit.unibo.it 
+http://terminologia.sslmit.unibo.it 
+ 

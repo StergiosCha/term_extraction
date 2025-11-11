@@ -1,0 +1,48 @@
+{
+  "glossary": [
+    {
+      "source": "όρος",
+      "target": "term",
+      "source_lang": "el",
+      "target_lang": "en",
+      "context": "linguistic terminology",
+      "priority": 1
+    },
+    {
+      "source": "μετάφραση",
+      "target": "translation",
+      "source_lang": "el",
+      "target_lang": "en",
+      "context": "translation studies",
+      "priority": 1
+    },
+    {
+      "source": "γλωσσολογία",
+      "target": "linguistics",
+      "source_lang": "el",
+      "target_lang": "en",
+      "context": "academic field",
+      "priority": 1
+    },
+    {
+      "source": "ορολογία",
+      "target": "terminology",
+      "source_lang": "el",
+      "target_lang": "en",
+      "context": "specialized vocabulary",
+      "priority": 1
+    },
+    {
+      "source": "λεξικό",
+      "target": "dictionary",
+      "source_lang": "el",
+      "target_lang": "en",
+      "context": "reference book",
+      "priority": 1
+    }
+  ]
+}
+
+
+
+

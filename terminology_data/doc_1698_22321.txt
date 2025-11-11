@@ -1,0 +1,297 @@
+SOURCE: http://www.eleto.gr/download/Conferences/8th%20Conference/Papers/8th_26-28_RoukensJan_Paper2_V02.pdf
+
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+361 
+It is about time for a comprehensive terminology policy and 
+implementation in Europe 
+    
+Jan Roukens 
+After reflection, it’s time for action 
+(common wisdom)                         
+ABSTRACT 
+In the mid-nineties the author, then in the European Commission,  set out to develop a comprehensive 
+approach to the development of terminology in Europe, including the formulation of a number of 
+infrastructural measures to provide a firm basis and cohesion for the terminology research, development 
+and applications. 
+Admittedly, much has happened since then, due to the many individuals taking initiatives and 
+responsibility. But the system approach to research, development and application (R&D&A) which was 
+in the minds of the experts and administrators at the time, cannot be observed. Even less if the 
+geographical parameter, Europe, is taken into account. 
+The author claims that it is now time to assess where we are with respect to terminology R&D&A in 
+Europe. To identify what needs to be done and the bottlenecks that delay efforts to make substantial 
+progress towards what needs to be achieved. He will list major elements of a comprehensive 
+terminology policy, including goals and the cohesion networks.  
+He will stress the need for initiative on the level of the Member States of the EU, but he is also 
+convinced that without the coordinating role of the European Commission the whole system will not be 
+established and will obviously not work. But he is also convinced that if there is no complementary 
+approach challenging the communities-of-experts, the initiative will collapse as well. 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+362 
+ 
+The summer of 1994 
+On 24-25 June of 1994 the European Council1 met on the Greek island of Corfu for an 
+important meeting. Looking back, the positive spirit of that meeting is heartening. The air 
+and the colours of Corfu may have been instrumental. But not to forget: Eastern Europe had 
+opened its gates only a few years earlier, the European Union was in full expansion, 
+technological and economical opportunities seemed abundant. The prospects were so bright 
+that the massacre in Rwanda seemed an ‘accident de parcours’. 
+Europe lost control over its’ future in the early years of the second millennium. The global 
+environment appeared increasingly hostile and an essentially non-European ideology 
+crossed aiming at the reduction of the public and the social sectors crossed the Atlantic and 
+settled in certain minds. Eventually, Europe was drawn into destructive wars in its vicinity 
+that caused great public and political distress.  But reading the conclusions of the Council of 
+1994i, there wasn’t even a foreshadow of this in Corfu. 
+The main issue on the agenda was the signature of the Treaty of Accession of four new EU 
+member states: Austria, Sweden, Finland and Norway. Eventually, the people of Norway 
+decided not to join for cultural and economic reasons. But that is another story. 
+Among the other major and forward-looking decisions taken by the Heads of State, was the 
+decision to fully endorse the proposals of the European Commission to: ‘Fully exploit the 
+possibilities and opportunities offered by the information society’. An important consideration 
+was added, embedded in a small sentence easily overlooked: ‘Also the importance of 
+linguistic and cultural aspects of the information society was stressed by the European 
+Council.’ 
+The European Commission interpreted this sentence as an invitation to elaborate proposals 
+for an information society with a ‘human’ face, in concert with the diversity of European 
+cultures and languages. The first meetings to identify the options for a strategy in this area 
+took place in September 1994 on another Greek island, Thira (Santorini), where wise people 
+joined the Commission in an effort to respond to the invitation of the Council in a way as 
+concrete as possible. 
+The result of this and subsequent meetings was a strategy to maintain the linguistic and 
+                                                           
+1  
+Meeting of the Heads of Government of the EU Member States 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+363 
+cultural patterns in Europe. Those patterns should not change even if the system for 
+handling information were to evolve rapidly and profoundly. Or: we should not need to alter 
+our languages or the basic characteristics of their use because of the advancing information 
+society.  
+It was felt that there was absolutely no reason to abandon our languages because of the 
+advances of certain information technologies, or even to replace them in certain situations 
+and domains. To the contrary: the information society was to provide us with facilities that 
+would make it much easier to deal with linguistic and non-linguistic information, and the I.S. 
+would even be called upon to enhance the quality of such information. The society resulting 
+from the efforts to realise these goals was called the multilingual information societyii. 
+Sustaining the multilingual society 
+Underlying these optimistic perspectives were serious general concerns about the pressures 
+on many languages and language communities as a consequence of a process now called 
+globalisation. At the time, even some French authorities exclaimed that French was to 
+become a minority language in the global context. Differing language communities come in 
+closer contact, as a consequence in particular of the expansion of the internet and the 
+rapidly increasing exploitation of that technology. Definitely, some such culture communities 
+are more powerful than other such communities because they are larger or they are more 
+powerful economically.  
+If balances are delicate, environmental changes may easily and dramatically distort such 
+balances. The development of an information society was considered a potentially distorting 
+factor. The action programme to pursue the goal to maintain and enhance multilingualism in 
+society overall, including those domains that seemed particularly vulnerable for the impact of 
+the information society, focussed on the strengthening of the languages per se and the 
+promotion of their use in all ways of life. Materially, the development of tools and services 
+supporting all European languages and the bridges between them were promoted. 
+Examples are the support for a standard as Unicode, the development of user working 
+environments adapted to all languages such as provided by Windows, Mac and other 
+manufacturers. Also: the development of multilingual websites, the promotion of publishing 
+in the various languages, the promotion of the translation sector and the development of 
+tools to facilitate and accelerate the translation process. 
+Language Infrastructures 
+In order to be useful, languages must be equipped with all the elements that make them 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+364 
+usable in all domains and circumstances where they are purposefully used in society. The 
+internet and the web are ideal instruments to store language elements in a systematic 
+manner, and to deliver selections to users immediately and in any place of the globe. The 
+major challenges in such situations are of a linguistic and cognitive nature, not the technical.  
+In most countries in Europe the construction and maintenance of dictionaries and grammars 
+is a well-established discipline and there would be no reason for the EC to get involved, 
+except in cross-language issues. By the way, many of the 6000 or so languages still in use 
+in the world lack this documentation; many of those languages cannot even be written yet, 
+which make them extremely vulnerable. The languages that are in a much better position 
+because they are used in economically prosperous regions such as Europe are nonetheless 
+not completely safe. They are vulnerable in those domains that are extremely dynamic 
+because of their internal dynamics and consequent rapid linguistic changes. This may result 
+in domain loss, as the phenomenon is called. 
+This is the case in particular for many scientific and technical domains, where new concepts 
+emerge every day. New concepts must have names and they must be contextualised and 
+documented. 
+The 
+concept-presentation 
+couple 
+together 
+with 
+the 
+accompanying 
+documentation is called a term. The terminology field is indeed very dynamic: managing and 
+maintaining the swarms of terms is an incredible challenge. Moreover, new terms emerge of 
+and all terms are used every day in all places of the world in adapted forms! Responding 
+adequately and properly to this challenge is a first order societal requirement: scientific 
+progress depends on the ability to attach labels to new knowledge and to make old and new 
+knowledge readily accessible for users. The MLIS2 management therefore decided that 
+terminology was a logical focus for European action. The availability of terms on the web as 
+well as their mutual connections, together with the possibility to access these data from a 
+myriad of locations was called the terminology infrastructure.  
+Transnational terminology  
+There were more considerations supporting the decision for a European effort in the 
+terminology field. A concept which is at the root of a term is, normally, not confined to a 
+particular territory or society of people. Many concepts are of global significance and this 
+justifies an international or at least European approach to the management of terms. The 
+presentation may in many cases be language-bound; in such cases the term is of concern to 
+an international authority ánd to national and local authorities.  
+                                                           
+2  
+Multilingual Information Society programme, managed by the European Commission (1996-1999)  
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+365 
+Nobody has a full oversight of the structure and size of the terminology field. There is a 
+consensus that it is huge in domain covered and in numbers of terms, but no quantification 
+is reported in the literature. Estimating the efforts required to manage term collections, 
+however, requires at least some quantification albeit rough. The effort to define structure and 
+to measure size should be undertaken by an organisation at the supranational level. 
+Monitor and coordinating the actions undertaken at the local or national levels might also be 
+tasks for an international organisation. The complexity and size of the terminology field 
+justify a disciplined approach to its management anyhow.  
+A European agency to deal with transnational terminology issues has been discussed in the 
+mid 1990s, but never materialised. Financial resources were not abundantly available, and 
+the need to establish such an institution was not considered a priority at any level. But the 
+main problem is still persisting today: in the great majority of the EU member states, 
+organisations taking care systematically of terminology beyond the boundaries of the ‘own’ 
+discipline or profession or even the own company, are non-existing. For the functioning of an 
+international terminology agency a ‘bottom-up’ network of local & national organisations is a 
+conditio sine qua non, however.  
+European, national & regional terminology service centres 
+This lack of organisational infrastructure was the reason for the failure of a major 
+infrastructural terminology project launched in 1997. The purpose of the project was to 
+investigate the efforts underway in the EU member states to develop, collect and 
+disseminate terminology. The TDC3 project could not get to grips with the situation ‘on the 
+ground’; mainly because there was no oversight of what was happening nationally, the 
+networks to collect the information did not exist. Nobody in the field knew what other people 
+were doing even within the same nation. In parallel with the TDC project, national 
+terminology associations were established or revitalised in many countries. As well as a 
+European terminology association linking many national associations. These associations 
+are instrumental for the development of the terminology discipline ánd for promoting the 
+organisational structures required. 
+Professional associations are a necessary condition for success, but they are not a sufficient 
+condition. Also required are national and/or sub-national institutions or centres, available for 
+advice, for projects to develop terminology together with clients, training, facilitating the 
+                                                           
+3  
+Terminology Documentation Centres, a network of actual and virtual centres in the member states 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+366 
+dissemination, advising about regulations having an impact on terminology, and to connect 
+with institutions and projects in other places. At least two prototypical organisations exist 
+since some time: TermCat in Barcelona and TNC in Stockholm (in 2011 TNC celebrated its 
+75th birthday!). Several other centres are growing up, often painfully. Probably the latest in 
+the line is the Steunpunt Terminologie covering the Netherlands and Flanders, as a 
+cooperation of a university department and a language company, financed by the Dutch 
+Language Union.  
+Such service- and user oriented Terminology Service Centres4 should spread over Europe 
+and establish a durable cooperation. Probably the main challenge for these centres is to 
+liaise with the beneficiaries of terminology services, assessing their needs and jointly 
+defining solutions for their problems. Beneficiaries are to be found in many areas, such as: 
+y Government departments and agencies 
+y Industry and business 
+y Education and research 
+y Health and care 
+y Media 
+y International organisations 
+y And all other beneficiaries 
+Once a good number of such centres become operational, it is possible to re-launch projects 
+such as the TDC and to get to grips with the state-of-affairs in terminology in Europe. And to 
+create a serious fact basis for national/regional and European terminology policies, in 
+compliance with the main goal of terminology: extending our ability to function in a 
+sophisticated manner in the many specialised domains that characterise our ever more 
+complex societies. 
+Epilogue: Civil Society Platform on Multilingualism 
+This paragraph is meant as an epilogue. The European Commission has set up ‘civil society 
+platforms’ in various domains, meant to collect ideas and opinions of the ‘professionals’ 
+active in those domains. About what should or need not be done by national and European 
+authorities to cope with deficiencies or challenges for the future. The exercise might be 
+considered a way to (re)establish communication between the European authorities and the 
+intermediate layer of ‘bottom up’ organisations that float the large grey zone between the 
+                                                           
+4  
+TSC(?) 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+367 
+citizens and the politicians and administrations who govern them. In some way this fits the 
+democracy nature of our societies, even though the information flow is one-way only: the 
+civil society speaks out, the government listens and will eventually decide. 
+It makes sense to keep this background in mind when reading the final report of the platform 
+on multilingualismiii. The main chapters of the report concern: 
+• 
+Language Policy and Planning 
+• 
+Linguistic Diversity and Social Inclusion 
+• 
+Language Education 
+• 
+Translation and terminology 
+Although terminology is prominently placed among the areas identified, it seems that the first 
+chapter is the most interesting from the policy point of view. That chapter also refers to 
+terminology in the wider context of language planning. Some relevant quotations from the 
+Recommendations (page 8) in the Executive Summary: 
+“(Policy should...) Cover all areas of language planning, i.e.  
+(a) status (rules and regulations),  
+(b) corpus (creation of descriptive data, corpuses, tools such as dictionaries, 
+terminology etc., 
+(c) acquisition (learning of languages, including L1, L2 and LF5), and use (planning 
+opportunities to use each language).” 
+“Corpus-planning activities should aim at the creation and completion of a fully fledged 
+multilingual language infrastructure. This aim goes beyond the responsibility of individual 
+language communities and countries and therefore needs a European approach.” 
+“Such a language plan should be designed to protect and promote all European languages.” 
+Even though some aspects of this report might be criticised, such as: 
+- 
+strong bias towards personal language learning as the means for mutual 
+comprehension in the multilingual society;  
+- 
+under-emphasis of the provision of multilingual services, such as truly multilingual 
+websites; 
+- 
+irrespective of policy claims that all languages are equal, some languages turn out 
+                                                           
+5  
+L1, L2, LF refer to first, second and further languages a person is able to speak 
+ΕΛΕΤΟ – 8th Conference «Hellenic Language and Terminology» 
+Athens, Greece, 10-12 November 2011 
+ 
+368 
+to be more equal than other languages and therefore some counter-balancing is 
+required, 
+Many recommendations and background texts are worthwhile. The Language Planning 
+chapter in particular is valuable.  
+It is not clear how the European Commission will use the results of the Platform to have an 
+impact on its own policy papers and programmes. 
+i 
+European Council at Corfu, Presidency Conclusions; 24-25 June 1994; 
+www.consilium.europa.eu/ueDocs/cms_Data/docs/pressdata/en/ec/00150.EN4.htm 
+ii 
+Council Decision concerning the Multilingual Information Society programme (96/644/EC, 4 
+November 1996) 
+iii 
+Civil Society Platform on Multilingualism; Policy Recommendations for the Promotion of 
+Multilingualism in the European Union; Brussels, 9 June 2011    
+http://ec.europa.eu/education/languages/pdf/doc5080_en.pdf  
+ 
+ 
+Jan Roukens 
+Board member of language and terminology organisations 
+Αdvisor scientific publishing 
+E-mail: jroukens@hotmail.com 
+ 
+ 
+ 

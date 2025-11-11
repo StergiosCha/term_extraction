@@ -1,0 +1,9646 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ATMterms_Glossary.pdf
+
+ 
+ΥΠΑ 
+Υπηρεσία Πολιτικής Αεροπορίας 
+Civil Aviation Authority 
+ 
+ΟΜΕΟΔΕΚ 
+Ομάδα Εργασίας Ορολογίας Διαχείρισης Εναέριας Κυκλοφορίας 
+Air Traffic Management Terminology Working Group 
+Σύνθεση της Ομάδας 
+Νίκος Παπαδόπουλος, συντονιστής 
+Επαμεινώνδας Αμωράτης 
+Χρήστος Φασιάς 
+Νίκος Πούσιος 
+Δήμητρα Ζουρούδη 
+Κώστας Πατούρας 
+ 
+ 
+Αγγλοελληνικό γλωσσάριο όρων  
+Διαχείρισης Εναέριας Κυκλοφορίας (ΔΕΚ) 
+English – Greek glossary  
+of Air Traffic Management (ATM) terms 
+ 
+Έκδοση/Edition 1 – Λήμματα/Entries: 1914 
+ 
+ 
+ΣΗΜΕΙΩΣΗ –  Οι όροι του παρόντος γλωσσαρίου έχουν υποβληθεί σε Κρίση Μελών της 
+Ελληνικής Εταιρείας Ορολογιας – ΕΛΕΤΟ (www.eleto.gr) και εγκριθεί από 
+το Γενικό Επιστημονικό Συμβούλιό της (ΓΕΣΥ). 
+NOTE –  The terms of this glossary have been subjected to Members’ Consultation 
+by the Hellenic Society for Terminology – ELETO (www.eleto.gr) and 
+approved by its General Scientific Board (GESY). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Αθήνα, Οκτώβριος 2015 
+ 
+2 
+ 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+8,33 kHz channel spacing 
+  
+διαυλοποίηση 8,33 KHz 
+  
+ab initio air traffic controller 
+  
+δόκιμος ελεγκτής εναέριας κυκλοφορίας 
+  
+ab initio ATCO 
+  
+δόκιμος ΕΕΚ 
+  
+abeam (a point) 
+  
+στο ύψος (ενός σημείου), δίπλα (στο 
+σημείο), παραπλεύρως (του σημείου) 
+  
+abnormal situation 
+  
+ασυνήθης κατάσταση 
+  
+abort (to) 
+  
+ματαιώνω 
+  
+above ground level  
+AGL 
+υπεράνω της στάθμης εδάφους 
+  
+above mean sea level  
+AMSL 
+υπεράνω της μέσης στάθμης θάλασσας 
+  
+accelerate-stop distance 
+available 
+ASDA 
+διαθέσιμη απόσταση επιτάχυνσης - 
+ακινητοποίησης 
+  
+acceptable level of safety 
+performance 
+ALoSP 
+αποδεκτό επίπεδο επίδοσης (της) 
+ασφάλειας 
+  
+acceptable means of compliance 
+AMC 
+αποδεκτά μέσα συμμόρφωσης 
+  
+acceptance 
+ACP 
+αποδοχή 
+  
+accepting controller 
+  
+αποδεχόμενος ελεγκτής 
+  
+accepting unit 
+  
+αποδεχόμενη  μονάδα   
+  
+accepting unit/controller 
+  
+αποδεχόμενη μονάδα/ελεγκτής 
+  
+accident 
+  
+ατύχημα 
+  
+accident data reporting 
+ADREP 
+αναφορά δεδομένων ατυχήματος 
+  
+accountable executive 
+  
+υπόλογο διευθυντικό στέλεχος 
+  
+accredited medical conclusion  
+  
+πιστοποιημένη ιατρική γνωμάτευση 
+  
+accredited representative 
+  
+διαπιστευμένος αντιπρόσωπος 
+  
+accuracy 
+  
+ορθότητα 
+  
+achieved with independence  
+  
+ανεξάρτητα επιτευγμένος 
+  
+acknowledge (to) 
+  
+επιβεβαιώνω λήψη 
+  
+acknowledgement 
+  
+επιβεβαίωση λήψης 
+  
+acquire (to) 
+  
+αποκτώ 
+  
+acrobatic  flight  
+  
+ακροβατική πτήση 
+  
+act (to) 
+  
+δρω 
+  
+action verb(s) 
+  
+ρήμα(τα) δράσης, ρήμα(τα) ενέργειας 
+  
+active runway 
+  
+εν ενεργεία διάδρομος 
+  
+active stand 
+  
+ενεργός θέση [στάθμευσης] 
+  
+actual time of departure  
+ATD 
+πραγματικός χρόνος αναχώρησης 
+  
+ 
+3 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+adjacent approach(-es) 
+  
+παρακείμενη(-ες) προσέγγιση(-εις), 
+διπλανή(-ές) προσέγγιση(-εις) 
+  
+adjacent sector 
+  
+παρακείμενος τομέας, διπλανός τομέας 
+  
+adjacent unit 
+  
+παρακείμενη μονάδα, διπλανή μονάδα 
+  
+adjust (to) 
+  
+ρυθμίζω 
+  
+ADS-C agreement 
+  
+συμφωνία  ADS-C 
+  
+advanced emission model  
+AEM 
+προηγμένο μοντέλο εκπομπών, 
+προηγμένο πρότυπο εκπομπών 
+  
+advanced surface movement 
+guidance and control system  
+ASMGCS 
+προηγμένο σύστημα καθοδήγησης και 
+ελέγχου κινήσεων επιφανείας 
+  
+advection fog 
+  
+ομίχλη μεταφοράς 
+  
+adviser 
+  
+σύμβουλος 
+  
+advisory airspace 
+  
+συμβουλευτικός εναέριος χώρος 
+  
+advisory area 
+  
+συμβουλευτική περιοχή 
+  
+advisory route 
+  
+συμβουλευτική διαδρομή 
+  
+advisory service 
+ADVS 
+συμβουλευτική υπηρεσία 
+  
+aerial work 
+  
+εναέρια εργασία 
+  
+aerodrome 
+  
+αεροδρόμιο 
+  
+aerodrome beacon 
+  
+φάρος αεροδρομίου 
+  
+aerodrome certificate 
+  
+πιστοποιητικό αεροδρομίου 
+  
+aerodrome control service 
+  
+υπηρεσία ελέγχου αεροδρομίου 
+  
+aerodrome control tower 
+  
+πύργος ελέγχου αεροδρομίου 
+  
+aerodrome control tower 
+TWR 
+πύργος ελέγχου αεροδρομίου 
+  
+aerodrome elevation 
+  
+υψόμετρο αεροδρομίου 
+  
+aerodrome emergency plan  
+AEP 
+σχέδιο έκτακτης ανάγκης αεροδρομίου 
+  
+aerodrome equipment 
+  
+εξοπλισμός αεροδρομίου 
+  
+aerodrome identification sign 
+  
+πινακίδα αναγνώρισης αεροδρομίου 
+  
+aerodrome operating  minima 
+  
+επιχειρησιακά ελάχιστα αεροδρομίου, 
+λειτουργικά ελάχιστα αεροδρομίου 
+  
+aerodrome operations 
+AO 
+λειτουργίες αεροδρομίου 
+  
+aerodrome reference point  
+ARP  
+σημείο αναφοράς αεροδρομίου 
+  
+aerodrome routine 
+meteorological report 
+METAR 
+συνήθης μετεωρολογική αναφορά 
+αεροδρομίου 
+  
+aerodrome special 
+meteorological report 
+SPECI 
+ειδική μετεωρολογική αναφορά 
+αεροδρομίου 
+  
+aerodrome surveillance radar 
+ASR 
+ρανταρ επιτήρησης αεροδρομίου 
+  
+ 
+4 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+aerodrome target identification 
+system  
+ATIDS 
+σύστημα αναγνώρισης στόχων 
+αεροδρομίου 
+  
+aerodrome taxi circuit 
+  
+κύκλος τροχοδρόμησης αεροδρομίου 
+  
+aerodrome taxi time 
+  
+χρόνος τροχοδρόμησης αεροδρομίου 
+  
+aerodrome traffic 
+  
+κυκλοφορία αεροδρομίου 
+  
+aerodrome traffic circuit 
+  
+κύκλος κυκλοφορίας αεροδρομίου 
+  
+aerodrome traffic density 
+  
+πυκνότητα κυκλοφορίας αεροδρομίου 
+  
+aerodrome traffic zone  
+ATZ 
+ζώνη κυκλοφορίας αεροδρομίου 
+  
+aerodrome visibility operational 
+level  
+  
+επιχειρησιακό επίπεδο ορατότητας 
+αεροδρομίου 
+  
+aeronautical beacon 
+  
+αεροναυτικός φάρος 
+  
+aeronautical fixed service 
+AFS 
+αεροναυτική σταθερή υπηρεσία 
+  
+aeronautical fixed station 
+  
+αεροναυτικός σταθερός σταθμός 
+  
+aeronautical fixed 
+telecommunication network 
+AFTN 
+αεροναυτικό σταθερό τηλεπικοινωνιακό 
+δίκτυο 
+  
+aeronautical ground light 
+AGL 
+επίγειο αεροναυτικό φως 
+  
+aeronautical information circular  
+AIC  
+εγκύκλιος αεροναυτικών πληροφοριών 
+  
+aeronautical information 
+publication 
+AIP 
+εγχειρίδιο αεροναυτικών πληροφοριών  
+  
+aeronautical information 
+regulation and control  
+AIRAC 
+ρύθμιση και έλεγχος αεροναυτικών 
+πληροφοριών 
+  
+aeronautical information service 
+AIS 
+υπηρεσία αεροναυτικών πληροφοριών 
+  
+aeronautical mobile satellite 
+service 
+AMSS 
+αεροναυτική κινητή δορυφορική υπηρεσία 
+  
+aeronautical mobile service 
+  
+αεροναυτική κινητή υπηρεσία 
+  
+aeronautical radio navigation 
+service (RR S1.46) 
+  
+υπηρεσία αεροναυτικής ραδιοπλοήγησης 
+  
+aeronautical station 
+  
+αεροναυτικός σταθμός 
+  
+aeronautical telecommunication 
+agency 
+  
+φορέας αεροναυτικών τηλεπικοινωνιών 
+  
+aeronautical telecommunication 
+network  
+ATN 
+δίκτυο αεροναυτικών τηλεπικοινωνιών 
+  
+aeronautical telecommunication 
+service 
+  
+υπηρεσία αεροναυτικών τηλεπικοινωνιών 
+  
+aeronautical telecommunication 
+station 
+  
+σταθμός  αεροναυτικών τηλεπικοινωνιών 
+  
+aeroplane 
+  
+αεροπλάνο 
+  
+aeroplane reference field length 
+  
+μήκος πεδίου αναφοράς αεροπλάνου 
+  
+aft 
+  
+πρυμναίο 
+  
+ 
+5 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+AFTN priority indicator 
+  
+ενδείκτης προτεραιότητας AFTN 
+  
+agreed reporting point 
+  
+συμφωνημένο σημείο αναφοράς 
+  
+aiding unit (in the context of 
+contingency) 
+  
+βοηθητική μονάδα 
+  
+aileron 
+  
+πηδάλιο κλίσης 
+  
+aim 
+  
+σκοπός 
+  
+air bleed 
+  
+απομάστευση αέρα 
+  
+air brake 
+  
+αερόφρενο 
+  
+air carrier 
+  
+αερομεταφορέας 
+  
+air display 
+  
+αεροπορική επίδειξη 
+  
+air filed flight plan 
+AFIL 
+σχέδιο πτήσης κατατεθειμένο εν πτήσει, 
+σχέδιο πτήσης κατατεθειμένο από αέρος 
+  
+air interception 
+  
+αναχαίτιση 
+  
+air navigation 
+  
+αεροναυτιλία, αεροπλοήγηση 
+  
+air navigation plans 
+ANP 
+σχέδια αεροναυτιλίας 
+  
+air navigation service provider 
+ANSP 
+πάροχος υπηρεσιών αεροναυτιλίας, 
+φορέας παροχής υπηρεσιών 
+αεροναυτιλίας, παροχέας υπηρεσιών 
+αεροναυτιλίας 
+ΦΠΥΑΝ 
+air navigation services 
+ANS 
+υπηρεσίες αεροναυτιλίας, υπηρεσίες 
+αεροπλοήγησης 
+  
+air report  
+AIREP  
+αναφορά εν πτήσει 
+  
+air route facilities 
+  
+διευκολύνσεις εναέριας διαδρομής 
+  
+air safety report 
+ASR 
+αναφορά εναέριας ασφάλειας 
+  
+air service 
+  
+αεροπορική υπηρεσία 
+  
+air show 
+  
+αεροπορική επίδειξη 
+  
+air speed 
+  
+ταχύτητα αέρα 
+  
+air traffic 
+  
+εναέρια κυκλοφορία 
+ΕΚ 
+air traffic advisory service 
+  
+συμβουλευτική υπηρεσία εναέριας 
+κυκλοφορίας 
+  
+air traffic control 
+ATC 
+έλεγχος εναέριας κυκλοφορίας 
+ΕΕΚ 
+air traffic control clearance 
+  
+εξουσιοδότηση ελέγχου εναέριας 
+κυκλοφορίας 
+  
+air traffic control instruction 
+  
+οδηγία ελέγχου εναέριας κυκλοφορίας 
+  
+air traffic control loop 
+  
+λειτουργικός κύκλος ελέγχου εναέριας 
+κυκλοφορίας 
+  
+air traffic control sector 
+  
+τομέας ελέγχου εναέριας κυκλοφορίας 
+  
+air traffic control service 
+  
+υπηρεσία ελέγχου εναέριας κυκλοφορίας 
+  
+ 
+6 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+air traffic control unit 
+  
+μονάδα  ελέγχου εναέριας κυκλοφορίας  
+  
+air traffic controller 
+ATCO 
+ελεγκτής εναέριας κυκλοφορίας 
+ΕΕΚ 
+air traffic controllers european 
+unions coordination 
+ATCEUC 
+συντονισμός ευρωπαϊκών ενώσεων 
+ελεγκτών εναέριας κυκλοφορίας  
+  
+air traffic flow and capacity 
+management 
+ATFCM 
+διαχείριση [της] ροής και [της] 
+χωρητικότητας [της] εναέριας 
+κυκλοφορίας 
+ΔΙΡΧΕΚ 
+air traffic flow management 
+ATFM 
+διαχείριση [της] ροής [της] εναέριας 
+κυκλοφορίας 
+ΔΙΡΕΚ 
+air traffic flow management 
+departure slot 
+  
+χρονοθυρίδα διαχείρισης [της] ροής [της] 
+εναέριας κυκλοφορίας  για αναχώρηση 
+  
+air traffic flow management 
+measure 
+  
+μέτρο διαχείρισης [της] ροής [της] 
+εναέριας κυκλοφορίας 
+  
+air traffic management 
+ATM 
+διαχείριση [της] εναέριας κυκλοφορίας 
+ΔΕΚ 
+air traffic management / air 
+navigation services 
+ATM/ANS 
+διαχείριση εναέριας κυκλοφορίας / 
+υπηρεσίες αεροναυτιλίας 
+ΔΕΚ/ΥΑΝ 
+air traffic management / air 
+navigation services 
+constituents 
+  
+συστατικά στοιχεία διαχείρισης εναέριας 
+κυκλοφορίας / υπηρεσιών αεροναυτιλίας 
+  
+air traffic management / air 
+navigation services system 
+  
+σύστημα διαχείρισης εναέριας 
+κυκλοφορίας / υπηρεσιών αεροναυτιλίας 
+  
+air traffic management 
+community 
+  
+κοινότητα διαχείρισης [της] εναέριας 
+κυκλοφορίας 
+  
+air traffic management 
+functionality 
+  
+λειτουργική δυνατότητα διαχείρισης [της] 
+εναέριας κυκλοφορίας 
+  
+air traffic management master 
+plan 
+  
+γενικό πρόγραμμα διαχείρισης [της] 
+εναέριας κυκλοφορίας 
+  
+air traffic management network 
+ATMN 
+δίκτυο διαχείρισης εναέριας κυκλοφορίας 
+ΔΔΕΚ 
+air traffic management 
+operational concept 
+  
+γενικό επιχειρησιακό σχέδιο διαχείρισης 
+[της] εναέριας κυκλοφορίας, επιχειρησιακό 
+σκεπτικό διαχείρισης [της] εναέριας 
+κυκλοφορίας 
+  
+air traffic management 
+requirements and 
+performance panel  
+ATMRPP 
+πάνελ για τις απαιτήσεις και την επίδοση 
+της διαχείρισης [της] εναέριας 
+κυκλοφορίας 
+  
+air traffic management service 
+delivery management 
+ATMSDM 
+διαχείριση παράδοσης υπηρεσίας 
+διαχείρισης εναέριας κυκλοφορίας 
+  
+air traffic management system 
+  
+σύστημα διαχείρισης [της] εναέριας 
+κυκλοφορίας 
+  
+air traffic management system 
+requirement 
+  
+απαίτηση συστήματος διαχείρισης [της] 
+εναέριας κυκλοφορίας 
+  
+air traffic service route 
+  
+διαδρομή υπηρεσίας εναέριας 
+κυκλοφορίας 
+  
+ 
+7 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+air traffic service unit sector 
+configuration 
+  
+διάταξη τομέων μονάδας υπηρεσίας 
+εναέριας κυκλοφορίας , συνδυασμός 
+τομέων μονάδας υπηρεσίας εναέριας 
+κυκλοφορίας  
+  
+air traffic service(s) 
+ATS 
+υπηρεσία(-ες) εναέριας κυκλοφορίας 
+ΥΕΚ 
+air traffic services airspace(-s) 
+  
+εναέριος(-οι) χώρος(-οι) υπηρεσιών 
+εναέριας κυκλοφορίας  
+  
+air traffic services reporting 
+office 
+ARO 
+γραφείο αναφορών υπηρεσιών εναέριας 
+κυκλοφορίας 
+  
+air traffic services surveillance 
+service 
+  
+υπηρεσία επιτήρησης υπηρεσιών 
+εναέριας κυκλοφορίας 
+  
+air traffic services surveillance 
+system 
+  
+σύστημα επιτήρησης υπηρεσιών εναέριας 
+κυκλοφορίας 
+  
+air traffic services unit 
+  
+μονάδα υπηρεσιών εναέριας κυκλοφορίας 
+  
+air traffic servises message 
+handling service 
+ATSMHS 
+υπηρεσία διαχείρισης μηνυμάτων 
+υπηρεσιών εναέριας κυκλοφορίας 
+  
+air transport 
+  
+αερομεταφορά(-ες), αεροπορική(-ές) 
+μεταφορά(-ες), εναέρια(-ες) μεταφορά(-
+ες), 
+  
+AIRAC supplement 
+AIRAC 
+SUP 
+συμπλήρωμα AIRAC 
+  
+airborne 
+  
+αερομεταφερόμενος (επί αεροσκάφους), 
+εν πτήσει (στον αέρα) 
+  
+airborne collision avoidance 
+system 
+ACAS 
+αερομεταφερόμενο σύστημα αποφυγής 
+σύγκρουσης, σύστημα αεροσκάφους για 
+αποφυγή σύγκρουσης 
+  
+airborne separation assistance 
+system 
+ASAS 
+αερομεταφερόμενο σύστημα 
+υποβοήθησης διαχωρισμού, σύστημα 
+αεροσκάφους για υποβοήθηση 
+διαχωρισμού 
+  
+airbridge 
+  
+γέφυρα επιβίβασης, φυσούνα 
+  
+aircraft 
+  
+αεροσκάφος 
+  
+aircraft — category 
+  
+αεροσκάφος — κατηγορία 
+  
+aircraft — type of 
+  
+αεροσκάφος — τύπος 
+  
+aircraft address 
+  
+διεύθυνση αεροσκάφους 
+  
+aircraft avionics  
+  
+ηλεκτρονικός εξοπλισμός αεροσκάφους, 
+ηλεκτρονικά συστήματα αεροσκάφους 
+  
+aircraft callsign 
+  
+χαρακτηριστικό κλήσης αεροσκάφους 
+  
+aircraft certificated for single-
+pilot operation 
+  
+αεροσκάφος πιστοποιημένο για 
+λειτουργία με έναν χειριστή 
+  
+aircraft classification number 
+ACN 
+αριθμός κατάταξης αεροσκαφών 
+  
+ 
+8 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+aircraft identification 
+  
+χαρακτηριστικό αναγνώρισης 
+αεροσκάφους, αναγνώριση αεροσκάφους 
+  
+aircraft intent 
+  
+πρόθεση αεροσκάφους 
+  
+aircraft lead-in line 
+  
+γραμμή εισόδου [του] αεροσκάφους στη 
+θέση στάθμευσης 
+  
+aircraft marshaller 
+  
+καθοδηγητής στάθμευσης αεροσκάφους, 
+σηματωρός αεροσκάφους 
+  
+aircraft observation 
+  
+παρατήρηση αεροσκάφους 
+  
+aircraft operating agency 
+  
+φορέας εκμετάλλευσης αεροσκάφους, 
+φορέας λειτουργίας αεροσκάφους 
+  
+aircraft owner and pilot 
+association 
+AOPA 
+ένωση ιδιοκτητών αεροσκαφών και 
+πιλότων 
+  
+aircraft proximity 
+AIRPROX 
+εγγύτητα αεροσκαφών 
+  
+aircraft refuelling 
+  
+ανεφοδιασμός αεροσκάφους 
+  
+aircraft registration 
+  
+νηολόγιο αεροσκάφους, νηολόγηση 
+αεροσκάφους 
+  
+aircraft required to be operated 
+with a co-pilot 
+  
+αεροσκάφος με υποχρεωτικό 
+συγκυβερνήτη, συγκυβερνητέο 
+αεροσκάφος 
+  
+aircraft stand 
+  
+θέση στάθμευσης αεροσκάφους 
+  
+aircraft stand taxilane 
+  
+τροχοδίοδος θέσεων στάθμευσης 
+αεροσκαφών, λωρίδα τροχοδρόμησης 
+θέσεων στάθμευσης αεροσκαφών 
+  
+aircraft type designator 
+  
+ενδείκτης τύπου αεροσκάφους 
+  
+aircraft-based augmentation 
+system 
+ABAS 
+σύστημα φασματικής επαύξησης επί 
+αεροσκάφους 
+  
+air-filed flight plan 
+  
+από αέρος κατατειθέμενο σχέδιο πτήσης 
+  
+airframe flood lights 
+  
+προβολείς ατράκτου 
+  
+air-ground communication 
+  
+επικοινωνία αέρος-εδάφους, αερεπίγεια 
+επικοινωνία 
+  
+air-ground control radio station 
+  
+ραδιοσταθμός ελέγχου [επικοινωνιών] 
+αέρος-εδάφους, ραδιοσταθμός ελέγχου 
+αερεπίγειων επικοινωνιών 
+  
+airline 
+  
+αερογραμμή, αεροπορική εταιρεία, 
+εναέρια γραμμή 
+  
+airliner 
+  
+αεροσκάφος γραμμής 
+  
+airmanship 
+  
+ικανότητα διακυβέρνησης αεροσκάφους 
+  
+airmet information  
+  
+αερομετεωρολογικές πληροφορίες 
+  
+airport 
+  
+αερολιμένας, αεροδρόμιο 
+  
+airport — collaborative decision 
+making 
+A-CDM 
+συνεργατική λήψη αποφάσεων σε 
+επίπεδο αερολιμένα 
+  
+ 
+9 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+airport authority 
+  
+αερολιμενική αρχή, αρχή αεροδρομίου 
+  
+airport coordinator 
+  
+συντονιστής αερολιμένα 
+  
+airport integration and 
+throughput 
+  
+ενοποίηση και διεκπεραιωτικότητα 
+αερολιμένων 
+  
+airport operations plan 
+AOP 
+σχέδιο λειτουργιών αερολιμένα 
+  
+airport operator 
+  
+φορέας εκμετάλλευσης αερολιμένα, 
+φορέας λειτουργίας αερολιμένα 
+  
+airport rescue and fire fighting 
+services 
+ARFFS 
+υπηρεσίες διάσωσης και πυρόσβεσης  
+αεροδρομίου 
+  
+airport slot coordinator 
+  
+συντονιστής χρονοθυρίδων αερολιμένα 
+  
+airport surface detection 
+equipment 
+ASDE 
+εξοπλισμός επιτήρησης επιφάνειας 
+αερολιμένα 
+  
+air-report 
+AIREP 
+εν πτήσει αναφορά, από αέρος αναφορά 
+  
+airship 
+  
+αερόπλοιο 
+  
+airside 
+  
+περιοχή δραστηριοτήτων αεροσκαφών 
+  
+airspace block 
+  
+τμήμα εναέριου χώρου 
+  
+airspace classification 
+  
+κατηγοροποίηση [του] εναέριου χώρου 
+  
+airspace design 
+  
+σχεδιασμός [του] εναέριου χώρου 
+  
+airspace management 
+ASM 
+διαχείριση [του] εναέριου χώρου 
+ΔΕΧ 
+airspace organization and 
+management 
+AOM 
+οργάνωση και διαχείριση [του] εναέριου 
+χώρου 
+ΟΔΕΧ 
+airspace reservation 
+  
+δέσμευση εναέριου χώρου 
+  
+airspace restriction 
+  
+περιορισμός εναέριου χώρου 
+  
+airspace structure 
+  
+δομή [του] εναέριου χώρου 
+  
+airspace user operations 
+AUO 
+λειτουργίες χρηστών [του] εναέριου 
+χώρου 
+  
+airspace users 
+  
+χρήστες [του] εναέριου χώορυ 
+  
+airspace users' representative 
+  
+εκπρόσωπος [των] χρηστών [του] 
+εναέριου χώρου 
+  
+airspace utilisation 
+  
+χρήση [του] εναέριου χώρου 
+  
+air-taxiing 
+  
+αεροτροχοδρόμηση 
+  
+air-to-ground communication 
+  
+επικοινωνία αέρος-εδάφους 
+  
+airway 
+  
+αεροδιάδρομος, εναέριος διάδρομος 
+  
+airworthiness 
+  
+αεροπλοϊμότητα 
+  
+alarm 
+  
+συναγερμός 
+  
+aldis [signal] lamp 
+  
+λυχνία [σημάτων] τύπου άλντις 
+  
+alert 
+  
+συνέγερση, ετοιμότητα, επιφυλακή 
+  
+ 
+10 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+alert height 
+  
+σχετικό ύψος συνέγερσης 
+  
+alert phase 
+ALERFA 
+φάση συνέγερσης 
+  
+alerting 
+ALR 
+συνέγερση, συναγερμική ειδοποίηση  
+  
+alerting service 
+  
+υπηρεσία συνέγερσης 
+  
+allocate (to) 
+  
+κατανέμω 
+  
+alphanumeric characters  
+(alphanumerics) 
+  
+αλφαριθμητικοί χαρακτήρες 
+  
+alphanumeric display 
+  
+αλφαριθμητική απεικόνιση 
+  
+alternate aerodrome 
+  
+αεροδρόμιο εναλλαγής 
+  
+alternative means of compliance 
+  
+εναλλακτικά μέσα συμμόρφωσης 
+  
+altitude 
+  
+απόλυτο ύψος 
+  
+altocumulus 
+AC 
+υψισωρείτες 
+  
+altostratus 
+AS 
+υψιστρώματα 
+  
+ambulance 
+  
+ασθενοφόρο (όχημα ή αεροσκάφος) 
+  
+analyse (to) 
+  
+αναλύω 
+  
+annex 
+  
+παράρτημα 
+  
+anti-collision lights 
+  
+φώτα αποφυγής σύγκρουσης 
+  
+appendix 
+  
+προσάρτημα 
+  
+apply (to) 
+  
+εφαρμόζω 
+  
+appreciate (to) 
+  
+καταλαβαίνω, εκτιμώ 
+  
+approach control office 
+  
+γραφείο ελέγχου προσέγγισης 
+  
+approach control service 
+  
+υπηρεσία ελέγχου προσέγγισης 
+  
+approach control unit 
+  
+μονάδα ελέγχου προσέγγισης 
+  
+approach control unit (centre) 
+APP 
+μονάδα (κέντρο) ελέγχου προσέγγισης 
+  
+approach funnel 
+  
+χοάνη προσέγγισης 
+  
+approach path monitor 
+APM 
+παρακολούθηση ίχνους προσέγγισης 
+  
+approach procedures with 
+vertical guidance 
+APV 
+διαδικασίες προσέγγισης με κατακόρυφη 
+καθοδήγηση 
+  
+approach sequence 
+  
+σειρά προσέγγισης 
+  
+approaching head-on aircraft 
+  
+μετωπικά προσεγγίζοντα αεροσκάφη, 
+κατά μέτωπον προσεγγίζοντα αεροσκάφη 
+  
+appropriate ATS authority 
+  
+αρμόδια αρχή ΥΕΚ 
+  
+appropriate authority 
+  
+αρμόδια αρχή  
+  
+approved maintenance 
+organization  
+  
+εγκεκριμένος οργανισμός συντήρησης 
+  
+approved training  
+  
+εγκεκριμένη εκπαίδευση 
+  
+ 
+11 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+approved training organization  
+  
+εγκεκριμένος εκπαιδευτικός οργανισμός 
+  
+apron 
+  
+χώρος στάθμευσης 
+  
+apron management service 
+  
+υπηρεσία διαχείρισης χώρων στάθμευσης 
+  
+apron taxiway 
+  
+τροχόδρομος χώρου στάθμευσης 
+  
+aquaplaning 
+  
+υδρολίσθηση 
+  
+area control center  
+ACC 
+κέντρο ελέγχου περιοχής 
+ΚΕΠ 
+area control service 
+  
+υπηρεσία ελέγχου περιοχής 
+ΥΕΠ 
+area navigation 
+RNAV 
+περιοχική ναυτιλία, περιοχική ναυσιπλοϊα 
+  
+area navigation route 
+  
+διαδρομή περιοχικής ναυτιλίας, διαδρομή 
+περιοχικής ναυσιπλοϊας 
+  
+area proximity warning 
+APW 
+προειδοποίηση εγγύτητας περιοχής 
+  
+arrival 
+ARR 
+άφιξη 
+  
+arrival management 
+  
+διαχείριση αφίξεων 
+  
+arrival manager 
+AMAN 
+σύστημα διαχείρισης αφίξεων 
+  
+arriving flight 
+  
+αφικνούμενη πτήση 
+  
+assessment 
+  
+αξιολόγηση 
+  
+assessor 
+  
+αξιολογητής 
+  
+assessor endorsement 
+ASR 
+καταχώριση αξιολογητή 
+  
+assign (to) 
+  
+εκχωρώ 
+  
+assignment 
+  
+εκχώρηση 
+  
+assist (to) 
+  
+βοηθώ 
+  
+association of european airlines 
+AEA 
+ένωση ευρωπαϊκών αερογραμμών, ένωση 
+ευρωπαϊκών αεροπορικών εταιρειών 
+  
+ATC  instruction 
+  
+οδηγία ΕΕΚ 
+  
+ATC clearance 
+  
+εξουσιοδότηση ΕΕΚ 
+  
+ATC loop 
+  
+λειτουργικός κύκλος ΕΕΚ 
+  
+ATC sector 
+  
+τομέας ελέγχου ΕΕΚ 
+  
+ATC service 
+  
+υπηρεσία ΕΕΚ 
+  
+ATC unit 
+  
+μονάδα ΕΕΚ 
+  
+ATFM departure slot 
+  
+χρονοθυρίδα ATFM για αναχώρηση, 
+χρονοθυρίδα ΔΙΡΕΚ για αναχώρηση 
+  
+ATFM measure 
+  
+μέτρο ATFM, μέτρο ΔΙΡΕΚ 
+  
+ATM community 
+  
+κοινότητα ΔΕΚ 
+  
+ATM functionality 
+  
+λειτουργική δυνατότητα ΔΕΚ 
+  
+ATM master plan 
+  
+γενικό πρόγραμμα ΔΕΚ 
+  
+ATM network 
+  
+δίκτυο ΔΕΚ 
+  
+ 
+12 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+ATM operational concept 
+  
+γενικό επιχειρησιακό σχέδιο ΔΕΚ, 
+επιχειρησιακό σκεπτικό  ΔΕΚ 
+  
+ATM system 
+  
+σύστημα ΔΕΚ 
+  
+ATM system requirement 
+  
+απαίτηση συστήματος ΔΕΚ 
+  
+ATM/ANS constituents 
+  
+συστατικά στοιχεία ΔΕΚ/ΥΑΝ, συστατικά 
+στοιχεία ATM/ANS 
+  
+ATM/ANS system 
+  
+σύστημα ΔΕΚ/ΥΑΝ, σύστημα ATM/ANS 
+  
+atmospheric pressure at 
+aerodrome elevation 
+QFE 
+ατμοσφαιρική πίεση στο υψόμετρο 
+αεροδρομίου 
+  
+atmospheric pressure at mean 
+sea level 
+QNH 
+ατμοσφαιρική πίεση στη μέση στάθμη 
+θάλασσας 
+  
+ATS airspace(-s) 
+  
+εναέριος(-οι) χώρος(-οι) ATS, εναέριος(-
+οι) χώρος(-οι) ΥΕΚ 
+  
+ATS route 
+  
+διαδρομή ATS, διαδρομή ΥΕΚ 
+  
+ATS surveillance service 
+  
+υπηρεσία επιτήρησης ATS, υπηρεσία 
+επιτήρησης ΥΕΚ 
+  
+ATS surveillance system 
+  
+σύστημα επιτήρησης ATS, σύστημα 
+επιτήρησης ΥΕΚ 
+  
+ATS unit 
+  
+μονάδα ATS, μονάδα ΥΕΚ 
+  
+attitude 
+  
+συμπεριφορά, στάση 
+  
+audio aids 
+Aud 
+ακουστικά βοηθήματα 
+  
+audit 
+  
+επιθεώρηση 
+  
+authority (government 
+organization) 
+  
+αρχή, Υπηρεσία (με την έννοια της 
+κρατικής διοικητικής αρχής) 
+  
+autoland system 
+  
+σύστημα τυφλής προσγείωσης 
+αεροσκαφών 
+  
+automatic dependent 
+surveillance 
+ADS 
+αυτόματη εξαρτημένη επιτήρηση 
+  
+automatic dependent 
+surveillance — broadcast 
+ADS-B 
+αυτόματη εξαρτημένη επιτήρηση — 
+εκπομπή 
+  
+automatic dependent 
+surveillance — broadcast out 
+ADS-B out 
+αυτόματη εξαρτώμενη επιτήρηση — 
+εξερχόμενη εκπομπή 
+  
+automatic dependent 
+surveillance — contract 
+ADS-C 
+αυτόματη εξαρτώμενη επιτήρηση — 
+σύμβαση 
+  
+automatic dependent 
+surveillance — contract 
+agreement 
+  
+συμφωνία  αυτόματης εξαρτώμενης 
+επιτήρησης — σύμβαση 
+  
+automatic direction finder 
+ADF 
+αυτόματο ραδιογωνιόμετρο 
+  
+automatic direction-finding 
+equipment  
+  
+εξοπλισμός αυτόματου προσδιορισμού 
+κατεύθυνσης, εξοπλισμός αυτόματης 
+ραδιογωνιομετρίας 
+  
+ 
+13 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+automatic landing system 
+ALS  
+σύστημα αυτόματης προσγείωσης 
+  
+automatic pilot 
+  
+αυτόματος πιλότος 
+  
+automatic terminal  information  
+service 
+ATIS 
+υπηρεσία αυτόματης εκπομπής 
+πληροφοριών τερματικής περιοχής, 
+αυτοματοποιημένη υπηρεσία 
+πληροφοριών τερματικής περιοχής 
+  
+auxiliary power unit 
+  
+μονάδα βοηθητικής ισχύος 
+  
+availability 
+  
+διαθεσιμότητα 
+  
+aviation 
+  
+αεροπορία, αεροπλοϊα 
+  
+aviation crisis 
+  
+αεροπορική κρίση 
+  
+aviation frequency band 
+  
+ζώνη συχνοτήτων αεροπορίας 
+  
+avionics 
+  
+ηλεκτρονικά [συστήματα] αεροπορίας 
+  
+backtrack 
+  
+αναστροφή 
+  
+back-up 
+  
+εφεδρικός 
+  
+balance tab 
+  
+ζυγοσταθμιστικό πτερύγιο 
+  
+balked landing 
+  
+διακοπείσα προσγείωση , ματαιωθείσα 
+προσγείωση  
+  
+balloon 
+  
+αερόστατο 
+  
+bank angle 
+  
+γωνία κλίσης 
+  
+barrette 
+  
+συστοιχία φώτων, εγκάρσια δεσμίδα 
+φώτων 
+  
+base 
+  
+βάση, βασικό 
+  
+base turn 
+  
+στροφή βάσης, βασική στροφή 
+  
+basic area navigation 
+B-RNAV 
+βασική περιοχική ναυτιλία, βασική 
+περιοχική ναυσιπλοϊα 
+  
+basic training 
+  
+βασική εκπαίδευση 
+  
+beacon 
+  
+φάρος, ραδιοφάρος 
+  
+bearing 
+  
+διόπτευση, κατεύθυνση 
+  
+benefit 
+  
+όφελος 
+  
+beyond local repair 
+  
+πέραν τοπικής επισκευής 
+  
+binding target 
+  
+δεσμευτικός στόχος 
+  
+bird strike 
+  
+πρόσκρουση πτηνού 
+  
+blade (propeller) 
+  
+πτερύγιο έλικας 
+  
+blade pitch 
+  
+βήμα πτερυγίου [έλικας] 
+  
+blast 
+  
+εκτόνωση αερίων 
+  
+blended learning 
+  
+μικτή μάθηση 
+  
+blind  transmission 
+  
+τυφλή εκπομπή 
+  
+ 
+14 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+blind velocity 
+  
+τυφλή ταχύτητα 
+  
+blip 
+  
+μπλίπ 
+  
+blowing 
+BL 
+ανυψούμενο 
+  
+blowing snow 
+BLSN 
+ανυψούμενο χιόνι 
+  
+boarding bridge 
+  
+γέφυρα επιβίβασης, φυσούνα 
+  
+bomb threat 
+  
+απειλή για βόμβα 
+  
+boundary  
+  
+όριο 
+  
+braking action 
+  
+δυνατότητα πέδησης 
+  
+briefing 
+Brief 
+[σύνοπτική] ενημέρωση, [προ]συνόψιση 
+  
+bright display 
+  
+φωτεινή οθόνη 
+  
+broadcast 
+  
+γενική εκπομπή 
+  
+bundle of services 
+  
+δέσμη υπηρεσιών 
+  
+buoyancy 
+  
+άνωση 
+  
+business plan 
+  
+επιχειρηματικό σχέδιο 
+  
+cabin fire 
+  
+φωτιά στον χώρο της καμπίνας επιβατών, 
+πυρκαγιά στον χώρο της καμπίνας 
+επιβατών 
+  
+calculate (to) 
+  
+υπολογίζω 
+  
+calendar 
+  
+ημερολόγιο 
+  
+canard 
+  
+ριναίο πηδάλιο ανόδου - καθόδου 
+  
+cancellation 
+CNL 
+ακύρωση 
+  
+canopy 
+  
+καλύπτρα 
+  
+capability 
+  
+ικανότητα 
+  
+capacitor discharge light 
+  
+λυχνία φωτεινών εκκενώσεων 
+  
+capacity 
+  
+χωρητικότητα, δυναμικότητα 
+  
+cargo 
+  
+φορτίο, εμπόρευμα 
+  
+cargo flight 
+  
+πτήση μεταφοράς εμπορευμάτων 
+  
+cargo terminal 
+  
+εμπορευματικός σταθμός 
+  
+case study 
+Case 
+μελέτη περίπτωσης, περιπτωσιακή μελέτη 
+  
+categories of aeroplanes 
+  
+κατηγορίες αεροπλάνων 
+  
+categories of precision approach 
+operations 
+  
+κατηγορίες [λειτουργιών] προσέγγισης 
+ακριβείας 
+  
+causes 
+  
+αίτια 
+  
+CAVOK 
+CAVOK 
+CAVOK 
+  
+ceiling 
+  
+οροφή 
+  
+central flight management unit  
+CFMU 
+κεντρική μονάδα διαχείρισης πτήσεων 
+  
+ 
+15 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+certificate 
+  
+πιστοποιητικό 
+  
+certification 
+  
+πιστοποίηση 
+  
+certified aerodrome 
+  
+πιστοποιημένο αεροδρόμιο 
+  
+certify as airworthy (to)  
+  
+πιστοποιώ πτητική ικανότητα 
+  
+change management  
+  
+διαχείριση αλλαγών 
+  
+changeover  point  
+  
+σημείο αλλαγής 
+  
+channel 
+  
+δίαυλος, κανάλι 
+  
+channel spacing 
+  
+διαχωρισμός διαύλων [επικοινωνίας], 
+διαυλοποίηση 
+  
+characterise (to) 
+  
+χαρακτηρίζω 
+  
+charging scheme 
+  
+μηχανισμός χρέωσης 
+  
+check (to) 
+  
+ελέγχω 
+  
+check flight 
+  
+πτήση ελέγχου 
+  
+Chicago convention 
+  
+σύμβαση του Σικάγου 
+  
+chief executive officer 
+CEO 
+διευθύνων σύμβουλος 
+  
+chocks 
+  
+τροχοεμποδιστήρες, τσοκς 
+  
+choose (to) 
+  
+επιλέγω 
+  
+circle (το) 
+  
+πραγματοποιώ κύκλο 
+  
+circling approach 
+  
+κυκλική προσέγγιση 
+  
+circular 
+Cir 
+εγκύκλιος 
+  
+cirrocumulus 
+CC 
+θυσανοσωρείτες 
+  
+cirrostratus 
+CS 
+θυσανοστρώματα 
+  
+cirrus 
+CI 
+θύσανοι 
+  
+civil air navigation services 
+organisation 
+CANSO 
+οργανισμός υπηρεσιών πολιτικής 
+αεροναυτιλίας; 
+  
+civil aviation authority 
+CAA 
+υπηρεσία πολιτικής αεροπορίας, αρχή 
+πολιτικής αεροπορίας 
+ΥΠΑ 
+civil aviation training centre 
+CATC 
+κέντρο εκπαίδευσης πολιτικής 
+αεροπορίας 
+ΣΠΟΑ 
+civil-military coordination 
+  
+συντονισμός πολιτικού και στρατιωτικού 
+τομέα 
+  
+clearance function 
+  
+λειτουργική οργάνωση εξουσιοδότησης 
+  
+clearance limit 
+  
+όριο εξουσιοδότησης 
+  
+clearance void time 
+  
+χρόνος λήξης εξουσιοδότησης 
+  
+clearway 
+CWY 
+περιοχή ελεύθερη εμποδίων 
+  
+climb out 
+  
+φάση [αρχικής] ανόδου 
+  
+climb out area 
+  
+περιοχή [αρχικής] ανόδου 
+  
+ 
+16 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+coasted 
+  
+υπολογισμός κατά παρέκταση [μακράς 
+περιόδου] 
+  
+cockpit 
+  
+θάλαμος διακυβέρνησης, πιλοτήριο 
+  
+cockpit voice recorder  
+CVR 
+αποτυπωτής ομιλίας θαλάμου 
+διακυβέρνησης, καταγραφικό ομιλιών 
+πιλοτηρίου 
+  
+code (SSR) 
+  
+κώδικας (SSR), κωδικός (SSR) 
+  
+code allocation list 
+  
+κατάλογος εκχώρησης κωδικών, 
+κατάλογος διανομής κωδικών 
+  
+coded designator 
+  
+κωδικοποιημένος προσδιοριστής 
+  
+collaborative decision making 
+CDM 
+συνεργατική λήψη αποφάσεων 
+  
+collect (to) 
+  
+συλλέγω 
+  
+commercial air transport 
+  
+εμπορική αερομεταφορά, εμπορική 
+αεροπορική μεταφορά 
+  
+commercial air transport 
+movements 
+  
+κινήσεις εμπορικών αερομεταφορών, 
+εμπορικές αεροπορικές κινήσεις 
+  
+commercial air transport 
+operation 
+  
+δραστηριότητα εμπορικής 
+αερομεταφοράς, λειτουργία εμπορικής 
+αερομεταφοράς 
+  
+commercial operation 
+  
+εμπορική δραστηριότητα 
+  
+commercially important person 
+CIP 
+εταιρικός επίσημος 
+  
+committee on aviation 
+environmental protection 
+CAEP 
+επιτροπή για την αεροπορική 
+περιβαλλοντική προστασία 
+  
+common ICAO data interchange 
+network 
+CIDIN 
+κοινό δίκτυο ICAO για ανταλλαγή 
+δεδομένων 
+  
+common point 
+  
+κοινό σημείο 
+  
+communication services 
+  
+υπηρεσίες επικοινωνιών 
+  
+communications 
+COM 
+επικοινωνίες 
+  
+communications, navigation and 
+surveillance  
+CNS 
+επικοινωνίες, πλοήγηση και επιτήρηση 
+  
+communications, navigation, and 
+surveillance/air traffic 
+management  
+CNS/ATM 
+επικοινωνίες, πλοήγηση και 
+επιτήρηση/διαχείριση εναέριας 
+κυκλοφορίας 
+  
+compacted snow 
+  
+συμπιεσμένο χιόνι 
+  
+competence 
+  
+επάρκεια 
+  
+competency 
+  
+επάρκεια, ικανότητα 
+  
+competency element 
+  
+στοιχείο ικανότητας, στοιχείο επάρκειας 
+  
+competency unit 
+  
+μονάδα ικανότητας, μονάδα επάρκειας 
+  
+competent member state  
+  
+αρμόδιο κράτος μέλος 
+  
+complex motor-powered aircraft 
+  
+σύνθετο μηχανοκίνητο αεροσκάφος 
+  
+ 
+17 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+comply (to) 
+  
+συμμορφώνομαι 
+  
+comptence assessor 
+  
+αξιολογητής επάρκειας 
+  
+comptence examiner 
+  
+εξεταστής επάρκειας 
+  
+computer 
+  
+υπολογιστής 
+  
+computer/web-based training 
+CWBT 
+εκπαίδευση βασισμένη σε  υπολογιστή / 
+διαδίκτυο 
+  
+computer-based training 
+CBT 
+εκπαίδευση βασισμένη σε  υπολογιστή, 
+πληροφορικοπαγής εκπαίδευση 
+  
+concept of operation 
+  
+αρχές λειτουργίας 
+  
+concept of use 
+  
+τρόπος χρήσης 
+  
+concurrent wind direction 
+  
+συμπίπτουσα διεύθυνση ανέμου 
+  
+concurrent wind speed 
+  
+συμπίπτουσα ταχύτητα ανέμου 
+  
+condensation trail (contrail) 
+  
+ίχνος συμπύκνωσης 
+  
+conditional clearance 
+  
+υπό συνθήκη εξουσιοδότηση 
+  
+conditional route 
+CDR 
+διαδρομή υπό όρους, υπό συνθήκη 
+διαδρομή 
+  
+conduct (to) 
+  
+διεξάγω 
+  
+cone of silence 
+  
+κώνος σιγής 
+  
+conference  communications 
+  
+επικοινωνίες διάσκεψης 
+  
+configuration 
+  
+διαμόρφωση 
+  
+configuration data  
+  
+δεδομένα διαμόρφωσης 
+  
+confirm (to) 
+  
+επιβεβαιώνω 
+  
+conflict 
+  
+εμπλοκή 
+  
+conflict  detection 
+  
+ανίχνευση εμπλοκής 
+  
+conflict alert 
+  
+συνέγερση εμπλοκής 
+  
+conflict horizon 
+  
+ορίζοντας εμπλοκής 
+  
+conflict management 
+CM 
+διαχείριση εμπλοκής(-ών) 
+  
+conflict search 
+  
+αναζήτηση εμπλοκής(-ών) 
+  
+congestion 
+  
+συμφόρηση, συνωστισμός 
+  
+consider (to) 
+  
+εξετάζω [προσεκτικά] 
+  
+conspicuity code  
+  
+κωδικός ευδιακριτότητας 
+  
+constant descent arrival 
+  
+άφιξη σταθερής καθόδου 
+  
+constituents 
+  
+συστατικά στοιχεία 
+  
+constraint 
+  
+περιορισμός 
+  
+contact point 
+  
+σημείο επαφής 
+  
+ 
+18 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+contaminated runway 
+  
+ρυπασμένος διάδρομος, διάδρομος με 
+επικαθίσεις 
+  
+contamination 
+  
+ρύπανση, επικάθιση 
+  
+content  
+  
+περιεχόμενο 
+  
+contingency 
+  
+έκτακτη κατάσταση, απρόοπτη 
+κατάσταση, απρόοπτο 
+  
+contingency life-cycle 
+  
+κύκλος ζωής έκτακτων καταστάσεων, 
+κύκλος ζωής απρόοπτων καταστάσεων 
+  
+contingency modes 
+  
+περιπτώσεις (είδη) έκτακτων 
+καταστάσεων, περιπτώσεις (είδη) 
+απρόοπτων καταστάσεων 
+  
+contingency plan 
+  
+σχέδιο [αντιμετώπισης] έκτακτων  
+καταστάσεων, σχέδιο [αντιμετώπισης] 
+απρόοπτων καταστάσεων 
+  
+contingency planning 
+  
+σχεδιασμός [αντιμετώπισης] έκτακτων  
+καταστάσεων, σχεδιασμός 
+[αντιμετώπισης] απρόοπτων 
+καταστάσεων 
+  
+continuation training 
+  
+συνεχής εκπαίδευση 
+  
+continuing oversight 
+  
+συνεχής επίβλεψη, συνεχής επιτήρηση 
+  
+continuity 
+  
+συνέχεια 
+  
+continuous day and night service 
+H24 
+συνεχής εικοσιτετράωρη υπηρεσία 
+  
+continuous descend approach 
+CDA 
+προσέγγιση σταθερής καθόδου 
+  
+control  sector 
+  
+τομέας ελέγχου 
+  
+control area 
+  
+περιοχή ελέγχου 
+  
+control assistant 
+  
+βοηθός ελεγχου 
+  
+control zone 
+CTR 
+ζώνη ελέγχου 
+  
+controlled  airspace 
+(instrument/visual)  
+  
+ελεγχόμενος εναέριος χώρος 
+(ενόργανος/εξ όψεως) 
+  
+controlled aerodrome 
+  
+ελεγχόμενο αεροδρόμιο 
+  
+controlled airspace 
+  
+ελεγχόμενος εναέριος χώρος 
+  
+controlled airspace (instrument  
+restricted) 
+  
+ελεγχόμενος εναέριος χώρος (μόνο 
+ενόργανες πτήσεις) 
+  
+controlled airspace (visual  
+exempted) 
+  
+ελεγχόμενος (εκτός των VFR) εναέριος 
+χώρος 
+  
+controlled flight 
+  
+ελεγχόμενη πτήση 
+  
+controlled flight into terrain 
+CFIT 
+πρόσκρουση ελεγχόμενης πτήσης στο 
+έδαφος  
+  
+controlled VFR flight 
+  
+ελεγχόμενη VFR πτήση 
+  
+controller 
+  
+ελεγκτής 
+  
+ 
+19 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+controller pilot data link 
+communications 
+CPDLC 
+επικοινωνίες δεδομένων μεταξύ ελεγκτή - 
+χειριστή αεροσκάφους, επικοινωνίες 
+ζεύξης δεδομένων ελεγκτή-πιλότου 
+  
+controlling military unit 
+  
+στρατιωτική μονάδα ελέγχου 
+  
+converging aircraft 
+  
+συγκλίνοντα αεροσκάφη, κατά μέτωπον 
+  
+converging runway display aid  
+CRDA 
+βοήθημα απεικόνισης συγκλινόντων 
+διαδρόμων, βοήθημα οπτικής 
+παρουσίασης συγκλινόντων διαδρόμων 
+  
+conversion training 
+  
+εκπαίδευση μετατροπής 
+  
+cooperative decision making 
+  
+συλλογική λήψη αποφάσεων, συνεργατική 
+λήψη αποφάσεων 
+  
+cooperative separation 
+  
+συνεργατικός διαχωρισμός 
+  
+cooperative surveillance 
+  
+συνεργατική επιτήρηση 
+  
+cooperative surveillance chain  
+  
+συνεργατική αλυσίδα επιτήρησης 
+  
+coordinate (to) 
+  
+συντονίζω 
+  
+coordinated universal time  
+UTC 
+συντονισμένη παγκόσμια ώρα 
+  
+coordination 
+CDN 
+συντονισμός   
+  
+coordination data  
+  
+δεδομένα συντονισμού 
+  
+coordination point  
+  
+σημείο συντονισμού 
+  
+co-pilot  
+  
+συγκυβερνήτης 
+  
+corpus 
+  
+κύριο σώμα 
+  
+correct and complete EATMN 
+software verification 
+  
+ορθή και πλήρης επαλήθευση του 
+λογισμικού ΕΔΔΕΚ 
+  
+corrective action 
+  
+διορθωτικό μέτρο, διορθωτική ενέργεια 
+  
+correlation  
+  
+συσχέτιση, συσχετισμός 
+  
+cost base 
+  
+βάση υπολογισμού 
+  
+cots  
+  
+εμπορικά ετοιμοπαράδοτο προϊόν 
+  
+course leader 
+  
+συντονιστής [εκπαιδευτικής] σειράς, 
+συντονιστής [εκπαιδευτικού] 
+προγράμματος 
+  
+crash 
+  
+συντριβή 
+  
+crash alarm 
+  
+συναγερμός συντριβής, συναγερμός 
+ατυχήματος 
+  
+crash tender 
+  
+πυροσβεστικό όχημα επέμβασης σε 
+αεροπορικά ατυχήματα 
+  
+credit (in the context of 
+alternative means or prior 
+qualifications) 
+  
+αναγνώριση 
+  
+crew resource management 
+CRM 
+ολοκληρωμένη αξιοποίηση πληρώματος, 
+διαχείριση πόρων πληρώματος 
+  
+ 
+20 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+crisis management centre  
+SMC 
+κέντρο διαχείρισης κρίσεων 
+  
+critical event 
+  
+κρίσιμο συμβάν 
+  
+critical incident stress 
+  
+στρες [λόγω] κρίσιμων περιστατικών 
+  
+critical incident stress 
+management 
+CISM 
+διαχείριση [του] στρες [λόγω] κρίσιμων 
+περιστατικών 
+  
+cross bleed (or feed) 
+  
+διασταυρούμενη τροφοδότηση, σύνθετη 
+τροφοδότηση 
+  
+cross bleed (or feed) [engine] 
+start 
+  
+εκκίνηση [κινητήρων] διασταυρούμενης 
+τροφοδότησης, εκκίνηση  [κινητήρων] 
+σύνθετης τροφοδότησης 
+  
+cross-border airspace 
+  
+διασυνοριακός εναέριος χώρος, 
+διαμεθοριακός εναέριος χώρος 
+  
+cross-border services 
+  
+διασυνοριακές υπηρεσίες 
+  
+cross-country 
+  
+αεροναυτιλιακό ταξίδι 
+  
+crosswind 
+  
+εγκάρσιος άνεμος, πλάγιος άνεμος, 
+πλευρικός άνεμος 
+  
+cruise climb 
+  
+άνοδος πλεύσης 
+  
+cruise climb (to) 
+  
+εκτελώ άνοδο πλεύσης 
+  
+cruising level 
+  
+επίπεδο πλεύσης 
+  
+cruising speed 
+  
+ταχύτητα πλεύσης 
+  
+cumulonimbus 
+CB 
+σωρειτομελανίας 
+  
+cumulus 
+CU 
+σωρείτες 
+  
+current data authority 
+  
+τρέχουσα αρχή δεδομένων 
+  
+current flight plan 
+CPL 
+ισχύον σχέδιο πτήσης 
+  
+cutover 
+  
+μετάζευξη, σύνδεση εν θερμώ 
+  
+cyclic redundancy check 
+CRC 
+περιοδικός έλεγχος επάρκειας 
+  
+danger  area 
+  
+επικίνδυνη περιοχή 
+  
+dangerous goods 
+  
+επικίνδυνα υλικά, επιβλαβή υλικά 
+  
+data  
+  
+δεδομένα, στοιχεία 
+  
+data convention 
+  
+σύμβαση δεδομένων 
+  
+data link ATIS 
+D-ATIS 
+ATIS [μέσω] ζεύξης δεδομένων 
+  
+data link communications 
+  
+επικοινωνίες [μέσω] ζεύξης δεδομένων 
+  
+data link initiation capability 
+  
+εφαρμογή έναρξης ζεύξης δεδομένων 
+  
+data link manager  
+DLM 
+διαχειριστής ζεύξης δεδομένων 
+  
+data link VOLMET 
+D-VOLMET 
+VOLMET μέσω ζεύξης δεδομένων 
+  
+data processing 
+  
+επεξεργασία δεδομένων 
+  
+data quality 
+  
+ποιότητα δεδομένων 
+  
+ 
+21 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+datum 
+  
+δεδομένο [αναφοράς] 
+  
+deadstick landing 
+  
+προσγείωση χωρίς ισχύ 
+  
+de-briefing 
+Debrief  
+μετασυνόψιση 
+  
+debris 
+  
+κατάλοιπα, απορρίμματα 
+  
+decision altitude 
+DA 
+αποφασιστικό απόλυτο ύψος 
+  
+decision altitude/height 
+DA/H 
+αποφασιστικό απόλυτο/σχετικό ύψος 
+  
+decision height 
+DH 
+αποφασιστικό σχετικό ύψος 
+  
+declaration 
+  
+δήλωση 
+  
+declared capacity 
+  
+δηλωμένη χωρητικότητα 
+  
+declared distances 
+  
+δηλωμένες αποστάσεις 
+  
+decode (to) 
+  
+αποκωδικοποιώ 
+  
+decoder 
+  
+αποκωδικοποιητής 
+  
+defenses 
+  
+αμυντικοί μηχανισμοί, άμυνες 
+  
+define (to) 
+  
+ορίζω 
+  
+degraded modes of operation (in 
+the context of contingency) 
+  
+υποβαθμισμένοι τρόποι λειτουργίας, 
+καταστάσεις υποβαθμισμένης λειτουργίας 
+  
+de-icing/anti-icing facility 
+  
+εγκατάσταση από-παγοποίησης/αντι-
+παγοποίησης, ευκολία από-
+παγοποίησης/αντι-παγοποίησης 
+  
+de-icing/anti-icing pad 
+  
+χώρος αποπαγοποίησης / 
+αντιπαγοποίησης, εξέδρα 
+αποπαγοποίησης/αντιπαγοποίησης 
+  
+delay 
+DLA 
+καθυστέρηση 
+  
+delegate (to) 
+  
+μεταβιβάζω αρμοδιότητα 
+  
+demand 
+  
+ζήτηση 
+  
+demand and capacity balancing  
+DCB 
+εξισορρόπηση [μεταξύ] ζήτησης και 
+χωρητικότητας 
+  
+demonstrate (to) 
+  
+επιδεικνύω 
+  
+departing flight  
+  
+πτήση αναχώρησης 
+  
+departure 
+DEP 
+αναχώρηση 
+  
+departure manager 
+DMAN 
+σύστημα διαχείρισης αναχωρήσεων 
+  
+departure point 
+  
+σημείο αναχώρησης 
+  
+dependent parallel approaches 
+  
+εξαρτημένες παράλληλες προσεγγίσεις 
+  
+depletion of fire cover 
+  
+υποβάθμιση πυροσβεστικής κάλυψης 
+  
+depletion of fire fighting services 
+  
+υποβάθμιση υπηρεσιών πυρόσβεσης 
+  
+deployment 
+  
+ανάπτυξη,  εξάπλωση 
+  
+deployment manager 
+  
+ομάδα διαχείρισης ανάπτυξης 
+  
+ 
+22 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+deployment target date 
+  
+επιδιωκόμενη ημερομηνία ανάπτυξης 
+  
+describe (to) 
+  
+περιγράφω 
+  
+designated operational coverage    
+κατασημασμένη επιχειρησιακή κάλυψη, 
+προσδιορισμένη επιχειρησιακή κάλυψη 
+  
+designator 
+  
+κατασήμανση, προσδιοριστής 
+  
+destination alternate 
+  
+εναλλακτικό [αεροδρόμιο] προορισμού 
+  
+detect (to) 
+  
+ανιχνεύω, εντοπίζω 
+  
+determined costs 
+  
+καθορισμένο κόστος 
+  
+DETRESFA 
+  
+DETRESFA 
+  
+deviation 
+  
+απόκλιση, παρεκτροπή 
+  
+device 
+  
+συσκευή, διάταξη 
+  
+dew point 
+  
+σημείο δρόσου 
+  
+differential global navigation 
+satellite system  
+D-GNSS 
+διαφορικό παγκόσμιο δορυφορικό 
+σύστημα πλοήγησης 
+  
+differentiate (to) 
+  
+διακρίνω 
+  
+digital meteorological 
+information for aircraft in 
+flight  
+D-VOLMET 
+ψηφιακές μετεωρολογικές πληροφορίες 
+για αεροσκάφη εν πτήσει 
+  
+dinghies 
+  
+σωσίβιες λέμβοι 
+  
+direction finding 
+  
+προσδιορισμός κατεύθυνσης, 
+ραδιογωνιομετρία 
+  
+director general of civil aviation  
+DGCA 
+γενικός διευθυντής πολιτικής αεροπορίας 
+  
+discrete code 
+  
+διάκριτος κωδικός 
+  
+discrete SSR code  
+  
+διάκριτος SSR κωδικός 
+  
+displaced threshold 
+  
+μετατοπισμένο κατώφλι 
+  
+display 
+  
+απεικόνιση, οθόνη 
+  
+distance from touchdown 
+indicator  
+DFTI  
+ενδείκτης απόστασης από το σημείο 
+επαφής διαδρόμου, ενδείκτης απόστασης 
+από το σημείο προσεδάφισης 
+  
+distance measuring equipment  
+DME 
+εξοπλισμός μέτρησης αποστάσεων 
+  
+distress phase 
+  
+φάση κινδύνου 
+  
+ditching 
+  
+αναγκαστική προσθαλάσσωση 
+  
+diversion 
+  
+εκτροπή, αλλαγή προορισμού 
+  
+divert (to) 
+  
+εκτρέπω, αλλάζω προορισμό 
+  
+divert arrival 
+  
+άφιξη [εξ] εκτροπής, άφιξη κατόπιν 
+αλλαγής προορισμού 
+  
+document 
+DOC 
+εγχειρίδιο 
+  
+ 
+23 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+downlink 
+  
+κατερχόμενη(ς) ζεύξη(ς), καθοδική(ς) 
+ζεύξη(ς) 
+  
+downlinked aircraft identification  
+  
+αναγνώριση αεροσκάφους διαβιβαζόμενη 
+με καθοδική ζεύξη 
+  
+downstream  clearance  
+  
+εξουσιοδότηση συνέχειας 
+  
+downstream data authority 
+  
+αρχή δεδομένων στη συνέχεια της 
+διαδρομής 
+  
+downwash 
+  
+κατώρευμα 
+  
+downwind 
+  
+υπήνεμο 
+  
+drag 
+  
+οπισθέλκουσα 
+  
+draw (to) 
+  
+σχεδιάζω 
+  
+drift 
+  
+έκπτωση 
+  
+drizzle 
+DZ 
+ψεκάδες βροχής 
+  
+dry snow 
+  
+ξηρό χιόνι 
+  
+dual instruction time  
+  
+χρόνος εκπαίδευσης σε διπλό χειρισμό 
+  
+dump (runway) 
+  
+υγρός (διάδρομος) 
+  
+duplex 
+  
+αμφίδρομος, διπλής κατεύθυνσης 
+  
+dust (widespread) 
+DU 
+σκόνη (διασκορπισμένη) 
+  
+dust / sand whirls (dust devils) 
+PO 
+στρόβιλοι σκόνης / άμμου 
+(κονιορτοστρόβιλοι) 
+  
+duststorm 
+DS 
+κονιορτοθύελλα 
+  
+dynamic load-bearing surface 
+  
+δυναμική φέρουσα επιφάνεια 
+  
+early termination of training 
+  
+πρόωρη λήξη εκπαίδευσης, πρόωρος 
+τερματισμός εκπαίδευσης 
+  
+EATMN software 
+  
+λογισμικό EATMN, λογισμικό ΕΔΔΕΚ 
+  
+effective intensity 
+  
+ενεργός ένταση 
+  
+efficiency 
+  
+αποδοτικότητα, απόδοση 
+  
+e-learning 
+EL 
+ηλεκτρονική μάθηση, πληροφορικοπαγής 
+εκπαίδευση 
+  
+electronic flight instrument 
+system 
+EFIS           
+ηλεκτρονικό σύστημα οργάνων πτήσης 
+  
+elevated heliport 
+  
+υπερυψωμένο ελικοδρόμιο 
+  
+elevation 
+  
+υψόμετρο 
+  
+elevator 
+  
+πηδάλιο ανόδου - καθόδου 
+  
+eligible interrogator code 
+  
+επιλέξιμος κωδικός ερωτηματοθέτησης 
+  
+eligible mode s interrogator 
+  
+επιλέξιμος ερωτηματοθέτης τρόπου 
+λειτουργίας S 
+  
+ellipsoid height 
+  
+ελλειψοειδές σχτικό ύψος 
+  
+ 
+24 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+embedded 
+  
+ενσωματωμένος, περιεχόμενος [σε] 
+  
+emergency 
+  
+έκτακτη ανάγκη 
+  
+emergency equipment 
+  
+εξοπλισμός έκτακτκης ανάγκης 
+  
+emergency evacuation 
+  
+εκκένωση έκτακτης ανάγκης 
+  
+emergency exit 
+  
+έξοδος κινδύνου 
+  
+emergency locator transmitter 
+ELT 
+πομπός εντοπισμού έκτακτης ανάγκης  
+  
+emergency mode (in the context 
+of contingency) 
+  
+περίπτωση έκτακτης ανάγκης 
+  
+emergency phase 
+  
+φάση έκτακτης ανάγκης 
+  
+emergency plan 
+  
+σχέδιο έκτακτης ανάγκης 
+  
+emergency response plan 
+ERP 
+σχέδιο αντιμετώπισης έκτακτης ανάγκης 
+  
+emergency situation 
+  
+κατάσταση έκτακτης ανάγκης 
+  
+empty stand 
+  
+κενή θέση [στάθμευσης] 
+  
+enable 
+  
+δραστικοποιώ 
+  
+enabler 
+  
+δραστικοποιητής 
+  
+encode (to) 
+  
+κωδικοποιώ 
+  
+engine fire 
+  
+φωτιά στον κινητήρα, πυρκαγιά στον 
+κινητήρα 
+  
+engine run-up 
+  
+δοκιμή κινητήρα 
+  
+enroute 
+  
+επί διαδρομής 
+  
+en-route alternate  
+  
+εναλλακτικό επί διαδρομής  [αεροδρόμιο]  
+  
+en-route charge 
+  
+τέλη διαδρομής 
+  
+en-route charging zone  
+  
+ζώνη χρέωσης [τελών] διαδρομής 
+  
+en-route clearance 
+  
+εξουσιοδότηση διαδρομής 
+  
+ensure (to) 
+  
+διασφαλίζω 
+  
+entry fix 
+  
+σταθερό σημείου εισόδου 
+  
+equipment 
+  
+εξοπλισμός 
+  
+equity 
+  
+δικαιοσύνη, αμεροληψία 
+  
+error 
+  
+σφάλμα, λάθος 
+  
+error management 
+  
+διαχείριση σφαλμάτων 
+  
+established (on ILS) 
+  
+ευθυγραμμισμένος (στο ILS) 
+  
+estimate 
+EST 
+υπολογιζόμενος χρόνος, εκτιμώμενος 
+χρόνος 
+  
+estimate (to) 
+  
+υπολογίζω [κατ΄ εκτίμηση], εκτιμώ 
+  
+estimate data 
+  
+κατ’ εκτίμηση δεδομένα, υπολογιζόμενα 
+στοιχεία 
+  
+ 
+25 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+estimate message 
+  
+μήνυμα υπολογιζόμενου χρόνου, μήνυμα 
+εκτιμώμενου χρόνου 
+  
+estimated elapsed time 
+EET 
+υπολογιζόμενη χρονική διάρκεια, 
+εκτιμώμενη χρονική διάρκεια 
+  
+estimated off-block date  
+  
+υπολογιζόμενη ημερομηνία αναχώρησης 
+από τη θέση στάθμευσης, εκτιμώμενη 
+ημερομηνία αναχώρησης από τη θέση 
+στάθμευσης 
+  
+estimated off-block time 
+  
+υπολογιζόμενη ώρα αναχώρησης από τη 
+θέση στάθμευσης, εκτιμώμενη ώρα 
+αναχώρησης από τη θέση στάθμευσης 
+  
+estimated time of arrival 
+ETA 
+υπολογιζόμενη ώρα άφιξης, εκτιμώμενη 
+ώρα άφιξης 
+  
+estimated time of departure  
+ETD 
+υπολογιζόμενη ώρα αναχώρησης, 
+εκτιμώμενη ώρα αναχώρησης 
+  
+estimating arrival 
+  
+υπολογιζόμενη [ώρα] άφιξη[ς], εκτιμώμενη 
+[ώρα] άφιξη[ς] 
+  
+estimating departure  
+  
+υπολογιζόμενη [ώρα]  αναχώρηση[ς], 
+εκτιμώμενη [ώρα]  αναχώρηση[ς] 
+  
+etops en-route alternate  
+  
+εναλλακτικό επί διαδρομής για  etops 
+  
+eurocontrol 
+  
+eurocontrol 
+  
+eurocontrol safety regulatory 
+requirements 
+ESARR 
+ρυθμιστικές απαιτήσεις ασφάλειας [του 
+eurocontrol] 
+  
+european agency for aviation 
+EAA 
+Ευρωπαϊκός Οργανισμός για την 
+Αεροπορία 
+  
+european air navigation planning 
+group  
+EANPG 
+ομάδα σχεδιασμού ευρωπαϊκής 
+αεροναυτιλίας 
+  
+european air traffic management 
+EATM 
+ευρωπαϊκή διαχείριση [της] εναέριας 
+κυκλοφορίας 
+  
+european air traffic management 
+network 
+EATMN 
+ευρωπαϊκό δίκτυο διαχείρισης εναέριας 
+κυκλοφορίας 
+ΕΔΔΕΚ 
+european air traffic management 
+network software 
+  
+λογισμικό ευρωπαϊκού δικτύου 
+διαχείρισης εναέριας κυκλοφορίας 
+  
+european aviation safety agency 
+EASA 
+Ευρωπαϊκός Οργανισμός Ασφάλειας της 
+Αεροπορίας  
+  
+european civil aviation 
+conference  
+ECAC  
+Ευρωπαϊκή [Συν]Διάσκεψη Πολιτικής 
+Αεροπορίας  
+  
+european defence agency 
+  
+Ευρωπαϊκός Οργανισμός Άμυνας 
+  
+european geostationary 
+navigation overlay service 
+EGNOS 
+ευρωπαϊκή υπηρεσία υπέρθεσης για τη 
+γεωστατική πλοήγηση  
+  
+european organisation for civil 
+aviation equipment 
+EUROCAE 
+Ευρωπαϊκός Οργανισμός Εξοπλισμού 
+Πολιτικής Αεροπορίας 
+  
+ 
+26 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+european organisation for the 
+safety of air navigation 
+EUROCON
+TROL 
+Ευρωπαϊκός Οργανισμός για την 
+Ασφάλεια της Αεροναυτιλίας 
+  
+european route network 
+improvement plan 
+  
+σχέδιο βελτίωσης του ευρωπαϊκού 
+δικτύου διαδρομών 
+  
+european transport workers' 
+federation 
+ETF 
+Ευρωπαϊκή Ομοσπονδία Εργαζομένων 
+στις Μεταφορές  
+  
+evacuation 
+  
+εκκένωση 
+  
+evaluation 
+  
+αποτίμηση, αξιολόγηση 
+  
+examination 
+  
+εξέταση 
+  
+examiner 
+  
+εξεταστής 
+  
+excursion 
+  
+υπέρβαση ορίων 
+  
+execute (to) 
+  
+εκτελώ 
+  
+execution (in the context of 
+contingency planning) 
+  
+εκτέλεση 
+  
+exit fix 
+  
+σταθερό σημείο εξόδου 
+  
+expected  approach time 
+EAT 
+αναμενόμενος χρόνος προσέγγισης 
+  
+expedite (to) 
+  
+επιταχύνω 
+  
+explain (to) 
+  
+ε[πε]ξηγώ 
+  
+extended arrival management 
+  
+εκτεταμένη διαχείριση αφίξεων 
+  
+external fire 
+  
+εξωτερική φωτιά (σε αεροσκάφος), 
+εξωτερική πυρκαγιά (σε αεροσκάφος) 
+  
+extract (to) 
+  
+εξάγω 
+  
+extrapolate (to) 
+  
+υπολογίζω κατά παρέκταση 
+  
+facility 
+  
+εγκατάσταση, ευκολία 
+  
+failing unit (in the context of 
+contingency) 
+  
+εκτός λειτουργίας μονάδα 
+  
+fail-operational automatic 
+landing system 
+  
+αυτόματο σύστημα προσγείωσης 
+λειτουργικό σε αστοχία 
+  
+fail-operational hybrid landing 
+system 
+  
+υβριδικό σύστημα προσγείωσης 
+λειτουργικό σε αστοχία 
+  
+fall back mode of operation ((in 
+the context of contingency) 
+  
+κατάσταση λειτουργίας επαναφοράς, 
+κατάσταση λειτουργίας επανόδου 
+  
+false  
+  
+εσφαλμένος, ψευδής 
+  
+false alarm 
+  
+εσφαλμένος  συναγερμός, ψευδής 
+συναγερμός 
+  
+fan engine 
+  
+στροβιλοκινητήρας διπλής ροής 
+  
+fatal injury 
+  
+θανάσιμος τραυματισμός 
+  
+ 
+27 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+federation of transport workers' 
+unions [in the european 
+union]  
+FST 
+ομοσπονδία των ενώσεων εργαζομένων 
+στις μεταφορές [στην ευρωπαϊκή ένωση) 
+  
+feedback 
+  
+ανάδραση, ανατροφοδότηση 
+  
+feet 
+  
+[μετρικά] πόδια 
+  
+filed flight plan 
+  
+κατατεθειμένο σχέδιο πτήσης, κατατεθέν 
+σχέδιο πτήσης 
+  
+fin 
+  
+κάθετο σταθερό πτερύγιο 
+  
+final approach 
+  
+τελική προσέγγιση 
+  
+final approach and take-off area 
+FATO 
+περιοχή τελικής προσέγγισης και 
+απογείωσης 
+  
+final approach fix 
+FAF  
+σταθερό σημείο τελικής προσέγγισης 
+  
+fire 
+  
+φωτιά, πυρκαγιά 
+  
+fire brigade 
+  
+Πυροσβεστική Υπηρεσία 
+Π.Υ. 
+fire drill 
+  
+άσκηση πυρόσβεσης 
+  
+fix 
+  
+σταθερό σημείο 
+  
+fixed light 
+  
+σταθερό φώς 
+  
+fixed pitch propeller 
+  
+έλικα σταθερού βήματος 
+  
+flap 
+  
+πτερύγιο καμπυλότητας 
+  
+flashing lights 
+  
+αναλάμποντα φώτα 
+  
+flat tire 
+  
+σκασμένο ελαστικό 
+  
+flexible airspace management  
+  
+ευέλικτη διαχείριση [του] εναέριου χώρου 
+  
+flexible use of airspace 
+FUA 
+ευέλικτη χρήση του εναέριου χώρου 
+  
+flight check 
+  
+από αέρος έλεγχος 
+  
+flight crew member 
+  
+μέλος πληρώματος πτήσης, μέλος 
+πληρώματος διακυβέρνησης 
+  
+flight data 
+  
+δεδομένα πτήσης, στοιχεία πτήσης 
+  
+flight data [operational] position 
+  
+[επιχειρησιακή] θέση δεδομένων πτήσης 
+  
+flight data analysis 
+FDA 
+ανάλυση δεδομένων πτήσης 
+  
+flight data monitoring 
+FDM 
+παρακολούθηση δεδομένων πτήσης 
+  
+flight data processing system  
+FDPS 
+σύστημα επεξεργασίας δεδομένων 
+πτήσης 
+  
+flight data recorder 
+FDR 
+καταγραφέας δεδομένων πτήσης, 
+αποτυπωτής δεδομένων πτήσης 
+  
+flight deck 
+  
+θάλαμος διακυβέρνησης 
+  
+flight dispatcher 
+  
+επιμελητής πτήσης 
+  
+flight information 
+  
+πληροφορίες πτήσης 
+  
+ 
+28 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+flight information center  
+FIC 
+κέντρο πληροφοριών πτήσης 
+  
+flight information region 
+FIR 
+περιοχή πληροφοριών πτήσης 
+  
+flight information service 
+FIS 
+υπηρεσία πληροφοριών πτήσης 
+  
+flight inspection 
+  
+από αέρος επιθεώρηση 
+  
+flight intent 
+  
+πρόθεση πτήσης 
+  
+flight intention 
+  
+πρόθεση πτήσης 
+  
+flight level 
+FL 
+επίπεδο πτήσης 
+  
+flight management system 
+FMS 
+σύστημα διαχείρισης πτήσης 
+  
+flight path 
+  
+ίχνος πτήσης 
+  
+flight path monitoring 
+  
+παρακολούθηση ίχνους πτήσης 
+  
+flight plan 
+FPL 
+σχέδιο πτήσης 
+  
+flight plan data 
+  
+δεδομένα σχεδίου πτήσης, στοιχεία 
+σχεδίου πτήσης 
+  
+flight plan suspension 
+  
+αναστολή σχεδίου πτήσης 
+  
+flight procedures trainer  
+  
+εκπαιδευτική συσκευή διαδικασιών 
+πτήσης 
+  
+flight progress board 
+  
+πίνακας προόδου πτήσεων 
+  
+flight progress display 
+  
+απεικόνιση προόδου πτήσεων 
+  
+flight progress strip 
+  
+λωρίδα προόδου πτήσεων 
+  
+flight recorder 
+  
+καταγραφέας πτήσης, αποτυπωτής 
+πτήσης 
+  
+flight simulation training device 
+  
+εκπαιδευτική συσκευή προσομοίωσης 
+πτήσης , προσομοιωτική συσκευή 
+πτητικής εκπαίδευσης 
+  
+flight simulator  
+  
+προσομοιωτής πτήσης 
+  
+flight status  
+  
+κατάσταση πτήσης 
+  
+flight time — aeroplanes  
+  
+χρόνος πτήσης - αεροπλάνα 
+  
+flight time — helicopters  
+  
+χρόνος πτήσης - ελικόπτερα 
+  
+flight visibility 
+  
+ορατότητα πτήσης 
+  
+flights operated under visual 
+flight rules 
+  
+πτήσεις [διεξαγόμενες] σύμφωνα με τους 
+κανόνες πτήσης εξ όψεως 
+  
+flooded (runway) 
+  
+πλημμυρισμένος (διαδρομος) 
+  
+flow control 
+  
+έλεγχος ροής 
+  
+fly−by waypoint  
+  
+σημείο πλευρικής διέλευσης διαδρομής 
+  
+fly−over waypoint  
+  
+σημείο έναρξης στροφής 
+  
+flypast 
+  
+[τιμητική] διέλευση μαχητικών 
+[αεροσκαφών] 
+  
+ 
+29 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+foam 
+  
+αφρός 
+  
+fog 
+FG 
+ομίχλη 
+  
+follow me vehicle 
+  
+όχημα καθοδήγησης 
+  
+fore 
+  
+εμπρόσθιο τμήμα αεροσκάφους 
+  
+forecast 
+FCST 
+πρόγνωση 
+  
+forecasting and economic 
+analysis support group  
+FESG 
+ομάδα υποστήριξης προγνωστικής και 
+οικονομικής ανάλυσης 
+  
+foreign object damage 
+FOD 
+ζημιά από εξωτερικό (ξένο) αντικείμενο 
+  
+forseen outage (in the context of 
+contingency) 
+  
+προβλεπόμενη διακοπή λειτουργίας 
+  
+four dimentional (4d) trajectory 
+management  
+  
+διαχείριση τετραδιάστατων τροχιών  
+  
+four dimentional trajectory 
+4d 
+trajectory 
+τετραδιάστατη τροχιά 
+  
+four-dimensional 
+4-D 
+τετρα-διάστατος 
+  
+four-dimensional (lateral, 
+longitudinal, vertical, 
+temporal)  
+4-D 
+τετρα-διάστατος (πλευρικός, διαμήκης, 
+κατακόρυφος, χρονικός) 
+  
+fractocumulus 
+  
+σχιστοσωρείτες 
+  
+frangible object 
+  
+εύθραυστο αντικείμενο 
+  
+free route airspace 
+  
+εναέριος χώρος ελεύθερων διαδρομών 
+  
+freezing 
+FZ 
+παγοποίηση 
+  
+freezing fog 
+FZFG 
+παγωμένη ομίχλη 
+  
+freezing level 
+  
+επίπεδο παγοποίησης 
+  
+freezing precipitation 
+FZDZ , 
+FZRA 
+παγωμένος υετός, υετός σε υπέρτηξη 
+  
+frequency allocation 
+  
+κατανομή συχνοτήτων 
+  
+frequency assignment 
+  
+εκχώρηση συχνότητας 
+  
+frequency channel 
+  
+δίαυλος συχνότητας, κανάλι συχνότητας 
+  
+friction coefficient 
+  
+συντελεστής τριβής 
+  
+frost 
+FROST 
+παγετός 
+  
+fuel dumping 
+  
+απόρριψη καυσίμων 
+  
+fuel endurance 
+  
+διάρκεια καυσίμων 
+  
+fuel leak 
+  
+ρωγμή διαρροής [καυσίμου] 
+  
+fuel spill 
+  
+κηλίδα καυσίμου 
+  
+fuel spillage 
+  
+διαρροή καυσίμου, κηλίδα από διαρροή 
+καυσίμου 
+  
+full emergency 
+  
+κατάσταση αναμενόμενου ατυχήματος 
+  
+ 
+30 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+functional airspace block 
+FAB 
+λειτουργικό τμήμα εναέριου χώρου 
+  
+functional system 
+  
+λειτουργικό σύστημα 
+  
+functionality 
+  
+ λειτουργική δυνατότητα, λειτουργικότητα 
+  
+funnel cloud (tornado or 
+waterspout) 
+FC 
+χοανοειδές νέφος (σίφωνας ξηράς ή 
+θαλάσσιος σίφωνας) 
+  
+fuselage 
+  
+άτρακτος 
+  
+future air navigation systems  
+FANS 
+μελλοντικά συστήματα αεροναυτιλίας 
+  
+garbling 
+  
+παρεμβολή λαθών 
+  
+gate to gate 
+  
+από πύλη σε πύλη, από θύρα σε θύρα 
+  
+general air traffic 
+GAT 
+γενική εναέρια κυκλοφορία 
+  
+general aviation 
+GA 
+γενική αεροπορία, γενική αεροπλοϊα 
+  
+general declaration 
+  
+γενικό δηλωτικό 
+  
+general objective 
+  
+γενικός [αντικειμενικός] στόχος 
+  
+geodetic datum 
+  
+γεωδαιτικό δεδομένο αναφοράς 
+  
+geodetic height 
+  
+γεωδαιτικό σχετικό ύψος 
+  
+geoid 
+  
+γεωειδές 
+  
+geoid undulation 
+  
+γεωειδής διακύμανση 
+  
+glide path 
+GP 
+ίχνος κατολίσθησης 
+  
+glider 
+  
+ανεμόπτερο 
+  
+glider flight time  
+  
+χρόνος πτήσης ανεμόπτερου 
+  
+gliding 
+  
+κατολίσθηση 
+  
+global air traffic management 
+operational concept 
+  
+γενικό επιχειρησιακό σχέδιο συνολικής 
+διαχείρισης [της] εναέριας κυκλοφορίας, 
+επιχειρησιακό σκεπτικό συνολικής 
+διαχείρισης [της] εναέριας κυκλοφορίας 
+  
+global navigation satellite 
+system  
+GNSS 
+παγκόσμιο δορυφορικό σύστημα 
+πλοήγησης 
+  
+global orbiting navigation 
+satellite system  
+GLONASS 
+παγκόσμιο ελλειπτικό δορυφορικό 
+σύστημα πλοήγησης 
+  
+global positioning system 
+GPS 
+παγκόσμιο σύστημα προσδιορισμού 
+θέσης, παγκόσμιο σύστημα εντοπισμού 
+  
+go around 
+  
+επανακυκλώνω 
+  
+greek air traffic controllers 
+association 
+GATCA 
+ένωση ελεγκτών εναέριας κυκλοφορίας 
+ελλάδας 
+ΕΕΕΚΕ 
+greenhouse gas 
+GHG 
+αέρια θερμοκηπίου 
+  
+gregorian calendar 
+  
+γρηγοριανό ημερολόγιο 
+  
+grid 
+  
+κάνναβος, πλέγμα 
+  
+ground controlled approach 
+  
+προσέγγιση ελεγχόμενη από το έδαφος 
+  
+ 
+31 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+ground controlled approach 
+system 
+GCA 
+σύστημα προσέγγισης ελεγχόμενο από το 
+έδαφος 
+  
+ground decoder 
+  
+[επίγειος] αποκωδικοποιητής 
+  
+ground decoding equipment 
+  
+[επίγειος] αποκωδικοποιητής 
+  
+ground earth station 
+GES 
+επίγειος σταθμός εδάφους 
+  
+ground effect 
+  
+επίδραση εδάφους 
+  
+ground handling 
+  
+επίγεια εξυπηρέτηση, εξυπηρέτηση 
+εδάφους 
+  
+ground movement control  
+GMC  
+έλεγχος κινήσεων εδάφους 
+  
+ground personnel 
+  
+προσωπικό εδάφους 
+  
+ground power unit 
+  
+μονάδα ισχύος εδάφους 
+  
+ground proximity warning 
+system  
+GPWS  
+σύστημα προειδοποίησης εγγύτητας 
+εδάφους 
+  
+ground signal 
+  
+επίγειο σήμα 
+  
+ground speed 
+GS 
+ταχύτητα εδάφους 
+  
+ground visibility 
+  
+ορατότητα εδάφους 
+  
+ground-based augmentation 
+system 
+GBAS 
+εδαφικό σύστημα φασματικής επαύξησης 
+  
+ground-to-air  communication 
+G/A 
+επικοινωνία εδάφους-αέρος 
+  
+group simulation 
+GSim 
+ομαδική προσομοίωση, προσομοίωση σε 
+ομάδα [εκπαιδευόμενων} 
+  
+group training  
+  
+ομαδική εκπαίδευση 
+  
+guidance material 
+  
+καθοδηγητικό υλικό 
+  
+gust 
+  
+ριπή 
+  
+hail 
+GR 
+χαλάζι 
+  
+half duplex 
+  
+ημιαμφίδρομος 
+  
+handbook 
+HBK  
+εγχειρίδιο 
+  
+hangar 
+  
+υπόστεγο αεροσκαφών 
+  
+hardware 
+  
+υλισμικό 
+  
+harmful interference  
+  
+επιβλαβείς παρεμβολές 
+  
+hazard 
+  
+κίνδυνος 
+  
+hazard beacon 
+  
+φάρος κινδύνου 
+  
+hazardous materials 
+  
+επικίνδυνα υλικά, επιβλαβή υλικά 
+  
+hazards 
+  
+κίνδυνοι 
+  
+haze 
+HZ 
+ξηρά αχλύς 
+  
+heading 
+  
+πορεία 
+  
+head-on 
+  
+μετωπικά, κατά μέτωπον 
+  
+ 
+32 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+head-up display  
+HUD  
+απεικονιστής ορθής διόπτευσης 
+  
+headwind 
+  
+μετωπικός άνεμος 
+  
+heavy (intensity) 
+HVY 
+ισχυρή (ένταση) 
+  
+heavy aircraft 
+  
+βαρύ (βάσει αεροδινών) αεροσκάφος 
+  
+heavy landing 
+  
+βαριά προσγείωση 
+  
+height 
+  
+σχετικό ύψος 
+  
+helicopter  
+  
+ελικόπτερο 
+  
+helicopter air taxiway 
+  
+αεροτροχόδρομος ελικοπτέρων 
+  
+helicopter clearway 
+  
+περιοχή ελεύθερη εμποδίων για 
+ελικόπτερα 
+  
+helicopter ground taxiway 
+  
+επίγειος τροχόδρομος ελικοπτέρων 
+  
+helicopter stand 
+  
+θέση στάθμευσης ελικοπτέρων 
+  
+helideck 
+  
+ελικοδρόμιο επί θαλάσσιας εξέδρας, 
+κατάστρωμα για ελικόπτερα 
+  
+helipad 
+  
+εξέδρα απογείωσης / προσγείωσης 
+ελικοπτέρων 
+  
+heliport 
+  
+ελικοδρόμιο 
+  
+high consequence indicators 
+  
+δείκτες σοβαρών επιπτώσεων 
+  
+high frequency 
+HF 
+υψηλή συχνότητα 
+  
+high-fidelity simulator 
+Hi Fi Sim 
+προσομοιωτής υψηλής πιστότητας 
+  
+hoar frost 
+  
+πάχνη 
+  
+holding bay 
+  
+περιοχή κράτησης 
+  
+holding fix 
+  
+σταθερό σημείο κράτησης 
+  
+holding point 
+  
+σημείο κράτησης 
+  
+holding position 
+  
+θέση κράτησης 
+  
+holding procedure 
+  
+διαδικασία κράτησης 
+  
+holdover time 
+  
+διάρκεια δράσης [αντιπαγωτικού υλικού] 
+  
+homing 
+  
+παλιννόστηση 
+  
+homogeneous ATM area 
+  
+ομογενής περιοχή ΔΕΚ 
+  
+horizontal stabilizer 
+  
+οριζόντιο ουραίο πτέρωμα, οριζόντιος 
+σταθεροποιητής 
+  
+hot brakes 
+  
+ζεστά φρένα 
+  
+hot spot 
+  
+θερμό σημείο 
+  
+hot swapping 
+  
+σύνδεση εν θερμώ, μετάζευξη 
+  
+human factor 
+  
+ανθρώπινος παράγοντας 
+  
+human factors principles 
+  
+αρχές ανθρώπινου παράγοντα 
+  
+ 
+33 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+human performance 
+  
+ανθρώπινη επίδοση 
+  
+human-machine interface  
+HMI 
+διεπαφή ανθρώπου-μηχανής 
+  
+hydraulic system 
+  
+υδραυλικό σύστημα 
+  
+ICAO location indicator 
+  
+ενδείκτης τοποθεσίας ICAO 
+  
+ice crystals 
+  
+παγοκρύσταλλοι 
+  
+ice pellets 
+  
+σβόλοι πάγου 
+  
+identification 
+  
+αναγνώριση, ταυτοποίηση 
+  
+identification beacon 
+  
+φάρος αναγνώρισης 
+  
+identify (to) 
+  
+αναγνωρίζω 
+  
+idle power 
+  
+χαμηλά στοιχεία, χαμηλή ισχύς 
+  
+IFR flight 
+  
+πτήση IFR 
+  
+ILS critical  area 
+  
+κρίσιμη περιοχή ILS 
+  
+ILS localizer 
+  
+εντοπιστής ILS 
+  
+ILS sensitive area 
+  
+ευαίσθητη περιοχή ILS 
+  
+impact on the network 
+  
+επίπτωση στο δίκτυο 
+  
+implementation (in the context of 
+contingency planning) 
+  
+υλοποίηση 
+  
+implementation sequence  
+  
+ακολουθία εφαρμογής 
+  
+inbound 
+  
+προσερχόμενος 
+  
+incident 
+  
+συμβάν 
+  
+incident data reporting 
+  
+αναφορά δεδομένων συμβάντος 
+  
+incursion 
+  
+παρείσφρηση 
+  
+independent parallel approaches 
+  
+ανεξάρτητες παράλληλες προσεγγίσεις 
+  
+independent parallel departures 
+  
+ανεξάρτητες παράλληλες αναχωρήσεις 
+  
+independent software 
+components  
+  
+ανεξάρτητα στοιχεία λογισμικού 
+  
+indicated  airspeed 
+IAS  
+ενδεικνυόμενη ταχύτητα αέρα 
+  
+indicator 
+  
+ενδείκτης, δείκτης 
+  
+individual simulation 
+ISim 
+ατομική προσομοίωση, προσομοίωση κατ' 
+άτομο 
+  
+individualised training 
+  
+εξατομικευμένη εκπαίδευση 
+  
+industrial partnership 
+  
+βιομηχανικός εταιρισμός 
+  
+inertial navigation system 
+INS 
+ αδρανειακό σύστημα πλοήγησης 
+  
+inertial reference system 
+IRS  
+αδρανειακό σύστημα αναφοράς 
+  
+inform (to) 
+  
+πληροφορώ 
+  
+information management 
+IM 
+διαχείριση πληροφοριών 
+  
+ 
+34 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+initial approach 
+INA 
+αρχική προσέγγιση 
+  
+initial approach fix 
+IAF 
+σταθερό σημείο αρχικής προσέγγισης 
+  
+initial approach segment 
+  
+αρχικό τμήμα προσέγγισης 
+  
+initial flight plan  
+  
+αρχικό σχέδιο πτήσης 
+  
+initial four dimentional (i4d) 
+trajectory management 
+  
+αρχική φάση διαχείρισης τετραδιάστατων 
+τροχιών  
+  
+initial system-wide Information 
+management 
+iSWIM 
+αρχική φάση ολοσυστημικής διαχείρισης 
+πληροφοριών  
+  
+initial training  
+  
+αρχική εκπαίδευση 
+  
+initial trajectory information 
+sharing  
+  
+αρχική φάση μερισμού πληροφοριών 
+τροχιάς 
+  
+initiate (to) 
+  
+ξεκινώ, εκκινώ 
+  
+inoperable 
+  
+μη λειτουργικός, χαλασμένος 
+  
+input (to) 
+  
+εισάγω 
+  
+institute of air navigation 
+services 
+IANS 
+ινστιτούτο υπηρεσιών αεροναυτιλίας 
+  
+instructor 
+  
+εκπαιδευτής 
+  
+instructor endorsement 
+  
+καταχώριση εκπαιδευτή 
+  
+instrument approach and landing 
+operations 
+  
+λειτουργίες ενόργανης προσέγγισης και 
+προσγείωσης 
+  
+instrument approach chart 
+IAC 
+χάρτης ενόργανης προσέγγισης 
+  
+instrument approach procedure 
+  
+διαδικασία ενόργανης προσέγγισης 
+  
+instrument flight rules 
+IFR 
+κανόνες πτήσης με όργανα, κανόνες 
+ενόργανης πτήσης 
+IFR 
+instrument flight rules flight 
+  
+πτήση σύμφωνα με τους κανόνες πτήσης 
+με όργανα, πτήση σύμφωνα με τους 
+κανόνες ενόργανης πτήσης 
+  
+instrument flight time  
+  
+χρόνος πτήσης με όργανα, χρόνος 
+ενόργανης πτήσης 
+  
+instrument ground time  
+  
+ενόργανος χρόνος [πτήσης] στο έδαφος 
+  
+instrument landing system  
+ILS 
+σύστημα ενόργανης προγείωσης 
+  
+instrument landing system 
+localizer 
+ILS LOC 
+εντοπιστής συστήματος ενόργανης 
+προσγείωσης 
+  
+instrument meteorological  
+conditions 
+IMC 
+μετεωρολογικές συνθήκες πτήσης με 
+όργανα, μετεωρολογικές συνθήκες 
+ενόργανης πτήσης 
+IMC 
+instrument runway 
+  
+ενόργανος διάδρομος 
+  
+instrument runway visual range  
+IRVR 
+ορατή εμβέλεια ενόργανου διαδρόμου, 
+ορατή απόσταση ενόργανου διαδρόμου 
+  
+instrument time  
+  
+χρόνος με όργανα, ενόργανος χρόνος 
+  
+ 
+35 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+integrate (to) 
+  
+εντάσσω, ενσωματώνω 
+  
+integrated initial flight plan 
+processing system 
+  
+ολοκληρωμένο σύστημα επεξεργασίας 
+αρχικού σχεδίου πτήσης 
+  
+integrated operational airspace 
+  
+ολοκληρωμένος επιχειρησιακός εναέριος 
+χώρος 
+  
+integration 
+  
+ενοποίηση, ολοκλήρωση 
+  
+integrity  
+  
+ακεραιότητα 
+  
+integrity of aeronautical data  
+  
+ακεραιότητα αεροναυτικών δεδομένων 
+  
+intergovernmental panel on 
+climate change  
+IPCC 
+διακυβερνητική επιτροπή για την κλιματική 
+αλλαγή  
+  
+intermediate holding position 
+  
+ενδιάμεσο σημείο κράτησης 
+  
+internal fire 
+  
+εσωτερική φωτιά (σε αεροσκάφος), 
+εσωτερική πυρκαγιά (σε αεροσκάφος) 
+  
+international air carrier 
+association 
+IACA 
+διεθνής ένωση αερομεταφορέων 
+  
+international air transport 
+association  
+IATA 
+Διεθνής Ένωση Αεροπορικών 
+Μεταφορών, Διεθνής Ένωση 
+Αερομεταφορών 
+  
+international airways volcano 
+watch  
+IAVW 
+Διεθνής Ηφαιστειακή Επαγρύπνηση για 
+τους Αεροδιαδρόμους 
+  
+international civil aviation 
+organization  
+ICAO 
+Διεθνής Οργανισμός Πολιτικής 
+Αεροπορίας 
+  
+international coordinating council 
+of aerospace industries 
+associations  
+ICCAIA 
+Διεθνές Συντονιστικό Συμβούλιο 
+Αεροδιαστημικών Βιομηχανιών 
+  
+international council of aircraft 
+owner and pilot associations 
+IAOPA 
+Διεθνές Συμβούλιο Ενώσεων Ιδιοκτητών 
+Αεροσκαφών και Πιλότων 
+  
+international federation of air 
+traffic controllers 
+associations 
+IFATCA 
+Διεθνής Ομοσπονδία Ενώσεων Ελεγκτών 
+Εναέριας Κυκλοφορίας 
+  
+international federation of airline 
+pilots association 
+IFALPΑ 
+Διεθνής Ομοσπονδία Ενώσεων Πιλότων 
+Αερογραμμών 
+  
+international NOTAM office 
+  
+γραφείο διεθνών αγγελιών 
+  
+international organization for 
+standardization 
+ISO 
+Διεθνής Οργανισμός Τυποποίησης 
+  
+international standard 
+atmosphere 
+ISA 
+διεθνής πρότυπη ατμόσφαιρα 
+  
+international standards and 
+recommended practices  
+SARPs 
+διεθνή πρότυπα και συνιστώμενες 
+πρακτικές 
+  
+international telecommunication 
+union  
+ITU 
+Διεθνής Ένωση Τηλεπικοινωνιών 
+  
+interoperability 
+  
+διαλειτουργικότητα 
+  
+ 
+36 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+Interpilot air-to-air 
+communication.  
+  
+(ενδο)επικοινωνία μεταξύ ιπτάμενων 
+αεροσκαφών 
+  
+interrogation 
+  
+ερώτηση, ερωτηματοθέτηση 
+  
+interrogator 
+INTRG 
+ερωτηματοθέτης 
+  
+interrogator code 
+  
+κωδικός ερωτηματοθέτη 
+  
+interrogator code allocation             
+εκχώρηση κωδικών ερωτηματοθέτη, 
+κατανομή κωδικών ερωτηματοθέτη 
+  
+interrogator code allocation plan  
+  
+σχέδιο εκχώρησης κωδικών 
+ερωτηματοθέτη, σχέδιο κατανομής 
+κωδικών ερωτηματοθέτη 
+  
+interrogator code allocation plan 
+proposal 
+  
+πρόταση σχεδίου εκχώρησης κωδικών 
+ερωτηματοθέτη, πρόταση σχεδίου 
+κατανομής κωδικών ερωτηματοθέτη 
+  
+interrogator code allocation 
+system  
+  
+σύστημα εκχώρησης κωδικών 
+ερωτηματοθέτη 
+  
+interrogator code application  
+  
+αίτηση κωδικού ερωτηματοθέτη 
+  
+interrogator code conflict 
+  
+εμπλοκή κωδικών ερωτηματοθέτη 
+  
+interrogator identifier code  
+  
+κωδικός αναγνώρισης ερωτηματοθέτη 
+  
+investigation 
+  
+διερεύνηση 
+  
+investigator-in-charge 
+  
+επιφορτισμένος διερευνητής 
+  
+isolated 
+  
+μεμονωμένος, απομονωμένος 
+  
+issue (to) 
+  
+εκδίδω 
+  
+jet aircraft 
+  
+αεριωθούμενο (τζετ) αεροσκάφος 
+  
+jet blast 
+  
+απόρρευμα αερίων στροβιλοκινητήρα 
+  
+jet bridge 
+  
+γέφυρα επιβίβασης, φυσούνα 
+  
+jet engine 
+  
+κινητήρας αεριώθησης (τζετ), 
+σρτοβιλοκινητήρας, 
+αεριοστροβιλωθητήρας 
+  
+jet stream 
+  
+ταχύρρευμα 
+  
+join (to) 
+  
+προσχωρώ 
+  
+joining point 
+  
+σημείο προσχώρησης 
+  
+judgemental oversteering 
+  
+υπερστροφή κατά κρίση 
+  
+just culture 
+  
+κουλτούρα δικαίου, δικαϊκή παιδεία, 
+δικαιική παιδεία 
+  
+key items of a flight plan  
+  
+στοιχεία-κλειδιά ενός σχεδίου πτήσης, 
+κλειδιακά στοιχεία ενός σχεδίου πτήσης 
+  
+key performance indicator 
+KPI 
+δείκτης-κλειδί επίδοσης, κλειδιακός 
+δείκτης επίδοσης 
+  
+kilogram 
+  
+χιλιόγραμμο (κιλό) 
+  
+ 
+37 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+knot 
+  
+κόμβος 
+  
+knowledge 
+  
+γνώση 
+  
+landing  area 
+  
+περιοχή προσγείωσης 
+  
+landing configuration 
+  
+διαμόρφωση προσγείωσης 
+  
+landing direction indicator 
+  
+ενδείκτης κατεύθυνσης προσγείωσης 
+  
+landing distance available 
+  
+διαθέσιμη απόσταση προσγείωσης 
+  
+landing gear 
+  
+σύστημα προσγείωσης 
+  
+landing lights 
+  
+φώτα προσγείωσης 
+  
+landing run 
+  
+διαδρόμηση προσγείωσης, μήκος 
+προσγείωσης 
+  
+landing skids 
+  
+πέδιλα προσγείωσης 
+  
+landing weight 
+  
+βάρος προσγείωσης 
+  
+landside 
+  
+περιοχή δραστηριοτήτων εδάφους 
+  
+language endorsement  
+  
+γλωσσική καταχώριση, καταχώριση 
+γλώσσας 
+  
+language proficiency 
+endorsement 
+  
+καταχώριση γλωσσικής επάρκειας 
+  
+laser-beam critical flight zone 
+LCFZ 
+ζώνη πτήσεων κρίσιμη σε ακτίνες λέζερ 
+  
+laser-beam free flight zone 
+LFFZ 
+ζώνη πτήσεων ελεύθερη από ακτίνες 
+λέιζερ 
+  
+laser-beam sensitive flight zone 
+LSFZ 
+ζώνη πτήσεως ευαίσθητη σε ακτίνες 
+λέιζερ 
+  
+last resort 
+  
+έσχατη λύση, έσχατη καταφυγή 
+  
+lateral  separation 
+  
+πλευρικός διαχωρισμός 
+  
+lateral navigation 
+LNAV 
+πλευρική ναυτιλία, πλευρική ναυσιπλοΐα 
+  
+lead aircraft 
+  
+αεροσκάφος αρχηγού σχηματισμού 
+  
+leading edge 
+  
+χείλος προσβολής 
+  
+learner 
+  
+μαθητής 
+  
+learning rate 
+  
+ρυθμός μάθησης 
+  
+leaving point 
+  
+σημείο αποχώρησης 
+  
+lecture 
+Lec 
+διάλεξη 
+  
+lesson/demonstration 
+Les 
+μάθημα/επίδειξη 
+  
+letter of agreement 
+  
+έγγραφο συμφωνίας 
+  
+level 
+  
+επίπεδο, στάθμη 
+  
+licence  
+  
+άδεια 
+  
+licensing authority 
+  
+αρχή αδειοδότησης 
+  
+lift 
+  
+άντωση 
+  
+ 
+38 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+lift off 
+  
+ανύψωση, απογείωση 
+  
+light (intensity) 
+FBL 
+ήπια (ένταση) 
+  
+light aircraft 
+  
+ελαφρύ (βάσει αεροδινών) αεροσκάφος 
+  
+light turbulance 
+  
+ήπιες αναταράξεις, ελαφρές αναταράξεις 
+  
+lighting system reliability 
+  
+αξιοπιστία συστήματος φωτισμού 
+  
+limited route concept 
+  
+σκεπτικό περιορισμένων διαδρομών 
+  
+line operations safety audit 
+LOSA 
+επιθεώρηση ασφαλείας λειτουργιών 
+γραμμής 
+  
+line-oriented flight training 
+LOFT 
+πτητική εκπαίδευση προσανατολισμένη 
+στη γραμμή δρομολογίων, 
+γραμμοστρεφής πτητική εκπαίδευση 
+  
+link 
+  
+σύνδεσμος, σύνδεση 
+  
+link (to) 
+  
+συνδέω, ζευγνύω 
+  
+list (to) 
+  
+καταλέγω 
+  
+local air traffic flow management 
+unit 
+  
+τοπική μονάδα διαχείρισης ροής εναέριας 
+κυκλοφορίας 
+  
+local area augmentation system  
+LAAS 
+τοπικό σύστημα φασματικής επαύξησης 
+  
+local ATFM unit 
+  
+τοπική μονάδα ΔΡΕΚ 
+  
+local performance plans 
+  
+τοπικά σχέδια επίδοσης 
+  
+local performance targets 
+  
+τοπικοί στόχοι επίδοσης 
+  
+local routine meteorological 
+report 
+MET 
+REPORT 
+τοπική συνήθης μετεωρολογική αναφορά 
+  
+local special meteorological 
+report 
+SPECIAL 
+τοπική ειδική μετεωρολογική αναφορά 
+  
+local standby 
+  
+ανησυχητική κατάσταση 
+  
+local stand-by 
+  
+ανησυχητική κατάσταση 
+  
+localizer 
+LLZ  
+εντοπιστής 
+  
+location  indicator 
+  
+ενδείκτης τοπωνυμίας 
+  
+lockout  
+  
+κλείδωμα, ασφάλιση 
+  
+lockout map  
+  
+χάρτης κλειδώματος, χάρτης ασφάλισης 
+  
+logical acknowledgement 
+LAM 
+λογική επιβεβαίωση λήψης (μεταξύ Η/Υ) 
+  
+long range air navigation system  LORAN 
+σύστημα αεροπλοήγησης μεγάλης 
+εμβέλειας 
+  
+longitudinal separation 
+  
+διαμήκης διαχωρισμός 
+  
+long-term outage (in the context 
+of contingency) 
+  
+μακροχρόνια διακοπή λειτουργίας, 
+διακοπή λειτουργίας μεγάλης διάρκειας 
+  
+loop 
+  
+νησίδα [πρασίνου] 
+  
+loose debris 
+  
+χαλαρά κατάλοιπα, χαλαρά υπολείμματα 
+  
+ 
+39 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+low drifting 
+DR 
+παρασυρόμενο χαμηλά 
+  
+lower consequence indicators  
+  
+δείκτες μειωμένων επιπτώσεων 
+  
+magnetic bearing 
+QDR 
+μαγνητική διόπτευση 
+  
+magnetic heading 
+QDM 
+μαγνητική πορεία 
+  
+main (airport) terminal 
+  
+κύριος αεροσταθμός 
+  
+main landing gear  
+  
+κύριο σύστημα προσγείωσης 
+  
+maintain (to) 
+  
+διατηρώ 
+  
+maintenance  
+  
+συντήρηση 
+  
+maintenance resource 
+management  
+MRM 
+διαχείριση πόρων συντήρησης 
+  
+major traffic flow 
+  
+σημαντική ροή κυκλοφορίας 
+  
+malfunction 
+  
+βλάβη, δυσλειτουργία 
+  
+manage (to) 
+  
+διαχειρίζομαι 
+  
+mandatory occurrence report  
+MOR 
+υποχρεωτική αναφορά περιστατικού(-ών) 
+  
+manned 
+  
+επανδρωμένο 
+  
+manoeuvring  area 
+  
+περιοχή ελιγμών 
+  
+manual 
+  
+τεχνικό εγχειρίδιο 
+  
+marker 
+  
+σημαντήρας 
+  
+marking 
+  
+σήμανση 
+  
+matching II code 
+  
+κωδικός προσαρμογής ΙΙ 
+  
+maximum mass 
+  
+μέγιστη μάζα 
+  
+maximum take-off weight 
+  
+μέγιστο επιτρεπόμενο βάρος απογείωσης 
+  
+maximum tolerable period of 
+disruption 
+  
+μέγιστη ανεκτή διάρκεια ρήξης υπηρεσίας, 
+μέγιστη ανεκτή διάρκεια διακοπής 
+υπηρεσίας 
+  
+mean value 
+  
+μέση τιμή 
+  
+measure (to) 
+  
+μετρώ 
+  
+medical assessment  
+  
+ιατρική αξιολόγηση 
+  
+medical assessor  
+  
+ιατρικός αξιολογητής 
+  
+medical examiner  
+  
+ιατρός εξεταστής 
+  
+medium aircraft 
+  
+μεσαίο (βάσει αεροδινών) αεροσκάφος 
+  
+medium term conflict detection 
+MTCD 
+μεσοπρόθεσμη ανίχνευση εμπλοκής 
+  
+message 
+  
+μήνυμα 
+  
+message element 
+  
+στοιχείο μηνύματος 
+  
+message field 
+  
+πεδίο μηνύματος 
+  
+message format 
+  
+μορφότυπο μηνύματος 
+  
+ 
+40 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+meteorological information 
+  
+μετεωρολογικές πληροφορίες 
+  
+meteorological information for 
+aircraft in flight 
+VOLMET 
+μετεωρολογιές πληροφορίες για 
+αεροσκάφη σε πτήση 
+  
+meteorological observation 
+  
+μετεωρολογική παρατήρηση 
+  
+meteorological office 
+  
+μετεωρολογικό γραφείο 
+  
+meteorological report 
+  
+μετεωρολογική αναφορά 
+  
+meteorological services 
+  
+μετεωρολογικές υπηρεσίες 
+  
+meteorological watch office 
+MWO 
+κέντρο μετεωρολογικής επαγρύπνησης  
+  
+meteorology 
+MET 
+μετεωρολογία 
+  
+microwave landing system 
+MLS 
+μικροκυματικό σύστημα προσγείωσης 
+  
+middle marker  
+MM  
+ενδιάμεσος ραδιοσημαντήρας 
+  
+minimum descent altitude 
+MDA 
+ελάχιστο απόλυτο ύψος καθόδου 
+  
+minimum descent altitude/height 
+MDA/H 
+ελάχιστο απόλυτο/σχετικό ύψος καθόδου 
+  
+minimum descent height 
+MDH 
+ελάχιστο σχετικό ύψος καθόδου 
+  
+minimum equipment list  
+MEL 
+πίνακας ελάχιστου εξοπλισμού 
+  
+minimum fuel 
+  
+ελάχιστα καύσιμα 
+  
+minimum navigation 
+performance specifications 
+MNPS 
+προδιαγραφές ελάχιστης επίδοσης 
+ναυτιλίας 
+  
+minimum safe altitude warning  
+MSAW 
+προειδοποίηση ελάχιστου ύψους 
+ασφαλείας 
+  
+missed approach point 
+MAPt 
+σημείο αποτυχημένης προσέγγισης 
+  
+missed approach procedure 
+MAP 
+διαδικασία αποτυχημένης προσέγγισης 
+  
+mist 
+BR 
+αχλύς 
+  
+mixed parallel operations  
+  
+μεικτές παράλληλες λειτουργίες , 
+συνδυασμένες παράλληλες λειτουργίες  
+  
+MLS critical  area 
+  
+κρίσιμη περιοχή MLS 
+  
+MLS sensitive area 
+  
+ευαίσθητη περιοχή MLS 
+  
+mobile surface station 
+  
+κινητός σταθμός επιφανείας 
+  
+mode (SSR) 
+  
+τρόπος λειτουργίας (SSR) 
+  
+mode of [training] delivery 
+  
+τρόπος παράδοσης (της εκπαίδευσης] 
+  
+mode s all call interrogations 
+  
+ολοκλησικές ερωτήσεις τρόπου 
+λειτουργίας S 
+  
+mode s interrogator 
+  
+ερωτηματοθέτης τρόπου λειτουργίας S 
+  
+mode s operator  
+  
+φορέας διαχείρισης [του] τρόπου 
+λειτουργίας S 
+  
+mode s target 
+  
+στόχος τρόπου λειτουργίας S 
+  
+moderate (intensity) 
+MOD 
+μέτρια (ένταση) 
+  
+ 
+41 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+moderate icing 
+MOD ICE 
+μέτρια παγοποίηση 
+  
+moderate turbulence 
+MOD 
+TURB 
+μέτριες αναταράξεις, μέτρια τύρβη 
+  
+moderate wind shear 
+  
+μέτριος διατμητικός άνεμος 
+  
+modification 
+CHG 
+τροποποίηση 
+  
+monitor (frequency) 
+  
+ακροώμαι (συχνότητα) 
+  
+monitor (radar) 
+  
+παρακολουθώ (ραντάρ) 
+  
+monitor (to) 
+  
+παρακολουθώ 
+  
+monitoring of interrogator code 
+conflict 
+  
+παρακολούθηση της εμπλοκής κωδικών 
+ερωτηματοθέτησης 
+  
+mountain obscuration 
+  
+απόκρυψη ορέων 
+  
+mountains obscured 
+  
+αποκρυπτόμενα όρη 
+  
+movement  area  
+  
+περιοχή κίνησης 
+  
+multimedia computer 
+MMC 
+υπολογιστής πολυμέσων 
+  
+multiple  flight plan 
+  
+πολλαπλό σχέδιο πτήσης 
+  
+multiple route options 
+  
+πολλές επιλογές διαδρομών 
+  
+multisite communications 
+protocols 
+  
+πρωτόκολλα πολυτοπικών επικοινωνιών 
+  
+multisite lockout 
+  
+πολυτοπικό κλείδωμα, πολυτοπική 
+ασφάλιση 
+  
+name (to) 
+  
+ονοματοδοτώ 
+  
+narrow body aircraft 
+  
+αεροσκάφος στενής ατράκτου 
+  
+national authorities 
+  
+εθνικές αρχές 
+  
+national aviation authority 
+  
+εθνική αεροπορική αρχή 
+  
+national supervisory authority 
+NSA 
+εθνική εποπτική αρχή 
+  
+nautical mile(s) 
+NM 
+ναυτικό μίλι(α) 
+  
+navigation 
+  
+πλοήγηση, ναυσιπλοΐα 
+  
+navigation lights 
+  
+φώτα ναυτιλίας, φώτα πλοήγησης 
+  
+navigation services 
+  
+υπηρεσίες πλοήγησης 
+  
+near-parallel runways 
+  
+σχεδόν παράλληλοι διάδρομοι, 
+πλησιοπαράλληλοι διάδρομοι 
+  
+network collaborative 
+management 
+  
+συνεργατική διαχείριση δικτύου 
+  
+network crisis 
+  
+κρίση δικτύου 
+  
+network functions 
+  
+λειτουργίες δικτύου 
+  
+network manager 
+  
+διαχειριστής δικτύου 
+  
+ 
+42 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+network operations plan 
+  
+επιχειρησιακό σχέδιο δικτύου, σχέδιο 
+λειτουργιών δικτύου 
+  
+network strategy plan 
+  
+στρατηγικό σχέδιο δικτύου, σχέδιο 
+στρατηγικής δικτύου 
+  
+new software 
+  
+νέο λογισμικό 
+  
+next data authority 
+  
+επόμενη αρχή δεδομένων 
+  
+night  
+  
+νύχτα 
+  
+NIL 
+NIL 
+NIL 
+  
+nil turbulance 
+  
+μηδενικές αναταράξεις, μηδενική τύρβη 
+  
+nimbostratus 
+  
+μελανοστρώματα 
+  
+nimbus 
+  
+μελανίες 
+  
+no significant changes are 
+forecast 
+NOSIG 
+δεν προβλέπονται σημαντικές αλλαγές 
+  
+no transgression zone 
+  
+ζώνη μη υπέρβασης 
+  
+noise abatement 
+  
+αποφυγή θορύβου 
+  
+non precision approach 
+procedure 
+NPA 
+διαδικασία προσέγγισης μη ακριβείας 
+  
+non-development software 
+  
+προϋφιστάμενο λογισμικό, προϋπάρχον 
+λογισμικό 
+  
+non-directional beacon  
+NDB  
+μη κατευθυντικός (ραδιο)φάρος 
+  
+non-instrument runway 
+  
+μη ενόργανος διάδρομος 
+  
+non-network communications 
+  
+επικοινωνίες εκτός δικτύου 
+  
+non-precision approach and 
+landing operations 
+  
+προσεγγίσεις και προσγειώσεις μη 
+ακριβείας, λειτουργίες προσέγγισης και 
+προσγείωσης μη ακριβείας 
+  
+non-precision approach runway 
+  
+διάδρομος προσέγγισης μη ακριβείας 
+  
+non-precision runway 
+  
+διάδρομος μη ακριβείας 
+  
+non-radar separation 
+  
+διαχωρισμός χωρίς ραντάρ 
+  
+non-routine inspection 
+  
+έκτακτη επιθεώρηση 
+  
+normal flight zone 
+NFZ 
+ζώνη κανονικής πτήσης  
+  
+normal operating zone 
+NOZ 
+ζώνη κανονικής λειτουργίας 
+  
+normal operation(s) 
+  
+κανονική λειτουργία  
+  
+nose gear 
+  
+ριναίο σύστημα 
+  
+nose landing gear  
+  
+ριναίο σύστημα προσγείωσης 
+  
+nose wheel 
+  
+ριναίος τροχός 
+  
+notam 
+NOTAM 
+αγγελία [προς αεροναυτιλόμενους] 
+  
+notam class I distribution 
+  
+διανομή αγγελιών κατηγορίας I 
+  
+ 
+43 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+notam class II distribution 
+  
+διανομή αγγελιών κατηγορίας II 
+  
+notice to airmen 
+NOTAM 
+αγγελία προς αεροναυτιλόμενους 
+  
+notification  
+  
+αναγγελία, ειδοποίηση, κοινοποίηση 
+  
+notified unit  
+  
+κοινοποιημένη μονάδα 
+  
+notify (to) 
+  
+γνωστοποιώ 
+  
+objective 
+  
+[αντικειμενικός] στόχος 
+  
+obscurations 
+  
+αποκρύψεις (υδρομετέωρα & 
+λιθομετέωρα) 
+  
+obscured 
+  
+αποκρυπτόμενη 
+  
+obstacle 
+  
+εμπόδιο 
+  
+obstacle assessment surface  
+OAS  
+επιφάνεια εκτίμησης εμποδίων 
+  
+obstacle clearance altitude 
+OCA 
+απόλυτο ύψος αποφυγής εμποδίων 
+  
+obstacle clearance 
+altitude/height 
+OCA/H 
+απόλυτο/σχετικό ύψος αποφυγής 
+εμποδίων 
+  
+obstacle clearance height 
+OCH 
+σχετικό ύψος αποφυγής εμποδίων 
+  
+obstacle free  zone  
+OFZ 
+ελεύθερη εμποδίων ζώνη, περιοχή 
+ελεύθερη εμποδίων 
+  
+obstacle lights 
+  
+φώτα εμποδίων 
+  
+obstruction lights 
+  
+φώτα εμποδίων 
+  
+obtain (to) 
+  
+λαμβάνω, παίρνω 
+  
+occasional (rain) 
+  
+σποραδική (βροχή) 
+  
+occupational health & safety 
+management system  
+OHSMS 
+σύστημα διαχείρισης επαγγελματικής 
+υγείας και ασφάλειας 
+  
+occupational safety, health & 
+environment  
+OSHE 
+περιβάλλον επαγγελματικής υγείας και 
+ασφάλειας 
+  
+off-block 
+  
+αναχώρηση από τη θέση στάθμευσης 
+  
+offset-carrier system  
+  
+σύστημα φέροντος με μετατόπιση, 
+σύστημα μετατοπισμένου φέροντος 
+  
+oil pressure 
+  
+πίεση λαδιών 
+  
+OJTI endorsement 
+  
+καταχώριση OJTI 
+  
+omnidirectional 
+  
+παγκατευθυντικός 
+  
+on-board 
+  
+επί του σκάφους, στο σκάφος, επινήιος 
+  
+on-the-job training 
+OJT 
+εκπαίδευση στην πράξη, επι το έργον 
+εκπαίδευση 
+  
+on-the-job training instructor 
+OJTI 
+εκπαιδευτής [εκπαίδευσης] στην πράξη, 
+εκπαιδευτής επί το έργον [εκπαίδευσης] 
+  
+ 
+44 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+on-the-job training instructor 
+endorsement 
+  
+καταχώριση εκπαιδευτή [εκπαίδευσης] 
+στην πράξη, καταχώριση εκπαιδευτή  επί 
+το έργον [εκπαίδευσης] 
+  
+operate (to) 
+  
+λειτουργώ 
+  
+operate an ATM functionality (to) 
+  
+εκμεταλλεύομαι μια λειτουργική 
+δυνατότητα ΔΕΚ 
+  
+operating organisation 
+  
+οργανισμός λειτουργίας 
+  
+operational  log 
+  
+επιχειρησιακό ημερολόγιο 
+  
+operational concept 
+  
+επιχειρησιακό σκεπτικό, γενικό 
+επιχειρησιακό σχέδιο 
+  
+operational concept document  
+OCD 
+έγγραφο επιχειρησιακού σκεπτικού, 
+έγγραφο γενικού επιχειρησιακού σχεδίου 
+  
+operational concept vision 
+  
+όραμα επιχειρησιακού σκεπτικού, όραμα 
+γενικού επιχειρησιακού σχεδίου 
+  
+operational control 
+  
+επιχειρησιακός έλεγχος 
+  
+operational data 
+  
+επιχειρησιακά δεδομένα 
+  
+operational interrogator code 
+  
+επιχειρησιακός κωδικός ερωτηματοθέτη 
+  
+operational meteorological 
+information  
+OPMET 
+επιχειρησικακές μετεωρολογικές 
+πληροφορίες 
+  
+operational plan 
+  
+σχέδιο [επιχειρησιακής] λειτουργίας, 
+επιχειρησιακό σχέδιο 
+  
+operational requirement 
+OR 
+επιχειρησιακή απαίτηση 
+  
+operational stakeholders 
+  
+ενδιαφερόμενοι επιχειρησιακοί φορείς, 
+επιχειρησιακοί συμφεροντούχοι 
+  
+operator [aircraft] 
+  
+φορέας εκμετάλλευσης [αεροσκάφους] 
+  
+option 
+  
+επιλογή, εναλλακτική δυνατότητα 
+  
+orbit (το) 
+  
+είμαι σε τροχιά 
+  
+organisation 
+  
+οργανισμός 
+  
+organise (to) 
+  
+οργανώνω 
+  
+originator  
+  
+αποστολέας 
+  
+orthometric height 
+  
+ορθομετρικό ύψος 
+  
+out of order 
+  
+εκτός λειτουργίας 
+  
+out of service 
+  
+εκτός λειτουργίας 
+  
+outage (in the context of 
+contingency) 
+  
+διακοπή λειτουργίας 
+  
+outbound 
+  
+απερχόμενος 
+  
+outer marker 
+  
+εξωτερικός σημαντήρας 
+  
+over-flight  
+  
+υπέρπτηση 
+  
+ 
+45 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+overload tolerance  
+  
+ανοχή υπερφόρτωσης 
+  
+override (to)  
+  
+υπερσκελίζω, υπερβαίνω, κάνω 
+υπέρβαση 
+  
+overrun 
+  
+υπέρβαση τέλους διαδρόμου 
+[προσγείωσης], μακρά προσγείωση 
+  
+overshoot 
+  
+υπέρβαση τέλους διαδρόμου 
+[προσγείωσης], μακρά προσγείωση 
+  
+oversight 
+  
+εποπτεία 
+  
+overtaking aircraft 
+  
+υπερφαλαγγίζον αεροσκάφος 
+  
+overwing 
+  
+επιπτερύγιος 
+  
+own power 
+  
+με ίδια στοιχεία [ισχύος] 
+  
+own separation 
+  
+με ίδιο διαχωρισμό, με δικό 
+μου(σου,…κοκ) διαχωρισμό 
+  
+pan-european air navigation 
+service  
+  
+πανευρωπαϊκή υπηρεσία αεροναυτιλίας 
+  
+pan-European ATM/ANS 
+  
+πανευρωπαϊκή ΔΕΚ/ΥΑΝ 
+  
+parking position 
+  
+θέση στάθμευσης 
+  
+partial 
+  
+μερικός 
+  
+partial outage (in the context of 
+contingency) 
+  
+μερική διακοπή λειτουργίας 
+  
+parts and appliances 
+  
+εξαρτήματα και εξοπλισμός 
+  
+part-task practice 
+PTP 
+[πρακτική] εξάσκηση μερικού έργου 
+  
+part-task trainer 
+PTT 
+εκπαιδευτική συσκευή μερικού έργου 
+  
+pass (to) 
+  
+μεταβιβάζω 
+  
+passive stand 
+  
+παθητική θέση στάθμευσης 
+  
+patches 
+  
+κατά ζώνες 
+  
+path 
+  
+ίχνος, διαδρομή 
+  
+pavement 
+  
+επίστρωση, οδόστρωμα 
+  
+pavement classification number 
+PCN 
+αριθμός κατάταξης οδοστρώματος 
+  
+perform (to) 
+  
+επιτελώ 
+  
+performance 
+  
+επίδοση 
+  
+performance criteria 
+  
+κριτήρια επίδοσης 
+  
+performance indicator 
+  
+δείκτης επίδοσης 
+  
+performance monitoring 
+  
+παρακολούθηση των επιδόσεων 
+  
+performance objective 
+  
+[αντικειμενικός] στόχος επίδοσης 
+  
+performance review body 
+PRB 
+φορέας επανεξέτασης των επιδόσεων, 
+φορέας ανασκόπησης των επιδόσεων 
+  
+ 
+46 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+performance-based navigation 
+PBN 
+πλοήγηση βασισμένη στις επιδόσεις, 
+ναυτιλία βασισμένη στις επιδόσεις, 
+επιδοσιπαγής πλοήγηση 
+  
+performance-driven project 
+architecture 
+  
+αρχιτεκτονική έργου οδηγούμενη από την 
+επίδοση, αρχιτεκτονική έργου με γνώμονα 
+την επίδοση 
+  
+person involved 
+  
+εμπλεκόμενο πρόσωπο 
+  
+persons on board (passengers 
+and crew) 
+  
+επιβαίνοντες (επιβάτες και πλήρωμα) 
+  
+pilot 
+  
+πιλότος, χειριστής 
+  
+pilot (to)    
+  
+χειρίζομαι 
+  
+pilot common project 
+  
+πιλοτικό κοινό έργο  
+  
+pilot/driver assistance system  
+PDAS 
+σύστημα βοήθειας πιλότου/οδηγού 
+  
+pilot-in-command 
+  
+κυβερνήτης 
+  
+pilot-in-command under 
+supervision 
+  
+κυβερνήτης υπό  επίβλεψη 
+  
+pitch 
+  
+πρόνευση, κίνηση πάνω κάτω 
+  
+planning and implementation 
+regional group  
+PIRG 
+περιφερειακή ομάδα σχεδιασμού  και 
+υλοποίησης 
+  
+point 
+  
+σημείο 
+  
+ponding area 
+  
+λίμνη ομβρίων υδάτων, λεκάνη 
+κατακράτησης ομβρίων υδάτων 
+  
+portside 
+  
+αριστερή πλευρά αεροσκάφους 
+  
+position indication 
+  
+ένδειξη θέσης 
+  
+position symbol 
+  
+σύμβολο θέσης 
+  
+positional response 
+  
+απόκριση με τη θέση 
+  
+power 
+  
+ισχύς 
+  
+powered-lift 
+  
+ισχυογενής άντωση 
+  
+practical training 
+  
+πρακτική εκπαίδευση, εκπαίδευση 
+πρακτικής εξάσκησης 
+  
+practice 
+  
+πρακτική, [πρακτική] εξάσκηση 
+  
+precipitation 
+  
+υετός 
+  
+precision  approach and landing 
+operafions 
+  
+προσεγγίσεις και προσγειώσεις ακριβείας 
+  
+precision approach path 
+indicator  
+PAPI 
+ενδείκτης ίχνους προσέγγισης ακριβείας 
+  
+precision approach procedure 
+PA 
+διαδικασίες προσέγγισης ακριβείας 
+  
+precision approach radar 
+PAR  
+ραντάρ προσέγγισης ακριβείας 
+  
+precision approach runway 
+  
+διάδρομος προσέγγισης ακριβείας 
+  
+ 
+47 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+precision approach runway 
+category I 
+CAT I 
+διάδρομος προσέγγισης ακριβείας 
+κατηγορίας Ι 
+  
+precision approach runway 
+category II 
+CAT II 
+διάδρομος προσέγγισης ακριβείας 
+κατηγορίας ΙΙ 
+  
+precision approach runway 
+category III 
+CAT III 
+διάδρομος προσέγγισης ακριβείας 
+κατηγορίας ΙΙΙ 
+  
+precision area navigation 
+P-RNAV 
+περιοχική ναυτιλία ακριβείας 
+  
+precision runway monitoring  
+PRM 
+παρακολούθηση διαδρόμου ακριβείας 
+  
+predict (to) 
+  
+προλέγω 
+  
+predictability 
+  
+προλεξιμότητα 
+  
+pre-flight check 
+  
+έλεγχος προ πτήσης 
+  
+pre-flight phase  
+  
+στάδιο πρό πτήσης 
+  
+preliminary report 
+  
+προκαταρκτική αναφορά 
+  
+present weather 
+  
+παρών καιρός 
+  
+pressure altitude  
+  
+βαρομετρικό ύψος 
+  
+pressure value 
+  
+τιμή πίεσης 
+  
+pressurisation 
+  
+συμπίεση 
+  
+pressurization 
+  
+συμπίεση 
+  
+prevailing visibility 
+  
+επικρατούσα ορατότητα 
+  
+primary  radar 
+  
+πρωτεύον ραντάρ 
+  
+primary runway 
+  
+κύριος διάδρομος 
+  
+primary surveillance radar 
+PSR 
+πρωτεύον ραντάρ επιτήρησης 
+  
+printed  communications 
+  
+έντυπες επικοινωνίες 
+  
+prior to on-the-job training 
+Pre-OJT 
+προετοιμασία για την εκπαίδευση στην 
+πράξη, προετοιμασία για την επί το έργον 
+εκπαίδευση 
+  
+probability of detection  
+PD 
+πιθανότητα ανίχνευσης 
+  
+probability of detection of an 
+alert  
+PDA 
+πιθανότητα ανίχνευσης συνέγερσης 
+  
+probability of false alert  
+PFA 
+πιθανότητα εσφαλμένης συνέγερσης, 
+πιθανότητα ψευδούς συνέγερσης 
+  
+probability of false detection  
+PFD 
+πιθανότητα εσφαλμένης ανίχνευσης, 
+πιθανότητα ψευδούς ανίχνευσης 
+  
+probability of false identification  
+PFID 
+πιθανότητα εσφαλμένης αναγνώρισης, 
+πιθανότητα ψευδούς αναγνώρισης 
+  
+probability of identification  
+PID 
+πιθανότητα αναγνώρισης 
+  
+problematic use of substances 
+  
+προβληματική χρήση ουσιών 
+  
+procedural control 
+  
+διαδικασιακός έλεγχος 
+  
+ 
+48 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+procedural separation 
+  
+διαδικασιακός διαχωρισμός 
+  
+procedure 
+  
+διαδικασία 
+  
+procedure turn 
+  
+στροφή διαδικασίας 
+  
+procedures for air navigation 
+services 
+PANS 
+διαδικασίες για υπηρεσίες αεροναυτιλίας 
+  
+process 
+  
+διεργασία 
+  
+process (to) 
+  
+επεξεργάζομαι 
+  
+product 
+  
+προϊόν 
+  
+profile 
+  
+κατατομή, προφίλ 
+  
+profile (or trajectory) 
+  
+προφίλ (ή τροχιά) 
+  
+prohibited  area 
+  
+απαγορευμένη περιοχή 
+  
+propeller 
+  
+έλικα 
+  
+protected flight zones 
+  
+προστατευμένες ζώνες πτήσης 
+  
+protection area 
+  
+περιοχή προστασίας 
+  
+provide (to) 
+  
+παρέχω 
+  
+provider 
+  
+πάροχος, φορέας παροχής, παροχέας 
+  
+provisional inability 
+  
+προσωρινή ανικανότητα, προσωρινή 
+αδυναμία 
+  
+PSR blip 
+  
+PSR μπλίπ, μπλιπ πρωτεύοντος [ραντάρ] 
+  
+psychoactive substances 
+  
+ψυχοτρόποι ουσίες, ψυχοτρόπες ουσίες 
+  
+putting into service 
+  
+θέση σε [επιχειρησιακή] εκμετάλλευση, 
+θέση σε υπηρεσία 
+  
+QFE 
+QFE 
+QFE 
+  
+QNH 
+QNH 
+QNH 
+  
+qualified entity 
+  
+ειδικευμένος φορέας 
+  
+quality assurance 
+QA 
+διασφάλιση ποιότητας 
+  
+quality control  
+QC 
+έλεγχος ποιότητας 
+  
+quality management system 
+QMS 
+σύστημα διαχείρισης [της] ποιότητας 
+  
+quality system 
+  
+σύστημα ποιότητας 
+  
+quote (to) 
+  
+παραθέτω 
+  
+radar 
+  
+ραντάρ 
+  
+radar approach 
+  
+προσέγγιση ραντάρ 
+  
+radar blip 
+  
+μπλίπ ραντάρ 
+  
+radar clutter 
+  
+παράσιτο ραντάρ, παρασιτικό σήμα 
+ραντάρ 
+  
+radar contact 
+  
+επαφή ραντάρ 
+  
+ 
+49 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+radar control 
+  
+έλεγχος [με] ραντάρ 
+  
+radar controller 
+  
+ελεγκτής ραντάρ 
+  
+radar display 
+  
+οθόνη ραντάρ, απεικόνιση ραντάρ 
+  
+radar echo 
+  
+ηχώ ραντάρ 
+  
+radar heading 
+  
+πορεία ραντάρ 
+  
+radar identification 
+  
+αναγνώριση ραντάρ 
+  
+radar map 
+  
+χάρτης ραντάρ 
+  
+radar monitoring 
+  
+παρακολούθηση ραντάρ 
+  
+radar position symbol 
+RPS 
+σύμβολο θέσης ραντάρ 
+  
+radar response 
+  
+απόκριση ραντάρ 
+  
+radar separation 
+  
+διαχωρισμός ραντάρ 
+  
+radar service 
+  
+υπηρεσία ραντάρ 
+  
+radar track 
+  
+ίχνος ραντάρ 
+  
+radar track position 
+  
+θέση ίχνους ραντάρ 
+  
+radar tracking 
+  
+ιχνηλάτηση ραντάρ 
+  
+radar unit 
+  
+μονάδα ραντάρ 
+  
+radar vectoring 
+  
+καθοδήγηση ραντάρ 
+  
+radio beacon 
+  
+ραδιοφάρος 
+  
+radio bearing 
+  
+ραδιοδιόπτευση 
+  
+radio direction finding  
+  
+ραδιογωνιομετρία 
+  
+radio navigation 
+  
+ραδιοπλοήγηση 
+  
+radio navigation service 
+  
+υπηρεσία ραδιοπλοήγησης 
+  
+radioactive cloud 
+  
+ραδιενεργό νέφος 
+  
+radiocommunication failure 
+RCF 
+απώλεια ραδιοεπικοινωνίας 
+  
+radiodetermination 
+  
+ραδιοεπισήμανση, ραδιοεντοπισμός 
+  
+radiotelephony 
+RTF 
+ραδιοτηλεφωνία 
+  
+radome 
+  
+καλύπτρα 
+  
+rain  
+  
+βροχή 
+  
+ramjet 
+  
+αυλωθητήρας 
+  
+ramjet engine 
+  
+αυλωθητήρας 
+  
+ramp 
+  
+πίστα 
+  
+rapid exit taxiway  
+  
+τροχόδρομος ταχείας εξόδου 
+  
+rate of climb 
+ROC 
+βαθμός ανόδου, ρυθμός ανόδου 
+  
+rate of descent 
+ROD 
+βαθμός καθόδου, ρυθμός καθόδου 
+  
+ 
+50 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+rated air traffic controller  
+  
+ειδικευμένος ελεγκτής εναέριας 
+κυκλοφορίας, ελεγκτής εναέριας 
+κυκλοφορίας κάτοχος ειδικότητας 
+  
+rating 
+  
+ειδικότητα 
+  
+rating endorsement 
+  
+καταχώριση ειδικότητας 
+  
+rating training 
+  
+εκπαίδευση ειδικότητας 
+  
+readable 
+  
+αντιληπτός 
+  
+readback 
+  
+επανάληψη [για επιβεβαίωση ορθής 
+λήψης] 
+  
+real equipment 
+RE 
+πραγματικός εξοπλισμός 
+  
+real-time 
+  
+πραγματικός χρόνος 
+  
+receiver autonomous integrity 
+monitoring 
+RAIM 
+αυτόνομη παρακολούθηση ακεραιότητας 
+δέκτη 
+  
+receiving controller 
+  
+λαμβάνων ελεγκτής 
+  
+receiving unit  
+  
+λαμβάνουσα μονάδα 
+  
+recent weather 
+  
+πρόσφατος καιρός 
+  
+recognise (to) 
+  
+αναγνωρίζω 
+  
+record (to) 
+  
+καταγράφω 
+  
+recovery [to normal perations] 
+(in the context of 
+contingency) 
+  
+ανάκτηση [κανονικής λειτουργίας], 
+ανάκαμψη σε κανονική λειτουργία  
+  
+reduced vertical separation 
+minimum 
+RVSM 
+μειωμένο ελάχιστο κατακόρυφου 
+διαχωρισμού 
+  
+regional air navigation plan 
+ANP 
+σχέδιο περιοχικής αεροναυτιλίας 
+  
+regional supplementary 
+procedures  
+SUPPS  
+περιοχικές συμπληρωματικές διαδικασίες 
+  
+regular station 
+  
+κανονικός σταθμός 
+  
+rejected take-off 
+  
+ματαιωθείσα απογείωση, ματαίωση 
+απογείωσης 
+  
+rejected take-off area 
+  
+περιοχή ματαιωθείσας απογείωσης 
+  
+relate (to) 
+  
+σχετίζω 
+  
+relative humidity 
+  
+σχετική υγρασία 
+  
+relatives 
+  
+συγγενείς 
+  
+relay (to) 
+  
+αναμεταδίδω 
+  
+release  
+  
+αποδέσμευση 
+  
+release time 
+  
+χρόνος αποδέσμευσης 
+  
+reliability  
+  
+αξιοπιστία 
+  
+remedial training 
+  
+ενισχυτική εκπαίδευση 
+  
+ 
+51 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+rendering (a licence) valid   
+  
+επικύρωση (πτυχίου) 
+  
+renewal 
+  
+ανανέωση 
+  
+repetitive flight plan 
+RPL 
+επαναληπτικό σχέδιο πτήσης 
+  
+report form 
+  
+έντυπο αναφοράς 
+  
+reporting point 
+  
+σημείο αναφοράς 
+  
+request flight plan 
+RQP 
+αίτηση σχεδίου πτήσης 
+  
+request supplementary flight 
+plan 
+RQS 
+αίτηση συμπληρωματικού σχεδίου πτήσης 
+  
+required ATM system 
+performance  
+RASP 
+απαιτούμενη επίδοση συστημάτων ΔΕΚ 
+  
+required communication 
+performance 
+RCP 
+απαιτούμενη επίδοση επικοινωνιών 
+  
+required communication 
+performance type 
+RCP type 
+τύπος απαιτούμενης επίδοσης 
+επικοινωνιών 
+  
+required navigation performance 
+RNP 
+απαιτούμενη επίδοση ναυτιλίας 
+  
+required navigation performance 
+type 
+  
+τύπος απαιτούμενης επίδοσης ναυτιλίας 
+  
+required total system 
+performance 
+RTSP 
+απαιτούμενη συνολική επίδοση 
+συστήματος 
+  
+required ΑΤΜ performance 
+RAP 
+απαιτούμενη επίδοση ΔΕΚ 
+  
+requirements (in the context of 
+contingency) 
+  
+απαιτήσεις 
+  
+requirements validity  
+  
+εγκυρότητα απαιτήσεων 
+  
+rescue and fire fighting  
+RFF  
+διάσωση και πυρόσβεση 
+  
+rescue coordination centre 
+RCC 
+κέντρο συντονισμού διάσωσης, κέντρο 
+συντονισμού έρευνας και διάσωσης  
+  
+rescue unit 
+  
+μονάδα διάσωσης, μονάδα έρευνας και 
+διάσωσης 
+  
+resolution advisory indication  
+RA 
+ένδειξη σύστασης για αποφυγή εμπλοκής, 
+ένδειξη συμβουλής επίλυσης 
+  
+respond (to) 
+  
+αποκρίνομαι 
+  
+response time 
+  
+χρόνος απόκρισης  
+  
+restricted area  
+  
+περιορισμένη περιοχή 
+  
+revalidation 
+  
+επανεπικύρωση, εκ νέου επικύρωση 
+  
+revalidation training 
+  
+εκπαίδευση επανεπικύρωσης 
+  
+reverse pitch 
+  
+ανάστροφο βήμα 
+  
+reverse thrust 
+  
+ανάστροφη ώση 
+  
+reversion time 
+  
+χρόνος επανόδου 
+  
+ 
+52 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+right-of-way 
+  
+προτεραιότηττα 
+  
+rime 
+  
+ομιχλοκρύσταλλοι 
+  
+risk 
+  
+διακινδύνευση, ρίσκο 
+  
+risk management 
+  
+διαχείριση διακινδύνευσης, διαχείριση 
+ρίσκου 
+  
+risk mitigation  
+  
+μετριασμός διακινδύνευσης, μετριασμός 
+ρίσκου 
+  
+road 
+  
+δρόμος 
+  
+road holding position 
+  
+σημείο κράτησης οδικής κυκλοφορίας 
+  
+role-play 
+Role 
+παιχνίδι ρόλων 
+  
+roll 
+  
+διατοιχισμός , περιστροφή / κλίση 
+στροφής 
+  
+roll (to) 
+  
+στριφογυρίζω, κινούμαι προς τα εμπρός 
+(τσουλάω) 
+  
+rotor 
+  
+στροφείο 
+  
+rotor wash 
+  
+απόρρευμα στροφείου 
+  
+route 
+  
+διαδρομή 
+  
+route and traffic orientation 
+  
+γενικός προσανατολισμός περί 
+διαδρομών και κυκλοφορίας 
+  
+route charges 
+  
+τέλη διαδρομής 
+  
+route description 
+  
+περιγραφή διαδρομής 
+  
+route network 
+  
+δίκτυο διαδρομών 
+  
+route segment 
+  
+τμήμα διαδρομής 
+  
+route stage 
+  
+σκέλος διαδρομής 
+  
+routine 
+  
+συνήθης, τακτικός 
+  
+routine [meteorological] report 
+  
+συνήθης [μετεωρολογική] αναφορά 
+  
+routine inspection 
+  
+τακτική επιθεώρηση 
+  
+routine weather reports 
+broadcast on VHF 
+VOLMET 
+εκπομπή στα VHF συνήθων αναφορών 
+καιρού  
+  
+routing  
+  
+όδευση, δρομολόγηση 
+  
+routing area 
+  
+περιχοχή οδεύσεων 
+  
+rudder 
+  
+πηδάλιο διεύθυνσης 
+  
+run-up 
+  
+δοκιμή κινητήρα 
+  
+runway 
+  
+διάδρομος 
+  
+runway centreline 
+  
+[κεντρικός] άξονας διαδρόμου, κεντρική 
+γραμμή διαδρόμου 
+  
+runway contamination 
+  
+ρύπανση διαδρόμου, επικαθίσεις 
+διαδρόμου 
+  
+ 
+53 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+runway deposits 
+  
+συσσωρεύσεις διαδρόμου 
+  
+runway designator 
+  
+ενδείκτης διαδρόμου 
+  
+runway edge lighting 
+  
+φώτισμός πλευρικού άκρου διαδρόμου, 
+πλευρικός φωτισμός διαδρόμου 
+  
+runway end safety area  
+RESA  
+περιοχή ασφαλείας τέλους διαδρόμου, 
+περιοχή ασφαλείας πέρατος διαδρόμου 
+  
+runway excursion 
+  
+υπέρβαση ορίων διαδρόμου 
+  
+runway foaming 
+  
+επίστρωση διαδρόμου με αφρό 
+  
+runway guard lights 
+  
+προειδοποιητικά φώτα προστασίας 
+διαδρόμου 
+  
+runway holding position 
+  
+σημείο κράτησης διαδρόμου 
+  
+runway in use 
+  
+εν χρήσει διάδρομος, διάδρομος σε χρήση 
+  
+runway incursion 
+  
+παρείσφρηση στον διάδρομο 
+  
+runway shoulder 
+  
+έρεισμα διαδρόμου 
+  
+runway strip 
+  
+λωρίδα διαδρόμου 
+  
+runway turn pad 
+  
+πέλμα στροφής διαδρόμου 
+  
+runway visual  range 
+RVR 
+ορατή εμβέλεια διαδρόμου, ορατή 
+απόσταση διαδρόμου 
+  
+safety action group 
+SAG 
+ομάδα δράσης για την ασφάλεια 
+  
+safety area 
+  
+περιοχή ασφαλείας 
+  
+safety argument 
+  
+επιχειρηματολογία ασφάλειας, επιχείρημα 
+ασφάλειας 
+  
+safety assurance 
+  
+εγγύηση [της[ ασφάλειας 
+  
+safety case 
+  
+υπόθεση ασφάλειας 
+  
+safety data collection and 
+processing system  
+SDCPS 
+σύστημα συλλογής και επεξεργασίας 
+δεδομένων ασφάλειας 
+  
+safety directive 
+  
+οδηγία ασφάλειας 
+  
+safety investigation  
+  
+διερεύνηση ασφάλειας 
+  
+safety management manual  
+SMM 
+εγχειρίδιο διαχείρισης [της] ασφάλειας 
+  
+safety management system 
+SMS 
+σύστημα διαχείρισης [της] ασφάλειας 
+  
+safety management system 
+manual 
+SMSM 
+εγχειρίδιο συστήματος διαχείρισης [της] 
+ασφάλειας 
+  
+safety objective 
+  
+[αντικειμενικός] στόχος ασφάλειας 
+  
+safety performance 
+  
+επίδοση [της] ασφάλειας 
+  
+safety performance indicator 
+  
+δείκτης επίδοσης [της] ασφάλειας 
+  
+safety programme  
+  
+πρόγραμμα ασφάλειας 
+  
+safety recommendation 
+  
+σύσταση ασφάλειας 
+  
+ 
+54 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+safety regulation commission 
+SRC  
+επιτροπή κανονισμών ασφάλειας 
+  
+safety regulation unit  
+SRU 
+μονάδα κανονισμών ασφάλειας 
+  
+safety regulatory audit 
+  
+κανονιστικός έλεγχος [της] ασφάλειας, 
+κανονιστική επιθεώρηση [της] ασφάλειας 
+  
+safety regulatory requirements 
+  
+κανονιστικές απαιτήσεις [της] ασφάλειας 
+  
+safety requirement 
+  
+απαίτηση ασφάλειας 
+  
+safety review board  
+SRB 
+συμβούλιο ανασκόπησης ασφάλειας 
+  
+safety risk 
+  
+διακινδύνευση ασφάλειας 
+  
+safety risk management  
+SRM 
+διαχείριση διακινδύνευσης ασφάλειας 
+  
+safety−sensitive personnel  
+  
+κρίσιμο για την ασφάλεια προσωπικό 
+  
+sand 
+SA 
+άμμος 
+  
+sandstorm 
+SS 
+αμμοθύελλα 
+  
+satellite distribution system (for 
+information relating to air 
+navigation) 
+SADIS 
+δορυφορικό σύστημα διανομής 
+(πληροφοριών που σχετίζονται με την 
+αεροναυτιλία) 
+  
+satellite-based augmentation 
+system 
+SBAS 
+δορυφορικό σύστημα φασματικής 
+επαύξησης 
+  
+scan (to) 
+  
+σαρώνω 
+  
+seamless operation 
+  
+αρραγής λειτουργία 
+  
+seamlessness 
+  
+το αρραγές [της λειτουργίας] 
+  
+search and rescue 
+  
+έρευνα και διάσωση 
+  
+secondary radar 
+SSR 
+δευτερεύον ραντάρ 
+  
+secondary surveillance radar 
+SSR 
+δευτερεύον ραντάρ επιτήρησης 
+  
+sector 
+  
+τομέας 
+  
+sector configuration 
+  
+διάταξη τομέων, συνδυασμός τομέων 
+  
+sectorisation 
+  
+τομεοποίηση 
+  
+security 
+  
+προστασία 
+  
+security management system 
+SeMS 
+σύστημα διαχείρισης [της] προστασίας 
+  
+segregated parallel operations 
+  
+διάκριτες παράλληλες λειτουργίες 
+  
+SELCAL (Selective Calling) 
+SELCAL 
+SELCAL (επιλεκτική κλήση) 
+  
+selective call 
+SELCAL 
+επιλεκτική κλήση 
+  
+self study 
+SlfS 
+αυτομελέτη 
+  
+sending controller 
+  
+αποστέλλων ελεγκτής 
+  
+sending unit 
+  
+αποστέλλουσα μονάδα 
+  
+separation 
+  
+διαχωρισμός 
+  
+separation minima 
+  
+ελάχιστα διαχωρισμού 
+  
+ 
+55 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+separation mode 
+  
+τρόπος διαχωρισμού, μέθοδος 
+διαχωρισμού 
+  
+separation provision 
+  
+παροχή διαχωρισμού 
+  
+separation provision intervention 
+capability 
+  
+δυνατότητα παρέμβασης στην παροχή 
+διαχωρισμού 
+  
+separator 
+  
+φορέας παροχής διαχωρισμού 
+  
+sequencing (of traffic) 
+  
+διευθέτηση (κυκλοφορίας), 
+ακολουθιακοποίηση (κυκλοφορίας) 
+  
+serious incident 
+  
+σοβαρό συμβάν 
+  
+serious injury 
+  
+σοβαρός τραυματισμός 
+  
+service 
+  
+υπηρεσία (ως έννοια παροχής 
+εξυπηρέτησης) 
+  
+service continuity (in the context 
+of contingency) 
+  
+συνέχεια υπηρεσίας 
+  
+service delivery management  
+  
+διαχείριση παράδοσης υπηρεσίας 
+  
+service road 
+  
+οδός εξυπηρέτησης 
+  
+services 
+  
+υπηρεσίες 
+  
+SESAR joint undertaking 
+  
+κοινή επιχείρηση SESAR 
+  
+severe 
+  
+ισχυρός, έντονος 
+  
+severe icing 
+SEV ICE 
+ισχυρή παγοποίηση 
+  
+severe mountain waves 
+SEV MTW 
+ισχυρά κύματα όρους 
+  
+severe squall line 
+SEV SQL 
+ισχυρή γραμμή λαίλαπας 
+  
+severe turbulence 
+SEV TURB 
+ισχυρές αναταράξεις 
+  
+severe wind shear 
+  
+ισχυρός διατμητικός άνεμος 
+  
+shall 
+  
+πρέπει 
+  
+shallow 
+MI 
+ρηχός 
+  
+shipboard heliport 
+  
+ελικοδρόμιο επί πλοίου, επινήιο 
+ελικοδρόμιο 
+  
+shoreline 
+  
+ακτογραμμή 
+  
+short term conflict alert 
+STCA 
+βραχυπρόθεσμη συνέγερση εμπλοκής 
+  
+short-term outage (in the context 
+of contingency) 
+  
+βραχυχρόνια διακοπή λειτουργίας, 
+διακοπή λειτουργίας μικρής διάρκειας 
+  
+should 
+  
+θα πρέπει 
+  
+shoulder 
+  
+έρεισμα 
+  
+showers 
+SH 
+όμβροι 
+  
+sideslip 
+  
+πλαγιολίσθηση 
+  
+SIGMET information 
+  
+πληροφορίες SIGMET 
+  
+ 
+56 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+sign 
+  
+πινακίδα 
+  
+sign a maintenance release (to)   
+  
+υπογράφω τεχνική αποδέσμευση 
+  
+signal area 
+  
+περιοχή σημάτων 
+  
+significant  
+  
+σημαντικός 
+  
+significant meteorological 
+information 
+SIGMET 
+σημαντικές μετεωρολογικές πληροφορίες 
+  
+significant point 
+  
+σημαντικό σημείο 
+  
+simplex 
+  
+μονόδρομος, μίας κατεύθυνσης 
+  
+simulation 
+Sim 
+προσομοίωση 
+  
+simulator 
+Sim 
+προσομοιωτής 
+  
+simultaneous mode 
+  
+ταυτόχρονος τρόπος, ταυτόχρονη 
+μέθοδος 
+  
+simultaneous operations 
+  
+ταυτόχρονες λειτουργίες 
+  
+single european sky 
+SES 
+ενιαίος ευρωπαϊκός ουρανός 
+  
+single european sky air traffic 
+management research and 
+development 
+SESAR 
+έρευνα και ανάπτυξη για τη διαχείριση της 
+εναέριας κυκλοφορίας στον ενιαίο 
+ευρωπαϊκό ουρανό  
+  
+sink rate 
+  
+βαθμός καθόδου, βαθμός βύθισης 
+  
+situation display 
+  
+απεικόνιση [της] κατάστασης 
+  
+situational awareness 
+  
+ενημερότητα σχεικά με την(-ις) 
+κατάσταση(-εις), επίγνωση [της(-ων)] 
+καταστάσης(-εων) 
+  
+skill 
+  
+δεξιότητα 
+  
+skill acquisition 
+SA 
+απόκτηση δεξιότητας[-ων] 
+  
+skill practice 
+Pract 
+[πρακτική] εξάσκηση δεξιότητας(-ων) 
+  
+slant visual range  
+SVR  
+πλάγια οπτική εμβέλεια 
+  
+slat 
+  
+πτερύγιο υπερστήριξης (σχισμή χείλους 
+προσβολής) 
+  
+slippery (runway) 
+  
+ολισθηρός (διαδρομος) 
+  
+slipstream 
+  
+ελικόρρευμα 
+  
+slush 
+  
+λάσπη χιονιού, χιονόλασπη 
+  
+small hail 
+GS 
+μικρή χάλαζα ή/και σβόλοι χιονιού 
+  
+smoke 
+FU 
+καπνός 
+  
+snow 
+SN 
+χιόνι 
+  
+snow (on the ground) 
+  
+χιόνι (στο έδαφος) 
+  
+snow grains 
+  
+κόκκοι χιονιού 
+  
+snowtam 
+  
+αγγελία χιονιού 
+  
+ 
+57 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+software 
+  
+λογισμικό 
+  
+software capacity  
+  
+δυναμικότητα λογισμικού 
+  
+software components 
+  
+στοιχεία λογισμικού 
+  
+software failure  
+  
+αστοχία λογισμικού 
+  
+software life cycle 
+  
+κύκλος ζωής [του] λογισμικού 
+  
+software life cycle data  
+  
+δεδομένα [του] κύκλου ζωής [του] 
+λογισμικού 
+  
+software malfunction  
+  
+δυσλειτουργία λογισμικού 
+  
+software resource usage  
+  
+χρήση [των] πόρων λογισμικού 
+  
+software robustness  
+  
+ανθεκτικότητα λογισμικού 
+  
+software safety requirement  
+  
+απαίτηση ασφάλειας λογισμικού 
+  
+software timing performances 
+  
+επιδόσεις απόκρισης [του  λογισμικού 
+  
+software/hardware/environment/l
+iveware/liveware 
+SHELL 
+λογισμικό/υλισμικό/περιβάλλον/άνθρωπος
+/άνθρωπος 
+  
+solo flight time  
+  
+χρόνος πτήσης σόλο 
+  
+spacing 
+  
+διαπόσταση 
+  
+special committee on future air 
+navigation systems  
+FANS 
+ειδική επιτροπή για μελλοντικά συστήματα 
+αεροναυτιλίας 
+  
+special use airspace 
+SUA 
+εναέριος χώρος ειδικής χρήσης 
+  
+special VFR flight 
+SVFR 
+ειδική πτήση VFR 
+  
+speed break 
+  
+αερόφρενο 
+  
+spillage 
+  
+διαρροή (υγρού), κηλίδα από διαρροή 
+(υγρού) 
+  
+spoiler 
+  
+φθορέας άντωσης 
+  
+squall 
+SQ 
+λαίλαπα 
+  
+squawk 
+  
+βάζω κωδικό, βάζω κώδικα 
+  
+SSR code  
+  
+κωδικός SSR, κώδικας SSR 
+  
+SSR response 
+  
+απόκριση SSR 
+  
+stabilized approach 
+  
+σταθεροποιημένη προσέγγιση 
+  
+stabilizer (horizontal) 
+  
+(οριζόντιος) σταθεροποιητής / (οριζόντιο) 
+ουραίο πτέρωμα 
+  
+stall 
+  
+απώλεια στήριξης 
+  
+stall speed 
+  
+ταχύτητα απώλειας στήριξης 
+  
+stand  
+  
+θέση [στάθμευσης] 
+  
+standard (instrument) arrival  
+STAR  
+τυποποιημένη (ενόργανη) άφιξη 
+  
+standard altimeter setting 
+  
+τυπική ρύθμιση υψομέτρου 
+  
+standard instrument arrival 
+  
+τυποποιημένη ενόργανη άφιξη 
+  
+ 
+58 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+standard instrument departure  
+SID  
+τυποποιημένη ενόργανη αναχώρηση 
+  
+standard operating procedures  
+SOP 
+τυποποιημένες διαδικασίες λειτουργίας 
+  
+standardised european rules of 
+the air 
+SERA 
+τυποποιημένοι ευρωπαϊκοί κανόνες αέρος 
+  
+standards and recommended 
+practices  
+SARPs 
+πρότυπα και συνιστώμενες πρακτικές 
+  
+starboard 
+  
+δεξιά πλευρά αεροσκάφους 
+  
+state (to) 
+  
+εκθέτω 
+  
+state aircraft 
+  
+κρατικό αεροσκάφος 
+  
+state of design 
+  
+κράτος σχεδιασμού, χώρα σχεδιασμού 
+  
+state of manufacture 
+  
+κράτος κατασκευής, χώρα κατασκευής 
+  
+state of occurrence 
+  
+κράτος περιστατικού, χώρα περιστατικού 
+  
+state of registry 
+  
+κράτος νηολόγησης, χώρα νηολόγησης 
+  
+state of the operator 
+  
+κράτος του εκμεταλλευόμενου, χώρα του 
+εκμεταλλευόμενου 
+  
+state of the runway 
+  
+κατάσταση του διαδρόμου 
+  
+state safety programme 
+SSP 
+κρατικό πρόγραμμα ασφάλειας 
+  
+static load-bearing surface 
+  
+στατική φέρουσα επιφάνεια 
+  
+station declination 
+  
+απόκλιση σταθμού 
+  
+step-by-step mode 
+  
+βηματοπορικός τρόπος 
+  
+stop bars 
+  
+συστοιχία φώτων ακινητοποίησης 
+  
+stopway 
+  
+περιοχή ακινητοποίησης 
+  
+straight and level flight 
+  
+ευθεία και οριζοντία πτήση 
+  
+straight-in-approach 
+  
+κατευθείαν προσέγγιση 
+  
+strategic action 
+  
+στρατηγική ενέργεια 
+  
+stratocumulus 
+SC 
+στρωματοσωρείτες 
+  
+stratus 
+ST 
+στρώματα 
+  
+stress 
+  
+στρές, πίεση 
+  
+strobe lights 
+  
+στροβοσκοπικά φώτα 
+  
+strong wind shear 
+  
+δυνατός διατμητικός άνεμος 
+  
+student air traffic controller 
+  
+μαθητευόμενος ελεγκτής εναέριας 
+κυκλοφορίας 
+  
+student ATCO 
+  
+μαθητευόμενος ΕΕΚ 
+  
+subject 
+  
+θεματική ενότητα, θέμα 
+  
+sub-system 
+  
+υποσύστημα 
+  
+sub-topic 
+  
+υποθέμα 
+  
+ 
+59 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+super heavy aircraft 
+  
+υπερβαρύ (βάσει αεροδινών) αεροσκάφος 
+  
+supersonic transport  
+SST 
+υπερηχητική μεταφορά 
+  
+supplementary flight plan 
+SPL 
+συμπληρωματικό σχέδιο πτήσης 
+  
+support services 
+  
+υποστηρικτικές υπηρεσίες 
+  
+surface movement guidance and 
+control system  
+SMGCS  
+σύστημα καθοδήγησης και ελέγχου 
+κινήσεων επιφανείας 
+  
+surface movement radar  
+SMR 
+ραντάρ κινήσεων επιφανείας 
+  
+surface surveillance data server  
+SSDS 
+εξυπηρετητής δεδομένων επιτήρησης 
+επιφανείας 
+  
+surface wind 
+  
+άνεμος επιφανείας 
+  
+surface-level heliport 
+  
+ελικοδρόμιο στο επίπεδο της επιφάνειας, 
+ελικοδρόμιο επιπέδου επιφανείας 
+  
+surveillance 
+  
+επιτήρηση 
+  
+surveillance chain  
+  
+αλυσίδα επιτήρησης 
+  
+surveillance data  
+  
+δεδομένα επιτήρησης 
+  
+surveillance data processing 
+system  
+SDPS 
+σύστημα επεξεργασίας [των] δεδομένων 
+επιτήρησης 
+  
+surveillance identifier code  
+  
+αναγνωριστικός κωδικός επιτήρησης 
+  
+surveillance radar 
+  
+ραντάρ επιτήρησης 
+  
+surveillance services 
+  
+υπηρεσίες επιτήρησης 
+  
+survival equipment 
+  
+εξοπλισμός επιβίωσης 
+  
+switch-over time (light) 
+  
+χρόνος μεταγωγής (φωτός) 
+  
+syllabus 
+  
+διδακτέα ύλη 
+  
+synthetic display 
+  
+συνθετική απεικόνιση 
+  
+synthetic training device 
+STD 
+συνθετική εκπαιδευτική συσκευή 
+  
+synthetic training device 
+instructor endorsement 
+STDI 
+καταχώριση εκπαιδευτή συνθετικής 
+εκπαιδευτικής συσκευής 
+  
+system 
+  
+σύστημα 
+  
+system accuracy 
+  
+ορθότητα συστήματος 
+  
+system availability 
+  
+διαθεσιμότητα συστήματος 
+  
+system continuity 
+  
+συνέχεια συστήματος 
+  
+system integrity 
+  
+ακεραιότητα συστήματος 
+  
+system of assessing aviation’s 
+global emissions 
+SAGE 
+σύστημα αξιολόγησης [των] συνολικών 
+εκπομπών της αεροπορίας 
+  
+system reliability 
+  
+αξιοπιστία συστήματος 
+  
+system safety approach 
+  
+συστημική προσέγγιση ασφάλειας 
+  
+system safety requirement  
+  
+απαίτηση ασφάλειας συστήματος 
+  
+ 
+60 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+system-wide Information 
+management 
+SWIM 
+ολοσυστημική διαχείριση πληροφοριών  
+  
+tab 
+  
+πτερυγίδιο 
+  
+tabular display 
+  
+πινακοειδής απεικόνιση, πινακοειδής 
+οπτική παρουσίαση 
+  
+tail 
+  
+ουρά 
+  
+tail fin 
+  
+ουραίο πτερύγιο 
+  
+tail rotor 
+  
+ουραίο στροφείο 
+  
+tailwind 
+  
+ούριος άνεμος 
+  
+take account of (to) 
+  
+λαμβάνω υπόψη 
+  
+take off distance available 
+TODA 
+διαθέσιμη απόσταση απογείωσης 
+  
+take off run available 
+TORA 
+διαθέσιμο για απογείωση μήκος 
+διαδρόμου 
+  
+take-off alternate  
+  
+εναλλακτικό [αεροδρόμιο] απογείωσης 
+  
+take-off run 
+  
+διαδρόμηση απογείωσης, μήκος 
+απογείωσης 
+  
+take-off runway 
+  
+διάδρομος απογείωσης 
+  
+tanker aircraft 
+  
+βυτιοφόρο αεροσκάφος 
+  
+target 
+  
+στόχος 
+  
+target level of safety 
+TLS 
+επιθυμητό επίπεδο ασφάλειας 
+  
+task 
+  
+έργο, καθήκον 
+  
+taxi (to) 
+  
+τροχοδρομώ 
+  
+taxiing 
+  
+τροχοδρόμηση 
+  
+taxilane 
+  
+τροχοδίοδος, λωρίδα τροχοδρόμησης 
+  
+taxi-route 
+  
+διαδρομή τροχοδρόμησης 
+  
+taxiway 
+  
+τροχόδρομος 
+  
+taxiway intersection 
+  
+διασταύρωση τροχοδρόμων 
+  
+taxiway shoulder 
+  
+έρεισμα τροχοδρόμου 
+  
+taxiway strip 
+  
+λωρίδα τροχοδρόμου 
+  
+team resource management  
+TRM 
+διαχείριση πόρων ομάδας 
+  
+team simulation 
+TSim 
+προσομοίωση [λειτουργιών] ομάδας 
+  
+temperature inversion 
+  
+αναστροφή θερμοκρασίας 
+  
+temporal 
+  
+χρονικός 
+  
+temporary fluctuations are 
+forecast to 
+TEMPO 
+οι προσωρινές διακυμάνσεις προβλέπεται 
+να 
+  
+temporary segregated area 
+TSA 
+παροδικά απομονωμένη περιοχή 
+  
+ 
+61 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+terminal area (aerodrome) 
+forecast 
+TAF 
+πρόγνωση τερματικής περιοχής 
+(αεροδρομίου) 
+  
+terminal area procedures  
+  
+διαδικασίες τερματικής περιοχής 
+  
+terminal area sequencing 
+  
+διευθέτηση [της] κυκλοφορίας εντός 
+τερματικής περιοχής, ακολουθιακοποίηση 
+[της] κυκλοφορίας εντός τερματικής 
+περιοχής 
+  
+terminal charges 
+  
+τέλη τερματικής [περιοχής], τερματικά τέλη    
+terminal charging zone  
+  
+ζώνη χρέωσης τελών τερματικής 
+[περιοχής], ζώνη χρέωσης τερματικών 
+τελών 
+  
+terminal control area 
+TMA 
+τερματική περιοχή ελέγχου 
+  
+terminal manoeuvring area 
+TMA 
+τερματική περιοχή ελιγμών 
+  
+test flight 
+  
+δοκιμαστική πήση 
+  
+the change is forecast to 
+BECMG 
+η αλλαγή προβλέπεται να 
+  
+theoretical training 
+  
+θεωρητική εκπάιδευση 
+  
+third countries 
+  
+τρίτες χώρες 
+  
+threat 
+  
+απειλή 
+  
+threat management 
+  
+διαχείριση απειλών 
+  
+threshold 
+THR  
+κατώφλι, κατώφλιο 
+  
+throughput 
+  
+διεκπεραιωτικότητα, ρυθμός 
+εξυπηρέτησης 
+  
+thrust 
+  
+ώση 
+  
+thunderstorm 
+TS 
+καταιγίδα 
+  
+time difference of arrival  
+TDOA 
+χρονική διαφορά άφιξης 
+  
+time division multiple access 
+TDMA 
+πολλαπλή πρόσβαση διαίρεσης χρόνου 
+  
+time of applicability  
+  
+χρόνος εφαρμοσιμότητας, χρόνος 
+εφαρμογής 
+  
+timeliness  
+  
+επικαιρότητα 
+  
+tip 
+  
+ακροπτερύγιο 
+  
+tire 
+  
+ελαστικό  
+  
+tire burst 
+  
+θραύση ελαστικού [επισώτρου] 
+  
+top level hazard  
+TLH 
+κίνδυνος ανωτάτου επιπέδου 
+  
+topic 
+  
+θέμα 
+  
+tornado 
+  
+σίφωνας ξηράς 
+  
+total estimated elapsed time 
+  
+συνολικός υπολογιζόμενος 
+[απαιτούμενος] χρόνος, υπολογιζόμενη 
+συνολική διάρκεια πτήσης 
+  
+ 
+62 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+total outage (in the context of 
+contingency) 
+  
+ολική διακοπή λειτουργίας 
+  
+touch and go 
+  
+επαφή και αναχώρηση 
+  
+touchdown 
+  
+σημείο επαφής διαδρόμου, σημείο 
+προσεδάφισης 
+  
+touchdown and lift-off area 
+TLOF 
+περιοχή προσεδάφισης και ανύψωσης, 
+περιοχή προσεδάφισης και απογείωσης 
+  
+touchdown zone 
+TDZ 
+ζώνη επαφής διαδρόμου, ζώνη 
+προσεδάφισης 
+  
+tow bar 
+  
+ράβδος ρυμούλκησης, δοκός ζεύξης 
+ελκυστήρα 
+  
+tow truck 
+  
+ρυμουλκό 
+  
+tower control unit  
+TWR 
+μονάδα πύργου ελέγχου 
+  
+towering cumulus 
+TCU 
+πυργοειδής σωρείτης 
+  
+track 
+  
+ίχνος 
+  
+tracking 
+  
+ιχνηλάτηση 
+  
+traffic advisory indication  
+TA 
+συμβουλευτική  ένδειξη κυκλοφορίας 
+  
+traffic avoidance advice 
+  
+συμβουλή αποφυγής κυκλοφορίας 
+  
+traffic information 
+  
+πληροφορία κυκλοφορίας 
+  
+traffic synchronization 
+  
+συγχρονισμός κυκλοφορίας 
+  
+trainee air traffic controller 
+  
+εκπαιδευόμενος ελεγκτής εναέριας 
+κυκλοφορίας 
+  
+trainee ATCO 
+  
+εκπαιδευόμενος ΕΕΚ 
+  
+training 
+  
+εκπαίδευση, κατάρτιση 
+  
+training course 
+  
+εκπαιδευτική σειρά 
+  
+training event 
+  
+εκπαιδευτική δραστηριότητα, μάθημα 
+  
+training event plan 
+  
+σχέδιο εκπαιδευτικής δραστηριότητας, 
+σχέδιο μαθήματος 
+  
+training media 
+  
+εκπαιδευτικά μέσα 
+  
+training method 
+  
+εκπαιδευτική μέθοδος 
+  
+training objective 
+  
+[αντικειμενικός] εκπαιδευτικός στόχος 
+  
+training organisation 
+  
+εκπαιδευτικός οργανισμός, εκπαιδευτικός 
+φορέας 
+  
+training phase 
+  
+φάση εκπαίδευσης, εκπαιδευτική φάση 
+  
+training plan 
+  
+σχέδιο εκπαίδευσης, πλαίσιο εκπαίδευσης 
+  
+training program 
+  
+εκπαιδευτικό πρόγραμμα 
+  
+trajectory (or profile) 
+  
+τροχιά 
+  
+transfer (to) 
+  
+μεταβιβάζω, μεταφέρω 
+  
+ 
+63 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+transfer flight level  
+  
+μεταβιβαζόμενο επίπεδο πτήσης 
+  
+transfer of control 
+  
+μεταβίβαση [του] ελέγχου 
+  
+transfer of control point 
+  
+σημείο μεταβίβασης ελέγχου 
+  
+transferring  unit  
+  
+μεταβιβάζουσα μονάδα 
+  
+transferring controller 
+  
+μεταβιβάζων ελεγκτής 
+  
+transferring unit/controller 
+  
+μεταβιβάζουσα μονάδα / μεταβιβάζων 
+ελεγκτής 
+  
+transition altitude 
+  
+μεταβατικό απόλυτο ύψος 
+  
+transition layer 
+  
+μεταβατικό στρώμα 
+  
+transition level 
+  
+μεταβατικό επίπεδο [πτήσης] 
+  
+transitional training 
+  
+μεταβατική εκπαίδευση 
+  
+transponder 
+  
+αναμεταδότης, αποκριτής 
+  
+transport type state aircraft  
+  
+κρατικό αεροσκάφος μεταφορικού τύπου 
+  
+trend forecast 
+  
+πρόγνωση τάσης 
+  
+triage 
+  
+διαλογή  (χώρος διαλογής θυμάτων σε 
+αεροπορικό ατύχημα) 
+  
+tributary station 
+  
+υποσταθμός 
+  
+tropical cyclone advisory centre  
+TCAC 
+συμβουλευτικό κέντρο τροπικών 
+κυκλώνων 
+  
+true airspeed 
+TAS 
+αληθής ταχύτητα αέρος 
+  
+turbofan engine 
+  
+στροβιλοκινητήρας διπλής ροής 
+  
+turbojet engine 
+  
+στροβιλοκινητήρας 
+  
+turboprop engine 
+  
+ελικοστροβιλοκινητήρας 
+  
+turbulence 
+TURB 
+αναταράξεις 
+  
+type of training 
+  
+είδος εκπαίδευσης, τύπος εκπαίδευσης 
+  
+UHF tactical air navigation aid  
+TACAN 
+UHF ραδιοβοήθημα τακτικής 
+αεροναυτιλίας 
+  
+ultra high frequency direction 
+finder 
+UDF 
+ραδιογωνιόμετρο υπερυψηλής 
+συχνότητας, ραδιογωνιόμετρο πάρα πολύ 
+υψηλής συχνότητας 
+  
+ultra-high frequency 
+UHF 
+υπερυψηλή συχνότητα, πάρα πολύ υψηλή 
+συχνότητα 
+  
+uncertainty phase 
+INCERFA 
+φάση αβεβαιότητας 
+  
+undercarriage system 
+  
+σύστημα προσγείωσης 
+  
+unforseen outage (in the context 
+of contingency) 
+  
+απρόβλεπτη διακοπή λειτουργίας 
+  
+unit competence scheme 
+UCS 
+σχέδιο επιχειρησιακής επάρκειας 
+[προσωπικού] μονάδας 
+  
+ 
+64 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+unit endorsement 
+  
+καταχώριση εκπαιδευτή 
+  
+unit rate 
+  
+τιμή μονάδας 
+  
+unit training 
+  
+εκπαίδευση στη μονάδα, εκπαίδευση 
+μονάδας 
+  
+unit training plan 
+UTP 
+πλαίσιο εκπαίδευσης μονάδας 
+  
+universal safety oversight audit 
+programme  
+USOAP 
+παγκόσμιο πρόγραμμα επιθεωρήσεων 
+εποπτείας της ασφάλειας 
+  
+unlawful interference 
+  
+παράνομη παρέμβαση, έκνομη ενέργεια 
+  
+unlimited route concept 
+  
+το σκεπτικό των απεριόριστων [εναέριων]  
+διαδρομών 
+  
+unmanned aerial vehicle 
+UAV 
+μη επανδρωμένο αεροσκάφος, μη 
+επανδρωμένο όχημα αέρος 
+  
+unmanned free balloon 
+  
+μη επανδρωμένο ελεύθερο αερόστατο 
+  
+unstabilized approach 
+  
+μη σταθεροποιημένη προσέγγιση 
+  
+unusual situation 
+  
+ασυνήθης κατάσταση 
+  
+update (to) 
+  
+επικαιροποιώ 
+  
+updated flight position 
+  
+επικαιροποιημένη θέση πτήσης 
+  
+upgrade 
+  
+αναβάθμιση 
+  
+upper control area  
+UTA 
+ανώτερη περιοχή ελέγχου 
+  
+upper deck 
+  
+ανώτερο πάτωμα (καμπίνας 
+αεροσκάφους) 
+  
+upper wind 
+  
+ανώτεροι άνεμοι 
+  
+upwash 
+  
+ανώρευμα 
+  
+urgency 
+  
+επείγουσα ανάγκη, επείγουσα κατάσταση, 
+επείγον 
+  
+urgency signal 
+  
+σήμα επείγουσας ανάγκης, σήμα 
+επείγοντος 
+  
+usability factor 
+  
+συντελεστής χρήσης 
+  
+use (to) 
+  
+χρησιμοποιώ 
+  
+user of air navigation services  
+  
+χρήστης υπηρεσιών αεροναυτιλίας, 
+χρήστης αεροναυτιλιακών υπηρεσιών 
+  
+user required route 
+  
+απαιτούμενη διαδρομή χρήστη 
+  
+user(s) 
+  
+χρήστη(-ε)ς 
+  
+validation 
+  
+επικύρωση 
+  
+vapour trail 
+  
+ίχνος συμπύκνωσης 
+  
+variable pitch propeller 
+  
+έλικα μεταβαλλόμενου βήματος 
+  
+vectoring 
+  
+καθοδήγηση 
+  
+vendilation 
+  
+εξαερισμός 
+  
+ 
+65 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+verification 
+  
+επαλήθευση 
+  
+verify (to) 
+  
+επαληθεύω 
+  
+vertical  separation 
+  
+κατακόρυφος διαχωρισμός 
+  
+vertical navigation 
+VNAV 
+κατακόρυφη ναυτιλία, κατακόρυφη 
+ναυσιπλοΐα 
+  
+vertical stabilizer 
+  
+κατακόρυφος σταθεροποιητής / 
+κατακόρυφο ουραίο πτέρωμα / 
+κατακόρυφο σταθερό 
+  
+vertical take-off and landing 
+  
+κατακόρυφη απογείωση και προσγείωση 
+  
+vertical visibility 
+  
+κατακόρυφη ορατότητα 
+  
+very high frequency 
+VHF 
+πολύ υψηλή συχνότητα 
+  
+very high frequency direction 
+finder 
+VDF 
+ραδιογωνιόμετρο πολύ υψηλής 
+συχνότητας 
+  
+very high frequency direction 
+finding station  
+VDF  
+ραδιογωνιομετρικός σταθμός πολύ 
+υψηλής συχνότητας 
+  
+very high frequency 
+omnidirectional radio  range  
+VOR   
+παγκατευθυντικός ραδιοφάρος πολύ 
+υψηλής συχνότητας 
+  
+very high frequency 
+omnidirectional radio  range / 
+UHF tactical air navigation 
+aid  
+VORTAC 
+παγκατευθυντικός ραδιοφάρος πολύ 
+υψηλής συχνότητας / UHF ραδιοβοήθημα 
+τακτικής αεροναυτιλίας 
+VORTAC 
+very important person 
+VIP 
+πολύ σημαντικό πρόσωπο 
+  
+VFR flight 
+  
+πτήση VFR 
+  
+VHF assignments 
+  
+εκχώρηση συχνοτήτων VHF 
+  
+VHF digital link  
+VDL 
+ψηφιακή ζεύξη VHF 
+  
+VHF omnidirectional radio range 
+VOR 
+παγκατευθυντικός ραδιοφάρος  VHF 
+  
+visibility 
+  
+ορατότητα 
+  
+visual aids 
+Vsl 
+οπτικά βοηθήματα 
+  
+visual approach 
+  
+εξ όψεως προσέγγιση 
+  
+visual approach slope indicator 
+VASIS 
+ενδείκτης κλίσης εξ όψεως προσέγγισης 
+  
+visual descent point  
+VDP  
+σημείο εξ όψεως καθόδου 
+  
+visual docking guidance system  
+VDGS 
+σύστημα οπτικής καθοδήγησης για 
+στάθμευση 
+  
+visual flight rules 
+VFR 
+κανόνες πτήσης εξ όψεως 
+VFR 
+visual flight rules flight 
+  
+πτήση σύμφωνα με τους  κανόνες πτήσης 
+εξ όψεως 
+  
+visual meteorological conditions 
+VMC 
+μετεωρολογικές συνθήκες πτήσης εξ 
+όψεως 
+  
+voice−ATIS  
+  
+φωνητικό ATIS 
+  
+ 
+66 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+volcanic ash 
+  
+ηφαιστειακή τέφρα 
+  
+volcanic ash advisory centre 
+VAAC  
+συμβουλευτικό κέντρο ηφαιστειακής 
+τέφρας 
+  
+volcanic eruption 
+  
+ηφαιστειακή έκρηξη 
+  
+vortex 
+  
+στρόβιλος 
+  
+wake 
+  
+απόρρευμα 
+  
+wake turbulence 
+  
+αεροδίνες 
+  
+warning 
+  
+προειδοποίηση 
+  
+water patches 
+  
+λιμνάζοντα νερά 
+  
+waterspout 
+  
+θαλάσσιος σίφωνας 
+  
+waypoint 
+  
+σημείο διαδρομής 
+  
+web-based training 
+WBT 
+εκπαίδευση βασισμένη στο διαδίκτυο, 
+ιστοπαγής εκπαίδευση 
+  
+wet (runway) 
+  
+βρεγμένος (διάδρομος) 
+  
+wet snow 
+  
+υγρό χιόνι 
+  
+wheel well 
+  
+υποδοχή τροχών συστήματος 
+προσγείωσης 
+  
+whirlwind 
+  
+ανεμοστρόβιλος 
+  
+wide body aircraft 
+  
+αεροσκάφος  φαρδιάς ατράκτου 
+  
+winching area 
+  
+περιοχή (απ-)αγκίστρωσης 
+  
+wind direction 
+  
+κατεύθυνση ανέμου, διεύθυνση ανέμου 
+  
+wind quality flag 
+  
+σημαιάκι ποιότητας ανέμου 
+  
+wind shear 
+  
+διατμητικός άνεμος 
+  
+wind speed 
+  
+ταχύτητα ανέμου 
+  
+wing 
+  
+πτέρυγα 
+  
+wing span 
+  
+εκπέτασμα 
+  
+wing tip 
+  
+ακροπτερύγιο 
+  
+work in progress 
+  
+έργασίες σε εξέλιξη, εργασίες υπό 
+εκτέλεση 
+  
+working position 
+  
+θέση εργασίας 
+  
+world area forecast centre 
+WAFC 
+παγκόσμιο περιοχικό σύστημα 
+πρόγνωσης 
+  
+world area forecast system  
+WAFS 
+παγκόσμιο περιοχικό σύστημα 
+πρόγνωσης 
+  
+world geodetic system — 1984 
+WGS-84 
+παγκόσμιο γεωδαιτικό σύστημα - 1984 
+  
+world meteorological 
+organization  
+WMO  
+παγκόσμιος μετεωρολογικός οργανισμός 
+  
+ 
+67 
+ 
+English Term /  
+Αγγλικός Όρος 
+English 
+Abbreviated  
+form /  
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός Όρος /  
+Greek Term 
+Ελληνική 
+συντομο-
+μορφή / 
+Greek 
+Abbreviated 
+form 
+world radiocommunication 
+conference 
+WRC 
+παγκόσμια διάσκεψη ραδιοεπικοινωνιών 
+  
+yaw 
+  
+παρέκκλιση, κίνηση δεξιά αριστερά 
+  
+ 

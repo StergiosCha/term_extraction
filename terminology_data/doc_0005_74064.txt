@@ -1,0 +1,193 @@
+SOURCE: https://eleto.gr/en/terminology-resources/terminological-databases/#0-telecommunications-termbase-teleterm-grenfrde
+
+Table of Termbases
+Telecommunications termbase TELETERM (GR/EN/FR/DE)
+Information Technology termbase INFORTERM (GR/EN/FR)
+Terminology termbase TERMTERM (GR/EN/FR)
+Multilingual Terminology termbase TermTerm (GR/EN/FR/DE/…)
+Acoustics termbase ACOUTERM (GR/EN/FR/DE)
+Electrotechnology termbase ELECTERM (GR/EN/FR/DE)
+Telecommunications termbase LEXITERM (GR/EN/FR)
+ElectroMagnetic Compatibility termbase EMCTERM (GR/EN/FR/DE)
+Sensory Analysis termbase SENSOTERM (GR/EN/FR/DE)
+Geology and Paleontology termbase GEOTERM (GR/EN)
+Termbase of colors CHROMOTERM (GR/EN/FR/DE)
+Termbase of Optics and Lasers OPTOTERM (GR/EN)
+Termbase of Measurement Units UNITTERM (GR/EN)
+Termbase of Philately PHILOTTERM (GR/EN)
+Terms on Fora termbase FORATERM (GR/EN)
+Information and Documentation termbase DOCUTERM (GR/EN)
+Telecommunications termbase
+TELETERM
+(GR/EN/FR/DE)
+The termbase
+TELETERM
+is a collection of terminological entries of telecommunications resulting from the work of
+MOTO
+, a collective member of ELETO –
+Brief history
+–
+Search
+MOTO (“Permanent Group of Telecommunications Terminology”) –
+Brief history
+Evolution of the number of searches in the Termbase TELETERM:
+Article about MOTO and the termbase:
+K. Valeontis, Terminology standardization: The paradigm of the Permanent Group for Telecommunication Terminology (MOTO) [in Greek]
+Information Technology termbase
+INFORTERM
+(GR/EN/FR)
+The termbase
+INFORTERM
+is a collection of terminological entries of Information Technology resulting from the work of the Group
+ELOT/TC48/WG1
+, a collective member of ELETO –
+Brief history
+–
+Search
+The Group ELOT/TC48/WG1 “Information Technology Terminology”» –
+Brief history
+Evolution of the number of searches in the Termbase INFORTERM:
+Article about the termbase and the Group:
+K. Valeontis, The trilingual base of standardized terms of Information Technology and its free use on the Internet [in Greek]
+Terminology termbase
+TERMTERM
+(GR/EN/FR)
+The termbase
+TERMTERM
+is a collection of terminological entries of Terminology Science, resulting from the work of the committee
+ELOT/TC21
+, a collective member of ELETO –
+Brief history
+–
+Search
+The committee ELOT/TC21 “Terminology – Language resources” –
+Brief history
+Article about the termbase and its sources:
+K. Valeontis, The new standards ELOT 561 and ELOT 402 (Round Table at the 6th Conference «Hellenic Language and Terminology») [in Greek]
+Multilingual Terminology termbase
+TermTerm
+(GR/EN/FR/DE/…)
+A large part of the terms of this termbase come from ELETO’s termbase
+TERMTERM
+, according to a memorandum of understanding signed between ELETO and
+Termnet
+) –
+Search in TermTerm
+.
+Information about TermTerm:
+TermTerm info
+Acoustics termbase
+ACOUTERM
+(GR/EN/FR/DE)
+The termbase
+ACOUTERM
+is a collection of terminological entries of Acoustics, resulting from the work of the Group
+ELOT/TC2/WG5
+, a collective member of ELETO –
+Brief history
+–
+Search
+The Group ELOT/TC2/WG5 “Sound insulation” –
+Brief history
+Electrotechnology termbase
+ELECTERM
+(GR/EN/FR/DE)
+The termbase
+ELECTERM
+is a collection of terminological entries of Electrotechnology, resulting from the work done by the cooperation with the
+Department of Electrotechnical Standardization of ELOT
+–
+Brief history
+–
+Searc
+h
+Telecommunications termbase
+LEXITERM
+(GR/EN/FR)
+The termbase
+LEXITERM
+is a collection of terminological entries of Telecommunications from the “
+Quadrilingual Dictionary of Telecommunications
+”, published by J. P. Rehnahn & ΕΛΕΤΟ, the Greek terms of which were prepared by MOTO –
+Brief history
+–
+Search
+MOTO (“Permanent Group of Telecommunications Terminology”) –
+Brief history
+ElectroMagnetic Compatibility termbase
+EMCTERM
+(GR/EN/FR/DE)
+The termbase
+EMCTERM
+is a collection of terminological entries of Electromagnetic compatibility (EMC), resulting from the work of the Group
+ELOT/TC80/WG1
+–
+Brief history
+–
+Search
+The Group ELOT/TC80/WG1 “Terminology” –
+Brief history
+Sensory Analysis termbase
+SENSOTERM
+(GR/EN/FR/DE)
+The termbase
+SENSOTERM
+is a collection of terminological entries of Sensory Analysis, resulting from the work of cooperation between
+GESY
+of ELETO and
+Consumer and Sensory Lab
+of the University of the Aegean –
+Brief history
+–
+Search
+Geology and Paleontology termbase GEO
+TERM
+(GR/EN)
+The termbase
+GEOTERM
+contains all the English and Greek equivalent terms of the dynamic
+English – Greek glossary of geological terms
+, which is the product of collaboration between ELETO and the Geological Society of Greece (GSG) –
+Brief history
+–
+Search
+Termbase of colors CHROMOTERM (GR/EN/FR/DE)
+The termbase CHROMOTERM contains all the Greek and English equivalent terms of the Glossary «
+Colour terminology – Quadrilingual Colour Guide (DE–EN-FR–GR)
+», which has been uploaded on the web page «
+Dictionaries and Glossaries
+» –
+Search
+Termbase of Optics and Lasers OPTOTERM (GR/EN)
+The termbase OPTOTERM contains all the Greek and English equivalent terms of the Glossary «
+General and special terms of optics and lasers – EN-GR and GR-EN glossaries
+», which has been uploaded on the web page «
+Dictionaries and Glossaries
+» –
+Search
+Termbase of Measurement Units UNITTERM (GR/EN)
+The termbase UNITTERM contains all the Greek and English equivalent terms of the Glossary «
+English-Greek and Greek-English glossary of terms of the International System of Units (SI) (EN-GR, GR-EN)
+» and of the Glossary «
+English–Greek glossary of basic SI units and their multiples and submultiples and some other units used
+», which have been uploaded on the web page «
+Dictionaries and Glossaries
+»» –
+Search
+Termbase of Philately PHILOTTERM (GR/EN)
+The termbase PHILOTTERM contains all the Greek and English equivalent terms of the Glossary «
+Glossary of philatelic terms (GR-EN) – Edition 2, 2019
+», which has been uploaded on the web page «
+Dictionaries and Glossaries
+» –
+Search
+Terms on Fora termbase FORATERM (GR/EN)
+The termbase FORATERM contains all the Greek and English equivalent terms of the Glossary «
+English-Greek Glossary of Terms proposed / adopted / approved by ELETO
+», which has been uploaded on the web page «
+Dictionaries and Glossaries
+» –
+Search
+Information and Documentation termbase DOCUTERM (GR/EN)
+The termbase DOCUTERM contains all the Greek and English equivalent terms from the work of the Committee ELOT/TE22 «Information – Documentation» –
+Search

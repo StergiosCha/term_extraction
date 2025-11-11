@@ -1,0 +1,36 @@
+SOURCE: https://eleto.gr/en/terminology-resources/termmaster-2/#content
+
+TermMaster
+is a game like the classic “Hangman”, with the difference that requested is not a
+word
+but a
+Greek-English
+term equivalence
+(
+Greek term
+–
+English term
+)!
+You have 10 tries to find both terms!
+Short instructions
+At the bottom right of the game’s screen, you may select a single termbase from ELETO’s termbank or leave the default option
+Pick random
+, for a random selection of termbase, and click on the screen button
+BEGIN INVESTIGATION
+.
+Two series of dashes appear on the screen. The dashes of the upper series correspond to the letters of a Greek term, while the dashes of the lower series correspond to the letters of the equivalent English term, all uppercase. Just below, the screen shows the capital letters of the Greek alphabet (on the left) and the capital letters of the English alphabet (on the right), ordered as in the Greek and English keyboard respectively.
+The
+purpose
+is to
+guess all the letters
+of both the Greek term and the English one, by clicking on them. You may “miss” 10 attempts, otherwise you will be… hanged!
+When you guess
+all the letters
+of the two terms, the “
+congratulations
+” screen pops up on which the following data are given: the name of the termbase from which the term equivalence had been selected, the time elapsed and both terms written exactly as they are in the termbase (case sensitive).
+Share the problem
+If you find the challenge interesting you may share it with your friends. At the end of the game a hyperlink is generated. You may copy it (by clicking) and send it to your friends!
+Variants
+For additional difficulty, you may set a time limit or restrict the maximum length of the terms.
+TermMaster!

@@ -1,0 +1,12 @@
+SOURCE: http://www.eleto.gr/download/bodies
+
+Hellenic Organization for Standardization (ELOT)
+Institute for Language and Speech Processing (IEL)
+International Telecommunications Union (ITU)
+International Organization for Standardization (ISO)
+International Electrotechnical Commission (IEC)
+International Information Centre for Terminology (Infoterm)
+International Network for Terminology (TermNet)
+International Institute for Terminology and Research (IITF)
+European Association for Terminology (EAFT)
+Hellenic Network for Terminology (EDO)

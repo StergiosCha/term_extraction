@@ -1,0 +1,215 @@
+SOURCE: http://www.eleto.gr/download/Conferences/2nd%20Conference/2nd_143-148_Papakitsos-Grigoriadou.pdf
+
+MATRIX LEXICA: ΑΝ ALTERNAτiVE DESCRIPτiON OF LEXICAL DATABASES 
+Ε. Papakitsos, Μ. Gregoriadou 
+SUMMARY 
+Ιπ the work presented here, new methods for designing and implementing large lexical databas-
+es were examined. These lexical databases or machine readable dictionaries are expected to be 
+organized in a way to proνide fast access to the stored data and efficient memory management. 
+Directed graphs can be used to describe and organize a lexical database of large magnitude in a 
+compact manner. These data structures are caJied matrix lexica, where the letters are described as 
+nodes of directed graphs and the lemmata as paths (set of edges). lt is claimed that matrix lexica can 
+efficiently support automated language applications, in the fields of lexicography, terminology, 
+machίne-translation and others, by proνiding high speed of resolution, sound mathematical founda-
+tion, Ιονν memory requirements and ability to handle distorted input in future deνetopments. These 
+methods were eνaluated for Modern Greek as a target language. 
+Ο INTRODUCτiON 
+The oνerall target οΙ the work presented here was the development οΙ a general pur· 
+pose automated system lor the computatιonal treatment οΙ Modern Greek morphology. 
+Such a computerized system is composed οΙ two major subsystems: 
+(i) the subsystem which analyze the words. called "'tagger"' and 
+(ii) a database. containing inlormation about the words. which is called "'leχicaι data· 
+base" or "lexicon". 
+11 is eχpected lrom a tagger to provide one accurate analysis for every analysed word 
+last and with low compleχity (in order to impove maintainability). The model of functional 
+decomposition [1][4] was used to design and implement a tagger for Modern Greek and 
+evaluate its perlormance using a large scale corpus (ECI-Greek Part). containing 
+approχimately 1,880,000 words. This tagger used a morpheme based leχicon haνing 7800 
+entries. The morpheme based lexicon is a lexical database that contains morphemes 
+instead of words. The advantages of such a lexicon are: low computer memory require-
+ments ability to simulate the natural mechanisms of language. The second advantage (ii) 
+gives to the tagger the ability of analyzing noνel words (neologisms) or words that usual· 
+ly are not included in other types of traditional dictionaries. The initial size of this leχical 
+database includes 7800 entries that are morphemes of the following classes: free mor· 
+143 
+phemes (1669), roo1s (5758), inflectional suffiχes (149), suffiχes and prefiχes (approχ. 
+200). 
+Α computerized system haνing the aboνe mentioned features requires adνanced 
+storing and accessing methods in organizing the leχicon. 
+1 LEXICAL DATABASES 
+For supporting a tagger, two of the most frequently used data structures (and access-
+ing methods) are hash tables [5] and tries or root leχica [3]. The design of the leχical data-
+base for our tagger followed the hash-table method. The entries are initially distributed in 
+1000 positions where collision occurs for up to 100 cases. Finding a better hashing-func-
+tion was not a priority of the deνelopment although better hashing functions are available. 
+Twelve data arrangements and searching algorithms were tested (serial, binary, block 
+search and hashing upon arrays, lists and binary trees) before concluding to the superi-
+ority of hashing, which performs 150% faster than the second candidate method (array's 
+binary search). 
+On the other hand, hashing wastes memory and maybe it is not the best way to deal 
+with spelling errors, the appearance of the errors being significant in the corpus (2%). 
+Tries also waste memory and provide a lower oνerall speed, but recent work on Finite 
+State Automata (FSA) has demonstrated an ability to deal with most kinds of spelling 
+errors [2], in a potentially effective manner. One target of this research was to find a data-
+base design which can probably combine the advantages of both hash tables and tries, 
+without the corresponding drawbacks. Namely, a data structure and a searching method 
+that may provide high resolution speed, minimum occupation of memory and an ability to 
+support effectively spelling-checking. lt is 
+belieνed that methods based on directed 
+graphs for organizing a leχical database (matriχ leχica) can be very promising towards 
+this direction. 
+2 MATRIX LEXICA 
+Α matriχ leχicon, which is designed as a directed graph, is arranged as a matriχ of 
+characters (Fig.1). The number of columns denotes the size of the alphabet and the num-
+ber of rows denotes the length of a string (lemma). Eνery letter on a certain position of a 
+string is a node and any string represents a unique path in the graph. Α path is a set of 
+edges starting from a node of the first row. An edge connects a node of one row only to 
+a node of the neχt row from top to bottom, thus the graph is directed. The attributes of a 
+lemma (or a pointer to them) can be found at the starting or the finishing node of its asso-
+ciated path. 
+144 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+i 
+I 
+k 11 
+m 
+n 
+r 
+s 
+ι 
+z 
+1 
+-• 
+2 
+·-
+I'"" 
+-- ι----
+3 
+• 
+4 
+• !"'"" 
+.. 
+n 
+_I 
+Figure 1. Α matrix lexicon and the path of the word 'time'. 
+Due to collision, a node contains the attributes of many paths, but a path is uniquely 
+represented by an integer which is allocated to it through some hashing function. This 
+design can provide fast data access equal to a hash table because of the hashing func· 
+tion, and it can support a Finite State Automaton (FSA) in discovering a string node by 
+node just like a trie. Additionally, it is very compact because the characters of the strings 
+are not present (they are substituted by nodes) and the strings can be represented as two 
+byte integers. This representation is of fixed size, which is less than half of the average 
+size of lemmata (4.5 characters per string). Two relevant designs will be discused, the 
+Character Combination Data Engine-CCDE [6] and the Cartesian Lexicon described in the 
+neχt section. 
+The CCDE is proposed as a new general method of storιng data without any prepera-
+tion, i.e. without definning fields. their keys, indexed files, etc. CCDE can be described as 
+a directed multιgraph and it can be used to implement a matrix lexicon. lt contains double 
+the nodes of the prevιously described matrix, because terminal nodes (where a path fin· 
+ishes) are different from non-termina\ nodes. Each path is marked by a degree associated 
+with the lenght of it and with the number of common nodes with other paths. Because 
+paths share common nodes and edges with other paths, each node 
+contains informa-
+tion about the accepted and not accepted second-precedent edges. This happens in order 
+to avoid generation of non-exίstent strings if the previous node ίs common with another 
+path. The above information consists of the minimum and maximum degree of the accept-
+145 
+ed edges, and the minimum and maχimum degree of the unaccepted edges. The degree 
+numbers are calculated through an equation based on the combination of characters. Ιt is 
+claimed that this new method has the ability of remembering the stored characters. 
+3 ΤΗΕ CARTESIAN LEXICON 
+The "Cartesian Leχicon" can be described as a simple digraph and 11 is a matriχ Ιeχi­
+con designed and implemented as part of this research, aiming at the development of Ιeχ­
+ical databases capable of supporting word-processing more efficiently. Here, the nodes 
+are considered as points of a two dimensional space, where each node is identified by a 
+pair of Cartesian coordinates (hence Cartesian Leχicon). Α path is identified by its lenght, 
+starting from the [0,0] point which is outside the matriχ of letters (i.e , the 'a' of the first 
+row is identified by [1,1] coordinates). Α node can be terminal or not or both. lf it is ter-
+minal, the features of all the associated paths ending there, are stored ιn some kind of list 
+or array structure initiating there. For eχample, the strings 'time', 'lake' and 'line· have a 
+length of 4 characters with the last one being 'e'. Their features will be stored in a list 
+located at the 4th row and the 5th column (Fig .1: [4,'e']), since all their paths finish there. 
+The features of each path are distinguished by allocating to them an integer characteriz-
+ing the path. This integer can be the length of the path or the result of a hashing function, 
+also denoting the position within the array where the features are stored. Takιng the 
+above eχample ('time','lake','line'), such a hashing function can use all the characters of 
+those strings eχcept the last one ('tim', 'lak', 'lin') which is common to all. ln accessing 
+the data after receiving aπ input string (eg. 'time'), the list containing its features is imme-
+diately located through the string's length (4) and the last character ('e'). Because the fea-
+tures of the other strings (eg. Ίake', 'line', etc) will be also located there, the actual pos·ι­
+tion is computed by the hashing function. lf the input string is somehow distorted then its 
+features will not be found in the searched list and the correcting procedure wιll be 
+invoked. For this purpose, a node is also associated with a 24-bit array denoting the 
+acceptable edges connecting the nodes of the previous row to the current node. The cor-
+recting procedure will trace the path of the input string forwards (eg.'t'-'i'-'m'-'e', as it 
+would have happened in a trie) or backwards (eg. 'e'-'m'-'i'-'1') through the nodes, to dis-
+cover the error and to find eventually !he correct location of the strιng's features. 
+Several configurations of the Cartesian Lexicon were evaluated in preliminary tests, 
+differing in few details. Some of its discovered characteristics, using Modern Greek as the 
+target language, were that lists may contain from Ο to 250 elements. The centrally locat-
+ed ones are the most populated with elements. Α collision rate of up to 10% was 
+observed, depending on the hashing function, but the optimizatιon is yet an open subject. 
+146 
+4 APPLICA110NS 
+Except from spelling error correction, which was presented previously, a morpheme 
+based lexicon can support the computerized morphological processing system in a νari­
+ety of applications. such as automated lexicography and information retrieνal, machine 
+translation. handling of newly appearing terms, and others. Α few examples are given 
+below: 
+Ιn information retrieνal and automated lexicography applications, it is required by the 
+compυterized system to find words that haνe a particυlar relation with a giνen one. Thιs is 
+the case of deriνatινes and compoυnds. Giνen the word "χρόνος" it is expected from the 
+compυterized system to discoνer deriνatiνes like "εκσυγχρονίζω". This is achieνed becaυse 
+in the lexicon the roots ("χρον-") are connected through pointers to all their associated pre-
+fixes ("εκ-", "συν-", etc.) and to all their assocιated suffixes (like "-ιζω"). Thus their combi-
+nations, forming the deriνatiνe words of "χρόνος" like "εκσυγχρονίζω", "αναχρονιστικός", 
+"διαχρονικός", etc, are accessible withoυt being explicitly stored in the lexicon. 
+ln machine translation applications, eνery morpheme is characterized by a υnique 
+nυmber, which is called "key-number". The translation process can be achieνed through 
+a mapping of key-nυmbers in a "translation" file as follows: 
+[Greek Lexicon: 'ανθρωπ-' =4112] 
+["Translation" file: 4112=6087] 
+[English Lexicon: 6087='man'-Noun]. 
+Machine translation is of course much more compleχ than the above example as it also 
+requires a mechanism to simulate the environment, since a word of the source language can 
+be mapped to many words of the target langυage depending on the enνironment. 
+The last given example is the ability of this comρυterized system to analyse new terms 
+such as the words "διαδίκτυο" (internet) or "τηλεμετάδοση" (long-distance transmittion), 
+which are not recognized by other systems, υnless they are explicitly stored. The mor-
+pheme-based lexicon contains the morphemes "δια-", "δικτυ-", "-ο". "τηλε-", "μετα-", "δοσ­
+", "-η", and others. New words are generally made by different combinations of the finite 
+nυmber of the existent morphemes of a language. ln that way, the morpheme-based lex-
+icon does not haνe to explicitly contain the aboνe new terms in order to analyse them, 
+because the tagger is able to discover their constituent morphemes. 
+ACKNOWLEDGEMENTS 
+Thanks go to As.Prof. Α. Ralli for her contribυtion in the linguistic part of this research 
+and to Prof. G. Philokyproυ for his comments and suggestions which improνed the mate-
+rial presented here. 
+147 
+REFERENCES 
+(1] Allen J.,Hunnιcutt M.S. and Klatt D. (1987), "From Text to Speech:The MITalk System", 
+Cambridge Uniνersity Press. 
+[2] Ferro M.V.,Gil J.G.,Aivarino Ρ.Α. (1996), "Finite state morphology and format verlfication", 
+Natural Language Engineering 2(4}:303-304, Cambridge University Press. 
+[3] Knuth D. (1973), 
+''τhe Art of Computer Programming", Vol.3: Sorting and Searching, 
+Reading, Mass: Addison-Wesley. 
+(4] Sproat R.W. (1992), "Morphology and Computation", MIT, USA. 
+[5) Tremblay J.,Sorenson Ρ. (1984), "Απ lntroductlon to Data Structures with Applications", 
+McGraw-HHI. 
+(6] Γελάτος Δ., Ζήβελδης Α. (1992), "Νέος τρόπος αποθήκευσης πληροφοριών σε βάσεις 
+δεδομένων", Ενημερωτικό δελτίο ΕΠΥ, Τεύχος 45, Αθήνα. 
+Ευάγγελος Παπακίτσος 
+Καθηγητής Μ. Ε. 
+Δημ. Ράλλη 28, 11144 ΑΘΗΝΑ 
+Μαρία Γρηyοpιάδσu 
+Επiκοuρη Καθηγήτρια 
+Παvεπιστήμω AθJ?vώv, Τμήμα ΠλJ?pοφορικής, 157 71 ΑΘΗΝΑ. 
+148 

@@ -1,0 +1,254 @@
+SOURCE: http://www.eleto.gr/download/Conferences/3rd%20Conference/3rd_09-Galopin-Paper_V02.pdf
+
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+113 
+CRITÈRES D’ANALYSE DES DICTIONNAIRES TECHNIQUES BILINGUES ET 
+MULTILINGUES COMPRENANT LE GREC ET LE FRANÇAIS 
+Laurence GALOPIN 
+ΠΕΡΙΛΗΨΗ 
+Οι πολλαπλοί γνωστικοί τομείς των δίγλωσσων και/ή πολύγλωσσων τεχνικών λεξικών που 
+περιλαμβάνουν τη γαλλική και την ελληνική γλώσσα εμποδίζουν εξ' αρχής μια αξιολόγηση βασισμένη σε 
+κοινά κριτήρια. Ομως, μια τέτοια αξιολόγηση είναι απαραίτητη ώστε να αναγνωριστούν οι αδυναμίες 
+λεξικών των οποίων η ποιότητα συχνά αμφισβητείται από τους μεταφραστές χρήστες τους. 
+Με αυτό το σκοπό, παρουσιάζεται εδώ μια λίστα με συστηματικά κριτήρια αξιολόγησης που εξετάζουν 
+διάφορες όψεις των λεξικών από μεταφραστική σκοπιά και αφορούν τη μακροδομή και τη μικροδομή 
+τους. Η εξέταση της μακροδομής περιλαμβάνει την ημερομηνία έκδοσης, την έκταση και την ειδίκευση, 
+την παρουσίαση, τον αριθμό γλωσσών και τέλος, τον τρόπο αντιμετόπισης των νεολογισμών και την 
+επιλογή καθαρεύουσας ή δημοτικής γλώσσας. Η εξέταση της μικροδομής περιλαμβάνει τον αριθμό 
+ερμηνιών για κάθε λήμμα, τα παραδείγματα και τις γραμματικές, σημασιολογικές και άλλες πληροφορίες 
+που συνοδεύουν κάθε λήμμα. 
+Αυτά τα κριτήρια εφαρμόστηκαν σε 73 τεχνικά λεξικά και λεξιλόγια ώστε να δοκιμαστεί η 
+αποτελεσματικότητά τους στην αξιολόγηση τέτοιου είδους λεξικών. Τα αποτελέσματα ήταν 
+ενθαρρυντικά και επέδειξαν γενικούς τρόπους βελτίωσης των κριτηρίων. 
+ 
+ 
+ 
+ 
+CRITERIA FOR THE EVALUATION OF BILINGUAL AND MULTILINGUAL 
+TECHNICAL DICTIONARIES CONTAINING FRENCH AND GREEK 
+Laurence GALOPIN 
+SUMMARY 
+The multitude of fields of specialisation of bilingual and/or multilingual technical dictionaries dealing with 
+Greek and French prohibits an evaluation based upon common criteria. Nevertheless, such an 
+evaluation is indispensable in order to identify the shortcomings of dictionaries whose quality is often 
+questioned by the translators using them. 
+To this end, a list of systematic evaluation criteria is suggested here. These criteria examine various 
+aspects of dictionaries from a translator's point of view and concern both macrostructure and 
+microstructure. The analysis of macrostructure includes the publication date, the range and scope, the 
+presentation and intelligibility, the number of languages treated and, finally, the treatment of neologisms 
+and the choice of language. The analysis of microstructure includes the number of equivalents for each 
+entry, the examples and sub-entries, grammatical and semantic marking and other information 
+accompanying each entry. 
+The effectiveness of these criteria was tested on 73 technical dictionaries. The results were 
+encouraging and indicated various general ways to improve the criteria. 
+ 
+ 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+114 
+0 
+INTRODUCTION 
+Les dictionnaires bilingues techniques utilisés par les traducteurs techniques font souvent 
+l'objet de critiques de la part de ces derniers, sans qu'ils puissent pour autant définir ou 
+identifier les problèmes principaux rencontrés dans ces ouvrages. A notre connaissance, il 
+n'existe pas de répertoire analytique des dictionnaires techniques bilingues et multilingues 
+comprenant le français et le grec moderne. Les critères établis et présentés ici visent à 
+révéler certaines caractéristiques de ce genre de dictionnaires, caractéristiques qui ne sont 
+pas toujours perceptibles lors d'une première consultation par l'utilisateur pressé [1]. Ces 
+critères sont applicables à des dictionnaires imprimés (par opposition aux dictionnaires 
+informatisés) spécialisés dans un domaine, mais également à des ouvrages généraux 
+d'orientation technique, et ce pour deux raisons : tout d'abord, les utilisateurs peuvent 
+nécessiter un vocabulaire général d'orientation technique. Ensuite, un certain nombre de 
+dictionnaires publiés en Grèce comportent le mot "technique" dans leur titre. A ce titre, ce 
+sont des dictionnaires comprenant une terminologie technique, même de base. 
+Les critères d'analyse des ouvrage concernent la macrostructure et la microstructure, et ont 
+pour but de déterminer leur qualité, qui au fil des années ne s'est pas vraiment améliorée, 
+comme nous avons pu le vérifier par l'application systématique de ces critères à un corpus 
+de 73 ouvrages [2]. L'évaluation de la terminologie en elle-même est exclue, et ce pour une 
+raison simple : les traducteurs ne peuvent pas juger de la fiabilité des termes donnés (en 
+français comme en grec) dans de nombreux domaines qui leur sont totalement étrangers 
+(c'est la raison principale pour laquelle ils utilisent des dictionnaires). 
+ 
+1 
+MACROSTRUCTURE 
+1.1 Date de publication 
+Il est important de pouvoir situer tout ouvrage dans le contexte de sa publication. Les 
+événements historiques peuvent expliquer la parution de dictionnaires spécialisés dans le 
+domaine de l'armée, par exemple. Par ailleurs, la date de publication doit figurer sur chaque 
+ouvrage, pour que les utilisateurs sachent si la terminologie contenue est désuète, en 
+particulier dans certains domaines où elle évolue rapidement. La législation grecque qui 
+oblige auteurs et éditeurs à mentionner une date n'est pas toujours respectée [3]. Ainsi, 
+aucun des cinq ouvrages de G. N. Fourtis [4] comprenant le français et le grec (dictionnaire 
+de termes économiques et sa version revue et corrigée, lexique de mathématiques, de 
+physique et de chimie), tous publiés à compte d'auteur, ne comporte de date. Dans le 
+corpus que nous avons étudié, 12,4% des dictionnaires ne comportent pas de date de 
+parution. 
+ 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+115 
+ 
+― Degré de spécialisation du dictionnaire 
+Il dépend notamment du nombre de domaines couverts par l'ouvrage [5]. Un dictionnaire 
+technique peut inclure des termes provenant d'un domaine connexe à celui qu'il traite en 
+priorité [6], mais plus un ouvrage comprend de domaines, moins il est spécialisé. De plus le 
+risque d'ambiguïté augmente car un terme peut avoir plusieurs équivalents (polysémie). 
+Pour une désambiguïsation optimale, le marquage systématique du domaine de référence 
+des entrées et des équivalents s'impose. Un dictionnaire doit traiter d'un nombre minimum 
+de domaines, et marquer rigoureusement l'appartenance des équivalents aux (sous-) 
+domaines. Ainsi, la fiabilité d'un dictionnaire comme celui de M. Louloudopoulos, qui prétend 
+inclure les termes d'une douzaine de domaines en moins de 400 pages, est forcément 
+remise en cause [7]. Dans le corpus étudié, 54,8% des dictionnaires comportent la 
+terminologie de plusieurs domaines. 
+― Etendue du lexique 
+L'ouvrage doit comprendre des termes spécialisés. Inclure des termes passés dans la 
+langue courante, tel que "télévision", par exemple, dans un dictionnaire des termes des 
+télécommunications [8], révèle un dépouillement minutieux de textes relatifs à ce domaine, 
+mais va à l'encontre des principes d'économie qui a priori dominent les diverses éditions, en 
+tout cas pour le nombre de langues. Cependant, il s'adresse à un public plus large. La 
+terminologie de 71,3% des dictionnaires du corpus est élargie. 
+― Présentation et lisibilité 
+Le format des dictionnaires techniques doit être pratique et économique. L'accès aux 
+symboles et abréviations utilisés pour le marquage doit être facilité. La présence d'un index 
+dans les dictionnaires bilingues et multilingues aidera l'utilisateur à retrouver facilement les 
+termes de la ou des langue(s) d'arrivée. Le papier ne doit pas briller, ne doit pas se 
+déchirer ; en ce qui concerne la reliure des ouvrages, le dictionnaire doit tenir ouvert sur un 
+bureau sans se fermer. Une consultation efficace et rapide requiert une grande lisibilité qu'il 
+est facile d'obtenir en utilisant des polices de caractères de tailles différentes, en relation 
+avec l'importance du type d'informations données (la hiérarchisation des renseignements 
+facilite la consultation), tout en évitant les caractères microscopiques. Presque la moitié des 
+dictionnaires du corpus rassemblé (49,3%) n'est pas satisfaisante, au niveau de ce critère. 
+― Nombre de langues 
+Un dictionnaire technique s'adressant aux traducteurs devrait en principe ne comporter que 
+deux langues [9]. Cependant les dictionnaires en comprennent une troisième, une quatrième 
+langue ou davantage, les éditeurs espérant probablement privilégier la quantité face à la 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+116 
+qualité. Comme le grec est une langue rare, la publication d'un ouvrage comprenant jusqu'à 
+sept langues est toujours préférable à l'absence de toute parution. Pour les ouvrages traitant 
+trois langues et plus, un critère supplémentaire est appliqué, celui de la séparation des 
+langues. A l'intérieur des entrées, les diverses langues doivent être séparées, de préférence 
+par un retour à la ligne, pour faciliter la lisibilité et permettre de les repérer rapidement en 
+respectant toujours le même ordre, qui sera repris dans les éventuels index. Plus de 56% 
+des dictionnaires du corpus sont au moins trilingues et parmi ceux-ci, seuls 34% opèrent 
+une séparation des langues convenable pour les utilisateurs. 
+― Traitement des néologismes et choix de la langue 
+L'introduction des ouvrages doit donner des renseignements sur la formation des éventuels 
+néologismes contenus dans les dictionnaires [10], ainsi que des indications sur la forme de 
+langue préférée. Le choix de forme de la langue grecque employée par les lexicographes a 
+longtemps été dicté par le régime politique en place. Les ouvrages actuellement publiés sont 
+le plus souvent rédigés en démotique monotonique, mais pour certains domaines, les 
+traducteurs ne disposent que de dictionnaires en langue pure dont la parution remonte à 
+plusieurs décennies. 60% des ouvrages du corpus sont rédigés en démotique (entièrement 
+ou en partie, polytonique ou monotonique). 
+ 
+ 
+2 
+MICROSTRUCTURE 
+Ces critères concernent plus particulièrement le traitement des entrées. 
+― Nombre d'équivalents 
+Le but d'un dictionnaire technique est de donner à chaque entrée une seule équivalence 
+sémantique, afin d'éviter toute ambiguïté, qu'elle se compose d'un terme ou d'une 
+périphrase, voire d'une traduction proposée par le lexicographe dans le cas où le terme de 
+la langue source n'a pas encore d'équivalent dans la langue cible. Dans ces deux derniers 
+cas, le lexicographe devra marquer ces équivalents pour prévenir l'utilisateur qu'ils ne 
+représentent pas la norme. D'autre part, si à une entrée correspondent deux équivalents, le 
+lexicographe doit absolument les désambiguïser par le contexte qui, le plus souvent, fait la 
+différence [11]. Parfois, les deux équivalents proposés pour une entrée sont 
+interchangeables du point de vue du sens, mais non du point de vue de la fréquence et de 
+l'emploi. En grec, nous pourrions citer les termes "°παρ" et "σηκ⌡τι". Les termes 
+"ηλεκτρονικ⌠ς υπολογιστ°ς" et "κομπιο⎥τερ" ont également des emplois différenciés : le 
+second relève presque exclusivement de la langue orale (à l'exception de son emploi 
+éventuel dans un certain type de presse), alors que le premier est utilisé à l'écrit comme à 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+117 
+l'oral, quoique moins souvent, apparemment, que le second. Dans le corpus étudié, 85% 
+des ouvrages donnent plusieurs équivalents pour certaines entrées sans les désambiguïser. 
+ 
+ 
+― Exemples et sous-entrées 
+L'exemple n'est pas indispensable, a priori, dans le dictionnaire technique. Le seul exemple 
+vraiment utile serait la citation d'expressions (les termes dans leur contexte) provenant d'un 
+corpus de textes dont serait tirée la terminologie incluse dans le dictionnaire, intégrés à la fin 
+de l'ouvrage en annexe. Les dictionnaires informatisés pourraient appliquer cette méthode 
+bien plus facilement. Par exemple, le dictionnaire européen Eurodicautom propose de 
+consulter le contexte des équivalents qu'il fournit. 
+L'exemple peut être utile pour la désambiguïsation de termes, en particulier dans une langue 
+comme le grec, où la terminologie officialisée est un concept relativement récent, et où il n'y 
+a pas d'équivalent strict de l'Académie Française. Bien utilisés, les exemples peuvent 
+également éclairer les utilisateurs sur la syntaxe [12]. 
+Enfin, les exemples ne doivent pas être confondus avec les sous-entrées et les composés, 
+comme c'est souvent le cas dans les ouvrages que nous avons consultés. Les sous-entrées 
+doivent être classées par ordre alphabétique pour une utilité optimale, ou figurer comme 
+entrées à part entière quand leur sens dérive complètement de celui de l'entrée d'origine. 
+Les entrées sont accompagnées d'exemples et/ou de sous-entrées dans 63% des ouvrages 
+du corpus étudié. 
+― Marquage 
+Le marquage des termes grecs, dans les dictionnaires publiés en Grèce, est lié à l'histoire 
+de la langue grecque officielle ― langue pure opposée à démotique ― en général la langue 
+pure est celle des dictionnaires publiés jusqu'à 1976, à quelques exceptions près (les 
+ouvrages dont la composition en langue pure est antérieure à cette date). Le marquage des 
+entrées renseigne sur la position des lexicographes.  
+Le marquage grammatical peut renseigner sur la catégorie grammaticale, le genre, la 
+déclinaison ou même la conjugaison des verbes. Dans les ouvrages publiés en Grèce, le 
+marquage grammatical est souvent limité aux langues étrangères alors qu'un marquage des 
+entrées grecques serait utile aux traducteurs non-hellénophones. Ainsi, dans le dictionnaire 
+de termes juridiques de C. Gadis (grec-français et français-grec), les termes français sont 
+marqués grammaticalement dans les deux sens, mais pas les termes grecs [13]. La 
+conclusion est simple : cet ouvrage est destiné à des utilisateurs grecs, malgré son 
+apparente bi-directionnalité. Dans 52% des dictionnaires du corpus, les entrées (au moins 
+dans une langue) sont marquées grammaticalement. 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+118 
+Le marquage grammatical est complété par le marquage sémantique, qui contribue à la 
+désambiguïsation des termes, effectuée le plus souvent par une remise en contexte en 
+citant un hypéronyme. Cependant l'ajout d'un complément à l'entrée, donné entre 
+parenthèses, peut jouer le même rôle. Dans 49% des dictionnaires du corpus, certaines des 
+entrées sont marquées au niveau sémantique. 
+― Autres renseignements 
+Le texte intervient quand le terme n'a pas d'équivalent dans la langue d'arrivée, mais 
+également quand les lexicographes désirent apporter des informations supplémentaires sur 
+les entrées ou leurs équivalents. Ainsi, dans les dictionnaires techniques encyclopédiques, 
+les équivalents dans la/les langue(s) d'arrivée sont suivis d'une définition encyclopédique qui 
+peut aider les utilisateurs s'ils ont suffisamment de temps pour la lire. La concision est de 
+rigueur. Dans le corpus étudié, 67% des ouvrages définissent les entrées ou accompagnent 
+les équivalents de commentaires complémentaires. 
+ 
+3 
+CONCLUSION 
+L'analyse des ouvrages se fonde en grande partie sur les renseignements donnés en 
+introduction ; de ce fait, l'absence d'introduction est en soi un obstacle majeur à l'étude 
+métalexicographique, de même qu'une introduction minimale. Les renseignements 
+essentiels suivants devraient systématiquement être inclus dans l'introduction des 
+dictionnaires techniques : 
+1. Fonction du dictionnaire, par exemple compréhension, production ou traduction de textes. 
+2. Domaine(s) traité(s). 
+3. Groupe d'utilisateurs visés. 
+4. Sources et critères de sélection des entrées. 
+5. Degré de couverture du domaine traité. 
+6. Renseignements sur le(s) lexicographe(s) et les autres collaborateurs [14].  
+L'utilité des critères décrits dans cet article a été prouvée en les appliquant à un corpus 
+expansible comprenant soixante-treize ouvrages, dont ils ont permis d'effectuer une 
+évaluation commune comparative. Ils peuvent être affinés et améliorés, par exemple avec 
+une hiérarchisation et une évaluation terminologique, mais ont l'avantage de permettre une 
+première évaluation. 
+ 
+ 
+4 
+RÉFÉRENCES 
+[1] K. Opitz, "The Technical Dictionary for the Expert", in Wörterbücher - Dictionaries - 
+Dictionnaires, Encyclopédie Internationale de Lexicographie, Walter de Gruyter, Berlin-New  
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+119 
+ 
+ 
+ΕΛΕΤΟ – 3ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+Αθήνα, 1-3 Νοεμβρίου 2001 
+120 
+ 
+  

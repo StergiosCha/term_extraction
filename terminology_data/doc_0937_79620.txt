@@ -1,0 +1,159 @@
+SOURCE: http://www.eleto.gr/download/Conferences/ELETO-TE21-EDO_Conference/Gnosmata_Orologias_2018-11-08_EN_V01.pdf
+
+KV/2018-11-08 
+62 basic knowledge items of terminology 
+Kostas Valeontis 
+1. 
+object: anything perceivable (by the human senses) or conceivable (by the human mind) at a given moment 
+2. 
+characteristic: mental abstraction of a property of a single object or a common property of a group of 
+objects 
+3. 
+concept: unit of knowledge created by a unique combination of characteristics 
+4. 
+extension: totality of objects corresponding to a concept 
+5. 
+intension: set of characteristics that constitute a concept 
+6. 
+type of characteristic: category of characteristic that serves as the criterion of subdivision of concepts 
+7. 
+essential characteristic: characteristic indispensable to understanding a concept 
+8. 
+common/shared characteristic: characteristic indicating similarity of concepts and used to determine if an 
+object belongs to the extension of a concept 
+9. 
+delimiting characteristic: essential characteristic used for distinguishing a concept from related concepts 
+10. 
+By adding delimiting characteristics in the intension  decreasing the number of objects in the extension. 
+11. 
+Based on the common characteristics two objects are included in the extension of the same concept, while 
+based on the delimiting characteristics they are included in the extensions of different concepts 
+12. 
+individual concept: concept whose extension contains one object. Individual concepts are verbally 
+represented by names or appellations 
+13. 
+general concept: concept whose extension contains more than one object General concepts are verbally 
+represented by terms 
+14. 
+hierarchical relation: concept relation between two concepts A – B due to which A belongs to a higher level  
+and B belongs to a lower level. A: superordinate concept, B: subordinate concept. Two subordinate 
+concepts B1, B2 under the same superordinate concept A, with the same criterion of subdivision are: 
+coordinate concepts. 
+15. 
+Main hierarchical relations between concepts A – B: generic relation (genus–species relation) and 
+partitive relation (whole–part relation).  
+16. 
+In the generic relation: A: genaric concept, genus, B: specific concept, species.  
+intension of B = intension of A + delimiting characteristic(s) 
+17. 
+In the partitive relation: A: comprehensive concept, the whole, B: partitive concept, the part 
+18. 
+associative relation: any concept relation which is not hierarchical relation 
+19. 
+sequential relation: associative relation based on spatial, temporal or other proximity and successiveness 
+20. 
+Sequential relations: spatial relation (relative location in space), temporal relation (events in time), causal 
+relation (cause–effect relation). 
+21. 
+concept field: unstructured set of thematically related concepts 
+22. 
+concept system: set of concepts structured according to the concept relations among them 
+23. 
+Types of concept systems: generic concept system, partitive concept system, associative concept system, 
+mixed concept system 
+24. 
+generic concept system: all concept relations in any vertical series of concepts are generic relations 
+25. 
+partitive concept system: all concept relations in any vertical series of concepts are partitive relations 
+26. 
+associative concept system: all concept relations in it are associative relations 
+27. 
+mixed concept system: all types of concept relations are used in it 
+28. 
+representation of a mental entity: rendition/depiction/presentation of the entity by perceptible (verbal, 
+symbolic, graphical or other) means 
+29. 
+concept diagram: graphical representation of a concept system (generic relation  tree diagram, partitive 
+relation  rake diagram, associative relation  arrow diagram) 
+30. 
+definition and designation: two representations of a concept in communication 
+31. 
+definition: descriptive representation of a concept (descriptive statement: written, oral or other) 
+2 
+32. 
+intensional definition: definition which describes the intension of a concept (giving the superordinate 
+concept and the limiting characteristic(s)) 
+33. 
+extensional definition: definition which enumerates all the subordinate concepts under one criterion of 
+subdivision 
+34. 
+designation: conventional representation (verbal, symbolic or other) of a concept 
+35. 
+verbal designation of a concept: designation of a concept consisting of one or more words 
+36. 
+term: verbal designation of a general concept 
+37. 
+name, appellation: verbal designation of an individual concept 
+38. 
+symbol: a non verbal designation 
+39. 
+simple term / simple name: it contains only one root 
+40. 
+complex term / complex name: it contains more than one root 
+41. 
+blend: term formed by clipping and combining two separate terms 
+42. 
+compound name: complex name or blend designating an individual concept 
+43. 
+compound term: complex term or blend designating a general concept 
+44. 
+abbreviated form: it is formed by omitting parts of the full form of a designation, or it is a short independent 
+form used as a synonym of the full form (dependent abbreviated form, independent abbreviated form) 
+45. 
+initialism: it is pronounced with the names of its letters, letter by letter (e.g. UN, USB) 
+46. 
+acronym: it is pronounced syllabically as a normal word (e.g. laser, UNESCO) 
+47. 
+short form: abbreviated form containing fewer words than the full form of a designation 
+48. 
+synonyms: terms (or names) representing the same concept in a given language 
+49. 
+equivalents: designations which represent the same concept in different languages 
+50. 
+mononymous concept: concept which is represented by only one designation in a given language 
+51. 
+omonymous concepts: unrelated concepts which are represented by the same designation in a given 
+language 
+52. 
+monoseme: designation which represents only one concept in a given language 
+53. 
+polyseme: designation which represents two or more related concepts (concepts with certain common 
+characteristics) in a given language 
+54. 
+principles for term formation (after ISO): transparency, consistency, appropriateness, linguistic economy, 
+derivability and compoundability, linguistic correctness, preference for native language 
+55. 
+term-formation methods (after ISO): creating new forms, using existing forms, translingual borrowing 
+56. 
+term-formation mechanisms for Greek terms: creating new forms (derivation, compounding, abbreviation), 
+using existing forms (conversion, terminogization, transdisciplinary borrowing, semantic transfer), 
+translingual borrowing (direct borrowing, loan translation) 
+57. 
+The Analogue Rule: When forming a term in a language (target language) in order to name a new concept 
+that has been primarily named in another language (source language), the namer’s first choice should be to 
+apply a term-formation mechanism analogous to the term-formation mechanism used for the source 
+language term 
+58. 
+term component: part of a term which is a term by itself or denotes a characteristic 
+59. 
+terminological analysis: analysis of a term into its term components 
+60. 
+immediate components: the two term components of a complex term which result from the first phase of the 
+terminological analysis of the term: determined component, determining component 
+61. 
+determined component: the immediate component which expresses a genus of the concept designated by 
+a complex term 
+62. 
+determining component: the immediate component which expresses a delimiting characteristic added to 
+the intension of the genus (determined component) to denote a species. 
+                                       

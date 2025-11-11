@@ -1,0 +1,490 @@
+SOURCE: http://www.eleto.gr/download/Conferences/11th%20Conference/Presentations/11th_09_ManoliVasilki_Parousiasi.pdf
+
+11ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία»
+«Η συμβολή των μεταδεδομένων στην 
+εκπαίδευση, το πρότυπο DC και η χρήση της 
+ελληνικής γλώσσας»
+Μανώλη Βασιλική 
+Φιλόλογος, Βιβλιοθηκονόμος και Επιστήμονας Πληροφόρησης, 
+ΜΑ στις Επιστήμες Αγωγής
+Αθήνα,  9-11 Νοεμβρίου 2017
+ΣΚΟΠΟΣ ΕΙΣΗΓΗΣΗΣ
+ Παρουσίαση του προτύπου Dublin Core
+ Εφαρμογή του στο χώρο της εκπαίδευσης
+ Αναφορά στα μαθησιακά αντικείμενα
+ Αναφορά στα πρότυπα LOM, SCORM, DCMES
+ Αναφορά στη βαθμιαία ανάγκη αποθήκευσης των
+ψηφιακών πόρων σε αποθετήρια.
+ Ψηφιακά Αποθετήρια (Learning Repositories)
+ Ψηφιακά Αποθετήρια Μαθησιακών Αντικειμένων
+(ΨΑΜΑ)
+2
+TΑ ΜΕΤΑΔΕΔΟΜΕΝΑ (Metadata)
+ Day (2001): δεδομένα για τα δεδομένα, πληροφορία για την 
+πληροφορία.
+ Χρησιμοποιούνται για να περιγράψουν τα περιεχόμενα και τη 
+δομή ενός αντικειμένου 
+ Να παρέχουν πληροφορίες σχετικά με την πρόσβαση
+ Οργάνωση των δεδομένων
+ Τις σχέσεις μεταξύ των δεδομένων 
+ Τις ιδιότητες που τα χαρακτηρίζουν
+ Προέρχονται από τις πληροφοριακές επιστήμες
+ Χρησιμοποιούνται  για την περιγραφή ηλεκτρονικών πηγών, 
+ψηφιακών δεδομένων, έντυπων βιβλίων, περιοδικών και 
+εκθέσεων
+3
+ΚΑΤΗΓΟΡΙΕΣ ΜΕΤΑΔΕΔΟΜΕΝΩΝ
+ Περιγραφικά (descriptive): αποδίδουν 
+πληροφορίες
+ Διοικητικά (administrative): πληροφορίες 
+για διαχείριση ενός πόρου
+ Δομικά (structural): περιγραφή της 
+εσωτερικής δομής και σύστασης των 
+τεκμηρίων
+4
+Dublin Core (DC)
+ 2o διεθνές συνέδριο για το World Wide Web (WWW ή Web)
+το
+1994,
+σχετικά
+με
+την
+ευκολία
+ανάκτησης
+των
+ηλεκτρονικών πηγών του. Ο προβληματισμός αυτός οδήγησε
+το 1995 στην ανάπτυξη του Dublin Core Metadata Element
+Set.
+ Το 1ο συνέδριο του DC καθόρισε τα 13 πρώτα στοιχεία.
+ Στο 3ο συνέδριο του DC, το 1996, ορισμένα στοιχεία
+αναθεωρήθηκαν. Προστέθηκαν άλλα δύο.
+ Τα 15 στοιχεία οριστικοποιήθηκαν στο 5ο συνέδριο στο
+Ελσίνκι το 1997 (Γαρουφάλλου & Μπαλατσούκας, 2004).
+ Η τελική μορφή του περιλαμβάνει 18 στοιχεία
+5
+Στοιχεία Dublin Core - Simple
+ Τίτλος (Title)
+ Δημιουργός (Creator)
+ Θέμα (Subject)
+ Περιγραφή (Description)
+ Εκδότης (Editor)
+ Συντελεστής (Contributor)
+ Ημερομηνία (Date)
+ Τύπος (Type)
+ Μορφότυπο (Format)
+6
+Αναγνωριστικό
+(Identifier)
+Πηγή (Source)
+Γλώσσα (Language)
+Σχέση (Relation)
+Κάλυψη (Coverage)
+Διακαίωματα χρήσης
+(Rights)
+Στοιχεία Dublin Core – Qualified
+Επιπλέον στοιχεία σε σχέση με simple DC:
+ Audience (Κοινό)
+ Προέλευση (provenance)
+ Διαχειριστής των δικαιωμάτων (Rights Holder)
+ Διαθέτει
+και
+μια
+ομάδα
+από
+εξειδικεύσεις
+στοιχείων (qualifiers):
+βοηθούν στον καθορισμό
+της σημασιολογίας των στοιχείων για την εύρεση
+και ανάκτηση των πόρων.
+7
+Τα Μεταδεδομένα στην Εκπαίδευση
+ Παρέχουν
+πληροφορία
+για
+τις
+εκπαιδευτικές
+πηγές.
+ Εκπαιδευτική πηγή: Η οντότητα που μπορεί να
+χρησιμοποιηθεί
+και
+να
+αναφερθεί
+σε
+μια
+εκπαιδευτική διαδικασία.
+ Βιβλία, προγράμματα, τεστ, εργαλεία και λογισμικά
+διαφόρων ειδών είναι ορισμένα από τα παραδείγματα
+εκπαιδευτικών πηγών (Anido et al.,2014).
+ Μια
+εγγραφή
+μεταδεδομένων
+εκπαιδευτικών
+αντικειμένων, επεκτείνει τον σκοπό των κανονικών
+μεταδεδομένων (Al-Khalifa & Davis, 2006).
+8
+Ορισμοί Μαθησιακών Αντικειμένων
+(Learning Objects) (1/2)
+ Wiley (2002): «ο οποιοσδήποτε ψηφιακός πόρος που μπορεί
+να επαναχρησιμοποιηθεί για να υποστηρίξει τη μάθηση»
+ Dalziel (2002): το άθροισμα ενός ή περισσότερων ψηφιακών
+πόρων
+που
+ενσωματώνει
+τα
+μεταδεδομένα
+τους
+και
+αναπαριστά μια εκπαιδευτική ενότητα»
+ O Crow (2006), αναφέρει ότι το μαθησιακό αντικείμενο είναι
+μια «ψηφιακή συλλογή που συγκεντρώνει και διατηρεί τη
+διανοητική παραγωγή μιας ενιαίας ή μιας πολύ-ακαδημαϊκής
+κοινότητας»,
+9
+Ορισμοί Μαθησιακών Αντικειμένων
+(Learning Objects) (2/2)
+ Lynch (2003) το περιγράφει ως «σύνολο υπηρεσιών, τις
+οποίες ένα πανεπιστήμιο μπορεί να προσφέρει στα μέλη της
+κοινότητάς του για τη διαχείριση και τη διάδοση του
+ψηφιακού υλικού που δημιουργείται από το ίδρυμα και τα
+μέλη του».
+ Ο Merrill (2000) αναφέρει ότι τα μαθησιακά αντικείμενα
+περιλαμβάνουν
+ψηφιακές
+πηγές
+που
+μπορούν
+να
+επαναχρησιμοποιηθούν για να υποστηρίξουν την μάθηση.
+ Οι McGreal και Roberts (2001): «οποιαδήποτε οντότητα,
+ψηφιακή ή μη ψηφιακή, που μπορεί να χρησιμοποιηθεί,
+επαναχρησιμοποιηθεί
+κατά
+τη
+διάρκεια
+της
+ψηφιακής
+μάθησης».
+10
+Γνωρίσματα Μαθησιακών Αντικειμένων
+11
+
+Είναι ψηφιακά
+
+Μπορούν να αποθηκευτούν σε μια βάση δεδομένων ή σε ένα 
+αποθετήριο
+
+Μπορούν να περιγραφούν με σχήματα μεταδεδομένων
+
+Εντοπίζονται με αναζήτηση σε βάση δεδομένων ή σε αποθετήριο
+
+Είναι διαλειτουργικά
+
+Τείνουν να είναι, αλλά δεν είναι απαραίτητα, μικρά κομμάτια –
+οντότητες
+
+Τείνουν να είναι ανεξάρτητα από τα εκπαιδευτικά πλαίσια
+
+Μπορούν να χρησιμοποιηθούν σε διαφορετικά εκπαιδευτικά 
+περιβάλλοντα
+
+Είναι επαναχρησιμοποιήσιμα για διαφορετικούς κάθε φορά σκοπούς
+
+Έχουν έναν σαφή εκπαιδευτικό σκοπό
+(Μπαλατζάρας & Καπιδάκης, 2006· Griffith, 2003)
+Ευρέως χρησιμοποιούμενα
+εκπαιδευτικά μεταδεδομένα
+12
+ΑΚΡΩΝΥΜΙΟ
+ΟΡΓΑΝΙΣΜΟΣ
+ΠΡΩΤΟΒΟΥΛΙΑ
+IEEE—LTSC 
+IEEE
+Learning Technologies 
+Standardization Committee
+DC-ED
+DCMI
+Dublin Core Educational 
+Metadata
+ARIADNE
+EC
+Alliance of Remote Instructional 
+Authoring and Distributed 
+Networks for Europe
+GESTALT
+EC
+Getting Educational Systems 
+Talking Across Leading edge 
+Techonolgies
+PROMETEUS
+EC
+PROmoting Multimedia access to 
+Education and Training in 
+EUropean Society
+EdNA
+Education Network Australia
+Το Learning Object Metadata 
+(LOM) –Σκοπός
+13
+ Διευκολύνουν την έρευνα
+ Την αξιολόγηση
+ Την απόκτηση
+ Την χρήση των μαθησιακών αντικειμένων από τους 
+αναγνώστες και τους εκπαιδευτικούς.
+ Να διευκολύνει την διανομή και την ανταλλαγή των 
+μαθησιακών αντικειμένων 
+ Δημιουργία καταλόγων και αποθεμάτων, για 
+δημοσίευση ψηφιακού εκπαιδευτικού υλικού. 
+LOM - ΔΟΜΗ
+14
+ Εννέα Κατηγορίες -60 μεταδεδομένα
+1.
+General Context
+2.
+Lifecycle
+3.
+Meta-metadata
+4.
+Technical
+5.
+Educational
+6.
+Rights
+7.
+Relation
+8.
+Annotation
+9.
+Classification
+Περιβάλλον LOM
+15
+Sharable Content Object Reference Model
+(SCORM)
+16
+ Συγκεκριμενοποιεί
+το
+πώς
+τα
+μαθησιακά
+αντικείμενα πρέπει να δημιουργούνται για να
+εξασφαλισθεί η διαλειτουργικότητα μεταξύ των
+διαφορετικών πλατφόρμων και εργαλείων.
+ Versions SCORM
+I.
+SCORM 1.1
+II.
+SCORM 1.2
+III. SCORM 2004
+I.
+3rd Edition (October 2005)
+II.
+4th Edition Released (March 31, 2009)
+ΣΚΟΠΟΣ SCORM
+17
+ Nα δημιουργήσει μαθησιακά αντικείμενα που να είναι
+(Gonzalez-Barbone & Anido-Rifon, 2010):
+ Επαναχρησιμοποιούμενα (Reusable) ανεξάρτητα του
+εκπαιδευτικού περιεχομένου
+ Διαλειτουργικά (Interoperable) καθώς θα λειτουργούν
+σε διαφορετικά λογισμικά και λειτουργικά συστήματα
+ Ανθεκτικά (Durable) εφόσον το περιεχόμενο τους δεν
+τροποποιείται ανεξαρτήτως αναβαθμίσεων ή αλλαγών
+του λογισμικού
+ Προσβάσιμα (Accessible), καθώς το υλικό του μπορεί
+να βρεθεί και να εντοπιστεί όταν αυτό χρειαστεί.
+ Διατηρήσιμα (Maintainable)
+ Ευπροσάρμοστα (Adaptable)
+Dublin Core Metadata Element set for 
+Εducation (DCMES)
+18
+ Αύγουστος 1999, η Συμβουλευτική Επιτροπή του
+Dublin
+Core
+(DCMI
+Advisory
+Committee),
+σχεδίασε την Ομάδα Εργασίας για την Εκπαίδευση
+με την αρμοδιότητα να:
+ «συζητήσουν και να αναπτύξουν μια πρόταση για
+τη χρήση του προτύπου Dublin Core, για την
+περιγραφή εκπαιδευτικών πηγών (Dublin Core –
+Educational /DC-ED)»
+(Mason & Sutton, 2001)
+ΕΚΠΑΙΔΕΥΤΙΚΕΣ ΑΝΑΓΚΕΣ ΚΑΙ DC-ED
+19
+ Το Dublin Core για αυτό τον σκοπό σχεδίασε τα 
+εξής πεδία (Duval, 2001):
+ Κοινό (Audience)
+ Πρότυπα (Standards)
+ Ποιότητα (Quality)
+ Διαδραστικός Τύπος (InteractivityType)
+ Τυπικός Χρόνος Μάθησης (Typical 
+LearningTime)
+Τα Ψηφιακά Αποθετήρια (Digital Repositories)
+20
+ Θεωρούνται καταλυτικά για την ενοποίηση των
+τεχνολογιών
+πληροφόρησης
+και
+εκπαίδευσης
+(OCLC e-Learning Task Force 2003· McCord
+2003).
+ Τα
+Ψηφιακά
+Αποθετήρια
+Μαθησιακών
+Αντικειμένων
+(ΨΑΜΑ)
+έχουν
+σχεδιαστεί
+αποκλειστικά
+για
+την
+αποθήκευση
+των
+εκπαιδευτικών μαθησιακών αντικειμένων.
+ Προσφέρουν ανοιχτή και ελεύθερη ηλεκτρονική
+μάθηση
+στον
+οποιοδήποτε
+(Μπαλατζάρας
+&
+Καπιδάκης, 2006).
+ΚΙΝΗΤΡΑ  ΑΝΑΠΤΥΞΗΣ ΨΑΜΑ
+21
+1.
+Ο εμπλουτισμός του εκπαιδευτικού και πληροφοριακού
+περιβάλλοντος επικοινωνίας.
+2.
+Η ανάπτυξη νέων μεθόδων εκπαιδευτική δημοσίευσης και
+αξιολόγησης.
+3.
+Η υποστήριξη της διδασκαλίας και ο εμπλουτισμός της
+μάθησης.
+4.
+Η
+αύξηση
+της
+αναγνωσιμότητας
+των
+μαθησιακών
+αντικειμένων
+και
+της
+πρόσβασης
+στους
+ψηφιακούς
+πόρους.
+5.
+Η
+διαχείριση
+των
+διοικητικών
+εγγράφων
+και
+της
+εξαγόμενης από αυτά γνώσης.
+6.
+H υποστήριξη μορφών δια βίου μάθησης (ΔΒΜ)
+7.
+Η ανοιχτή και συνεργατική διαχείριση και διανομή
+εκπαιδευτικού περιεχομένου
+ΕΝΔΕΙΚΤΙΚΗ ΒΙΒΛΙΟΓΡΑΦΙΑ (1/2)
+22
+
+Al-Khalifa, H. S., & Davis, H. C. (2006, August). The evolution of metadata from standards to semantics in E-learning applications. In Proceedings of the seventeenth 
+conference on Hypertext and hypermedia (pp. 69-72). ACM. Ανακτήθηκε Δεκέμβριος 20, 2014 από  http://eprints.soton.ac.uk/263157/1/ht22s‐AlKhalifa.pdf
+
+Anido, L. E., Fernández, M. J., Caeiro, M., Santos, J. M., Rodrı́guez, J. S., & Llamas, M. (2002). Educational metadata and brokerage for learning resources. Computers 
+& Education, 38 (4): 351-374. Ανακτήθηκε Δεκέμβριος 22, 2014 από http://www.sciencedirect.com/science/article/pii/S0360131502000180
+
+Γαρουφάλλου, Ε., & Μπαλατσούκας, Π. (2004). Έρευνα για την εξοικείωση των βιβλιοθηκονόμων των ελληνικών ακαδημαϊκών βιβλιοθηκών με τα metadata. Σε: 
+13ο Πανελλήνιο Συνέδριο Ακαδημαϊκών Βιβλιοθηκών, Κέρκυρα, 2004. Ανακτήθηκε Δεκέμβριος 22, 2014 από  http://lekythos.lib.ucy.ac.cy/handle/10797/10779
+
+Γαρουφάλλου, Ε. (2005). Dublin Core: παρουσίαση του προτύπου και έρευνα χρήσης του από την ελληνική βιβλιοθηκονομική κοινότητα. Σε: 14ο Πανελλήνιο 
+Συνέδριο Ακαδημαϊκών Βιβλιοθηκών, Αθήνα, 2005. Ανακτήθηκε Δεκέμβριος 22, 2014 από  http://lekythos.library.ucy.ac.cy/handle/10797/11110
+
+Caplan, P. (2003). Metadata fundamentals for all librarians. USA: American Library Association.
+
+Day, M. (2001). Metadata in a Nutshell, Information Europe, 6 (2).: Ανακτήθηκε Δεκέμβριος 18, 2014 από http://www.ukoln.ac.uk/metadata/publications/nutshell/
+
+DCMI. (2012). Dublin Core Metadata Element Set, Version 1.1.: Ανακτήθηκε Δεκέμβριος 18, 2014 από http://dublincore.org/documents/dces/
+
+Duval, E. (2001). Standardized Metadata for Education: A Status Report. Ανακτήθηκε Ιανουάριος 09, 2015 από http://eric.ed.gov/?id=ED466155
+
+Gilliland‐Swetland, A. J., Kafai, Y. B., & Landis, W. E. (2000). Application of Dublin Core metadata in the description of digital primary sources in elementary school 
+classrooms. Journal of the American Society for Information Science, 51 (2): 193-201 Ανακτήθηκε Ιανουάριος 9, 2015 από
+http://www.gse.upenn.edu/~kafai/paper/pdfs/ApplicationofDublinCore.pdf
+
+Gonzalez-Barbone, V., & Anido-Rifon, L. (2010). From SCORM to Common Cartridge: A step forward. Computers & Education, 54(1), 88‐102. Ανακτήθηκε Δεκέμβριος 
+20, 2014 από  http://www.sciencedirect.com/science/article/pii/S0360131509001869
+
+Griffith, R. (2003). Learning objects in higher education. Academic Advanced Distributed Learning Co-Lab publication, University of Wisconsin (April 2003),  Ανακτήθηκε 
+Δεκέμβριος 22, 2014 από
+
+Ανακτήθηκε Δεκέμβριος 22, 2014 από  http://www.academiccolab.org/resources/webct_learningobjects.pdf
+
+Haynes, D. (2004). Metadata: for information management and retrieval. London: Facet Publishing.
+
+Hiom, D. (2004). “Metadata”. In: Jacobs, N and Huxley, L. (eds) Online information services in the social sciences. USA: Chandos Publishing. Ανακτήθηκε Δεκέμβριος 22, 
+2014 από  
+https://www.google.gr/books?hl=el&lr=&id=YwGkAgAAQBAJ&oi=fnd&pg=PA177&dq=WHAT+IS+METADATA&ots=hqgkSTuS9H&sig=en7a99uWNAgKwrNZgyrBcUY5
+zfI&redir_esc=y#v=onepage&q=WHAT%20IS%20METADATA&f=false
+
+Hodge, G. M. (2001). Metadata made simpler. NISO.: Ανακτήθηκε Δεκέμβριος 22, 2014 από  
+http://web.missouri.edu/~kochtanekt/Q410%20DL%20S%2702/Metadata_Bklt.pdf
+
+Hutt, A., & Riley, J. (2005, June). Semantics and syntax of Dublin Core usage in Open Archives Initiative data providers of cultural heritage materials. In Proceedings of 
+the 5th ACM/IEEE-CS joint conference on Digital libraries (pp. 262-270). ACM. Ανακτήθηκε Δεκέμβριος 20, 2014 από  http://dl.acm.org/citation.cfm?id=1065447
+ΕΝΔΕΙΚΤΙΚΗ ΒΙΒΛΙΟΓΡΑΦΙΑ (2/2)
+23
+
+Λιναρδής, Α. Ι. (2010) Σχεδιασμός μοντέλου μεταδεδομένων για την τεκμηρίωση της συγκριτικής έρνας. Μυτιλήνη: Πανεπιστήμιο Αιγαίου. Διδακτορική Διατριβή.: 
+Ανακτήθηκε Ιανουάριος 10, 2015 από  http://thesis.ekt.gr/thesisBookReader/id/29717#page/1/mode/2up
+
+Ma, J. (2006). Managing metadata for digital projects. Library Collections, Acquisitions, and Technical Services, 30 (1-2): 3-17. Ανακτήθηκε Δεκέμβριος 22, 2014 από   
+http://www.tandfonline.com/doi/abs/10.1080/14649055.2006.10766103#.VLMsWHsxgo0 Μάνεση‐Κυριάκη, Δ. (2011). Οργάνωση πληροφοριών‐ευρετηρίαση: δομή 
+του μαθήματος και σημειώσεις. Αθήνα.
+
+McGreal, Rory & Toni Roberts (2001), “A Primer on Metadata for Learning Objects: Fostering an interoperable environment”, e‐learning Magazine, October 1, 2001, 
+Ανακτήθηκε Δεκέμβριος17, 2014 από http://www.elearningmag.com/elearning/article/articleDetail.jsp?id=2031
+
+Macromedia.Com (2002), “Creating Learning Objects for Your Organization”, Learning Objects Development Center, Ανακτήθηκε Δεκέμβριος 22, 2014 από
+http://www.macromedia.com/resources/elearning/whitepapers.html
+
+Merrill, M. D. (2001). Components of instruction toward a theoretical tool for instructional design. Instructional Science, 29(4‐5), 291‐310. Ανακτήθηκε Δεκέμβριος 22, 
+2014 από   http://link.springer.com/article/10.1023/A:1011943808888#page‐1
+
+
+Μπαλατζάρας, Μ., & Καπιδάκης, Σ. (2006). Αξιοποίηση Αποθετηρίων Μαθησιακών Αντικειμένων για την Υποστήριξη Διαδικασιών Δια Βίου Μάθησης: ο ρόλος των 
+Βιβλιοθηκών. Στρατηγικός σχεδιασμός και Μάνατζμεντ Βιβλιοθηκών.
+
+Ανακτήθηκε Δεκέμβριος 20, 2014 από   http://lekythos.lib.ucy.ac.cy/bitstream/handle/10797/11261/15psab050a.pdf?sequence=1
+
+Reggie Van Lee, et al. (2002), “Re-Learning e-Learning”. Ανακτήθηκε Δεκέμβριος 22, 2014 από
+http://www.boozallen.com
+
+Sabitha, S., Mehrotra, D., Bansal, A., Seo, K. T., Cho, Y. G., Sung, M. K., & Ganiron Jr, T. U. (2014). Enhanced Learning by Extending Metadata of Learning Objects 
+with Knowledge Objects.
+
+Ανακτήθηκε Δεκέμβριος 22, 2014 από   http://www.sersc.org/journals/IJEL/vol3_no1/1.pdf
+
+Stasinopoulou, T., Bountouri, L., Kakali, C., Lourdi, I., Papatheodorou, C., Doerr, M., & Gergatsoulis, M. (2007). Ontology-based metadata integration in the cultural 
+heritage domain. In Asian Digital Libraries. Looking Back 10 Years and Forging New Frontiers, 4822: 165-175. Ανακτήθηκε Δεκέμβριος 17, 2014 από
+http://link.springer.com/chapter/10.1007/978-3-540-77094-7_25#page-1
+
+Sutton, S. A., & Mason, J. (2001, October). The Dublin core and metadata for educational resources. In International Conference on Dublin Core and Metadata 
+Applications (pp. pp-25)
+
+Ανακτήθηκε Δεκέμβριος 17, 2014 από   http://dcpapers.dublincore.org/index.php/pubs/article/view/645
+
+Tansley, R., Bass, M., Stuve, D., Branschofsky, M., Chudnov, D., McClellan, G., & Smith, M. (2003, May). The DSpace institutional digital repository system: current 
+functionality. In Proceedings of the 3rd ACM/IEEE-CS joint conference on Digital libraries (pp. 87-97). IEEE Computer Society. Ανακτήθηκε Δεκέμβριος 15, 2014 από  
+http://dl.acm.org/citation.cfm?id=827151
+
+Wantz, L. J., & Miller, M. (1998). Educational metadata in use. computer Networks and ISDN Systems, 30(1), 701-703. Ανακτήθηκε Δεκέμβριος 22, 2014 από  
+http://www.sciencedirect.com/science/article/pii/S0169755298001007
+
+Weibel, S., & Hakala, J. (1998). DC-5: The Helsinki Metadata Workshop. A Report on the Workshop and Subsequent Developments. D-lib Magazine. Ανακτήθηκε 
+Δεκέμβριος 22, 2014 από http://eric.ed.gov/?id=EJ580035
+
+

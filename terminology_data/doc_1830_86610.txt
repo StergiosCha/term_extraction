@@ -1,0 +1,255 @@
+SOURCE: http://www.eleto.gr/download/Conferences/12th%20Conference/12thConference-PaperEditingInstructions-EN.pdf
+
+ 
+1
+ΕΛΕΤΟ 
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+HELLENIC SOCIETY FOR TERMINOLOGY 
+ 
+12th Conference “Hellenic Language and Terminology” 
+7–9 November 2019, Athens GREECE 
+Info: Tel. 6974321009, E-mail: valeonti@otenet.gr 
+ 
+ 
+INSTRUCTIONS FOR EDITING AND PRESENTING THE PAPER 
+ 
+A. Editing 
+ 
+1 
+The paper should be no more than 10 pages and no less than 8 pages long; it should be edited 
+in .doc format (compatible with MS WORD97–2003), in one of the two languages (Greek or 
+English) of the Conference and it should be sent by e-mail to valeonti@otenet.gr not later than 
+20 July 2019. 
+ 
+2 
+The font to be used is ARIAL 11 for the paper title, ARIAL 10 for the chapter titles, ARIAL 8 for 
+the abstracts και ARIAL 9 for the remaining text, with a spacing of 0 points before and a spacing 
+of 6 points after each paragraph, while the line spacing will be 1,5. 
+ 
+3 
+The whole text will be typed in normal template. Footnotes can be used, but not endnotes. 
+ 
+4 
+Page setup will be as follows: 
+ 
+Paper size: 
+Α4 
+Orientation: 
+ Portrait 
+ 
+Margins 
+ 
+ 
+ 
+cm 
+top 
+ 
+2 
+bottom 
+ 
+8,5 
+bottom 
+ 
+2 
+right 
+ 
+6 
+gutter 
+ 
+0 
+header 
+ 
+1 
+footer 
+ 
+1 
+ 
+5 
+The first page should contain: 
+ 
+a) the paper title in small letters (bold), centre aligned 
+b) the name(s) of the author(s) in small letters (bold), centre aligned under the paper title, and 
+separated by commas (no title or profession mentioned) 
+c) the word ΠΕΡΙΛΗΨΗ/ABSTRACT in the language of the paper (Greek or English) 
+d) the abstract text in the language of the paper (Greek or English) 
+e) repetition of the above points a), b), c) and d) in the other official language of the 
+Conference.  
+ 
+6 
+In case that the language of the paper and of the first abstract is English, and the author, or one 
+of the authors, speaks Greek, the second abstract shall be in Greek, and approximately 2 
+pages long; also, a short English-Greek glossary should be added at the end as an Annex, 
+containing the basic special terms of the paper. In case of difficulties with the equivalent Greek 
+terms needed, the author is encouraged to contact ELETO for help. 
+(Note that neither the abstracts nor the glossary count in the 8-10 pages required for the paper.) 
+E
+Λ  
+Ε  Τ Ο 
+L 
+E
+ 
+2
+ 
+7 
+The paper body should begin four spaces after the end of the second abstract or from a new 
+page (2nd page).  
+ 
+Section or paragraph headings should be in small letters (bold) and in normal template (not 
+formatted as headings). 
+ 
+8 
+Page numbering (temporary) should be placed at the right top of the header on each page. 
+ 
+9 
+Section or paragraph numbering should follow the decimal system (if there exists an introduction 
+it is given the digit 0), with the respective headings being left aligned. 
+ 
+10 
+The transcription of Greek names (conversion of Greek characters to the Latin alphabet) should 
+be conformant to the Greek Standard ELOT 743 (equivalent to the International Standard ISO 
+843). 
+ 
+11 
+Bibliographic references should written according to the instructions in Annex. 
+ 
+12 
+At the end of the paper, the following information about the author(s) should be indicated: name 
+and surname, title or profession, and postal address. 
+ 
+13 
+In case that the text contains special fonts (special characters, symbols etc.) it should be saved 
+(through WORD) with fonts embedded, by selecting: Word Options – Save – Embed fonts in the 
+file. 
+ 
+14. 
+As for the terminology to be used in the text of the paper, it is recommended to apply the 
+International Standards on terminology (ISO 1087-1:2000, ISO 704:2009) and the equivalent 
+national standards (ΕLOT 561-1:2006, ELOT 402:2010). The terminology used in those 
+standards is contained in the glossary “General and special terms in the field of 
+Terminology” (http://www.eleto.gr/download/Bodies/TE21-TerminologyTerms_GR.pdf), in the 
+form of trilingual terminological entries in Greek, English and French. Useful content from 
+ELOT 402:2010 has been publicized in ELETO’s Newsletter “Orogramma”, about the Principles 
+of term formation, uploaded on: http://www.eleto.gr/download/Orogramma/Or102_V05.pdf, as 
+well as concerning the Formation mechanisms of Greek terms, uploaded on: 
+http://www.eleto.gr/download/Orogramma/Or103_V04.pdf. 
+ 
+ 
+B. Presentation 
+14 
+The Conference will be supported by simultaneous translation between the languages English 
+ Greek. 
+15 
+The presentation material of a paper (slides, tables, diagrams etc.) may be written in any of the 
+two languages of the Conference, and in large size characters (PowerPoint No 24 and more) so 
+they be easily read by the conferees. 
+16 
+In case that the language of the text of a paper is English, while the speaker, or one of the 
+speakers, speaks Greek, his/her oral presentation should be in Greek (yet, no translation of the 
+text or of the presentation material is required). 
+ 
+C. Curriculum vitae 
+17 
+The paper should be accompanied by a short CV of each of the authors, in Greek and/or in 
+English, not exceeding 200 words. 
+ 
+ 
+3
+ANNEX 
+Bibliographic references and in-text citations 
+ 
+The following general rules, according to Harvard system (the so-called Name and Date system), are 
+applied  for the preparation of bibliographic references and corresponding in-text citations: 
+ 
+ 
+The references to information resources cited in the text are arranged in a list in the alphabetical 
+order of the creators' surnames, with the year of publication and lower-case letter, if any, 
+immediately following the creator's name in parentheses· the separate listing of greek and other 
+language references is preferred. 
+ 
+The general order of elements in each bibliographic reference is: creator(s) name(s), year of 
+publication, title (of book, article, paper etc), production information (place of publication and 
+publisher), series title, if applicable (e.g. journal or conference title), numeration (volume, issue 
+number), availability, access or location information and access date, if applicable, and any other 
+additional information depending on the type of  information resources cited. 
+ 
+Citations in text are written within parentheses and contain the creator’s surname and the 
+publication year. If two or more resources are cited with the same creator name and the same 
+publication year, then a lower-case letter (a, b, c etc) follows the publication year, exactly as in the 
+corresponding reference. 
+ 
+If creators are more than three, then only the first creator’s name is included in the citation, 
+followed by κ.ά. /  et al. 
+ 
+Examples 
+Bibliographic references: 
+Δημολιάτης, Ι., Γαλάνης, Π., Γελαστοπούλου, Ε., Ευαγγέλου, Β., Καντζανού, Μ., Λάγιου, Α., Νένα, Ε., 
+Ντζάνη, E., Παναγιωτόπουλος, Τ., Ραχιώτης, Γ., Σμυρνάκης, Ε., Χάιδιτς, Ά. (2015). Λεξικό όρων 
+υγιεινής και επιδημιολογίας. Αθήνα: Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών. [πρόσβαση 24 
+Μαρτίου 2019]. Διαθέσιμο από: https://repository.kallipos.gr/handle/11419/2667. 
+Ιορδανίδου,  Α. και Μάντζαρη, Ε. (2005). Τα θηλυκά επαγγελματικά ουσιαστικά: γλωσσική χρήση και 
+τυποποίηση. Στο: 5ο Συνέδριο «Ελληνική Γλώσσα και Ορολογία», ΕΛΕΤΟ, Λευκωσία, 13-15 
+Οκτωβρίου 
+2005. 
+[πρόσβαση 
+24 
+Μαρτίου 
+2019]. 
+Διαθέσιμο 
+από: 
+http://www.eleto.gr/download/Conferences/5th%20Conference/5th_06-44-
+Iordanidou_Mantzari%20Paper2.pdf. 
+Χαραλαμπάκης, Χρ. (επιμ.) (2014).  Χρηστικό λεξικό της νεοελληνικής γλώσσας. Αθήνα: Ακαδημία 
+Αθηνών. 
+Christakis, N.A. and Fowler, J.H. (2009). Connected: the surprising power of our social networks and 
+how they shape our lives. New York: Little, Brown.  
+Kyriacopoulou, T., Mrabti, S. and Yannacopoulou, A. (2002) Le dictionnaire électronique des noms 
+composés en grec modern. Lingvisticæ Investigationes,  25(1), pp. 7-28. 
+ 
+Corresponding in-text citations: 
+(Δημολιάτης κ.ά., 2015) 
+(Ιορδανίδου και Μάντζαρη, 2005) 
+(Χαραλαμπάκης, 2014) 
+(Christakis and Fowler, 2009) 
+(Kyriacopoulou, Mrabti and Yannacopoulou, 2002) 
+ 
+ 
+ 
+4
+Προβλήματα πρόσληψης της ορολογίας και θεωρίας στη μέση 
+εκπαίδευση 
+    
+Καλλιόπη Πολυμέρου 
+ΠΕΡΙΛΗΨΗ 
+Η περίοδος της λυκειακής εκπαίδευσης είναι η κατάλληλη εποχή για να εισαχθούν οι μαθητές σε 
+ζητήματα θεωρίας και ορολογίας. Η εμπειρική διαπίστωση ότι οι μαθητές δυσκολεύονται να 
+χρησιμοποιούν και να αποκωδικοποιούν λόγο που περιέχει ορολογία φαίνεται να συνδέεται με 
+ζητήματα γλωσσικά και συγκεκριμένα με τον τρόπο με τον οποίο εφαρμόζεται η γλωσσική διδασκαλία 
+στην μέση ιδιαίτερα εκπαίδευση. Τα ζητήματα της γλώσσας και της διδασκαλίας της στη χώρα μας  
+αποτέλεσαν συχνά θέματα επιστημονικών αλλά και λαϊκών συζητήσεων και αντεγκλήσεων με μόνιμο 
+ζητούμενο το κατά πόσον αυτή η πλούσια πολιτιστική κληρονομιά θα μας βοηθήσει να κερδίσουμε ένα 
+πλούσιο γλωσσικό όργανο. Παράλληλα, η εισβολή της εικόνας και η ραγδαία ανάπτυξη της 
+εισαγόμενης τεχνολογίας έχουν περιαγάγει την ορολογία σε δυνάστη, με αποτέλεσμα όλο και 
+περισσότεροι να συμβιβάζονται με αμετάφραστους και αγοραίους όρους.  
+Problems of understanding terminology and theory in secondary 
+education 
+    
+Kalliopi Polymerou 
+ABSTRACT 
+The period of upper secondary education is the right time to introduce students to issues of theory and 
+terminology. The empirical conclusion that students find it difficult to use and decode speech that 
+contains terminology, seems to be connected with language matters and specifically with the way 
+language teaching is applied in secondary education. The issues of language and language teaching in 
+our country were often matters of both scientific and popular debates and recriminations in a permanent 
+challenge whether this rich cultural heritage will help us gain a rich language. At the same time the 
+invasion of picture and the rapid growth of imported technology have made terminology seem like an 
+oppressor. The result is more and more students being content with untranslated terms as well as  
+terms imposed by the market.    
+ 
+ 
+ 
+ 
+0. Εισαγωγή 
+Η παρούσα εργασία είναι προϊόν διδακτικής εμπειρίας, ιδιαίτερα από τον χώρο της 
+δημόσιας μέσης εκπαίδευσης, η οποία άλλωστε και αποτελεί κατά την άποψή μου για 
+διάφορους λόγους το ‘κομβικότερο’ σημείο του εκπαιδευτικού μας συστήματος, και ιδιαίτερα 
+An example of 1st page  

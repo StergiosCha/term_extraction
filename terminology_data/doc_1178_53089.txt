@@ -1,0 +1,251 @@
+SOURCE: http://www.eleto.gr/download/Conferences/2nd%20Conference/2nd_233-239_PapasChristian.pdf
+
+ANALYSE COMPAREE DE 4 TRADUCτiONS PRODUITES 
+PAR DES LOGICIELS DE TRADUCτiON AUTOMAτiQUE, 
+SELON LA GRILLE DE BEAUDRANDE ΕΤ DRESSLER 
+Christian Papas 
+COMPUTER TRANSLAτiON AND TEXTUAL COMPETENCE 
+SUMMARV 
+Α survey of 4 computer translations of same eχcerpt from Newsweek, which appeared in Le 
+Monde (13.1.1999). Evaluation of their communicative νalue through the 7 standards developed by 
+Dressler and Beaugrande: 
+• 2 text-centred notions: coherence and cohesion 
+• 5 user-centred notions: intentionality, acceptability, informativity, situationality and intertextua!ity. 
+ln case of any of these standards is unfulfilled, the text is not communicative. Differences 
+between these computer translations and a human translation. Remarks on the relatiνe characteris-
+tics of the two different modes. Conclusion: aπ intelligent computer has yet to be devised. 
+MHXANIKH ΜΕτΑΦΡΑΣΗ ΚΑΙ ΚΕΙΜΕΝΙΚΕΣ ΔΥΝΑΤΟΤΗΤΕΣ 
+Christian Παπάς 
+ΠΕΡΙΛΗΨΗ 
+Στην παρούσα ανακοίνωση προβαίνουμε στην επιισκόπηση τεσσάρων μεταφράσεων από 
+αυτόματο μεταφραστή ενός κειμένου από το περιοδικό Newsweek. 
+Οι μεταφράσεις αυτές, 
+προερχόμενες από τέσσερα διαφορετικά συστήματα αυτόματης μετάφρασης (Aeνerso, Systran. 
+Systran professionnel και Power Translation Pro) δημοσιεύτηκαν στην εφημερίδα Le Monde (13. 1. 
+1999), κρίνονται και αξιολογούνται ως προς την επικοινωνιακή τους αξία με γνώμονα τους εmά 
+κειμεvικούς παράγοντες των Dressler και Beaugtande: συνοχή. Συνεκτικότητα, προθετικότητα. 
+αποδεκτότητα. πληροψορητικότητα, καταστασιακότητα και διακειμενικότητα. Στην περίπτωση που 
+κάποιος από τους παράγοντες αυτους δεν πληρούται το κείμενο θεωρείται μη επικοινωνιακό. 
+Διαψορές μεταξυ ανθρώπινης και μηχανικής μετάφρασης. ιδιαίτερα χαρακτηριστικά των δύο 
+αυτών προσεγγίσεων: συμπέρασμα: ο έξυπνος υπολογιστής είναι ακόμη μακρυά! 
+INTRODUCτiON 
+Mon attention a ete attiree par un article du Supplement lnleractif du journal Le Monde 
+du 13.1.1999 intitule Quatre logiciels de traduction automatique au banc d'esssai. Le jour-
+233 
+naliste du Monde aνait donne a traduire a ces 4 logiciels un meme passage tire d'un 
+numero speciaJ de Newsweek consacre auχ inventions qui ont marqυe ces deux mil-
+lenaires. Le passage a traduire contenait le tιtre de l'article The Power of Big ldeas et le 
+chapeau c'est-a-dire le resume de l'article. 
+En matiere de traduction, aπ trouve aujourd'hui deuχ ecoles: 
+• ceux qui la considerent comme υπ art: les traducteurs et particulierement les tra-
+ducteurs litteraires et 
+• ceux qui la considerent comme un produit: les createurs de logiciels de Traduction 
+Automatique et leurs clients (les organismes internationaux: ONU, UNESCO, UE 
+etc., et les grandes entreprises nationales). 
+Le Monde, qui est nul doute partisan de la premiere tendance, laisse ses lecteurs 
+juger ces 4 ΤΑ et ironise: ου est l'eloquence? 
+Comme l'ecrit Anne-Marie Loffler-Laurιan[i], directeur de recherche au CNRS: Si la tra-
+duction automatique fonctionnait parfaitement, il n'y aurait rien a en dire. 
+Je me suis amuse a passer ces 4 ΤΑ au crible des 7 criteres de textualite que Dressler 
+et Beaugrande ont etabli pour juger de la comprehensibilite d'un message - criteres reu-
+nis dans leur ouνrage lntroduction to Text Linguistic paru en 1981 et plusieurs fois reed-
+ite depuis[ii]. lls ont defini 7 criteres de textualite. Deux criteres essentiels, la coherence 
+et la cohesion qu'eχige la logique interne, et cinq criteres d'interaction communicatiνe 
+entre l'emetteur et le destinataire du texte, criteres d'intentionalite, d'acceptabilite, d'in-
+formatiνite, de situationalite et d'intertextualite. 
+Ces sept criteres ont ete mis a contribution pour analyser a la fois le texte en langue-
+soυrce et les traductions elaborees par ces quatre logiciels de traduction automatique. 
+Nous essaierons de demontrer - ce qui peut sembler intuitivement une evidence - que les 
+defauts de ces traductions νiennent du non respect de certains criteres de textualite et 
+nous tenterons d'elargir le debat en proposant une traduction humaine et en en tιrant les 
+conclusions qυί en decoulent. 
+Les 4 traductions automatlques passees au crible des 7 criteres de textuallte 
+de Beaudrande et Dressler 
+Α. LES CRITERES DE L(!)GΙGUE INTERNE: COHERENCE ΕΤ COHESION 
+Ce sont les criteres les plus importants et les plus utiles au traducteur, au point que 
+Christine Durieux[iii] proposait comme epreuνe de selection a l'entree de Ι'ΕSιτ (Ecole 
+Superieure d'lnterpretes et de Traducteurs de I'Uniνersite de la Sorbonne nouvelle - Paris 
+111) des tests de raisonnement logique et non plus une epreuνe de traduction car celle-ci 
+ne permet de juger qu'une performance et non une aptitude. 
+234 
+Cette aptitude logiqυe garantit la perception de l'homogeneite d'υn texte aυ niveaυ 
+macro et microstructurel. 
+a. La coherence 
+Elle correspond a la macro-organisation d'un texte, a son decoυpage en υnites de 
+contenu, c'est-a-dire en themes et sous-themes. EJie s'appuie essentiellement sur la con-
+tinuite semantίque. La notion de continuite semantique est indispensable au traducteur, 
+en particυlier poυr degager le sens des mots polysemiqυes. 
+• Dans ΤΑ 1, la deυxieme proposition de tradυction (celle entre parentheses) de 
+"gathering" par "cυeillette" n'est pas pertinente. Si "gathering" est polysemiqυe, 
+"cυeillette" ne l'est pas et appartient υnιqυement aυ champ semantiqυe de l'horti-
+cultυre (ex. La cυeιllette des frυits). 
+• Dans toυtes les ΤΑ "the light bυlb" est tradυit par "l'ampoυle". Or "l'ampoule" fait par-
+tie des champs semantiqυes de l'electricite et de la pharmacie. Dans υne phrase ου 
+apparait egalement le mot "pilυle". si on ne renforce pas "ampoυle" par l'adjectif 
+"electriqυe" il plane υne certaine ambigυιte qυi risqυe de desarconner le lecteυr qυi 
+ne connaitrait pas la langue-source ου n'aurait pas le texte anglais sous les yeux. 
+Β. LA COHESION 
+Elle concerne la micro-organisation du teχte en prenant en compte les relations inter-
+phrastiques grace a des connecteυrs aussi appeles liens cohesifs. Mais les connecteurs, 
+qυ'ils soient des marqυeυrs spatiaυx, temporels, argυmentatifs ου explicatifs ne sont pas 
+une contrainte forte. D'autres procedes peuvent assurer l'effet textuel comme l'organisa-
+tion des contenus, la progression thematique. 
+L'extrait a traduire est trop bref pour qu'on y distingue des connecteurs, qui seraient 
+d'ailleurs contraires a l'intention du journaliste qui utilise des phrases deconnectees pour 
+engendrer la curiosite. Mais: 
+-ΤΑ1 rompt l'organisation et la progressΙon dυ texte en tradυisant "might" par "pou-
+vaient". La tradυction de "might" pose soυvent υn probleme. 11 exprime υne probabilite, 
+donc υn fυtur, υn peυ plυs aleatoire qυe "may". Les ΤΑ2 et ΤΑ3 dυ systeme Systran, et la 
+ΤΑ3, qυi tradυisent "might" par "poυrraient" et "peυvent" sont toυtes aυssi pertinentes car 
+la difference de sens est mince entre "pourraient" et "peuvent". Ce qui rend ΤΑ1 inac-
+ceptable est la rupture de la progression des 3 phrases: la premiere est au passe, la sec-
+onde au present, la logique veut que la troisieme dans ce contexte soit au futur et non 
+pas aυ passe. Les tiroirs verbaυx dυ conditionnel et dυ present des ΤΑ2, ΤΑ3 et ΤΑ4 ont 
+tous les deux un sens futur et sont donc pertinents. 
+Ces criteres de logiqυe interne etant evalυes, il reste les criteres de commυnication: 
+intention, acceptabilite, informativite, situation et intertextualite. 
+235 
+C. LES CRITERES DE COMMUNICAτiON 
+lls mettent en jeu la presence implιcite de l'emetteur et du destinataire 
+a. L'intentionalite 
+L"intentionalite laisse entrevoir la volonte du journaliste. Les regles qui definissent la 
+redaction du chapeau d'un article sont assez bien definies. 11 s'agit de ce qu'on appelle 
+un "teaser" en jargon franglais journalistique, c'est·a·dire un court texte qui interpelle le 
+lecteur, qui l'intrigue en lui laissant deviner le corps du sujet et lui donne envie de le lire, 
+de verifier ses hypotheses en l'incitant a pousser plus loin sa lecture. C'est la raison pour 
+laquelle la cohesion n'est pas tres forte et que stylistiquement le texte commence par une 
+interrogation et finit par une interpellation "might surprise you". 
+Les 4 ΤΑ se bornent a traduire des mots et des groupes de mots et les logiciels n'ont 
+pas la capacite de transposer ces elements de fonction phatique (Jackobson) dans le 
+code d'une autre langue. 
+b. L'acceptabilite 
+Toutes les ΤΑ passent le test d'acceptabilite. c'est·a·dire que le lecteur comprend le 
+sens du message - a condition de ne pas etre puriste en matiere de grammaire. 
+La plus agrammaticale des quatre ΤΑ, la plus "baragouineuse" est de toute evidence ΤΑ 1. 
+Le probleme de l'emploi de "de" ου de "des" est particulierement difficile pour des fran· 
+cophones non natifs. Les logiciels de traduction ne sont pas assez avances pour resoudre 
+ce probleme. 
+Tous les logiciels trebuchent sur le titre: "The power of Big ldeas" traduit par le "Pouvoir 
+de grandes idees". Si en anglais le conteχte generique de "Big ldeas" exige un article defi· 
+ni 0, il est necessaire en francais de reintroduire ce marqueur, c'est-a-dire 'Ίes" qui se con-
+tracte avec la preposition "de" pour donner "des". C'est donc "le Pouvoir des Grandes 
+ldees". Tous commettent l'erreur; peut-etre confondent·ils "des", contraction de la prepo· 
+sition "de + les", avec "des" article indelini pluriel qui se transforme en "de" quand il est 
+suivi d'un adjectif + nom: exemple elle a de beaux yeux au lieu de elle a des beaux yeux. 
+Α contrario, toutes les ΤΑ sauf la Τ Α4 donnent pour "an online gathering of scientists" 
+"une reunion des scientifiques". L'article anglais 0 est ici le pluriel de "a", qui le plus sou-
+vent se traduit effectivement par "des". Malheureusement, l'article indefini pluriel "des" 
+s'efface apres la preposition "de" par exemple j'ai achete des liνres mais j'ai fait un achat 
+de livres. Seule la ΤΑ4 est grammaticale: un rassemblement de scientifiques. 
+Une autre subtilite que le logiciel de ΤΑ 1 n'a pas integree est la question de la place 
+de l'adjectif epithete, qui le plus souvent est determinee par le sens (exemple: un homme 
+grand et un grand homme). "grand" dans le sens "d"important" est obligatoirement 
+antepose. C'est donc le Pouvoir des grandes idees et non le Pouvoir d"idees grandes. Par 
+236 
+contre les participes passes sont toujours postposes. "The past 2000 years" rendu dans 
+ΤΑ t par "les 2000 passes ans" est un charabia inacceptable. 
+D'autre part la ΤΑ 1 ne respecte pas la difference entre "an" et "annee" le "couple infer-
+nal" rhematique et thematique selon Henri Adamczenski[iv] (p. 223) "an" est rhematique 
+c'est-a-dire non-presupposant mais "annee" est presupposante. "Ces 2000 dernieres 
+annees" est forcement presupposante. 
+Concernant "nominates", toutes les ΤΑ le rendent par "nommer", ce qui pose le prob-
+leme des "faux amis" que les logiciels ne savent pas discerner. Si "to nominate" peut etre 
+suivi d'une personne ου d'une chose. en francais "nommer" ne peut etre suivi que d'une 
+personne, d'ou le neologisme franglais les "nomines" pour parler d'une personne ου 
+d'une ?uvre selectionnee pour une recompense. 
+11 reste a signaler une erreur dΌrthographe de "pilule" dans ΤΑ2 et ΤΑ3 ecrιte avec 2 
+I "pillule" et une graphιe tres anglo-saxonne des chiffres, dans ΤΑ 1 et Τ Α4 ou les unites de 
+mille sont marquees par une virgule (2.000) au lieu d'un espacement. 
+c. l'inlormativite 
+C'est ce qui est la raison d'etre d'un texte. On lit rarement un teχte pour y trouver tout 
+ce que l'on sait deja, c'est-a-dire que tout texte doit contenir du nouveau 
+- faute de quoi il serait depourvu d'interet et du connu 
+- faute de quoi le lecteur ne pourrait comprendre le nouveau. 
+Dans ce petit texte, le terme qui pose probleme est le mot ''on line" dans "an online gath-
+ering of scientists" que toutes les ΤΑ rendent par "une reunion en ligne de scientifiques". 
+Le mot ''on line" etant d'une frequence plus grande aux Etats Unis que le mot "en ligne" 
+en France, qui manifeste un certain retard dans le domaine de l'lnternet. Citons Le Monde 
+qui n'offre a ses lecteurs un supplement bιmensuel bien documente que depuis le debut 
+de l'annee 1999. 11 serait plus judicieux de rendre l'hyponyme ''on line" par l'hyperonyme 
+"sur lnternet" pour une meilleure comprehensibilite (voir ma proposition de traduction). 
+d. La situationalite 
+C'est l'adequation du style du texte au sujet traite. lci le texte est en quelque sorte une 
+devinette, un probleme qui sera resolu en lisant le corps de l'article qui suit. Ce critere 
+n'offre pas de difficultes aux quatre logiciels qui se limitent a traduire litteralement des 
+mots ου des groupes de mots. 
+11 reste a savoir si un traducteur humain, francais natif, poserait la situtation de la 
+meme facon car le traducteur sait etre un mediateur entre deux cultures. 
+e. L"intertextualite 
+La prιse de conscience de lϊntertextualite d'un texte permet de decrypter les allusions et 
+de revenir sur les connaissances presupposees necessaires a la comprehension d'un texte. 
+237 
+Dans notre cas, il faut savoir que "Big ldeas" est une metonymie pour les "Grandes 
+lnventions". 11 est evident que les quatre logiciels ne peuvent prendre en consideration 
+cette figure de rhetorique car rien n'est plus sub1ectif et difficile a transposer dans une 
+autre langue que les figures de style. 
+11 faut d'autre part savoir que l'ampoule electrique remonte a 1911 et que la pilule anti-
+conceptionnelle date de 1955, ce qui entraine obligatoirement en anglais le preterite "was" 
+que les quatre ΤΑ rendent incorrectement par un imparfait. Or l'emploi de IΊmparfait est un 
+tiroir verbal difficile a saisir pour υπ etranger et son emploi ici n'est pas pertinent. 
+Nous venons de voir que tous les criteres de textualite de Beaudrande et Dressler 
+n'avaient pas ete respectes: le critere d'acceptabilite a ete le plus maltraite, surtout par la 
+ΤΑ 1. 11 etait presque certain que nous arriverions a cette conclusion, etant donne que la 
+ΤΑ est aujourd'hui encore une "technique balbutiante" comme l'ecrit Le Monde mais qui 
+progresse tres vite grace a l'incitation que represente la Toile. 11 est etonnant de constater 
+que le logiciel le moins cher, numero 4, de Globalink qui ne vaut que 1450 francs est le 
+meilleur et passe devant le Systran mondialement utilise. Mais le texte a traduire est trop 
+court pour pouvoir en tirer une conclusion probante. 
+"Mais ou est Ι'eloquence ?", demande Le Monde. 11 est evident qu'une traduction faite 
+par une machine meme si tous Ιes criteres de textualite sont respectes, exige une revision 
+humaine surtout si l'on veut produire un texte publiable. Car comme dit Valery Larbaud, 
+la traduction est une transfusion de sens et son encodage dans la langue source n'est 
+pas forcement le meme que celui de la langue cible. On ne peut demander aux logiciels 
+de Τ.Α. d'avoir une competence textuelle. 
+Propositlon de traduction humalne 
+La stylistique du francais impose des regles de clarte et de concision. 11 a donc fallu 
+proceder a des modifications des ΤΑ, notamment a propos de recurrences du meme mot 
+ou des mots d'une meme famille (importance, important). 
+• La portee des grandes inventίons. 
+J'ai choisi "portee" parce quΊI a un sens metaphorique qui compense la perte de la 
+metonymie de "Big ldeas". 
+• L 'ampoule electrique a-t-e//e eu plus de retentissement que /a pilu/e anticonceptionnelle? 
+J'ai procede au renforcement de "pilule" par l'adjectif "anticonceptionnelle" pour etablir 
+un parallele avec "ampoule electrique" necessaire a la coherence. 
+D'autre part, Ιe passe me semble plus adequat que l'impartait qui sous-entend un pre-
+suppose. 
+238 
+• Des scientifiques reunis sur lnternet desίgnent /es inventions les plus importantes de 
+ces deux millenaires. 
+J'ai procede 
+• a un changement de categorisation de "une reunion en ligne de scientifiques", plu-
+tot gauche, pour "des scientifiques reunis sur lnternet" (hyperonyme de "en ligne"). 
+• a une compression des "2000 dernieres annees'' en υπ hyperonyme: "de ces deuχ 
+millenaires". 
+Certaines reponses peuvent surprendre 
+J'ai supprime le deictique anaphorique "leurs", ce qui entraine le remplacement de 
+"choix" par "reponses" et qui allege la phrase. 
+J'ai egalement supprime le pro-forme "vous" qui n·est pas necessaire a la transmission 
+du message. 
+CONCLUSION 
+Le langage et la traduction dependant autant de la rhetorique que de la linguistique, 
+il etait eνident que les 4 ΤΑ manqueraient "d'eloquence". Les logiciels de Τ.Α. les plus 
+sophistiques se limίtent aux problemes de linguistique qu'ils n'arrivent d'aHieurs pas a 
+resoudre completement. Le Monde a tort dϊroniser. Les traductions humaines et les tra-
+ductions automatiques s'adressent a des destinataires differents. Les ΤΑ., qui sont des 
+traductions brutes, permettent un dechiffrage rapide et peu onereux d'un texte essen-
+tiellement technique ου administratif. On ne peut leur demander ce qu'elles ne peuvent 
+pas donner. Comme l'ecrit Anne-Marie Loffler Laurian : Si la traduction automatique fonc-
+tionnait parfaitement, l'homme aurait enfin reussi a fabriquer une machine qui travaille a 
+sa place et il pourrait aller se reposer. Elle rejoint la conclusion du journaliste du Monde: 
+On ne verra pas de vraie traduction automatique avant l'avenement complet de l'intelli-
+gence artificielle. Ce qui n'est pas pour demain. 
+Christian Papas 
+Enseignant a I'Universite /onienne 
+Departement de Langues Etrangeres, de Traductιon et dΊnterpretation 
+10, rue Rarrourou, Corfou 
+· LOFFLER-LAURIAN Α-Μ .. La Traduction automatιque, Presses Universίtaires du Septentrion. 1996. 
+'DRESSLER-BEAUGRANDE, lntroduction to Text Lιnguistιcs, Longman. 1996. 
+"DURIEUX C-. Apprendre a traduιre, Prereqιιis et Tests. La Maison du Dictionnaire, 1995. 
+·• ADAMCZENSKI Η 
+__ Le Francais dechiffre, Cle du langage et des /angues. Armand Colin, 1991. 
+239 

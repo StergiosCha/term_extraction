@@ -1,0 +1,339 @@
+[
+  {
+    "source_term": "acquisition",
+    "target_term": "κατάκτηση",
+    "context": "Language acquisition",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "acquire",
+    "target_term": "κατακτώ",
+    "context": "To acquire language",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "coda",
+    "target_term": "έξοδος συλλαβής",
+    "context": "Syllable coda",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "medial coda",
+    "target_term": "εσωτερική έξοδος",
+    "context": "Coda in the middle of a word",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "final coda",
+    "target_term": "τελική έξοδος",
+    "context": "Coda at the end of a word",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "onset",
+    "target_term": "έμβαση",
+    "context": "Syllable onset",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "complex onset",
+    "target_term": "σύνθετη έμβαση",
+    "context": "Onset with multiple consonants",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "complex coda",
+    "target_term": "σύνθετη έξοδος",
+    "context": "Coda with multiple consonants",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "nasal",
+    "target_term": "έρρινο",
+    "context": "Nasal consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "lateral",
+    "target_term": "πλευρικό",
+    "context": "Lateral consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "rhotic",
+    "target_term": "ρωτικό",
+    "context": "R-sound consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "liquid",
+    "target_term": "υγρό",
+    "context": "Liquid consonant (l, r)",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "sonorant",
+    "target_term": "αντηχητικό",
+    "context": "Sonorant consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "sonority",
+    "target_term": "ηχητικότητα",
+    "context": "Degree of sonority",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "coda condition",
+    "target_term": "συνθήκη της εξόδου",
+    "context": "Phonological constraint on codas",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "deletion",
+    "target_term": "απαλοιφή",
+    "context": "Phonological deletion process",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "epenthesis",
+    "target_term": "επένθεση",
+    "context": "Insertion of a sound",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "coalescence",
+    "target_term": "συγχώνευση",
+    "context": "Merging of sounds",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "distinctive feature",
+    "target_term": "διακριτικό χαρακτηριστικό",
+    "context": "Phonological distinctive feature",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "variation",
+    "target_term": "ποικιλότητα",
+    "context": "Linguistic variation",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "simplification",
+    "target_term": "απλοποίηση",
+    "context": "Phonological simplification",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "marked",
+    "target_term": "μαρκαρισμένο",
+    "context": "Marked phonological structure",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "unmarked",
+    "target_term": "αμαρκάριστο",
+    "context": "Unmarked phonological structure",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "input frequency",
+    "target_term": "συχνότητα εμφάνισης του εισαγόμενου τύπου",
+    "context": "Frequency of input forms",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "child Greek",
+    "target_term": "παιδικός λόγος στην ελληνική",
+    "context": "Child language in Greek",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "codaless",
+    "target_term": "χωρίς έξοδο συλλαβής",
+    "context": "Syllable without a coda",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "phase",
+    "target_term": "φάση",
+    "context": "Developmental phase",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "stage",
+    "target_term": "στάδιο",
+    "context": "Developmental stage",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "realization",
+    "target_term": "πραγμάτωση",
+    "context": "Phonetic realization",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "target word",
+    "target_term": "λέξη-στόχος",
+    "context": "Target word in acquisition",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "order of acquisition",
+    "target_term": "σειρά της κατάκτησης",
+    "context": "Sequence of language acquisition",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "crosslinguistic",
+    "target_term": "διαγλωσσικό",
+    "context": "Across languages",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "form",
+    "target_term": "τύπος",
+    "context": "Linguistic form",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "phonetic lengthening",
+    "target_term": "φωνητική αντέκταση",
+    "context": "Lengthening of a sound",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "vocalic",
+    "target_term": "φωνηεντικός",
+    "context": "Related to vowels",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "nucleus",
+    "target_term": "πυρήνας",
+    "context": "Syllable nucleus",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "rime",
+    "target_term": "ρίμα",
+    "context": "Syllable rime (nucleus + coda)",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "tautosyllabic",
+    "target_term": "ταυτοσυλλαβικό",
+    "context": "Within the same syllable",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "heterosyllabic",
+    "target_term": "ετεροσυλλαβικό",
+    "context": "Across different syllables",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "pattern",
+    "target_term": "μοτίβο",
+    "context": "Linguistic pattern",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "segment",
+    "target_term": "τεμάχιο",
+    "context": "Phonological segment",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "intra-child",
+    "target_term": "ενδογλωσσικό",
+    "context": "Within child language",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "strategy",
+    "target_term": "στρατηγική",
+    "context": "Linguistic strategy",
+    "domain": "linguistics"
+  },
+  {
+    "source_term": "metathesis",
+    "target_term": "μετάθεση",
+    "context": "Reordering of sounds",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "homorganic",
+    "target_term": "ομοργανικό",
+    "context": "Sharing the same place of articulation",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "stop",
+    "target_term": "κλειστό",
+    "context": "Stop consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "obstruent",
+    "target_term": "αποφρακτικό",
+    "context": "Obstruent consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "affricate",
+    "target_term": "προστριβόμενο",
+    "context": "Affricate consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "fricative",
+    "target_term": "τριβόμενο",
+    "context": "Fricative consonant",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "labial",
+    "target_term": "χειλικό",
+    "context": "Labial place of articulation",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "dorsal",
+    "target_term": "ραχιαίο",
+    "context": "Dorsal place of articulation",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "coronal",
+    "target_term": "κορωνικό",
+    "context": "Coronal place of articulation",
+    "domain": "phonetics"
+  },
+  {
+    "source_term": "faithfully",
+    "target_term": "πιστά",
+    "context": "Faithful phonological representation",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "sonority sequencing principle",
+    "target_term": "αρχή της ακολουθίας της ηχητικότητας",
+    "context": "Principle governing sonority in syllables",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "syllable contact",
+    "target_term": "συλλαβική επαφή",
+    "context": "Contact between syllables",
+    "domain": "phonology"
+  },
+  {
+    "source_term": "obligatory contour principle",
+    "target_term": "αρχή του υποχρεωτικού περίγυρου",
+    "context": "OCP in phonology",
+    "domain": "phonology"
+  }
+]
+

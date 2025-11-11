@@ -1,0 +1,3193 @@
+SOURCE: http://www.eleto.gr/download/Bodies/Geoterms_Glossary.pdf
+
+ 
+ 
+ΕΓΕ / GSG 
+Ελληνική Γεωλογική Εταιρεία 
+Geological Society of Greece 
+ΕΛΕΤΟ / ELETO 
+Ελληνική Εταιρεία Ορολογίας 
+Hellenic Society for Terminology 
+ 
+ 
+ 
+Αγγλοελληνικό γλωσσάριο γεωλογικών όρων 
+English – Greek glossary of geological terms 
+(Έκδοση/Edition 18 / 23-06-2025 – Λήμματα/Entries: 1440) 
+ΣΗΜΕΙΩΣΗ –  Οι όροι που έχουν εκτυπωθεί με μπλε χρώμα έχουν προστεθεί στην παρούσα έκδοση ή 
+έχουν υποστεί μεταβολή σε σχέση με την προηγούμενη. 
+NOTE –  Terms in blue type have been added in this edition or are changed compared with the 
+previous one. 
+ 
+English Term / Αγγλικός Όρος 
+Ελληνικός Όρος / Greek Term 
+Aalenian 
+Ααλένιο 
+absorption 
+απορρόφηση 
+abyssal 
+αβυσσικός, αβυσσαίος, αβυσσαλέος 
+abyssal fan 
+αβυσσικό ριπίδιο 
+abyssal plain 
+αβυσσική πεδιάδα, αβυσσαλέα πεδιάδα 
+accessibility 
+προσβασιμότητα 
+accessible natural greenspace 
+προσβάσιμος φυσικός βιοχώρος 
+accessory aperture 
+συμπληρωματικό στοματικό άνοιγμα 
+accessory mineral 
+επουσιώδες ορυκτό, δευτερεύον ορυκτό 
+accretionary prism, accretion prism, 
+accretionary complex, accretion complex 
+πρίσμα προσαύξησης, σύμπλεγμα 
+προσαύξησης 
+accretionary wedge, accretion wedge 
+σφήνα προσαύξησης 
+acetabulum 
+κοτύλη 
+achiral 
+αχειρόμορφος {χημ.}, αχειρότροπος, μη 
+χειρότροπος {ά.π.} 
+achirality 
+αχειρομορφία {χημ.}, αχειροτροπία {ά.π.} 
+acidic rock, felsic rock 
+όξινο πέτρωμα 
+acidocline {n.} 
+οξεοκλινές, οξεόκλινο (ουσ., το) 
+acidophile {adj., ecol.} 
+οξύφιλος, οξεόφιλος {επίθ.} 
+actinolite 
+ακτινόλιθος (o) 
+active margin 
+ενεργητικό περιθώριο 
+adaptive radiation {pal.bio} 
+προσαρμοστική ακτίνωση 
+adsorption 
+προσρόφηση 
+advection 
+επόχηση {αδόκ. μεταφορά, μεταγωγή, συναγωγή, συμμεταφορά} 
+Aegean stage <being abandoned> 
+Αιγαίιο, Αιγαιακό 
+aeolian / eolian, aeolic / eolic 
+αιολικός 
+ 
+2 
+ 
+aeolianite / eolianite 
+αιολιανίτης 
+aerial geophysical survey 
+εναέρια γεωφυσική διασκόπηση 
+age 
+ηλικία 
+Agenian 
+Αγένιο {όχι Αγγένιο} 
+agglutinate, agglutinated 
+συμφυρματοπαγής 
+aggradation 
+πρόσχωση 
+akrophorous {adj., dasycl.} 
+ακροφόρος {επίθ., δασύκλ.} 
+Alaunian 
+Αλαύνιο 
+Albian 
+Άλβιο 
+alga {pl. algae} 
+φύκος {το -, τα φύκη} 
+allochem 
+αλλοχημικό 
+allochthonous 
+αλλόχθονος 
+allotriomorphic {cryst.} 
+αλλοτριόμορφος {κρυστ.} 
+alluvial 
+αλλουβιακός 
+alluvial fan 
+αλλουβιακό ριπίδιο 
+alluvial plain 
+αλλουβιακή πεδιάδα 
+alluvium, alluvial deposit 
+πρόσχωση 
+Alpide belt,  Alpine-Himalayan orogenic belt 
+Αλπιδική ζώνη, Αλπική-Ιμαλάιος ορογενετική 
+ζώνη 
+Alpides 
+Αλπίδες 
+alteration 
+εξαλλοίωση, χημική εξαλλοίωση 
+alternation 
+εναλλαγή 
+alveolar 
+Κυψελωτός 
+alveolate 
+Κυψελοειδής 
+alveolus 
+Κυψέλη 
+ambilateral {adj.} 
+αμφίπλευρος {επίθ., ο αφορών και τις 2 πλευρές} 
+amphibole 
+αμφίβολος (o) 
+amphibolite 
+Αμφιβολίτης 
+amphibolite sole 
+αμφιβολιτικό πέλμα 
+amphichiral 
+αμφιχειρόμορφος {χημ.}, αμφιχειρότροπος {ά.π.} 
+amphicline {adj., geol., ecol.} 
+αμφικλινής {επίθ., γεωλ., οικολ.} 
+amphicline {n., geol.} 
+αμφίκλινο {ουσ., γεωλ.} 
+amphiclinic {adj., cryst.} 
+αμφικλινές {επίθ., κρυστ.} 
+anagenesis {biol.} 
+αναγένεση {βιολ.} 
+andesite 
+ανδεσίτης 
+angular  unconformity 
+γωνιώδης ασυμφωνία 
+Anisian 
+Ανίσιο 
+anomalous contact 
+ανώμαλη επαφή 
+Anthropocene {unofficial age unit } 
+Ανθρωπόκαινο (το),  Ανθρωπόκαινος εποχή 
+ 
+3 
+ 
+Anthropogene {time period, informally the Holocene} 
+Ανθρωπογενές {το, ουσ.} 
+anthropogenic 
+ανθρωπογενής {επίθ.} 
+anticline 
+Αντίκλινο 
+aperture 
+στοματικό άνοιγμα 
+appear 
+Εμφανίζομαι 
+appearance {οf a taxon} 
+εμφάνιση {είδους, γένους...} 
+Aptian 
+Άπτιο 
+aquiclude {adj.} 
+υδρόκλειστος {Σημ.: ένυδρος, αλλά στεγανός} 
+aquifer {n.} 
+υδροφορέας {ουσ. αρσ.} 
+aquifuge {adj.} 
+υδροφυγής -ές {Σημ.: άνυδρος και στεγανός} 
+Aquitanian 
+Ακουιτάνιο 
+aquitard {adj.} 
+βράδυδρος {Σημ.: ένυδρος, αλλά περατός με δυσκολία. Αδόκ, 
+ημιπερατός} 
+Aragonian 
+Αραγώνιο {όχι Αραγκώνιο} 
+archaeohydrological 
+αρχαιοϋδρολογικός 
+archaeohydrology 
+αρχαιοϋδρολογία 
+archaeological period 
+αρχαιολογική περίοδος 
+Archaeozoic 
+Αρχαιοζωικό 
+arenite {granulom.} 
+αρενίτης {κοκκομ.} 
+articulated 
+αρθρωτό 
+Artinskian 
+Αρτίνσκιο 
+aspondylous 
+ασπόνδυλος 
+Asselian 
+Ασσέλιο 
+association, biocoenosis, biocenosis 
+βιοκοινωνία 
+Astaracian 
+Ασταράσιο 
+atmospheric carbon dioxide drawdown, 
+atmospheric CO2 drawdown 
+πτώση (της στάθμης) του ατμοσφαιρικού 
+διοξειδίου του άνθρακα, πτώση (της στάθμης) 
+του ατμοσφαιρικού CO2 
+atmospheric carbon dioxide elevation, 
+atmospheric CO2 elevation 
+ανύψωση (της στάθμης) του ατμοσφαιρικού 
+διοξειδίου του άνθρακα, ανύψωση (της στάθμης) 
+του ατμοσφαιρικού CO2 
+atoll 
+ατόλλη, ατόλη 
+Aturian 
+Ατούριο 
+aureole, halo 
+άλως 
+authigenic, authigenetic 
+αυθιγενής, αυθιγενετικός 
+authigenous 
+αυθιγενής 
+Autunian 
+Ωτούνιο 
+Auversian 
+Ωβέρσιο 
+axial cavity {Dasycl.} 
+αξονική κοιλότητα {δασύκλ.} 
+axial siphon {Dasycl.} 
+αξονικό σιφώνιο {δασύκλ.}  
+Badenian 
+Βαδένιο 
+ 
+4 
+ 
+Bajocian 
+Βαγιόσιο, Βαγιόκιο 
+balanced cross section 
+ισορροπημένη γεωλογική τομή 
+banded structure 
+ταινιωτή δομή, ζωνώδης δομή, ζώνωση 
+bank 
+πάγκος {1,παχύ στρώμα, 2. επίπεδο έξαρμα του βυθού} 
+bank reef 
+βιογενής πάγκος 
+bar 
+ανάχωμα 
+Barremian 
+Βαρρέμιο 
+barrier 
+φραγμός 
+barrier island complex 
+σύμπλεγμα νησιωτικών φραγμών 
+Bartonian 
+Μπαρτόνιο 
+basal conglomerate 
+βασικό κροκαλοπαγές 
+basement 
+υπόβαθρο 
+Bashkirian 
+Βασκίριο 
+basin 
+λεκάνη 
+basionym {bot.} 
+βασεώνυμο {το, βοτ.} 
+basocline {n., ecol.} 
+βασεοκλινές, βασεόκλινο {ουσ., το} 
+basophile {adj., ecol.} 
+βασεόφιλος {επίθ.} 
+Bathonian 
+Βαθόνιο 
+bauxite 
+βωξίτης 
+be brackish 
+υφαλμυρίζω1 {αμτβ., είμαι υφάλμυρος} 
+beachrock, beach-rock, beach rock 
+ακτόλιθος 
+being brackish 
+υφαλμύριση1 
+benthic, "benthonic" 
+βενθικός, -ή, -ό, αδόκ. βενθονικός 
+benthos {n.} 
+βένθος (-ους) (το) {ουσ. χωρίς πλ.} 
+Berriasian 
+Βερριάσιο 
+Biharian 
+Μπιχάριο 
+bilateral {adj.} 
+διπλευρικός {επίθ., ο έχων 2 πλευρές} 
+bilateral symmetry 
+διπλευρική συμμετρία 
+bilateral(s) {n., zool.} 
+δίπλευρο-α (το-τα) {ουσ., ζωολ.} 
+bioaccumulation 
+βιοσυσσώρευση 
+biochar 
+βιοαπανθράκωμα, βιοεξανθράκωμα 
+bioclast 
+βιοκλάστης 
+bioclastic limestone 
+βιοκλαστικός ασβεστόλιθος 
+bioconstruction 
+βιοκατασκευή 
+bioerosion 
+βιοδιάβρωση 
+biofacies 
+βιοφάση 
+biogenic 
+βιογενής 
+bioherm, -s 
+βιόερμα (το), του βιοέρματος, τα βιοέρματα 
+biohermal 
+βιοερματικός 
+ 
+5 
+ 
+biolithite 
+βιολιθίτης 
+biostasy, biostasis 
+βιοστασία 
+biostratigraphy 
+βιοστρωματογραφία 
+biostromal 
+βιοστρωματικός 
+biostrome, -s 
+βιόστρωμα (το), του βιοστρώματος, τα 
+βιοστρώματα 
+biotope 
+βιότοπος 
+bioturbation 
+βιοαναμόχλευση 
+biozonation 
+βιοζώνωση 
+biozone 
+βιοζώνη 
+biseriate 
+δίσειρος 
+Bithynian 
+Βιθύνιο 
+bitoumenous 
+βιτουμενιούχος 
+block {Ø 4 m - 65,5 m} 
+μπλοκ {άκλιτο} 
+block EEZ 
+τεμάχιο ΑΟΖ (για δημοπράτηση) 
+blue-green alga {Cyanophyceae} 
+κυανοφύκος (το) {τα κυανοφύκη} 
+borer, boring organism 
+λιθοφάγος (οργανισμός) 
+boring / pl. borings 
+διάτρηση / πλ. διατρήσεις 
+boudinage {process} 
+αλλάντωση {διεργασία} 
+boudinage {result} 
+αλλάντωση, αλλαντοειδής δομή {προϊόν} 
+boulder {Ø 256 mm - 4 m} 
+ογκόλιθος 
+brachiopod 
+βραχιονόποδο 
+brackish 
+υφάλμυρος 
+brackish 
+υφάλμυρος 
+brackishness 
+υφαλμυρότητα 
+branching 
+διακλάδωση  
+branching coral, ramified coral 
+διακλαδούμενο κοράλλι 
+breakdown dome 
+θόλος κατάρρευσης 
+break-up 
+διάσπαση 
+breccia {Ø 2 mm – 4 m} 
+λατυποπαγές 
+bridgmanite 
+μπριτζμανίτης, (μπριντγκμανίτης) 
+Bruxellian 
+Βρυξέλλιο 
+Bryozoa, bryozoans 
+βρυόζωα 
+Burdigalian 
+Βουρδιγάλιο 
+Caenozoic 
+Καινοζωικό 
+Calabrian 
+Καλάβριο 
+calcarenite 
+ασβεστοψαμμίτης, ασβεσταρενίτης, καλκαρενίτης 
+calcareous algae 
+ασβεστιτικά φύκη 
+calcification {process} 
+ασβεστοποίηση {διεργασία} 
+ 
+6 
+ 
+calcification {result} 
+ασβεστοποίημα {προϊόν} 
+calcilutite 
+ασβεστοπηλίτης, ασβεστολουτίτης 
+calcirudite 
+ασβεστοψηφίτης, ασβεστορρουδίτης  
+calcite 
+ασβεστίτης 
+calcite crust, calcrust {speleol.} 
+ασβεστιτική επιφλοίωση, ασβεστιτική κρούστα 
+{ασβεστίτης ~100%} 
+calcitic dolomite 
+ασβεστιτικός δολομίτης 
+calcrete1, caliche1 {genus} 
+ασβεστοπαγές {τσιμέντο CaCO3, κλάστες οτιδήποτε} 
+calcrete2, caliche2 {species} 
+ασβεστοπαγές στρώμα 
+calcrete3, caliche3 {species} 
+ασβεστοπαγής επιφλοίωση, ασβεστοπαγής 
+κρούστα 
+Callovian 
+Καλλόβιο 
+Cambrian 
+Κάμβριο 
+Campanian 
+Καμπάνιο 
+canal bridge 
+διωρυγογέφυρα, καναλογέφυρα 
+carbonate (n., pl. carbonates) 
+ανθρακικό, ανθρακικό ίζημα,  (πλ. ανθρακικά 
+ιζήματα, ανθρακικά πετρώματα, συχνά σκέτο 
+ανθρακικά) 
+carbonate {adj.} 
+ανθρακικός, -ή, ό 
+carbonate factory 
+εργοστάσιο ανθρακικού ιζήματος 
+carbonate hardground 
+ανθρακικός σκληρός πυθμένας 
+carbonate platform 
+ανθρακική τράπεζα, ανθρακική πλατφόρμα 
+carbonate ramp 
+ανθρακική ράμπα 
+carbonate shelf 
+ανθρακική υφαλοκρηπίδα 
+Carboniferous 
+Λιθανθρακοφόρο 
+carbonization (ή carbonisation) 
+απανθράκωση, εξανθράκωση 
+Carixian 
+Καρίξιο 
+Carnian 
+Κάρνιο 
+cataclastite 
+κατακλαστίτης 
+catagenesis  
+καταγένεση 
+cavity 
+έγκοιλο 
+cavity {Dasycl.} 
+κοιλότητα 
+cement 
+τσιμέντο 
+cementation 
+τσιμεντοποίηση 
+cemented 
+τσιμεντοποιημένος 
+Cenomanian 
+Κενομάνιο 
+chalk 
+κρητίδα, κιμωλία 
+char 
+απανθράκωμα, εξανθράκωμα 
+char particle 
+απόκαυμα, αποκαΐδι 
+charcoal 
+ξυλάνθρακας, (ξυλοκάρβουνο) 
+Charmouthian 
+Σαρμούθιο 
+ 
+7 
+ 
+charophyte oogons 
+ωογόνια χαροφύτων 
+charring 
+απανθράκωση, εξανθράκωση 
+Chattian 
+Χάττιο {όχι Σάττιο. < αρχαία γερμανική φυλή, λατ. Chatti, ελλ. γραφή Χάττες} 
+chela 
+χηλή {υποκορ.: χηλίο(ν)} 
+chelate {adj.} 
+χηλωτός 
+chelation 
+χήλωση 
+chelicera {n.} 
+χηλόκερα {τα} 
+chelicerate {adj.} 
+χηλόκερος {ο/η} 
+cheliform {adj.} 
+χηλόμορφος, χηλοειδής 
+chelipeds {n.} 
+χηλόποδα (τα) 
+chemocline {n.} 
+χημειοκλινές, χημειόκλινο {ουσ., το} 
+chert band, silex list {=chert2} 
+ταινιώδης πυριτόλιθος, διάστρωση πυριτολίθου, 
+ένστρωση πυριτολίθου 
+chert nodule, silex nodule 
+κόνδυλος πυριτολίθου, βολβός πυριτολίθου 
+chert1 
+κερατόλιθος 
+chert2, silex 
+πυριτόλιθος {λιθοποιημένο κολλοειδές SiO2 μέσα σε ασβεστολιθικό 
+περιβάλλον ίζημα} 
+chiral 
+χειρότροπος {φυσιολ.-βιολ.-παλαιοντ.}, εναντιόμορφος 
+{κρυστ.}, χειρόμορφος {χημ.} 
+chirality, (handedness) 
+χειροτροπία {φυσιολ.-βιολ.-παλαιοντ.}, λόγος χειροτροπίας 
+{τρηματοφ., κατά Hottinger}, εναντιομορφία {κρυστ.}, 
+χειρομορφία {χημ.} 
+Chlorophyceae, green algae 
+χλωροφύκη, πράσινα φύκη 
+choristosporate (type of reproduction) 
+χωριστοσπορικός (τρόπος αναπαραγωγής), 
+χωριστοσπορία 
+choristosporous {adj.} 
+χωριστόσπορος (ο,η), το -ο 
+choristospory 
+χωριστοσπορία 
+chronostratigraphy 
+χρονοστρωματογραφία 
+chrysotile, white asbestos 
+χρυσοτίλης, λευκός αμίαντος 
+Cimmerides 
+Κιμμερίδες 
+cipolline, cipollino marble, cipolline marble {< It. 
+“cipolla”, onion} 
+σιπολλίνης, σιπολλινικό μάρμαρο, κρομμυοειδές 
+μάρμαρο 
+cirque 
+παγετωνικό αμφιθέατρο 
+cladosporate (type of reproduction) 
+κλαδοσπορικός (τρόπος αναπαραγωγής) 
+cladosporous {adj.} 
+κλαδόσπορος (ο,η), το -ο 
+cladospory 
+κλαδοσπορία 
+class 
+ομοταξία 
+clast 
+κλάστης 
+clastic, detrital 
+κλαστικός 
+clast-supported, grain-supported 
+κοκκοστηριζόμενο 
+clay 
+άργιλος 
+clay {Ø <4 μ} 
+άργιλος 
+ 
+8 
+ 
+clayey 
+αργιλικός 
+claystone 
+αργιλόλιθος {χωρίς σχιστότητα} 
+claystone 
+αργιλόλιθος 
+climate perturbations 
+κλιματικές διαταραχές 
+clinopyroxene 
+κλινοπυρόξενος 
+clinopyroxenite 
+κλινοπυροξενίτης 
+club-shaped {Dasycl.} 
+ροπαλόσχημος 
+coal mine 
+ανθρακωρυχείο 
+coalification (παλιότερα και carbonification) 
+ενανθράκωση 
+coarse-grained 
+αδρομερής, αδρόκοκκος 
+cobble {Ø 64-256 mm} 
+τρόχαλο (το) 
+coenozone, cenozone, assemblage zone, 
+faunizone 
+κοινοζώνη, ζώνη συναθροίσεως 
+coherence, cohesion 
+συνοχή, συνεκτικότητα 
+coherent, cohesive 
+συνεκτικός 
+cohesion 
+συνοχή 
+coiled 
+περιελιγμένος 
+coke 
+οπτάνθρακας, κοκ, κωκ 
+coking 
+οπτανθράκωση 
+collapse 
+κατάρρευση 
+collision 
+σύγκρουση 
+colluvial 
+κολλουβιακός 
+colluvial deposit 
+κολλουβιακή απόθεση 
+colluvium 
+κολλούβιο 
+columnar jointing 
+στυλοειδής κατάτμηση 
+compact 
+στιφρός, συμπαγής 
+concession 
+παραχώρηση 
+conchoidal 
+κογχοειδής {ο έχων σχήμα κόγχης, Δημητράκος 1953} 
+concrete 
+σκυρόδεμα 
+conformably 
+συμφώνως 
+conformity 
+συμφωνία 
+conglomerate {Ø 2 mm – 4 m} 
+κροκαλοπαγές 
+Coniacian 
+Κονιάσιο, Κονιάκιο 
+conservation (geoconservation) 
+διατήρηση (γεωδιατήρηση) 
+conservation {proper use of nature} 
+συντήρηση  {σωστή χρήση της φύσης} 
+conservation biology 
+βιολογία διατήρησης, βιολογία της διατήρησης 
+conservation geology 
+γεωλογία της διατήρησης 
+conservation of natural monuments {see also 
+preservation of natural monuments} 
+διατήρηση φυσικών μνημείων 
+conservationism 
+συντηρισμός 
+ 
+9 
+ 
+conservationist 
+συντηριστής 
+conservator {e.g. of monuments} 
+συντηρητής {π.χ. μνημείων} 
+contact 
+επαφή 
+contamination 
+μόλυνση 
+continental 
+ηπειρωτικός, ηπειρογενής 
+continental drift 
+μετατόπιση των ηπείρων 
+continental platform 
+ηπειρωτική πλατφόρμα 
+continental shelf 
+ηπειρωτική υφαλοκρηπίδα 
+contour current 
+ισοβαθές ρεύμα πυθμένα 
+contourite 
+ισοβαθίτης, κοντουρίτης {προφορά: konturitis, όχι koduritis} 
+convection 
+συνόχηση {αδόκ. μεταγωγή, συναγωγή} 
+convection cell 
+κυψέλη συνόχησης {αδόκ. κυψέλη μεταγωγής} 
+convective 
+συνοχητικός {αδόκ. μεταγωγικός} 
+coquina 
+κογχυλιάτης (λίθος) 
+coquina {fr. lumachelle} 
+βιοσυσσώρευση 
+Cordevolian 
+Κορδεβόλιο 
+core {n.} 
+πυρήνας 
+core {v.} 
+πυρηνοληπτώ 
+core diameter 
+διάμετρος πυρήνα 
+corer 
+πυρηνολήπτης 
+coring {n.} 
+πυρηνοληψία 
+coring depth 
+βάθος πυρηνοληψίας 
+coring geological research 
+γεωλογική έρευνα πυρηνοληψίας 
+coring site 
+θέση πυρηνοληψίας 
+coring system 
+σύστημα πυρηνοληψίας 
+correlation 
+συσχέτιση 
+cortex {Dasycl.} 
+φλοιός 
+Couvinian 
+Κουβίνιο 
+craton 
+κρατονική μάζα 
+Cretaceous {n. & adj.} 
+Κρητιδικό {ουσ.}, κρητιδικός {επίθ.} 
+cribrate aperture 
+ηθμοειδές στοματικό άνοιγμα 
+critical geological capital {term non yet used; would be the 
+geological part of the critical natural capital} 
+κρίσιμο γεωλογικό κεφάλαιο {το γεωλογικό μέρος του κρίσιμου 
+φυσικού κεφαλαίου} 
+cross section balancing 
+εξισορρόπηση γεωλογικής τομής 
+cross section, cross-section 
+τομή, γεωλογική τομή 
+cross-bedding 
+διασταυρούμενη στρώση 
+cross-lamination 
+διασταυρούμενη ελασμάτωση, 
+σταυροελασμάτωση 
+crush breccia 
+λατυποπαγές σύνθλιψης 
+crust {e.g. continental crust} 
+φλοιός {π.χ. ηπειρωτικός φλοιός} 
+ 
+10 
+ 
+Cuisian 
+Κουίζιο 
+cupola in a karst cave 
+θόλος καρστικού σπηλαίου 
+cupola in a lava tube 
+θολοειδής κοιλότητα σε λάβες, θολοειδής 
+κοιλότητα σε σωλήνα λάβας 
+cupola-dominated cave 
+θολοσκεπές σπήλαιο, θολοφόρο σπήλαιο 
+cyclothem (-s) 
+κυκλόθεμα (κυκλοθέματα) 
+Dacian 
+Δάκιο 
+Danian 
+Δάνιο 
+Dasycladales, dasyclads 
+δασύκλαδα (φύκη) 
+debris 
+κορήματα, θραύσματα 
+debris cone, talus, talus pile, talus slope 
+κώνος κορημάτων 
+debris fan 
+ριπίδιο κορημάτων 
+debris flow 
+ροή κορημάτων, ροή θραυσμάτων 
+debris flow 
+ροή κορημάτων 
+deepening 
+βάθυνση 
+deep-seated slope failure 
+μεγάλου βάθους μετακίνηση πρανούς 
+degradation 
+υποβάθμιση 
+deposit (1) 
+απόθεση (το αποτέλεσμα) 
+deposit (2), mineral deposit, ore body 
+κοίτασμα 
+deposited moraine 
+λιθώνας 
+deposition 
+απόθεση (η διαδικασία) 
+depositional environment 
+περιβάλλον απόθεσης, αποθεσιακό περιβάλλον 
+depositional setting 
+αποθεσιακό σκηνικό 
+depth-profile 
+τομή κατά βάθος 
+desilicification, desilification 
+αποπυριτίωση 
+desorption 
+εκρόφηση 
+destructive analysis 
+καταστρεπτική ανάλυση 
+detachment 
+αποκόλληση 
+detritus, debris 
+κορήματα {τα} 
+Devonian 
+Δεβόνιο 
+diabase 
+διαβάσης 
+diachronous 
+διάχρονος 
+diagenesis 
+διαγένεση 
+diagenetic 
+διαγενετικός 
+diapirism 
+διαπειρισμός 
+diatomite, diatomaceous earth 
+διατομίτης, γη διατόμων 
+diffusion 
+διάχυση 
+diluvial {adj.} 
+διλούβιος, διλουβιακός 
+Diluvium 
+Διλούβιο (το) {άτυπο όνομα εποχής} 
+ 
+11 
+ 
+Dinarides 
+Δειναρίδες 
+dip of beds 
+κλίση στρωμάτων 
+disappearance 
+εξαφάνιση (απολιθώματος) 
+disconformity 
+ασυμφωνία 
+discontinuity 
+ασυνέχεια 
+dish-and-pillar structure 
+πινακιοστυλοειδής δομή 
+dispersion 
+διασπορά 
+disrupted 
+διερρηγμένος 
+distal part 
+απώτερο μέρος {δασύκλ.} 
+distributary 
+διακλάδωση, διανομέας 
+dog teeth {diagenesis} 
+κυνόδοντες {διαγένεση} 
+doline 
+δολίνη 
+dolomite 
+δολομίτης 
+dolomitic limestone 
+δολομιτικός ασβεστόλιθος 
+dolomitization 
+δολομιτίωση 
+Domerian 
+Δομέριο 
+downthrown fault-block 
+κατεβασμένο ρηξιτέμαχος, κατερχόμενο χείλος 
+ρήγματος, κατελθόν τέμαχος 
+drainage  
+αποστράγγιση 
+drawdown 
+πτώση {στάθμης ενός γεωλογικού μεγέθους} 
+ductile {< dŭctile(m) < dŭctus < dūco} 
+εύπλαστος, όλκιμος, ελατός 
+ductility 
+πλαστικότητα, ολκιμότητα, ελατότητα 
+dumortierite 
+ντυμορτιερίτης {< γαλλ. όν. Eugène Dumortier} 
+dunite 
+δουνίτης 
+duricrust {calcrete-ferricrete-silcrete-salcrete, no matter which} 
+κρούστα, σκληρή κρούστα, επίπαγος 
+early diagenesis 
+πρώιμη διαγένεση 
+early karstification, precoce karstification 
+πρώιμη καρστικοποίηση 
+echinoid spines 
+βελόνες εχίνων 
+ecophaenotype 
+οικοφαινότυπος 
+Egeide {ex. in  Philippson, 1898} 
+Αιγηίς, Αιγηίδα 
+Egerian 
+Εγέριο 
+Eggenburgian 
+Εγγεμβούργιο 
+Eifelian 
+Αϊφέλιο 
+elevation 
+ανύψωση {στάθμης ενός γεωλογικού μεγέθους} 
+eluvial 
+αποπλυμένος, εκπλυμένος 
+eluvial mantle 
+αποπλυμένος μανδύας, μανδύας εκπλύσεως 
+eluviation 
+απόπλυση 
+eluvium 
+αποπλυμένο έδαφος, εκπλυμένο έδαφος 
+embankment fill 
+επιχωμάτωση 
+ 
+12 
+ 
+embryonic chamber 
+εμβρυακός θάλαμος 
+emersion 
+ανάδυση, χέρσευση 
+emery 
+σμύριδα 
+Emilian 
+Αιμίλιο 
+Emscherian 
+Εμσχέριο 
+Emsian 
+Έμσιο 
+enantiomorph 
+εναντιόμορφος {κρυστ.} 
+encruster, encrusting organism 
+επιφλοιωτής, επιφλοιωτικός οργανισμός 
+encrusting algae 
+επιφλοιωτικά φύκη 
+end moraine, frontal moraine, terminal 
+moraine 
+ακραίος λιθώνας, μετωπικός λιθώνας, τελικός 
+λιθώνας 
+endosporate (type of reproduction) 
+ενδοσπορικός (τρόπος αναπαραγωγής) 
+endosporous {adj.} 
+ενδόσπορος (ο/η), το -ο 
+endospory 
+ενδοσπορία 
+englacial moraine 
+ενδοπαγετωνικός λιθώνας, εσωτερικός λιθώνας 
+environmental conditions 
+περιβαλλοντικές συνθήκες 
+Eocene 
+Ηώκαινο 
+eogenesis 
+ηωγένεση 
+eogenetic 
+ηωγενετικός 
+eon 
+μεγααιώνας 
+eonothem 
+μεγααιωνοδιάπλαση 
+epibiont 
+επιβιωτικός οργανισμός, επιβιωτής 
+epiclastic {generated by breakdown of older rocks through the 
+processes of weathering and erosion} 
+επικλαστικό 
+epidote {min.} 
+επίδοτο {ορυκτ.} 
+epidotite {lith.} 
+επιδοτίτης {λιθ.} 
+epoch 
+εποχή 
+equipotential line 
+ισοδυναμική καμπύλη  {γεωφ.} 
+era 
+αιώνας 
+erathem 
+αιωνοδιάπλαση 
+erosion 
+διάβρωση 
+erosion process 
+διεργασία διάβρωσης 
+euspondylous 
+ευσπόνδυλος 
+eustatic 
+ευστατικός 
+eustatism 
+ευστατισμός 
+Eutheria 
+ευθήρια 
+event 
+γεγονός {όχι συμβάν} 
+evolution 
+εξέλιξη 
+evolutionary landscape 
+εξελικτικό τοπίο 
+evolutionary path 
+εξελικτική πορεία 
+ 
+13 
+ 
+evolutionary radiation 
+εξελικτική ακτίνωση 
+evolutionism 
+εξελικτισμός 
+evolutionist 
+εξελικτιστής 
+evolutive 
+εξελικτικός-ή-ό 
+exaptation 
+αλλοπροσαρμογή 
+exclusive economic zone (EEZ) 
+αποκλειστική οικονομική ζώνη (ΑΟΖ) 
+exposure geosite, exposure geotope 
+γεώτοπος αποκάλυψης 
+external platform facies 
+φάση εξωτερικής πλατφόρμας / κρηπίδας 
+extinction 
+εξαφάνιση 
+extraclast 
+εξωκλάστης {όχι εξτρακλάστης} 
+extraformational 
+εξωλεκάνιος 
+facies 
+φάση {γεωλ.} 
+false color (map, image...) 
+ψευδέγχρωμος (χάρτης, εικόνα...) 
+Famennian 
+Φαμέννιο 
+family 
+οικογένεια 
+fan 
+ριπίδιο 
+Fassanian 
+Φασσάνιο 
+fault 
+ρήγμα 
+fault block 
+ρηξιτέμαχος 
+fault throw 
+άλμα ρήγματος 
+fauna 
+πανίδα 
+fenestrae {pl.} 
+παράθυρα, παραθυροειδείς δομές {ιζήματος, πετρώματος} 
+ferricrete1 {genus} 
+σιδηροπαγές {τσιμέντο πλούσιο σε Fe2O3, κλάστες οτιδήποτε} 
+ferricrete2 {species} 
+σιδηροπαγές στρώμα 
+ferricrust {species} 
+σιδηροπαγής επιφλοίωση, σιδηροπαγής 
+κρούστα 
+fertile cap {Dasycl.} 
+γόνιμο καπέλο 
+fibrous-radial ooid 
+ωοειδές ινώδους-ακτινωτής δομής 
+field 
+πεδίο 
+file {Dasycl., vertical arrangement of the laterals} 
+στήλη 
+fine-grained 
+λεπτόκοκκος 
+first occurence, first appearance 
+πρώτη εμφάνιση 
+flabellate, flabelliform, fan-shaped 
+ριπιδιόμορφος 
+flabellum palaeont. 
+ριπίδιο παλαιοντ. 
+flank (e.g. of an anticline) 
+πλευρά (η) 
+flash flood 
+αστραπιαία πλημμύρα 
+flash flood event 
+φαινόμενο αστραπιαίας πλημμύρας 
+flora 
+χλωρίδα 
+flow marks 
+αποτυπώματα ροής 
+ 
+14 
+ 
+fluvial 
+ποτάμιος, -α, -ο {π.χ. ποτάμιο περιβάλλον} 
+fluviatile 
+ποτάμιος, -α, -ο {π.χ. ποτάμιες αποθέσεις} 
+fluvio- 
+ποταμο- 
+flysch 
+φλύσχης 
+flyschoid {adj.} 
+φλυσχοειδής {επίθ.} 
+footwall (of a fault) 
+υποκείμενο τέμαχος (ρήγματος) 
+foraminifer 
+τρηματοφόρο 
+foraminifer 
+τρηματοφόρο 
+ford, wading {it. guado, fr. gué} 
+ποταμοδιάβαση, πόρος, διαπόρι, πέρασμα, 
+ιρλανδική διάβαση 
+foreland 
+προχώρα 
+fossil 
+απολίθωμα 
+fossiliferous 
+απολιθωματοφόρος 
+fracture {n.} 
+ρωγμή 
+fracture {v.} 
+ρωγμώνω 
+fractured 
+ρωγμωμένος 
+fractured rock 
+ρωγμωμένο πέτρωμα 
+fracturing 
+ρώγμωση 
+Frasnian 
+Φράσνιο 
+friable  
+εύθρυπτος, σαθρός 
+fringing reef 
+παράκτιος ύφαλος {γεωγρ.} 
+fringing reef 
+παράκτιο βιόερμα {γεωλ.} 
+gabbro 
+γάββρος 
+gabbroic 
+γαββρικός {όχι γαββροϊκός} 
+gametophore 
+γαμετοφόρος 
+gap, hiatus 
+στρωματογραφικό κενό 
+garnet 
+γρανάτης 
+garnet websterite 
+γρανατούχος γουεμπστερίτης 
+gastropod 
+γαστερόποδο 
+Gedinnian 
+Γεδίννιο 
+Gelasian 
+Γελάσιο 
+genetic code 
+γενετικός κώδικας 
+genetic drift 
+γενετική παρέκκλιση 
+genetic material 
+γενετικό υλικό 
+genomic properties 
+γονιδιωματικές ιδιότητες 
+genus 
+γένος 
+geoarchaeology 
+γεωαρχαιολογία 
+geochemistry 
+γεωχημεία 
+geoconservation 
+γεωδιατήρηση 
+ 
+15 
+ 
+geodiversity 
+γεωποικιλότητα 
+geodiversity 
+γεωποικιλότητα 
+geological fieldwork 
+γεωλογική εργασία πεδίου 
+geological heritage  
+γεωλογική κληρονομιά 
+geological mapping and modelling 
+γεωλογική χαρτογράφηση και ερμηνευτική 
+μοντελοποίηση 
+geological setting {as a chapter in a paper} 
+γεωλογικό πλαίσιο, γεωλογική τοποθέτηση 
+geologist 
+γεωλόγος 
+geopark 
+γεώπαρκο, γεωπάρκο 
+geopetalic structure, geopetal fabric 
+γεωπεταλική δομή 
+geosite integrity 
+ακεραιότητα γεωτόπου 
+geospot 
+γεωσημείο 
+geotope, geosite 
+γεώτοπος 
+geotourism 
+γεωτουρισμός 
+Givetian 
+Ζιβέτιο 
+glacial 
+παγετωνικός 
+glacial drift 
+λιθώνας, παγετωνική απόθεση 
+Gothlandian 
+Γοτλάνδιο, Γκοτλάνδιο 
+graben 
+τεκτονική τάφρος, τεκτονικό βύθισμα 
+gradation 
+κοκκομετρική διαβάθμιση 
+graded 
+διαβαθμισμένος 
+grain flow 
+ροή κόκκων 
+grain size 
+μέγεθος κόκκων 
+grain size analysis 
+κοκκομετρική ανάλυση 
+grainstone 
+grainstone {sic} 
+granofels 
+γρανοβλαστίτης 
+granular, granulate 
+κοκκώδης 
+granule {Ø 2-4 mm} 
+ψηφίδα 
+granulometric selection 
+κοκκομετρική διαλογή 
+granulometry 
+κοκκομετρία 
+gravel {Ø 2 mm – 4 m} 
+χάλικας (ο), χάλιξ (ο), χάλικες (οι) / κροκάλη 
+{στρογγυλευμένη} / λατύπη {γωνιώδης} 
+Greenlandian 
+Γροιλάνδιο 
+greywacke, graywacke 
+γραουβάκης 
+Griesbachian 
+Γριεσβάχιο 
+ground moraine, subglacial moraine 
+υποπαγετωνικός λιθώνας 
+groundwater table, groundwater elevation 
+στάθμη υπόγειου νερού 
+Günz 
+Γκύντσιος 
+gypsum 
+γύψος (η) 
+Gzhelian 
+Γκζέλιο 
+ 
+16 
+ 
+Hadean 
+Άδειο {προφ. Ά-δει-ο} 
+halocline {n.} 
+αλοκλινές, αλόκλινο {ουσ., το} 
+hanging wall (of a fault) 
+υπερκείμενο τέμαχος (ρήγματος) 
+hardground 
+σκληρός πυθμένας 
+harzburgite, hartzburgite 
+χαρτσβουργίτης {<Hartz mountains, Germany} 
+Hauterivian 
+Ωτερίβιο 
+Hellenides 
+Ελληνίδες 
+heterochronous 
+ετερόχρονος 
+heterogeneous, inhomogeneous 
+ετερογενής, ανομοιογενής 
+heteropic 
+ετεροπικός 
+heteropy 
+ετεροπία 
+Hettangian 
+Εττάνζιο 
+high-magnesium calcite 
+πολυμαγνησιούχος ασβεστίτης 
+Holocene 
+Ολόκαινο 
+holotype 
+ολότυπος 
+homeomorphism {1. between species; 2. in crystalline form} 
+ομοιομορφισμός  
+homeostasis 
+ομοιόσταση 
+homocline {n.} 
+ομόκλινο, ομοκλινική δομή {ουσ.} 
+homogenate {n., biol., chem.} 
+ομοιογενοποίημα 
+homogeneity 
+ομοιογένεια 
+homogeneous 
+ομοιογενής, -ές 
+homogenite {n.} 
+ομοιογενίτης 
+homogenization 
+ομοιογενοποίηση { αδόκ. ομογενοποίηση} 
+homogenize {v.} 
+ομοιογενοποιώ {αδόκ. ομογενοποιώ} 
+homogenized 
+ομοιογενοποιημένος { αδόκ. ομογενοποιημένος} 
+homogenizer 
+ομοιογενοποιητής 
+homogenous, homogen 
+ομογενής 
+horizontal lamination 
+οριζόντια ελασμάτωση 
+hornblende 
+κεροστίλβη 
+hornblende websterite 
+κεροστιλβούχος γουεμπστερίτης 
+hornblendite 
+κεροστιλβίτης 
+hornfels 
+κερατίτης 
+horst 
+τεκτονικό κέρας 
+hot spot 
+θερμοκηλίδα 
+hydrocarbon field 
+πεδίο υδρογονανθράκων 
+hydrogeology 
+υδρογεωλογία 
+hydrological conditions 
+υδρολογικές συνθήκες 
+hypersaline, ultra-salty 
+υπεράλμυρος 
+hypidiomorphous, hypidiomorphic {cryst.} 
+υπιδιόμορφος {κρυστ.} 
+ 
+17 
+ 
+hypogene {adj.} 
+υπογενής 
+ichnofossil 
+ιχνοαπολίθωμα 
+idiomorphous, idiomorphic, automorphic, 
+euhedral {cryst.} 
+ιδιόμορφος, ιδιομορφικός, αυτόμορφος {κρυστ.} 
+igneous 
+πυριγενής-ές {αδόκ. εκρηξιγενής} 
+ignimbrite 
+πυρομβρίτης 
+Ilerdian 
+Ιλέρδιο 
+illuviation 
+εμπλουτισμός 
+Illyrian 
+Ιλλύριο 
+imbricate 
+λεπιωμένος, λεπιοειδής 
+imbrication {tect.} 
+λεπίωση 
+impact1 
+πρόσκρουση, σύγκρουση 
+impact2 {e.g. impact factor} 
+επίπτωση  {π.χ. συντελεστής/παράγοντας επίπτωσης} 
+impactite 
+συγκρουσίτης 
+impermeability 
+αδιαπερατότητα 
+impermeable 
+αδιαπέραστος, αδιαπέρατος 
+impure {e.g. impure marble} 
+μη καθαρός, προσμεμειγμένος, προσμεμιγμένος 
+{π.χ. μη καθαρό μάρμαρο, μάρμαρο με προσμείξεις, μάρμαρο προσμεμειγμένο με 
+...} 
+impurity 
+πρόσμειξη, πρόσμιξη 
+inclusion 
+έγκλεισμα 
+incoherent, loose 
+ασύνδετος, απολελυμένος, χαλαρός 
+incrustation 
+επιφλοίωση 
+index species 
+στρωματογραφικός δείκτης 
+indicated mineral resource 
+δεικνυόμενος ορυκτός πόρος, ενδεικνυόμενος 
+ορυκτός πόρος 
+inferred mineral resource 
+υποθετικός ορυκτός πόρος 
+infiltration 
+κατείσδυση 
+inhomogeneity 
+ανομοιογένεια 
+inner platform 
+εσωτερική πλατφόρμα 
+interbedding 
+παρουσία ενστρώσεων 
+intercalation 
+παρεμβολή 
+intermontane basin 
+διορεινή λεκάνη {λεκάνη ανάμεσα σε όρη} 
+internal platform facies 
+φάση εσωτερικής πλατφόρμας 
+interstice 
+διάκενο 
+intertidal 
+μεσοπαλιρροϊκός 
+interverticillar spacing 
+διασπονδυλιακό διάστημα 
+intraclast 
+ενδοκλάστης 
+intraformational 
+ενδολεκάνιος 
+intramountainous 
+ενδοορεινός 
+intramountainous basin 
+ενδοορεινή λεκάνη {λεκάνη εντός του όρους} 
+ 
+18 
+ 
+intraplatform basin 
+ενδοτραπέζια λεκάνη 
+ion-exchange 
+ιοντοανταλλαγή 
+Ionian 
+Ιόνιο 
+iron ore 
+σιδηρομετάλλευμα 
+irregular contact 
+ανώμαλη επαφή 
+irregular fenestrae {pl.} 
+παράθυρα ακανονίστου σχήματος 
+isobar 
+ισοβαρομετρική, ισοβαρής {καμπύλη} 
+isobath  
+ισοβαθής {καμπύλη} 
+iso-chloride contour line 
+ισοχλώρια {καμπύλη, ουσ., θηλ.} 
+iso-chloride contour map 
+χάρτης χλωριότητας 
+Isochrone 
+ισόχρονη {καμπύλη} 
+isocline, isoclinal fold {n.} 
+ισόκλινο, ισοκλινική πτυχή {ουσ.} 
+iso-concentration line 
+καμπύλη ίσης συγκέντρωσης, καμπύλη ίσης 
+περιεκτικότητας 
+Isohaline 
+ισοαλατική {καμπύλη}, καμπύλη ίσης αλατότητας 
+isohyetal, isohyet line 
+ισοϋετής {ουσ., θηλ.} 
+isohypse, contour line 
+ισοϋψής (η) 
+Isoline 
+ισοτιμική καμπύλη 
+Isopach 
+ισοπαχής {ουσ., θηλ.} 
+isothermal 
+ισόθερμη ή ισοθερμοκρασιακή  {καμπύλη} 
+jasper 
+ίασπις 
+joint 
+διάκλαση 
+jointing 
+κατάτμηση, σύστημα διακλάσεων 
+Julian 
+Ιούλιο 
+Jurassic {n. & adj.} 
+Ιουρασικό {ουσ.}, ιουρασικός {επίθ.} 
+Karpatian 
+Καρπάτιο {Το πρωτότυπο Karpatian αντί Carpathian υποδηλώνει την 
+τσεχική εκδοχή Karpaty. Σε πλήθος εργασιών συνυπάρχει ο όρος Carpathian 
+(επίθετο για την ομώνυμη οροσειρά) με τον όρο Karpatian (για τη 
+στρωματογραφική βαθμίδα). Άρα πρέπει να πούμε Καρπάτιο} 
+karstic 
+καρστικός, καρστικοποιημένος, 
+αποκαρστωμένος 
+karstification 
+καρστοποίηση, καρστικοποίηση 
+Kasimovian 
+Κασιμόβιο 
+Kazanian 
+Καζάνιο 
+keriotheca 
+κηροθήκη 
+keriothecal 
+κηρηθροειδής, -ές 
+key fossil, guide fossil 
+καθοδηγητικό απολίθωμα 
+key horizon 
+καθοδηγητικός ορίζοντας 
+Kimmeridgian 
+Κιμμερίδιο 
+Kungurian 
+Κουγγούριο 
+Lacian 
+Λάκιο 
+lacustrine 
+λιμναίος 
+ 
+19 
+ 
+Ladinian 
+Λαδίνιο 
+lagoon 
+λιμνοθάλασσα 
+lagoonal catchment 
+λεκάνη απορροής λιμνοθάλασσας 
+lagoonal complex 
+λιμνοθαλάσσιο σύμπλεγμα 
+lakeside 
+παραλίμνιος 
+lamellibranch, bivalve, pelecypod {pl. lamellibranchs, 
+bivalves, pelecypods. Lat. Lamellibranchia / Lamellibranchiata, Bivalvia, 
+Pelecypoda} 
+ελασματοβράγχιο, δίθυρο, πελεκύποδο 
+lamina 
+έλασμα 
+laminated 
+ελασματώδης, φυλλώδης 
+lamination / laminated structure / laminoid 
+structure 
+ελασμάτωση / ελασματώδης δομή / 
+ελασματοειδής δομή 
+laminite 
+ελασματίτης 
+laminoid fenestrae {pl.} 
+ελασματοειδή παράθυρα 
+Landenian 
+Λανδένιο 
+landslide 
+κατολίσθηση 
+Langhian 
+Λάγγιο 
+last occurence, last appearance 
+τελευταία εμφάνιση 
+lateral 
+πλευρικός 
+ lateral {n., depr. "branch"}  
+πλευρικό {ουσ.<επίθ.} {αδόκ. κλαδί} 
+lateral continuity 
+πλευρική συνέχεια 
+lateral moraine 
+πλευρικός λιθώνας 
+lateral transition 
+πλευρική μετάβαση 
+lateral, branch {Dasycl.} 
+κλαδί {δασύκλ.} 
+lateritization, laterization 
+λατεριτίωση 
+lateritization, laterization 
+λατεριτίωση 
+lateritized 
+λατεριτιωμένος 
+laterize, lateritize, (laterise, lateritise) {v.intr.} 
+λατεριτιώνω, λατεριτιώνομαι 
+laurite 
+λωρίτης {< αγγλ. όν. Laurie} 
+Ledian 
+Λέδιο 
+lherzolite 
+λερζόλιθος 
+lignite 
+λιγνίτης 
+limestone 
+ασβεστόλιθος 
+limonite 
+λειμωνίτης 
+liquified flow, fluidized flow 
+υγροειδής ροή, ρευστοειδής ροή 
+listric fault {listroid would be better} 
+λιστροειδές ρήγμα 
+lithification 
+λιθοποίηση 
+lithofacies 
+λιθοφάση 
+lithostratigraphy 
+λιθοστρωματογραφία 
+load casts 
+εκμαγεία φορτίου 
+loam 
+πηλός 
+ 
+20 
+ 
+local palaeoenvironmental data 
+τοπικά παλαιοπεριβαλλοντικά δεδομένα 
+local stage 
+τοπική βαθμίδα 
+locality 
+τοποθεσία 
+lock {inland waterways} 
+κλεισιάδα, υδροφράκτης, υδατοφράκτης 
+loferite, loferitic 
+λοφερίτης, λοφεριτικός 
+longitudinal moraine 
+επιμήκης λιθώνας 
+Longobardian 
+Λογγοβάρδιο 
+loss on ignition 
+απώλεια πύρωσης 
+Lotharingian 
+Λοθαρίγγιο 
+Lower Carboniferous 
+Κατώτερο Λιθανθρακοφόρο 
+Lower Cretaceous 
+Κατώτερο Κρητιδικό 
+Lower Devonian 
+Κατώτερο Δεβόνιο 
+Lower Eocene 
+Κατώτερο Ηώκαινο 
+Lower Jurassic or Lias 
+Κατώτερο Ιουρασικό, Λιάσιο 
+lower mantle plume 
+λοφίο κατώτερου μανδύα 
+Lower Miocene 
+Κατώτερο Μειόκαινο 
+Lower Oligocene 
+Κατώτερο Ολιγόκαινο 
+Lower Paleocene 
+Κατώτερο Παλαιόκαινο 
+Lower Permian 
+Κατώτερο Πέρμιο 
+Lower Pleistocene 
+Κατώτερο Πλειστόκαινο 
+Lower Pliocene 
+Κατώτερο Πλειόκαινο 
+Lower Triassic 
+Κατώτερο Τριαδικό 
+low-magnesium calcite 
+ολιγομαγνησιούχος ασβεστίτης 
+Ludian 
+Λούδιο 
+Lusitanian 
+Λουζιτάνιο 
+Lutetian 
+Λουτήσιο 
+Maastrichtian 
+Μαιστρίχτιο 
+macrofossil 
+μακροαπολίθωμα 
+macrofossil 
+μακροαπολίθωμα 
+Maeotian 
+Μαιώτιο 
+mafic rock 
+βασικό πέτρωμα 
+magmatic underplating 
+μαγματική υποεπίστρωση, μαγματική υποφλοιική 
+επίστρωση 
+magnesite 
+λευκόλιθος, μαγνησίτης 
+magnesium calcite 
+μαγνησιούχος ασβεστίτης 
+make brackish 
+υφαλμυρίζω2 {μτβ., καθιστώ τι υφάλμυρο} 
+making brackish 
+υφαλμύριση2, υφαλμύρωση, υφαλμύρυνση 
+mantle plume 
+μανδυακό λοφίο 
+margin 
+περιθώριο 
+ 
+21 
+ 
+marginal facies, margin facies 
+φάση περιθωρίου 
+marine coring 
+θαλάσσια πυρηνοληψία 
+marine geological research 
+θαλάσσια γεωλογική έρευνα 
+marl 
+μάργα 
+marly 
+μαργαϊκός 
+marsh 
+έλος 
+marsupials {lat. Marsupialia} 
+μαρσιποφόρα 
+mass extinction 
+μαζική εξαφάνιση 
+massive, unbedded, nonbedded, unstratified 
+άστρωτος 
+massive2 {e.g. not disposed as pillow-lava} 
+μαζώδης {π.χ. λάβα} 
+mass-transport deposits 
+αποθέσεις μεταφοράς μάζας 
+matrix, groundmass 
+κυρία μάζα  
+matrix-supported, mud-supported 
+πηλοστηριζόμενο 
+measured mineral resource 
+μετρημένος ορυκτός πόρος 
+mechanical dispersion 
+μηχανική διασπορά 
+medial moraine, median moraine 
+μεσαίος λιθώνας, ενδιάμεσος λιθώνας 
+medicane {blend from MEDIterranean hurriCANE} 
+μεσογειακός κυκλώνας {κάθε προταθέν σύμμιγμα κρίθηκε 
+ακατάλληλο} 
+medium-bedded 
+μεσοστρωματώδης 
+megaconglomerate {consolidated megagravel} 
+μεγακροκαλοπαγές 
+megagravel {Ø 4 m - 1075 Km} 
+μεγαχάλιξ, μεγαχάλικας 
+megalith {Ø 33,6 Km - 1075 Km} 
+μεγάλιθος 
+Meghalayan 
+Μεγκαλάγιο 
+mélange, melange 
+τεκτονικό μίγμα, τεκτονικό μείγμα, υπο-
+οφιολιθικό μείγμα 
+mesogenesis 
+μεσογένεση 
+mesogenetic 
+μεσογενετικός 
+mesospondylous 
+μεσοσπόνδυλος 
+Mesozoic 
+Μεσοζωικό 
+Messinian 
+Μεσσήνιο 
+metamorphic 
+μεταμορφικός 
+metamorphic aureole 
+άλως επαφής, άλως μεταμόρφωσης 
+metamorphic rock 
+μεταμορφικό πέτρωμα, μεταμορφωμένο 
+πέτρωμα {παρωχ. τύπος: μεταμορφωσιγενές πέτρωμα} 
+metamorphic sole 
+μεταμορφικό πέλμα 
+metamorphism 
+μεταμόρφωση 
+metamorphosed 
+μεταμορφωμένος 
+metaspondylous {Dasycl., e.g. Fam. Diploporaceae} 
+μετασπόνδυλος 
+meteoric 
+μετεωρικός 
+meteoric diagenesis 
+μετεωρική διαγένεση 
+ 
+22 
+ 
+metronome {ex. astronomical  metronome} 
+μετρονόμος {π.χ. αστρονομικός μετρονόμος} 
+mica 
+μαρμαρυγίας 
+micrite 
+μικρίτης 
+micritization 
+μικριτίωση 
+microbial 
+μικροβιακός 
+microbial sediment 
+μικροβιακό ίζημα 
+microbial sedimentary structure 
+μικροβιακή ιζηματοδομή, μικροβιακή 
+ιζηματογενής δομή 
+microbial structure 
+μικροβιακή δομή 
+microbially induced 
+μικροβιογενής 
+microbially induced sediment 
+μικροβιογενές ίζημα 
+microbially induced sedimentary structure 
+μικροβιογενής ιζηματοδομή, μικροβιογενής 
+ιζηματογενής δομή 
+microbially induced structure 
+μικροβιογενής δομή 
+microbiostratigraphy 
+μικροβιοστρωματογραφία 
+micro-breccia 
+μικρολατυποπαγές 
+microcline {n., min.} 
+μικροκλινής {ουσ., ορυκτ.} 
+microconglomerate {Ø 2-4 mm} 
+ψηφιδοπαγές 
+microfacies 
+μικροφάση 
+microfacies analysis 
+μικροφασική ανάλυση 
+microfossil 
+μικροαπολίθωμα 
+microgranular 
+μικροκοκκώδης 
+microplaty (e.g. hematite) 
+μικροπλακώδης (π.χ. αιματίτης) 
+microsparite 
+μικροσπαρίτης 
+Middle Carboniferous 
+Μέσο Λιθανθρακοφόρο 
+Middle Devonian 
+Μέσο Δεβόνιο 
+Middle Eocene 
+Μέσο Ηώκαινο 
+Middle Jurassic or Dogger 
+Μέσο Ιουρασικό, Δογγέριο 
+Middle Miocene 
+Μέσο Μειόκαινο 
+Middle Pleistocene 
+Μέσο Πλειστόκαινο 
+Middle Triassic 
+Μέσο Τριαδικό 
+mid-ocean ridge (MOR) 
+μεσοωκεάνια ράχη 
+Milazzian 
+Μιλάτσιο 
+Mindel 
+Μινδέλιος 
+mine1
+ {genus} 
+ορυχείο 
+mine2
+ {species}, metal mine 
+μεταλλωρυχείο, μεταλλείο {ορυχείο μετάλλου} 
+mineral resource 
+ορυκτός πόρος 
+mini-plume 
+μινι-λοφίο 
+Miocene 
+Μειόκαινο 
+Mississippian 
+Μισσισσίππιο 
+ 
+23 
+ 
+modifying factor 
+παράγοντας μετατροπής 
+molasse 
+μολάσσα {γαλλο-ελβετική λ., τονισμός στο λά} 
+molecular transport phenomena 
+μοριακά φαινόμενα μεταφοράς 
+Mollusca {lat.}, molluscs, mollusks 
+μαλάκια 
+monocline {n., geol.} 
+μονόκλινο {ουσ., γεωλ.} 
+monoclinic {adj., cryst.} 
+μονοκλινές {επίθ., κρυστ.} 
+monogenic, monogenetic (~conglomerate, 
+~breccia) 
+μονογενές (~κροκαλοπαγές, ~λατυποπαγές) {μία 
+πηγή προέλευσης} 
+monolith {Ø 1 Km - 33,6 Km} 
+μονόλιθος 
+monomict, monomictic {term absurd, but used} 
+άμεικτο {ένα είδος κλαστών, απορρίπτεται ο παράλογος όρος “μονόμεικτο”} 
+monotremes {lat. Monotremata} 
+μονοτρήματα 
+Montian 
+Μόντιο 
+moraine 
+λιθώνας 
+moraine amphitheatre 
+αμφιθεατρικός λιθώνας 
+moraine in transit, carried moraine, moving 
+moraine 
+κινούμενος λιθώνας 
+moraine rampart 
+λιθωνικό πρόχωμα 
+moraine topography 
+τοπογραφία λιθώνα 
+Moscovian 
+Μοσχόβιο 
+motor hammer 
+μηχανοκίνητο σφυρί 
+mud {Ø clay to silt} 
+πηλός 
+mudflow, mud flow 
+πηλορροή, ροή πηλού 
+mudstone 
+mudstone {sic}, πηλόλιθος 
+multicoloured, multicolour, US multicolored 
+πολύχρωμος 
+multiscale plume 
+πολυκλιμακωτό λοφίο 
+mushroom mantle plume 
+μανιταροειδές μανδυακό λοφίο 
+mutagenesis 
+μεταλλαξογένεση 
+mylonite 
+μυλωνίτης {<αρχ. μυλών -ώνος} 
+Namalian 
+Ναμάλιο 
+Nammalian 
+Ναμμάλιο 
+Namurian 
+Ναμούριο 
+nannofossil, nanofossil 
+νανοαπολίθωμα {η γραφή με νν είναι αδικαιολόγητη} 
+nannoplankton, nanoplankton 
+νανοπλαγκτό(ν) {η γραφή ναννοπλαγκτόν είναι αδικαιολόγητη} 
+nanoroughness 
+νανοτραχύτητα 
+nappe pile, pile of nappes 
+καλυμματικός σωρός 
+nappe, overthrust nappe 
+κάλυμμα, κάλυμμα επωθήσεως 
+nappe, thrust sheet 
+κάλυμμα 
+narrowing 
+στένωση 
+natural assets 
+φυσικό κεφάλαιο 
+natural gas reservoir 
+ταμιευτήρας φυσικού αερίου 
+ 
+24 
+ 
+natural selection 
+φυσική επιλογή 
+nektic, "nektonic" 
+νηκτικός, -ή, -ό {αδόκ. νεκτονικός} 
+nekton {n.} 
+νηκτό(ν) {ουσ. χωρίς πλ.} 
+Neocomian 
+Νεοκόμιο 
+Neogene 
+Νεογενές 
+neptunian dyke 
+συνιζηματογενής φλέβα, -ές φλεβίδιο 
+neritic 
+νηριτικός {πιθ. < γένος Nerita < Νηρέα} 
+nodular 
+κονδυλώδης 
+nodule 
+κόνδυλος 
+non-metamorphosed 
+αμεταμόρφωτος 
+Norian 
+Νώριο {< Nōrĭcum} 
+Northgrippian 
+Βορειογρίππιο 
+obduction 
+προσαγωγή 
+obsidian 
+οψιανός, οψιδιανός 
+occurence 
+παρουσία 
+Oldenburgian 
+Ολδεμβούργιο 
+Oligocene 
+Ολιγόκαινο 
+oligomict, oligomictic 
+ολιγόμεικτο {2-3 είδη κλαστών} 
+olistolith {pl. olistoliths} 
+ολισθόλιθος 
+olistostrome 
+ολισθόστρωμα 
+olivine 
+ολιβίνης 
+olivine clinopyroxenite 
+ολιβινούχος κλινοπυροξενίτης 
+olivine orthopyroxenite 
+ολιβινούχος ορθοπυροξενίτης 
+olivine websterite 
+ολιβινούχος γουεμπστερίτης 
+olivinite 
+ολιβινίτης 
+oncoid 
+ογκοειδές 
+ooid {n.} 
+ωοειδές {ουσ.} 
+oolite {an oolite is made of ooids} 
+ωόλιθος {πέτρωμα} 
+oolithic, oolitic 
+ωολιθικός 
+opal 
+οπάλιος 
+open platform 
+ανοιχτή τράπεζα / πλατφόρμα 
+ophiolite, pl. ophiolites 
+οφιόλιθος, πλ. οφιόλιθοι {αδόκ. οφειόλιθος} 
+ophiolitic 
+οφιολιθικός 
+order 
+τάξη 
+Ordovician 
+Ορδοβίσιο, Ορδοβίκιο, Ορδουίκιο 
+ore 
+μετάλλευμα 
+ore deposits geology 
+κοιτασματολογία 
+ore reserve 
+ορυκτό απόθεμα, απόθεμα 
+Orleanian 
+Ορλεάνιο 
+ 
+25 
+ 
+orogen 
+ορογενές 
+orogenic, orogenetic 
+ορογενετικός 
+orogeny, orogenesis 
+ορογένεση 
+orthoconglomerate 
+ορθοκροκαλοπαγές 
+orthopyroxene 
+ορθοπυρόξενος 
+orthopyroxenite 
+ορθοπυροξενίτης 
+ostracod 
+οστρακώδες 
+Ottnangian 
+Οττνάγγιο 
+out of sequence overthrust 
+ανακόλουθη επώθηση, επώθηση εκτός 
+ακολουθίας 
+outcrop (of a formation) 
+εμφάνιση (ενός σχηματισμού) 
+overthrust 
+επώθηση 
+overthrust slice 
+λέπος, λέπι 
+overturned / overturned fold 
+ανεστραμμένος / ανεστραμμένη πτυχή 
+Oxfordian 
+Οξφόρδιο 
+packstone 
+packstone {sic} 
+Palaeocene, Paleocene {n. & adj.} 
+Παλαιόκαινο {ουσ.}, παλαιοκαινικός {επίθ.} 
+palaeoclimate 
+παλαιόκλιμα 
+palaeoecology 
+παλαιοοικολογία 
+palaeoenvironment 
+παλαιοπεριβάλλον 
+palaeoenvironmental 
+παλαιοπεριβαλλοντικός 
+Palaeogene, Paleogene {n. & adj.} 
+Παλαιογενές {ουσ.}, παλαιογενής {επίθ.} 
+palaeontology,  paleontology 
+παλαιοντολογία 
+Palaeozoic, Paleozoic {n. & adj.} 
+Παλαιοζωικό {ουσ.}, παλαιοζωικός {επίθ.} 
+palygorskite or attapulgite 
+παλυγκορσκίτης, ατταπουλγίτης 
+Pannonian 
+Παννόνιο 
+paraconglomerate 
+παρακροκαλοπαγές 
+paragenesis {pl. parageneses} 
+παραγένεση 
+parallel lamination 
+παράλληλη ελασμάτωση 
+paratype 
+παράτυπος 
+parautochthonous 
+παραυτόχθονος 
+passive margin 
+παθητικό περιθώριο 
+patch-reef 
+μεμονωμένη βιοκατασκευή 
+pattern 
+σχηματομορφή 
+pear-shaped {lat. piriformis} 
+απιοειδής 
+peat 
+τύρφη 
+pebble {Ø 4-64 mm} 
+χαλίκι 
+pedogenesis, soil genesis, soil formation 
+πεδογένεση 
+pedology,  edaphology,  soil science 
+πεδολογία, εδαφολογία 
+ 
+26 
+ 
+pelagic 
+πελαγικός 
+pelite, lutite {granulometry} 
+πηλίτης, λουτίτης {κοκκομετρία} 
+peloid 
+πηλοειδές 
+Pelsonian 
+Πελσόνιο 
+peridot 
+περίδοτο 
+peridotite 
+περιδοτίτης 
+period 
+περίοδος 
+peritidal 
+περιπαλιρροϊκός 
+peritidal cyclicity 
+περιπαλιρροϊκή κυκλικότητα 
+perlite 
+περλίτης 
+permeability 
+διαπερατότητα 
+permeability 
+περατότητα, διαπερατότητα 
+permeable 
+διαπερατός 
+Permian 
+Πέρμιο 
+perovskite 
+περοβσκίτης 
+petroleum reservoir, oil reservoir 
+ταμιευτήρας πετρελαίου 
+petromict {polymict conglomerates made up of a mixture of largely 
+unstable or metastable clasts such as basalt, limestone, shale, and phyllite} 
+πετρόμεικτο 
+Phanerozoic 
+Φανεροζωικό 
+phloiophorous 
+φλοιοφόρος 
+phosphate 
+φωσφορίτης 
+phosphate, phosphatic 
+φωσφορικός 
+phosphatic hardground 
+φωσφορικός σκληρός πυθμένας 
+photogrammetric 
+φωτογραμμετρικός 
+photogrammetry 
+φωτογραμμετρία 
+phreatic 
+φρεατικός 
+phylogenesis 
+φυλογένεση 
+phylogenetic 
+φυλογενετικός 
+phylum 
+συνομοταξία 
+Piacenzian 
+Πλακέντιο 
+Pikermian 
+Πικέρμιο 
+pillow lava 
+προσκεφαλοειδής λάβα 
+pillow lava collapse breccia 
+λατυποπαγές κατάρρευσης προσκεφαλοειδούς 
+λάβας 
+pisoid, pisolith, pisolite {< Lat. pisum} 
+πισοειδές, πισόλιθος {< ελλ. πίσος / πίσον, “μπιζέλι”} 
+pisolitic 
+πισολιθικός 
+piston corer 
+κρουστικός πυρηνολήπτης 
+placentals 
+πλακουντοφόρα 
+planar lamination 
+επίπεδη ελασμάτωση 
+planispiral 
+επιπεδοσπειροειδής 
+ 
+27 
+ 
+planktic carbonate factory 
+πλαγκτικό εργοστάσιο ανθρακικού ιζήματος 
+planktic, "planktonic" 
+πλαγκτικός, -ή, -ό, {αδόκ. πλαγκτονικός} 
+plankton {n.} 
+πλαγκτό(ν) (-ού) (το) {ουσ. χωρίς πλ.} 
+plastogamic 
+πλαστογαμικός 
+plastogamy, plasmogamy {biol., paleont.} 
+πλαστογαμία, πλασμογαμία 
+platform 
+τράπεζα, πλατφόρμα 
+platform drowning 
+πνιγμός της πλατφόρμας 
+platy 
+πλακώδης 
+play 
+σενάριο 
+Pleistocene 
+Πλειστόκαινο 
+Pliensbachian 
+Πλιενσβάχιο 
+Pliocene 
+Πλειόκαινο 
+plume 
+λοφίο 
+plume head 
+κεφαλή λοφίου 
+plume tail 
+ουρά λοφίου 
+plunge 
+βύθιση (στρωμάτων) 
+plutonic 
+πλουτώνιος 
+plylogeny 
+φυλογένεση 
+polje 
+πόλγη 
+pollution 
+ρύπανση 
+polygenic, polygenetic 
+πολυγενές {όχι πολυγενετικό} {πολλές πηγές προέλευσης} 
+polymict, polymictic 
+πολύμεικτος {>3 είδη κλαστών} 
+Pontian 
+Πόντιο 
+Portlandian 
+Πορτλάνδιο 
+postdepositional 
+μετα-αποθεσιακός, μεταποθεσιακός 
+post-rift 
+μετασχισματικός 
+precipitation amount 
+ύψος υετού, όμβριο ισοδύναμο 
+prehensile 
+συλληπτήριος {τα  ~ άκρα των Πρωτευόντων / των εντόμων} 
+preliminary age-depth-model 
+προκαταρκτικό μοντέλο ηλικίας-βάθους 
+pre-rift, prerift 
+προσχισματικός 
+Present, Present Day 
+Παρόν 
+preservation / geopreservation 
+διαφύλαξη / γεωδιαφύλαξη 
+preservation {protection of nature against its use} 
+διατήρηση {προστασία της φύσης έναντι της χρήσης της} 
+preservation biology {see conservation biology} 
+ 
+preservation of natural monuments 
+διατήρηση φυσικών μνημείων {στην αδιατάρακτη πρωτογενή 
+τους κατάσταση} 
+preservationism 
+διατηρισμός 
+preservationist 
+διατηριστής, -ίστρια 
+Priabonian 
+Πριαμπόνιο 
+primary segment of the laterals, primary 
+πρωτεύον τμήμα των πλευρικών (αποφύσεων), 
+ 
+28 
+ 
+lateral, "primary branch"  {Dasycl.} 
+πρωτεύον πλευρικό,  αδόκ. "πρωτεύον κλαδί" 
+primary1 
+πρωτεύων 
+primary2 
+πρωτογενής 
+probable ore reserve 
+πιθανό ορυκτό απόθεμα, πιθανό απόθεμα 
+prochiral 
+προ-χειρόμορφος {χημ.}, προ-χειρότροπος {ά.π.} 
+prochirality 
+προ-χειρομορφία {χημ.}, προ-χειροτροπία {ά.π.} 
+Proterozoic 
+Προτεροζωικό 
+Protista 
+Πρώτιστα (τα) 
+protonym {zool.} 
+πρωτώνυμο {το, ζωολ.} 
+proved ore reserve 
+βεβαιωμένο απόθεμα 
+proximal part 
+εγγύτερο μέρος 
+pseudosection 
+ισοχημική ψευδοτομή, ψευδοτομή 
+pulsing plume, pulsing mantle plume 
+παλλόμενο λοφίο, παλλόμενο μανδυακό λοφίο 
+pumice 
+κίσσηρη 
+pumiceous lava 
+κισσηρώδης λάβα 
+Purbeckian 
+Πουρμπέκιο 
+pure shear 
+καθαρή διάτμηση 
+pycnocline {n.} 
+πυκνοκλινές, πυκνόκλινο {ουσ., το} 
+pyriform, pear-shaped {err. neo-latin pyriformis} 
+αχραδόμορφος {<αχράς = αχλάδι>} 
+pyroclastic rocks, pyroclastics 
+πυροκλαστικά πετρώματα, πυροκλαστικά 
+pyroxene 
+πυρόξενος (o) 
+pyroxenite 
+πυροξενίτης 
+pyroxenolithe 
+πυροξενόλιθος 
+quartz sandstone 
+χαλαζιακός ψαμμίτης 
+quartzite 
+χαλαζίτης 
+quartzitic 
+χαλαζιτικός 
+quartzolite, silexite 
+χαλαζιόλιθος 
+quartzose 
+χαλαζιακός 
+quaternary1 
+τεταρτεύων 
+quaternary2 
+τεταρτογενής 
+Quaternary3 
+Τεταρτογενές 
+Radiolaria {lat.}, radiolarians 
+ακτινόζωα 
+radiolarite 
+ραδιολαρίτης 
+radiometric dating, radioactive dating, 
+radioisotope dating 
+ραδιοχρονολόγηση 
+range 
+εύρος 
+rapids 
+ορμητικό τμήμα ποταμού 
+Recent {geochronology} 
+Σύγχρονο {γεωχρονολογία} 
+recessional moraine 
+λιθώνας οπισθοχώρησης 
+record (sedimentological, palaeontological, 
+καταγραφή, εγγραφή, ιστορικό, αρχείο (ανάλογα 
+ 
+29 
+ 
+geochemical, archaeological, ...) 
+με το συγκείμενο)  
+recrystallization 
+ανακρυστάλλωση 
+recumbent 
+κεκλιμένος 
+red alga taxa: Rhodophycophyta, 
+Rhodophyceae etc. 
+ροδοφύκος, ερυθρό φύκος {Ροδόφυτα, Ροδοφύκη...} 
+redeposition 
+επαναπόθεση 
+reef {genus term} 
+έρμα (το),  ύφαλος,  βιοκατασκευή,  βιο-
+οικοδόμημα, βιοκατασκευασμένο περιθώριο. 
+reefal limestone 
+υφαλογενής ασβεστόλιθος, βιοκατασκευασμένος 
+ασβεστόλιθος {ευρύτερος όρος: βιογενής ασβεστόλιθος}  
+regression 
+απόσυρση 
+regressive 
+αποσυρσιγενής 
+regressive erosion 
+οπισθοδρομούσα διάβρωση {αδόκ. αναποδιστική} 
+rendzina {φυσικοί πόροι} 
+ασβεστολιθικό οργανοχουμικό έδαφος 
+replication {biol.} 
+αντιγραφή 
+resedimentation 
+επανίζηση, επανιζηματογένεση 
+retrograde metamorphism 
+ανάδρομη μεταμόρφωση 
+reworked, redeposited, resedimented 
+επανεπεξεργασμένος, επαναποτεθείς, 
+επανατοποθετημένος, (επανιζηματοποιημένος) 
+Rhaetian 
+Ραίτιο 
+rhegolith (Amer. regolith) 
+ρηγόλιθος, ρεγόλιθος {< ρήγος, ρέγος < ρ. ρέζω} 
+rhexistasy 
+ρηξιστασία 
+ribs, cutlets 
+ραβδώσεις (οστράκων) 
+ridge 
+ύβωμα 
+ridge 
+ράχη, κορυφογραμμή 
+rift {n.} 
+σχίσμα 
+rift {v.} 
+σχίζω 
+rift basin 
+λεκάνη σχίσματος 
+rift from {v.} 
+αποσχίζομαι (από) 
+rifted {p.p.} 
+σχισμένος 
+rifted from 
+αποσχισμένος (από) 
+rifted margin 
+σχισμένο περιθώριο 
+rifting {n.} 
+σχίση 
+rifting from 
+απόσχιση 
+rimless shelf 
+υφαλοκρηπίδα χωρίς χείλος 
+rimmed platform 
+πλατφόρμα με χείλος 
+rimmed shelf 
+υφαλοκρηπίδα με χείλος 
+ringwoodite 
+ρινγκουδίτης 
+Riss 
+Ρίσσιος 
+rock 
+πέτρωμα 
+ 
+30 
+ 
+rock ledge 
+βραχοσκεπή 
+rock sample 
+δείγμα πετρώματος 
+rocky islet 
+βραχονησίδα 
+Romanian 
+Ρουμάνιο 
+roughness 
+τραχύτητα 
+row {Dasycl., horizontal arrangement of the laterals} 
+σειρά 
+rubble 1 {broken bits and pieces of anything, as that which is 
+demolished} 
+συντρίμμια, μπάζα {από κατεδάφιση κτηρίων} 
+rubble 2 {any solid substance, as ice, in irregularly broken pieces} 
+θρύψαλα 
+rubble 3 {rough fragments of broken stone, formed by geological 
+processes, in quarrying, etc., and sometimes used in masonry} 
+σκύρα {από σπασμένο φυσικό πέτρωμα} 
+rubble 4 {masonry built of rough fragments of broken stone} 
+ξερολιθιά 
+rubification {fr. rubefaction} 
+ερύθρωση, ερυθροποίηση 
+rubified horizon {fr. horizon rubefié} 
+ερυθρωμένος ορίζοντας 
+rudist 
+ρουδιστής 
+rudistid limestone 
+ρουδιστοφόρος ασβεστόλιθος 
+rudite, psephite 
+ψηφίτης, ρουδίτης κοκκομετρία 
+ruditic 
+ψηφιτικός, ρουδιτικός κοκκομετρία 
+Rupelian 
+Ρουπέλιο 
+Ruscinian 
+Ρουσκίνιο, Ρουσίνιο 
+Sakmarian 
+Σακμάριο 
+salcrete1 
+{genus} 
+αλατοπαγές 
+salcrete2 {species} 
+αλατοπαγές στρώμα 
+salcrete3 {species} 
+αλατοπαγής επιφλοίωση, αλατοπαγής κρούστα 
+saline1 
+αλατώδης 
+salinity 
+αλμυρότητα 
+salinization 
+αλισμός, αλάτωση, αλάτισμα 
+salinize 
+αλίζω, αλατώνω, αλατίζω 
+salty, saline2 
+αλμυρός 
+sample 
+δείγμα 
+sample {v.} 
+δειγματοληπτώ 
+sampling 
+δειγματοληψία {αμετάβ., π.χ. η μελέτη γίνεται με δ.} 
+sampling 
+δειγματολήπτηση {μεταβ., π..χ. η μελέτη γίνεται με δ. της τομής} 
+sampling strategy 
+στρατηγική δειγματοληψίας 
+sand {Ø 1/16 - 2 mm} 
+άμμος 
+sand bar 
+αμμοανάχωμα 
+sandstone 
+ψαμμίτης {λιθολ.} 
+Santonian 
+Σαντόνιο {<Santŏnes} 
+Sarmatian 
+Σαρμάτιο 
+Saxonian 
+Σαξόνιο 
+ 
+31 
+ 
+schistoid chert, thin alternances of chert and 
+shale 
+σχιστοκερατόλιθος 
+schizophyceae 
+σχιζόφυτα 
+scoria moraine, pseudomoraine 
+λιθώνας λάβας, ψευδολιθώνας 
+scree 
+σάρα 
+Scythian 
+Σκύθιο 
+seamount 
+υποθαλάσσιο έξαρμα 
+secondary1 
+δευτερεύων 
+secondary2 
+δευτερογενής 
+sediment {n.} 
+ίζημα 
+sediment {v.} 
+ιζάνω 
+sediment gravity flow 
+βαρυτική ροή ιζημάτων 
+sedimentary 
+ιζηματογενετικός {ο σχετιζόμενος με την ιζηματογένεση} 
+sedimentary 
+ιζηματογενής {ο γεννηθείς από τα ιζήματα} 
+sedimentary 
+ιζηματικός, ιζηματογενής 
+sedimentary basin 
+ιζηματική λεκάνη, λεκάνη ιζηματογένεσης 
+sedimentary cycle 
+ιζηματογενετικός κύκλος 
+sedimentary petrology 
+ιζηματική πετρολογία, πετρολογία ιζηματογενών 
+sedimentary rock 
+ιζηματογενές πέτρωμα 
+sedimentary structure 
+ιζηματοδομή 
+sedimentary structure 
+ιζηματοδομή, ιζηματογενής δομή 
+sedimentation 
+ίζηση, ιζηματογένεση 
+sedimentation process 
+διεργασία ίζησης 
+sedimentation ratio 
+ταχύτητα ίζησης, ταχύτητα ιζηματογένεσης 
+sedimentological 
+ιζηματολογικός 
+sedimentology 
+ιζηματολογία 
+sedimetary rock 
+ιζηματικό πέτρωμα, ιζηματογενές πέτρωμα 
+seismic 
+σεισμικός {αδόκ. σεισμογενής} 
+seismic area 
+σεισμική περιοχή 
+seismogenic 
+σεισμογόνος {αδόκ. σεισμογενής} 
+seismogenic zone 
+σεισμογόνος ζώνη {αδόκ. σεισμογενής ζώνη} 
+selective pressure, selection pressure, 
+evolutionary pressure 
+επιλεκτική πίεση, πίεση επιλογής, πίεση της 
+φυσικής επιλογής, εξελικτική πίεση 
+Senonian 
+Σενόνιο {<Senŏnes} 
+sepiolite 
+σηπιόλιθος 
+Sequanian 
+Σηκουάνιο {όχι Σεκβάνιο} 
+sequence 
+ακολουθία, αλληλουχία 
+sequence stratigraphy 
+στρωματογραφία ακολουθιών 
+sequencing {biol.} 
+αλληλούχιση 
+series 
+σειρά 
+ 
+32 
+ 
+serpentinite 
+σερπεντινίτης 
+Serpukhovian 
+Σερπουχόβιο 
+Serravallian 
+Σερραβάλλιο 
+setting 
+σκηνικό 
+Sevatian 
+Σεβάτιο 
+shakemap, intensity map 
+σεισογραφικός χάρτης 
+shale gas 
+ενδοσχισταργιλικό αέριο 
+shale oil 
+ενδοσχισταργιλικό πετρέλαιο 
+shale, mudshale 
+σχιστάργιλος (η), σχιστοπηλός (ο) 
+shallowing 
+ρήχευση 
+shallowing-upward cycles 
+κύκλοι ρήχευσης προς τα πάνω 
+shallow-water 
+ρηχός 
+shear deformation 
+διατμητική παραμόρφωση 
+sheared margin 
+διατετμημένο περιθώριο 
+shearing {adj.} 
+διατμητικός 
+shearing {n.} 
+διάτμηση 
+sheeted veinlets 
+δέσμη παράλληλων φλεβιδίων 
+sheeted veins 
+δέσμη παράλληλων φλεβών 
+shelf 
+υφαλοκρηπίδα 
+shelf break 
+υφαλοθραύστης 
+shoal 
+τέναγος 
+Sicilian 
+Σικέλιο 
+Siegenian 
+Ζιγκένιο 
+silcrete1 {genus} 
+πυριτιοπαγές {τσιμέντο πλούσιο σε SiO2, κλάστες οτιδήποτε} 
+silcrete2 {species} 
+πυριτιοπαγές στρώμα 
+silcrete3, silcrust {species} 
+πυριτιοπαγής επιφλοίωση, πυριτιοπαγής 
+κρούστα 
+silicate 
+πυριτικό (ορυκτό) 
+siliceous 
+πυριτιούχος, πυριτικός 
+silicified limestone 
+πυριτιωμένος ασβεστόλιθος 
+silt {Ø 4 - 62 μ} 
+ιλύς 
+siltstone 
+ιλυόλιθος 
+siltstone 
+ιλυόλιθος 
+Silurian 
+Σιλούριο 
+simple shear 
+απλή διάτμηση 
+Sinemurian 
+Σινεμούριο 
+sinkhole 
+καταβόθρα, καρστικό φρέαρ 
+site 
+θέση 
+skeleton, sleeve {Dasycl.} 
+περιχειρίδα {δασύκλ.} 
+ 
+33 
+ 
+slab {Ø 65,5 m - 1 Km} 
+πλάκα 
+slate 
+σχιστόλιθος 
+slope 
+κλιτύς, κατωφέρεια {κατά προτίμηση στη θάλασσα} // πρανές, 
+πλαγιά {κατά προτίμηση στην ξηρά} 
+slope debris 
+πλευρικά κορήματα 
+slump 
+κατολίσθηση 
+socio-environmental development 
+κοινωνικο-περιβαλλοντική ανάπτυξη 
+sodalite 
+σοδαλίτης, νατραλίτης 
+soil 
+έδαφος 
+soil flow 
+ροή εδάφους 
+soil moisture 
+εδαφική υγρασία 
+soil moisture regime 
+εδαφικό υγρασιακό καθεστώς, 
+καθεστώς εδαφικής υγρασίας 
+soil sample 
+δείγμα εδάφους 
+sole marks 
+υποτυπώματα 
+solution1, dissolution {action} 
+διάλυση {η ενέργεια} 
+solution2 {result} 
+διάλυμα {το αποτέλεσμα} 
+sorption 
+ρόφηση 
+sparite 
+σπαρίτης 
+Sparnacian 
+Σπαρνάκιο 
+Spathian 
+Σπάθιο 
+speciation {biol.} 
+ειδογένεση 
+species 
+είδος 
+spinel-websterite 
+χρωμιτιούχος γουεμπστερίτης 
+sponge spicule (pl. sponge spicules) 
+βελόνη σπόγγου (πληθ. βελόνες σπόγγων) 
+spreading 
+διεύρυνση 
+spring 
+πηγή 
+spur 
+σπιρούνι 
+stage 
+βαθμίδα 
+stalk {Dasycl., e.g. Fam. Acetabulariaceae} 
+στύλος  
+Stampian 
+Στάμπιο 
+Steinheimian 
+Σταϊνχαΐμιο 
+stem, main stem, central stem, axis, main 
+axis, axial siphon {Dasycl.} 
+στέλεχος, κεντρικό στέλεχος, κύριος άξονας, 
+αξονικό σιφώνιο {δασύκλ.} 
+stem, main stem, central stem, axis, main 
+axis, axial siphon {Dasycl.} 
+στέλεχος, κεντρικό στέλεχος, κύριος άξονας, 
+αξονικό σιφώνιο 
+Stephanian 
+Στεφάνιο 
+stockwork 
+πλέγμα φλεβιδίων 
+storativity 
+αποθηκευτικότητα 
+stranded moraine 
+απομονωμένος λιθώνας 
+ 
+34 
+ 
+stratification, bedding 
+στρώση 
+stratified 
+εστρωμένος, στρωμένος 
+stratigraphic contact 
+στρωματογραφική επαφή 
+stratigraphy 
+στρωματογραφία 
+streptospiral 
+στρεπτοσπειροειδής, -ές 
+striae {pl.} 
+γραμμώσεις (οστράκων) {πληθ.} 
+striation 
+γράμμωση (οστράκων) 
+strike of beds 
+διεύθυνση στρωμάτων 
+strike-slip fault 
+ρήγμα οριζόντιας μετατόπισης 
+stromatoid 
+στρωματοειδές 
+stromatoid {n.} 
+στρωματοειδές {ουσ.} 
+stromatolite {a stromatolite is made of stromatoids} 
+στρωματόλιθος {πέτρωμα} 
+stylolite 
+στυλόλιθος 
+subaerial exposition, subaerial exposure 
+αερόβια έκθεση 
+subducting plate 
+υποβυθιζόμενη πλάκα 
+subducting slab, subducting block 
+υποβυθιζόμενη πλάκα, υποβυθιζόμενο τέμαχος 
+subduction 
+υπαγωγή, υποβύθιση 
+sublimation 
+εξάχνωση 
+submarine area 
+υποθαλάσσια περιοχή 
+submarine fan 
+υποθαλάσσιο ριπίδιο 
+submarine slump 
+υποθαλάσσια κατολίσθηση 
+subsidence {eng. geol.} 
+εδαφική υποχώρηση, υποχώρηση {τεχν. γεωλ.} 
+subsidence {geol.} 
+βύθιση, καταβύθιση, υποχώρηση, ταπείνωση {του 
+πυθμένα, του φλοιού} 
+subsidence ratio 
+ρυθμός βύθισης, ταχύτητα βύθισης 
+substratum 
+υπόβαθρο 
+subsurface spelaeological site, subterranean 
+spelaeological site 
+υποεπιφανειακή σπηλαιολογική θέση, υπόγεια 
+σπηλαιολογική θέση 
+subthrust gas play 
+υποεφιππευτικό σενάριο φυσικού αερίου 
+subthrust hydrocarbon play  
+υποεφιππευτικό σενάριο υδρογονανθράκων 
+subthrust petroleum play 
+υποεφιππευτικό πετρελαϊκό σενάριο 
+subthrust play 
+υποεφιππευτικό σενάριο 
+subtidal 
+υποπαλιρροϊκός 
+sub-zone 
+υποζώνη 
+supergene {adj., geol.} 
+υπεργενής 
+supergene {n., biol.} 
+υπεργονίδιο 
+superimposition, superposition 
+υπέρθεση 
+superplume 
+υπερλοφίο 
+supra-subduction zone 
+ζώνη εφυπαγωγής {αναλογικός ό.}, ζώνη εφυποβύθισης 
+{παράγωγο του ό. υποβύθιση} 
+supratidal 
+υπερπαλιρροϊκός 
+ 
+35 
+ 
+surface moraine 
+επιφανειακός λιθώνας 
+surface sample 
+επιφανειακό δείγμα 
+susceptibility 
+επιδεκτικότητα, ενδοτικότητα 
+swamp 
+τέλμα 
+syncline 
+σύγκλινο 
+synrift, syn-rift 
+συσχισματικός 
+synsedimentary 
+συνιζηματογενής 
+synsedimentary tectonism, synsedimentary 
+tectonics 
+συνιζηματικός τεκτονισμός, συνιζηματογενής 
+τεκτονισμός 
+syringosporate (type of reproduction) 
+συριγγοσπορικός (τρόπος αναπαραγωγής) 
+syringosporous {adj.} 
+συριγγόσπορος (ο/η), το –ο 
+syringospory 
+συριγγοσπορία 
+system 
+σύστημα 
+talus, talus pile, talus slope, talus cone 
+κώνος κορημάτων 
+Tarantian 
+Ταράντιο 
+Tatarian 
+Τατάριο 
+taxon, taxonomic group, taxonomic category, 
+taxonomic rank 
+ταξινομάδα, ταξινομική ομάδα, ταξινομική 
+κατηγορία, ταξινομική βαθμίδα 
+tectite 
+τηκτίτης 
+tectonic 
+τεκτονικός 
+tectonic breccia 
+τεκτονικό λατυποπαγές 
+tectonic contact 
+τεκτονική επαφή 
+tectonic sole 
+τεκτονικό πέλμα 
+tectonic underplating 
+τεκτονική υποεπίστρωση, τεκτονική υποφλοιική 
+επίστρωση 
+tectonic window 
+τεκτονικό παράθυρο 
+tectonics {MW: structural features as a whole...} 
+τεκτονική {ουσ.} 
+tectonism {MW: process of deformation that produces...} 
+τεκτονισμός 
+tectonized, tectonised 
+τεκτονισμένος 
+tectonosomes {pl.} 
+τεκτονοσώματα {τα} 
+telogenesis 
+τελογένεση 
+telogenetic 
+τελογενετικός 
+telogenetic porosity 
+τελογενετικό πορώδες 
+telogenetically 
+τελογενετικώς 
+temperature range 
+θερμοκρασιακό εύρος 
+tempestite 
+τρικυμίτης 
+tensile, extensional 
+εφελκυστικός 
+terra rossa 
+ερυθρογή, ερυθροχώματα 
+terrace 
+αναβαθμίδα 
+terrane 
+τεκτονοστρωματογραφικό πεδίο 
+ 
+36 
+ 
+terrestrial, (land ...) 
+χερσαίος 
+Tertiary 
+Τριτογενές 
+tertiary1 
+τριτεύων 
+tertiary2 
+τριτογενής 
+test 
+κέλυφος 
+tethyan {adj., depr. tethysian} 
+τηθύειος, τηθύιος 
+Tethyide, pl. Tethyides {n., depr. Tethyside-Tethysides} 
+Τηθυΐς, Τηθυΐδα, πλ. Τηθυΐδες 
+texture 
+υφή 
+thallus 
+θαλλός 
+thalweg, talweg 
+μισγάγκεια {εσφ. μισγάγγεια, βλ. L&S} 
+thanatocoenosis, thanatocenosis, 
+thanatocenose 
+θανατοκοινωνία 
+Thanetian 
+Θανέτιο 
+thermal plume 
+θερμικό λοφίο 
+thermocline {n.} 
+θερμοκλινές, θερμόκλινο {ουσ., το} 
+thick-bedded 
+παχυστρωματώδης 
+thin-bedded 
+λεπτοστρωματώδης 
+thinning 
+απολέπτυνση 
+thrust 
+εφίππευση 
+Thuringian 
+Θουρίγγιο 
+tidal-flat 
+παλιρροϊκό πεδίο 
+titanite, sphene 
+τιτανίτης 
+Tithonian 
+Τιθώνιο 
+Toarcian 
+Τοάρσιο, Τοάρκιο 
+toe of slope 
+ακροδάκτυλο κλιτύος 
+torrential 
+χειμάρριος 
+Tortonian 
+Τορτόνιο 
+tourism geology 
+τουριστική γεωλογία 
+Tournaisian 
+Τουρναίσιο 
+trachyte 
+τραχείτης 
+trachytic 
+τραχειτικός 
+trade winds 
+αληγείς άνεμοι 
+transcription {biol.} 
+μεταγραφή 
+transform fault 
+ρήγμα μετασχηματισμού 
+transgression 
+επίκλυση 
+transgressive 
+επικλυσιγενής 
+transitional layers, transitional beds {pl.} 
+στρώματα μεταβάσεως {πληθ.} 
+transmissivity  
+μεταβιβαστικότητα, διαβιβαστικότητα 
+transpression 
+διασυμπίεση 
+ 
+37 
+ 
+transpressional 
+διασυμπιεστικός 
+transtension 
+διεφελκυσμός 
+transtensional 
+διεφελκυστικός 
+transtensional margin 
+διεφελκυστικό περιθώριο 
+transverse fault 
+εγκάρσιο ρήγμα 
+trap {petroleum geology} 
+παγίδα {γεωλογία πετρελαίου} 
+travertine {< Ital. travertino; a continental species of tufa} 
+τραβερτίνης, ηπειρογενής πωρόλιθος 
+tremolite 
+τρεμολίτης (o) 
+trench 1 
+τάφρος 
+trench 2 
+διόρυγμα 
+Triassic {n. & adj.} 
+Τριαδικό {ουσ.}, τριαδικός {επίθ.} 
+tributary 
+παραπόταμος 
+tributary valley 
+κοιλάδα παραπόταμου, δευτερεύουσα κοιλάδα 
+triseriate 
+τρίσειρος 
+trough 
+αύλακα 
+tsunami 
+τσουνάμι {το/τα, άκλιτο ιαπ. δάνειο} 
+tufa 
+πώρος, πωρόλιθος, πουρί 
+tuff 
+τόφφος 
+tuffite 
+τοφφίτης 
+turbidity current 
+τυρβιδικό ρεύμα, τουρβιδιτικό ρεύμα, ρεύμα 
+θολότητας 
+Turolian 
+Τουρόλιο 
+Turonian 
+Τουρόνιο {<Turŏnes} 
+Tuvalian 
+Τουβάλιο 
+two-mica gneiss 
+διμαρμαρυγιακός γνεύσιος 
+two-mica schist 
+διμαρμαρυγιακός σχιστόλιθος 
+type section 
+τυπική τομή, τυπική εμφάνιση 
+Tyrrhenian 
+Τυρρήνιο 
+ultramafic rock 
+υπερβασικό πέτρωμα 
+unconformably 
+ασυμφώνως, ασύμφωνα 
+unconformity 
+ασυμφωνία 
+underplating 
+υποεπίστρωση, υποφλοιική επίστρωση 
+underthrust, underthrusting 
+υπώθηση 
+undulated lamination 
+κυματοειδής ελασμάτωση 
+ungraded 
+αδιαβάθμητος 
+uniserial 
+μονόσειρος 
+uplift 
+ανύψωση 
+Upper Carboniferous 
+Ανώτερο Λιθανθρακοφόρο 
+Upper Cretaceous 
+Ανώτερο Κρητιδικό 
+ 
+38 
+ 
+Upper Devonian 
+Ανώτερο Δεβόνιο 
+Upper Eocene 
+Ανώτερο Ηώκαινο 
+Upper Jurassic or Malm 
+Ανώτερο Ιουρασικό, Μάλμιο 
+upper mantle plume 
+λοφίο ανώτερου μανδύα 
+Upper Miocene 
+Ανώτερο Μειόκαινο 
+Upper Oligocene 
+Ανώτερο Ολιγόκαινο 
+Upper Paleocene 
+Ανώτερο Παλαιόκαινο 
+Upper Permian 
+Ανώτερο Πέρμιο 
+Upper Pleistocene 
+Ανώτερο Πλειστόκαινο 
+Upper Pliocene 
+Ανώτερο Πλειόκαινο 
+Upper Triassic 
+Ανώτερο Τριαδικό 
+upthrow 
+άλμα (ρήγματος) 
+upthrow fault-block 
+ανεβασμένο ρηξιτέμαχος (ανερχόμενο χείλος 
+ρήγματος) 
+Uralian 
+Ουράλιο 
+urban geology 
+αστική γεωλογία 
+urban natural environment 
+αστικό φυσικό περιβάλλον 
+Urgonian {< Orgon < Urgonum} 
+Ουργκόνιο, Ουργόνιο 
+vadose silt 
+ιλύς κατεισδύσεως 
+Valanginian 
+Βαλανζίνιο 
+Vallesian 
+Βαλλέσιο 
+vein 
+φλέβα 
+vein swarm 
+σμήνος φλεβών 
+veinlet swarm 
+σμήνος φλεβιδίων 
+veinlet, venule 
+φλεβίδιο 
+Versilian 
+Βερσίλιο 
+vesicular 
+πομφολυγώδης 
+vesicular lava 
+πομφολυγώδης λάβα 
+vestibular 
+προθαλάμιος 
+vestibule 
+προθάλαμος 
+Villafranchian 
+Βιλλαφράγκιο 
+Villanian 
+Βιλλάνιο 
+Vindobonian 
+Βινδομπόνιο 
+Visean, Visian 
+Βίζιο, Βίσιο 
+volcanic 
+ηφαιστειακός 
+volcanic rifted margin 
+ηφαιστειακό σχισμένο περιθώριο 
+volcanism 
+ηφαιστειότητα 
+volcanite 
+ηφαιστίτης  
+volcano 
+ηφαίστειο 
+ 
+39 
+ 
+ 
+ 
+ 
+wackestone 
+wackestone {sic} 
+wall 
+τοίχωμα {τρηματοφ.} 
+water bearing {adj.} 
+υδροφόρος –α –ο {επίθ.} 
+watershed 
+υδροκρίτης 
+websterite 
+γουεμπστερίτης {< αγγλ. όν. Webster} 
+wehrlite 
+βερλίτης {<όν. Wehrle, γερμ. φωνητ.} 
+Wemmelian 
+Βεμμέλιο 
+Westphalian 
+Βεστφάλιο 
+wetland 
+υγρότοπος 
+wetland, wetland area 
+υγρότοπος 
+whorl {bot.} 
+σπονδύλωμα 
+whorl {bot.} 
+σπονδύλωμα 
+whorl {Dasycl.} 
+σπονδύλιο 
+whorl {zool.} 
+έλικας (οστράκου) 
+whorl, verticil {Dasycl.} 
+σπονδύλιο 
+Würm 
+Βούρμιος 
+xeric soil moisture regime 
+ξερικό εδαφικό υγρασιακό καθεστώς, 
+ξερικό καθεστώς εδαφικής υγρασίας 
+X-Ray Fluorescence, XRF 
+φθορισμός ακτίνων Χ, φθορισμομετρία ακτίνων 
+Χ 
+XRF-scan, X-Ray Fluorescence scan 
+σάρωση XRF, σάρωση φθορισμού ακτίνων Χ 
+Ypresian 
+Υπρέσιο 
+Zanclean 
+Ζάγκλιο 
+ABBREVIATIONS 
+ΣΥΝΤΟΜΟΓΡΑΦΙΕΣ 
+ 
+{ουσ.<επίθ.} ουσιαστικοποιημένο επίθετο 
+ 
+σημ.: σημείωση/σημασία 
+{adj.} adjective 
+{επίθ.} επίθετο 
+{biol.} biology, biological 
+{βιολ.} βιολογία, βιολογικός 
+{bot.} botany 
+{βοτ.} βοτανική 
+{chem.} chemistry 
+{χημ.} χημεία 
+{cryst.} crystallography 
+{κρυστ.} κρυσταλλογραφία 
+{Dasycl.} Dasycladales 
+{δασύκλ.} δασύκλαδα φύκη 
+{depr.} deprecated 
+{αδόκ.} αδόκιμος-η-ο 
+{ecol.} ecology 
+{οικολ.} οικολογία 
+{err.} erroneous 
+{εσφ.} εσφαλμένο 
+{evol.} evolution, evolutive 
+{εξέλ., εξελ.} εξέλιξη, εξελικτικός 
+ 
+40 
+ 
+ 
+{foram.} foraminifera 
+{τρηματοφ.} τρηματοφόρα 
+{geoph.} geophysics 
+{γεωφ.} γεωφυσική 
+{granulom.} granulometry 
+{κοκκομ.} κοκκομετρία 
+{Ital.} Italian 
+{ιταλ.} ιταλικά 
+{L&S} LIDDELL & SCOTT   
+Λεξικό της Αρχαίας Ελληνικής Γλώσσας 
+LIDDELL & SCOTT   
+{Lat.} Latin 
+{λατ.} λατινικά 
+{lith.} lithology 
+{λιθ.} λιθολογία 
+{min.} mineral, mineralogy 
+{ορυκτ.} ορυκτό, ορυκτολογία 
+{n.} noun 
+{ουσ.} ουσιαστικό 
+{o.c.} other cases 
+{ά.π.} άλλες περιπτώσεις 
+{paleont.} palaeontology 
+{παλαιοντ.} παλαιοντολογία 
+{physiol.} physiology 
+{φυσιολ.} φυσιολογία 
+{pl.} plural 
+{πληθ.} πληθυντικός 
+{pron.} pronunciation 
+{προφ.} προφορά 
+{speleol.} speleology 
+{σπηλ.} σπηλαιολογία 
+{t.} term 
+{ό.} όρος 
+{tect.} tectonics 
+{τεκτ.} τεκτονική 
+{us.pl.} usually plural 
+{συν.πληθ.} συνήθως πληθυντικός 
+{v.} verb 
+{ρ.} ρήμα 
+{zool.} zoology 
+{ζωολ.} ζωολογία 

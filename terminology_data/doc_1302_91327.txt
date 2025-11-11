@@ -1,0 +1,1058 @@
+SOURCE: http://www.eleto.gr/download/Conferences/13th%20Conference/Papers-and-speakers/13th_13_03_01_DoikasSpyros2_paper_V04_Teliko.pdf
+
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+193 
+13    Σύνταξη γερμανοελληνικού λεξικού 0,5 εκ. όρων με κύρια πηγή 
+την ΙΑΤΕ 
+ 
+Σπύρος Δόικας 
+ΠΕΡΙΛΗΨΗ 
+Η πολύγλωσση βάση δεδομένων της ΙΑΤΕ, προϊόν συγχώνευσης προγενέστερων βάσεων άνευ 
+τυπολογίας, πόσο μάλλον με κοινή τυπολογία, αποτελεί ένα ετερογενές σύμφυρμα όρων που απαιτεί 
+εκτενή και δραστική επιμέλεια, τόσο σε επίπεδο μεμονωμένων γλωσσών, όσο και σε επίπεδο 
+διαγλωσσικών ισοδυναμιών οι οποίες πολλές φορές πρέπει να επαναπροσδιοριστούν στις δίγλωσσες 
+αντιστοιχίσεις. Στην παρούσα εργασία περιγράφεται η εξαγωγή της βάσης και η δημιουργία ενός 
+γερμανοελληνικού λεξικού έχοντας την εν λόγω βάση ως κύρια πηγή, καθώς και τα προβλήματα που 
+αντιμετωπίστηκαν τόσο σε επίπεδο μεμονωμένης γλώσσας όσο και σε επίπεδο ισοδυναμιών. Μια 
+γενική ταξινόμηση των προβλημάτων που εντοπίστηκαν: 
+1. 
+Πολλοί γερμανικοί όροι εμφανίζονται με διφθόγγους αντί για umlaut (π.χ. «ae» αντί για «ä») 
+2. 
+Γερμανικοί όροι ουσιαστικά ταυτόσημοι όπου στη μία περίπτωση χρησιμοποιείται «ß» και 
+στην άλλη «ss» με διαφορετικές αποδόσεις 
+3. 
+Εσφαλμένη χρήση πεζοκεφαλαίων σε γερμανικούς όρους με αποτέλεσμα π.χ. ουσιαστικά να 
+ξεκινάνε με πεζό και ρήματα ή επίθετα με κεφαλαίο 
+4. 
+Αποδόσεις γερμανικών όρων με εσφαλμένο μέρος του λόγου στα ελληνικά  
+5. 
+Αποδόσεις γερμανικών όρων με ελλιπή μεταφορά οροστοιχείων στα ελληνικά ή το 
+αντίστροφο, δηλαδή υπομετάφραση ή υπερμετάφραση 
+6. 
+Διαφορετικές αποδόσεις γερμανικών όρων που παρουσιάζουν πολυτυπία (συνηθέστερα 
+διτυπία) όσον αφορά τη χρήση μίας λέξης ή δύο λέξεων με χρήση παύλας (Einzylindermotor / 
+Einzylinder-Motor) 
+7. 
+Επιμόλυνση της γερμανικής βάσης με πολυάριθμους αμετάφραστους όρους τρίτων γλωσσών 
+όπως αγγλικούς και γαλλικούς 
+8. 
+Χρήση συνεχόμενων κεφαλαίων (π.χ. για κύρια ονόματα, «CHARCOT Gelenk») 
+9. 
+Ανακριβείς (έως εντελώς άσχετες) αποδόσεις 
+10. Τυπογραφικά/Κατεστραμμένοι χαρακτήρες («angeschlagenes Åi») 
+11. Συνώνυμα διαχωρισμένα με ασαφή τρόπο 
+12. Απουσία διακριτικών («Olpumpe») 
+13. Κομμένες λέξεις («nfuhr oder Ausfuhr») 
+14. Σχόλια που εμφανίζονται ως όροι 
+Για τη δημιουργία του λεξικού δημιουργήθηκε ένα σενάριο ενεργειών (script) το οποίο δημιουργεί 
+ξεχωριστές στήλες για κάθε γλώσσα και ακρωνύμια γλώσσας και μετά την επιμέλεια ένα σενάριο 
+ενεργειών που έκανε συγχώνευση των διπλότυπων όρων για το συγκεκριμένο γλωσσικό ζεύγος. 
+Όταν ολοκληρώθηκε η επιμέλεια έγινε εισαγωγή του λεξικού σε διαδικτυακή εφαρμογή ελεύθερης 
+αναζήτησης. 
+ 
+An IATE-based German-Greek dictionary of 0.5 million terms 
+ 
+Spiros Doikas 
+ABSTRACT 
+The multilingual database of IATE, being the result of merging previous databases without a strict 
+typology, is a heterogeneous combination of terms that requires extensive and drastic editing, both at 
+the level of individual languages and at the level of interlingual equivalents that often need to be revised 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+194 
+for the creation of a bilingual dictionary. This paper describes the extraction of terms from the IATE .tbx 
+file and the creation of a German-Greek dictionary with IATE as its main source, as well as the 
+problems encountered both at the level of individual language processing and at the level of 
+equivalence. The problems identified are classified as follows (the list is not exhaustive by any means): 
+1. 
+Many German terms are spelled with diphthongs instead of umlaut (eg "ae" instead of "ä") 
+2. 
+German terms which are almost identical where in one case "ß" is used and in the other "ss" 
+with different meanings 
+3. 
+Incorrect use of uppercase letters in German terms resulting in e.g. basically start with 
+lowercase and verbs or adjectives with a capital 
+4. 
+German terms with incorrect part of speech equivalents in Greek 
+5. 
+German terms with incomplete transfer of term elements in Greek or vice versa, ie under-
+translation or over-translation 
+6. 
+Different equivalents for German terms with variation in the usage of hyphen 
+(Einzylindermotor / Einzylinder-Motor) 
+7. 
+Contamination of the German dataset with numerous untranslated third language terms such 
+as English and French 
+8. 
+Use of all caps (i.e. for proper names, "CHARCOT Gelenk") 
+9. 
+Incorrect or irrelevant equivalences 
+10. Typos and character corruption ("angeschlagenes Åi") 
+11. Synonyms with incorrect delimitation 
+12. Missing diacritics ('Olpumpe') 
+13. Cut-off words ("nfuhr oder Ausfuhr") 
+14. Comments appearing as terms 
+Two scripts were developed: a) a script which would place each language and language acronyms in 
+different columns; and after the first stage of manual editing, b) a script that merged duplicate terms. A 
+second editing stage followed and when it was completed the dictionary was imported into a database 
+for online search. 
+ 
+0   Εισαγωγή 
+Εκτελώντας αναζητήσεις στον γλωσσικό συνδυασμό Γερμανικά → Ελληνικά στη βάση ΙΑΤΕ, 
+διαπιστώνει κανείς μια σειρά προβλημάτων που αφορούν 1) τους γερμανικούς όρους  
+καθεαυτούς 2) τους ελληνικούς όρους καθεαυτούς 3) τις αντιστοιχίσεις Γερμανικά → 
+Ελληνικά.  
+Όσον αφορά τους ελληνικούς όρους έχει γίνει εκτενής ανάλυση των προβλημάτων στην 
+εργασία: «Ποιοτικός έλεγχος των ελληνικών αποδόσεων στην ορολογική βάση ΙΑΤΕ»1. 
+1   Προβλήματα σε γερμανικούς όρους και σε ισοδυναμίες με τα ελληνικά 
+Στην παρούσα εργασία το επίκεντρο είναι οι γερμανικοί όροι και τα προβλήματα ισοδυναμίας 
+που προκύπτουν σε αντιστοιχίσεις με τα ελληνικά. Έγινε μια απόπειρα ταξινόμησης αυτών 
+των προβλημάτων σε 14 κατηγορίες. 
+                                                 
+1  5η Συνάντηση Εργασίας Ελληνόφωνων Μεταφρασεολόγων. Στα αγγλικά: QA and optimization of 
+the Greek entries in the IATE tbx export - https://www.translatum.gr/etexts/greek-iate-qa.htm 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+195 
+1.1   Δίφθογγοι αντί για umlaut 
+Πολλοί γερμανικοί όροι στη βάση εμφανίζονται με διφθόγγους αντί για umlaut. Το 
+αποτέλεσμα είναι να υπάρχουν πολλοί διπλότυποι όροι (με μόνη διαφορά την ύπαρξη 
+διφθόγγου αντί για umlaut), οι οποίοι, αφού διορθωθούν θα πρέπει να συγχωνευτούν. 
+Επομένως, έπρεπε να εντοπιστούν οι όροι που περιέχουν αυτούς τους συνδυασμούς και να 
+γίνει αντικατάσταση σύμφωνα με τον παρακάτω πίνακα. 
+ae → ä 
+Ae → Ä 
+oe → ö 
+Oe → Ö 
+ue → ü 
+Ue → Ü 
+ 
+Βέβαια, αν γινόταν αντικατάσταση απλά των εν λόγω συνδυασμών χωρίς να γνωρίζουμε σε 
+ποια λέξη γίνεται η αντικατάσταση ενδεχομένως θα είχαμε και δημιουργία πολλών 
+ανύπαρκτων λέξεων. 
+Μερικά παραδείγματα εντολών εύρεσης/αντικατάστασης που χρησιμοποιήθηκαν: 
+Abfaelle → Abfälle 
+aeftigun → äftigun 
+aehrung → ährung 
+aeussere → äußere 
+ditaet → dität 
+Flaeche → Fläche 
+fuer → für 
+Kuehl → Kühl 
+kuehler → kühler 
+kuenstlich → künstlich 
+maessig → mäßig 
+Rohrbuendel → Rohrbündel 
+saeure → säure 
+waerme → wärme 
+zusaetzlich → zusätzlich 
+ 
+Παραδείγματα με ζεύγη όρων: 
+Bandwoelbung 
+ταινία στρογγυλεμένη στο κέντρο 
+Bandwölbung 
+καμπυλότητα ζώνης ενέργειας 
+angemessene Verguetung 
+λογική αμοιβή 
+angemessene Vergütung 
+δικαία αμοιβή, εύλογος αμοιβή 
+Aufenthaltsverguetung 
+αποζημίωση διαμονής 
+Aufenthaltsvergütung 
+έξοδα διαμονής 
+Antriebsraeder 
+κινητήριοι τροχοί 
+Antriebsräder 
+τροχοί ώθησης 
+Andere Siedlungsabfaelle 
+andere Siedlungsabfälle 
+Buchstütze 
+βιβλιοστάτης 
+Buchstuetze 
+πλάγιο υποστήριγμα βιβλίων 
+Maigloeckchen 
+κομβαλλαρία του Μαΐου, άνθεμις 
+Maiglöckchen 
+άγριος κρίνος, κρινάκι 
+ 
+1.2   Διτυπία «ß» και «ss» 
+Γερμανικοί όροι ουσιαστικά ταυτόσημοι (όπου στη μία περίπτωση χρησιμοποιείται «ß» και 
+στην άλλη «ss») με διαφορετικές αποδόσεις: 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+196 
+Abschlußplatte 
+πλάκα κλεισίματος 
+Abschlussplatte 
+τελικό πέταλο 
+Achselschweiß 
+υπερίδρωση μασχαλών, ιδρώτας 
+μασχάλης 
+Achselschweiss 
+μασχαλιαία εφίδρωση, μασχαλιαία 
+εφίδρωσις 
+positive Maßnahme 
+θετική διάκριση 
+positive Massnahme 
+θετική δράση 
+dauer-kurzschlussstrom 
+στατικό ρεύμα βραχυκύκλωσης 
+Dauerkurzschlußstrom 
+μόνιμο ρεύμα βραχυκύκλωσης 
+Mahlfeinheitsmeßgerät 
+μετρητής λεπτότητας άλεσης 
+Mahlfeinheit-Messgerät 
+καλίμπρα λεπτότητας, μετρητής 
+λεπτότητας 
+Neutronenüberschuß 
+πλεόνασμα νετρονίων 
+Neutronenüberschuss 
+περίσσεια νετρονίων 
+ 
+1.3   Εσφαλμένη χρήση σε αρχικό κεφαλαίο ή πεζό γράμμα 
+Αρκετές φορές η χρήση των πεζοκεφαλαίων είναι εσφαλμένη με αποτέλεσμα π.χ. 
+ουσιαστικά να ξεκινάνε με πεζό και ρήματα ή επίθετα με κεφαλαίο (εξαιρούνται φυσικά 
+πολυλεκτικά ονόματα όπως «Amerikanische Kleine Maräne» τα οποία εμπίπτουν στον 
+κανόνα2 περί χρήσεως κεφαλαίων σε επίθετα που αποτελούν μέρος σύνθετου ονόματος). 
+Π.χ. 
+Ουσιαστικά με πεζό: 
+arbeitspunkt 
+arbeitswerte von spannung 
+und stromstaerke 
+ablation 
+abbrenn-laengenverlust 
+abdrueckversuch für 
+nahtschweissungen 
+abfanggabel 
+angewandte seismik 
+seismische 
+lagerstaettenforschung 
+praktische seismik 
+aliquot 
+abweichung von der Dicke 
+abweichung von der 
+rechtwinkligkeit 
+allgemeine schweissbarkeit 
+anstossen → επίκληση 
+empfänger → δέκτης 
+erster finder 
+glycerin 
+glycerol 
+gluehofen (αντί για: Glühofen) hängekompass 
+haupt-portier 
+heizflamme 
+heizkörper für 
+sauerstoffdruckregler 
+herd 
+                                                 
+2  140) Adjektive und Partizipien, die Bestandteil eines geografischen Namens sind, werden 
+großgeschrieben. Das gilt auch für inoffizielle Namen […] 142) Die von geografischen Namen 
+abgeleiteten Adjektive auf -isch schreibt man klein, außer wenn sie Teil eines Namens sind 
+(https://www.duden.de/sprachwissen/rechtschreibregeln/namen#D140) 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+197 
+hilfssperre 
+höchst-kurzschlussleistung 
+imprägnierung mit 
+kohlensäur 
+löslichkeitsgrenze des 
+azetylens 
+mastweiden 
+palettisieren → φόρτωση 
+σε παλέτα 
+palettieren → φόρτωση σε 
+παλέτα 
+preisfestsetzung → 
+καθορισμό των τιμών 
+prüfung → δοκιμή αντοχής 
+στη στρέβλωση 
+punktelektrode mit 
+aussenkegel 
+punktschweissgerät mit 
+stosselektrode 
+punktschweisseinrichtung 
+mit kapazitiver speicherung 
+punktschweisseinrichtung 
+mit kinetischer 
+energiespeicherung 
+putzer → καθαριστής 
+reglerklappen-druckstift 
+rohrschleuse 
+zentralversorgungsanlage     verteilbatterie 
+ 
+Επίθετα με κεφαλαίο: 
+Algorithmische Sprache 
+Andere Siedlungsabfaelle 
+Genetische Ressourcen 
+Geographische Projektion 
+Geologischer Prozess 
+Geologische Katastrophe 
+ 
+Ρήματα με κεφαλαίο: 
+Entschlüsseln 
+αποκρυπτογραφώ 
+Dechiffrieren 
+αποκρυπτογραφώ 
+Entziffern 
+αποκρυπτογραφώ 
+ 
+1.4   Αποδόσεις με εσφαλμένο μέρος του λόγου 
+Αποδόσεις γερμανικών όρων με εσφαλμένο μέρος του λόγου στα ελληνικά (λόγω χρήσης 
+των αγγλικών όρων ως αναφορά για την απόδοση). Για παράδειγμα: 
+Abschraegung Schraege → αντέρεισμα, γωνιοτομώ 
+Εν προκειμένω δεν στέκει το ρήμα, αν δούμε όμως και τα αγγλικά είναι και ρήμα και 
+ουσιαστικό. 
+Ausblendung → σβήνω, φοντύ 
+Στο παραπάνω το ρήμα δεν αντιστοιχεί με τον γερμανικό όρο (θα έπρεπε να είναι 
+«σβήσιμο») και το «φοντύ» είναι άσχετο. 
+ausblühen 
+εξάνθηση, εξάνθιση (αντί για: ανθίζω, 
+εξανθώ) 
+ausdämpfen 
+αποστείρωση με ατμό 
+Avance 
+προσεγγίζω 
+chemorezeptiv 
+χημειοϋποδοχέας (αντί για: 
+χημειοϋποδεκτικός) 
+fetotoxisch 
+ουσία τοξική για τα έμβρυα (αντί για: 
+εμβρυοτοξικός) 
+Integrationsstufe 
+κατασκευάζω 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+198 
+ 
+1.5   Ελλιπής μεταφορά οροστοιχείων 
+Αποδόσεις γερμανικών όρων με ελλιπή μεταφορά οροστοιχείων στα ελληνικά ή το 
+αντίστροφο, δηλαδή υπομετάφραση ή υπερμετάφραση (η οποία καθίσταται ακόμη πιο 
+προβληματική αν γίνει αντιστροφή γλωσσικού ζεύγους): 
+ 
+1.5.1   Υπομετάφραση 
+Absorption in der Flamme 
+απορρόφηση (αντί για «απορρόφηση 
+στη φλόγα») 
+Änderung in einem Speicher 
+τροποποιώ 
+Basis der Zahlendarstellung 
+βάση (αντί για «βάση αρίθμησης») 
+Besserstellung der defavorisierten Klassen 
+βελτίωση 
+Durchbiegung eines Isolators 
+βέλος 
+Energieabsorption 
+απορρόφηση 
+Erschöpfung durch hohe Arbeitsbelastung 
+υπερκόπωση 
+Funktionssicherheit 
+αξιοπιστία (αντί για: λειτουργική 
+αξιοπιστία) 
+Geltendmachung der Ansprüche 
+αξίωση (αντί για: άσκηση αξίωσης) 
+Getriebeglied 
+στοιχείο 
+Haltbarkeit der Bananen 
+χρόνος συντήρησης σε ράφια (αντί για: 
+χρόνος συντήρησης των μπανανών σε 
+ράφια) 
+Ingenieurmodell 
+πρότυπο 
+Isolierkörper 
+σώμα 
+Kapitalbeschaffungskosten 
+έξοδα 
+kaskadierende Fehlermeldung 
+καταρράκτης (αντί για: καταρράκτης 
+μηνυμάτων σφάλματος) 
+Kassenbestände 
+διαθέσιμα (αντί για: ταμειακά διαθέσιμα) 
+kinematisches Glied 
+στοιχείο 
+Kommissionsbeauftragter 
+εκπρόσωπος 
+Koppelung von Überspannungen 
+σύζευξη 
+Lagerbedingungen 
+όροι, συνθήκες 
+Löschung von Zertifikaten 
+διαγραφή 
+Löschung von Kyoto-Einheiten 
+ακύρωση 
+Luftkissenbalg 
+σάκος 
+magnetostriktiver Lautsprecher 
+πιεζομαγνητικό 
+natürliche Zuckerstoffe 
+γλυκαντικά 
+optische Übersichtweite 
+ανύψωση 
+optische Untersichtweite 
+βύθιση 
+Palette mit freier Einfahröffnung 
+παλέτα 
+Preisklasse 
+κατηγορία 
+radioaktive Zerfallskonstante 
+σταθερά 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+199 
+quadratische Bananenanpflanzung 
+φύτευση σε τετράγωνα 
+Sägeblattdicke 
+πάχος 
+sägezahnförmiges Blech 
+άλμα 
+Sämischgerbung der Häute und Felle 
+δέψη με λάδι 
+Scheinwerferbetätigungseinrichtung 
+χειριστήριο 
+Schürzenfinger 
+δάκτυλο (αντί για: δάκτυλο ποδιάς 
+αερόστρωμνου) 
+Sicherung der Durchhaltefähigkeit 
+διατήρηση (αντί για: διατήρηση της 
+βιωσιμότητας) 
+Sicherheitszertifikation 
+πιστοποίηση 
+Zertifikation des Systems 
+πιστοποίηση 
+Strahlungsempfänger 
+αποδέκτης (αντί για: αποδέκτης 
+ακτινοβολίας) 
+Strahlungsexposition 
+έκθεση (αντί για: έκθεση ακτινοβολίας) 
+Strahlungs-Keule 
+λοβός, λωβός (αντί για: λοβός 
+ακτινοβολίας) 
+Streustrahlausbreitung 
+διάχυση 
+theoretische Dauerfestigkeit für unendliche 
+Wechsel-oder Schwellenzahl 
+θεωρητικό όριο κόπωσης 
+thermisch erzeugter Sprung 
+ράγισμα, χαραγή (αντί για: θερμικά 
+επαγόμενο ράγισμα, θερμικά 
+επαγόμενη χαραγή θερμικής 
+αιτιολογίας, ράγισμα, χαραγή θερμικής 
+αιτιολογίας) 
+unimodale Verteilung 
+μονοκόρυφη (αντί για: μονοκόρυφη 
+κατανομή) 
+Vegetationsentwicklung 
+σειρά 
+Verzögerungsglied 
+κύκλωμα, μονάδα υστέρησης, στοιχείο 
+Waldbrandbekämpfung 
+κατάσβεσις 
+Waldbrandsektorleiter 
+αρχηγός τομέως 
+Waldbrandstreife gehen 
+περιπολώ 
+Wechselstrombelastung 
+φορτίο (αντί για: φορτίο 
+εναλλασσόμενου ρεύματος) 
+Wechselstromrauschtoleranz 
+περιθώριο θορύβου 
+Wechselstromrauschen 
+θόρυβος 
+Wechselstromverbraucher 
+φορτίο 
+Wetterwarndienst 
+υπηρεσία προειδοποιήσεως 
+Windgeschwindigkeitsabminderungsfaktor 
+φαινόμενο επιβράδυνσης 
+Windungshöhe, Steigungshöhe, Steighöhe, 
+Ganghöhe, Gewindesteigung 
+βήμα (αντί για: βήμα σπειρώματος 
+βίδας, βήμα βίδας) 
+Winzergenossenschaft 
+συνεταιρισμός (αντί για: συνεταιρισμός 
+αμπελοκαλλιεργητών) 
+(wirtschaftspolitische) Entscheidungsträger 
+Αρχή 
+Wohlbefinden des Tieres 
+ευζωία 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+200 
+Wohnkosten 
+έξοδα 
+Wohngebiet mit Verkehrsberuhigung 
+περιοχή κατοικιών με διευθετήσεις για 
+τη μείωση 
+zeitlich beschränkte Wertänderung 
+αλλαγή τιμής 
+Zentralbankpräsident 
+διοικητής 
+Zentrum für Fremdenverkehrswerbung 
+προβολή 
+Zerstäubungsstrahl 
+ψεκασμός 
+zweiarmiger Leuchter 
+κηροπήγιο 
+ 
+1.5.2   Υπερμετάφραση 
+nicht arbeiten 
+δεν εργάζομαι κατά τη διάρκεια των αργιών 
+Saisonkraft 
+αλλοδαπός εποχιακός εργαζόμενος 
+ 
+1.6   Πολυτυπία σε όρους με παύλα ή χωρίς 
+Διαφορετικές αποδόσεις γερμανικών όρων που παρουσιάζουν πολυτυπία (συνηθέστερα 
+διτυπία) όσον αφορά για παράδειγμα τη χρήση μίας λέξης ή δύο λέξεων με χρήση παύλας. 
+1.6.1   Διτυπία 
+Abspannisolator 
+μονωτήρας τανύσεως, μονωτήρας 
+αγκύρωσης 
+Abspann-Isolator 
+μονωτικό εξάρτημα 
+Einzylindermotor 
+κινητήρας μονού εμβόλου 
+Einzylinder-Motor 
+μονοκύλινδρος κινητήρας 
+Emitter-Anschluss 
+ακροδέκτης εκπομπού 
+Emitteranschluss 
+αγωγός εκπομπού, ακροδέκτης 
+εκπομπού, σύνδεση εκπομπού 
+Kontroll-Lampe 
+λυχνία ελέγχου 
+Kontrolllampe 
+λάμπα ελέγχου 
+Stand-by-Modus 
+κατάσταση αναμονής 
+Standby-Modus 
+κατάσταση ετοιμότητας 
+Lageplattform 
+σταθερή πλατφόρμα, σταθεροποιημένη 
+τράπεζα 
+Lage-Plattform 
+πλατφόρμα συσκευών καθορισμού στάσης 
+αεροσκάφους στην πτήση, πλατφόρμα 
+συσκευών στάσης 
+Lambdacyhalothrin 
+λ-κυαλοθρίνη 
+Lambda-Cyhalothrin 
+λ-cyhalothrin 
+Marker-Enzym 
+ένζυμο σήμανσης 
+Markerenzym 
+ενζυματικός δείκτης 
+Massen-Streukoeffizient 
+μερικός μαζικός συντελεστής εξασθένησης 
+Massenstreukoeffizient 
+συντελεστής μαζικής διάχυσης 
+Top-Down-Prinzip 
+εκ των άνω προς τα κάτω 
+Topdown-Prinzip 
+μέθοδος από το γενικό στο ειδικό 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+201 
+Tussah-Seide 
+μετάξι tussor 
+Tussahseide 
+μετάξι tussah 
+ 
+1.6.2   Τριτυπία 
+Bareboat Charter 
+Bareboatcharter 
+Bareboat-Charter 
+ 
+1.7   Αμετάφραστοι όροι 
+Επιμόλυνση της γερμανικής βάσης με πολυάριθμους αμετάφραστους όρους τρίτων 
+γλωσσών όπως αγγλικούς και γαλλικούς (ακόμη και αν εξαιρέσουμε τις περιπτώσεις 
+«γερμανοποιημένων» σε επίπεδο στίξης αγγλικών όρων) π.χ.: 
+ 
+1.7.1   Αγγλικά 
+ailanthus silk αντί για 
+Ailanthus-Seide 
+Aided Recall 
+Airborne-Fluorosensor 
+base of paper 
+best fit (αντί για: beste 
+Anpassung) 
+Belief Maintenance 
+blue annealing 
+blue baby 
+blue tongue 
+avoidance reaction 
+rub-off 
+beam search 
+cable railway 
+cable car 
+butcher's Pemphigus 
+bubble flow-meter 
+Bubble Chart 
+Bubble gum 
+bubble gum base 
+brittle diabetes 
+brick wall stop 
+Break-Even 
+Break-even-point 
+bond warrant 
+black tongue 
+Black Rot 
+bioengineering 
+bumbershoot 
+body packer 
+Braun-Harrison heat 
+exchanger 
+bull trap 
+bulldog bond 
+bull spread 
+call for papers 
+callable swap 
+Call Tree 
+Call Graph 
+Call 
+Call-Admission-Control 
+captive public transport 
+passenger 
+Carrier sense 
+Carried Interest 
+cash and carry 
+Cash Bar 
+cash flow statement 
+case-work 
+certificates of accrual on 
+Treasury securities 
+come down 
+Compression chamber 
+compression casting 
+Concealment 
+cost of carry 
+country fund 
+Counts per minute 
+Counterpart 
+Count-down 
+Creation Unit 
+crystallinity 
+crystal malt 
+Customs User Fees 
+Customer-Margin 
+Counseling 
+bumped top 
+Carrying-Charges 
+cashmere low woolen 
+cashmere worsted coating 
+chiffon twist 
+debt capitalization 
+Debt-Equity-Swap 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+202 
+Claudication distance 
+cleared signal 
+Closed system 
+Closed respiratory gas 
+system 
+Closed loop testing 
+Closed ecological system 
+cloud point 
+coast disease 
+cod bank 
+cod savings bank 
+Computer-listing (αντί για: 
+Programmausdruck) 
+Conditional Fee Agreement 
+Conditional Order 
+confounding 
+Congenital keratosis with 
+bullae 
+confusion Signal 
+Cone pump 
+Cortical activity 
+Cortico-hypothalamic 
+imbalance 
+Evoked potential 
+exit bond 
+Exit region 
+Fair Value 
+fail-safe sein 
+Fail-Soft 
+FD&C blue 1 
+FD&C red 3 
+FD&C yellow 5 
+FD&C yellow 6 
+Feature-Group-A 
+Fed Wire 
+Feeder 
+Feed-back 
+feed-lot 
+floating gate 
+Floating Barrier 
+freight collect 
+French Backed Twill 
+French Back 
+French Cashmere 
+French Combing Wool 
+French Worsted Yarn 
+full platform station 
+Full package-Franchise 
+fittings 
+Follow-up-study 
+grinder's asthma 
+Herringbone 
+internal fixation 
+interzonal travel time 
+interworking 
+light rail transit 
+Light-Loading-Area 
+Light-Trapping 
+limit-up 
+Limit-Test 
+Limit-Price 
+Limit-Order 
+listed call 
+Listed Put 
+Local-Line-Switch 
+Local-Bridge 
+Local-Management-Interface 
+Local-Subscriber-Switch 
+management information 
+Management Information 
+System 
+Management Port 
+Management-Audit 
+Least Cost Transportation 
+Planning 
+Leather Cloth 
+National Safety Council 
+national occupational 
+exposure limit 
+non-busy 
+non-leafing 
+non-normal control 
+non-persistent unslotted 
+SCMA 
+non-receipt notification 
+non-receipt field 
+non-underwritten facilities 
+overnight rate 
+overnight position 
+painting the tape 
+paraffine native 
+pinched loop 
+Pineapple 
+pinhole 
+quasi-biennial-oscillation 
+point follower control 
+Precipitable water 
+Projected-Benefit-Obligation 
+remedial teaching 
+route indicator 
+route indicator 
+route kilometres 
+step-plate junction 
+time signal 
+time slot 
+Time Spread 
+Tumor Antigen (ενώ δεν 
+υπάρχει η γερμανική εκδοχή: 
+Tumorantigen) 
+working balances 
+ 
+ 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+203 
+1.7.2   Γαλλικά 
+bruit d'airain 
+bruit de bois 
+bruit de caille 
+bruit de canon 
+bruit de chainon 
+bruit de clapotement 
+bruit de coin 
+bruit de craquement 
+bruit de cuir neuf 
+bruit de diable 
+bruit de drapeau 
+bruit de flot 
+bruit de flot ascitique 
+bruit de froissement 
+bruit de frôlement 
+bronchite silicotique 
+clou hémostatique 
+Dermatose figurée médio-
+thoracique Brocq 
+Eczème craquelé 
+Eczème canalé 
+Erysipélatoïde 
+staphylococcique erratique 
+grignons d'olives 
+Réaction cutanée 
+peu à peu 
+Poil 
+Poil crêpe 
+Point de Venise 
+Point d'Argentan 
+Point d'Alençon 
+ 
+ 
+1.7.3   Ιταλικά 
+carta speciale per filtri 
+carta speciale da filtro 
+giaconetta 
+ 
+1.7.4   Ισπανικά 
+peste loca 
+ 
+1.7.5   Λατινικά 
+cavus 
+Decidua compacta 
+Decidua ectopica 
+Decidua graviditatis 
+Decidua hyperplastica 
+tuberosa 
+Decidua marginalis 
+Decidua menstrualis 
+Decidua ovularis 
+Decidua polyposa 
+Decidua reflexa 
+Decidua sera 
+Decidua serotina 
+Decidua spongiosa 
+Decidua tuberosa et 
+polyposa 
+Decidua uterina 
+Decidua vera 
+Deciduosis ectopica 
+Confusio mentalis 
+consecutio temporum 
+ 
+ 
+ 
+1.7.5.1   Λατινικά με λάθος χρήση πεζού σε διώνυμα 
+ciconia abdimi 
+cichladusa guttata 
+circaetus cinereus 
+dendrocygna bicolor 
+dendropicos fuscescens 
+dioptrornis fischeri 
+emberiza flaviventris 
+emberiza tahapisi 
+eminia lepida 
+hoplopterus armatus 
+ 
+ 
+ 
+1.8   Χρήση συνεχόμενων κεφαλαίων 
+ASCHER Venen 
+Aschoff-FRAENKEL-FAHR 
+Knötchen 
+BOERNSTEIN Trias 
+bLINDSTICH 
+BRAVAIS-JACKSON Anfall 
+BIOERK-THORSON 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+204 
+CHARCOT Gelenk 
+CHARCOT Krankheit 
+CHARCOT Zonen 
+COSTELLO-DENT-
+Syndrom 
+CASSIDY-SCHOLTE 
+DEBRE MOLLARET 
+CLOUGH-RICHTER-
+Syndrom 
+VAN DER SCHEER 5-
+Tage-Fieber 
+KOEHLER MOUCHET-
+Syndrom 
+LAWRENCE Phänomen 
+MASUDA KITAHARA-
+Syndrom 
+MOTORBETRIEBENER 
+mECHANISMUS 
+OISHAUSEN-Operation 
+ 
+ 
+ 
+1.9   Ανακριβείς αποδόσεις 
+Atlantischer Schwertschwanz 
+καβούρι (αντί για: ξιφόσουρο, βασιλικός 
+κάβουρας) 
+Aufbereiten von Daten 
+συντάσσω (αντί για: επεξεργασία 
+δεδομένων) 
+Dauererdschluss 
+γείωση (αντί για: συνεχές σφάλμα γείωσης) 
+Einfuhr- und Vorratsstelle für 
+landwirtschaftliche Erzeugnisse 
+Ηνωμένο Βασίλειο 
+einen Wechsel protestieren 
+διαμαρτύρηση (αντί για: προβαίνω σε 
+διαμαρτύρηση συναλλαγματικής) 
+Einstellungspraktiken 
+πρακτικές (αντί για: πρακτικές 
+προσλήψεων) 
+eisenfreies Streichen 
+ο όρος δεν αποδίδεται στα ελληνικά 
+Elektrokinese 
+ηλεκτρο-όσμωση, ηλεκτροώσμωση 
+Euterviertel 
+τέταρτο | τμήμα (αντί για: τεταρτημόριο 
+μαστού) 
+Heredoretinopathia congenitalis 
+όργανα του Herff 
+Ingenieurmodell 
+πρότυπο 
+Interzeption 
+υδατοσυγκράτηση υπό φυτοκαλύψεως 
+Mensch-Maschine-
+Kommunikationssprache 
+δρομολογώ, δρόμος 
+Oesophagoskop 
+στήλη-πρότυπο (αντί για: οισοφαγοσκόπιο) 
+nicht programmierbare Geräte 
+κουτές συσκευές 
+frei programmierbar 
+έξυπνο 
+optisches Koma 
+ασύμμετρον ελάττωμα 
+Passagierkilometer 
+χιλιομετρικός επιβάτης 
+pathologischer Prozess 
+μη δίκαιη διαδικασία 
+Pentasaccharid 
+πενταολοσίδιο (αντί για: πεντασακχαρίτης) 
+Phasen-Demodulation 
+διευκρίνιση 
+Schweine-Campylobakteriose 
+καμπυλοβακτηρίωση των βοοειδών, 
+καμπυλοβακτηριδίαση των βοοειδών (αντί 
+για: ... των χοίρων) 
+Seelenachse 
+άξων της πυέλου (αντί για: ευθεία της 
+κάννης, άξονας διαμετρήματος) 
+Submikrometer-Technik 
+ετεροσύνδεση (αντί για: υπομικρομετρική 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+205 
+τεχνολογία) 
+Tetra-Pak-Methode 
+μέθοδος Tetra BRIK 
+tiefgefrierkonservierter Samen 
+σφαιρίδιο 
+verschüttetes OEl 
+όξινες αλκυλικές λάσπες (αντί για: 
+πετρελαιοκηλίδα) 
+Versicherungsbereich 
+τμήμα (αντί για: τομέας των ασφαλίσεων, 
+κλάδος των ασφαλίσεων, ασφαλιστικός 
+τομέας, ασφαλιστικός κλάδος) 
+visueller Referenzpunkt 
+οπτικό στοιχείο 
+Warteschaltung 
+προσκόληση [sic] (αντί για: κύκλωμα 
+διατήρησης, κύκλωμα συγκράτησης, 
+κύκλωμα παρεπιστάθμευσης, κύκλωμα 
+ειδικής αναμονής) 
+Wasserkelch 
+ποτήρι νερού (αντί για: κρυπτοκορίνη) 
+Wirkungsprofil 
+έντυπος αξιολόγησης (αντί για: έντυπο 
+αξιολόγησης) 
+Zollbeschau 
+επαλήθευση (αντί για: τελωνειακός 
+έλεγχος, τελωνειακή επιθεώρηση) 
+ 
+1.10   Τυπογραφικά/Κατεστραμμένοι χαρακτήρες 
+angeschlagenes Åi (αντί για 
+angeschlagenes Ei) 
+auf das Hδrten kann ein Anlassen oder 
+Entspannen folgen 
+arztliche Untersuchung (αντί για ärztliche) 
+Einrichtung zur automatische n 
+Registrierung von Verstoessen 
+Englisher Fuss (αντί για: Englischer) 
+fläche durchsch@nittliche Brandfläche 
+Beschwerde wegen Verstö@en gegen die 
+Verordnung 
+HΦhlenkregler 
+Hilfslei@tung 
+Halsbehang ï 
+hﾤmatisch hämatischer Minderwuchs 
+KeKllermeister 
+DavidoffZellen 
+in der Praxis ist zur Erstarrung eine 
+zeitliche Verzμgerung oder eine 
+Unterkühlung erforderlich 
+Infundibulum tubä uterinä 
+Infundibulum Falloppliä 
+konventionnelle Streckgrenze 
+naturreines Olivenμl extra 
+Preâkork 
+Verwaltunsgssekretär (αντί για: 
+Verwaltungssekretär) 
+Ziegenbockflavour → γεόση λιπαροό οξέος 
+ 
+ 
+1.11   Ασαφής οριοθέτηση συνωνύμων 
+großes oder Darmnetz → μείζον επιπλόο (αντί για: Darmnetz | großes Netz) 
+ 
+1.12   Απουσία διακριτικών 
+Olpumpe (αντί για: Ölpumpe) 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+206 
+ 
+1.13   Σχόλια που εμφανίζονται ως όροι 
+Private-Dial-Port|NT {USG} englische Bezeichnung im Deutschen üblich 
+ 
+1.14   Κομμένες λέξεις 
+nfuhr oder Ausfuhr zwischen den Mitgliedstaaten mittelbar beeinflussen → επηρεάζει άμεσα 
+τις εισαγωγές ή τις εξαγωγές μεταξύ των κρατών μελών 
+ 
+2   Εισαγωγή σε βάση δεδομένων και αναζήτηση 
+Όταν ολοκληρώθηκε η επεξεργασία των όρων έγινε εισαγωγή στην ενότητα Γερμανικά > 
+Ελληνικά3 του φόρουμ του Translatum. Παρακάτω ένα παράδειγμα αναζήτησης για τον όρο 
+Überwachung (οι πρώτοι όροι από τους 200+ που εμφανίζονται). Πατώντας σε ένα από το 
+κουμπιά στο επάνω μέρος ο χρήστης οδηγείται στα αποτελέσματα του αντίστοιχου 
+ιστότοπου. Εν προκειμένω, τα κουμπιά DE→EL εκτελούν αναζήτηση σε ΙΑΤΕ και Linguee. 
+ 
+ 
+ 
+Σπύρος Δόικας 
+Ιδρυτής της ελληνικής πύλης για τη μετάφραση translatum.gr  
+και του βίκι lsj.gr για τα αρχαία ελληνικά 
+Ηλ-ταχ.: translatum@translatum.gr  
+ 
+                                                 
+3  https://www.translatum.gr/forum/index.php?board=6.0 

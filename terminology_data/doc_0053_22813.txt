@@ -1,0 +1,21 @@
+SOURCE: https://eleto.gr/en/eleto/terminology-bodies/#content
+
+The terminology bodies of ELETO are: the General Scientific Board (GESY), the Collective Members (terminology committees and terminology groups) and  Special Terminology Groups.
+General Scientific Board of ELETO (GESY)
+Composition of GESY
+Annual Reports of GESY in PDF format
+Collective Members of ELETO
+MOTO (
+Permanent Group for Telecommunication Terminology
+)
+ELOT/TC48/WG1 (Working Group “
+Information Technology Terminology
+“)
+ELOT/TC21 (Technical Committee “
+Terminology – Language resources
+“)
+ELOT/TC2/WG5 (Working Group “
+Sound Insulation
+“)
+Special Terminology Groups of ELETO
+Special Terminology Groups are created for special cases.

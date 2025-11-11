@@ -1,0 +1,6731 @@
+SOURCE: http://www.eleto.gr/download/Bodies/COVID-19_ELETO-Glossaries.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+8 Φεβρουαρίου 2022 
+ 
+ 
+Αγγλοελληνικό και ελληνοαγγλικό γλωσσάριο όρων 
+της πανδημίας COVID-19 
+Έκδοση 13  (1397 λήμματα) 
+Εισαγωγή 
+Στα γλωσσάρια που περιλαμβάνονται στο παρόν κείμενο, τα οποία εξετάστηκαν και εγκρίθηκαν από το ΓΕΣΥ, 
+έχουν συμπεριληφθεί ισοδυναμίες όρων και φράσεων (αγγλικών – ελληνικών) που αφορούν – ως θέμα 
+(subject) – την πανδημία COVID-19 που προκλήθηκε από τον κορονοϊό SARS-Cov-2 και, ως εκ τούτου, δεν 
+ανήκουν – αυστηρά – σε ένα μόνο θεματικό πεδίο (subject field). Στο τέλος του παρόντος αναγράφονται οι 
+πηγές αναφοράς από τις οποίες αντλήθηκαν οι όροι· πολλές από αυτές είναι παράλληλα κείμενα (ελληνικά –
+ αγγλικά) του Εθνικού Οργανισμού Δημόσιας Υγείας (ΕΟΔΥ) που έχουν αναρτηθεί στον ιστότοπό του 
+(https://eody.gov.gr/eody/). Με εξαίρεση τις περιοδικές προφορικές ενημερωτικές ανακοινώσεις του ΕΟΔΥ 
+και του Υπουργείου Υγείας, σε καθεμιά από τις πηγές αναφοράς, δίνεται και ο υπερσύνδεσμος που οδηγεί στο 
+σχετικό διαδικτυακό ηλεκτρονικό αρχείο. 
+Σε ελάχιστους από τους ελληνικούς ισοδύναμους όρους έγινε τροποποίηση ή προσθήκη, από το ΓΕΣΥ, κυρίως 
+λόγω εμφανούς αναντιστοιχίας ή λάθους. Ειδικά, σχετικά με την πολυτυπία της ισοδυνάμησης του αγγλικού 
+όρου coronavirus με τους ελληνικούς τύπους: κορονοϊός, κοροναϊός, κορωνοϊός, κορωναϊός, το ΓΕΣΥ 
+έχει κρίνει (με τεκμηριωμένο σκεπτικό) ότι και οι τέσσερις τύποι είναι αποδεκτοί, αλλά – με τα σημερινά 
+δεδομένα – θεωρεί προτιμώμενο όρο τον πρώτο από αυτούς (κορονοϊός). Επομένως, αυτός ο τύπος 
+χρησιμοποιείται και σε όλους τους πολυλεκτικούς όρους που περιέχουν τη λέξη ως συνθετικό. 
+Ιστορικό των εκδόσεων των Γλωσσαρίων 
+Έκδοση 
+Ημερομηνία 
+Αριθμός λημμάτων 
+1 
+14/04/2020 
+102 
+2 
+28/04/2020 
+511 
+3 
+31/05/2020 
+615 
+4 
+13/07/2020 
+752 
+5 
+29/09/2020 
+888 
+6.1 
+28/01/2021 
+1034 
+6.2 
+09/03/2021 
+1052 
+7 
+22/04/2021 
+1092 
+8 
+04/05/2021 
+1138 
+9 
+15/06/2021 
+1173 
+10 
+15/07/2021 
+1223 
+11 
+28/09/2021 
+1306 
+12 
+21/12/2021 
+1357 
+13 
+08/02/2022 
+1397 
+ 
+Α.   Αγγλοελληνικό γλωσσάριο   σελ.   3 
+B.   Ελληνοαγγλικό γλωσσάριο. σελ. 46 
+E 
+Λ 
+Ε  Τ  Ο 
+L 
+E 
+ 
+2 
+ 
+Κενή σελίδα 
+ 
+3 
+ 
+Α.   Αγγλοελληνικό γλωσσάριο 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+14-day quarantine 
+καραντίνα 14 ημερών 
+Access to COVID-19 Tools Accelerator, 
+ACT 
+Επιταχυντής πρόσβασης στα εργαλεία κατά της 
+COVID-19, ACT 
+Accident & Emergency Dept, A&E 
+Τμήμα Επειγόντων Περιστατικών, ΤΕΠ 
+accordion lockdown, lockdown 
+accordion 
+ανοιγοκλείσιμο ακορντεόν, λοκντάουν ακορντεόν 
+acellular part of blood 
+ακυτταρικό μέρος του αίματος 
+active case 
+ενεργό κρούσμα 
+active case finding 
+ανεύρεση ενεργών κρουσμάτων 
+active substance 
+δραστική ουσία, ενεργός ουσία, ενεργή ουσία 
+acute COVID-19 
+οξεία COVID-19 
+acute respiratory distress syndrome 
+σύνδρομο οξείας αναπνευστικής δυσχέρειας 
+acute respiratory infection, ARI 
+οξεία λοίμωξη του αναπνευστικού, οξεία αναπνευστική 
+λοίμωξη 
+adenovirus 
+αδενοϊός 
+adenovirus 26 
+αδενοϊός 26 
+adenovirus 5 
+αδενοϊός 5 
+adherence to chronic medication 
+regimen 
+συμμόρφωση στη χρόνια φαρμακευτική αγωγή 
+adherence to parents 
+προσκόλληση στους γονείς 
+adjuvant {n.} 
+ανοσοενισχυτικό 
+administer intramuscularly 
+χορηγώ ενδομυϊκά 
+administrative sanctions 
+διοικητικές κυρώσεις 
+advanced healthcare system 
+προηγμένο σύστημα υγειονομικής περίθαλψης 
+advanced purchase agreement 
+συμφωνία προαγοράς 
+adverse event following immunisation, 
+AEFI 
+ανεπιθύμητη ενέργεια μετά την 
+ανοσοποίηση 
+adverse event, adverse reaction 
+ανεπιθύμητη ενέργεια, ανεπιθύμητη αντίδραση 
+adverse side effect 
+ανεπιθύμητη παρενέργεια 
+advice for travellers 
+οδηγίες για ταξιδιώτες 
+aerosol 
+αερόλυμα 
+afebrile 
+απύρετος 
+age distribution of cases 
+ηλικιακή κατανομή κρουσμάτων 
+age distribution of confirmed cases 
+ηλικιακή κατανομή των επιβεβαιωμένων κρουσμάτων 
+age group 
+ηλικιακή ομάδα 
+ 
+4 
+Αγγλικός όρος 
+Ελληνικός όρος 
+age-disaggregated data 
+ηλικιακά αναλυμένα δεδομένα, ηλικιακά αναλυτικά 
+δεδομένα, ηλικιακά αποσυγκεντρωτικά δεδομένα 
+age-expected CFR 
+αναμενόμενος κατά ηλικία CFR 
+age-specific CFR 
+ειδικός κατά ηλικία CFR 
+age-specific share of cases 
+ειδικό κατά ηλικία μερίδιο κρουσμάτων 
+age-standardized CFR 
+τυποποιημένος κατά ηλικία CFR 
+aggregate data 
+αθροιστικά δεδομένα, συγκεντρωτικά δεδομένα 
+airborne infection 
+αερόφερτη λοίμωξη, αερομεταδιδόμενη λοίμωξη, 
+αερογενής λοίμωξη {ατυχής όρος} 
+airborne precautions 
+προφυλάξεις έναντι αερόφερτων 
+airborne transmission 
+αερόφερτη μετάδοση 
+airport ground personnel 
+προσωπικό εδάφους αεροδρομίων 
+airport health authority 
+υγειονομική αρχή αεροδρομίου 
+airport health check station 
+αεροϋγειονομείο 
+airport health supervisor 
+υγειονομικός υπεύθυνος αεροδρομίου 
+airway 
+αεραγωγός 
+alcohol anticeptic 
+αλκοολούχο αντισηπτικό 
+alcohol solution 
+αλκοολούχο διάλυμα 
+allergy 
+αλλεργία 
+alpha variant 
+παραλλαγή Άλφα 
+alternative communication modes 
+εναλλακτικοί τρόποι επικοινωνίας 
+ambient temperature 
+θερμοκρασία περιβάλλοντος 
+amino acid 
+αμινοξύ 
+amplification of viral spread 
+ενίσχυση εξάπλωσης του ιού 
+anakinra 
+ανακίνρα 
+anaphylaxis 
+αναφυλαξία 
+anatomic pathologist 
+παθολογοανατόμος 
+anatomic pathology 
+παθολογοανατομία 
+angiotensin II 
+αγγειοτενσίνη ΙΙ 
+animal-to-human transmission 
+μετάδοση από ζώο σε άνθρωπο 
+announcement of cases 
+ανακοίνωση κρουσμάτων 
+anosmia 
+ανοσμία 
+antiallergic property 
+αντιαλλεργική ιδιότητα 
+antibody level 
+επίπεδο αντισωμάτων 
+antibody response 
+αντισωματική απόκριση, αδόκ. αντισωματική 
+ανταπόκριση 
+antibody test 
+δοκιμή αντισωμάτων, δοκιμασία αντισωμάτων, τεστ 
+αντισωμάτων 
+ 
+5 
+Αγγλικός όρος 
+Ελληνικός όρος 
+antibody to SARS-CoV-2, antibody to 
+severe acute respiratory syndrome 
+coronavirus 2 (substance), antibody to 
+severe acute respiratory syndrome 
+coronavirus 2 
+αντίσωμα κατά του SARS-CoV-2, αντίσωμα κατά του 
+κορονοϊού 2 σοβαρού οξέος αναπνευστικού συνδρόμου 
+(ουσία), αντίσωμα κατά του κορονοϊού 2 σοβαρού οξέος 
+αναπνευστικού συνδρόμου 
+anticipate the likely CFR 
+προλαμβάνω τον ενδεχόμενο CFR 
+anticoagulant 
+αντιπηκτικό 
+antigen 
+αντιγόνο 
+antigen of SARS-CoV-2, antigen of 
+severe acute respiratory syndrome 
+coronavirus 2 (substance), antigen of 
+severe acute respiratory syndrome 
+coronavirus 2 
+αντιγόνο του SARS-CoV-2, αντιγόνο του κορονοϊού 2 
+σοβαρού οξέος αναπνευστικού συνδρόμου (ουσία), 
+αντιγόνο του κορονοϊού 2 σοβαρού οξέος αναπνευστικού 
+συνδρόμου 
+anti-inflammatory action 
+αντιφλεγμονώδης δράση 
+antipyretic 
+αντιπυρετικό 
+antiseptic 
+αντισηπτικό 
+antithrombotic treatment 
+αντιθρομβωτική αγωγή, αντιθρομβωτική θεραπεία 
+antitoxic property 
+αντιτοξική ιδιότητα 
+antiviral drug 
+αντιιικό φάρμακο 
+arbidol (broad-spectrum antiviral drug) 
+arbidol {αντιιικό ευρέος φάσματος} 
+area designated for the 
+accommodation of patients with 
+contagious diseases 
+ειδικά διαμορφωμένος χώρος υποδοχής ασθενών με 
+μεταδοτικό νόσημα 
+arterial hypertension 
+αρτηριακή υπέρταση 
+arthralgia, joint pain 
+αρθραλγία, πόνος αρθρώσεων 
+arthritis 
+αρθρίτιδα 
+artificial intelligence 
+τεχνητή νοημοσύνη 
+artificial intelligence algorithm, AI 
+algorithm 
+αλγόριθμος τεχνητής νοημοσύνης, αλγόριθμος AI 
+asparagine 501 
+ασπαραγίνη 501 
+assemblies 
+συναθροίσεις 
+AstraZeneca COVID-19 vaccine 
+εμβόλιο COVID-19 της AstraZeneca 
+asymptomatcic carrier, healthy carrier 
+ασυμπτωματικός φορέας, υγιής φορέας 
+asymptomatic 
+ασυμπτωματικός 
+asymptomatic case 
+ασυμπτωματικό κρούσμα 
+asymptomatic COVID-19 case 
+ασυμπτωματικό κρούσμα COVID-19 
+asymptomatic incubation period 
+ασυμπτωματική περίοδος επώασης 
+asymptomatic transmission 
+ασυμπτωματική μετάδοση 
+attack rate, rate of attack 
+δείκτης προσβολής, πηλίκο προσβολής 
+attend intervention programme 
+παρακολουθώ πρόγραμμα παρέμβασης 
+attenuated vaccine 
+εξασθενημένο εμβόλιο 
+ 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+authorisation procedure 
+διαδικασία έγκρισης 
+average age 
+μέση ηλικία 
+aviptadil 
+αβιπταντίλη 
+avoiding close contact (handshaking, 
+hugging and kissing) 
+αποφυγή στενής επαφής (χειραψίες, αγκαλιές και φιλιά) 
+avoiding contact with persons showing 
+infection symptoms 
+αποφυγή επαφής με άτομα που έχουν συμπτώματα 
+λοίμωξης 
+avoiding direct exposure to media for 
+younger kids 
+αποφυγή απευθείας έκθεσης των μικρών παιδιών στα 
+μέσα ενημέρωσης 
+avoiding touching eyes, nose and 
+mouth 
+αποφυγή αγγίγματος ματιών, μύτης και στόματος 
+avoiding touching the face 
+αποφυγή αγγίγματος του προσώπου 
+B.1.1.7 strain, B117 strain, Alpha strain 
+στέλεχος B.1.1.7, στέλεχος B117, στέλεχος Άλφα 
+bacterial spread 
+διασπορά βακτηρίων 
+bacterium {pl. bacteria} 
+βακτήριο, βακτηρίδιο 
+balanced diet 
+ισορροπημένη διατροφή 
+ban on large gatherings 
+απαγόρευση μεγάλων συγκεντρώσεων 
+ban on non-essential movement 
+απαγόρευση μη απαραίτητης μετακίνησης, απαγόρευση 
+μη ουσιώδους μετακίνησης, απαγόρευση άσκοπης 
+μετακίνησης 
+bank 
+τράπεζα 
+barber-shop 
+κουρείο 
+basic reproduction number, R0 
+βασικός αριθμός αναπαραγωγής, R0 
+basic vaccination 
+βασικός εμβολιασμός 
+basic vaccination scheme 
+βασικό σχήμα εμβολιασμού 
+be endemic 
+ενδημώ 
+beauty salon 
+κέντρο αισθητικής 
+behavioral difficulty 
+δυσκολία συμπεριφοράς 
+biological fluid, biofluid {saliva, blood 
+etc.} 
+βιολογικό υγρό {σάλιο, αίμα κ.α.} 
+Biomedical Research Foundation of 
+the Academy of Athens, BRFAA 
+Ίδρυμα Ιατροβιολογικών Ερευνών Ακαδημίας Αθηνών, 
+ΙΙΒΕΑΑ  
+Biontech-Pfizer COVID-19 Vaccine 
+εμβόλιο COVID-19 των Biontech-Pfizer 
+blood plasma 
+πλάσμα του αίματος 
+blood plasma injection 
+χορήγηση πλάσματος αίματος 
+blood pressure gauge 
+πιεσόμετρο 
+blood sample 
+δείγμα αίματος 
+blowing one’s nose 
+φύσημα της μύτης 
+body’s natural defense 
+φυσική άμυνα του σώματος 
+ 
+7 
+Αγγλικός όρος 
+Ελληνικός όρος 
+boost immune response {v.} 
+ενισχύω ανοσοαπόκριση, ενισχύω ανοσιακή απόκριση, 
+ενισχύω ανοσοποιητική απόκριση, ενισχύω ανοσολογική 
+απόκριση 
+booster dose of adenovirus 5 
+ενισχυτική δόση με τον αδενοϊό 5 
+booster vaccine 
+ενισχυτικό εμβόλιο 
+border station 
+συνοριακός σταθμός 
+bottom of the mask 
+κάτω μέρος της μάσκας 
+bronchoscope 
+βρογχοσκόπιο 
+bronchoscopy 
+βρογχοσκόπηση 
+build immunity 
+αναπτύσσω ανοσία, «χτίζω» ανοσία 
+build immunity to COVID-19 
+χτίζω ανοσία στην COVID-19 
+building immunity COVID-19 
+χτίσιμο ανοσίας στην COVID-19 
+Burdenko Central Military Clinical 
+Hospital 
+Κεντρικό Στρατιωτικό Κλινικό Νοσοκομείο Burdenko 
+burn-out syndrome, burnout syndrome 
+σύνδρομο της επαγγελματικής εξουθένωσης 
+burn-out, burnout 
+επαγγελματική εξουθένωση 
+cafeteria 
+καφετέρια, καφετερία 
+Cameroon variant, B.1.640.2 variant 
+παραλλαγή του Καμερούν, παραλλαγή B.1.640.2 
+cancer 
+καρκίνος 
+cancer under treatment 
+καρκίνος υπό αγωγή 
+cardiac magnetic tomography 
+μαγνητική τομογραφία καρδιάς 
+cardiopulmonary resuscitation 
+καρδιοαναπνευστική αναζωογόνηση 
+cardiotoxic 
+καρδιοτοξικό 
+cardiotoxicity 
+καρδιοτοξικότητα 
+cardiovascular disease 
+καρδιαγγειακό νόσημα 
+caregiver 
+φροντιστής, άτομο που φροντίζει ασθενή 
+case 
+κρούσμα, περιστατικό, περίπτωση 
+case cluster, cluster of cases 
+συστάδα κρουσμάτων, συρροή κρουσμάτων 
+case definition 
+ορισμός κρούσματος 
+case fatality rate, case fatality ratio, 
+CFR 
+δείκτης θνητότητας κρουσμάτων 
+cash desk 
+ταμείο 
+catering sector 
+τομέας εστίασης 
+cause illness 
+προκαλώ νόσο, προκαλώ ασθένεια 
+CD24 gene 
+γονίδιο CD24 
+cell culture 
+κυτταρική καλλιέργεια 
+cell death 
+κυτταρικός θάνατος 
+cell receptor 
+υποδοχέας κυττάρου 
+ 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+cell signaling pathway 
+μονοπάτι κυτταρικής σηματοδότησης 
+cellular immunity 
+κυτταρική ανοσία 
+cellular response 
+κυτταρική απόκριση 
+central political priority 
+κεντρική πολιτική προτεραιότητα 
+Centres for Disease Prevention and 
+Control, CDC 
+Κέντρα Πρόληψης και Ελέγχου Νόσων, CDC 
+chain of disease transmission 
+αλυσίδα μετάδοσης της νόσου 
+chain of infection 
+αλυσίδα μόλυνσης, αλυσίδα λοίμωξης 
+chain of transmission of infection 
+αλυσίδα μετάδοσης της λοίμωξης 
+chemical immunity 
+χημική ανοσία 
+chemotherapy 
+χημειοθεραπεία 
+chemotherapy 
+χημειοθεραπεία 
+child and adolescent mental health 
+specialist 
+ειδικός ψυχικής υγείας παιδιών και εφήβων 
+child mental health 
+ψυχική υγεία του παιδιού 
+child’s social relations network 
+δίκτυο των κοινωνικών σχέσεων του παιδιού 
+child’s therapist 
+θεραπευτής του παιδιού 
+child–parents communication 
+επικοινωνία του παιδιού με τους γονείς του 
+children’s imagination 
+φαντασία των παιδιών 
+children’s staying with their family and 
+parents 
+παραμονή των παιδιών κοντά στην οικογένεια και τους 
+γονείς τους 
+China’s National Health Commission 
+Εθνική Επιτροπή Υγείας της Κίνας 
+Chinese vaccine from CanSino 
+Biologics Inc. 
+κινεζικό εμβόλιο της CanSino Biologics Inc. 
+chloroquine phosphate 
+φωσφορική χλωροκίνη 
+chronic care facilities 
+ιδρύματα χρονίως πασχόντων 
+chronic heart disease 
+χρόνιο καρδιακό νόσημα, χρόνια καρδιοπάθεια 
+chronic illness 
+χρόνια νόσος, χρόνια ασθένεια 
+chronic kidney disease 
+χρόνια νεφροπάθεια 
+chronic lung disease 
+χρόνια πνευμονοπάθεια 
+chronic medication regimen 
+χρόνια φαρμακευτική αγωγή 
+chronic pulmonary disease 
+χρόνια πνευμονοπάθεια 
+chronic respiratory disease 
+χρόνιο αναπνευστικό νόσημα 
+chronic treatment 
+χρόνια θεραπεία 
+cinema 
+κινηματογράφος 
+classroom 
+αίθουσα διδασκαλίας 
+cleaning and disinfection of surfaces 
+καθαρισμός και απολύμανση επιφανειών 
+click away 
+πάρε έξω, παραλαβή εκτός 
+ 
+9 
+Αγγλικός όρος 
+Ελληνικός όρος 
+click in shop, click inside 
+παραλαβή εντός 
+clinical aggravation 
+κλινική επιδείνωση 
+clinical condition 
+κλινική εικόνα 
+clinical data 
+κλινικά δεδομένα 
+clinical improvement 
+κλινική βελτίωση 
+clinical monitoring 
+κλινική παρακολούθηση 
+clinical outcome 
+κλινική έκβαση 
+clinical practice 
+κλινική πρακτική, κλινική πράξη 
+clinical presentation  
+κλινική εικόνα 
+clinical sample 
+κλινικό δείγμα 
+clinical spectrum 
+κλινικό φάσμα 
+clinical study 
+κλινική μελέτη 
+clinical suspicion 
+κλινική υποψία 
+clinical symptom 
+κλινικό σύμπτωμα 
+clinical treatment 
+κλινική θεραπεία 
+clinical trial 
+κλινική δοκιμή 
+close contact 
+στενή επαφή 
+close contact (handshaking, hugging 
+and kissing) 
+στενή επαφή (χειραψίες, αγκαλιές και φιλιά) 
+close contact with a confirmed case 
+στενή επαφή με επιβεβαιωμένο κρούσμα 
+close contact with people 
+συγχρωτισμός 
+close down all non-essential shops 
+κλείσιμο όλων των μη απαραίτητων καταστημάτων, 
+κλείσιμο όλων των μη ουσιωδών καταστημάτων 
+closed community 
+κλειστή κοινότητα 
+closed environment 
+κλειστό περιβάλλον 
+closing schools and other institutions 
+κλείσιμο των σχολείων και λοιπών ιδρυμάτων 
+cloth face cover 
+υφασμάτινη μάσκα προσώπου, πάνινη μάσκα 
+προσώπου 
+cluster of pneumonia 
+συστάδα κρουσμάτων πνευμονίας, συρροή κρουσμάτων 
+πνευμονίας 
+coinfection 
+συλλοίμωξη 
+colchicine 
+κολχικίνη 
+colonize {v.} (e.g. colonize the nose) 
+αποικίζω (π.χ. αποικίζω τη μύτη) 
+combination of E484Q and L452R 
+mutations 
+συνδυασμός μεταλλάξεων E484Q και L452R 
+combination of shots 
+συνδυασμός δόσεων/εμβολίων 
+combination vaccine 
+συνδυαστικό εμβόλιο 
+common cold 
+κοινό κρυολόγημα 
+common detergent 
+κοινό απορρυπαντικό 
+ 
+10 
+Αγγλικός όρος 
+Ελληνικός όρος 
+common disinfectant 
+κοινό απολυμαντικό 
+common variant 
+κοινή παραλλαγή 
+communicable disease 
+μεταδοτική νόσος 
+communication via telephone, social 
+media, teleconferencing 
+επικοινωνία μέσω τηλεφώνου, μέσων κοινωνικής 
+δικτύωσης, τηλεδιασκέψεων 
+communication with a physician 
+επικοινωνία με ιατρό 
+community 
+κοινότητα 
+community dispersion 
+διασπορά στην κοινότητα 
+community immunity, herd immunity 
+ανοσία κοινότητας, συλλογική ανοσία, ανοσία αγέλης 
+community spread 
+εξάπλωση στην κοινότητα 
+community transmission 
+μετάδοση στην κοινότητα 
+complementary measure 
+συμπληρωματικό μέτρο 
+complication 
+επιπλοκή 
+compulsoriness of vaccination 
+υποχρεωτικότητα του εμβολιασμού 
+compulsory vaccination 
+υποχρεωτικός εμβολιασμός 
+computing cloud 
+υπολογιστικό νέφος 
+concealing the crisis 
+απόκρυψη της κρίσης 
+confirmed case of COVID-19  
+επιβεβαιωμένο κρούσμα της COVID-19 
+confirmed case of infection 
+επιβεβαιωμένο κρούσμα λοίμωξης 
+confirmed infection 
+επιβεβαιωμένη λοίμωξη 
+conjugate vaccine 
+συζευγμένο εμβόλιο 
+contact 
+επαφή 
+contact in an aircraft sitting within two 
+seats (in any direction) of the COVID-19 
+case 
+ταξιδιώτης στο ίδιο αεροσκάφος που κάθεται σε 
+απόσταση δύο θέσεων (προς οποιαδήποτε κατεύθυνση) 
+από περιστατικό COVID-19 
+contact precautions 
+προφυλάξεις επαφής 
+contact tracing 
+ιχνηλάτηση επαφών 
+contact transmission 
+μετάδοση (μέσω) επαφής 
+contact with animals 
+επαφή με ζώα 
+contact with high risk group persons 
+επαφή με άτομα που ανήκουν στις ευπαθείς ομάδες 
+contagious 
+μεταδοτικός 
+contagiousness 
+μεταδοτικότητα 
+containment 
+θωράκιση, αναχαίτιση 
+containment event 
+ενέργεια θωράκισης, ενέργεια αναχαίτισης 
+contaminated item 
+μολυσμένο αντικείμενο 
+contaminated surface 
+μολυσμένη επιφάνεια 
+contaminated waste 
+μολυσματικά απορρίμματα 
+contamination 
+μόλυνση1 
+ 
+11 
+Αγγλικός όρος 
+Ελληνικός όρος 
+contraindication 
+αντένδειξη 
+control arm, control group 
+ομάδα ελέγχου 
+controlled exposure to media 
+ελεγχόμενη έκθεση σε μέσα 
+convalescence from COVID-19, 
+recovery from COVID-19 
+ανάρρωση από COVID-19 
+convalescence time, recovery time 
+χρόνος ανάρρωσης 
+convalescent 
+αναρρωνύων, ασθενής σε ανάρρωση 
+convalescent plasma 
+αναρρωτικό πλάσμα 
+co-passenger 
+συνεπιβάτης 
+cordon sanitaire 
+υγειονομική ζώνη 
+corona debt 
+κορονοχρέος 
+coronaphobia 
+κορονοφοβία 
+coronary artery 
+στεφανιαία αρτηρία 
+coronavirus 
+κορονοϊός, κοροναϊός, κορωνοϊός, κορωναϊός 
+coronavirus case 
+κρούσμα κορονοϊού 
+coronavirus party, corona party 
+κορονοπάρτι 
+coronavirus strain, strain of 
+coronavirus 
+στέλεχος κορονοϊού 
+coronavirus’s aggressiveness 
+επιθετικότητα του κορονοϊού 
+corticosteroid 
+κορτικοστεροειδές 
+cotton cloth 
+βαμβακερό ύφασμα 
+cotton fabric 
+βαμβακερό ύφασμα 
+cough inside one’s elbow 
+βήχω στον αγκώνα μου 
+cough, coughing 
+βήχας 
+country's entry points 
+σημεία εισόδου στη χώρα, πύλες εισόδου στη χώρα 
+covering cough or sneeze with tissue 
+paper 
+κάλυψη του βήχα ή του φτερνίσματος με χαρτομάντιλο 
+covid kiss, post-covid kiss 
+κορονοφιλί, κορωνοφιλί 
+covid measures 
+μέτρα κατά της COVID-19, κορονόμετρα, κορωνόμετρα 
+COVID vaccine 
+εμβόλιο κατά της COVID-19 
+COVID-19 case fatality 
+θνητότητα κρουσμάτων COVID-19 
+COVID-19 case fatality rate, COVID-19 
+CFR 
+δείκτης θνητότητας κρουσμάτων COVID-19, CFR της 
+COVID-19 
+COVID-19 death  
+θάνατος από COVID-19 
+COVID-19 epidemic 
+επιδημία COVID-19 
+COVID-19 infection 
+λοίμωξη (από) COVID-19 
+COVID-19 pandemic 
+πανδημία COVID-19 
+COVID-19 patient 
+ασθενής με COVID-19 
+ 
+12 
+Αγγλικός όρος 
+Ελληνικός όρος 
+COVID-19 test positivity 
+θετικότητα της δοκιμής για COVID-19, θετικότητα του τεστ 
+για COVID-19 
+COVID-19 vaccine 
+εμβόλιο κατά της COVID-19, εμβόλιο COVID-19 
+COVID-19 vaccine booster shot 
+αναμνηστική δόση εμβολίου κατά της COVID-19 
+COVID-19 Vaccines Global Access 
+facility, COVAX 
+Μηχανισμός παγκόσμιας πρόσβασης σε εμβόλιο κατά 
+της COVID-19, COVAX 
+COVID-19, disease caused by severe 
+acute respiratory syndrome 
+coronavirus 2 (disorder), disease 
+caused by severe acute respiratory 
+syndrome coronavirus 2 
+COVID-19, ασθένεια/νόσος προκαλούμενη από κορονοϊό 
+2 που προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο 
+(διαταραχή), ασθένεια/νόσος προκαλούμενη από 
+κορονοϊό 2 που προξενεί σοβαρό οξύ αναπνευστικό 
+σύνδρομο 
+covidiot 
+κορονοηλίθιος, κορονόβλακας 
+crew member 
+μέλος πληρώματος 
+critical cases in hospital 
+νοσηλευόμενοι σε κρίσιμη κατάσταση 
+critical condition 
+κρίσιμη κατάσταση (υγείας) 
+critical period 
+κρίσιμη περίοδος 
+cross-contamination 
+διαμόλυνση 
+crowded open spaces 
+ανοιχτοί χώροι με συγχρωτισμό 
+cumulative distribution of confirmed 
+cases 
+αθροιστική κατανομή των επιβεβαιωμένων κρουσμάτων 
+CureVac's vaccine candidate against 
+COVID-19 
+υποψήφιο εμβόλιο COVID-19 της CureVac 
+cytokine 
+κυτοκίνη 
+cytokine release syndrome, CRS 
+σύνδρομο απελευθέρωσης κυτοκινών 
+daily change 
+ημερήσια μεταβολή 
+daily distribution of confirmed cases 
+ημερήσια κατανομή των επιβεβαιωμένων κρουσμάτων 
+daily epidemiological surveillance 
+report 
+ημερήσια έκθεση επιδημιολογικής επιτήρησης 
+data carrier 
+φορέας δεδομένων 
+day of vaccination 
+ημέρα του εμβολιασμού 
+death 
+θάνατος 
+death toll 
+φόρος αίματος 
+deaths of COVID-19 per million people 
+θάνατοι από COVID-19 ανά εκατομμύριο ανθρώπων 
+deaths per million people 
+θάνατοι ανά εκατομμύριο ανθρώπων 
+declare the suspected case 
+δηλώνω το ύποπτο κρούσμα 
+decontamination procedure 
+διαδικασία απολύμανσης 
+de-escalation of pandemic wave 
+αποκλιμάκωση του πανδημικού κύματος 
+definition of COVID-19 case 
+ορισμός κρούσματος COVID-19 
+deltoid 
+δελτοειδής 
+demographic study 
+δημογραφική μελέτη 
+ 
+13 
+Αγγλικός όρος 
+Ελληνικός όρος 
+denying the gravity of the pandemic 
+άρνηση της βαρύτητας της πανδημίας 
+detect the virus 
+ανιχνεύω τον ιό 
+detected case 
+ανιχνευμένο κρούσμα 
+detection of cases 
+ανίχνευση κρουσμάτων, ανίχνευση περιστατικών 
+detergent 
+απορρυπαντικό 
+deteriorating epidemiological situation 
+επιδεινούμενη επιδημιολογική κατάσταση 
+develop a fever 
+ανεβάζω πυρετό, αναπτύσσω πυρετό 
+develop antibodies 
+αναπτύσσω αντισώματα 
+develop symptoms of infection 
+εμφανίζω συμπτώματα λοίμωξης 
+developmental difficulty 
+αναπτυξιακή δυσκολία 
+dexamethasone 
+δεξαμεθαζόνη 
+dexamethasone 
+δεξαμεθαζόνη 
+diabetes mellitus 
+σακχαρώδης διαβήτης 
+diagnosed case 
+διαγνωσμένο κρούσμα 
+diagnostic laboratory 
+διαγνωστικό εργαστήριο 
+dialysis 
+αιμοκάθαρση 
+difficulty breathing, dyspnea 
+δυσκολία στην αναπνοή, δύσπνοια 
+direct contact 
+άμεση επαφή 
+direct contact transmission 
+μετάδοση (μέσω) άμεσης επαφής 
+direct contact with infectious 
+secretions of a COVID-19 case 
+άμεση επαφή με μολυσματικές εκκρίσεις περιστατικού 
+COVID-19 
+direct physical contact with a COVID-
+19 case 
+άμεση σωματική επαφή με περιστατικό COVID-19 
+disabling the coronavirus' specific 
+proteins 
+αδρανοποίηση των ειδικών πρωτεϊνών του κορονοϊού 
+disease control 
+έλεγχος της νόσου 
+disease incubation 
+επώαση της νόσου 
+disease incubation period 
+χρόνος επώασης της νόσου 
+disease outcome 
+έκβαση νόσου 
+disinfect 
+απολυμαίνω 
+disinfectant 
+απολυμαντικό 
+disinfection 
+απολύμανση 
+display of symptoms 
+εμφάνιση συμπτωμάτων 
+display signs and symptoms indicative 
+of ARI 
+εμφανίζω σημεία και συμπτώματα συμβατά με οξεία 
+αναπνευστική λοίμωξη 
+disposable gloves 
+γάντια μιας χρήσης 
+DNA sequencing 
+αλληλούχηση του DNA 
+DNA transcription 
+μεταγραφή του DNA 
+ 
+14 
+Αγγλικός όρος 
+Ελληνικός όρος 
+domestic case, non-visitor case 
+εγχώριο κρούσμα, μη εισαγόμενο κρούσμα 
+dominant strain 
+επικρατές στέλεχος, κυρίαρχο στέλεχος 
+donate reserved doses to lower and 
+middle-income countries 
+δωρίζω δεσμευμένες δόσεις σε χώρες χαμηλού και 
+μεσαίου εισοδήματος 
+dose dependent response 
+δοσοεξαρτώμενη απόκριση 
+dose of a vaccine 
+δόση εμβολίου 
+dosing error 
+σφάλμα δοσολογίας 
+drive through (rapid) test 
+διοχούμενη ταχυδοκιμή, διοχούμενη ταχυδοκιμασία, 
+διοχούμενο ταχυτέστ 
+droplet precaution 
+προφύλαξη από σταγονίδια 
+droplet transmission 
+μετάδοση (μέσω) σταγονιδίων 
+drug potency, potency of a drug 
+δραστικότητα φαρμάκου 
+dry cough 
+ξηρός βήχας 
+duration of immunity, immunity 
+duration 
+διάρκεια ανοσίας 
+dyspnea, difficulty breathing 
+δύσπνοια, δυσκολία στην αναπνοή 
+early detection 
+έγκαιρη ανίχνευση 
+economic cost of COVID-19 
+οικονομικό κόστος της COVID-19 
+economic recovery 
+οικονομική ανάκαμψη 
+educational activity 
+εκπαιδευτική δραστηριότητα 
+educational type activity 
+δραστηριότητα με εκπαιδευτικό χαρακτήρα 
+effective drug 
+αποτελεσματικό φάρμακο 
+effective prevention 
+αποτελεσματική πρόληψη 
+effective reproduction number, Rt 
+ενεργός αριθμός αναπαραγωγής, Rt 
+effective vaccine 
+αποτελεσματικό εμβόλιο 
+effective vaccine {against the disease} 
+αποτελεσματικό εμβόλιο {κατά της νόσου} 
+effectiveness 
+αποτελεσματικότητα 
+efficacy 
+δραστικότητα 
+elbow touch, elbow bump, elbow shake 
+αγκωναψία 
+elderly people, elders 
+ηλικιωμένα άτομα, ηλικιωμένοι 
+e-learning 
+ηλ-μάθηση, ηλεκτρονική μάθηση 
+elicit largest response 
+εγείρω μέγιστη απόκριση 
+elicit neutralizing antibodies 
+εγείρω την παραγωγή εξουδετερωτικών αντισωμάτων 
+elimination of infection 
+εξάλειψη της λοίμωξης 
+embarkation space 
+χώρος επιβίβασης 
+Emergency Support Instrument 
+Μέσο Στήριξης Έκτακτης Ανάγκης 
+emerging respiratory virus 
+αναδυόμενος αναπνευστικός ιός 
+emotional expression 
+έκφραση συναισθημάτων 
+ 
+15 
+Αγγλικός όρος 
+Ελληνικός όρος 
+emotional management 
+διαχείριση συναισθημάτων 
+empirical treatment 
+εμπειρική θεραπεία 
+enclosed public space 
+κλειστός δημόσιος χώρος 
+enclosed space 
+κλειστός χώρος 
+encouraging social distancing 
+ενθάρρυνση της κοινωνικής αποστασιοποίησης 
+encouraging working from home 
+ενθάρρυνση της εργασίας από το σπίτι 
+endemic 
+ενδημικός 
+endemic virus 
+ενδημικός ιός 
+endemicity 
+ενδημικότητα 
+endothelial damage 
+καταστροφή του ενδοθηλίου 
+endothelium 
+ενδοθήλιο 
+enhanced surveillance 
+ενισχυμένη επιτήρηση 
+enhancing EU economic and industrial 
+resilience and sovereignty 
+ενίσχυση της ευρωπαϊκής οικονομικής και βιομηχανικής 
+επανατακτικότητας και κυριαρχίας 
+entertainment sector 
+τομέας ψυχαγωγίας 
+entry screening 
+διαλογή εισόδου 
+epidemic 
+επιδημία 
+epidemic 
+επιδημικός, επιδημιακός 
+epidemic curve, epi curve 
+επιδημιακή καμπύλη, επιδημική καμπύλη 
+epidemic investigation 
+επιδημιολογική διερεύνηση 
+epidemic load 
+επιδημιολογικό φορτίο 
+epidemic outbreak 
+έκρηξη επιδημίας, ξέσπασμα επιδημίας 
+epidemicity 
+επιδημικότητα 
+epidemiological 
+επιδημιολογικός 
+epidemiological data, epidemiology 
+data 
+επιδημιολογικά δεδομένα 
+epidemiological evidence 
+επιδημιολογικά τεκμήρια, επιδημιολογικές ενδείξεις 
+epidemiological index 
+επιδημιολογικός δείκτης 
+epidemiological load 
+επιδημιολογικό φορτίο 
+epidemiological study 
+επιδημιολογική μελέτη 
+epidemiological surveillance 
+επιδημιολογική επιτήρηση 
+epidemiological surveillance report 
+έκθεση επιδημιολογικής επιτήρησης 
+epidemiology 
+επιδημιολογία 
+epidemiology data 
+επιδημιολογικά δεδομένα 
+equitable and affordable access 
+ισότιμη και οικονομικά προσιτή πρόσβαση 
+eradication 
+εκρίζωση 
+escape antibodies {v.} 
+διαφεύγω από τα αντισώματα 
+ 
+16 
+Αγγλικός όρος 
+Ελληνικός όρος 
+essential workers outside the health 
+sector {priority group} 
+βασικοί εργαζόμενοι εκτός του τομέα της υγείας {ομάδα 
+προτεραιότητας} 
+established safety procedures 
+προκαθορισμένες διαδικασίες ασφαλείας 
+EU health strategy 
+στρατηγική υγείας της ΕΕ 
+EU Recovery Fund 
+Ευρωπαϊκό Ταμείο Ανάκαμψης, Ευρωενωσιακό Ταμείο 
+Ανάκαμψης 
+EU Vaccines Strategy 
+στρατηγική της ΕΕ για τα εμβόλια 
+European Centre for Disease 
+Prevention and Control, European CDC 
+Ευρωπαϊκό Κέντρο Πρόληψης και Ελέγχου Νόσων, ECDC 
+European Mortality Monitoring, 
+EuroMOMO 
+Ευρωπαϊκή Παρακολούθηση της Θνησιμότητας, 
+EuroMOMO 
+European recovery from coronavirus 
+crisis 
+ευρωπαϊκή ανάκαμψη από την κρίση του κορονοϊού 
+EVA algorithm 
+αλγόριθμος EVA, αλγόριθμος ΕΥΑ 
+EVA project 
+έργο EVA, έργο ΕΥΑ 
+events 
+εκδηλώσεις 
+evolutionary landscape 
+εξελικτικό τοπίο 
+evolutionary path 
+εξελικτική οδός, εξελικτικό μονοπάτι 
+example for imitation 
+πρότυπο μίμησης 
+exhaling 
+εκπνοή 
+EXO-CD24 
+EXO-CD24 
+experimental vaccine 
+πειραματικό εμβόλιο 
+exploratory talks 
+διερευνητικές συνομιλίες 
+exponential growth in case numbers 
+εκθετική αύξηση του αριθμού κρουσμάτων 
+exponential growth rate 
+εκθετικός ρυθμός αύξησης 
+expose to the virus {pass. be exposed 
+to the virus} 
+εκθέτω στον ιό {παθ. εκτίθεμαι στον ιό} 
+exposure to a pathogen 
+έκθεση σε παθογόνο 
+exposure to SARS-CoV-2, exposure to 
+severe acute respiratory syndrome 
+coronavirus 2 (event), exposure to 
+severe acute respiratory syndrome 
+coronavirus 2 
+έκθεση σε SARS-CoV-2, έκθεση σε κορονοϊό 2 που 
+προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο (συμβάν), 
+έκθεση σε κορονοϊό 2 που προξενεί σοβαρό οξύ 
+αναπνευστικό σύνδρομο 
+exposure to the virus 
+έκθεση στον ιό 
+extensive and rigorous testing 
+εκτεταμένες και αυστηρές δοκιμές 
+extensive exposure 
+εκτεταμένη έκθεση 
+extracurricular group activities 
+εξωσχολικές ομαδικές δραστηριότητες 
+extubation 
+αποσωλήνωση, αποδιασωλήνωση 
+eye protection 
+οφθαλμική προστασία 
+face mask with rubber bands 
+μάσκα με ελαστικούς ιμάντες 
+ 
+17 
+Αγγλικός όρος 
+Ελληνικός όρος 
+face mask with ties 
+μάσκα με κορδόνια 
+face protection 
+προστασία προσώπου 
+face shield 
+προσωπίδα, ασπίδα προσώπου 
+facemask meant for a healthcare 
+worker 
+μάσκα προσώπου για υγειονομικό προσωπικό 
+face-to-face contact with a COVID-19 
+case within 2 metres and > 15 minutes 
+επαφή πρόσωπο με πρόσωπο με περιστατικό COVID-19 
+σε απόσταση μικρότερη των 2 μέτρων και για 
+περισσότερο από 15 λεπτά 
+fair access 
+ισότιμη πρόσβαση 
+fatal infection 
+θανατηφόρος λοίμωξη 
+fatality 
+θνητότητα 
+fatality rate 
+δείκτης θνητότητας 
+fatigue 
+καταβολή 
+fear 
+φόβος 
+feces 
+κόπρανα 
+fever 
+πυρετός 
+financial assistance 
+χρηματοοικονομική βοήθεια 
+fine 
+πρόστιμο 
+first COVID-19 death  
+πρώτος θάνατος από COVID-19 
+first dose of adenovirus 26 
+πρώτη δόση με τον αδενοϊό 26 
+first line of defense against infections 
+πρώτη γραμμή άμυνας κατά των λοιμώξεων 
+flatten the curve, plank the curve {Ca} 
+απλώνω την καμπύλη, οριζοντιώνω την καμπύλη, 
+χαμηλώνω την καμπύλη {Ca} 
+flattening the curve 
+άπλωμα της καμπύλης 
+flattening the curve of the pandemic 
+άπλωμα της καμπύλης της πανδημίας 
+fluid repellent 
+υγροαπωθητικό 
+flurona (< flu + corona) 
+κορονογρίπη 
+fluvoxamine 
+φλουβοξαμίνη 
+focus of transmission 
+εστία μετάδοσης 
+foot shake, foot-to-foot greeting, foot 
+tap, Wuhan shake 
+ποδαψία 
+free-time management 
+διαχείριση ελεύθερου χρόνου 
+freezing or deep-freezing conditions 
+συνθήκες ψύξης ή κατάψυξης 
+French–German Initiative for the 
+European recovery from coronavirus 
+crisis 
+Γαλλογερμανική Πρωτοβουλία για την ευρωπαϊκή 
+ανάκαμψη από την κρίση του κορονοϊού 
+front of the mask 
+μπροστινό μέρος της μάσκας 
+front-line staff 
+προσωπικό πρώτης γραμμής 
+functional immunity 
+λειτουργική ανοσία 
+ 
+18 
+Αγγλικός όρος 
+Ελληνικός όρος 
+future perspective 
+προοπτική για το μέλλον 
+Gamaleya Institute of Epidemiology 
+and Microbiology {in Moscow} 
+Ινστιτούτο Επιδημιολογίας και Μικροβιολογίας Gamaleya 
+{στη Μόσχα} 
+game 
+παιχνίδι 
+garbage bag 
+σακούλα απορριμμάτων 
+gatherings 
+συγκεντρώσεις 
+gender of COVID-19 fatalities 
+φύλο των θανόντων από COVID-19 
+gene 
+γονίδιο 
+general measures for prevention of 
+infection transmission 
+γενικά μέτρα πρόληψης μετάδοσης λοιμώξεων 
+generate an immune response 
+παράγω ανοσοαπόκριση, παράγω ανοσιακή απόκριση, 
+παράγω ανοσοποιητική απόκριση, παράγω ανοσολογική 
+απόκριση 
+genetic code 
+γενετικός κώδικας 
+genetic material 
+γενετικό υλικό 
+genome 
+γονιδίωμα 
+genome sequencing 
+αλληλούχηση του γονιδιώματος 
+genomic properties 
+γονιδιωματικές ιδιότητες 
+genomic surveillance 
+γονιδιωματική επιτήρηση 
+genomic surveillance network 
+δίκτυο γονιδιωματικής επιτήρησης 
+geographical dispersion 
+γεωγραφική διασπορά 
+geographical distribution 
+γεωγραφική κατανομή 
+geographical spread 
+γεωγραφική εξάπλωση 
+germ 
+μικροοργανισμός 
+get naturally diseased 
+νοσώ φυσικά 
+get vaccinated against COVID-19 
+εμβολιάζομαι κατά της COVID-19 
+getting naturally diseased 
+φυσική νόσηση 
+global pandemic 
+παγκόσμια πανδημία 
+good hygiene practice 
+καλή τήρηση των μέτρων υγιεινής 
+good sleep hygiene 
+καλή υγιεινή ύπνου 
+gradual lifting of measures 
+σταδιακή άρση των μέτρων 
+gradual return to normalcy 
+σταδιακή επιστροφή στην κανονικότητα 
+gradually building immunity 
+σταδιακή ανάπτυξη ανοσίας, σταδιακό «χτίσιμο» ανοσίας 
+gravity of the pandemic 
+βαρύτητα της πανδημίας 
+Greek national health system, ESY 
+Εθνικό Σύστημα Υγείας, ΕΣΥ 
+grocery 
+παντοπωλείο 
+group of viruses 
+ομάδα ιών 
+grow a variant in the laboratory 
+αναπτύσσω (μια) παραλαγή στο εργαστήριο 
+ 
+19 
+Αγγλικός όρος 
+Ελληνικός όρος 
+guidelines 
+κατευθυντήριες οδηγίες 
+hair salon 
+κομμωτήριο 
+hand disinfectant 
+απολυμαντικό χεριών 
+hand hygiene 
+υγιεινή των χεριών 
+hand sanitizer 
+απολυμαντικό χεριών 
+hand washing 
+πλύσιμο χεριών 
+handle specimens from COVID-19 
+cases 
+χειρίζομαι κλινικά δείγματα από περιστατικά COVID-19 
+handle the crisis 
+διαχειρίζομαι την κρίση 
+handling of suspected case of COVID-
+19 
+διαχείριση ύποπτου κρούσματος COVID-19 
+handling of suspected case of new 
+coronavirus SARS-CoV-2 infection 
+διαχείριση ύποπτου κρούσματος με λοίμωξη από το νέο 
+κορονοϊό SARS–CoV-2 
+haphephobia, haptephobia, 
+haptophobia 
+απτοφοβία, αφηφοβία 
+happy hypoxia, silent hypoxia 
+σιωπηλή υποξία 
+happy hypoxic 
+σιωπηλά υποξικός 
+health authority 
+υγειονομική αρχή 
+health condition 
+κατάσταση υγείας 
+health investigator 
+υγειονομικός ιχνηλάτης, υγειονομικός ερευνητής 
+health services 
+υπηρεσίες υγείας 
+health structure 
+δομή υγείας 
+healthcare crisis 
+κρίση υγειονομικής περίθαλψης 
+healthcare personnel 
+προσωπικό υπηρεσιών υγείας 
+healthcare professional 
+επαγγελματίας υγείας 
+healthcare protocol 
+υγειονομικό πρωτόκολλο 
+health-care service provision 
+παροχή υπηρεσιών υγείας 
+healthcare system 
+σύστημα υγειονομικής περίθαλψης, σύστημα υγείας 
+healthcare system capacity 
+δυναμικότητα συστήματος υγειονομικής περίθαλψης, 
+δυναμικότητα συστήματος υγείας 
+healthcare system saturation 
+κορεσμός συστήματος υγειονομικής περίθαλψης, 
+κορεσμός συστήματος υγείας 
+healthcare system saturation threshold 
+κατώφλιο κορεσμού συστήματος υγείας, όριο κορεσμού 
+συστήματος υγείας 
+healthcare unit 
+μονάδα υπηρεσιών υγείας, υγειονομική μονάδα 
+healthcare worker, HCW 
+επαγγελματίας υγείας, υγειονομικός 
+healthcare workers {priority group} 
+υγειονομικό προσωπικό {ομάδα προτεραιότητας} 
+healthy adult 
+υγιής ενήλικας 
+heart complication 
+καρδιακή επιπλοκή 
+ 
+20 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Hellenic Society of Immunology 
+Ελληνική Εταιρεία Ανοσολογίας 
+hematological cancer 
+αιματολογικός καρκίνος 
+hematopoietic cell transplant persons 
+άτομα με μεταμόσχευση αιμοποιητικών κυττάρων 
+hematopoietic cell transplantation, 
+HCT 
+μεταμόσχευση αιμοποιητικών κυττάρων 
+herd immunity 
+ανοσία της αγέλης, συλλογική ανοσία 
+herd immunity free rider 
+λαθρεπιβάτης της συλλογικής ανοσίας 
+herd immunity, community immunity 
+ανοσία αγέλης, ανοσία κοινότητας 
+heterologous prime-boost 
+ετερόλογη ενίσχυση 
+heterologous prime-boost 
+immunization 
+ανοσοποίηση με ετερόλογη ενίσχυση 
+heterologous prime-boost vaccination 
+εμβολιασμός με ετερόλογη ενίσχυση 
+heterologous strain 
+ετερόλογο στέλεχος 
+heterologous vaccination 
+ετερόλογος εμβολιασμός 
+heterologous vaccine 
+ετερόλογο εμβόλιο 
+high antibody level 
+υψηλό επίπεδο αντισωμάτων 
+high clinical suspicion 
+υψηλή κλινική υποψία 
+high fever 
+υψηλός πυρετός 
+high hazard activity 
+δραστηριότητα υψηλής επικινδυνότητας 
+high protection mask with an exhaling 
+valve 
+μάσκα υψηλής αναπνευστικής προστασίας με βαλβίδα 
+εκπνοής 
+high protection mask without an 
+exhaling valve 
+μάσκα υψηλής αναπνευστικής προστασίας χωρίς 
+βαλβίδα εκπνοής 
+high risk 
+υψηλή διακινδύνευση 
+high risk activity 
+δραστηριότητα υψηλής επικινδυνότητας 
+ορθότερο:δραστηριότητα υψηλής διακινδύνευσης 
+high risk patient 
+ασθενής υψηλής διακινδύνευσης, ασθενής υψηλού 
+κινδύνου 
+high-protection mask (FFP3) 
+μάσκα υψηλής αναπνευστικής προστασίας (FFP3) 
+high-risk group 
+ομάδα υψηλής διακινδύνευσης, ομάδα υψηλού κινδύνου, 
+ευπαθής ομάδα 
+high-risk occupation 
+επάγγελμα υψηλής διακινδύνευσης, επάγγελμα υψηλού 
+κινδύνου 
+HIV disease 
+νόσος HIV 
+home care 
+φροντίδα στο σπίτι 
+hospital 
+νοσοκομείο 
+Hospital Infections Control Committee 
+Επιτροπή Νοσοκομειακών Λοιμώξεων 
+hospital waiting room 
+αίθουσα αναμονής νοσοκομείου 
+hospitalization 
+νοσηλεία 
+hospitalized 
+νοσηλευόμενος 
+ 
+21 
+Αγγλικός όρος 
+Ελληνικός όρος 
+host cell 
+κύτταρο ξενιστής 
+household chlorine solution 
+διάλυμα οικιακής χλωρίνης 
+human clinical trials 
+κλινικές δοκιμές σε ανθρώπους 
+humoral immunity 
+χυμική ανοσία 
+hygiene measure 
+μέτρο υγιεινής 
+hyper-inflammatory syndrome 
+υπερφλεγμονώδες σύνδρομο 
+hypodermic administration 
+υποδόρια χορήγηση 
+hypoxemia 
+υποξαιμία, υποξυγοναιμία 
+hypoxia 
+υποξία 
+hypoxic 
+υποξικός 
+identification of suspected cases 
+αναγνώριση ύποπτων κρουσμάτων 
+identify cases 
+αναγνωρίζω κρούσματα 
+immediate oxygen therapy 
+άμεση οξυγονοθεραπεία 
+immune cell 
+ανοσοκύτταρο 
+immune escape 
+ανοσοδιαφυγή, ανοσολογική διαφυγή 
+immune escape mutation 
+μετάλλαξη ανοσοδιαφυγής, μετάλλαξη ανοσολογικής 
+διαφυγής 
+immune protection, immunoprotection 
+ανοσιακή προστασία, ανοσοπροστασία 
+immune response reactivation 
+επανενεργοποίηση της ανοσοαπόκρισης, αδόκ. 
+επανενεργοποίηση της ανοσοανταπόκρισης 
+immune response, immunoresponse 
+ανοσιακή απόκριση, ανοσοαπόκριση, αδόκ. 
+ανοσοανταπόκριση 
+immune system 
+ανοσοποιητικό σύστημα, ανοσιακό σύστημα 
+immune system suppression, 
+immunosuppression  
+καταστολή του ανοσοποιητικού συστήματος, 
+ανοσοκαταστολή 
+immunity 
+ανοσία 
+immunity loss 
+απώλεια ανοσίας 
+immunization 
+ανοσοποίηση 
+immunodeficiency 
+ανοσοανεπάρκεια 
+immunological memory, immune 
+memory, immunomemory 
+ανοσιακή μνήμη 
+immunologist 
+ανοσολόγος 
+immunoresponse, immune response 
+ανοσοαπόκριση, ανοσιακή απόκριση, ανοσοποιητική 
+απόκριση, ανοσολογική απόκριση 
+immunosuppression, 
+immunodepression 
+ανοσοκαταστολή 
+immunosuppressive property 
+ανοσοκατασταλτική ιδιότητα 
+immunotherapy 
+ανοσοθεραπεία 
+immunotropic therapy 
+ανοσοτροποποιητική θεραπεία 
+ 
+22 
+Αγγλικός όρος 
+Ελληνικός όρος 
+impact per country 
+αντίκτυπος ανά χώρα 
+implementation of measures against 
+spread of the disease 
+εφαρμογή μέτρων πρόληψης εξάπλωσης της νόσου 
+implementing standard precautions 
+εφαρμογή βασικών προφυλάξεων 
+imported case 
+εισαγόμενο κρούσμα 
+in vitro study 
+μελέτη in vitro 
+inactivated coronavirus 
+αδρανοποιημένος κορονοϊός 
+inactivated vaccine 
+αδρανοποιημένο εμβόλιο 
+incubation 
+επώαση 
+incubation period 
+περίοδος επώασης 
+index case 
+αρχικό κρούσμα, κρούσμα δείκτης 
+indian mutation 
+ινδική μετάλλαξη 
+indian variant 
+ινδική παραλλαγή 
+indication of transmission 
+ένδειξη μετάδοσης 
+indirect contact transmission 
+μετάδοση (μέσω) έμμεσης επαφής 
+infect 
+μολύνω 
+infected person 
+μολυσμένο άτομο 
+infectiologist, infectologist, infectious 
+disease physician, infectious disease 
+specialist 
+λοιμωξιολόγος 
+infectiology, infectology 
+λοιμωξιολογία 
+infection fatality ratio, IFR 
+δείκτης θνητότητας λοίμωξης 
+infection prevention and control, IPC 
+πρόληψη και έλεγχος λοίμωξης 
+infection rate 
+ρυθμός λοίμωξης, ρυθμός μόλυνσης 
+infection severity 
+βαρύτητα της λοίμωξης, σοβαρότητα της λοίμωξης 
+infection trajectory 
+τροχιά μόλυνσης 
+infection1 
+μόλυνση2 
+infection2 
+λοίμωξη 
+infectious agent 
+μολυσματικός παράγοντας, λοιμογόνος παράγοντας 
+infectious disease 
+μολυσματική νόσος 
+infective patient 
+μεταδοτικός ασθενής 
+influenza vaccine 
+αντιγριπικό εμβόλιο 
+infodemic 
+πληροφοριοδημία 
+Inhalation therapy 
+θεραπεία με εισπνεόμενα 
+inhaled budesonide 
+εισπνεόμενη βουδεσονίδη 
+inhaled drug 
+εισπνεόμενο φάρμακο 
+inhaled interferon-alpha, IFN-α 
+ιντερφερόνη-α υπό μορφή εισπνοών, IFN-α υπό μορφή 
+εισπνοών 
+ 
+23 
+Αγγλικός όρος 
+Ελληνικός όρος 
+injectable administration 
+ενέσιμη χορήγηση 
+injectable drug 
+ενέσιμο φάρμακο 
+injectable form 
+ενέσιμη μορφή 
+inpatient care 
+ενδονοσοκομειακή φροντίδα, ενδονοσοκομειακή 
+περίθαλψη 
+inside the elbow 
+με το εσωτερικό του αγκώνα 
+intense emotional response 
+έντονη συναισθηματική αντίδραση 
+intensifying controls 
+εντατικοποίηση των ελέγχων 
+intensive care 
+εντατική θεραπεία 
+intensive care unit, ICU 
+μονάδα εντατικής θεραπείας, ΜΕΘ 
+interferon 
+ιντερφερόνη 
+Interleukin 6, IL-6 
+ιντερλευκίνη 6 
+interpret facts 
+ερμηνεύω τα γεγονότα 
+intervention programme 
+πρόγραμμα παρέμβασης 
+intramuscular administration 
+ενδομυϊκή χορήγηση 
+intravenous administration 
+ενδοφλέβια χορήγηση 
+intubate 
+διασωληνώνω, ενσωληνώνω 
+intubated 
+διασωληνωμένος, ενσωληνωμένος 
+intubation 
+διασωλήνωση, ενσωλήνωση 
+investigational vaccine 
+υπό έρευνα εμβόλιο, υπό εξέταση εμβόλιο 
+in-vitro evidence 
+εργαστηριακά τεκμήρια, εργαστηριακές ενδείξεις 
+isolation 
+απομόνωση 
+isolation at home 
+απομόνωση στο σπίτι 
+isolation at the hospital 
+απομόνωση στο νοσοκομείο 
+isolation measure 
+μέτρο απομόνωσης 
+isopropyl alcohol 
+ισοπροπυλική αλκοόλη 
+Janssen COVID-19 vaccine 
+εμβόλιο COVID-19 της Janssen 
+Janssen Pharmaceutical Companies of 
+Johnson & Johnson 
+φαρμακευτικές εταιρείες Janssen της Johnson & Johnson 
+Johnson & Johnson vaccine 
+εμβόλιο της Johnson & Johnson 
+joint negotiation team 
+κοινή διαπραγματευτική ομάδα 
+killed or weakened form of the virus 
+νεκρή ή εξασθενημένη μορφή του ιού 
+kineret (active substance: anakinra) 
+kineret (δραστική ουσία: ανακίνρα) 
+lab test 
+εργαστηριακή δοκιμή, εργαστηριακή δοκιμασία, 
+εργαστηριακό τεστ 
+laboratory confirmation 
+εργαστηριακή επιβεβαίωση 
+laboratory confirmed case, laboratory-
+confirmed case 
+εργαστηριακά επιβεβαιωμένο κρούσμα 
+ 
+24 
+Αγγλικός όρος 
+Ελληνικός όρος 
+laboratory investigation 
+εργαστηριακός έλεγχος 
+laboratory investigation 
+εργαστηριακή έρευνα 
+laboratory sample 
+εργαστηριακό δείγμα 
+laboratory testing 
+εργαστηριακές δοκιμές, εργαστηριακή δοκιμασία, 
+εργαστηριακά τεστ 
+laboratory worker 
+εργαζόμενος σε εργαστήριο 
+large urban centre 
+μεγάλο αστικό κέντρο 
+large-scale clinical trials 
+κλινικές δοκιμές μεγάλης κλίμακας 
+large-scale COVID-19 vaccination 
+μεγάλης κλίμακας εμβολιασμός κατά της COVID-19 
+lethality of COVID-19 
+φονικότητα της COVID-19 
+licensed vaccine 
+αδειοδοτημένο εμβόλιο 
+life-threatening allergy 
+αλλεργία απειλητική της ζωής 
+lifting of measures 
+άρση μέτρων 
+limiting the spread of the virus 
+περιορισμός της εξάπλωσης του ιού 
+limits on crowd size 
+όρια στο πλήθος ατόμων 
+lineage P.1, Gamma lineage 
+στέλεχος P.1, στέλεχος Γάμμα {Βραζιλία} 
+lineage P.2, Zeta lineage 
+στέλεχος P.2, στέλεχος Ζήτα {Βραζιλία} 
+lineage P.3, Theta lineage 
+στέλεχος P.3, στέλεχος Θήτα {Φιλιππίνες} 
+lineage Β.1.1.7, Alpha lineage 
+στέλεχος B.1.1.7, στέλεχος Άλφα {ΗΒ} 
+lineage Β.1.351, Beta lineage 
+στέλεχος Β.1.351, στέλεχος Βήτα {Ν. Αφρική} 
+lineage Β.1.427/ Β.1.429, Epsilon 
+lineage 
+στέλεχος Β.1.427/ Β.1.429, στέλεχος Έψιλον {ΗΠΑ} 
+lineage Β.1.525, Eta lineage 
+στέλεχος Β.1.525, στέλεχος Ήτα {Πολλαχού} 
+lineage Β.1.526, Iota lineage 
+στέλεχος Β.1.526, στέλεχος Ιώτα {ΗΠΑ} 
+lineage Β.1.617, VUI-21APR-21 
+στέλεχος Β.1.617 
+lineage Β.1.617.1, Kappa lineage 
+στέλεχος Β.1.617.1, στέλεχος Κάππα {Ινδία} 
+lineage Β.1.617.2, Delta lineage 
+στέλεχος Β.1.617.2, στέλεχος Δέλτα {Ινδία} 
+linear scale 
+γραμμική κλίμακα 
+linen 
+λινό ύφασμα 
+lipid 
+λιπίδιο 
+live contact 
+διά ζώσης επαφή 
+local epidemic 
+τοπική επιδημία 
+local lockdown 
+τοπικό (γενικό) κλείσιμο 
+local transmission 
+τοπική μετάδοση 
+lockdown {n.} 
+γενικό κλείσιμο 
+lockdown {v.} 
+εφαρμόζω γενικό κλείσιμο 
+lockdown measures 
+μέτρα γενικού κλεισίματος 
+lockdown rules  
+κανόνες γενικού κλεισίματος 
+ 
+25 
+Αγγλικός όρος 
+Ελληνικός όρος 
+logarithmic scale 
+λογαριθμική κλίμακα 
+long COVID-19 
+χρόνια COVID-19 
+longCOVID syndrome 
+σύνδρομο χρόνιας COVID-19, σύνδρομο LongCOVID 
+lopinavir 
+λοπιναβίρη 
+lopinavir/ritonavir 
+λοπιναβίρη/ριτοναβίρη 
+low antibody level 
+χαμηλό επίπεδο αντισωμάτων 
+low clinical suspicion 
+χαμηλή κλινική υποψία 
+low hazard activity 
+δραστηριότητα χαμηλής επικινδυνότητας 
+low risk activity 
+δραστηριότητα χαμηλής επικινδυνότητας, ορθότερο: 
+δραστηριότητα χαμηλής διακινδύνευσης 
+lower respiratory tract 
+κατώτερη αναπνευστική οδός 
+lunch 
+μεσημεριανό γεύμα 
+lung 
+πνεύμονας 
+lung disease 
+πνευμονοπάθεια 
+lymphocytes 
+λεμφοκύτταρο 
+machine learning 
+μηχανομάθηση 
+main transmission 
+κύρια μετάδοση 
+making vaccination compulsory 
+υποχρεωτικοποίηση του εμβολιασμού 
+malady 
+νόσημα, ασθένεια 
+malignancy 
+κακοήθεια 
+manage the outbreak (of the pandemic) 
+διαχειρίζομαι την έκρηξη (της πανδημίας), διαχειρίζομαι 
+το ξέσπασμα (της πανδημίας) 
+mandatory isolation 
+υποχρεωτική απομόνωνση 
+mandatory quarantine 
+υποχρεωτική καραντίνα 
+mandatory use of face mask 
+υποχρεωτική χρήση μάσκας 
+mass events 
+μαζικές εκδηλώσεις 
+mass vaccination 
+μαζικός εμβολιασμός 
+mean incubation period 
+μέση περίοδος επώασης 
+means of mass transportation 
+μέσα μαζικής μεταφοράς, ΜΜΜ 
+measures against virus spreading 
+μέτρα κατά της εξάπλωσης του ιού 
+measures for preventing the 
+transmission and spread of the novel 
+coronavirus 
+μέτρα για την πρόληψη της μετάδοσης και εξάπλωσης 
+του νέου κορονοϊού 
+measures for prevention and control of 
+SARS-CoV-2 infection 
+μέτρα πρόληψης και ελέγχου της λοίμωξης από τον ιό 
+SARS–CoV-2 
+measures of self-protection 
+μέτρα ατομικής προστασίας 
+meat market 
+αγορά κρεάτων 
+meat product 
+προϊόν κρέατος 
+ 
+26 
+Αγγλικός όρος 
+Ελληνικός όρος 
+mechanical respiratory support, 
+mechanical ventilation 
+μηχανική αναπνευστική υποστήριξη, μηχανική 
+υποστήριξη αναπνοής 
+mechanical ventilator 
+μηχανικός αναπνευστήρας 
+median age 
+διάμεση ηλικία 
+median incubation period 
+διάμεση περίοδος επώασης 
+median recovery time 
+διάμεσος χρόνος ανάρρωσης 
+medical advice 
+ιατρικές συμβουλές 
+medical attention 
+ιατρική παρακολούθηση 
+medical equipment  
+ιατρικός εξοπλισμός 
+medical evaluation 
+ιατρική αξιολόγηση 
+medical insurance 
+ασφάλιση υγείας, ασφάλεια υγείας 
+medical staff 
+ιατρικό προσωπικό 
+medication 
+φαρμακευτική αγωγή 
+medicine side effect 
+παρενέργεια φαρμάκου 
+medium hazard activity 
+δραστηριότητα μέσης επικινδυνότητας 
+medium risk activity 
+δραστηριότητα μέσης επικινδυνότητας ορθότερο: 
+δραστηριότητα μέσης διακινδύνευσης 
+meeting room 
+αίθουσα συσκέψεων 
+meetings at friends’ houses 
+συναντήσεις σε σπίτια φίλων 
+meningitis vaccine 
+εμβόλιο (κατά) της μηνιγγίτιδας 
+mental disorder 
+νοητική δυσλειτουργία 
+mental health protection 
+προστασία της ψυχικής υγείας 
+MERS virus 
+ιός MERS 
+messenger RNA, mRNA 
+αγγελιαφόρο RNA, mRNA 
+microorganism 
+μικροοργανισμός 
+microscopic findings 
+μικροσκοπικά ευρήματα 
+microthrombosis 
+μικροθρόμβωση 
+mild adverse side effect 
+ήπια ανεπιθύμητη παρενέργεια 
+mild fever 
+ήπιος πυρετός, ελαφρύς πυρετός 
+mild flu symptoms 
+ήπια γριπώδη συμπτώματα 
+mild infection 
+ήπια λοίμωξη 
+mild side effect, minor side effect 
+ήπια παρενέργεια, ήσσων παρενέργεια 
+mild symptom 
+ήπιο σύμπτωμα, ελαφρύ σύμπτωμα 
+mild symptomatology 
+ήπια συμπτωματολογία 
+mild symptoms of respiratory infection 
+ήπια συμπτώματα λοίμωξης του αναπνευστικού 
+misinformation 
+παραπληροφόρηση 
+mitigation measures 
+μέτρα μετριασμού, μέτρα άμβλυνσης 
+mix-and-match vaccine combination 
+συνδυασμός διαφορετικών εμβολίων 
+ 
+27 
+Αγγλικός όρος 
+Ελληνικός όρος 
+moderate infection 
+μέτρια λοίμωξη 
+moderate risk 
+μέτρια διακινδύνευση 
+moderate to intensive physical practice 
+μέτρια έως έντονη φυσική άσκηση 
+Moderna COVID-19 vaccine 
+εμβόλιο COVID-19 της Moderna 
+molecular test 
+μοριακή δοκιμή, μοριακό τεστ, μοριακή δοκιμασία 
+molnupiravir 
+μολνουπιραβίρη 
+monitor one’s health 
+παρακολουθώ την υγεία κάποιου (ατόμου) 
+monitoring period 
+περίοδος παρακολούθησης 
+monoclonal antibody 
+μονόκλωνο αντίσωμα, μονοκλωνικό αντίσωμα 
+monoclonal antibody medicine 
+φάρµακο µονοκλωνικού αντισώµατος 
+morbidity 
+νοσηρότητα 
+mortality 
+θνησιμότητα 
+mortality risk, death risk 
+διακινδύνευση θανάτου, κίνδυνος θανάτου 
+mRNA shot 
+εμβόλιο mRNA 
+mRNA vaccine 
+εμβόλιο mRNA 
+Mu mutation {correctly: Mu variant} 
+μετάλλαξη Μι {το ορθό: παραλλαγή Μι} 
+Mu variant, Colombian variant 
+παραλλαγή Μι, κολομβιανή παραλλαγή 
+multi-dose vial 
+φιαλίδιο πολλών δόσεων, αδόκ. φιαλίδιο πολλαπλών 
+δόσεων 
+multi-systemic inflammatory syndrome 
+πολυσυστημικό φλεγμονώδες σύνδρομο 
+multi-use mask 
+μάσκα πολλαπλής χρήσης 
+muscle pain 
+μυαλγία 
+mutation 
+μετάλλαξη 
+mutation E484K, mutation Erik 
+μετάλλαξη E484K, μετάλλαξη Erik 
+mutation N501Y, mutation Nelly 
+μετάλλαξη N501Y, μετάλλαξη Nelly 
+nasal congestion 
+ρινική συμφόρηση 
+nasopharyngeal swab 
+ρινοφαρυγγικό επίχρισμα 
+National COVID-19 Vaccination 
+Registry 
+Εθνικό Μητρώο Εμβολιασμών κατά της COVID-19 
+National Genomic Surveillance 
+Network 
+Εθνικό Δίκτυο Γονιδιωματικής Επιτήρησης 
+national immunization programme 
+εθνικό πρόγραμμα ανοσοποίησης 
+national infection trajectory 
+εθνική τροχιά μόλυνσης 
+National Public Health Organization, 
+NPHO, EODY 
+Εθνικός Οργανισμός Δημόσιας Υγείας, ΕΟΔΥ 
+National Vaccination Committee, 
+National Committee for Vaccination 
+Εθνική Επιτροπή Εμβολιασμού 
+national vaccination plan 
+εθνικό σχέδιο εμβολιασμού 
+national vaccination programme 
+εθνικό πρόγραμμα εμβολιασμού 
+ 
+28 
+Αγγλικός όρος 
+Ελληνικός όρος 
+national vaccine strategy 
+εθνική στρατηγική για τα εμβόλια 
+natural antibodies 
+φυσικά αντισώματα 
+natural disease 
+φυσική νόσος 
+natural immunity 
+φυσική ανοσία 
+natural infection 
+φυσική μόλυνση, φυσική λοίμωξη 
+necessary actions 
+απαραίτητες ενέργειες 
+necessary confinement measures 
+αναγκαία μέτρα περιοριστικά της ελευθερίας 
+necessary physical activity 
+απαραίτητη φυσική δραστηριότητα 
+negative economic and social 
+consequences 
+αρνητικές οικονομικές και κοινωνικές επιπτώσεις 
+negative molecular test 
+αρνητική μοριακή δοκιμή, αρνητικό μοριακό τεστ, 
+αρνητική μοριακή δοκιμασία 
+negative pressure capsule 
+κάψουλα αρνητικής πίεσης, θαλαμίσκος αρνητικής 
+πίεσης 
+negative sample 
+αρνητικό δείγμα 
+negative test 
+αρνητική δοκιμή, αρνητική δοκιμασία, αρνητικό τεστ 
+negative-pressure room, negative-
+pressure chamber 
+θάλαμος αρνητικής πίεσης 
+neovascularization 
+νεοαγγείωση 
+nephropathy 
+νεφροπάθεια 
+neutralisation 
+εξουδετέρωση 
+new everyday routine 
+νέα καθημερινή ρουτίνα 
+NFκB pathway, NF-κB pathway 
+μονοπάτι (του) NFκB 
+NF-κB transcription factor 
+μεταγραφικός παράγοντας ΝF-κΒ 
+non-close contact 
+μη στενή επαφή 
+noncommunicable disease 
+μη μεταδοτική νόσος 
+non-compulsoriness of vaccination 
+μη υποχρεωτικότητα του εμβολιασμού 
+non-contact greeting 
+ανέπαφος χαιρετισμός 
+non-contagious 
+μη μεταδοτικός 
+non-essential movement 
+μη απαραίτητη μετακίνηση, μη ουσιώδης μετακίνηση, 
+άσκοπη μετακίνηση 
+non-essential shop 
+μη απαραίτητο κατάστημα, μη ουσιώδες κατάστημα 
+non-essential travel 
+μη ουσιώδες ταξίδι, μη απαραίτητο ταξίδι 
+non-invasive ventilation 
+μη επεμβατικός μηχανικός αερισμός 
+non-surgical mask 
+μη χειρουργική μάσκα 
+non-visitor case, domestic case 
+μη εισαγόμενο κρούσμα, εγχώριο κρούσμα 
+nosocomial infection 
+νοσοκομειακή λοίμωξη 
+novel coronavirus (COVID-19) 
+νέος κορονοϊός (της COVID-19) 
+novel coronavirus SARS-CoV-2 
+νέος κορονοϊός SARS-CoV-2 
+ 
+29 
+Αγγλικός όρος 
+Ελληνικός όρος 
+novel coronavirus SARS-CoV-2 
+infection 
+λοίμωξη από τον νέο κορονοϊό SARS-CoV-2 
+number of cases and fatalities 
+αριθμός κρουσμάτων και θανάτων 
+number of employees exposed to 
+infection 
+αριθμός υπαλλήλων που εκτίθενται στη λοίμωξη 
+number of hospitalized patients 
+αριθμός νοσηλευόμενων ασθενών, αριθμός 
+νοσηλευθέντων ασθενών 
+number of new cases 
+αριθμός νέων κρουσμάτων 
+number of tests per entry point 
+αριθμός δοκιμών ανά σημείο εισόδου, αριθμός των τεστ 
+ανά σημείο εισόδου 
+nursing home 
+μονάδα φροντίδας 
+obesity 
+παχυσαρκία 
+objectives of the EU Vaccine Strategy 
+στόχοι της στρατηγικής της ΕΕ για τα εμβόλια 
+observe the protocol 
+τηρώ το πρωτόκολλο 
+observed overall CFR 
+παρατηρούμενος ολικός CFR 
+officially certified laboratory 
+επίσημα πιστοποιημένο εργαστήριο 
+Omicron BA.1 sub-lineage, BA.1 sub- 
+lineage 
+υποστέλεχος Όμικρον ΒΑ.1 
+Omicron BA.1 sub-variant 
+υποπαραλλαγή Όμικρον ΒΑ.1 
+Omicron BA.2 sub-lineage, BA.2 sub-
+lineage 
+υποστέλεχος Όμικρον ΒΑ.2 
+Omicron BA.2 sub-variant 
+υποπαραλλαγή Όμικρον ΒΑ.2 
+Omicron variant 
+παραλλαγή Όμικρον 
+one’s doctor, treating physician 
+θεράπων ιατρός 
+one-dose COVID vaccine 
+μονοδοσικό εμβόλιο κατά της COVID-19 
+ongoing community transmission 
+εξελισσόμενη μετάδοση στην κοινότητα 
+ongoing of the disease 
+εξέλιξη της νόσου 
+ongoing symptomatic COVID-19 
+συνεχιζόμενη συμπτωματική COVID-19 
+onward transmissibility 
+περαιτέρω μεταδοτικότητα 
+organ transplantation, organ transplant 
+μεταμόσχευση οργάνων 
+organized educational procedure 
+οργανωμένη εκπαιδευτική διαδικασία 
+oropharyngeal swab 
+στοματοφαρυγγικό επίχρισμα 
+outbreak 
+ξέσπασμα 
+outbreak 
+έκρηξη, έξαρση 
+outbreak investigations in different 
+settings 
+έρευνες για εξάρσεις σε διαφορετικά περιβάλλοντα 
+overexposure to news 
+υπερβολική έκθεση σε ειδήσεις 
+Oxford/AstraZeneca COVID-19 vaccine 
+εμβόλιο COVID-19 των Oxford/AstraZeneca 
+oximeter 
+οξύμετρο 
+ 
+30 
+Αγγλικός όρος 
+Ελληνικός όρος 
+oxygen therapy 
+οξυγονοθεραπεία, θεραπεία οξυγόνου 
+painting 
+ζωγραφική 
+pandemic 
+πανδημία 
+pandemic denier 
+αρνητής της πανδημίας 
+pandemic epicentre 
+επίκεντρο πανδημίας 
+pandemic outbreak 
+έκρηξη πανδημίας, ξέσπασμα πανδημίας 
+pandemic wave 
+πανδημικό κύμα 
+panicdemic 
+πανικοδημία 
+parent virus 
+γονικός ιός 
+parental strain 
+γονικό στέλεχος 
+parosmia 
+παροσμία 
+partial lifting of measures 
+μερική άρση μέτρων 
+pass the threshold of 100 confirmed 
+cases 
+υπερβαίνω το κατώφλιο των 100 επιβεβαιωμένων 
+κρουσμάτων 
+passenger assistant 
+βοηθός επιβατών 
+passenger locator form, PLF 
+έντυπο εντοπισμού επιβάτη, PLF 
+passenger transport station 
+επιβατικός σταθμός 
+pathogen 
+παθογόνο 
+patient deaths 
+θάνατοι ασθενών 
+patient in critical condition 
+ασθενής σε κρίσιμη κατάσταση 
+patient in hospital 
+νοσηλευόμενος ασθενής 
+patient management 
+διαχείριση των ασθενών 
+patient without need for hospital care 
+ασθενής χωρίς ανάγκη νοσηλείας 
+patient zero 
+ασθενής μηδέν 
+patient zero, index case, primary case 
+ασθενής μηδέν, ασθενής 0, κρούσμα δείκτης, αρχικό 
+κρούσμα 
+patients in chronic care units 
+ασθενείς φιλοξενούμενοι σε μονάδες χρονίως 
+πασχόντων 
+patients in elderly care units 
+ασθενείς φιλοξενούμενοι σε μονάδες ηλικιωμένων 
+patients in hospitals 
+ασθενείς νοσηλευόμενοι 
+patients taking anti-inflammatory drugs 
+ασθενείς με αντιφλεγμονώδη 
+patients with autoimmune diseases 
+ασθενείς με αυτοάνοσα νοσήματα 
+patients with diabetes mellitus 
+ασθενείς με σακχαρώδη διαβήτη 
+patients with heart conditions 
+ασθενείς με καρδιοπάθειες, καρδιοπαθείς 
+patients with liver conditions 
+ασθενείς με ηπατοπάθειες 
+patients with lung conditions 
+ασθενείς με πνευμονοπάθειες 
+PCR inhibition 
+αναστολή PCR 
+ 
+31 
+Αγγλικός όρος 
+Ελληνικός όρος 
+PCR test 
+δοκιμή PCR, δοκιμή αλυσιδωτής αντίδρασης 
+πολυμεράσης 
+penalty for non-compliance 
+ποινή για μη συμμόρφωση 
+peritoneal dialysis 
+περιτοναϊκή κάθαρση 
+peritoneum 
+περιτόναιο 
+personal hygiene measures 
+μέτρα ατομικής υγιεινής 
+personal protection equipment, PPE 
+μέσα ατομικής προστασίας (ΜΑΠ), εξοπλισμός ατομικής 
+προστασίας (ΕΑΠ) 
+personal protective equipment 
+εξοπλισμός ατομικής προστασίας  
+personal responsibility, individual 
+responsibility 
+ατομική ευθύνη 
+persons on immunosuppression 
+άτομα σε ανοσοκαταστολή 
+persons over 60 years of age {priority 
+group} 
+άτομα άνω των 60 ετών {ομάδα προτεραιότητας} 
+persons taking immunosuppressive 
+drugs 
+άτομα που λαμβάνουν ανοσοκατασταλτικά φάρμακα 
+persons under treatment 
+άτομα που υποβάλλονται σε θεραπεία 
+persons whose state of health makes 
+them particularly at risk  {priority 
+group} 
+άτομα ιδιαιτέρως ευάλωτα λόγω της κατάστασης της 
+υγείας τους {ομάδα προτεραιότητας} 
+persons with HIV infection 
+άτομα με λοίμωξη HIV 
+persons with renal insufficiency, 
+persons with renal failure 
+άτομα με νεφρική ανεπάρκεια 
+persons οn a transplant waiting list 
+άτομα σε λίστα αναμονής για μεταμόσχευση 
+person-to-person transmission 
+μετάδοση από άτομο σε άτομο 
+pervasiveness of Covid-19 
+διεισδυτικότητα της COVID-19 
+pharmaceutical company 
+φαρμακευτική εταιρεία 
+pharmaceutical preparation 
+φαρμακευτικό σκεύασμα 
+pharmaceutical substance 
+φαρμακευτική ουσία 
+pharmacovigilance, PV, PhV 
+φαρμακοεπαγρύπνηση 
+phase I clinical trial 
+κλινική δοκιμή φάσης I 
+phase I of human clinical trials 
+φάση Ι κλινικών δοκιμών σε ανθρώπους 
+phase II clinical trial 
+κλινική δοκιμή φάσης II 
+phase II human clinical trials 
+φάση ΙΙ κλινικών δοκιμών σε ανθρώπους 
+phase III clinical trial 
+κλινική δοκιμή φάσης III 
+phase III human clinical trials 
+φάση ΙΙΙ κλινικών δοκιμών σε ανθρώπους 
+phylogenetic analysis 
+φυλογενετική ανάλυση 
+physical distance 
+φυσική απόσταση 
+physical distancing 
+φυσική αποστασιοποίηση, σωματική αποστασιοποίηση 
+placebo 
+εικονικό φάρμακο, πλακέμπο, πλασίμπο 
+ 
+32 
+Αγγλικός όρος 
+Ελληνικός όρος 
+placebo effect 
+φαινόμενο του εικονικού φαρμάκου, φαινόμενο 
+πλακέμπο, φαινόμενο πλασίμπο 
+placing hard limits on the size of 
+crowds at events 
+θέση αυστηρών ορίων στο πλήθος ατόμων σε 
+εκδηλώσεις 
+plasma administration 
+χορήγηση πλάσματος 
+pneumonia 
+πνευμονία 
+polymerase chain reaction, PCR 
+αλυσιδωτή αντίδραση πολυμεράσης, PCR 
+population mobility 
+κινητικότητα του πληθυσμού 
+population-based seroepidemiological 
+study 
+πληθυσμιακή οροεπιδημιολογική μελέτη 
+portable diagnostic equipment 
+φορητός διαγνωστικός εξοπλισμός 
+portable X-ray equipment 
+φορητός ακτινολογικός εξοπλισμός 
+portfolio of potential vaccines 
+χαρτοφυλάκιο πιθανών εμβολίων 
+positive sample 
+θετικό δείγμα 
+positive test 
+θετική δοκιμή, θετική δοκιμασία, θετικό τεστ 
+possibility of infection 
+πιθανότητα μόλυνσης 
+post COVID-19 syndrome 
+σύνδρομο μετά COVID-19  
+post-pandemic era 
+μεταπανδημική εποχή 
+post-pandemic social contract 
+μεταπανδημικό κοινωνικό συμβόλαιο 
+potential case 
+δυνητικό κρούσμα 
+potential route of transmission 
+δυνητική οδός μετάδοσης 
+potential vaccine 
+δυνητικό εμβόλιο 
+pre-boarding Passenger Locator Form, 
+pre-boarding PLF, pre-boarding 
+information form 
+προ-επιβίβασης έντυπο εντοπισμού επιβάτη, προ-
+επιβίβασης PLF 
+precarious healthcare system 
+επισφαλές σύστημα υγειονομικής περίθαλψης 
+preclinical vaccine trial 
+προκλινική δοκιμή του εμβολίου 
+preliminary clinical study 
+προκαταρκτική κλινική μελέτη 
+preliminary scientific evidence 
+προκαταρκτικά επιστημονικά τεκμήρια, προκαταρκτικές 
+επιστημονικές ενδείξεις 
+preservative {n.} 
+συντηρητικό 
+pressure on the healthcare system 
+πίεση στο σύστημα υγειονομικής περίθαλψης 
+presymptomatic 
+προσυμπτωματικός 
+prevalence 
+επιπολασμός 
+prevalence of asymptomatic COVID-19 
+cases 
+επιπολασμός ασυμπτωματικών κρουσμάτων COVID-19 
+prevent 
+προλαμβάνω, αποτρέπω 
+prevent disease {v.} 
+προλαμβάνω τη νόσο 
+prevent infection {v.} 
+προλαμβάνω τη λοίμωξη 
+ 
+33 
+Αγγλικός όρος 
+Ελληνικός όρος 
+preventable disease 
+αποτρέψιμη νόσος 
+prevention 
+πρόληψη, αποτροπή 
+prevention of severe illness, 
+prevention of severe disease 
+πρόληψη σοβαρής νόσου 
+prevention of the new coronavirus 
+transmission and spread 
+πρόληψη της μετάδοσης και εξάπλωσης του νέου 
+κορονοϊού 
+primary caregivers 
+πρωταρχικά πρόσωπα φροντίδας 
+primary case 
+πρωτογενές κρούσμα, πρωτογενές περιστατικό 
+primary immunodeficiency, PI 
+πρωτοπαθής ανοσοανεπάρκεια 
+primary way of transmission 
+κύριος τρόπος μετάδοσης 
+prime vaccine, prime dose (of a 
+vaccine) 
+πρωταρχικό εμβόλιο, πρώτη δόση (εμβολίου) 
+priority groups {groups having priority 
+access to vaccines} 
+ομάδες προτεραιότητας {για πρόσβαση στο εμβόλιο κατά 
+της COVID-19} 
+private clinic 
+ιδιωτική κλινική, ιδιωτικό θεραπευτήριο 
+private practice 
+ιατρείο 
+probable case 
+πιθανό κρούσμα, πιθανό περιστατικό 
+process and governance on 
+vaccination in the EU 
+διαδικασία και διακυβέρνηση σχετικά με τον εμβολιασμό 
+στην ΕΕ 
+procession 
+πομπή, παρέλαση 
+produce in liquid form 
+παράγω σε υγρή μορφή 
+produce in solid form 
+παράγω σε στερεή μορφή 
+production capacity 
+παραγωγική ικανότητα 
+proper stimuli 
+κατάλληλα ερεθίσματα 
+protection from severe illness, 
+protection from severe disease 
+προστασία από σοβαρή νόσο 
+protein subunit vaccine 
+εμβόλιο πρωτεϊνικής υπομονάδας 
+psoriasis 
+ψωρίαση 
+public health 
+δημόσια υγεία 
+public health official 
+λειτουργός δημόσιας υγείας 
+public health policy 
+πολιτική δημόσιας υγείας 
+public health policy approval {of a 
+vaccine} 
+έγκριση πολιτικής δημόσιας υγείας {ενός εμβολίου} 
+public health worker 
+εργαζόμενος στη δημόσια υγεία 
+public immunisation 
+δημόσια ανοσοποίηση 
+public’s implementation of measures 
+εφαρμογή των μέτρων από το κοινό 
+pulmonary alveolus {pl. pulmonary 
+alveoli} 
+πνευμονική κυψελίδα 
+quarantine {n.} 
+καραντίνα  
+quarantine {v.} 
+θέτω σε καραντίνα 
+ 
+34 
+Αγγλικός όρος 
+Ελληνικός όρος 
+quarantining 
+θέση σε καραντίνα 
+radiotherapy 
+ακτινοθεραπεία 
+raise antibodies 
+παράγω αντισώματα 
+randomized clinical study 
+τυχαιοποιημένη κλινική μελέτη 
+rapid antibody test 
+ταχυδοκιμή αντισωμάτων, ταχυδοκιμασία αντισωμάτων, 
+ταχυτέστ αντισωμάτων 
+rate of spread in the community 
+ρυθμός εξάπλωσης στην κοινότητα 
+raw meat 
+ωμό κρέας 
+reactogenicity 
+αντιδραστικότητα 
+receipt of laboratory sample 
+λήψη εργαστηριακού δείγματος 
+receipt of sample 
+λήψη δείγματος 
+receive a vaccine, get a vaccine 
+εμβολιάζομαι, λαμβάνω εμβόλιο, κάνω εμβόλιο 
+recently contaminated surfaces 
+πρόσφατα μολυσμένες επιφάνειες 
+recover without need for treatment 
+αναρρώνω χωρίς ανάγκη θεραπείας 
+redness at the injection site 
+ερυθρότητα στο σημείο της ένεσης 
+reduce onward transmissibility 
+μειώνω την περαιτέρω μεταδοτικότητα 
+reference lab 
+εργαστήριο αναφοράς 
+referral hospital 
+νοσοκομείο αναφοράς 
+refuse to comply with the measures 
+αρνούμαι να συμμορφωθώ με τα μέτρα 
+regional unit of the country 
+περιφερειακή ενότητα της χώρας 
+registered deaths of COVID-19 per 
+million people 
+καταγεγραμμένοι θάνατοι από COVID-19 ανά εκατομμύριο 
+ανθρώπων 
+regulatory approval {of a vaccine} 
+ρυθμιστική έγκριση {ενός εμβολίου} 
+reinfection 
+επαναμόλυνση, επαναλοίμωξη 
+relax the rules 
+χαλαρώνω τους κανόνες 
+relaxation of measures 
+χαλάρωση των μέτρων 
+relieve symptoms 
+ανακουφίζω τα συμπτώματα 
+religious procession 
+λιτανεία 
+remdesivir 
+ρεμντεσιβίρη 
+remote educational activities 
+εκπαιδευτικές δραστηριότητες εξ αποστάσεως 
+remote educational activities (e-
+learning) 
+εκπαιδευτικές δραστηριότητες εξ αποστάσεως (ηλ-
+μάθηση) 
+renal insufficiency, renal failure 
+νεφρική ανεπάρκεια 
+reported case 
+αναφερθέν κρούσμα, κρούσμα που έχει αναφερθεί 
+resistant strain 
+ανθεκτικό στέλεχος 
+respect the rules 
+τηρώ τους κανόνες 
+respecting the lockdown rules 
+τήρηση των κανόνων γενικού κλεισίματος 
+respirator 
+αναπνευστήρας 
+ 
+35 
+Αγγλικός όρος 
+Ελληνικός όρος 
+respiratory droplets 
+σταγονίδια της εκπνοής 
+respiratory failure 
+αναπνευστική ανεπάρκεια 
+respiratory function 
+αναπνευστική λειτουργία 
+respiratory hygiene 
+αναπνευστική υγιεινή 
+respiratory infection 
+αναπνευστική λοίμωξη, λοίμωξη του αναπνευστικού 
+συστήματος 
+respiratory secretions 
+αναπνευστικές εκκρίσεις 
+respiratory support 
+αναπνευστική υποστήριξη 
+respiratory tract infection 
+λοίμωξη της αναπνευστικής οδού, λοίμωξη του 
+αναπνευστικού συστήματος 
+respiratory virus 
+αναπνευστικός ιός 
+respond to the outbreak (of the 
+pandemic) 
+αποκρίνομαι στην έκρηξη (της πανδημίας), αποκρίνομαι 
+στο ξέσπασμα (της πανδημίας) 
+response to the outbreak (of the 
+pandemic) 
+απόκριση στην έκρηξη (της πανδημίας), απόκριση στο 
+ξέσπασμα (της πανδημίας) 
+restaurant 
+εστιατόριο 
+resting 
+ξεκούραση 
+restriction of movement 
+περιορισμός των μετακινήσεων 
+restriction of virus spread 
+περιορισμός της εξάπλωσης του ιού  
+retesting 
+επαναδοκιμή, επαναδοκιμασία, επανέλεγχος 
+return to normalcy 
+επιστροφή στην κανονικότητα 
+return to partial normalcy 
+επιστροφή σε μερική κανονικότητα 
+ribavirin 
+ριμπαβιρίνη 
+ribonucleic acid, RNA 
+ριβονουκλεϊκό οξύ, RNA 
+right dosage 
+ορθή δοσολογία 
+risk communication 
+επικοινώνηση του κινδύνου 
+risk factor 
+παράγοντας διακινδύνευσης, παράγοντας κινδύνου 
+risk of infection 
+διακινδύνευση μόλυνσης, κίνδυνος μόλυνσης 
+risk of transmission of coronavirus 
+διακινδύνευση μετάδοσης κορονοϊού, κίνδυνος 
+μετάδοσης κορονοϊού 
+ritonavir 
+ριτοναβίρη 
+roll out 
+σταδιακή χορήγηση 
+routine immunisation 
+ανοσοποίηση ρουτίνας 
+running water 
+τρεχούμενο νερό 
+runny nose 
+καταρροή 
+Russian COVID-19 vaccine 
+ρωσικό εμβόλιο κατά της COVID-19, ρωσικό εμβόλιο 
+COVID-19 
+safe and protected environment 
+ασφαλές και προστατευμένο περιβάλλον 
+safe vaccine 
+ασφαλές εμβόλιο 
+ 
+36 
+Αγγλικός όρος 
+Ελληνικός όρος 
+safety standard 
+πρότυπο ασφάλειας 
+saliva 
+σάλιο 
+sample 
+δείγμα 
+Sanofi-GSK COVID-19 vaccine 
+εμβόλιο COVID-19 των Sanofi-GSK 
+SARS-CoV-2 specific proteins 
+ειδικές πρωτεΐνες του ιού SARS-CoV-2 
+SARS-Cov-2 Vaccination Record 
+Certificate 
+Βεβαίωση Εμβολιασμού SARS-Cov-2 
+SARS-CoV-2 vaccination, severe acute 
+respiratory syndrome coronavirus 2 
+vaccination (procedure), severe acute 
+respiratory syndrome coronavirus 2 
+vaccination, COVID-19 vaccination 
+εμβολιασμός κατά του SARS-CoV-2, εμβολιασμός κατά 
+του κορονοϊού 2 σοβαρού οξέος αναπνευστικού 
+συνδρόμου (διαδικασία), εμβολιασμός κατά του 
+κορονοϊού 2 σοβαρού οξέος αναπνευστικού συνδρόμου, 
+εμβολιασμός κατά της COVID-19 
+SARS-CoV-2 variant 
+παραλλαγή του (ιού) SARS-CoV-2 
+SARS-CoV-2, severe acute respiratory 
+syndrome coronavirus 2 (organism), 
+severe acute respiratory syndrome 
+coronavirus 2 
+SARS-CoV-2, κορονοϊός 2 που προξενεί σοβαρό οξύ 
+αναπνευστικό σύνδρομο (οργανισμός), κορονοϊός 2 που 
+προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο 
+satisfactory antibody response 
+ικανοποιητική αντισωματική απόκριση, αδόκ. 
+ικανοποιητική αντισωματική ανταπόκριση 
+school programme 
+σχολικό πρόγραμμα 
+school units 
+σχολικές μονάδες 
+seasonal flu peak 
+φάση έξαρσης της εποχικής γρίπης 
+seasonal flu, seasonal influenza 
+εποχική γρίπη 
+seasonality 
+εποχικότητα 
+second line of defense 
+δεύτερη γραμμή άμυνας 
+secondary attack rate 
+δείκτης δευτερογενούς προσβολής, πηλίκο 
+δευτερογενούς προσβολής 
+secondary case 
+δευτερογενές κρούσμα 
+section of the aircraft 
+τμήμα του αεροσκάφους 
+selective testing 
+επιλεκτική δοκιμασία, επιλεκτικές δοκιμές, επιλεκτικά 
+τεστ 
+self-isolation 
+αυτοαπομόνωση 
+self-isolation at home 
+αυτοαπομόνωση στο σπίτι 
+self-quarantine, voluntary quarantine 
+αυτο-καραντίνα, αυτόβουλη καραντίνα, εθελούσια 
+καραντίνα, εθελοντική καραντίνα, οικειοθελής καραντίνα 
+self-test 
+αυτοδοκιμή, αυτοτέστ, αυτοδιαγνωστική δοκιμή, 
+αυτοδιαγνωστικό τεστ 
+sensation of suffocation 
+αίσθημα πνιγμονής 
+separate waiting and examination area 
+ξεχωριστός χώρος αναμονής και εξέτασης 
+sepsis 
+σήψη 
+septic shock 
+σηπτικό σοκ 
+serious side effect 
+σοβαρή παρενέργεια 
+ 
+37 
+Αγγλικός όρος 
+Ελληνικός όρος 
+seroepidemiological study 
+οροεπιδημιολογική μελέτη 
+serology 
+ορολογία 
+serology test 
+οροδιαγνωστική δοκιμή, οροδιαγνωστικό τεστ, 
+οροδιαγνωστική δοκιμασία 
+severe acute respiratory illness, SARI 
+σοβαρή οξεία λοίμωξη του αναπνευστικού 
+severe allergy 
+σοβαρή αλλεργία 
+severe chronic underlying condition 
+σοβαρή χρόνια υποκείμενη νόσος 
+severe COVID-19 
+COVID-19 βαριάς μορφής, βαριά COVID-19 
+severe disease, severe illness 
+βαριά νόσηση 
+severe illness 
+σοβαρή νόσος, σοβαρή ασθένεια 
+severe immunosuppression 
+σοβαρή ανοσοκαταστολή 
+severe social distancing measures 
+αυστηρά μέτρα κοινωνικής αποστασιοποίησης 
+severe symptom 
+σοβαρό σύμπτωμα 
+severity of clinical condition 
+βαρύτητα της κλινικής εικόνας, σοβαρότητα της κλινικής 
+εικόνας 
+severity of symptoms 
+σοβαρότητα συμπτωμάτων 
+shop 
+εμπορικό κατάστημα  
+shopping centre 
+εμπορικό κέντρο 
+show symptoms 
+εμφανίζω συμπτώματα 
+side effect 
+παρενέργεια 
+sigmoid distribution 
+σιγμοειδής κατανομή 
+silent hypoxia, happy hypoxia 
+σιωπηλή υποξία 
+silk fabric 
+μεταξωτό ύφασμα 
+slow the rate of infection 
+επιβραδύνω τον ρυθμό μόλυνσης 
+small animals 
+μικρά ζώα 
+sneeze inside one’s elbow 
+φταρνίζομαι στον αγκώνα μου 
+sneeze, sneezing 
+φτάρνισμα 
+soap 
+σαπούνι 
+social bubble 
+κοινωνικό κουκούλι, κοινωνική φούσκα 
+social cost of COVID-19 
+κοινωνικό κόστος της COVID-19 
+social distancing 
+κοινωνική αποστασιοποίηση 
+social distancing measures 
+μέτρα κοινωνικής αποστασιοποίησης 
+social media 
+μέσα κοινωνικής δικτύωσης 
+sodium hypochlorite solution 
+διάλυμα υποχλωριώδους νατρίου 
+solid organ cancer 
+καρκίνος συμπαγών οργάνων 
+solid organ transplant persons 
+άτομα με μεταμόσχευση συμπαγών οργάνων 
+solid organ transplantation, solid 
+organ transplant 
+μεταμόσχευση συμπαγούς οργάνου 
+ 
+38 
+Αγγλικός όρος 
+Ελληνικός όρος 
+sore throat 
+κυνάγχη, πονόλαιμος 
+sotrovimab 
+σοτροβιμάβη 
+source of transmission 
+πηγή μετάδοσης 
+South African variant 
+νοτιοαφρικανική παραλλαγή 
+special immunotropic therapy 
+ειδική ανοσοτροποποιητική θεραπεία 
+spectrum of illness, illness spectrum 
+φάσμα της νόσου 
+speeding up the green and digital 
+transitions 
+επιτάχυνση της πράσινης και της ψηφιακής μετάβασης 
+spike gene 
+γονίδιο της ακίδας 
+spike in domestic infections 
+αιχμή εγχώριων λοιμώξεων, έξαρση εγχώριων 
+λοιμώξεων 
+spike in infections 
+αιχμή λοιμώξεων, έξαρση λοιμώξεων 
+spike protein, S protein 
+πρωτεΐνη-ακίδα, πρωτεΐνη ακίδας, πρωτεΐνη S 
+spouse 
+σύζυγος 
+spread 
+εξάπλωση 
+spread control and prevention 
+measures 
+μέτρα ελέγχου και πρόληψης της εξάπλωσης 
+spread in the community, community 
+spread 
+εξάπλωση στην κοινότητα 
+spread of pathogens 
+εξάπλωση παθογόνων μικροοργανισμών 
+spread of the disease 
+εξάπλωση της νόσου 
+Sputnik V vaccine 
+εμβόλιο Σπούτνικ V 
+sputum 
+πτύελα 
+stabiliser 
+σταθεροποιητής 
+standard precautions 
+βασικές προφυλάξεις 
+standard surgical mask 
+απλή χειρουργική μάσκα 
+standard waking up time 
+σταθερή ώρα πρωινής έγερσης 
+staying at home 
+παραμονή στο σπίτι 
+steering board 
+διοικητικό συμβούλιο 
+sterilising immunity, sterilizing 
+immunity 
+αποστειρωτική ανοσία 
+sterilization of medical equipment 
+αποστείρωση του ιατρικού εξοπλισμού 
+stethoscope 
+στηθοσκόπιο 
+strain 
+στέλεχος 
+stress 
+άγχος 
+stressful period 
+στρεσογόνος περίοδος 
+strong immune response 
+ισχυρή ανοσοαπόκριση 
+sub-variant 
+υποπαραλλαγή 
+suffocation 
+πνιγμονή 
+ 
+39 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Summit supercomputer {IBM} 
+υπερυπολογιστής Summit {της IBM} 
+super-market 
+σουπερμάρκετ 
+superspreader 
+υπερμεταδότης 
+supportive care 
+υποστηρικτική φροντίδα 
+suppress the immune system 
+καταστέλλω το ανοσοποιητικό σύστημα 
+SURE instrument 
+εργαλείο SURE 
+surface cleanser 
+υγρό καθαρισμού επιφανειών 
+surgical mask 
+χειρουργική μάσκα 
+surveillance data 
+δεδομένα επιτήρησης 
+suspect case 
+ύποπτο κρούσμα 
+suspected case criteria 
+κριτήρια ύποπτου κρούσματος 
+suspected case of infection 
+ύποπτο κρούσμα λοίμωξης 
+suspected COVID-19, suspected 
+disease caused by severe acute 
+respiratory coronavirus 2 (situation), 
+suspected disease caused by severe 
+acute respiratory coronavirus 2, 
+suspected disease caused by SARS-
+CoV-2 
+ύποπτη COVID-19, ύποπτη ασθένεια/νόσος 
+προκαλούμενη από κορονοϊό 2 που προξενεί σοβαρό οξύ 
+αναπνευστικό σύνδρομο (κατάσταση), ύποπτη 
+ασθένεια/νόσος προκαλούμενη από κορονοϊό 2 που 
+προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο, ύποπτη 
+ασθένεια/νόσος προκαλούμενη από SARS-CoV-2 
+suspected infection 
+ύποπτη λοίμωξη 
+symptom 
+σύμπτωμα 
+symptom compatible with COVID-19 
+infection 
+σύμπτωμα συμβατό με λοίμωξη COVID-19 
+symptomatic 
+συμπτωματικός 
+symptomatic case 
+συμπτωματικό κρούσμα 
+symptomatic patient 
+συμπτωματικός ασθενής  
+symptomatic phase of the disease 
+συμπτωματική φάση της νόσου 
+symptomatic treatment 
+συμπτωματική θεραπεία 
+symptomatology 
+συμπτωματολογία 
+symptoms of respiratory infection 
+συμπτωματολογία λοίμωξης του αναπνευστικού 
+συστήματος 
+T cell 
+κύτταρο Τ 
+T cell level 
+στάθμη κυττάρων Τ 
+take away 
+πάρε-φύγε, παραλαβή χωρίς παραμονή 
+talking 
+ομιλία 
+technical approach 
+τεχνική προσέγγιση 
+temperature measurement 
+θερμομέτρηση 
+temperature measurement screening 
+διαλογή με θερμομέτρηση 
+temporary side effect 
+προσωρινή παρενέργεια 
+ 
+40 
+Αγγλικός όρος 
+Ελληνικός όρος 
+temporary Support to mitigate 
+Unemployment Risks in an Emergency, 
+SURE 
+Προσωρινή στήριξη για τον μετριασμό των κινδύνων 
+ανεργίας σε κατάσταση έκτακτης ανάγκης, SURE 
+test 
+δοκιμή, δοκιμασία, τεστ 
+test and isolate contacts 
+ελέγχω και απομονώνω τις επαφές 
+test in animals {v.} 
+δοκιμάζω σε ζώα 
+test positive (for the virus) {v.} 
+βρίσκομαι θετικός στη δοκιμή (για τον ιό), βρίσκομαι 
+θετικός στο τεστ (για τον ιό) 
+the free rider problem 
+το πρόβλημα του λαθρεπιβάτη 
+the lab test comes out negative 
+το εργαστηριακό τεστ είναι αρνητικό, το εργαστηριακό 
+τεστ βγαίνει αρνητικό 
+the lab test comes out positive 
+το εργαστηριακό τεστ είναι θετικό, το εργαστηριακό τεστ 
+βγαίνει θετικό 
+therapeutic action 
+θεραπευτική δράση 
+therapeutic approach 
+θεραπευτική προσέγγιση 
+therapeutic option 
+θεραπευτική επιλογή 
+therapeutic protocol 
+θεραπευτικό πρωτόκολλο 
+therapeutic quiver 
+θεραπευτική φαρέτρα 
+thermometer 
+θερμόμετρο 
+third dose 
+τρίτη δόση 
+thorough washing hands with water 
+and soap or alcohol solution 
+καλό πλύσιμο των χεριών με νερό και σαπούνι ή 
+αλκοολούχο διάλυμα 
+three-dimensional structure of proteins 
+τριδιάστατη δομή των πρωτεϊνών 
+thromboembolic episode 
+θρομβοεμβολικό επεισόδιο 
+thrombopenia 
+θρομβοπενία 
+thrombosis 
+θρόμβωση 
+thrombosis with thrombocytopenia 
+syndrome, TTS 
+θρόμβωση με σύνδρομο θρομβοκυτταροπενίας, TTS 
+ticket machine 
+μηχάνημα για εισιτήριο 
+tightly woven cotton fabric 
+βαμβακερό ύφασμα με πυκνή ύφανση 
+timely diagnosis 
+έγκαιρη διάγνωση 
+timely planning 
+έγκαιρος σχεδιασμός 
+tissue 
+ιστός 
+tissue 
+χαρτομάντιλο 
+tissue sample 
+ιστικό δείγμα, δείγμα ιστού 
+tissue transplantation, tissue 
+transplant 
+μεταμόσχευση ιστoύ 
+T-lymphocyte 
+λεμφοκύτταρο Τ 
+tocilizumab 
+τοσιλιζουμάμπη 
+top of the mask 
+πάνω μέρος της μάσκας 
+ 
+41 
+Αγγλικός όρος 
+Ελληνικός όρος 
+total death toll 
+συνολικός φόρος αίματος 
+total genome 
+ολικό γονιδίωμα 
+total number of cases 
+συνολικός αριθμός κρουσμάτων 
+touching one’s own mouth, nose or 
+eyes 
+άγγιγμα του στόματος, της μύτης ή των ματιών 
+tourism sector 
+τομέας τουρισμού 
+trace contacts {v.} 
+ιχνηλατώ επαφές 
+tracheal intubation 
+ενδοτραχειακή διασωλήνωση, ενδοτραχειακή 
+ενσωλήνωση 
+tracheotomy 
+τραχειοτομή 
+trackable source 
+ιχνηλατήσιμη πηγή 
+transindividual responsibility 
+διατομική ευθύνη 
+transmissibility 
+μεταδοτικότητα 
+transmissibility of Covid-19 
+μεταδοτικότητα της COVID-19 
+transmission 
+μετάδοση 
+transmission and spread of the virus 
+μετάδοση και εξάπλωση του ιού 
+transmission from human to human 
+μετάδοση από άνθρωπο σε άνθρωπο 
+transmission in the EU/EEA 
+μετάδοση σε ΕΕ/ΕΟΧ, μετάδοση σε Ευρωπαϊκή Ένωση / 
+Ευρωπαϊκό Οικονομικό Χώρο 
+transmission pattern 
+πρότυπο μετάδοσης 
+transmit the disease 
+μεταδίδω τη νόσο 
+transplant 
+μόσχευμα 
+transplant persons 
+άτομα με μεταμόσχευση 
+transplant waiting list 
+λίστα αναμονής για μεταμόσχευση 
+transplantation, transplant 
+μεταμόσχευση 
+travel history 
+ιστορικό ταξιδιού 
+travel medicine 
+ταξιδιωτική ιατρική 
+travel restriction 
+περιορισμός ταξιδιών 
+travel restrictions 
+ταξιδιωτικοί περιορισμοί 
+traveller’s risk profile 
+κατατομή διακινδύνευσης ταξιδιώτη, προφίλ ρίσκου 
+ταξιδιώτη 
+treat in hospital 
+νοσηλεύω σε νοσοκομείο 
+treat intubated 
+νοσηλεύω διασωληνωμένο 
+treated intubated 
+νοσηλευόμενος διασωληνωμένος 
+treatment 
+θεραπεία 
+treatment in hospital 
+νοσηλεία σε νοσοκομείο 
+treatment protocol 
+πρωτόκολλο θεραπείας, θεραπευτικό πρωτόκολλο 
+triage 
+διαλογή {κρουσμάτων} 
+ 
+42 
+Αγγλικός όρος 
+Ελληνικός όρος 
+triage, recognition and isolation of 
+suspected cases 
+διαλογή, αναγνώριση και απομόνωση ύποπτων 
+κρουσμάτων {με λοίμωξη COVID-19} 
+trial volunteer 
+εθελοντής δοκιμής 
+trials in animals 
+δοκιμές σε ζώα 
+trigger immunity to COVID-19 
+διεγείρω ανοσία κατά της νόσου COVID-19, προκαλώ 
+ανοσία στη νόσο COVID-19 
+two-step vaccination 
+εμβολιασμός σε δύο στάδια, εμβολιασμός σε δύο βήματα 
+tyrosine 501 
+τυροσίνη 501 
+UK variant 
+παραλλαγή UK, βρετανική παραλλαγή 
+underdiagnose 
+υποδιαγιγνώσκω, κάνω υποδιάγνωση 
+underdiagnosis 
+υποδιάγνωση 
+underlying chronic disease 
+υποκείμενο χρόνιο νόσημα 
+underlying health condition 
+υποκείμενη κατάσταση υγείας 
+underlying health issues 
+υποκείμενα προβλήματα υγείας 
+underlying health of cases 
+υποκείμενη κατάσταση υγείας των κρουσμάτων 
+undiagnosed case 
+αδιάγνωστο κρούσμα 
+unimmunized people 
+μη ανοσοποιημένοι άνθρωποι 
+universal vaccine 
+καθολικό εμβόλιο 
+unlock the quarantine measures 
+αίρω τα μέτρα της καραντίνας 
+unnecessary travels 
+μη απαραίτητα ταξίδια 
+unprecedented challenge 
+πρωτοφανής πρόκληση 
+unvaccinated person 
+ανεμβολίαστο άτομο 
+upper respiratory system 
+ανώτερο αναπνευστικό σύστημα 
+upper respiratory tract 
+ανώτερη αναπνευστική οδός 
+upper respiratory tract symptom 
+σύμπτωμα ανώτερης αναπνευστικής οδού 
+use a mask 
+χρησιμοποιώ μάσκα 
+use of PPE 
+χρήση ΜΑΠ, χρήση μέσων ατομικής προστασίας 
+use of tissue paper when coughing or 
+sneezing 
+χρήση χαρτομάντιλου για τον βήχα ή το φτέρνισμα 
+using a mask 
+χρήση μάσκας 
+using gloves does not replace hand 
+washing 
+η χρήση γαντιών δεν υποκαθιστά το πλύσιμο των χεριών 
+vaccinate {v.} 
+εμβολιάζω 
+vaccination 
+εμβολιασμός 
+vaccination confidence 
+εμπιστοσύνη στον εμβολιασμό 
+vaccination coverage 
+εμβολιαστική κάλυψη 
+vaccination method 
+μέθοδος εμβολιασμού 
+vaccine 
+εμβόλιο 
+ 
+43 
+Αγγλικός όρος 
+Ελληνικός όρος 
+vaccine approval 
+έγκριση εμβολίου 
+vaccine booster shot 
+αναμνηστική δόση εμβολίου 
+vaccine brand 
+εμπορικό όνομα εμβολίου 
+vaccine candidate 
+υποψήφιο εμβόλιο 
+vaccine combination 
+συνδυασμός εμβολίων 
+vaccine denier 
+αρνητής του εμβολίου 
+vaccine development 
+ανάπτυξη εμβολίων 
+vaccine effectiveness 
+αποτελεσματικότητα εμβολίου 
+vaccine efficacy 
+δραστικότητα εμβολίου 
+vaccine for COVID-19 
+εμβόλιο για την COVID-19 
+vaccine hesitancy 
+διστακτικότητα έναντι εμβολίου 
+vaccine immunogenicity 
+ανοσογονικότητα εμβολίου 
+vaccine ingredient 
+συστατικό εμβολίου 
+vaccine pillar 
+εμβολιαστικός πυλώνας 
+vaccine producer 
+παραγωγός εμβολίου 
+vaccine rollout 
+διάθεση εμβολίου 
+vaccine safety 
+ασφάλεια εμβολίου 
+vaccine-preventable disease 
+αποτρέψιμη νόσος με εμβόλιο 
+vaccinophobia 
+εμβολιοφοβία 
+variant 
+παραλλαγή 
+variant of concern, VOC 
+παραλλαγή ιδιαίτερης ανησυχίας {αδόκιμο: μετάλλαξη 
+ιδιαίτερης ανησυχίας} 
+variant of interest, VOI 
+παραλλαγή ενδιαφέροντος, {αδόκιμο: μετάλλαξη 
+ενδιαφέροντος} 
+variant under investigation, VUI 
+παραλλαγή υπό διερεύνηση 
+variant under monitoring 
+παραλλαγή υπό παρακολούθηση {αδόκιμο: μετάλλαξη 
+προς παρακολούθηση} 
+varying severity 
+ποικίλη σοβαρότητα 
+vial 
+φιαλίδιο 
+vigilance 
+επαγρύπνηση 
+viral change 
+ιογενής αλλαγή 
+viral genome 
+ιικό γονιδίωμα 
+viral infection 
+ιογενής λοίμωξη 
+viral load 
+ιικό φορτίο 
+viral RNA 
+ιικό RNA, RNA ιού 
+viral shedding 
+ιική απέκκριση 
+viral spread 
+εξάπλωση του ιού 
+virological characteristics 
+ιολογικά χαρακτηριστικά 
+ 
+44 
+Αγγλικός όρος 
+Ελληνικός όρος 
+virologist 
+ιολόγος 
+virulence 
+λοιμοτοξικότητα, λοιμογόνος δράση, μολυσματικότητα 
+virulence of SARS-CoV-2 
+λοιμογόνος δράση του SARS-CoV-2 
+virulent 
+λοιμογόνος 
+virus 
+ιός 
+virus multiplication 
+ιικός πολλαπλασιασμός 
+virus spread in the community 
+εξάπλωση του ιού στην κοινότητα 
+virus strain 
+στέλεχος ιού 
+virus variant 
+παραλλαγή ιού 
+virus vector 
+φορέας του ιού 
+virus-host interaction 
+αλληλεπίδραση ιού-ξενιστή 
+visitor’s country of origin 
+χώρα προέλευσης επισκέπτη 
+voluntarily present oneself for testing 
+προσέρχομαι/παρουσιάζομαι 
+αυτοβούλως/εκουσίως/οικειοθελώς/εθελοντικά για 
+δοκιμή/έλεγχο 
+voluntarily submit oneself for testing 
+υποβάλλω εθελοντικά τον εαυτό μου σε δοκιμή, 
+υποβάλλω εθελοντικά τον εαυτό μου σε τεστ 
+voluntary quarantine 
+εθελοντική καραντίνα 
+volunteer 
+εθελοντής 
+vulnerable 
+ευάλωτος, τρωτός 
+vulnerable group 
+ευάλωτη ομάδα 
+vulnerable health care system 
+ευάλωτο σύστημα υγειονομικής περίθαλψης 
+vulnerable person 
+ευάλωτο άτομο 
+vulnerable population 
+ευάλωτος πληθυσμός 
+vulnerable socioeconomic groups and 
+other groups at higher risk  {priority 
+group} 
+ευάλωτες κοινωνικοοικονομικές ομάδες και άλλες ομάδες 
+υψηλότερου κινδύνου {ομάδα προτεραιότητας} 
+vulnerable to infection 
+ευάλωτος στη λοίμωξη 
+wall of immunity 
+τείχος ανοσίας 
+waning immunity 
+φθίνουσα ανοσία 
+washing hands thoroughly 
+σχολαστικό πλύσιμο των χεριών 
+water vapor 
+υδρατμός 
+way of transmission 
+τρόπος μετάδοσης 
+well-ventilated room 
+καλά αεριζόμενο δωμάτιο 
+WHO label 
+επίσημα του ΠΟΥ, ετικέτα του ΠΟΥ 
+WHO’s global list of VOC and VOI 
+παγκόσμιος κατάλογος παραλλαγών VOC και VOI του 
+ΠΟΥ 
+wide-spectrum protective glasses 
+προστατευτικά γυαλιά ευρέος φάσματος 
+ 
+45 
+Αγγλικός όρος 
+Ελληνικός όρος 
+workers who cannot socially distance 
+{EU priority group} 
+εργαζόμενοι που δεν μπορούν να τηρήσουν φυσικές 
+αποστάσεις {ομάδα προτεραιότητας} 
+World Health Organization, WHO 
+Παγκόσμιος Οργανισμός Υγείας, ΠΟΥ 
+Xevudy (active substance: sotrovimab) 
+Xevudy (δραστική ουσία: σοτροβιμάβη) 
+zoonosis 
+ζωονόσος 
+zoonotic 
+ζωονοσογόνος 
+Ε484Q mutation 
+μετάλλαξη Ε484Q 
+ΧΑΜ plan, Hand(washing)–
+Distance(keeping)–Mask(wearing) plan 
+Σχέδιο ΧΑΜ, Σχέδιο Χέρια (πλένουμε) – Αποστάσεις 
+(κρατάμε) – Μάσκα (φοράμε) 
+ 
+Κενή σελίδα 
+ 
+ 
+46 
+ 
+Β.   Ελληνοαγγλικό γλωσσάριο 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+arbidol {αντιιικό ευρέος φάσματος} 
+arbidol (broad-spectrum antiviral drug) 
+COVID-19 βαριάς μορφής, βαριά COVID-19 
+severe COVID-19 
+COVID-19, ασθένεια/νόσος προκαλούμενη από 
+κορονοϊό 2 που προξενεί σοβαρό οξύ αναπνευστικό 
+σύνδρομο (διαταραχή), ασθένεια/νόσος 
+προκαλούμενη από κορονοϊό 2 που προξενεί 
+σοβαρό οξύ αναπνευστικό σύνδρομο 
+COVID-19, disease caused by severe acute 
+respiratory syndrome coronavirus 2 
+(disorder), disease caused by severe acute 
+respiratory syndrome coronavirus 2 
+EXO-CD24 
+EXO-CD24 
+kineret (δραστική ουσία: ανακίνρα) 
+kineret (active substance: anakinra) 
+SARS-CoV-2, κορονοϊός 2 που προξενεί σοβαρό οξύ 
+αναπνευστικό σύνδρομο (οργανισμός), κορονοϊός 2 
+που προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο 
+SARS-CoV-2, severe acute respiratory 
+syndrome coronavirus 2 (organism), severe 
+acute respiratory syndrome coronavirus 2 
+Xevudy (δραστική ουσία: σοτροβιμάβη) 
+Xevudy (active substance: sotrovimab) 
+αβιπταντίλη 
+aviptadil 
+αγγειοτενσίνη ΙΙ 
+angiotensin II 
+αγγελιαφόρο RNA, mRNA 
+messenger RNA, mRNA 
+άγγιγμα του στόματος, της μύτης ή των ματιών 
+touching one’s own mouth, nose or eyes 
+αγκωναψία 
+elbow touch, elbow bump, elbow shake 
+αγορά κρεάτων 
+meat market 
+άγχος 
+stress 
+αδειοδοτημένο εμβόλιο 
+licensed vaccine 
+αδενοϊός 
+adenovirus 
+αδενοϊός 26 
+adenovirus 26 
+αδενοϊός 5 
+adenovirus 5 
+αδιάγνωστο κρούσμα 
+undiagnosed case 
+αδρανοποιημένο εμβόλιο 
+inactivated vaccine 
+αδρανοποιημένος κορονοϊός 
+inactivated coronavirus 
+αδρανοποίηση των ειδικών πρωτεϊνών του 
+κορονοϊού 
+disabling the coronavirus' specific proteins 
+αεραγωγός 
+airway 
+αερόλυμα 
+aerosol 
+αεροϋγειονομείο 
+airport health check station 
+αερόφερτη λοίμωξη, αερομεταδιδόμενη λοίμωξη, 
+αερογενής λοίμωξη {ατυχής όρος} 
+airborne infection 
+αερόφερτη μετάδοση 
+airborne transmission 
+αθροιστικά δεδομένα, συγκεντρωτικά δεδομένα 
+aggregate data 
+ 
+47 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αθροιστική κατανομή των επιβεβαιωμένων 
+κρουσμάτων 
+cumulative distribution of confirmed cases 
+αίθουσα αναμονής νοσοκομείου 
+hospital waiting room 
+αίθουσα διδασκαλίας 
+classroom 
+αίθουσα συσκέψεων 
+meeting room 
+αιματολογικός καρκίνος 
+hematological cancer 
+αιμοκάθαρση 
+dialysis 
+αίρω τα μέτρα της καραντίνας 
+unlock the quarantine measures 
+αίσθημα πνιγμονής 
+sensation of suffocation 
+αιχμή εγχώριων λοιμώξεων, έξαρση εγχώριων 
+λοιμώξεων 
+spike in domestic infections 
+αιχμή λοιμώξεων, έξαρση λοιμώξεων 
+spike in infections 
+ακτινοθεραπεία 
+radiotherapy 
+ακυτταρικό μέρος του αίματος 
+acellular part of blood 
+αλγόριθμος EVA, αλγόριθμος ΕΥΑ 
+EVA algorithm 
+αλγόριθμος τεχνητής νοημοσύνης, αλγόριθμος AI 
+artificial intelligence algorithm, AI algorithm 
+αλκοολούχο αντισηπτικό 
+alcohol anticeptic 
+αλκοολούχο διάλυμα 
+alcohol solution 
+αλλεργία 
+allergy 
+αλλεργία απειλητική της ζωής 
+life-threatening allergy 
+αλληλεπίδραση ιού-ξενιστή 
+virus-host interaction 
+αλληλούχηση του DNA 
+DNA sequencing 
+αλληλούχηση του γονιδιώματος 
+genome sequencing 
+αλυσίδα μετάδοσης της λοίμωξης 
+chain of transmission of infection 
+αλυσίδα μετάδοσης της νόσου 
+chain of disease transmission 
+αλυσίδα μόλυνσης, αλυσίδα λοίμωξης 
+chain of infection 
+αλυσιδωτή αντίδραση πολυμεράσης, PCR 
+polymerase chain reaction, PCR 
+άμεση επαφή 
+direct contact 
+άμεση επαφή με μολυσματικές εκκρίσεις 
+περιστατικού COVID-19 
+direct contact with infectious secretions of 
+a COVID-19 case 
+άμεση οξυγονοθεραπεία 
+immediate oxygen therapy 
+άμεση σωματική επαφή με περιστατικό COVID-19 
+direct physical contact with a COVID-19 
+case 
+αμινοξύ 
+amino acid 
+αναγκαία μέτρα περιοριστικά της ελευθερίας 
+necessary confinement measures 
+αναγνωρίζω κρούσματα 
+identify cases 
+αναγνώριση ύποπτων κρουσμάτων 
+identification of suspected cases 
+αναδυόμενος αναπνευστικός ιός 
+emerging respiratory virus 
+ 
+48 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ανακίνρα 
+anakinra 
+ανακοίνωση κρουσμάτων 
+announcement of cases 
+ανακουφίζω τα συμπτώματα 
+relieve symptoms 
+αναμενόμενος κατά ηλικία CFR 
+age-expected CFR 
+αναμνηστική δόση εμβολίου 
+vaccine booster shot 
+αναμνηστική δόση εμβολίου κατά της COVID-19 
+COVID-19 vaccine booster shot 
+αναπνευστήρας 
+respirator 
+αναπνευστικές εκκρίσεις 
+respiratory secretions 
+αναπνευστική ανεπάρκεια 
+respiratory failure 
+αναπνευστική λειτουργία 
+respiratory function 
+αναπνευστική λοίμωξη, λοίμωξη του αναπνευστικού 
+συστήματος 
+respiratory infection 
+αναπνευστική υγιεινή 
+respiratory hygiene 
+αναπνευστική υποστήριξη 
+respiratory support 
+αναπνευστικός ιός 
+respiratory virus 
+ανάπτυξη εμβολίων 
+vaccine development 
+αναπτυξιακή δυσκολία 
+developmental difficulty 
+αναπτύσσω (μια) παραλαγή στο εργαστήριο 
+grow a variant in the laboratory 
+αναπτύσσω ανοσία, «χτίζω» ανοσία 
+build immunity 
+αναπτύσσω αντισώματα 
+develop antibodies 
+αναρρωνύων, ασθενής σε ανάρρωση 
+convalescent 
+αναρρώνω χωρίς ανάγκη θεραπείας 
+recover without need for treatment 
+ανάρρωση από COVID-19 
+convalescence from COVID-19, recovery 
+from COVID-19 
+αναρρωτικό πλάσμα 
+convalescent plasma 
+αναστολή PCR 
+PCR inhibition 
+αναφερθέν κρούσμα, κρούσμα που έχει αναφερθεί 
+reported case 
+αναφυλαξία 
+anaphylaxis 
+ανεβάζω πυρετό, αναπτύσσω πυρετό 
+develop a fever 
+ανεμβολίαστο άτομο 
+unvaccinated person 
+ανέπαφος χαιρετισμός 
+non-contact greeting 
+ανεπιθύμητη ενέργεια μετά την 
+ανοσοποίηση 
+adverse event following immunisation, 
+AEFI 
+ανεπιθύμητη ενέργεια, ανεπιθύμητη αντίδραση 
+adverse event, adverse reaction 
+ανεπιθύμητη παρενέργεια 
+adverse side effect 
+ανεύρεση ενεργών κρουσμάτων 
+active case finding 
+ανθεκτικό στέλεχος 
+resistant strain 
+ανιχνευμένο κρούσμα 
+detected case 
+ 
+49 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ανίχνευση κρουσμάτων, ανίχνευση περιστατικών 
+detection of cases 
+ανιχνεύω τον ιό 
+detect the virus 
+ανοιγοκλείσιμο ακορντεόν, λοκντάουν ακορντεόν 
+accordion lockdown, lockdown accordion 
+ανοιχτοί χώροι με συγχρωτισμό 
+crowded open spaces 
+ανοσία 
+immunity 
+ανοσία κοινότητας, συλλογική ανοσία, ανοσία 
+αγέλης 
+community immunity, herd immunity 
+ανοσία της αγέλης, συλλογική ανοσία 
+herd immunity 
+ανοσιακή απόκριση, ανοσοαπόκριση, αδόκ. 
+ανοσοανταπόκριση 
+immune response, immunoresponse 
+ανοσιακή μνήμη 
+immunological memory, immune memory, 
+immunomemory 
+ανοσιακή προστασία, ανοσοπροστασία 
+immune protection, immunoprotection 
+ανοσιακό σύστημα 
+immune system 
+ανοσμία 
+anosmia 
+ανοσοανεπάρκεια 
+immunodeficiency 
+ανοσοαπόκριση, ανοσιακή αντίδραση 
+immune response 
+ανοσοαπόκριση, ανοσιακή απόκριση, 
+ανοσοποιητική απόκριση, ανοσολογική απόκριση 
+immunoresponse, immune response 
+ανοσογονικότητα εμβολίου 
+vaccine immunogenicity 
+ανοσοδιαφυγή, ανοσολογική διαφυγή 
+immune escape 
+ανοσοενισχυτικό 
+adjuvant {n.} 
+ανοσοθεραπεία 
+immunotherapy 
+ανοσοκατασταλτική ιδιότητα 
+immunosuppressive property 
+ανοσοκαταστολή 
+immunosuppression, immunodepression 
+ανοσοκύτταρο 
+immune cell 
+ανοσολόγος 
+immunologist 
+ανοσοποίηση 
+immunization 
+ανοσοποίηση με ετερόλογη ενίσχυση 
+heterologous prime-boost immunization 
+ανοσοποίηση ρουτίνας 
+routine immunisation 
+ανοσοποιητικό σύστημα 
+immune system 
+ανοσοτροποποιητική θεραπεία 
+immunotropic therapy 
+αντένδειξη 
+contraindication 
+αντιαλλεργική ιδιότητα 
+antiallergic property 
+αντιγόνο 
+antigen 
+αντιγόνο του SARS-CoV-2, αντιγόνο του κορονοϊού 
+2 σοβαρού οξέος αναπνευστικού συνδρόμου 
+(ουσία), αντιγόνο του κορονοϊού 2 σοβαρού οξέος 
+αναπνευστικού συνδρόμου 
+antigen of SARS-CoV-2, antigen of severe 
+acute respiratory syndrome coronavirus 2 
+(substance), antigen of severe acute 
+respiratory syndrome coronavirus 2 
+ 
+50 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αντιγριπικό εμβόλιο 
+influenza vaccine 
+αντιδραστικότητα 
+reactogenicity 
+αντιθρομβωτική αγωγή, αντιθρομβωτική θεραπεία 
+antithrombotic treatment 
+αντιιικό φάρμακο 
+antiviral drug 
+αντίκτυπος ανά χώρα 
+impact per country 
+αντιπηκτικό 
+anticoagulant 
+αντιπυρετικό 
+antipyretic 
+αντισηπτικό 
+antiseptic 
+αντίσωμα κατά του SARS-CoV-2, αντίσωμα κατά του 
+κορονοϊού 2 σοβαρού οξέος αναπνευστικού 
+συνδρόμου (ουσία), αντίσωμα κατά του κορονοϊού 2 
+σοβαρού οξέος αναπνευστικού συνδρόμου 
+antibody to SARS-CoV-2, antibody to 
+severe acute respiratory syndrome 
+coronavirus 2 (substance), antibody to 
+severe acute respiratory syndrome 
+coronavirus 2 
+αντισωματική απόκριση, αδόκ. αντισωματική 
+ανταπόκριση 
+antibody response 
+αντιτοξική ιδιότητα 
+antitoxic property 
+αντιφλεγμονώδης δράση 
+anti-inflammatory action 
+ανώτερη αναπνευστική οδός 
+upper respiratory tract 
+ανώτερο αναπνευστικό σύστημα 
+upper respiratory system 
+απαγόρευση μεγάλων συγκεντρώσεων 
+ban on large gatherings 
+απαγόρευση μη απαραίτητης μετακίνησης, 
+απαγόρευση μη ουσιώδους μετακίνησης, 
+απαγόρευση άσκοπης μετακίνησης 
+ban on non-essential movement 
+απαραίτητες ενέργειες 
+necessary actions 
+απαραίτητη φυσική δραστηριότητα 
+necessary physical activity 
+απλή χειρουργική μάσκα 
+standard surgical mask 
+άπλωμα της καμπύλης 
+flattening the curve 
+άπλωμα της καμπύλης της πανδημίας 
+flattening the curve of the pandemic 
+απλώνω την καμπύλη, οριζοντιώνω την καμπύλη, 
+χαμηλώνω την καμπύλη {Ca} 
+flatten the curve, plank the curve {Ca} 
+αποικίζω (π.χ. αποικίζω τη μύτη) 
+colonize {v.} (e.g. colonize the nose) 
+αποκλιμάκωση του πανδημικού κύματος 
+de-escalation of pandemic wave 
+αποκρίνομαι στην έκρηξη (της πανδημίας), 
+αποκρίνομαι στο ξέσπασμα (της πανδημίας) 
+respond to the outbreak (of the pandemic) 
+απόκριση στην έκρηξη (της πανδημίας), απόκριση 
+στο ξέσπασμα (της πανδημίας) 
+response to the outbreak (of the pandemic) 
+απόκρυψη της κρίσης 
+concealing the crisis 
+απολυμαίνω 
+disinfect 
+απολύμανση 
+disinfection 
+απολυμαντικό 
+disinfectant 
+ 
+51 
+Ελληνικός όρος 
+Αγγλικός όρος 
+απολυμαντικό χεριών 
+hand sanitizer 
+απολυμαντικό χεριών 
+hand disinfectant 
+απομόνωση 
+isolation 
+απομόνωση στο νοσοκομείο 
+isolation at the hospital 
+απομόνωση στο σπίτι 
+isolation at home 
+απορρυπαντικό 
+detergent 
+αποστείρωση του ιατρικού εξοπλισμού 
+sterilization of medical equipment 
+αποστειρωτική ανοσία 
+sterilising immunity, sterilizing immunity 
+αποσωλήνωση, αποδιασωλήνωση 
+extubation 
+αποτελεσματική πρόληψη 
+effective prevention 
+αποτελεσματικό εμβόλιο 
+effective vaccine 
+αποτελεσματικό εμβόλιο {κατά της νόσου} 
+effective vaccine {against the disease} 
+αποτελεσματικό φάρμακο 
+effective drug 
+αποτελεσματικότητα 
+effectiveness 
+αποτελεσματικότητα εμβολίου 
+vaccine effectiveness 
+αποτρέψιμη νόσος 
+preventable disease 
+αποτρέψιμη νόσος με εμβόλιο 
+vaccine-preventable disease 
+αποφυγή αγγίγματος ματιών, μύτης και στόματος 
+avoiding touching eyes, nose and mouth 
+αποφυγή αγγίγματος του προσώπου 
+avoiding touching the face 
+αποφυγή απευθείας έκθεσης των μικρών παιδιών 
+στα μέσα ενημέρωσης 
+avoiding direct exposure to media for 
+younger kids 
+αποφυγή επαφής με άτομα που έχουν συμπτώματα 
+λοίμωξης 
+avoiding contact with persons showing 
+infection symptoms 
+αποφυγή στενής επαφής (χειραψίες, αγκαλιές και 
+φιλιά) 
+avoiding close contact (handshaking, 
+hugging and kissing) 
+απτοφοβία, αφηφοβία 
+haphephobia, haptephobia, haptophobia 
+απύρετος 
+afebrile 
+απώλεια ανοσίας 
+immunity loss 
+αρθραλγία, πόνος αρθρώσεων 
+arthralgia, joint pain 
+αρθρίτιδα 
+arthritis 
+αριθμός δοκιμών ανά σημείο εισόδου, αριθμός των 
+τεστ ανά σημείο εισόδου 
+number of tests per entry point 
+αριθμός κρουσμάτων και θανάτων 
+number of cases and fatalities 
+αριθμός νέων κρουσμάτων 
+number of new cases 
+αριθμός νοσηλευόμενων ασθενών, αριθμός 
+νοσηλευθέντων ασθενών 
+number of hospitalized patients 
+αριθμός υπαλλήλων που εκτίθενται στη λοίμωξη 
+number of employees exposed to infection 
+άρνηση της βαρύτητας της πανδημίας 
+denying the gravity of the pandemic 
+αρνητής της πανδημίας 
+pandemic denier 
+ 
+52 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αρνητής του εμβολίου 
+vaccine denier 
+αρνητικές οικονομικές και κοινωνικές επιπτώσεις 
+negative economic and social 
+consequences 
+αρνητική δοκιμή, αρνητική δοκιμασία, αρνητικό τεστ 
+negative test 
+αρνητική μοριακή δοκιμή, αρνητικό μοριακό τεστ, 
+αρνητική μοριακή δοκιμασία 
+negative molecular test 
+αρνητικό δείγμα 
+negative sample 
+αρνούμαι να συμμορφωθώ με τα μέτρα 
+refuse to comply with the measures 
+άρση μέτρων 
+lifting of measures 
+αρτηριακή υπέρταση 
+arterial hypertension 
+αρχικό κρούσμα, κρούσμα δείκτης 
+index case 
+ασθενείς με αντιφλεγμονώδη 
+patients taking anti-inflammatory drugs 
+ασθενείς με αυτοάνοσα νοσήματα 
+patients with autoimmune diseases 
+ασθενείς με ηπατοπάθειες 
+patients with liver conditions 
+ασθενείς με πνευμονοπάθειες 
+patients with lung conditions 
+ασθενείς με σακχαρώδη διαβήτη 
+patients with diabetes mellitus 
+ασθενείς νοσηλευόμενοι 
+patients in hospitals 
+ασθενείς φιλοξενούμενοι σε μονάδες ηλικιωμένων 
+patients in elderly care units 
+ασθενείς φιλοξενούμενοι σε μονάδες χρονίως 
+πασχόντων 
+patients in chronic care units 
+ασθενής με COVID-19 
+COVID-19 patient 
+ασθενής μηδέν 
+patient zero 
+ασθενής μηδέν, ασθενής 0, κρούσμα δείκτης, αρχικό 
+κρούσμα 
+patient zero, index case, primary case 
+ασθενής σε κρίσιμη κατάσταση 
+patient in critical condition 
+ασθενής υψηλής διακινδύνευσης, ασθενής υψηλού 
+κινδύνου 
+high risk patient 
+ασθενής χωρίς ανάγκη νοσηλείας 
+patient without need for hospital care 
+ασπαραγίνη 501 
+asparagine 501 
+ασπίδα προσώπου 
+face shield 
+ασυμπτωματική μετάδοση 
+asymptomatic transmission 
+ασυμπτωματική περίοδος επώασης 
+asymptomatic incubation period 
+ασυμπτωματικό κρούσμα 
+asymptomatic case 
+ασυμπτωματικό κρούσμα COVID-19 
+asymptomatic COVID-19 case 
+ασυμπτωματικός 
+asymptomatic 
+ασυμπτωματικός φορέας, υγιής φορέας 
+asymptomatcic carrier, healthy carrier 
+ασφάλεια εμβολίου 
+vaccine safety 
+ασφαλές εμβόλιο 
+safe vaccine 
+ασφαλές και προστατευμένο περιβάλλον 
+safe and protected environment 
+ 
+53 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ασφάλιση υγείας, ασφάλεια υγείας 
+medical insurance 
+άτομα άνω των 60 ετών {ομάδα προτεραιότητας} 
+persons over 60 years of age {priority 
+group} 
+άτομα ιδιαιτέρως ευάλωτα λόγω της κατάστασης 
+της υγείας τους {ομάδα προτεραιότητας} 
+persons whose state of health makes them 
+particularly at risk  {priority group} 
+άτομα με λοίμωξη HIV 
+persons with HIV infection 
+άτομα με μεταμόσχευση 
+transplant persons 
+άτομα με μεταμόσχευση αιμοποιητικών κυττάρων 
+hematopoietic cell transplant persons 
+άτομα με μεταμόσχευση συμπαγών οργάνων 
+solid organ transplant persons 
+άτομα με νεφρική ανεπάρκεια 
+persons with renal insufficiency, persons 
+with renal failure 
+άτομα που λαμβάνουν ανοσοκατασταλτικά φάρμακα 
+persons taking immunosuppressive drugs 
+άτομα που υποβάλλονται σε θεραπεία 
+persons under treatment 
+άτομα σε ανοσοκαταστολή 
+persons on immunosuppression 
+άτομα σε λίστα αναμονής για μεταμόσχευση 
+persons οn a transplant waiting list 
+ατομική ευθύνη 
+personal responsibility, individual 
+responsibility 
+αυστηρά μέτρα κοινωνικής αποστασιοποίησης 
+severe social distancing measures 
+αυτοαπομόνωση 
+self-isolation 
+αυτοαπομόνωση στο σπίτι 
+self-isolation at home 
+αυτοδοκιμή, αυτοτέστ, αυτοδιαγνωστική δοκιμή, 
+αυτοδιαγνωστικό τεστ 
+self-test 
+αυτο-καραντίνα, αυτόβουλη καραντίνα, εθελούσια 
+καραντίνα, εθελοντική καραντίνα, οικειοθελής 
+καραντίνα 
+self-quarantine, voluntary quarantine 
+βακτήριο, βακτηρίδιο 
+bacterium {pl. bacteria} 
+βαμβακερό ύφασμα 
+cotton cloth 
+βαμβακερό ύφασμα 
+cotton fabric 
+βαμβακερό ύφασμα με πυκνή ύφανση 
+tightly woven cotton fabric 
+βαριά νόσηση 
+severe disease, severe illness 
+βαρύτητα της κλινικής εικόνας, σοβαρότητα της 
+κλινικής εικόνας 
+severity of clinical condition 
+βαρύτητα της λοίμωξης, σοβαρότητα της λοίμωξης 
+infection severity 
+βαρύτητα της πανδημίας 
+gravity of the pandemic 
+βασικές προφυλάξεις 
+standard precautions 
+βασικό σχήμα εμβολιασμού 
+basic vaccination scheme 
+βασικοί εργαζόμενοι εκτός του τομέα της υγείας 
+{ομάδα προτεραιότητας} 
+essential workers outside the health sector 
+{priority group} 
+βασικός αριθμός αναπαραγωγής, R0 
+basic reproduction number, R0 
+βασικός εμβολιασμός 
+basic vaccination 
+ 
+54 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Βεβαίωση Εμβολιασμού SARS-Cov-2 
+SARS-Cov-2 Vaccination Record Certificate 
+βήχας 
+cough, coughing 
+βήχω στον αγκώνα μου 
+cough inside one’s elbow 
+βιολογικό υγρό {σάλιο, αίμα κ.α.} 
+biological fluid, biofluid {saliva, blood etc.} 
+βοηθός επιβατών 
+passenger assistant 
+βρίσκομαι θετικός στη δοκιμή, βρίσκομαι θετικός 
+στο τεστ 
+test positive (for the virus) {v.} 
+βρογχοσκόπηση 
+bronchoscopy 
+βρογχοσκόπιο 
+bronchoscope 
+Γαλλογερμανική Πρωτοβουλία για την ευρωπαϊκή 
+ανάκαμψη από την κρίση του κορονοϊού 
+French–German Initiative for the European 
+recovery from coronavirus crisis 
+γάντια μιας χρήσης 
+disposable gloves 
+γενετικό υλικό 
+genetic material 
+γενετικός κώδικας 
+genetic code 
+γενικά μέτρα πρόληψης μετάδοσης λοιμώξεων 
+general measures for prevention of 
+infection transmission 
+γενικό κλείσιμο 
+lockdown {n.} 
+γεωγραφική διασπορά 
+geographical dispersion 
+γεωγραφική εξάπλωση 
+geographical spread 
+γεωγραφική κατανομή 
+geographical distribution 
+γονίδιο 
+gene 
+γονίδιο CD24 
+CD24 gene 
+γονίδιο της ακίδας 
+spike gene 
+γονιδίωμα 
+genome 
+γονιδιωματικές ιδιότητες 
+genomic properties 
+γονιδιωματική επιτήρηση 
+genomic surveillance 
+γονικό στέλεχος 
+parental strain 
+γονικός ιός 
+parent virus 
+γραμμική κλίμακα 
+linear scale 
+δεδομένα επιτήρησης 
+surveillance data 
+δείγμα 
+sample 
+δείγμα αίματος 
+blood sample 
+δείκτης δευτερογενούς προσβολής, πηλίκο 
+δευτερογενούς προσβολής 
+secondary attack rate 
+δείκτης θνητότητας 
+fatality rate 
+δείκτης θνητότητας κρουσμάτων 
+case fatality rate, case fatality ratio, CFR 
+δείκτης θνητότητας κρουσμάτων COVID-19, CFR της 
+COVID-19 
+COVID-19 case fatality rate, COVID-19 CFR 
+δείκτης θνητότητας λοίμωξης 
+infection fatality ratio, IFR 
+ 
+55 
+Ελληνικός όρος 
+Αγγλικός όρος 
+δείκτης προσβολής, πηλίκο προσβολής 
+attack rate, rate of attack 
+δελτοειδής 
+deltoid 
+δεξαμεθαζόνη 
+dexamethasone 
+δεξαμεθαζόνη 
+dexamethasone 
+δεύτερη γραμμή άμυνας 
+second line of defense 
+δευτερογενές κρούσμα 
+secondary case 
+δηλώνω το ύποπτο κρούσμα 
+declare the suspected case 
+δημογραφική μελέτη 
+demographic study 
+δημόσια ανοσοποίηση 
+public immunisation 
+δημόσια υγεία 
+public health 
+διά ζώσης επαφή 
+live contact 
+διαγνωσμένο κρούσμα 
+diagnosed case 
+διαγνωστικό εργαστήριο 
+diagnostic laboratory 
+διαδικασία απολύμανσης 
+decontamination procedure 
+διαδικασία έγκρισης 
+authorisation procedure 
+διαδικασία και διακυβέρνηση σχετικά με τον 
+εμβολιασμό στην ΕΕ 
+process and governance on vaccination in 
+the EU 
+διάθεση εμβολίου 
+vaccine rollout 
+διακινδύνευση θανάτου, κίνδυνος θανάτου 
+mortality risk, death risk 
+διακινδύνευση μετάδοσης κορονοϊού, κίνδυνος 
+μετάδοσης κορονοϊού 
+risk of transmission of coronavirus 
+διακινδύνευση μόλυνσης, κίνδυνος μόλυνσης 
+risk of infection 
+διαλογή {κρουσμάτων} 
+triage 
+διαλογή εισόδου 
+entry screening 
+διαλογή με θερμομέτρηση 
+temperature measurement screening 
+διαλογή, αναγνώριση και απομόνωση ύποπτων 
+κρουσμάτων με λοίμωξη COVID-19 
+triage, recognition and isolation of 
+suspected cases 
+διάλυμα οικιακής χλωρίνης 
+household chlorine solution 
+διάλυμα υποχλωριώδους νατρίου 
+sodium hypochlorite solution 
+διάμεση ηλικία 
+median age 
+διάμεση περίοδος επώασης 
+median incubation period 
+διάμεσος χρόνος ανάρρωσης 
+median recovery time 
+διαμόλυνση 
+cross-contamination 
+διάρκεια ανοσίας 
+duration of immunity, immunity duration 
+διασπορά βακτηρίων 
+bacterial spread 
+διασπορά στην κοινότητα 
+community dispersion 
+διασωληνωμένος, ενσωληνωμένος 
+intubated 
+διασωληνώνω, ενσωληνώνω 
+intubate 
+ 
+56 
+Ελληνικός όρος 
+Αγγλικός όρος 
+διασωλήνωση, ενσωλήνωση 
+intubation 
+διατομική ευθύνη 
+transindividual responsibility 
+διαφεύγω από τα αντισώματα 
+escape antibodies {v.} 
+διαχειρίζομαι την έκρηξη (της πανδημίας), 
+διαχειρίζομαι το ξέσπασμα (της πανδημίας) 
+manage the outbreak (of the pandemic) 
+διαχειρίζομαι την κρίση 
+handle the crisis 
+διαχείριση ελεύθερου χρόνου 
+free-time management 
+διαχείριση συναισθημάτων 
+emotional management 
+διαχείριση των ασθενών 
+patient management 
+διαχείριση ύποπτου κρούσματος COVID-19 
+handling of suspected case of COVID-19 
+διαχείριση ύποπτου κρούσματος με λοίμωξη από το 
+νέο κορονοϊό SARS–CoV-2 
+handling of suspected case of new 
+coronavirus SARS-CoV-2 infection 
+διεγείρω ανοσία κατά της νόσου COVID-19, 
+προκαλώ ανοσία στη νόσο COVID-19 
+trigger immunity to COVID-19 
+διεισδυτικότητα της COVID-19 
+pervasiveness of Covid-19 
+διερευνητικές συνομιλίες 
+exploratory talks 
+δίκτυο γονιδιωματικής επιτήρησης 
+genomic surveillance network 
+δίκτυο των κοινωνικών σχέσεων του παιδιού 
+child’s social relations network 
+διοικητικές κυρώσεις 
+administrative sanctions 
+διοικητικό συμβούλιο 
+steering board 
+διοχούμενη ταχυδοκιμή, διοχούμενη ταχυδοκιμασία, 
+διοχούμενο ταχυτέστ 
+drive through (rapid) test 
+διστακτικότητα έναντι εμβολίου 
+vaccine hesitancy 
+δοκιμάζω σε ζώα 
+test in animals {v.} 
+δοκιμές σε ζώα 
+trials in animals 
+δοκιμή PCR, δοκιμή αλυσιδωτής αντίδρασης 
+πολυμεράσης 
+PCR test 
+δοκιμή αντισωμάτων, δοκιμασία αντισωμάτων, τεστ 
+αντισωμάτων 
+antibody test 
+δοκιμή, δοκιμασία, τεστ 
+test 
+δομή υγείας 
+health structure 
+δόση εμβολίου 
+dose of a vaccine 
+δοσοεξαρτώμενη απόκριση 
+dose dependent response 
+δραστηριότητα με εκπαιδευτικό χαρακτήρα 
+educational type activity 
+δραστηριότητα μέσης επικινδυνότητας 
+medium hazard activity 
+δραστηριότητα μέσης επικινδυνότητας ορθότερο: 
+δραστηριότητα μέσης διακινδύνευσης 
+medium risk activity 
+δραστηριότητα υψηλής επικινδυνότητας 
+high hazard activity 
+δραστηριότητα υψηλής επικινδυνότητας 
+ορθότερο:δραστηριότητα υψηλής διακινδύνευσης 
+high risk activity 
+ 
+57 
+Ελληνικός όρος 
+Αγγλικός όρος 
+δραστηριότητα χαμηλής επικινδυνότητας 
+low hazard activity 
+δραστηριότητα χαμηλής επικινδυνότητας, ορθότερο: 
+δραστηριότητα χαμηλής διακινδύνευσης 
+low risk activity 
+δραστική ουσία, ενεργός ουσία, ενεργή ουσία 
+active substance 
+δραστικότητα 
+efficacy 
+δραστικότητα εμβολίου 
+vaccine efficacy 
+δραστικότητα φαρμάκου 
+drug potency, potency of a drug 
+δυναμικότητα συστήματος υγειονομικής 
+περίθαλψης, δυναμικότητα συστήματος υγείας 
+healthcare system capacity 
+δυνητική οδός μετάδοσης 
+potential route of transmission 
+δυνητικό εμβόλιο 
+potential vaccine 
+δυνητικό κρούσμα 
+potential case 
+δυσκολία στην αναπνοή, δύσπνοια 
+difficulty breathing, dyspnea 
+δυσκολία συμπεριφοράς 
+behavioral difficulty 
+δύσπνοια, δυσκολία στην αναπνοή 
+dyspnea, difficulty breathing 
+δωρίζω δεσμευμένες δόσεις σε χώρες χαμηλού και 
+μεσαίου εισοδήματος 
+donate reserved doses to lower and middle-
+income countries 
+εγείρω μέγιστη απόκριση 
+elicit largest response 
+εγείρω την παραγωγή εξουδετερωτικών 
+αντισωμάτων 
+elicit neutralizing antibodies 
+έγκαιρη ανίχνευση 
+early detection 
+έγκαιρη διάγνωση 
+timely diagnosis 
+έγκαιρος σχεδιασμός 
+timely planning 
+έγκριση εμβολίου 
+vaccine approval 
+έγκριση πολιτικής δημόσιας υγείας {ενός εμβολίου} 
+public health policy approval {of a vaccine} 
+εγχώριο κρούσμα, μη εισαγόμενο κρούσμα 
+domestic case, non-visitor case 
+εθελοντής 
+volunteer 
+εθελοντής δοκιμής 
+trial volunteer 
+εθελοντική καραντίνα 
+voluntary quarantine 
+Εθνική Επιτροπή Εμβολιασμού 
+National Vaccination Committee, National 
+Committee for Vaccination 
+Εθνική Επιτροπή Υγείας της Κίνας 
+China’s National Health Commission 
+εθνική στρατηγική για τα εμβόλια 
+national vaccine strategy 
+εθνική τροχιά μόλυνσης 
+national infection trajectory 
+Εθνικό Δίκτυο Γονιδιωματικής Επιτήρησης 
+National Genomic Surveillance Network 
+Εθνικό Μητρώο Εμβολιασμών κατά της COVID-19 
+National COVID-19 Vaccination Registry 
+εθνικό πρόγραμμα ανοσοποίησης 
+national immunization programme 
+εθνικό πρόγραμμα εμβολιασμού 
+national vaccination programme 
+Εθνικό Σύστημα Υγείας, ΕΣΥ 
+Greek national health system, ESY 
+ 
+58 
+Ελληνικός όρος 
+Αγγλικός όρος 
+εθνικό σχέδιο εμβολιασμού 
+national vaccination plan 
+Εθνικός Οργανισμός Δημόσιας Υγείας, ΕΟΔΥ 
+National Public Health Organization, NPHO, 
+EODY 
+ειδικά διαμορφωμένος χώρος υποδοχής ασθενών 
+με μεταδοτικό νόσημα 
+area designated for the accommodation of 
+patients with contagious diseases 
+ειδικές πρωτεΐνες του ιού SARS-CoV-2 
+SARS-CoV-2 specific proteins 
+ειδική ανοσοτροποποιητική θεραπεία 
+special immunotropic therapy 
+ειδικό κατά ηλικία μερίδιο κρουσμάτων 
+age-specific share of cases 
+ειδικός κατά ηλικία CFR 
+age-specific CFR 
+ειδικός ψυχικής υγείας παιδιών και εφήβων 
+child and adolescent mental health 
+specialist 
+εικονικό φάρμακο, πλακέμπο, πλασίμπο 
+placebo 
+εισαγόμενο κρούσμα 
+imported case 
+εισπνεόμενη βουδεσονίδη 
+inhaled budesonide 
+εισπνεόμενο φάρμακο 
+inhaled drug 
+έκβαση νόσου 
+disease outcome 
+εκδηλώσεις 
+events 
+έκθεση επιδημιολογικής επιτήρησης 
+epidemiological surveillance report 
+έκθεση σε SARS-CoV-2, έκθεση σε κορονοϊό 2 που 
+προξενεί σοβαρό οξύ αναπνευστικό σύνδρομο 
+(συμβάν), έκθεση σε κορονοϊό 2 που προξενεί 
+σοβαρό οξύ αναπνευστικό σύνδρομο 
+exposure to SARS-CoV-2, exposure to 
+severe acute respiratory syndrome 
+coronavirus 2 (event), exposure to severe 
+acute respiratory syndrome coronavirus 2 
+έκθεση σε παθογόνο 
+exposure to a pathogen 
+έκθεση στον ιό 
+exposure to the virus 
+εκθετική αύξηση του αριθμού κρουσμάτων 
+exponential growth in case numbers 
+εκθετικός ρυθμός αύξησης 
+exponential growth rate 
+εκθέτω στον ιό {παθ. εκτίθεμαι στον ιό} 
+expose to the virus {pass. be exposed to 
+the virus} 
+εκπαιδευτικές δραστηριότητες εξ αποστάσεως 
+remote educational activities 
+εκπαιδευτικές δραστηριότητες εξ αποστάσεως (ηλ-
+μάθηση) 
+remote educational activities (e-learning) 
+εκπαιδευτική δραστηριότητα 
+educational activity 
+εκπνοή 
+exhaling 
+έκρηξη επιδημίας, ξέσπασμα επιδημίας 
+epidemic outbreak 
+έκρηξη πανδημίας, ξέσπασμα πανδημίας 
+pandemic outbreak 
+έκρηξη, έξαρση 
+outbreak 
+εκρίζωση 
+eradication 
+εκτεταμένες και αυστηρές δοκιμές 
+extensive and rigorous testing 
+εκτεταμένη έκθεση 
+extensive exposure 
+έκφραση συναισθημάτων 
+emotional expression 
+ 
+59 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ελεγχόμενη έκθεση σε μέσα 
+controlled exposure to media 
+έλεγχος της νόσου 
+disease control 
+ελέγχω και απομονώνω τις επαφές 
+test and isolate contacts 
+Ελληνική Εταιρεία Ανοσολογίας 
+Hellenic Society of Immunology 
+εμβολιάζομαι κατά της COVID-19 
+get vaccinated against COVID-19 
+εμβολιάζομαι, λαμβάνω εμβόλιο, κάνω εμβόλιο 
+receive a vaccine 
+εμβολιάζω 
+vaccinate {v.} 
+εμβολιασμός 
+vaccination 
+εμβολιασμός κατά του SARS-CoV-2, εμβολιασμός 
+κατά του κορονοϊού 2 σοβαρού οξέος 
+αναπνευστικού συνδρόμου (διαδικασία), 
+εμβολιασμός κατά του κορονοϊού 2 σοβαρού οξέος 
+αναπνευστικού συνδρόμου, εμβολιασμός κατά της 
+COVID-19 
+SARS-CoV-2 vaccination, severe acute 
+respiratory syndrome coronavirus 2 
+vaccination (procedure), severe acute 
+respiratory syndrome coronavirus 2 
+vaccination, COVID-19 vaccination 
+εμβολιασμός με ετερόλογη ενίσχυση 
+heterologous prime-boost vaccination 
+εμβολιασμός σε δύο στάδια, εμβολιασμός σε δύο 
+βήματα 
+two-step vaccination 
+εμβολιαστική κάλυψη 
+vaccination coverage 
+εμβολιαστικός πυλώνας 
+vaccine pillar 
+εμβόλιο 
+vaccine 
+εμβόλιο (κατά) της μηνιγγίτιδας 
+meningitis vaccine 
+εμβόλιο COVID-19 της AstraZeneca 
+AstraZeneca COVID-19 vaccine 
+εμβόλιο COVID-19 της Janssen 
+Janssen COVID-19 vaccine 
+εμβόλιο COVID-19 της Moderna 
+Moderna COVID-19 vaccine 
+εμβόλιο COVID-19 των Biontech-Pfizer 
+Biontech-Pfizer COVID-19 Vaccine 
+εμβόλιο COVID-19 των Oxford/AstraZeneca 
+Oxford/AstraZeneca COVID-19 vaccine 
+εμβόλιο COVID-19 των Sanofi-GSK 
+Sanofi-GSK COVID-19 vaccine 
+εμβόλιο mRNA 
+mRNA vaccine 
+εμβόλιο mRNA 
+mRNA shot 
+εμβόλιο για την COVID-19 
+vaccine for COVID-19 
+εμβόλιο κατά της COVID-19 
+COVID vaccine 
+εμβόλιο κατά της COVID-19, εμβόλιο COVID-19 
+COVID-19 vaccine 
+εμβόλιο πρωτεϊνικής υπομονάδας 
+protein subunit vaccine 
+εμβόλιο Σπούτνικ V 
+Sputnik V vaccine 
+εμβόλιο της Johnson & Johnson 
+Johnson & Johnson vaccine 
+εμβολιοφοβία 
+vaccinophobia 
+εμπειρική θεραπεία 
+empirical treatment 
+εμπιστοσύνη στον εμβολιασμό 
+vaccination confidence 
+εμπορικό κατάστημα  
+shop 
+ 
+60 
+Ελληνικός όρος 
+Αγγλικός όρος 
+εμπορικό κέντρο 
+shopping centre 
+εμπορικό όνομα εμβολίου 
+vaccine brand 
+εμφανίζω σημεία και συμπτώματα συμβατά με οξεία 
+αναπνευστική λοίμωξη 
+display signs and symptoms indicative of 
+ARI 
+εμφανίζω συμπτώματα 
+show symptoms 
+εμφανίζω συμπτώματα λοίμωξης 
+develop symptoms of infection 
+εμφάνιση συμπτωμάτων 
+display of symptoms 
+εναλλακτικοί τρόποι επικοινωνίας 
+alternative communication modes 
+ένδειξη μετάδοσης 
+indication of transmission 
+ενδημικός 
+endemic 
+ενδημικός ιός 
+endemic virus 
+ενδημικότητα 
+endemicity 
+ενδημώ 
+be endemic 
+ενδοθήλιο 
+endothelium 
+ενδομυϊκή χορήγηση 
+intramuscular administration 
+ενδονοσοκομειακή φροντίδα, ενδονοσοκομειακή 
+περίθαλψη 
+inpatient care 
+ενδοτραχειακή διασωλήνωση, ενδοτραχειακή 
+ενσωλήνωση 
+tracheal intubation 
+ενδοφλέβια χορήγηση 
+intravenous administration 
+ενέργεια θωράκισης, ενέργεια αναχαίτισης 
+containment event 
+ενεργό κρούσμα 
+active case 
+ενεργός αριθμός αναπαραγωγής, Rt 
+effective reproduction number, Rt 
+ενέσιμη μορφή 
+injectable form 
+ενέσιμη χορήγηση 
+injectable administration 
+ενέσιμο φάρμακο 
+injectable drug 
+ενθάρρυνση της εργασίας από το σπίτι 
+encouraging working from home 
+ενθάρρυνση της κοινωνικής αποστασιοποίησης 
+encouraging social distancing 
+ενισχυμένη επιτήρηση 
+enhanced surveillance 
+ενίσχυση εξάπλωσης του ιού 
+amplification of viral spread 
+ενίσχυση της ευρωπαϊκής οικονομικής και 
+βιομηχανικής επανατακτικότητας και κυριαρχίας 
+enhancing EU economic and industrial 
+resilience and sovereignty 
+ενισχυτική δόση με τον αδενοϊό 5 
+booster dose of adenovirus 5 
+ενισχυτικό εμβόλιο 
+booster vaccine 
+ενισχύω ανοσοαπόκριση, ενισχύω ανοσιακή 
+απόκριση, ενισχύω ανοσοποιητική απόκριση, 
+ενισχύω ανοσολογική απόκριση 
+boost immune response {v.} 
+εντατική θεραπεία 
+intensive care 
+εντατικοποίηση των ελέγχων 
+intensifying controls 
+ 
+61 
+Ελληνικός όρος 
+Αγγλικός όρος 
+έντονη συναισθηματική αντίδραση 
+intense emotional response 
+έντυπο εντοπισμού επιβάτη, PLF 
+passenger locator form, PLF 
+εξάλειψη της λοίμωξης 
+elimination of infection 
+εξάπλωση 
+spread 
+εξάπλωση παθογόνων μικροοργανισμών 
+spread of pathogens 
+εξάπλωση στην κοινότητα 
+community spread 
+εξάπλωση στην κοινότητα 
+spread in the community, community 
+spread 
+εξάπλωση της νόσου 
+spread of the disease 
+εξάπλωση του ιού 
+viral spread 
+εξάπλωση του ιού στην κοινότητα 
+virus spread in the community 
+εξασθενημένο εμβόλιο 
+attenuated vaccine 
+εξελικτική οδός, εξελικτικό μονοπάτι 
+evolutionary path 
+εξελικτικό τοπίο 
+evolutionary landscape 
+εξέλιξη της νόσου 
+ongoing of the disease 
+εξελισσόμενη μετάδοση στην κοινότητα 
+ongoing community transmission 
+εξοπλισμός ατομικής προστασίας  
+personal protective equipment 
+εξουδετέρωση 
+neutralisation 
+εξωσχολικές ομαδικές δραστηριότητες 
+extracurricular group activities 
+επάγγελμα υψηλής διακινδύνευσης, επάγγελμα 
+υψηλού κινδύνου 
+high-risk occupation 
+επαγγελματίας υγείας 
+healthcare professional 
+επαγγελματίας υγείας 
+healthcare worker, HCW 
+επαγγελματική εξουθένωση 
+burn-out, burnout 
+επαγρύπνηση 
+vigilance 
+επαναδοκιμή, επαναδοκιμασία, επανέλεγχος 
+retesting 
+επαναμόλυνση, επαναλοίμωξη 
+reinfection 
+επανενεργοποίηση της ανοσοαπόκρισης, αδόκ. 
+επανενεργοποίηση της ανοσοανταπόκρισης 
+immune response reactivation 
+επαφή 
+contact 
+επαφή με άτομα που ανήκουν στις ευπαθείς ομάδες 
+contact with high risk group persons 
+επαφή με ζώα 
+contact with animals 
+επαφή πρόσωπο με πρόσωπο με περιστατικό 
+COVID-19 σε απόσταση μικρότερη των 2 μέτρων και 
+για περισσότερο από 15 λεπτά 
+face-to-face contact with a COVID-19 case 
+within 2 metres and > 15 minutes 
+επιβατικός σταθμός 
+passenger transport station 
+επιβεβαιωμένη λοίμωξη 
+confirmed infection 
+επιβεβαιωμένο κρούσμα λοίμωξης 
+confirmed case of infection 
+επιβεβαιωμένο κρούσμα της COVID-19 
+confirmed case of COVID-19  
+ 
+62 
+Ελληνικός όρος 
+Αγγλικός όρος 
+επιβραδύνω τον ρυθμό μόλυνσης 
+slow the rate of infection 
+επιδεινούμενη επιδημιολογική κατάσταση 
+deteriorating epidemiological situation 
+επιδημία 
+epidemic 
+επιδημία COVID-19 
+COVID-19 epidemic 
+επιδημιακή καμπύλη, επιδημική καμπύλη 
+epidemic curve, epi curve 
+επιδημικός, επιδημιακός 
+epidemic 
+επιδημικότητα 
+epidemicity 
+επιδημιολογία 
+epidemiology 
+επιδημιολογικά δεδομένα 
+epidemiological data, epidemiology data 
+επιδημιολογικά τεκμήρια, επιδημιολογικές ενδείξεις 
+epidemiological evidence 
+επιδημιολογική διερεύνηση 
+epidemic investigation 
+επιδημιολογική επιτήρηση 
+epidemiological surveillance 
+επιδημιολογική μελέτη 
+epidemiological study 
+επιδημιολογικό φορτίο 
+epidemiological load, epidemic load 
+επιδημιολογικός 
+epidemiological 
+επιδημιολογικός δείκτης 
+epidemiological index 
+επιθετικότητα του κορονοϊού 
+coronavirus’s aggressiveness 
+επίκεντρο πανδημίας 
+pandemic epicentre 
+επικοινώνηση του κινδύνου 
+risk communication 
+επικοινωνία με ιατρό 
+communication with a physician 
+επικοινωνία μέσω τηλεφώνου, μέσων κοινωνικής 
+δικτύωσης, τηλεδιασκέψεων 
+communication via telephone, social media, 
+teleconferencing 
+επικοινωνία του παιδιού με τους γονείς του 
+child–parents communication 
+επικρατές στέλεχος, κυρίαρχο στέλεχος 
+dominant strain 
+επιλεκτική δοκιμασία, επιλεκτικές δοκιμές, 
+επιλεκτικά τεστ 
+selective testing 
+επίπεδο αντισωμάτων 
+antibody level 
+επιπλοκή 
+complication 
+επιπολασμός 
+prevalence 
+επιπολασμός ασυμπτωματικών κρουσμάτων 
+COVID-19 
+prevalence of asymptomatic COVID-19 
+cases 
+επίσημα πιστοποιημένο εργαστήριο 
+officially certified laboratory 
+επίσημα του ΠΟΥ, ετικέτα του ΠΟΥ 
+WHO label 
+επιστροφή σε μερική κανονικότητα 
+return to partial normalcy 
+επιστροφή στην κανονικότητα 
+return to normalcy 
+επισφαλές σύστημα υγειονομικής περίθαλψης 
+precarious healthcare system 
+επιτάχυνση της πράσινης και της ψηφιακής 
+μετάβασης 
+speeding up the green and digital 
+transitions 
+ 
+63 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Επιταχυντής πρόσβασης στα εργαλεία κατά της 
+COVID-19, ACT 
+Access to COVID-19 Tools Accelerator, ACT 
+Επιτροπή Νοσοκομειακών Λοιμώξεων 
+Hospital Infections Control Committee 
+εποχική γρίπη 
+seasonal flu, seasonal influenza 
+εποχικότητα 
+seasonality 
+επώαση 
+incubation 
+επώαση της νόσου 
+disease incubation 
+εργαζόμενοι που δεν μπορούν να τηρήσουν φυσικές 
+αποστάσεις {ομάδα προτεραιότητας} 
+workers who cannot socially distance {EU 
+priority group} 
+εργαζόμενος σε εργαστήριο 
+laboratory worker 
+εργαζόμενος στη δημόσια υγεία 
+public health worker 
+εργαλείο SURE 
+SURE instrument 
+εργαστηριακά επιβεβαιωμένο κρούσμα 
+laboratory confirmed case, laboratory-
+confirmed case 
+εργαστηριακά τεκμήρια, εργαστηριακές ενδείξεις 
+in-vitro evidence 
+εργαστηριακές δοκιμές, εργαστηριακή δοκιμασία, 
+εργαστηριακά τεστ 
+laboratory testing 
+εργαστηριακή δοκιμή, εργαστηριακή δοκιμασία, 
+εργαστηριακό τεστ 
+lab test 
+εργαστηριακή επιβεβαίωση 
+laboratory confirmation 
+εργαστηριακή έρευνα 
+laboratory investigation 
+εργαστηριακό δείγμα 
+laboratory sample 
+εργαστηριακός έλεγχος 
+laboratory investigation 
+εργαστήριο αναφοράς 
+reference lab 
+έργο EVA, έργο ΕΥΑ 
+EVA project 
+έρευνες για εξάρσεις σε διαφορετικά περιβάλλοντα 
+outbreak investigations in different settings 
+ερμηνεύω τα γεγονότα 
+interpret facts 
+ερυθρότητα στο σημείο της ένεσης 
+redness at the injection site 
+εστία μετάδοσης 
+focus of transmission 
+εστιατόριο 
+restaurant 
+ετερόλογη ενίσχυση 
+heterologous prime-boost 
+ετερόλογο εμβόλιο 
+heterologous vaccine 
+ετερόλογο στέλεχος 
+heterologous strain 
+ετερόλογος εμβολιασμός 
+heterologous vaccination 
+ευάλωτες κοινωνικοοικονομικές ομάδες και άλλες 
+ομάδες υψηλότερου κινδύνου {ομάδα 
+προτεραιότητας} 
+vulnerable socioeconomic groups and 
+other groups at higher risk  {priority group} 
+ευάλωτη ομάδα 
+vulnerable group 
+ευάλωτο άτομο 
+vulnerable person 
+ 
+64 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ευάλωτο σύστημα υγειονομικής περίθαλψης 
+vulnerable health care system 
+ευάλωτος πληθυσμός 
+vulnerable population 
+ευάλωτος στη λοίμωξη 
+vulnerable to infection 
+ευάλωτος, τρωτός 
+vulnerable 
+ευρωπαϊκή ανάκαμψη από την κρίση του κορονοϊού 
+European recovery from coronavirus crisis 
+Ευρωπαϊκή Παρακολούθηση της Θνησιμότητας, 
+EuroMOMO 
+European Mortality Monitoring, EuroMOMO 
+Ευρωπαϊκό Κέντρο Πρόληψης και Ελέγχου Νόσων, 
+ECDC 
+European Centre for Disease Prevention 
+and Control, European CDC 
+Ευρωπαϊκό Ταμείο Ανάκαμψης, Ευρωενωσιακό 
+Ταμείο Ανάκαμψης 
+EU Recovery Fund 
+εφαρμογή βασικών προφυλάξεων 
+implementing standard precautions 
+εφαρμογή μέτρων πρόληψης διασποράς της νόσου 
+implementation of measures against spread 
+of the disease 
+εφαρμογή των μέτρων από το κοινό 
+public’s implementation of measures 
+εφαρμόζω γενικό κλείσιμο 
+lockdown {v.} 
+ζωγραφική 
+painting 
+ζωονοσογόνος 
+zoonotic 
+ζωονόσος 
+zoonosis 
+η χρήση γαντιών δεν υποκαθιστά το πλύσιμο των 
+χεριών 
+using gloves does not replace hand 
+washing 
+ηλικιακά αναλυμένα δεδομένα, ηλικιακά αναλυτικά 
+δεδομένα, ηλικιακά αποσυγκεντρωτικά δεδομένα 
+age-disaggregated data 
+ηλικιακή κατανομή κρουσμάτων 
+age distribution of cases 
+ηλικιακή κατανομή των επιβεβαιωμένων 
+κρουσμάτων 
+age distribution of confirmed cases 
+ηλικιακή ομάδα 
+age group 
+ηλικιωμένα άτομα, ηλικιωμένοι 
+elderly people, elders 
+ηλ-μάθηση, ηλεκτρονική μάθηση 
+e-learning 
+ημέρα του εμβολιασμού 
+day of vaccination 
+ημερήσια έκθεση επιδημιολογικής επιτήρησης 
+daily epidemiological surveillance report 
+ημερήσια κατανομή των επιβεβαιωμένων 
+κρουσμάτων 
+daily distribution of confirmed cases 
+ημερήσια μεταβολή 
+daily change 
+ήπια ανεπιθύμητη παρενέργεια 
+mild adverse side effect 
+ήπια γριπώδη συμπτώματα 
+mild flu symptoms 
+ήπια λοίμωξη 
+mild infection 
+ήπια παρενέργεια, ήσσων παρενέργεια 
+mild side effect, minor side effect 
+ήπια συμπτώματα λοίμωξης του αναπνευστικού 
+mild symptoms of respiratory infection 
+ήπια συμπτωματολογία 
+mild symptomatology 
+ 
+65 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ήπιο σύμπτωμα, ελαφρύ σύμπτωμα 
+mild symptom 
+ήπιος πυρετός, ελαφρύς πυρετός 
+mild fever 
+θάλαμος αρνητικής πίεσης 
+negative-pressure room, negative-pressure 
+chamber 
+θανατηφόρος λοίμωξη 
+fatal infection 
+θάνατοι ανά εκατομμύριο ανθρώπων 
+deaths per million people 
+θάνατοι από COVID-19 ανά εκατομμύριο ανθρώπων 
+deaths of COVID-19 per million people 
+θάνατοι ασθενών 
+patient deaths 
+θάνατος 
+death 
+θάνατος από COVID-19 
+COVID-19 death  
+θεραπεία 
+treatment 
+θεραπεία με εισπνεόμενα 
+Inhalation therapy 
+θεραπευτής του παιδιού 
+child’s therapist 
+θεραπευτική δράση 
+therapeutic action 
+θεραπευτική επιλογή 
+therapeutic option 
+θεραπευτική προσέγγιση 
+therapeutic approach 
+θεραπευτική φαρέτρα 
+therapeutic quiver 
+θεραπευτικό πρωτόκολλο 
+therapeutic protocol 
+θεράπων ιατρός 
+one’s doctor, treating physician 
+θερμοκρασία περιβάλλοντος 
+ambient temperature 
+θερμομέτρηση 
+temperature measurement 
+θερμόμετρο 
+thermometer 
+θέση αυστηρών ορίων στο πλήθος ατόμων σε 
+εκδηλώσεις 
+placing hard limits on the size of crowds at 
+events 
+θέση σε καραντίνα 
+quarantining 
+θετική δοκιμή, θετική δοκιμασία, θετικό τεστ 
+positive test 
+θετικό δείγμα 
+positive sample 
+θετικότητα της δοκιμής για COVID-19, θετικότητα του 
+τεστ για COVID-19 
+COVID-19 test positivity 
+θέτω σε καραντίνα 
+quarantine {v.} 
+θνησιμότητα 
+mortality 
+θνητότητα 
+fatality 
+θνητότητα κρουσμάτων COVID-19 
+COVID-19 case fatality 
+θρομβοεμβολικό επεισόδιο 
+thromboembolic episode 
+θρομβοπενία 
+thrombopenia 
+θρόμβωση 
+thrombosis 
+θρόμβωση με σύνδρομο θρομβοκυτταροπενίας, TTS 
+thrombosis with thrombocytopenia 
+syndrome, TTS 
+ 
+66 
+Ελληνικός όρος 
+Αγγλικός όρος 
+θωράκιση, αναχαίτιση 
+containment 
+ιατρείο 
+private practice 
+ιατρικές συμβουλές 
+medical advice 
+ιατρική αξιολόγηση 
+medical evaluation 
+ιατρική παρακολούθηση 
+medical attention 
+ιατρικό προσωπικό 
+medical staff 
+ιατρικός εξοπλισμός 
+medical equipment  
+ιδιωτική κλινική, ιδιωτικό θεραπευτήριο 
+private clinic 
+Ίδρυμα Ιατροβιολογικών Ερευνών Ακαδημίας 
+Αθηνών, ΙΙΒΕΑΑ  
+Biomedical Research Foundation of the 
+Academy of Athens, BRFAA 
+ιδρύματα χρονίως πασχόντων 
+chronic care facilities 
+ιική απέκκριση 
+viral shedding 
+ιικό RNA, RNA ιού 
+viral RNA 
+ιικό γονιδίωμα 
+viral genome 
+ιικό φορτίο 
+viral load 
+ιικός πολλαπλασιασμός 
+virus multiplication 
+ικανοποιητική αντισωματική απόκριση, αδόκ. 
+ικανοποιητική αντισωματική ανταπόκριση 
+satisfactory antibody response 
+ινδική μετάλλαξη 
+indian mutation 
+ινδική παραλλαγή 
+indian variant 
+Ινστιτούτο Επιδημιολογίας και Μικροβιολογίας 
+Gamaleya {στη Μόσχα} 
+Gamaleya Institute of Epidemiology and 
+Microbiology {in Moscow} 
+ιντερλευκίνη 6 
+Interleukin 6, IL-6 
+ιντερφερόνη 
+interferon 
+ιντερφερόνη-α υπό μορφή εισπνοών, IFN-α υπό 
+μορφή εισπνοών 
+inhaled interferon-alpha, IFN-α 
+ιογενής αλλαγή 
+viral change 
+ιογενής λοίμωξη 
+viral infection 
+ιολογικά χαρακτηριστικά 
+virological characteristics 
+ιολόγος 
+virologist 
+ιός 
+virus 
+ιός MERS 
+MERS virus 
+ισοπροπυλική αλκοόλη 
+isopropyl alcohol 
+ισορροπημένη διατροφή 
+balanced diet 
+ισότιμη και οικονομικά προσιτή πρόσβαση 
+equitable and affordable access 
+ισότιμη πρόσβαση 
+fair access 
+ιστικό δείγμα, δείγμα ιστού 
+tissue sample 
+ιστορικό ταξιδιού 
+travel history 
+ 
+67 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ισχυρή ανοσοαπόκριση 
+strong immune response 
+ιχνηλάτηση επαφών 
+contact tracing 
+ιχνηλατήσιμη πηγή 
+trackable source 
+ιχνηλατώ επαφές 
+trace contacts {v.} 
+καθαρισμός και απολύμανση επιφανειών 
+cleaning and disinfection of surfaces 
+καθολικό εμβόλιο 
+universal vaccine 
+κακοήθεια 
+malignancy 
+καλά αεριζόμενο δωμάτιο 
+well-ventilated room 
+καλή τήρηση των μέτρων υγιεινής 
+good hygiene practice 
+καλή υγιεινή ύπνου 
+good sleep hygiene 
+καλό πλύσιμο των χεριών με νερό και σαπούνι ή 
+αλκοολούχο διάλυμα 
+thorough washing hands with water and 
+soap or alcohol solution 
+κάλυψη του βήχα ή του φτερνίσματος με 
+χαρτομάντιλο 
+covering cough or sneeze with tissue paper 
+κανόνες γενικού κλεισίματος 
+lockdown rules  
+καραντίνα  
+quarantine {n.} 
+καραντίνα 14 ημερών 
+14-day quarantine 
+καρδιαγγειακό νόσημα 
+cardiovascular disease 
+καρδιακή επιπλοκή 
+heart complication 
+καρδιοαναπνευστική αναζωογόνηση 
+cardiopulmonary resuscitation 
+καρδιοπαθείς 
+patients with heart conditions 
+καρδιοτοξικό 
+cardiotoxic 
+καρδιοτοξικότητα 
+cardiotoxicity 
+καρκίνος 
+cancer 
+καρκίνος συμπαγών οργάνων 
+solid organ cancer 
+καρκίνος υπό αγωγή 
+cancer under treatment 
+καταβολή 
+fatigue 
+καταγεγραμμένοι θάνατοι από COVID-19 ανά 
+εκατομμύριο ανθρώπων 
+registered deaths of COVID-19 per million 
+people 
+κατάλληλα ερεθίσματα 
+proper stimuli 
+καταρροή 
+runny nose 
+κατάσταση υγείας 
+health condition 
+καταστέλλω το ανοσοποιητικό σύστημα 
+suppress the immune system 
+καταστολή του ανοσοποιητικού συστήματος, 
+ανοσοκαταστολή 
+immune system suppression, 
+immunosuppression  
+καταστροφή του ενδοθηλίου 
+endothelial damage 
+κατατομή διακινδύνευσης ταξιδιώτη, προφίλ ρίσκου 
+ταξιδιώτη 
+traveller’s risk profile 
+κατευθυντήριες οδηγίες 
+guidelines 
+ 
+68 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κάτω μέρος της μάσκας 
+bottom of the mask 
+κατώτερη αναπνευστική οδός 
+lower respiratory tract 
+κατώφλιο κορεσμού συστήματος υγείας, όριο 
+κορεσμού συστήματος υγείας 
+healthcare system saturation threshold 
+καφετέρια, καφετερία 
+cafeteria 
+κάψουλα αρνητικής πίεσης, θαλαμίσκος αρνητικής 
+πίεσης 
+negative pressure capsule 
+Κέντρα Πρόληψης και Ελέγχου Νόσων, CDC 
+Centres for Disease Prevention and 
+Control, CDC 
+κεντρική πολιτική προτεραιότητα 
+central political priority 
+Κεντρικό Στρατιωτικό Κλινικό Νοσοκομείο Burdenko 
+Burdenko Central Military Clinical Hospital 
+κέντρο αισθητικής 
+beauty salon 
+κινεζικό εμβόλιο της CanSino Biologics Inc. 
+Chinese vaccine from CanSino Biologics 
+Inc. 
+κινηματογράφος 
+cinema 
+κινητικότητα του πληθυσμού 
+population mobility 
+κλείσιμο όλων των μη απαραίτητων καταστημάτων, 
+κλείσιμο όλων των μη ουσιωδών καταστημάτων 
+close down all non-essential shops 
+κλείσιμο των σχολείων και λοιπών ιδρυμάτων 
+closing schools and other institutions 
+κλειστή κοινότητα 
+closed community 
+κλειστό περιβάλλον 
+closed environment 
+κλειστός δημόσιος χώρος 
+enclosed public space 
+κλειστός χώρος 
+enclosed space 
+κλινικά δεδομένα 
+clinical data 
+κλινικές δοκιμές μεγάλης κλίμακας 
+large-scale clinical trials 
+κλινικές δοκιμές σε ανθρώπους 
+human clinical trials 
+κλινική βελτίωση 
+clinical improvement 
+κλινική δοκιμή 
+clinical trial 
+κλινική δοκιμή φάσης I 
+phase I clinical trial 
+κλινική δοκιμή φάσης II 
+phase II clinical trial 
+κλινική δοκιμή φάσης III 
+phase III clinical trial 
+κλινική εικόνα 
+clinical condition 
+κλινική εικόνα 
+clinical presentation  
+κλινική έκβαση 
+clinical outcome 
+κλινική επιδείνωση 
+clinical aggravation 
+κλινική θεραπεία 
+clinical treatment 
+κλινική μελέτη 
+clinical study 
+κλινική παρακολούθηση 
+clinical monitoring 
+κλινική πρακτική, κλινική πράξη 
+clinical practice 
+ 
+69 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κλινική υποψία 
+clinical suspicion 
+κλινικό δείγμα 
+clinical sample 
+κλινικό σύμπτωμα 
+clinical symptom 
+κλινικό φάσμα 
+clinical spectrum 
+κλινικό φάσμα 
+clinical spectrum 
+κοινή διαπραγματευτική ομάδα 
+joint negotiation team 
+κοινή παραλλαγή 
+common variant 
+κοινό απολυμαντικό 
+common disinfectant 
+κοινό απορρυπαντικό 
+common detergent 
+κοινό κρυολόγημα 
+common cold 
+κοινότητα 
+community 
+κοινωνική αποστασιοποίηση 
+social distancing 
+κοινωνικό κόστος της COVID-19 
+social cost of COVID-19 
+κοινωνικό κουκούλι, κοινωνική φούσκα 
+social bubble 
+κολχικίνη 
+colchicine 
+κομμωτήριο 
+hair salon 
+κόπρανα 
+feces 
+κορεσμός συστήματος υγειονομικής περίθαλψης, 
+κορεσμός συστήματος υγείας 
+healthcare system saturation 
+κορονογρίπη 
+flurona (< flu + corona) 
+κορονοηλίθιος, κορονόβλακας 
+covidiot 
+κορονοϊός, κοροναϊός, κορωνοϊός, κορωναϊός 
+coronavirus 
+κορονοπάρτι 
+coronavirus party, corona party 
+κορονοφιλί, κορωνοφιλί 
+covid kiss, post-covid kiss 
+κορονοφοβία 
+coronaphobia 
+κορονοχρέος 
+corona debt 
+κορτικοστεροειδές 
+corticosteroid 
+κουρείο 
+barber-shop 
+κρίση υγειονομικής περίθαλψης 
+healthcare crisis 
+κρίσιμη κατάσταση (υγείας) 
+critical condition 
+κρίσιμη περίοδος 
+critical period 
+κριτήρια ύποπτου κρούσματος 
+suspected case criteria 
+κρούσμα κορονοϊού 
+coronavirus case 
+κρούσμα, περιστατικό, περίπτωση 
+case 
+κυνάγχη, πονόλαιμος 
+sore throat 
+κύρια μετάδοση 
+main transmission 
+κύριος τρόπος μετάδοσης 
+primary way of transmission 
+ 
+70 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κυτοκίνη 
+cytokine 
+κυτταρική ανοσία 
+cellular immunity 
+κυτταρική απόκριση 
+cellular response 
+κυτταρική καλλιέργεια 
+cell culture 
+κυτταρικός θάνατος 
+cell death 
+κύτταρο ξενιστής 
+host cell 
+κύτταρο Τ 
+T cell 
+λαθρεπιβάτης της συλλογικής ανοσίας 
+herd immunity free rider 
+λειτουργική ανοσία 
+functional immunity 
+λειτουργός δημόσιας υγείας 
+public health official 
+λεμφοκύτταρο 
+lymphocytes 
+λεμφοκύτταρο Τ 
+T-lymphocyte 
+λήψη δείγματος 
+receipt of sample 
+λήψη εργαστηριακού δείγματος 
+receipt of laboratory sample 
+λινό ύφασμα 
+linen 
+λιπίδιο 
+lipid 
+λίστα αναμονής για μεταμόσχευση 
+transplant waiting list 
+λιτανεία 
+religious procession 
+λογαριθμική κλίμακα 
+logarithmic scale 
+λοιμογόνος 
+virulent 
+λοιμογόνος δράση του SARS-CoV-2 
+virulence of SARS-CoV-2 
+λοιμοτοξικότητα, λοιμογόνος δράση, 
+μολυσματικότητα 
+virulence 
+λοίμωξη 
+infection2 
+λοίμωξη (από) COVID-19 
+COVID-19 infection 
+λοίμωξη από τον νέο κορονοϊό SARS-CoV-2 
+novel coronavirus SARS-CoV-2 infection 
+λοίμωξη του αναπνευστικού συστήματος 
+respiratory tract infection 
+λοιμωξιολογία 
+infectiology, infectology 
+λοιμωξιολόγος 
+infectiologist, infectologist, infectious 
+disease physician, infectious disease 
+specialist 
+λοπιναβίρη 
+lopinavir 
+λοπιναβίρη/ριτοναβίρη 
+lopinavir/ritonavir 
+μαγνητική τομογραφία καρδιάς 
+cardiac magnetic tomography 
+μαζικές εκδηλώσεις 
+mass events 
+μαζικός εμβολιασμός 
+mass vaccination 
+μάσκα με ελαστικούς ιμάντες 
+face mask with rubber bands 
+μάσκα με κορδόνια 
+face mask with ties 
+ 
+71 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μάσκα πολλαπλής χρήσης 
+multi-use mask 
+μάσκα προσώπου για υγειονομικό προσωπικό 
+facemask meant for a healthcare worker 
+μάσκα υψηλής αναπνευστικής προστασίας (FFP3) 
+high-protection mask (FFP3) 
+μάσκα υψηλής αναπνευστικής προστασίας με 
+βαλβίδα εκπνοής 
+high protection mask with an exhaling 
+valve 
+μάσκα υψηλής αναπνευστικής προστασίας χωρίς 
+βαλβίδα εκπνοής 
+high protection mask without an exhaling 
+valve 
+με το εσωτερικό του αγκώνα 
+inside the elbow 
+μεγάλης κλίμακας εμβολιασμός κατά της COVID-19 
+large-scale COVID-19 vaccination 
+μεγάλο αστικό κέντρο 
+large urban centre 
+μέθοδος εμβολιασμού 
+vaccination method 
+μειώνω την περαιτέρω μεταδοτικότητα 
+reduce onward transmissibility 
+μελέτη in vitro 
+in vitro study 
+μέλος πληρώματος 
+crew member 
+μερική άρση μέτρων 
+partial lifting of measures 
+μέσα ατομικής προστασίας (ΜΑΠ), εξοπλισμός 
+ατομικής προστασίας (ΕΑΠ) 
+personal protection equipment, PPE 
+μέσα κοινωνικής δικτύωσης 
+social media 
+μέσα μαζικής μεταφοράς, ΜΜΜ 
+means of mass transportation 
+μέση ηλικία 
+average age 
+μέση περίοδος επώασης 
+mean incubation period 
+μεσημεριανό γεύμα 
+lunch 
+Μέσο Στήριξης Έκτακτης Ανάγκης 
+Emergency Support Instrument 
+μεταγραφή του DNA 
+DNA transcription 
+μεταγραφικός παράγοντας ΝF-κΒ 
+NF-κB transcription factor 
+μεταδίδω τη νόσο 
+transmit the disease 
+μετάδοση 
+transmission 
+μετάδοση (μέσω) άμεσης επαφής 
+direct contact transmission 
+μετάδοση (μέσω) έμμεσης επαφής 
+indirect contact transmission 
+μετάδοση (μέσω) επαφής 
+contact transmission 
+μετάδοση (μέσω) σταγονιδίων 
+droplet transmission 
+μετάδοση από άνθρωπο σε άνθρωπο 
+transmission from human to human 
+μετάδοση από άτομο σε άτομο 
+person-to-person transmission 
+μετάδοση από ζώο σε άνθρωπο 
+animal-to-human transmission 
+μετάδοση και εξάπλωση του ιού 
+transmission and spread of the virus 
+μετάδοση σε ΕΕ/ΕΟΧ, μετάδοση σε Ευρωπαϊκή 
+Ένωση / Ευρωπαϊκό Οικονομικό Χώρο 
+transmission in the EU/EEA 
+μετάδοση στην κοινότητα 
+community transmission 
+ 
+72 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μεταδοτική νόσος 
+communicable disease 
+μεταδοτικός 
+contagious 
+μεταδοτικός ασθενής 
+infective patient 
+μεταδοτικότητα 
+contagiousness 
+μεταδοτικότητα 
+transmissibility 
+μεταδοτικότητα της COVID-19 
+transmissibility of Covid-19 
+μετάλλαξη 
+mutation 
+μετάλλαξη E484K, μετάλλαξη Erik 
+mutation E484K, mutation Erik 
+μετάλλαξη N501Y, μετάλλαξη Nelly 
+mutation N501Y, mutation Nelly 
+μετάλλαξη ανοσοδιαφυγής, μετάλλαξη 
+ανοσολογικής διαφυγής 
+immune escape mutation 
+μετάλλαξη Ε484Q 
+Ε484Q mutation 
+μετάλλαξη Μι {το ορθό: παραλλαγή Μι} 
+Mu mutation {correctly: Mu variant} 
+μεταμόσχευση 
+transplantation, transplant 
+μεταμόσχευση αιμοποιητικών κυττάρων 
+hematopoietic cell transplantation, HCT 
+μεταμόσχευση ιστoύ 
+tissue transplantation, tissue transplant 
+μεταμόσχευση οργάνων 
+organ transplantation, organ transplant 
+μεταμόσχευση συμπαγούς οργάνου 
+solid organ transplantation, solid organ 
+transplant 
+μεταξωτό ύφασμα 
+silk fabric 
+μεταπανδημική εποχή 
+post-pandemic era 
+μεταπανδημικό κοινωνικό συμβόλαιο 
+post-pandemic social contract 
+μέτρα ατομικής προστασίας 
+measures of self-protection 
+μέτρα ατομικής υγιεινής 
+personal hygiene measures 
+μέτρα γενικού κλεισίματος 
+lockdown measures 
+μέτρα για την πρόληψη της μετάδοσης και 
+εξάπλωσης του νέου κορονοϊού 
+measures for preventing the transmission 
+and spread of the novel coronavirus 
+μέτρα ελέγχου και πρόληψης της εξάπλωσης 
+spread control and prevention measures 
+μέτρα κατά της COVID-19, κορονόμετρα, 
+κορωνόμετρα 
+covid measures 
+μέτρα κατά της εξάπλωσης του ιού 
+measures against virus spreading 
+μέτρα κοινωνικής αποστασιοποίησης 
+social distancing measures 
+μέτρα μετριασμού, μέτρα άμβλυνσης 
+mitigation measures 
+μέτρα πρόληψης και ελέγχου της λοίμωξης από τον 
+ιό SARS–CoV-2 
+measures for prevention and control of 
+SARS-CoV-2 infection 
+μέτρια διακινδύνευση 
+moderate risk 
+μέτρια έως έντονη φυσική άσκηση 
+moderate to intensive physical practice 
+μέτρια λοίμωξη 
+moderate infection 
+μέτρο απομόνωσης 
+isolation measure 
+ 
+73 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μέτρο υγιεινής 
+hygiene measure 
+μη ανοσοποιημένοι άνθρωποι 
+unimmunized people 
+μη απαραίτητα ταξίδια 
+unnecessary travels 
+μη απαραίτητη μετακίνηση, μη ουσιώδης 
+μετακίνηση, άσκοπη μετακίνηση 
+non-essential movement 
+μη απαραίτητο κατάστημα, μη ουσιώδες κατάστημα 
+non-essential shop 
+μη εισαγόμενο κρούσμα, εγχώριο κρούσμα 
+non-visitor case, domestic case 
+μη επεμβατικός μηχανικός αερισμός 
+non-invasive ventilation 
+μη μεταδοτική νόσος 
+noncommunicable disease 
+μη μεταδοτικός 
+non-contagious 
+μη ουσιώδες ταξίδι, μη απαραίτητο ταξίδι 
+non-essential travel 
+μη στενή επαφή 
+non-close contact 
+μη υποχρεωτικότητα του εμβολιασμού 
+non-compulsoriness of vaccination 
+μη χειρουργική μάσκα 
+non-surgical mask 
+μηχάνημα για εισιτήριο 
+ticket machine 
+μηχανική αναπνευστική υποστήριξη, μηχανική 
+υποστήριξη αναπνοής 
+mechanical respiratory support, mechanical 
+ventilation 
+μηχανικός αναπνευστήρας 
+mechanical ventilator 
+Μηχανισμός παγκόσμιας πρόσβασης σε εμβόλιο 
+κατά της COVID-19, COVAX 
+COVID-19 Vaccines Global Access facility, 
+COVAX 
+μηχανομάθηση 
+machine learning 
+μικρά ζώα 
+small animals 
+μικροθρόμβωση 
+microthrombosis 
+μικροοργανισμός 
+microorganism 
+μικροοργανισμός 
+germ 
+μικροσκοπικά ευρήματα 
+microscopic findings 
+μολνουπιραβίρη 
+molnupiravir 
+μόλυνση1 
+contamination 
+μόλυνση2 
+infection1 
+μολύνω 
+infect 
+μολυσματικά απορρίμματα 
+contaminated waste 
+μολυσματική νόσος 
+infectious disease 
+μολυσματικός παράγοντας, λοιμογόνος 
+παράγοντας 
+infectious agent 
+μολυσμένη επιφάνεια 
+contaminated surface 
+μολυσμένο αντικείμενο 
+contaminated item 
+μολυσμένο άτομο 
+infected person 
+μονάδα εντατικής θεραπείας, ΜΕΘ 
+intensive care unit, ICU 
+ 
+74 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μονάδα υπηρεσιών υγείας, υγειονομική μονάδα 
+healthcare unit 
+μονάδα φροντίδας 
+nursing home 
+μονοδοσικό εμβόλιο κατά της COVID-19 
+one-dose COVID vaccine 
+μονόκλωνο αντίσωμα, μονοκλωνικό αντίσωμα 
+monoclonal antibody 
+μονοπάτι (του) NFκB 
+NFκB pathway, NF-κB pathway 
+μονοπάτι κυτταρικής σηματοδότησης 
+cell signaling pathway 
+μοριακή δοκιμή, μοριακό τεστ, μοριακή δοκιμασία 
+molecular test 
+μόσχευμα 
+transplant 
+μπροστινό μέρος της μάσκας 
+front of the mask 
+μυαλγία 
+muscle pain 
+νέα καθημερινή ρουτίνα 
+new everyday routine 
+νεκρή ή εξασθενημένη μορφή του ιού 
+killed or weakened form of the virus 
+νεοαγγείωση 
+neovascularization 
+νέος κορονοϊός (της COVID-19) 
+novel coronavirus (COVID-19) 
+νέος κορονοϊός SARS-CoV-2 
+novel coronavirus SARS-CoV-2 
+νεφρική ανεπάρκεια 
+renal insufficiency, renal failure 
+νεφροπάθεια 
+nephropathy 
+νοητική δυσλειτουργία 
+mental disorder 
+νοσηλεία 
+hospitalization 
+νοσηλεία σε νοσοκομείο 
+treatment in hospital 
+νοσηλευόμενοι σε κρίσιμη κατάσταση 
+critical cases in hospital 
+νοσηλευόμενος 
+hospitalized 
+νοσηλευόμενος ασθενής 
+patient in hospital 
+νοσηλευόμενος διασωληνωμένος 
+treated intubated 
+νοσηλεύω διασωληνωμένο 
+treat intubated 
+νοσηλεύω σε νοσοκομείο 
+treat in hospital 
+νόσημα, ασθένεια 
+malady 
+νοσηρότητα 
+morbidity 
+νοσοκομειακή λοίμωξη 
+nosocomial infection 
+νοσοκομείο 
+hospital 
+νοσοκομείο αναφοράς 
+referral hospital 
+νόσος HIV 
+HIV disease 
+νοσώ φυσικά 
+get naturally diseased 
+νοτιοαφρικανική παραλλαγή 
+South African variant 
+ξεκούραση 
+resting 
+ξέσπασμα 
+outbreak 
+ξεχωριστός χώρος αναμονής και εξέτασης 
+separate waiting and examination area 
+ 
+75 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ξηρός βήχας 
+dry cough 
+οδηγίες για ταξιδιώτες 
+advice for travellers 
+οικονομική ανάκαμψη 
+economic recovery 
+οικονομικό κόστος της COVID-19 
+economic cost of COVID-19 
+ολικό γονιδίωμα 
+total genome 
+ομάδα ελέγχου 
+control arm, control group 
+ομάδα ιών 
+group of viruses 
+ομάδα υψηλής διακινδύνευσης, ομάδα υψηλού 
+κινδύνου, ευπαθής ομάδα 
+high-risk group 
+ομάδες προτεραιότητας {για πρόσβαση στο εμβόλιο 
+κατά της COVID-19} 
+priority groups {groups having priority 
+access to vaccines} 
+ομιλία 
+talking 
+οξεία COVID-19 
+acute COVID-19 
+οξεία λοίμωξη του αναπνευστικού, οξεία 
+αναπνευστική λοίμωξη 
+acute respiratory infection, ARI 
+οξυγονοθεραπεία, θεραπεία οξυγόνου 
+oxygen therapy 
+οξύμετρο 
+oximeter 
+οργανωμένη εκπαιδευτική διαδικασία 
+organized educational procedure 
+ορθή δοσολογία 
+right dosage 
+όρια στο πλήθος ατόμων 
+limits on crowd size 
+ορισμός κρούσματος 
+case definition 
+ορισμός κρούσματος COVID-19 
+definition of COVID-19 case 
+οροδιαγνωστική δοκιμή, οροδιαγνωστικό τεστ, 
+οροδιαγνωστική δοκιμασία 
+serology test 
+οροεπιδημιολογική μελέτη 
+seroepidemiological study 
+ορολογία 
+serology 
+οφθαλμική προστασία 
+eye protection 
+παγκόσμια πανδημία 
+global pandemic 
+παγκόσμιος κατάλογος παραλλαγών VOC και VOI 
+του ΠΟΥ 
+WHO’s global list of VOC and VOI 
+Παγκόσμιος Οργανισμός Υγείας, ΠΟΥ 
+World Health Organization, WHO 
+παθογόνο 
+pathogen 
+παθολογοανατομία 
+anatomic pathology 
+παθολογοανατόμος 
+anatomic pathologist 
+παιχνίδι 
+game 
+πανδημία 
+pandemic 
+πανδημία COVID-19 
+COVID-19 pandemic 
+πανδημικό κύμα 
+pandemic wave 
+πανικοδημία 
+panicdemic 
+ 
+76 
+Ελληνικός όρος 
+Αγγλικός όρος 
+παντοπωλείο 
+grocery 
+πάνω μέρος της μάσκας 
+top of the mask 
+παράγοντας διακινδύνευσης, παράγοντας κινδύνου 
+risk factor 
+παράγω ανοσοαπόκριση, παράγω ανοσιακή 
+απόκριση, παράγω ανοσοποιητική απόκριση, 
+παράγω ανοσολογική απόκριση 
+generate an immune response 
+παράγω αντισώματα 
+raise antibodies 
+παράγω σε στερεή μορφή 
+produce in solid form 
+παράγω σε υγρή μορφή 
+produce in liquid form 
+παραγωγική ικανότητα 
+production capacity 
+παραγωγός εμβολίου 
+vaccine producer 
+παρακολουθώ πρόγραμμα παρέμβασης 
+attend intervention programme 
+παρακολουθώ την υγεία κάποιου (ατόμου) 
+monitor one’s health 
+παραλαβή εντός 
+click in shop, click inside 
+παραλλαγή 
+variant 
+παραλλαγή UK, βρετανική παραλλαγή 
+UK variant 
+παραλλαγή Άλφα 
+alpha variant 
+παραλλαγή ενδιαφέροντος, {αδόκιμο: μετάλλαξη 
+ενδιαφέροντος} 
+variant of interest, VOI 
+παραλλαγή ιδιαίτερης ανησυχίας {αδόκιμο: 
+μετάλλαξη ιδιαίτερης ανησυχίας} 
+variant of concern, VOC 
+παραλλαγή ιού 
+virus variant 
+παραλλαγή Μι, κολομβιανή παραλλαγή 
+Mu variant, Colombian variant 
+παραλλαγή Όμικρον 
+Omicron variant 
+παραλλαγή του (ιού) SARS-CoV-2 
+SARS-CoV-2 variant 
+παραλλαγή του Καμερούν, παραλλαγή B.1.640.2 
+Cameroon variant, B.1.640.2 variant 
+παραλλαγή υπό διερεύνηση 
+variant under investigation, VUI 
+παραλλαγή υπό παρακολούθηση {αδόκιμο: 
+μετάλλαξη προς παρακολούθηση} 
+variant under monitoring 
+παραμονή στο σπίτι 
+staying at home 
+παραμονή των παιδιών κοντά στην οικογένεια και 
+τους γονείς τους 
+children’s staying with their family and 
+parents 
+παραπληροφόρηση 
+misinformation 
+παρατηρούμενος ολικός CFR 
+observed overall CFR 
+πάρε έξω, παραλαβή εκτός 
+click away 
+παρενέργεια 
+side effect 
+παρενέργεια φαρμάκου 
+medicine side effect 
+πάρε-φύγε, παραλαβή χωρίς παραμονή 
+take away 
+παροσμία 
+parosmia 
+ 
+77 
+Ελληνικός όρος 
+Αγγλικός όρος 
+παροχή υπηρεσιών υγείας 
+health-care service provision 
+παχυσαρκία 
+obesity 
+πειραματικό εμβόλιο 
+experimental vaccine 
+περαιτέρω μεταδοτικότητα 
+onward transmissibility 
+περίοδος επώασης 
+incubation period 
+περίοδος παρακολούθησης 
+monitoring period 
+περιορισμός ταξιδιών 
+travel restriction 
+περιορισμός της εξάπλωσης του ιού 
+limiting the spread of the virus 
+περιορισμός της εξάπλωσης του ιού  
+restriction of virus spread 
+περιορισμός των μετακινήσεων 
+restriction of movement 
+περιτοναϊκή κάθαρση 
+peritoneal dialysis 
+περιτόναιο 
+peritoneum 
+περιφερειακή ενότητα της χώρας 
+regional unit of the country 
+πηγή μετάδοσης 
+source of transmission 
+πίεση στο σύστημα υγειονομικής περίθαλψης 
+pressure on the healthcare system 
+πιεσόμετρο 
+blood pressure gauge 
+πιθανό κρούσμα, πιθανό περιστατικό 
+probable case 
+πιθανότητα μόλυνσης 
+possibility of infection 
+πλάσμα του αίματος 
+blood plasma 
+πληθυσμιακή οροεπιδημιολογική μελέτη 
+population-based seroepidemiological 
+study 
+πληροφοριοδημία 
+infodemic 
+πλύσιμο χεριών 
+hand washing 
+πνεύμονας 
+lung 
+πνευμονία 
+pneumonia 
+πνευμονική κυψελίδα 
+pulmonary alveolus {pl. pulmonary alveoli} 
+πνευμονοπάθεια 
+lung disease 
+πνιγμονή 
+suffocation 
+ποδαψία 
+foot shake, foot-to-foot greeting, foot tap, 
+Wuhan shake 
+ποικίλη σοβαρότητα 
+varying severity 
+ποινή για μη συμμόρφωση 
+penalty for non-compliance 
+πολιτική δημόσιας υγείας 
+public health policy 
+πολυσυστημικό φλεγμονώδες σύνδρομο 
+multi-systemic inflammatory syndrome 
+πομπή, παρέλαση 
+procession 
+πονόλαιμος 
+sore throat 
+πρόγραμμα παρέμβασης 
+intervention programme 
+ 
+78 
+Ελληνικός όρος 
+Αγγλικός όρος 
+προ-επιβίβασης έντυπο εντοπισμού επιβάτη, προ-
+επιβίβασης PLF 
+pre-boarding Passenger Locator Form, pre-
+boarding PLF, pre-boarding information 
+form 
+προηγμένο σύστημα υγειονομικής περίθαλψης 
+advanced healthcare system 
+προϊόν κρέατος 
+meat product 
+προκαθορισμένες διαδικασίες ασφαλείας 
+established safety procedures 
+προκαλώ νόσο, προκαλώ ασθένεια 
+cause illness 
+προκαταρκτικά επιστημονικά τεκμήρια, 
+προκαταρκτικές επιστημονικές ενδείξεις 
+preliminary scientific evidence 
+προκαταρκτική κλινική μελέτη 
+preliminary clinical study 
+προκλινική δοκιμή του εμβολίου 
+preclinical vaccine trial 
+προλαμβάνω τη λοίμωξη 
+prevent infection {v.} 
+προλαμβάνω τη νόσο 
+prevent disease {v.} 
+προλαμβάνω τον ενδεχόμενο CFR 
+anticipate the likely CFR 
+προλαμβάνω, αποτρέπω 
+prevent 
+πρόληψη και έλεγχος λοίμωξης 
+infection prevention and control, IPC 
+πρόληψη σοβαρής νόσου 
+prevention of severe illness, prevention of 
+severe disease 
+πρόληψη της μετάδοσης και εξάπλωσης του νέου 
+κορονοϊού 
+prevention of the new coronavirus 
+transmission and spread 
+πρόληψη, αποτροπή 
+prevention 
+προοπτική για το μέλλον 
+future perspective 
+προσέρχομαι/παρουσιάζομαι 
+αυτοβούλως/εκουσίως/οικειοθελώς/εθελοντικά για 
+δοκιμή/έλεγχο 
+voluntarily present oneself for testing 
+προσκόλληση στους γονείς 
+adherence to parents 
+προστασία από σοβαρή νόσου 
+protection from severe illness, protection 
+from severe disease 
+προστασία προσώπου 
+face protection 
+προστασία της ψυχικής υγείας 
+mental health protection 
+προστατευτικά γυαλιά ευρέος φάσματος 
+wide-spectrum protective glasses 
+πρόστιμο 
+fine 
+προσυμπτωματικός 
+presymptomatic 
+πρόσφατα μολυσμένες επιφάνειες 
+recently contaminated surfaces 
+προσωπίδα, ασπίδα προσώπου 
+face shield 
+προσωπικό εδάφους αεροδρομίων 
+airport ground personnel 
+προσωπικό πρώτης γραμμής 
+front-line staff 
+προσωπικό υπηρεσιών υγείας 
+healthcare personnel 
+προσωρινή παρενέργεια 
+temporary side effect 
+ 
+79 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Προσωρινή στήριξη για τον μετριασμό των 
+κινδύνων ανεργίας σε κατάσταση έκτακτης ανάγκης, 
+SURE 
+temporary Support to mitigate 
+Unemployment Risks in an Emergency, 
+SURE 
+πρότυπο ασφάλειας 
+safety standard 
+πρότυπο μετάδοσης 
+transmission pattern 
+πρότυπο μίμησης 
+example for imitation 
+προφυλάξεις έναντι αερόφερτων 
+airborne precautions 
+προφυλάξεις επαφής 
+contact precautions 
+προφύλαξη από σταγονίδια 
+droplet precaution 
+πρωταρχικά πρόσωπα φροντίδας 
+primary caregivers 
+πρωταρχικό εμβόλιο, πρώτη δόση (εμβολίου) 
+prime vaccine, prime dose (of a vaccine) 
+πρωτεΐνη-ακίδα, πρωτεΐνη ακίδας, πρωτεΐνη S 
+spike protein, S protein 
+πρώτη γραμμή άμυνας κατά των λοιμώξεων 
+first line of defense against infections 
+πρώτη δόση με τον αδενοϊό 26 
+first dose of adenovirus 26 
+πρωτογενές κρούσμα, πρωτογενές περιστατικό 
+primary case 
+πρωτόκολλο θεραπείας, θεραπευτικό πρωτόκολλο 
+treatment protocol 
+πρωτοπαθής ανοσοανεπάρκεια 
+primary immunodeficiency, PI 
+πρώτος θάνατος από COVID-19 
+first COVID-19 death  
+πρωτοφανής πρόκληση 
+unprecedented challenge 
+πτύελα 
+sputum 
+πυρετός 
+fever 
+ρεμντεσιβίρη 
+remdesivir 
+ριβονουκλεϊκό οξύ, RNA 
+ribonucleic acid, RNA 
+ριμπαβιρίνη 
+ribavirin 
+ρινική συμφόρηση 
+nasal congestion 
+ρινοφαρυγγικό επίχρισμα 
+nasopharyngeal swab 
+ριτοναβίρη 
+ritonavir 
+ρυθμιστική έγκριση {ενός εμβολίου} 
+regulatory approval {of a vaccine} 
+ρυθμός διασποράς στην κοινότητα 
+rate of spread in the community 
+ρυθμός λοίμωξης, ρυθμός μόλυνσης 
+infection rate 
+ρωσικό εμβόλιο κατά της COVID-19, ρωσικό εμβόλιο 
+COVID-19 
+Russian COVID-19 vaccine 
+σακούλα απορριμμάτων 
+garbage bag 
+σακχαρώδης διαβήτης 
+diabetes mellitus 
+σάλιο 
+saliva 
+σαπούνι 
+soap 
+σημεία εισόδου στη χώρα, πύλες εισόδου στη χώρα 
+country's entry points 
+σηπτικό σοκ 
+septic shock 
+ 
+80 
+Ελληνικός όρος 
+Αγγλικός όρος 
+σήψη 
+sepsis 
+σιγμοειδής κατανομή 
+sigmoid distribution 
+σιωπηλά υποξικός 
+happy hypoxic 
+σιωπηλή υποξία 
+silent hypoxia, happy hypoxia 
+σοβαρή αλλεργία 
+severe allergy 
+σοβαρή ανοσοκαταστολή 
+severe immunosuppression 
+σοβαρή νόσος, σοβαρή ασθένεια 
+severe illness 
+σοβαρή οξεία λοίμωξη του αναπνευστικού 
+severe acute respiratory illness, SARI 
+σοβαρή παρενέργεια 
+serious side effect 
+σοβαρή χρόνια υποκείμενη νόσος 
+severe chronic underlying condition 
+σοβαρό σύμπτωμα 
+severe symptom 
+σοβαρότητα συμπτωμάτων 
+severity of symptoms 
+σοτροβιμάβη 
+sotrovimab 
+σουπερμάρκετ 
+super-market 
+σταγονίδια της εκπνοής 
+respiratory droplets 
+σταδιακή ανάπτυξη ανοσίας, σταδιακό «χτίσιμο» 
+ανοσίας 
+gradually building immunity 
+σταδιακή άρση των μέτρων 
+gradual lifting of measures 
+σταδιακή επιστροφή στην κανονικότητα 
+gradual return to normalcy 
+σταδιακή χορήγηση 
+roll out 
+σταθερή ώρα πρωινής έγερσης 
+standard waking up time 
+σταθεροποιητής 
+stabiliser 
+στάθμη κυττάρων Τ 
+T cell level 
+στέλεχος 
+strain 
+στέλεχος B.1.1.7, στέλεχος B117 
+B.1.1.7 strain, B117 strain 
+στέλεχος B.1.1.7, στέλεχος B117, στέλεχος Άλφα 
+B.1.1.7 strain, B117 strain, Alpha strain 
+στέλεχος B.1.1.7, στέλεχος Άλφα {ΗΒ} 
+lineage Β.1.1.7, Alpha lineage 
+στέλεχος P.1, στέλεχος Γάμμα {Βραζιλία} 
+lineage P.1, Gamma lineage 
+στέλεχος P.2, στέλεχος Ζήτα {Βραζιλία} 
+lineage P.2, Zeta lineage 
+στέλεχος P.3, στέλεχος Θήτα {Φιλιππίνες} 
+lineage P.3, Theta lineage 
+στέλεχος Β.1.351, στέλεχος Βήτα {Ν. Αφρική} 
+lineage Β.1.351, Beta lineage 
+στέλεχος Β.1.427/ Β.1.429, στέλεχος Έψιλον {ΗΠΑ} 
+lineage Β.1.427/ Β.1.429, Epsilon lineage 
+στέλεχος Β.1.525, στέλεχος Ήτα {Πολλαχού} 
+lineage Β.1.525, Eta lineage 
+στέλεχος Β.1.526, στέλεχος Ιώτα {ΗΠΑ} 
+lineage Β.1.526, Iota lineage 
+στέλεχος Β.1.617 
+lineage Β.1.617, VUI-21APR-21 
+στέλεχος Β.1.617.1, στέλεχος Κάππα {Ινδία} 
+lineage Β.1.617.1, Kappa lineage 
+στέλεχος Β.1.617.2, στέλεχος Δέλτα {Ινδία} 
+lineage Β.1.617.2, Delta lineage 
+ 
+81 
+Ελληνικός όρος 
+Αγγλικός όρος 
+στέλεχος ιού 
+virus strain 
+στέλεχος κορονοϊού 
+coronavirus strain, strain of coronavirus 
+στενή επαφή 
+close contact 
+στενή επαφή (χειραψίες, αγκαλιές και φιλιά) 
+close contact (handshaking, hugging and 
+kissing) 
+στενή επαφή με επιβεβαιωμένο κρούσμα 
+close contact with a confirmed case 
+στεφανιαία αρτηρία 
+coronary artery 
+στηθοσκόπιο 
+stethoscope 
+στοματοφαρυγγικό επίχρισμα 
+oropharyngeal swab 
+στόχοι της στρατηγικής της ΕΕ για τα εμβόλια 
+objectives of the EU Vaccine Strategy 
+στρατηγική της ΕΕ για τα εμβόλια 
+EU Vaccines Strategy 
+στρατηγική υγείας της ΕΕ 
+EU health strategy 
+στρεσογόνος περίοδος 
+stressful period 
+συγκεντρώσεις 
+gatherings 
+συγχρωτισμός 
+close contact with people 
+συζευγμένο εμβόλιο 
+conjugate vaccine 
+σύζυγος 
+spouse 
+συλλοίμωξη 
+coinfection 
+συμμόρφωση στη χρόνια φαρμακευτική αγωγή 
+adherence to chronic medication regimen 
+συμπληρωματικό μέτρο 
+complementary measure 
+σύμπτωμα 
+symptom 
+σύμπτωμα ανώτερης αναπνευστικής οδού 
+upper respiratory tract symptom 
+σύμπτωμα συμβατό με λοίμωξη COVID-19 
+symptom compatible with COVID-19 
+infection 
+συμπτωματική θεραπεία 
+symptomatic treatment 
+συμπτωματική φάση της νόσου 
+symptomatic phase of the disease 
+συμπτωματικό κρούσμα 
+symptomatic case 
+συμπτωματικός 
+symptomatic 
+συμπτωματικός ασθενής  
+symptomatic patient 
+συμπτωματολογία 
+symptomatology 
+συμπτωματολογία λοίμωξης του αναπνευστικού 
+συστήματος 
+symptoms of respiratory infection 
+συμφωνία προαγοράς 
+advanced purchase agreement 
+συναθροίσεις 
+assemblies 
+συναντήσεις σε σπίτια φίλων 
+meetings at friends’ houses 
+σύνδρομο απελευθέρωσης κυτοκινών 
+cytokine release syndrome, CRS 
+σύνδρομο μετά COVID-19  
+post COVID-19 syndrome 
+σύνδρομο οξείας αναπνευστικής δυσχέρειας 
+acute respiratory distress syndrome 
+ 
+82 
+Ελληνικός όρος 
+Αγγλικός όρος 
+σύνδρομο της επαγγελματικής εξουθένωσης 
+burn-out syndrome, burnout syndrome 
+σύνδρομο χρόνιας COVID-19, σύνδρομο LongCOVID 
+longCOVID syndrome,  
+συνδυασμός διαφορετικών εμβολίων 
+mix-and-match vaccine combination 
+συνδυασμός δόσεων/εμβολίων 
+combination of shots 
+συνδυασμός εμβολίων 
+vaccine combination 
+συνδυασμός μεταλλάξεων E484Q και L452R 
+combination of E484Q and L452R 
+mutations 
+συνδυαστικό εμβόλιο 
+combination vaccine 
+συνεπιβάτης 
+co-passenger 
+συνεχιζόμενη συμπτωματική COVID-19 
+ongoing symptomatic COVID-19 
+συνθήκες ψύξης ή κατάψυξης 
+freezing or deep-freezing conditions 
+συνολικός αριθμός κρουσμάτων 
+total number of cases 
+συνολικός φόρος αίματος 
+total death toll 
+συνοριακός σταθμός 
+border station 
+συντηρητικό 
+preservative {n.} 
+συστάδα κρουσμάτων πνευμονίας, συρροή 
+κρουσμάτων πνευμονίας 
+cluster of pneumonia 
+συστάδα κρουσμάτων, συρροή κρουσμάτων 
+case cluster, cluster of cases 
+συστατικό εμβολίου 
+vaccine ingredient 
+σύστημα υγειονομικής περίθαλψης, σύστημα υγείας 
+healthcare system 
+σφάλμα δοσολογίας 
+dosing error 
+Σχέδιο ΧΑΜ, Σχέδιο Χέρια (πλένουμε) – Αποστάσεις 
+(κρατάμε) – Μάσκα (φοράμε) 
+ΧΑΜ plan, Hand(washing)–
+Distance(keeping)–Mask(wearing) plan 
+σχολαστικό πλύσιμο των χεριών 
+washing hands thoroughly 
+σχολικές μονάδες 
+school units 
+σχολικό πρόγραμμα 
+school programme 
+ταμείο 
+cash desk 
+ταξιδιώτης στο ίδιο αεροσκάφος που κάθεται σε 
+απόσταση δύο θέσεων (προς οποιαδήποτε 
+κατεύθυνση) από περιστατικό COVID-19 
+contact in an aircraft sitting within two 
+seats (in any direction) of the COVID-19 
+case 
+ταξιδιωτική ιατρική 
+travel medicine 
+ταξιδιωτικοί περιορισμοί 
+travel restrictions 
+ταχύ τεστ αντισωμάτων, ταχεία δοκιμή 
+αντισωμάτων, ταχεία δοκιμασία αντισωμάτων 
+rapid antibody test 
+τείχος ανοσίας 
+wall of immunity 
+τεχνητή νοημοσύνη 
+artificial intelligence 
+τεχνική προσέγγιση 
+technical approach 
+τήρηση των κανόνων γενικού κλεισίματος 
+respecting the lockdown rules 
+τηρώ το πρωτόκολλο 
+observe the protocol 
+ 
+83 
+Ελληνικός όρος 
+Αγγλικός όρος 
+τηρώ τους κανόνες 
+respect the rules 
+Τμήμα Επειγόντων Περιστατικών, ΤΕΠ 
+Accident & Emergency Dept, A&E 
+τμήμα του αεροσκάφους 
+section of the aircraft 
+το εργαστηριακό τεστ είναι αρνητικό, το 
+εργαστηριακό τεστ βγαίνει αρνητικό 
+the lab test comes out negative 
+το εργαστηριακό τεστ είναι θετικό, το εργαστηριακό 
+τεστ βγαίνει θετικό,  
+the lab test comes out positive 
+το πρόβλημα του λαθρεπιβάτη 
+the free rider problem 
+τομέας εστίασης 
+catering sector 
+τομέας τουρισμού 
+tourism sector 
+τομέας ψυχαγωγίας 
+entertainment sector 
+τοπική επιδημία 
+local epidemic 
+τοπική μετάδοση 
+local transmission 
+τοπικό (γενικό) κλείσιμο 
+local lockdown 
+τοσιλιζουμάμπη 
+tocilizumab 
+τράπεζα 
+bank 
+τραχειοτομή 
+tracheotomy 
+τρεχούμενο νερό 
+running water 
+τριδιάστατη δομή των πρωτεϊνών 
+three-dimensional structure of proteins 
+τρίτη δόση 
+third dose 
+τρόπος μετάδοσης 
+way of transmission 
+τροχιά μόλυνσης 
+infection trajectory 
+τυποποιημένος κατά ηλικία CFR 
+age-standardized CFR 
+τυροσίνη 501 
+tyrosine 501 
+τυχαιοποιημένη κλινική μελέτη 
+randomized clinical study 
+υγειονομική αρχή 
+health authority 
+υγειονομική αρχή αεροδρομίου 
+airport health authority 
+υγειονομική ζώνη 
+cordon sanitaire 
+υγειονομικό προσωπικό {ομάδα προτεραιότητας} 
+healthcare workers {priority group} 
+υγειονομικό πρωτόκολλο 
+healthcare protocol 
+υγειονομικός ιχνηλάτης, υγειονομικός ερευνητής 
+health investigator 
+υγειονομικός υπεύθυνος αεροδρομίου 
+airport health supervisor 
+υγιεινή των χεριών 
+hand hygiene 
+υγιής ενήλικας 
+healthy adult 
+υγρό καθαρισμού επιφανειών 
+surface cleanser 
+υγροαπωθητικό 
+fluid repellent 
+υδρατμός 
+water vapor 
+ 
+84 
+Ελληνικός όρος 
+Αγγλικός όρος 
+υπερβαίνω το κατώφλιο των 100 επιβεβαιωμένων 
+κρουσμάτων 
+pass the threshold of 100 confirmed cases 
+υπερβολική έκθεση σε ειδήσεις 
+overexposure to news 
+υπερμεταδότης 
+superspreader 
+υπερυπολογιστής Summit {της IBM} 
+Summit supercomputer {IBM} 
+υπερφλεγμονώδες σύνδρομο 
+hyper-inflammatory syndrome 
+υπηρεσίες υγείας 
+health services 
+υπό έρευνα εμβόλιο, υπό εξέταση εμβόλιο 
+investigational vaccine 
+υποβάλλω εθελοντικά τον εαυτό μου σε δοκιμή, 
+υποβάλλω εθελοντικά τον εαυτό μου σε τεστ 
+voluntarily submit oneself for testing 
+υποδιαγιγνώσκω, κάνω υποδιάγνωση 
+underdiagnose 
+υποδιάγνωση 
+underdiagnosis 
+υποδόρια χορήγηση 
+hypodermic administration 
+υποδοχέας κυττάρου 
+cell receptor 
+υποκείμενα προβλήματα υγείας 
+underlying health issues 
+υποκείμενη κατάσταση υγείας 
+underlying health condition 
+υποκείμενη κατάσταση υγείας των κρουσμάτων 
+underlying health of cases 
+υποκείμενο χρόνιο νόσημα 
+underlying chronic disease 
+υπολογιστικό νέφος 
+computing cloud 
+υποξαιμία, υποξυγοναιμία 
+hypoxemia 
+υποξία 
+hypoxia 
+υποξικός 
+hypoxic 
+υποπαραλλαγή 
+sub-variant 
+υποπαραλλαγή Όμικρον ΒΑ.1 
+Omicron BA.1 sub-variant 
+υποπαραλλαγή Όμικρον ΒΑ.2 
+Omicron BA.2 sub-variant 
+ύποπτη COVID-19, ύποπτη ασθένεια/νόσος 
+προκαλούμενη από κορονοϊό 2 που προξενεί 
+σοβαρό οξύ αναπνευστικό σύνδρομο (κατάσταση), 
+ύποπτη ασθένεια/νόσος προκαλούμενη από 
+κορονοϊό 2 που προξενεί σοβαρό οξύ αναπνευστικό 
+σύνδρομο, ύποπτη ασθένεια/νόσος προκαλούμενη 
+από SARS-CoV-2 
+suspected COVID-19, suspected disease 
+caused by severe acute respiratory 
+coronavirus 2 (situation), suspected 
+disease caused by severe acute respiratory 
+coronavirus 2, suspected disease caused 
+by SARS-CoV-2 
+ύποπτη λοίμωξη 
+suspected infection 
+ύποπτο κρούσμα 
+suspect case 
+ύποπτο κρούσμα λοίμωξης 
+suspected case of infection 
+υποστέλεχος Όμικρον ΒΑ.1 
+Omicron BA.1 sub-lineage, BA.1 sub- 
+lineage 
+υποστέλεχος Όμικρον ΒΑ.2 
+Omicron BA.2 sub-lineage, BA.2 sub-
+lineage 
+υποστηρικτική φροντίδα 
+supportive care 
+ 
+85 
+Ελληνικός όρος 
+Αγγλικός όρος 
+υποχρεωτική απομόνωνση 
+mandatory isolation 
+υποχρεωτική καραντίνα 
+mandatory quarantine 
+υποχρεωτική χρήση μάσκας 
+mandatory use of face mask 
+υποχρεωτικοποίηση του εμβολιασμού 
+making vaccination compulsory 
+υποχρεωτικός εμβολιασμός 
+compulsory vaccination 
+υποχρεωτικότητα του εμβολιασμού 
+compulsoriness of vaccination 
+υποψήφιο εμβόλιο 
+vaccine candidate 
+υποψήφιο εμβόλιο COVID-19 της CureVac 
+CureVac's vaccine candidate against 
+COVID-19 
+υφασμάτινη μάσκα προσώπου, πάνινη μάσκα 
+προσώπου 
+cloth face cover 
+υψηλή διακινδύνευση 
+high risk 
+υψηλή κλινική υποψία 
+high clinical suspicion 
+υψηλό επίπεδο αντισωμάτων 
+high antibody level 
+υψηλός πυρετός 
+high fever 
+φαινόμενο του εικονικού φαρμάκου, φαινόμενο 
+πλακέμπο, φαινόμενο πλασίμπο 
+placebo effect 
+φαντασία των παιδιών 
+children’s imagination 
+φάρµακο µονοκλωνικού αντισώµατος 
+monoclonal antibody medicine 
+φαρμακευτικές εταιρείες Janssen της Johnson & 
+Johnson 
+Janssen Pharmaceutical Companies of 
+Johnson & Johnson 
+φαρμακευτική αγωγή 
+medication 
+φαρμακευτική εταιρεία 
+pharmaceutical company 
+φαρμακευτική ουσία 
+pharmaceutical substance 
+φαρμακευτικό σκεύασμα 
+pharmaceutical preparation 
+φαρμακοεπαγρύπνηση 
+pharmacovigilance, PV, PhV 
+φάση έξαρσης της εποχικής γρίπης 
+seasonal flu peak 
+φάση Ι κλινικών δοκιμών σε ανθρώπους 
+phase I of human clinical trials 
+φάση ΙΙ κλινικών δοκιμών σε ανθρώπους 
+phase II human clinical trials 
+φάση ΙΙΙ κλινικών δοκιμών σε ανθρώπους 
+phase III human clinical trials 
+φάσμα της νόσου 
+spectrum of illness, illness spectrum 
+φθίνουσα ανοσία 
+waning immunity 
+φιαλίδιο 
+vial 
+φιαλίδιο πολλών δόσεων, αδόκ. φιαλίδιο 
+πολλαπλών δόσεων 
+multi-dose vial 
+φλουβοξαμίνη 
+fluvoxamine 
+φόβος 
+fear 
+φονικότητα της COVID-19 
+lethality of COVID-19 
+φορέας δεδομένων 
+data carrier 
+ 
+86 
+Ελληνικός όρος 
+Αγγλικός όρος 
+φορέας του ιού 
+virus vector 
+φορητός ακτινολογικός εξοπλισμός 
+portable X-ray equipment 
+φορητός διαγνωστικός εξοπλισμός 
+portable diagnostic equipment 
+φόρος αίματος 
+death toll 
+φροντίδα στο σπίτι 
+home care 
+φροντιστής, άτομο που φροντίζει ασθενή 
+caregiver 
+φταρνίζομαι στον αγκώνα μου 
+sneeze inside one’s elbow 
+φτάρνισμα 
+sneeze, sneezing 
+φύλο των θανόντων από COVID-19 
+gender of COVID-19 fatalities 
+φυλογενετική ανάλυση 
+phylogenetic analysis 
+φύσημα της μύτης 
+blowing one’s nose 
+φυσικά αντισώματα 
+natural antibodies 
+φυσική άμυνα του σώματος 
+body’s natural defense 
+φυσική ανοσία 
+natural immunity 
+φυσική απόσταση 
+physical distance 
+φυσική αποστασιοποίηση, σωματική 
+αποστασιοποίηση 
+physical distancing 
+φυσική μόλυνση, φυσική λοίμωξη 
+natural infection 
+φυσική νόσηση 
+getting naturally diseased 
+φυσική νόσος 
+natural disease 
+φωσφορική χλωροκίνη 
+chloroquine phosphate 
+χαλαρώνω τους κανόνες 
+relax the rules 
+χαλάρωση των μέτρων 
+relaxation of measures 
+χαμηλή κλινική υποψία 
+low clinical suspicion 
+χαμηλό επίπεδο αντισωμάτων 
+low antibody level 
+χαρτομάντιλο 
+tissue 
+χαρτοφυλάκιο πιθανών εμβολίων 
+portfolio of potential vaccines 
+χειρίζομαι κλινικά δείγματα από περιστατικά COVID-
+19 
+handle specimens from COVID-19 cases 
+χειρουργική μάσκα 
+surgical mask 
+χημειοθεραπεία 
+chemotherapy 
+χημική ανοσία 
+chemical immunity 
+χορήγηση πλάσματος 
+plasma administration 
+χορήγηση πλάσματος αίματος 
+blood plasma injection 
+χορηγώ ενδομυϊκά 
+administer intramuscularly 
+χρηματοοικονομική βοήθεια 
+financial assistance 
+χρήση ΜΑΠ, χρήση μέσων ατομικής προστασίας 
+use of PPE 
+χρήση μάσκας 
+using a mask 
+ 
+87 
+Ελληνικός όρος 
+Αγγλικός όρος 
+χρήση χαρτομάντιλου για τον βήχα ή το φτέρνισμα 
+use of tissue paper when coughing or 
+sneezing 
+χρησιμοποιώ μάσκα 
+use a mask 
+χρόνια COVID-19 
+long COVID-19 
+χρόνια θεραπεία 
+chronic treatment 
+χρόνια νεφροπάθεια 
+chronic kidney disease 
+χρόνια νόσος, χρόνια ασθένεια 
+chronic illness 
+χρόνια πνευμονοπάθεια 
+chronic pulmonary disease 
+χρόνια πνευμονοπάθεια 
+chronic lung disease 
+χρόνια φαρμακευτική αγωγή 
+chronic medication regimen 
+χρόνιο αναπνευστικό νόσημα 
+chronic respiratory disease 
+χρόνιο καρδιακό νόσημα, χρόνια καρδιοπάθεια 
+chronic heart disease 
+χρόνος ανάρρωσης 
+convalescence time, recovery time 
+χρόνος επώασης της νόσου 
+disease incubation period 
+χτίζω ανοσία στην COVID-19 
+build immunity to COVID-19 
+χτίσιμο ανοσίας στην COVID-19 
+building immunity COVID-19 
+χυμική ανοσία 
+humoral immunity 
+χώρα προέλευσης επισκέπτη 
+visitor’s country of origin 
+χώρος επιβίβασης 
+embarkation space 
+ψυχική υγεία του παιδιού 
+child mental health 
+ψωρίαση 
+psoriasis 
+ωμό κρέας 
+raw meat 
+ 
+ 
+Πηγές ή κείμενα αναφοράς 
+1. 
+Περιοδικές προφορικές ενημερώσεις από τον ΕΟΔΥ και το Υπουργείο Υγείας 
+2. 
+SNOMED International 
+3. 
+Giugliano F. Greece Shows How to Handle the Crisis – The government imposed severe social distancing 
+measures much earlier than others 
+4. 
+Routley N., Infection Trajectory See Which Countries are Flattening Their COVID-19 Curve 
+5. 
+ΕΟΔΥ – Ημερήσια έκθεση επιδημιολογικής επιτήρησης λοίμωξης από το νέο κορωνοϊό (COVID-19) – 
+Δεδομένα έως 18 Απριλίου 2020, ώρα 15:00 
+6. 
+ΕΟΔΥ – Daily epidemiological surveillance report new coronavirus infection (COVID-19) Data until April 
+11, 2020, at 15:00 
+7. 
+ΕΟΔΥ – Current state of Covid-19 outbreak in Greece and timeline of key containment events 
+8. 
+ΕΟΔΥ – Further covid 19 data from Greece 
+9. 
+ΕΟΔΥ – ΛΟΙΜΩΞΗ ΑΠΟ ΤΟ ΝΕΟ κορωνοϊό Covid-19 – Οδηγίες προφύλαξης για το κοινό 
+10 ΕΟΔΥ – Public safety advice 
+11 ΕΟΔΥ – Οδηγίες για απομόνωση επαφών στο σπίτι 
+12 ΕΟΔΥ – Guidance on self-isolation at home 
+ 
+88 
+13 ΕΟΔΥ – Οδηγίες για παραμονή παιδιών και εφήβων στο σπίτι 
+14 ΕΟΔΥ – Guidance for children and adolescents on staying at home 
+15 ΕΟΔΥ – Λοίμωξη από το νέο κορωνοϊό SARS-CoV-2 – Οδηγίες για ευπαθείς ομάδες 
+16 ΕΟΔΥ – Novel coronavirus SARS-CoV-2 infection – Guidance for high-risk groups 
+17 ΕΟΔΥ – COVID-19 – Οδηγίες για Χώρους Παροχής Υπηρεσιών Υγείας 
+18 ΕΟΔΥ – Infection from new coronavirus SARS-CoV-2 (COVID-19) – Guidance for Healthcare settings 
+19 ΕΟΔΥ – Ερωτήσεις και απαντήσεις για το νέο κορωνοϊό COVID-19 
+20 ΕΟΔΥ – Novel Coronavirus COVID-19 – Questions and Answers for the public 
+21 Λεξικό Όρων Υγιεινής και Επιδημιολογίας, Γιάνης Δημολιάτης κ.ά., Εκδόσεις ΚΑΛΛΙΠΟΣ, 2015 (Κωδικός 
+Συγγράμματος: 15373) 
+22 Termium – Glossary on the COVID-19 pandemic 
+23 Χαραλαμπάκης Χριστόφορος – Κορονοϊός και ηθικός πανικός, Μηνιαίο περιοδικό ΧΑΡΤΗΣ, 16, Απρίλιος 
+2020. 
+24 COVID-19 – Οδηγίες για τη χρήση μάσκας από το κοινό 
+25 Συνοπτικές οδηγίες για το επιβατικό κοινό σε Μέσα Μαζικής Μεταφοράς 
+26 A European instrument for temporary Support to mitigate Unemployment Risks in an Emergency (SURE) 
+27 Πανδημία COVID-19: Το Συμβούλιο καταλήγει σε πολιτική συμφωνία σχετικά με προσωρινή στήριξη για 
+τον μετριασμό των κινδύνων ανεργίας σε κατάσταση έκτακτης ανάγκης (SURE) 
+28 Macron and Merkel propose €500bn EU recovery fund 
+29 French–German Initiative for the European recovery from coronavirus crisis 
+30 Συμφωνία Γερμανίας - Γαλλίας για επιχορηγήσεις 500 δισ. ευρώ 
+31 ΕΟΔΥ – Οδηγίες για παιδιά και οικογένειες για την αντιμετώπιση των περιοριστικών μέτρων λόγω του 
+κορονοϊού (COVID-19) 
+32 ΕΟΔΥ – Οδηγίες για παραμονή παιδιών και εφήβων στο σπίτι, στο πλαίσιο της Κοινής Υπουργικής 
+Απόφασης για την πρόληψη της διασποράς του νέου κορωνοϊού SARS-CoV-2 στις σχολικές μονάδες και 
+την κοινότητα, 11 Μαρτίου 2020 
+33 COVID-19 Οδηγίες για ταξιδιώτες 
+34 Novel Coronavirus COVID-19 Advice for travellers 
+35 COVID-19 – Οδηγίες για προσωπικό εδάφους αεροδρομίων 
+36 COVID-19 – Advice for airport ground personnel 
+37 Προ-Επιβίβασης Έντυπο Εντοπισμού Επιβάτη 
+38 Pre Boarding Information form–hellenicseaways 
+39 Pre Boarding Information form–bluestarferries 
+40 Protocol for Arrivals in Greece: All Travelers Must Fill Out a Passenger Locator Form 
+41 Coronavirus (COVID-19) Guidance for Ship Operators for the Protection of the Health of Seafarers 
+42 Coronavirus in Greece – Update (COVID-19 Information) 
+43 Russia approves 'Sputnik V' COVID-19 vaccine with little human testing 
+44 Μόσιαλος: Τι ξέρουμε και τι δεν ξέρουμε για το εμβόλιο της Ρωσίας κατά του κορονοϊού 
+45 What we know and what we do not know about the Russian COVID-19 vaccine 
+46 The Contribution of the Age Distribution of Cases to COVID-19 Case Fatality Across Countries 
+47 WHO – Home care for patients with suspected or confirmed COVID-19 and management of their 
+contacts, Interim guidance, 12 August 2020  
+48 Κορονοϊός: Ποιο φύλο είναι πιο ευάλωτο στον ιό - Τι αποκαλύπτει νέα μελέτη 
+ 
+89 
+49 WHO – Vaccines and immunization: What is vaccination?, 26 August 2019 | Q&A 
+50 WHO – Coronavirus disease (COVID-19): Vaccine access and allocation, 28 October 2020 | Q&A, 
+Updated 12 December 2020 
+51 Coronavirus vaccines strategy_European Commission 
+52 Στρατηγική για τo εμβόλιo κατά του κορονοϊού_Ευρωπαϊκή Επιτροπή 
+53 Τσιόδρας_ Ο κορονοϊός ήρθε για να μείνει, δεν ξέρουμε πότε θα τελειώσουμε - Τι είπε για εμβόλια και 
+ανοσία  
+54 Nelly and Erik, the disturbing mutations of the coronavirus that threaten to worsen the pandemic  
+55 Κορονοϊός: Μείωση ιικού φορτίου στην Επικράτεια, αλλά όχι στην Αττική - Οι δείκτες που προβληματίζουν. 
+56 Μαγιορκίνης – Μικρότερη των αρχικών εκτιμήσεων η μεταδοτικότητα της βρετανικής μετάλλαξης - ΤΑ ΝΕΑ 
+57 CDC – Principles of Epidemiology in Public Health Practice (Updated-2012) 
+58 The mystery of the pandemic's ‘happy hypoxia’ 
+59 “Χαρούμενη υποξία”: Τι είναι το ασυνήθιστο σύμπτωμα του κοροναϊού που ανησυχεί την ιατρική κοινότητα 
+60 Johnson & Johnson one-dose Covid vaccine shown to work 
+61 Ο πίνακας σύγκρισης του Ηλία Μόσιαλου με τα 7 εμβόλια -Ολα όσα πρέπει να ξέρετε σε ένα γράφημα 
+62 COVID-19: Το λεξικό – Μαριάννα Κατσογιάννου, Ζωή Στεφανίδου 
+63  Οκτώ νέα φάρμακα στη μάχη κατά του κορωνοϊού – Δήμητρα Πανανού (συνέντευξη του Θ. Δημόπουλου, 
+πρύτανη του ΕΚΠΑ) – Εφημερίδα Real News, Κυριακή 4 Απριλίου 2021 
+64 Θα καλύψουμε τις ανάγκες όλου του κόσμου – Δήμητρα Πανανού (Συνέντευξη Ναρντίρ Αρμπέρ, του 
+Ισραηλινού καθηγητή που ανέπτυξε το φάρμακο EXO-CD24) – Εφημερίδα Real News, Κυριακή 4 
+Απριλίου 2021. 
+65 ΕΟΔΥ: Ινδική μετάλλαξη, αλλά με διαφορές το κρούσμα στην Πάτρα - Χωρίς ιστορικό ταξιδιού, δεν 
+νοσηλεύτηκε 
+66 Ξεκινούν οι δοκιμές του φαρμάκου από το Ισραήλ στην Ελλάδα – Δήμητρα Πανανού – Εφημερίδα Real 
+News, Κυριακή 25/4/2021 
+67 Στην τελική ευθεία 8 ακόμη σκευάσματα – Δήμητρα Πανανού – Εφημερίδα Real News, Κυριακή 25/4/2021 
+68 Virus variants in Asia threaten the whole world 
+69 ΠΟΥ: Θα χρησιμοποιεί ελληνικά γράμματα για τις ονομασίες των μεταλλάξεων 
+70 WHO–Burn-out, an "occupational phenomenon": International Classification of Diseases 
+71 Νέα δεδομένα_ Ο συνδυασμός εμβολίων οδηγεί σε μεγαλύτερη ανοσία  
+72 Heterologous prime-boost COVID-19 vaccination_ initial reactogenicity data - The Lancet.pdf 
+73 ECDC – SARS-CoV-2 variants of concern as of 24 June 2021 
+74 What’s the difference between mutations, variants and strains? A guide to COVID terminology 
+75 EU-Vaccination Glossary (https://ec.europa.eu/health/sites/default/files/vaccination/docs/glossary_en.pdf) 
+76 Θεοδωρίδου: Ποιοι θα κάνουν την τρίτη δόση εμβολίου 
+77 COVID-19 Vaccine Booster Shot 
+78 Γλωσσάριο Ιατρικής Ορολογίας για Ανοσοποίηση και Ανάπτυξη Εμβολίων - Glossary of Medical 
+Terminology for Immunisation and Vaccine development (UNSW Sydney – the University of New South 
+Wales 
+79 Government of Canada – COVID-19 daily epidemiology update. 
+80 Ελληνική Πνευμονολογική Εταιρεία «Long-Post Covid» 
+81 Most Covid Vaccines Will Work as Boosters, Study Suggests 
+82 Ελληνική Εταιρεία Ανοσολογίας – Το Καταπληκτικό Ανοσιακό σου Σύστημα 
+ 
+90 
+83 Patient zero: why it’s such a toxic term 
+84   Μετάλλαξη Όμικρον - Μόσιαλος: Γιατί η Ελλάδα θα έχει μεγαλύτερο πρόβλημα σε σχέση με άλλες χώρες  
+της ΕΕ. 
+85 Omicron ‘sub-variant’ throws up new virus questions 
+86 Coronavirus: Health experts not alarmed by new variant identified in France 
+87 Mosialos: Cameroon variant – What we know about the new mutation found in France 
+88 Ηλίας Μόσιαλος: Τι ξέρουμε έως τώρα για τη νέα παραλλαγή «Καμερούν» που εντοπίστηκε στη Γαλλία 
+89 The Post-Pandemic Social Contract 
+90 Economist: Η πανδημία φέρνει στο προσκήνιο την ανάγκη για νέο κοινωνικό συμβόλαιο 
+91 Kineret (ανακίνρα) Ανασκόπηση του Kineret και αιτιολογικό έγκρισης στην ΕΕ 
+92 Ο Ευρωπαϊκός Οργανισμός Φαρμάκων συστήνει την έγκριση των «Xevudy» και «Kineret» για τη 
+θεραπεία της Covid-19 
+ 
+ 

@@ -1,0 +1,4516 @@
+SOURCE: http://www.eleto.gr/download/Bodies/StampColors_glossaries.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Χρωματολόγιο γραμματοσήμων 
+ 
+Τετράγλωσσος οδηγός προσδιορισμού χρώματος γραμματοσήμων 
+(158 χρώματα) 
+(Σύμφωνα με το Παράρτημα Α του βιβλίου «Φιλοτελική Ορολογία», 
+του Δημήτρη Παναγιωτάκου, ηλεκτρονικής έκδοσης ΕΛΕΤΟ, 2016)  
+ 
+ 
+Περιέχονται: 
+ 
+1. Επτά τετράγλωσσοι πίνακες χρωμάτων του χρωματολογίου 
+2. Ελληνοαγγλογαλλογερμανικό γλωσσάριο χρωματικών όρων 
+3. Αγγλοελληνογαλλογερμανικό γλωσσάριο χρωματικών όρων 
+4. Γαλλοελληνοαγγλογερμανικό γλωσσάριο χρωματικών όρων 
+5. Γερμανοελληνοαγγλογαλλικό γλωσσάριο χρωματικών όρων 
+ 
+ 
+Όλοι οι ελληνικοί χρωματικοί όροι έχουν μελετηθεί και εγκριθεί από το ΓΕΣΥ 
+ 
+ 
+ 
+Επιμέλεια: 
+Κώστας Βαλεοντής 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Αθήνα, 2016 
+E 
+Λ 
+Ε  Τ Ο
+L 
+E 
+2 
+ 
+1.  Τετράγλωσσοι πίνακες χρωμάτων του χρωματολογίου 
+ 
+ 
+ 
+Πίνακας 01 
+ 
+Κωδικός 
+αριθμός 
+Όρος 
+γερμανικός 
+αγγλικός 
+γαλλικός 
+ελληνικός 
+Χρώμα
+Κωδικός
+αριθμός 
+Όρος
+γερμανικός 
+αγγλικός 
+γαλλικός 
+ελληνικός 
+Χρώμα 
+ 
+ 
+ 
+ 
+ 
+ 
+01.1 
+weiss 
+white 
+blanc 
+λευκό 
+ 
+01.5 
+dunkel grau 
+dark grey 
+gris foncé 
+γκρι σκούρο 
+ 
+01.2 
+matt grau 
+dull grey 
+gris mat 
+γκρι ματ 
+ 
+01.6 
+schwarz grau 
+black grey 
+gris noir 
+γκρι μαύρο 
+ 
+01.3 
+hell grau 
+pale grey 
+gris clair 
+γκρι ανοικτό 
+ 
+01.7 
+grau schwarz 
+grey black 
+noir gris 
+μαύρο γκρι 
+ 
+01.4 
+grau 
+grey 
+gris 
+γκρι 
+ 
+01.8 
+schwarz 
+black 
+noir 
+μαύρο 
+ 
+3 
+Πίνακας 02–06 
+ 
+1 
+2 
+3 
+4 
+5 
+02. 
+ 
+ 
+ 
+ 
+ 
+ 
+olivgrau 
+olive-grey 
+gris-olive 
+γκρι-λαδί 
+ 
+lilagrau 
+lilac-grey 
+gris-lilas 
+γκρι-λιλά 
+violettgrau 
+violet-grey 
+gris-violet 
+γκρι-βιολετί 
+blaugrau 
+blue-grey 
+gris-bleu 
+γκρι-μπλε 
+grüngrau 
+green-grey 
+gris-vert 
+γκρι-πράσινο 
+03. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkelolivgrau 
+dark olive-grey 
+gris-olive foncé 
+γκρι-λαδί σκούρο 
+dunkellilagrau 
+dark lilac-grey 
+gris-lilas foncé 
+γκρι-λιλά σκούρο 
+dunkelviolettgrau 
+dark violet-grey 
+gris-violet foncé 
+γκρι-βιολετί σκούρο 
+dunkelblaugrau 
+dark blue-grey 
+gris-bleu foncé 
+γκρι-μπλε σκούρο 
+dunkelgrüngrau 
+dark green-grey 
+gris-vert foncé 
+γκρι-πράσινο 
+σκούρο 
+04. 
+ 
+ 
+ 
+ 
+ 
+ 
+mattgelb 
+dull-yellow 
+jaune mat 
+κίτρινο ματ 
+ 
+grünlichgelb 
+greenish yellow 
+jaune-verdâtre 
+κίτρινο 
+πρασινωπό 
+zitrongelb 
+lemon  
+jaune-citron 
+κίτρινο-λεμονί 
+schwefelgelb 
+sulphur yellow 
+jaune-soufre 
+κίτρινο θείου 
+gelb 
+yellow 
+jaune 
+κίτρινο 
+05. 
+ 
+ 
+ 
+ 
+ 
+ 
+chromgelb 
+chrome-yellow 
+jaune-chrome 
+κίτρινο χρωμίου 
+ 
+dunkelchrom 
+dark chrome 
+chrome foncé 
+χρωμίου σκούρο 
+orangegelb 
+orange-yellow 
+jaune-orange 
+κίτρινο-πορτοκαλί 
+gelborange 
+yellow- orange 
+orange-jaune 
+πορτοκαλί-κίτρινο 
+orange 
+orange 
+orange 
+πορτοκαλί 
+06. 
+ 
+ 
+ 
+ 
+ 
+ 
+rotorange 
+red-orange 
+orange-rouge 
+πορτοκαλί-ερυθρό 
+rahmferben 
+cream 
+crème 
+κρεμ 
+sämisch 
+buff 
+chamois 
+σαμουά, 
+ωχροκίτρινο 
+strohgelb 
+straw-yellow 
+(paille) 
+jaune paille 
+κίτρινο άχυρου 
+olivgelb 
+olive-yellow 
+jaune-olive 
+κίτρινο-λαδί 
+4 
+Πίνακας 07–11 
+ 
+1 
+2 
+3 
+4 
+5 
+07. 
+ 
+ 
+ 
+ 
+ 
+ 
+mennige 
+minium (miniate) 
+minium 
+μίνιου 
+lachs 
+salmon 
+saumon 
+σομόν 
+siegelrot 
+brick-red 
+rouge-brique 
+ερυθρό-κεραμιδί 
+orangerot 
+orange-red 
+rouge-orange 
+ερυθρό-πορτοκαλί 
+zinnober 
+vermilion 
+vermillion 
+βερμιγιόν, 
+κινναβάρινο 
+08. 
+ 
+ 
+ 
+ 
+ 
+ 
+hellachsfarben 
+pale salmon 
+saumon clair 
+σομόν ανοικτό 
+hellorangerot 
+orange orange-red 
+rouge-orange clair 
+ερυθρό-πορτοκαλί 
+ανοικτό 
+hellrot 
+pale red 
+rouge clair 
+ερυθρό ανοικτό 
+bräunlichrot 
+brownish red 
+rouge brunâtre 
+ερυθρό-καφετίζον 
+bräunrot 
+brown-red 
+rouge-brun 
+ερυθρό-καφετί 
+09. 
+ 
+ 
+ 
+ 
+ 
+ 
+scharlach 
+scarlet 
+écarlate 
+άλικο, ζωηρό 
+ερυθρό 
+rot 
+red 
+rouge 
+ερυθρό 
+krapprot 
+madder-red 
+rouge-garance 
+ερυθρό 
+ερυθροδάνου 
+karminrot 
+carmine-red 
+rouge-carminé 
+ερυθρό-κρεμεζί, 
+καρμινί 
+lilarot 
+lilac-red 
+rouge-lilas 
+ερυθρό-λιλά 
+10. 
+ 
+ 
+ 
+ 
+ 
+ 
+eosinrosa 
+eosine-rose 
+rose-éosine 
+ροζ αυγής 
+rosa 
+pink 
+rose 
+ροζ 
+rosakarmin 
+carmine-rose 
+carmin-rose 
+κρεμεζί-ροζ,  
+καρμινί ροζ 
+karmin 
+carmine 
+carmine 
+κρεμεζί, καρμινί 
+dunkelkarmin 
+dark carmine 
+carmine foncé 
+κρεμεζί σκούρο,  
+καρμινί σκούρο 
+11. 
+ 
+ 
+ 
+ 
+ 
+ 
+lilakarmin 
+lilac-carmine 
+carmin-lilas 
+κρεμεζί λιλά, 
+καρμινί λιλά 
+bräunlichkarmin 
+brownish carmine 
+carmin-brunätre 
+κρεμεζί καφετίζον, 
+καρμινί καφετίζον 
+braunkarmin 
+brown-carmine 
+carmin-brun 
+κρεμεζί-καφετί,  
+καρμινί καφετί 
+dunkelbraunkarmin 
+dark brown-carmine 
+carmin-brun foncé 
+κρεμεζί καφετί 
+σκούρο, καρμινί 
+καφετί σκούρο 
+lilarosa 
+lilac-rose 
+rose-lilas 
+ροζ-λιλά 
+5 
+Πίνακας 12–16 
+ 
+1 
+2 
+3 
+4 
+5 
+12. 
+ 
+ 
+ 
+ 
+ 
+ 
+rosalila 
+rose-lilac 
+lilas-rose 
+λιλά-ροζ, σολφερίνο 
+dunkelrosalila 
+dark rose-lilac 
+lilas-rose foncé 
+λιλά-ροζ σκούρο 
+karminlila 
+carmine-lilac 
+lilas-carminé 
+λιλά-κρεμεζί,  
+λιλά-καρμινί 
+lila 
+lilac 
+lilas 
+λιλά 
+rotlila 
+red-lilac 
+lilas-rouge 
+λιλά-ερυθρό 
+13. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkelrötlichlila 
+dark reddish lilac 
+lilas-rougeâtre foncé 
+λιλά ερυθρωπό 
+σκούρο 
+bräunlichlila 
+brownish lilac 
+lilas-brunâtre 
+λιλά-καφετίζον 
+bräunlila 
+brown-lilac 
+lilas-brun 
+λιλά- καφετί 
+graunlila 
+grey-lilac 
+lilas-gris 
+λιλά-γκρι 
+schwarzlila 
+blackish lilac 
+lilas-noir 
+λιλά-μαύρο 
+14. 
+ 
+ 
+ 
+ 
+ 
+ 
+lilapurpur 
+lilac-purple 
+pourpre-lilas 
+πορφυρό-λιλά 
+mattpurpur 
+pale purple 
+pourpre mat 
+πορφυρό ματ 
+purpur 
+purple 
+pourpre 
+πορφυρό 
+violettpurpur 
+violet-purple 
+pourpre-violacé 
+πορφυρό-βιολετί 
+purpurviolett 
+purple-violet 
+violet-pourpre 
+βιολετί-πορφυρό 
+15. 
+ 
+ 
+ 
+ 
+ 
+ 
+hellviolett 
+pale violet 
+violet clair 
+βιολετί ανοικτό 
+lebhaftviolett 
+bright violet 
+violet vif 
+βιολετί ζωηρό 
+violett 
+violet 
+violet 
+βιολετί 
+bläulichviolett 
+blueish violet 
+violet-azuré 
+βιολετί κυανωπό 
+bläuviolett 
+blue-violet 
+violet-bleu 
+βιολετί-μπλε 
+16. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkelviolett 
+dark violet 
+violet foncé 
+βιολετί σκούρο 
+bräunlichviolett 
+brownish violet 
+violet-brunâtre 
+βιολετί-καφετίζον 
+braunviolett 
+brown-violet 
+violet-brun 
+βιολετί- καφετί 
+grauviolett 
+grey-violet 
+violet-gris 
+βιολετί-γκρι 
+schwarzviolett 
+blackish violet 
+violet-noir 
+βιολετί-μαύρο 
+6 
+Πίνακας 17–21 
+ 
+1 
+2 
+3 
+4 
+5 
+17. 
+ 
+ 
+ 
+ 
+ 
+ 
+violettblau 
+violet-blue 
+bleu-violet 
+μπλε-βιολετί 
+hellviolettblau 
+pale-violet-blue 
+bleu-violet clair 
+μπλε-βιολετί 
+ανοικτό 
+dunkelviolettblau 
+dark violet-blue 
+bleu-violet foncé 
+μπλε-βιολετί σκούρο 
+ultramaringrau 
+ultramarine-grey 
+gris-outremer 
+γκρι-λουλακί 
+grauultramarin 
+grey-ultramarine 
+outremer-gris 
+λουλακί-γκρι 
+18. 
+ 
+ 
+ 
+ 
+ 
+ 
+violettultramarin 
+violet-ultramarine 
+outremer-violet 
+λουλακί-βιολετί 
+kornblumenblau 
+cornflower-blue 
+bleu de bluet 
+μπλε 
+σιτολούλουδου 
+lebhaftultramarin 
+bright ultramarine 
+outremer vif 
+λουλακί ζωηρό 
+ultramarin 
+ultramarine 
+outremer 
+λουλακί 
+kobalt 
+cobalt 
+cobalt 
+κοβαλτίου 
+19. 
+ 
+ 
+ 
+ 
+ 
+ 
+hellkobalt 
+pale cobalt 
+cobalt clair 
+κοβαλτίου ανοικτό 
+lichtblau 
+light blue 
+bleu-clair 
+μπλε ανοικτό 
+schwarzblau 
+blackish blue 
+bleu-noir 
+μπλε μαύρο 
+indigo 
+indigo 
+indigo 
+ινδικό 
+dunkelblau 
+dark blue 
+bleu foncé 
+μπλε σκούρο 
+20. 
+ 
+ 
+ 
+ 
+ 
+ 
+blau 
+blue 
+bleu 
+μπλε 
+türkisblau 
+turkois-blue 
+bleu turquoise 
+μπλε-τιρκουάζ 
+graublau 
+grey-blue 
+bleu-gris 
+μπλε-γκρι 
+dunkelgraublau 
+dark grey-blue 
+bleu-gris foncé 
+μπλε-γκρι σκούρο 
+preußischblau 
+Prussianblue 
+bleu de Prusse 
+μπλε Πρωσσίας 
+21. 
+ 
+ 
+ 
+ 
+ 
+ 
+wasserblau 
+sea-blue 
+bleu turquin 
+μπλε σκούρο ματ 
+hellgrünlichblau 
+pale greenish blue 
+bleu-verdätre clair 
+μπλε πρασινωπό 
+ανοικτό 
+grünlichblau 
+greenish blue 
+bleu-verdätre 
+μπλε πρασινωπό 
+dunkelgrünlichblau 
+dark green-blue 
+bleu-vert foncé 
+μπλε πρασινωπό 
+σκούρο 
+grünblau 
+green-blue 
+bleu-vert 
+μπλε-πράσινο 
+7 
+Πίνακας 22–26 
+ 
+1 
+2 
+3 
+4 
+5 
+22. 
+ 
+ 
+ 
+ 
+ 
+ 
+blaugrün 
+blue-green 
+vert-bleu 
+πράσινο-μπλε 
+dunkelblaugrün 
+dark blue-green 
+vert-bleu foncé 
+πράσινο-μπλε 
+σκούρο 
+schwarzblaugrün 
+blackish blue-green 
+vert-bleu-noir 
+πράσινο-μπλε-
+μαύρο 
+hellbläulichgrün 
+pale blueish green 
+vert-bleuâtre clair 
+πράσινο κυανωπό 
+ανοικτό 
+bläulichgrün 
+blueish green 
+vert-bleuâtre clair 
+πράσινο κυανωπό 
+23. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkelbläulichgrün 
+dark blueish green 
+vert-bleuâtre foncé 
+πράσινο κυανωπό 
+σκούρο 
+seegrün 
+sea-green 
+vert de mer 
+πράσινο θαλάσσης 
+grün 
+green 
+vert 
+πράσινο 
+graugrün 
+grey-green 
+vert-gris 
+πράσινο-γκρι 
+dunkelgrün 
+dark green 
+vert foncé 
+πράσινο σκούρο 
+24. 
+ 
+ 
+ 
+ 
+ 
+ 
+smaragd 
+emerald 
+émeralde 
+σμαραγδί 
+smaragdgrün 
+emerald-green 
+vert-émeralde 
+πράσινο-σμαραγδί 
+gelblichgrün 
+yellowish green 
+vert-jaunâtre 
+πράσινο κιτρινωπό 
+maigrün 
+celadon 
+vert-céladon 
+πράσινο-γλαυκό 
+gelbgrün 
+yellow-green 
+vert-jaune 
+πράσινο-κίτρινο 
+25. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkelgelbgrün 
+dark yellow-green 
+vert-jaune foncé 
+πράσινο-κίτρινο 
+σκούρο 
+russischgrün 
+Russian green 
+vert russe 
+πράσινο ρωσικό 
+olivgrün 
+olive-green 
+vert-olive 
+πράσινο-λαδί 
+dunkelolivgrün 
+dark olive-green 
+vert-olive foncé 
+πράσινο-λαδί 
+σκούρο 
+grünoliv 
+green-olive 
+olive-vert 
+λαδί-πράσινο 
+26. 
+ 
+ 
+ 
+ 
+ 
+ 
+oliv 
+olive 
+olive 
+λαδί 
+grauoliv 
+grey-olive 
+olive-gris 
+λαδί-γκρι 
+schwarzoliv 
+blackish olive 
+olive-noir 
+λαδί-μαύρο 
+gelboliv 
+yellow-olive 
+olive-jaune 
+λαδί-κίτρινο 
+braunoliv 
+brown-olive 
+olivebrun 
+λαδί-καφετί 
+8 
+Πίνακας 27–31 
+ 
+1 
+2 
+3 
+4 
+5 
+27. 
+ 
+ 
+ 
+ 
+ 
+ 
+ocker 
+ochre 
+ocre 
+ώχρας 
+braunocker 
+brown-ochre 
+ocre-brun 
+ώχρας καφετί 
+ockerbraun 
+ochre-brown 
+brun-ocre 
+καφετί ώχρας 
+olivbraun 
+olive-brown 
+brun-olive 
+καφετί-λαδί 
+fahlbraun 
+pale brown 
+brun pâle 
+καφετί ανοικτό 
+28. 
+ 
+ 
+ 
+ 
+ 
+ 
+gelbbraun 
+yellow-brown 
+brun-jaune 
+καφετί-κίτρινο 
+orangebraun 
+orange-brown 
+brun-orange 
+καφετί-πορτοκαλί 
+braun 
+brown 
+brun 
+καφετί 
+dunkelbraun 
+dark brown 
+brun foncé 
+καφετί σκούρο 
+rotbraun 
+red-brown 
+brun-rouge 
+καφετί-ερυθρό 
+29. 
+ 
+ 
+ 
+ 
+ 
+ 
+Terra di Siena 
+Sienne 
+Terre de Sienne 
+γη Σιέννης 
+dunkelsiena 
+dark Sienne 
+Terre de Sienne 
+foncé 
+γη Σιέννης σκούρο 
+karminbraun 
+carmine-brown 
+brun-carminé 
+καφετί-κρεμεζί,  
+καφετί-καρμινί 
+dunkelkarminbraun 
+dark carmine-
+brown 
+brun-carminé forcé 
+καφετί-κρεμεζί 
+σκούρο, καφετί-
+καρμινί σκούρο 
+lilabraun 
+lilac-brown 
+brun-lilas 
+καφετί-λιλά 
+30. 
+ 
+ 
+ 
+ 
+ 
+ 
+dunkellilabraun 
+dark lilac-brown 
+brun-lilas foncé 
+καφετί-λιλά 
+σκούρο 
+violettbraun 
+violet-brown 
+brun-violacé 
+καφετί-βιολετί 
+dunkelviolettbraun 
+dark violet-brown 
+brun-violacé foncé 
+καφετί-βιολετί 
+σκούρο 
+sepia 
+sepia 
+sepia 
+σέπια 
+graubraun 
+grey-brown 
+brun-gris 
+καφετί-γκρι 
+31. 
+ 
+ 
+ 
+ 
+ 
+ 
+schwarzbraun 
+blackish brown 
+brun-noir 
+καφετί-μαύρο 
+braunschwarz 
+brown-black  
+noir-brun 
+μαύρο-καφετί 
+lilaschwarz 
+lilac-black  
+noir-lilacé 
+μαύρο-λιλά 
+violettschwarz 
+violet-black  
+noir-violacé 
+μαύρο-βιολετί 
+blauschwarz 
+blueish black  
+noir-bleuté 
+μαύρο κυανωπό 
+9 
+ 
+2.  Ελληνοαγγλογαλλογερμανικό γλωσσάριο χρωματικών όρων 
+ 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+άλικο, ζωηρό ερυθρό 
+scarlet 
+écarlate 
+scharlach 
+09.1 
+βερμιγιόν, κινναβάρινο
+vermilion 
+vermillion 
+zinnober 
+07.5 
+βιολετί 
+violet 
+violet 
+violett 
+15.3 
+βιολετί ανοικτό 
+pale violet 
+violet clair 
+hellviolett 
+15.1 
+βιολετί ζωηρό 
+bright violet 
+violet vif 
+lebhaftviolett 
+15.2 
+βιολετί- καφετί 
+brown-violet 
+violet-brun 
+braunviolett 
+16.3 
+βιολετί κυανωπό 
+blueish violet 
+violet-azuré 
+bläulichviolett 
+15.4 
+βιολετί σκούρο 
+dark violet 
+violet foncé 
+dunkelviolett 
+16.1 
+βιολετί-γκρι 
+grey-violet 
+violet-gris 
+grauviolett 
+16.4 
+βιολετί-καφετίζον 
+brownish violet 
+violet-brunâtre 
+bräunlichviolett 
+16.2 
+βιολετί-μαύρο 
+blackish violet 
+violet-noir 
+schwarzviolett 
+16.5 
+βιολετί-μπλε 
+blue-violet 
+violet-bleu 
+bläuviolett 
+15.5 
+βιολετί-πορφυρό 
+purple-violet 
+violet-pourpre 
+purpurviolett 
+14.5 
+γη Σιέννης 
+Sienne 
+Terre de Sienne 
+Terra di Siena 
+29.1 
+γη Σιέννης σκούρο 
+dark Sienne 
+Terre de Sienne 
+foncé 
+dunkelsiena 
+29.2 
+γκρι 
+grey 
+gris 
+grau 
+01.4 
+γκρι ανοικτό 
+pale grey 
+gris clair 
+hell grau 
+01.3 
+γκρι ματ 
+dull grey 
+gris mat 
+matt grau 
+01.2 
+γκρι μαύρο 
+black grey 
+gris noir 
+schwarz grau 
+01.6 
+γκρι σκούρο 
+dark grey 
+gris foncé 
+dunkel grau 
+01.5 
+γκρι-βιολετί 
+violet-grey 
+gris-violet 
+violettgrau 
+02.3 
+γκρι-βιολετί σκούρο 
+dark violet-grey 
+gris-violet foncé 
+dunkelviolettgrau 
+03.3 
+γκρι-λαδί 
+olive-grey 
+gris-olive 
+olivgrau 
+02.1 
+γκρι-λαδί σκούρο 
+dark olive-grey 
+gris-olive foncé 
+dunkelolivgrau 
+03.1 
+γκρι-λιλά 
+lilac-grey 
+gris-lilas 
+lilagrau 
+02.2 
+γκρι-λιλά σκούρο 
+dark lilac-grey 
+gris-lilas foncé 
+dunkellilagrau 
+03.2 
+γκρι-λουλακί 
+ultramarine-grey 
+gris-outremer 
+ultramaringrau 
+17.4 
+γκρι-μπλε 
+blue-grey 
+gris-bleu 
+blaugrau 
+02.4 
+γκρι-μπλε σκούρο 
+dark blue-grey 
+gris-bleu foncé 
+dunkelblaugrau 
+03.4 
+γκρι-πράσινο 
+green-grey 
+gris-vert 
+grüngrau 
+02.5 
+γκρι-πράσινο σκούρο 
+dark green-grey 
+gris-vert foncé 
+dunkelgrüngrau 
+03.5 
+ερυθρό 
+red 
+rouge 
+rot 
+09.2 
+ερυθρό ανοικτό 
+pale red 
+rouge clair 
+hellrot 
+08.3 
+ερυθρό ερυθροδάνου 
+madder-red 
+rouge-garance 
+krapprot 
+09.3 
+ερυθρό-καφετί 
+brown-red 
+rouge-brun 
+bräunrot 
+08.5 
+ερυθρό-καφετίζον 
+brownish red 
+rouge brunâtre 
+bräunlichrot 
+08.4 
+10 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+ερυθρό-κεραμιδί 
+brick-red 
+rouge-brique 
+siegelrot 
+07.3 
+ερυθρό-κρεμεζί, 
+καρμινί 
+carmine-red 
+rouge-carminé 
+karminrot 
+09.4 
+ερυθρό-λιλά 
+lilac-red 
+rouge-lilas 
+lilarot 
+09.5 
+ερυθρό-πορτοκαλί 
+orange-red 
+rouge-orange 
+orangerot 
+07.4 
+ερυθρό-πορτοκαλί 
+ανοικτό 
+orange orange-red 
+rouge-orange clair 
+hellorangerot 
+08.2 
+ινδικό 
+indigo 
+indigo 
+indigo 
+19.4 
+καφετί 
+brown 
+brun 
+braun 
+28.3 
+καφετί ανοικτό 
+pale brown 
+brun pâle 
+fahlbraun 
+27.5 
+καφετί σκούρο 
+dark brown 
+brun foncé 
+dunkelbraun 
+28.4 
+καφετί ώχρας 
+ochre-brown 
+brun-ocre 
+ockerbraun 
+27.3 
+καφετί-βιολετί 
+violet-brown 
+brun-violacé 
+violettbraun 
+30.2 
+καφετί-βιολετί σκούρο 
+dark violet-brown 
+brun-violacé foncé 
+dunkelviolettbraun 
+30.3 
+καφετί-γκρι 
+grey-brown 
+brun-gris 
+graubraun 
+30.5 
+καφετί-ερυθρό 
+red-brown 
+brun-rouge 
+rotbraun 
+28.5 
+καφετί-κίτρινο 
+yellow-brown 
+brun-jaune 
+gelbbraun 
+28.1 
+καφετί-κρεμεζί 
+σκούρο, καφετί-
+καρμινί σκούρο 
+dark carmine-
+brown 
+brun-carminé forcé 
+dunkelkarminbraun 
+29.4 
+καφετί-κρεμεζί,  
+καφετί-καρμινί 
+carmine-brown 
+brun-carminé 
+karminbraun 
+29.3 
+καφετί-λαδί 
+olive-brown 
+brun-olive 
+olivbraun 
+27.4 
+καφετί-λιλά 
+lilac-brown 
+brun-lilas 
+lilabraun 
+29.5 
+καφετί-λιλά σκούρο 
+dark lilac-brown 
+brun-lilas foncé 
+dunkellilabraun 
+30.1 
+καφετί-μαύρο 
+blackish brown 
+brun-noir 
+schwarzbraun 
+31.1 
+καφετί-πορτοκαλί 
+orange-brown 
+brun-orange 
+orangebraun 
+28.2 
+κίτρινο 
+yellow 
+jaune 
+gelb 
+04.5 
+κίτρινο άχυρου 
+straw-yellow 
+(paille) 
+jaune paille 
+strohgelb 
+06.4 
+κίτρινο θείου 
+sulphur yellow 
+jaune-soufre 
+schwefelgelb 
+04.4 
+κίτρινο ματ 
+dull-yellow 
+jaune mat 
+mattgelb 
+04.1 
+κίτρινο πρασινωπό 
+greenish yellow 
+jaune-verdâtre 
+grünlichgelb 
+04.2 
+κίτρινο χρωμίου 
+chrome-yellow 
+jaune-chrome 
+chromgelb 
+05.1 
+κίτρινο-λαδί 
+olive-yellow 
+jaune-olive 
+olivgelb 
+06.5 
+κίτρινο-λεμονί 
+lemon  
+jaune-citron 
+zitrongelb 
+04.3 
+κίτρινο-πορτοκαλί 
+orange-yellow 
+jaune-orange 
+orangegelb 
+05.3 
+κοβαλτίου 
+cobalt 
+cobalt 
+kobalt 
+18.5 
+κοβαλτίου ανοικτό 
+pale cobalt 
+cobalt clair 
+hellkobalt 
+19.1 
+κρεμ 
+cream 
+crème 
+rahmferben 
+06.2 
+κρεμεζί καφετί σκούρο, 
+καρμινί καφετί σκούρο 
+dark brown-carmine carmin-brun foncé 
+dunkelbraunkarmin 
+11.4 
+11 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+κρεμεζί καφετίζον,  
+καρμινί καφετίζον 
+brownish carmine 
+carmin-brunätre 
+bräunlichkarmin 
+11.2 
+κρεμεζί λιλά, καρμινί 
+λιλά 
+lilac-carmine 
+carmin-lilas 
+lilakarmin 
+11.1 
+κρεμεζί σκούρο,  
+καρμινί σκούρο 
+dark carmine 
+carmine foncé 
+dunkelkarmin 
+10.5 
+κρεμεζί, καρμινί 
+carmine 
+carmine 
+karmin 
+10.4 
+κρεμεζί-καφετί,  
+καρμινί καφετί 
+brown-carmine 
+carmin-brun 
+braunkarmin 
+11.3 
+κρεμεζί-ροζ, καρμινί 
+ροζ 
+carmine-rose 
+carmin-rose 
+rosakarmin 
+10.3 
+λαδί 
+olive 
+olive 
+oliv 
+26.1 
+λαδί-γκρι 
+grey-olive 
+olive-gris 
+grauoliv 
+26.2 
+λαδί-καφετί 
+brown-olive 
+olivebrun 
+braunoliv 
+26.5 
+λαδί-κίτρινο 
+yellow-olive 
+olive-jaune 
+gelboliv 
+26.4 
+λαδί-μαύρο 
+blackish olive 
+olive-noir 
+schwarzoliv 
+26.3 
+λαδί-πράσινο 
+green-olive 
+olive-vert 
+grünoliv 
+25.5 
+λευκό 
+white 
+blanc 
+weiss 
+01.1 
+λιλά 
+lilac 
+lilas 
+lila 
+12.4 
+λιλά ερυθρωπό 
+σκούρο 
+dark reddish lilac 
+lilas-rougeâtre 
+foncé 
+dunkelrötlichlila 
+13.1 
+λιλά- καφετί 
+brown-lilac 
+lilas-brun 
+bräunlila 
+13.3 
+λιλά-γκρι 
+grey-lilac 
+lilas-gris 
+graunlila 
+13.4 
+λιλά-ερυθρό 
+red-lilac 
+lilas-rouge 
+rotlila 
+12.5 
+λιλά-καφετίζον 
+brownish lilac 
+lilas-brunâtre 
+bräunlichlila 
+13.2 
+λιλά-κρεμεζί, λιλά-
+καρμινί 
+carmine-lilac 
+lilas-carminé 
+karminlila 
+12.3 
+λιλά-μαύρο 
+blackish lilac 
+lilas-noir 
+schwarzlila 
+13.5 
+λιλά-ροζ σκούρο 
+dark rose-lilac 
+lilas-rose foncé 
+dunkelrosalila 
+12.2 
+λιλά-ροζ, σολφερίνο 
+rose-lilac 
+lilas-rose 
+rosalila 
+12.1 
+λουλακί 
+ultramarine 
+outremer 
+ultramarin 
+18.4 
+λουλακί ζωηρό 
+bright ultramarine 
+outremer vif 
+lebhaftultramarin 
+18.3 
+λουλακί-βιολετί 
+violet-ultramarine 
+outremer-violet 
+violettultramarin 
+18.1 
+λουλακί-γκρι 
+grey-ultramarine 
+outremer-gris 
+grauultramarin 
+17.5 
+μαύρο 
+black 
+noir 
+schwarz 
+01.8 
+μαύρο γκρι 
+grey black 
+noir gris 
+grau schwarz 
+01.7 
+μαύρο κυανωπό 
+blueish black  
+noir-bleuté 
+blauschwarz 
+31.5 
+μαύρο-βιολετί 
+violet-black  
+noir-violacé 
+violettschwarz 
+31.4 
+μαύρο-καφετί 
+brown-black  
+noir-brun 
+braunschwarz 
+31.2 
+μαύρο-λιλά 
+lilac-black  
+noir-lilacé 
+lilaschwarz 
+31.3 
+μίνιου 
+minium (miniate) 
+minium 
+mennige 
+07.1 
+μπλε 
+blue 
+bleu 
+blau 
+20.1 
+12 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+μπλε ανοικτό 
+light blue 
+bleu-clair 
+lichtblau 
+19.2 
+μπλε μαύρο 
+blackish blue 
+bleu-noir 
+schwarzblau 
+19.3 
+μπλε πρασινωπό 
+greenish blue 
+bleu-verdätre 
+grünlichblau 
+21.3 
+μπλε πρασινωπό 
+ανοικτό 
+pale greenish blue 
+bleu-verdätre clair 
+hellgrünlichblau 
+21.2 
+μπλε πρασινωπό 
+σκούρο 
+dark green-blue 
+bleu-vert foncé 
+dunkelgrünlichblau 
+21.4 
+μπλε Πρωσσίας 
+Prussianblue 
+bleu de Prusse 
+preußischblau 
+20.5 
+μπλε σιτολούλουδου 
+cornflower-blue 
+bleu de bluet 
+kornblumenblau 
+18.2 
+μπλε σκούρο 
+dark blue 
+bleu foncé 
+dunkelblau 
+19.5 
+μπλε σκούρο ματ 
+sea-blue 
+bleu turquin 
+wasserblau 
+21.1 
+μπλε-βιολετί 
+violet-blue 
+bleu-violet 
+violettblau 
+17.1 
+μπλε-βιολετί ανοικτό 
+pale-violet-blue 
+bleu-violet clair 
+hellviolettblau 
+17.2 
+μπλε-βιολετί σκούρο 
+dark violet-blue 
+bleu-violet foncé 
+dunkelviolettblau 
+17.3 
+μπλε-γκρι 
+grey-blue 
+bleu-gris 
+graublau 
+20.3 
+μπλε-γκρι σκούρο 
+dark grey-blue 
+bleu-gris foncé 
+dunkelgraublau 
+20.4 
+μπλε-πράσινο 
+green-blue 
+bleu-vert 
+grünblau 
+21.5 
+μπλε-τιρκουάζ 
+turkois-blue 
+bleu turquoise 
+türkisblau 
+20.2 
+πορτοκαλί 
+orange 
+orange 
+orange 
+05.5 
+πορτοκαλί-ερυθρό 
+red-orange 
+orange-rouge 
+rotorange 
+06.1 
+πορτοκαλί-κίτρινο 
+yellow- orange 
+orange-jaune 
+gelborange 
+05.4 
+πορφυρό 
+purple 
+pourpre 
+purpur 
+14.3 
+πορφυρό ματ 
+pale purple 
+pourpre mat 
+mattpurpur 
+14.2 
+πορφυρό-βιολετί 
+violet-purple 
+pourpre-violacé 
+violettpurpur 
+14.4 
+πορφυρό-λιλά 
+lilac-purple 
+pourpre-lilas 
+lilapurpur 
+14.1 
+πράσινο 
+green 
+vert 
+grün 
+23.3 
+πράσινο θαλάσσης 
+sea-green 
+vert de mer 
+seegrün 
+23.2 
+πράσινο κιτρινωπό 
+yellowish green 
+vert-jaunâtre 
+gelblichgrün 
+24.3 
+πράσινο κυανωπό 
+blueish green 
+vert-bleuâtre clair 
+bläulichgrün 
+22.5 
+πράσινο κυανωπό 
+ανοικτό 
+pale blueish green 
+vert-bleuâtre clair 
+hellbläulichgrün 
+22.4 
+πράσινο κυανωπό 
+σκούρο 
+dark blueish green 
+vert-bleuâtre foncé 
+dunkelbläulichgrün 
+23.1 
+πράσινο ρωσικό 
+Russian green 
+vert russe 
+russischgrün 
+25.2 
+πράσινο σκούρο 
+dark green 
+vert foncé 
+dunkelgrün 
+23.5 
+πράσινο-γκρι 
+grey-green 
+vert-gris 
+graugrün 
+23.4 
+πράσινο-γλαυκό 
+celadon 
+vert-céladon 
+maigrün 
+24.4 
+πράσινο-κίτρινο 
+yellow-green 
+vert-jaune 
+gelbgrün 
+24.5 
+πράσινο-κίτρινο 
+σκούρο 
+dark yellow-green 
+vert-jaune foncé 
+dunkelgelbgrün 
+25.1 
+πράσινο-λαδί 
+olive-green 
+vert-olive 
+olivgrün 
+25.3 
+13 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+πράσινο-λαδί σκούρο 
+dark olive-green 
+vert-olive foncé 
+dunkelolivgrün 
+25.4 
+πράσινο-μπλε 
+blue-green 
+vert-bleu 
+blaugrün 
+22.1 
+πράσινο-μπλε 
+σκούρο 
+dark blue-green 
+vert-bleu foncé 
+dunkelblaugrün 
+22.2 
+πράσινο-μπλε-μαύρο 
+blackish blue-
+green 
+vert-bleu-noir 
+schwarzblaugrün 
+22.3 
+πράσινο-σμαραγδί 
+emerald-green 
+vert-émeralde 
+smaragdgrün 
+24.2 
+ροζ 
+pink 
+rose 
+rosa 
+10.2 
+ροζ αυγής 
+eosine-rose 
+rose-éosine 
+eosinrosa 
+10.1 
+ροζ-λιλά 
+lilac-rose 
+rose-lilas 
+lilarosa 
+11.5 
+σαμουά, ωχροκίτρινο 
+buff 
+chamois 
+sämisch 
+06.3 
+σέπια 
+sepia 
+sepia 
+sepia 
+30.4 
+σμαραγδί 
+emerald 
+émeralde 
+smaragd 
+24.1 
+σομόν 
+salmon 
+saumon 
+lachs 
+07.2 
+σομόν ανοικτό 
+pale salmon 
+saumon clair 
+hellachsfarben 
+08.1 
+χρωμίου σκούρο 
+dark chrome 
+chrome foncé 
+dunkelchrom 
+05.2 
+ώχρας 
+ochre 
+ocre 
+ocker 
+27.1 
+ώχρας καφετί 
+brown-ochre 
+ocre-brun 
+braunocker 
+27.2 
+ 
+14 
+ 
+3.  Αγγλοελληνογαλλογερμανικό γλωσσάριο χρωματικών όρων 
+ 
+Αγγλικός 
+όρος 
+Ελληνικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+black 
+μαύρο 
+noir 
+schwarz 
+01.8 
+black grey 
+γκρι μαύρο 
+gris noir 
+schwarz grau 
+01.6 
+blackish blue 
+μπλε μαύρο 
+bleu-noir 
+schwarzblau 
+19.3 
+blackish blue-green 
+πράσινο-μπλε-μαύρο 
+vert-bleu-noir 
+schwarzblaugrün 
+22.3 
+blackish brown 
+καφετί-μαύρο 
+brun-noir 
+schwarzbraun 
+31.1 
+blackish lilac 
+λιλά-μαύρο 
+lilas-noir 
+schwarzlila 
+13.5 
+blackish olive 
+λαδί-μαύρο 
+olive-noir 
+schwarzoliv 
+26.3 
+blackish violet 
+βιολετί-μαύρο 
+violet-noir 
+schwarzviolett 
+16.5 
+blue 
+μπλε 
+bleu 
+blau 
+20.1 
+blue-green 
+πράσινο-μπλε 
+vert-bleu 
+blaugrün 
+22.1 
+blue-grey 
+γκρι-μπλε 
+gris-bleu 
+blaugrau 
+02.4 
+blueish black  
+μαύρο κυανωπό 
+noir-bleuté 
+blauschwarz 
+31.5 
+blueish green 
+πράσινο κυανωπό 
+vert-bleuâtre clair 
+bläulichgrün 
+22.5 
+blueish violet 
+βιολετί κυανωπό 
+violet-azuré 
+bläulichviolett 
+15.4 
+blue-violet 
+βιολετί-μπλε 
+violet-bleu 
+bläuviolett 
+15.5 
+brick-red 
+ερυθρό-κεραμιδί 
+rouge-brique 
+siegelrot 
+07.3 
+bright ultramarine 
+λουλακί ζωηρό 
+outremer vif 
+lebhaftultramarin 
+18.3 
+bright violet 
+βιολετί ζωηρό 
+violet vif 
+lebhaftviolett 
+15.2 
+brown 
+καφετί 
+brun 
+braun 
+28.3 
+brown-black  
+μαύρο-καφετί 
+noir-brun 
+braunschwarz 
+31.2 
+brown-carmine 
+κρεμεζί-καφετί,  
+καρμινί καφετί 
+carmin-brun 
+braunkarmin 
+11.3 
+brownish carmine 
+κρεμεζί καφετίζον,  
+καρμινί καφετίζον 
+carmin-brunätre 
+bräunlichkarmin 
+11.2 
+brownish lilac 
+λιλά-καφετίζον 
+lilas-brunâtre 
+bräunlichlila 
+13.2 
+brownish red 
+ερυθρό-καφετίζον 
+rouge brunâtre 
+bräunlichrot 
+08.4 
+brownish violet 
+βιολετί-καφετίζον 
+violet-brunâtre 
+bräunlichviolett 
+16.2 
+brown-lilac 
+λιλά- καφετί 
+lilas-brun 
+bräunlila 
+13.3 
+brown-ochre 
+ώχρας καφετί 
+ocre-brun 
+braunocker 
+27.2 
+brown-olive 
+λαδί-καφετί 
+olivebrun 
+braunoliv 
+26.5 
+brown-red 
+ερυθρό-καφετί 
+rouge-brun 
+bräunrot 
+08.5 
+brown-violet 
+βιολετί- καφετί 
+violet-brun 
+braunviolett 
+16.3 
+buff 
+σαμουά, ωχροκίτρινο 
+chamois 
+sämisch 
+06.3 
+carmine 
+κρεμεζί, καρμινί 
+carmine 
+karmin 
+10.4 
+carmine-brown 
+καφετί-κρεμεζί,  
+καφετί-καρμινί 
+brun-carminé 
+karminbraun 
+29.3 
+carmine-lilac 
+λιλά-κρεμεζί, λιλά-
+καρμινί 
+lilas-carminé 
+karminlila 
+12.3 
+15 
+Αγγλικός 
+όρος 
+Ελληνικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+carmine-red 
+ερυθρό-κρεμεζί, 
+καρμινί 
+rouge-carminé 
+karminrot 
+09.4 
+carmine-rose 
+κρεμεζί-ροζ, καρμινί 
+ροζ 
+carmin-rose 
+rosakarmin 
+10.3 
+celadon 
+πράσινο-γλαυκό 
+vert-céladon 
+maigrün 
+24.4 
+chrome-yellow 
+κίτρινο χρωμίου 
+jaune-chrome 
+chromgelb 
+05.1 
+cobalt 
+κοβαλτίου 
+cobalt 
+kobalt 
+18.5 
+cornflower-blue 
+μπλε σιτολούλουδου 
+bleu de bluet 
+kornblumenblau 
+18.2 
+cream 
+κρεμ 
+crème 
+rahmferben 
+06.2 
+dark blue 
+μπλε σκούρο 
+bleu foncé 
+dunkelblau 
+19.5 
+dark blue-green 
+πράσινο-μπλε 
+σκούρο 
+vert-bleu foncé 
+dunkelblaugrün 
+22.2 
+dark blue-grey 
+γκρι-μπλε σκούρο 
+gris-bleu foncé 
+dunkelblaugrau 
+03.4 
+dark blueish green 
+πράσινο κυανωπό 
+σκούρο 
+vert-bleuâtre foncé 
+dunkelbläulichgrün 
+23.1 
+dark brown 
+καφετί σκούρο 
+brun foncé 
+dunkelbraun 
+28.4 
+dark brown-carmine 
+κρεμεζί καφετί σκούρο, 
+καρμινί καφετί σκούρο
+carmin-brun foncé 
+dunkelbraunkarmin 
+11.4 
+dark carmine 
+κρεμεζί σκούρο,  
+καρμινί σκούρο 
+carmine foncé 
+dunkelkarmin 
+10.5 
+dark carmine-brown 
+καφετί-κρεμεζί 
+σκούρο, καφετί-
+καρμινί σκούρο 
+brun-carminé forcé 
+dunkelkarminbraun 
+29.4 
+dark chrome 
+χρωμίου σκούρο 
+chrome foncé 
+dunkelchrom 
+05.2 
+dark green 
+πράσινο σκούρο 
+vert foncé 
+dunkelgrün 
+23.5 
+dark green-blue 
+μπλε πρασινωπό 
+σκούρο 
+bleu-vert foncé 
+dunkelgrünlichblau 
+21.4 
+dark green-grey 
+γκρι-πράσινο σκούρο 
+gris-vert foncé 
+dunkelgrüngrau 
+03.5 
+dark grey 
+γκρι σκούρο 
+gris foncé 
+dunkel grau 
+01.5 
+dark grey-blue 
+μπλε-γκρι σκούρο 
+bleu-gris foncé 
+dunkelgraublau 
+20.4 
+dark lilac-brown 
+καφετί-λιλά σκούρο 
+brun-lilas foncé 
+dunkellilabraun 
+30.1 
+dark lilac-grey 
+γκρι-λιλά σκούρο 
+gris-lilas foncé 
+dunkellilagrau 
+03.2 
+dark olive-green 
+πράσινο-λαδί σκούρο 
+vert-olive foncé 
+dunkelolivgrün 
+25.4 
+dark olive-grey 
+γκρι-λαδί σκούρο 
+gris-olive foncé 
+dunkelolivgrau 
+03.1 
+dark reddish lilac 
+λιλά ερυθρωπό 
+σκούρο 
+lilas-rougeâtre 
+foncé 
+dunkelrötlichlila 
+13.1 
+dark rose-lilac 
+λιλά-ροζ σκούρο 
+lilas-rose foncé 
+dunkelrosalila 
+12.2 
+dark Sienne 
+γη Σιέννης σκούρο 
+Terre de Sienne 
+foncé 
+dunkelsiena 
+29.2 
+dark violet 
+βιολετί σκούρο 
+violet foncé 
+dunkelviolett 
+16.1 
+dark violet-blue 
+μπλε-βιολετί σκούρο 
+bleu-violet foncé 
+dunkelviolettblau 
+17.3 
+dark violet-brown 
+καφετί-βιολετί 
+σκούρο 
+brun-violacé foncé 
+dunkelviolettbraun 
+30.3 
+dark violet-grey 
+γκρι-βιολετί σκούρο 
+gris-violet foncé 
+dunkelviolettgrau 
+03.3 
+16 
+Αγγλικός 
+όρος 
+Ελληνικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+dark yellow-green 
+πράσινο-κίτρινο 
+σκούρο 
+vert-jaune foncé 
+dunkelgelbgrün 
+25.1 
+dull grey 
+γκρι ματ 
+gris mat 
+matt grau 
+01.2 
+dull-yellow 
+κίτρινο ματ 
+jaune mat 
+mattgelb 
+04.1 
+emerald 
+σμαραγδί 
+émeralde 
+smaragd 
+24.1 
+emerald-green 
+πράσινο-σμαραγδί 
+vert-émeralde 
+smaragdgrün 
+24.2 
+eosine-rose 
+ροζ αυγής 
+rose-éosine 
+eosinrosa 
+10.1 
+green 
+πράσινο 
+vert 
+grün 
+23.3 
+green-blue 
+μπλε-πράσινο 
+bleu-vert 
+grünblau 
+21.5 
+green-grey 
+γκρι-πράσινο 
+gris-vert 
+grüngrau 
+02.5 
+greenish blue 
+μπλε πρασινωπό 
+bleu-verdätre 
+grünlichblau 
+21.3 
+greenish yellow 
+κίτρινο πρασινωπό 
+jaune-verdâtre 
+grünlichgelb 
+04.2 
+green-olive 
+λαδί-πράσινο 
+olive-vert 
+grünoliv 
+25.5 
+grey 
+γκρι 
+gris 
+grau 
+01.4 
+grey black 
+μαύρο γκρι 
+noir gris 
+grau schwarz 
+01.7 
+grey-blue 
+μπλε-γκρι 
+bleu-gris 
+graublau 
+20.3 
+grey-brown 
+καφετί-γκρι 
+brun-gris 
+graubraun 
+30.5 
+grey-green 
+πράσινο-γκρι 
+vert-gris 
+graugrün 
+23.4 
+grey-lilac 
+λιλά-γκρι 
+lilas-gris 
+graunlila 
+13.4 
+grey-olive 
+λαδί-γκρι 
+olive-gris 
+grauoliv 
+26.2 
+grey-ultramarine 
+λουλακί-γκρι 
+outremer-gris 
+grauultramarin 
+17.5 
+grey-violet 
+βιολετί-γκρι 
+violet-gris 
+grauviolett 
+16.4 
+indigo 
+ινδικό 
+indigo 
+indigo 
+19.4 
+lemon  
+κίτρινο-λεμονί 
+jaune-citron 
+zitrongelb 
+04.3 
+light blue 
+μπλε ανοικτό 
+bleu-clair 
+lichtblau 
+19.2 
+lilac 
+λιλά 
+lilas 
+lila 
+12.4 
+lilac-black  
+μαύρο-λιλά 
+noir-lilacé 
+lilaschwarz 
+31.3 
+lilac-brown 
+καφετί-λιλά 
+brun-lilas 
+lilabraun 
+29.5 
+lilac-carmine 
+κρεμεζί λιλά, καρμινί 
+λιλά 
+carmin-lilas 
+lilakarmin 
+11.1 
+lilac-grey 
+γκρι-λιλά 
+gris-lilas 
+lilagrau 
+02.2 
+lilac-purple 
+πορφυρό-λιλά 
+pourpre-lilas 
+lilapurpur 
+14.1 
+lilac-red 
+ερυθρό-λιλά 
+rouge-lilas 
+lilarot 
+09.5 
+lilac-rose 
+ροζ-λιλά 
+rose-lilas 
+lilarosa 
+11.5 
+madder-red 
+ερυθρό ερυθροδάνου 
+rouge-garance 
+krapprot 
+09.3 
+minium (miniate) 
+μίνιου 
+minium 
+mennige 
+07.1 
+ochre 
+ώχρας 
+ocre 
+ocker 
+27.1 
+ochre-brown 
+καφετί ώχρας 
+brun-ocre 
+ockerbraun 
+27.3 
+olive 
+λαδί 
+olive 
+oliv 
+26.1 
+olive-brown 
+καφετί-λαδί 
+brun-olive 
+olivbraun 
+27.4 
+17 
+Αγγλικός 
+όρος 
+Ελληνικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+olive-green 
+πράσινο-λαδί 
+vert-olive 
+olivgrün 
+25.3 
+olive-grey 
+γκρι-λαδί 
+gris-olive 
+olivgrau 
+02.1 
+olive-yellow 
+κίτρινο-λαδί 
+jaune-olive 
+olivgelb 
+06.5 
+orange 
+πορτοκαλί 
+orange 
+orange 
+05.5 
+orange orange-red 
+ερυθρό-πορτοκαλί 
+ανοικτό 
+rouge-orange clair 
+hellorangerot 
+08.2 
+orange-brown 
+καφετί-πορτοκαλί 
+brun-orange 
+orangebraun 
+28.2 
+orange-red 
+ερυθρό-πορτοκαλί 
+rouge-orange 
+orangerot 
+07.4 
+orange-yellow 
+κίτρινο-πορτοκαλί 
+jaune-orange 
+orangegelb 
+05.3 
+pale blueish green 
+πράσινο κυανωπό 
+ανοικτό 
+vert-bleuâtre clair 
+hellbläulichgrün 
+22.4 
+pale brown 
+καφετί ανοικτό 
+brun pâle 
+fahlbraun 
+27.5 
+pale cobalt 
+κοβαλτίου ανοικτό 
+cobalt clair 
+hellkobalt 
+19.1 
+pale greenish blue 
+μπλε πρασινωπό 
+ανοικτό 
+bleu-verdätre clair 
+hellgrünlichblau 
+21.2 
+pale grey 
+γκρι ανοικτό 
+gris clair 
+hell grau 
+01.3 
+pale purple 
+πορφυρό ματ 
+pourpre mat 
+mattpurpur 
+14.2 
+pale red 
+ερυθρό ανοικτό 
+rouge clair 
+hellrot 
+08.3 
+pale salmon 
+σομόν ανοικτό 
+saumon clair 
+hellachsfarben 
+08.1 
+pale violet 
+βιολετί ανοικτό 
+violet clair 
+hellviolett 
+15.1 
+pale-violet-blue 
+μπλε-βιολετί ανοικτό 
+bleu-violet clair 
+hellviolettblau 
+17.2 
+pink 
+ροζ 
+rose 
+rosa 
+10.2 
+Prussianblue 
+μπλε Πρωσσίας 
+bleu de Prusse 
+preußischblau 
+20.5 
+purple 
+πορφυρό 
+pourpre 
+purpur 
+14.3 
+purple-violet 
+βιολετί-πορφυρό 
+violet-pourpre 
+purpurviolett 
+14.5 
+red 
+ερυθρό 
+rouge 
+rot 
+09.2 
+red-brown 
+καφετί-ερυθρό 
+brun-rouge 
+rotbraun 
+28.5 
+red-lilac 
+λιλά-ερυθρό 
+lilas-rouge 
+rotlila 
+12.5 
+red-orange 
+πορτοκαλί-ερυθρό 
+orange-rouge 
+rotorange 
+06.1 
+rose-lilac 
+λιλά-ροζ, σολφερίνο 
+lilas-rose 
+rosalila 
+12.1 
+Russian green 
+πράσινο ρωσικό 
+vert russe 
+russischgrün 
+25.2 
+salmon 
+σομόν 
+saumon 
+lachs 
+07.2 
+scarlet 
+άλικο, ζωηρό ερυθρό 
+écarlate 
+scharlach 
+09.1 
+sea-blue 
+μπλε σκούρο ματ 
+bleu turquin 
+wasserblau 
+21.1 
+sea-green 
+πράσινο θαλάσσης 
+vert de mer 
+seegrün 
+23.2 
+sepia 
+σέπια 
+sepia 
+sepia 
+30.4 
+Sienne 
+γη Σιέννης 
+Terre de Sienne 
+Terra di Siena 
+29.1 
+straw-yellow (paille) 
+κίτρινο άχυρου 
+jaune paille 
+strohgelb 
+06.4 
+sulphur yellow 
+κίτρινο θείου 
+jaune-soufre 
+schwefelgelb 
+04.4 
+turkois-blue 
+μπλε-τιρκουάζ 
+bleu turquoise 
+türkisblau 
+20.2 
+ultramarine 
+λουλακί 
+outremer 
+ultramarin 
+18.4 
+18 
+Αγγλικός 
+όρος 
+Ελληνικός 
+όρος 
+Γαλλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+ultramarine-grey 
+γκρι-λουλακί 
+gris-outremer 
+ultramaringrau 
+17.4 
+vermilion 
+βερμιγιόν, κινναβάρινο
+vermillion 
+zinnober 
+07.5 
+violet 
+βιολετί 
+violet 
+violett 
+15.3 
+violet-black  
+μαύρο-βιολετί 
+noir-violacé 
+violettschwarz 
+31.4 
+violet-blue 
+μπλε-βιολετί 
+bleu-violet 
+violettblau 
+17.1 
+violet-brown 
+καφετί-βιολετί 
+brun-violacé 
+violettbraun 
+30.2 
+violet-grey 
+γκρι-βιολετί 
+gris-violet 
+violettgrau 
+02.3 
+violet-purple 
+πορφυρό-βιολετί 
+pourpre-violacé 
+violettpurpur 
+14.4 
+violet-ultramarine 
+λουλακί-βιολετί 
+outremer-violet 
+violettultramarin 
+18.1 
+white 
+λευκό 
+blanc 
+weiss 
+01.1 
+yellow 
+κίτρινο 
+jaune 
+gelb 
+04.5 
+yellow- orange 
+πορτοκαλί-κίτρινο 
+orange-jaune 
+gelborange 
+05.4 
+yellow-brown 
+καφετί-κίτρινο 
+brun-jaune 
+gelbbraun 
+28.1 
+yellow-green 
+πράσινο-κίτρινο 
+vert-jaune 
+gelbgrün 
+24.5 
+yellowish green 
+πράσινο κιτρινωπό 
+vert-jaunâtre 
+gelblichgrün 
+24.3 
+yellow-olive 
+λαδί-κίτρινο 
+olive-jaune 
+gelboliv 
+26.4 
+ 
+19 
+ 
+4.  Γαλλοελληνοαγγλογερμανικό γλωσσάριο χρωματικών όρων 
+ 
+Γαλλικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+blanc 
+λευκό 
+white 
+weiss 
+01.1 
+bleu 
+μπλε 
+blue 
+blau 
+20.1 
+bleu de bluet 
+μπλε σιτολούλουδου 
+cornflower-blue 
+kornblumenblau 
+18.2 
+bleu de Prusse 
+μπλε Πρωσσίας 
+Prussianblue 
+preußischblau 
+20.5 
+bleu foncé 
+μπλε σκούρο 
+dark blue 
+dunkelblau 
+19.5 
+bleu turquin 
+μπλε σκούρο ματ 
+sea-blue 
+wasserblau 
+21.1 
+bleu turquoise 
+μπλε-τιρκουάζ 
+turkois-blue 
+türkisblau 
+20.2 
+bleu-clair 
+μπλε ανοικτό 
+light blue 
+lichtblau 
+19.2 
+bleu-gris 
+μπλε-γκρι 
+grey-blue 
+graublau 
+20.3 
+bleu-gris foncé 
+μπλε-γκρι σκούρο 
+dark grey-blue 
+dunkelgraublau 
+20.4 
+bleu-noir 
+μπλε μαύρο 
+blackish blue 
+schwarzblau 
+19.3 
+bleu-verdätre 
+μπλε πρασινωπό 
+greenish blue 
+grünlichblau 
+21.3 
+bleu-verdätre clair 
+μπλε πρασινωπό 
+ανοικτό 
+pale greenish blue 
+hellgrünlichblau 
+21.2 
+bleu-vert 
+μπλε-πράσινο 
+green-blue 
+grünblau 
+21.5 
+bleu-vert foncé 
+μπλε πρασινωπό 
+σκούρο 
+dark green-blue 
+dunkelgrünlichblau 
+21.4 
+bleu-violet 
+μπλε-βιολετί 
+violet-blue 
+violettblau 
+17.1 
+bleu-violet clair 
+μπλε-βιολετί ανοικτό 
+pale-violet-blue 
+hellviolettblau 
+17.2 
+bleu-violet foncé 
+μπλε-βιολετί σκούρο 
+dark violet-blue 
+dunkelviolettblau 
+17.3 
+brun 
+καφετί 
+brown 
+braun 
+28.3 
+brun foncé 
+καφετί σκούρο 
+dark brown 
+dunkelbraun 
+28.4 
+brun pâle 
+καφετί ανοικτό 
+pale brown 
+fahlbraun 
+27.5 
+brun-carminé 
+καφετί-κρεμεζί,  
+καφετί-καρμινί 
+carmine-brown 
+karminbraun 
+29.3 
+brun-carminé forcé 
+καφετί-κρεμεζί 
+σκούρο, καφετί-
+καρμινί σκούρο 
+dark carmine-brown 
+dunkelkarminbraun 
+29.4 
+brun-gris 
+καφετί-γκρι 
+grey-brown 
+graubraun 
+30.5 
+brun-jaune 
+καφετί-κίτρινο 
+yellow-brown 
+gelbbraun 
+28.1 
+brun-lilas 
+καφετί-λιλά 
+lilac-brown 
+lilabraun 
+29.5 
+brun-lilas foncé 
+καφετί-λιλά σκούρο 
+dark lilac-brown 
+dunkellilabraun 
+30.1 
+brun-noir 
+καφετί-μαύρο 
+blackish brown 
+schwarzbraun 
+31.1 
+brun-ocre 
+καφετί ώχρας 
+ochre-brown 
+ockerbraun 
+27.3 
+brun-olive 
+καφετί-λαδί 
+olive-brown 
+olivbraun 
+27.4 
+brun-orange 
+καφετί-πορτοκαλί 
+orange-brown 
+orangebraun 
+28.2 
+brun-rouge 
+καφετί-ερυθρό 
+red-brown 
+rotbraun 
+28.5 
+brun-violacé 
+καφετί-βιολετί 
+violet-brown 
+violettbraun 
+30.2 
+20 
+Γαλλικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+brun-violacé foncé 
+καφετί-βιολετί 
+σκούρο 
+dark violet-brown 
+dunkelviolettbraun 
+30.3 
+carmin-brun 
+κρεμεζί-καφετί,  
+καρμινί καφετί 
+brown-carmine 
+braunkarmin 
+11.3 
+carmin-brun foncé 
+κρεμεζί καφετί σκούρο, 
+καρμινί καφετί σκούρο
+dark brown-carmine 
+dunkelbraunkarmin 
+11.4 
+carmin-brunätre 
+κρεμεζί καφετίζον,  
+καρμινί καφετίζον 
+brownish carmine 
+bräunlichkarmin 
+11.2 
+carmine 
+κρεμεζί, καρμινί 
+carmine 
+karmin 
+10.4 
+carmine foncé 
+κρεμεζί σκούρο,  
+καρμινί σκούρο 
+dark carmine 
+dunkelkarmin 
+10.5 
+carmin-lilas 
+κρεμεζί λιλά, καρμινί 
+λιλά 
+lilac-carmine 
+lilakarmin 
+11.1 
+carmin-rose 
+κρεμεζί-ροζ, καρμινί 
+ροζ 
+carmine-rose 
+rosakarmin 
+10.3 
+chamois 
+σαμουά, ωχροκίτρινο 
+buff 
+sämisch 
+06.3 
+chrome foncé 
+χρωμίου σκούρο 
+dark chrome 
+dunkelchrom 
+05.2 
+cobalt 
+κοβαλτίου 
+cobalt 
+kobalt 
+18.5 
+cobalt clair 
+κοβαλτίου ανοικτό 
+pale cobalt 
+hellkobalt 
+19.1 
+crème 
+κρεμ 
+cream 
+rahmferben 
+06.2 
+écarlate 
+άλικο, ζωηρό ερυθρό 
+scarlet 
+scharlach 
+09.1 
+émeralde 
+σμαραγδί 
+emerald 
+smaragd 
+24.1 
+gris 
+γκρι 
+grey 
+grau 
+01.4 
+gris clair 
+γκρι ανοικτό 
+pale grey 
+hell grau 
+01.3 
+gris foncé 
+γκρι σκούρο 
+dark grey 
+dunkel grau 
+01.5 
+gris mat 
+γκρι ματ 
+dull grey 
+matt grau 
+01.2 
+gris noir 
+γκρι μαύρο 
+black grey 
+schwarz grau 
+01.6 
+gris-bleu 
+γκρι-μπλε 
+blue-grey 
+blaugrau 
+02.4 
+gris-bleu foncé 
+γκρι-μπλε σκούρο 
+dark blue-grey 
+dunkelblaugrau 
+03.4 
+gris-lilas 
+γκρι-λιλά 
+lilac-grey 
+lilagrau 
+02.2 
+gris-lilas foncé 
+γκρι-λιλά σκούρο 
+dark lilac-grey 
+dunkellilagrau 
+03.2 
+gris-olive 
+γκρι-λαδί 
+olive-grey 
+olivgrau 
+02.1 
+gris-olive foncé 
+γκρι-λαδί σκούρο 
+dark olive-grey 
+dunkelolivgrau 
+03.1 
+gris-outremer 
+γκρι-λουλακί 
+ultramarine-grey 
+ultramaringrau 
+17.4 
+gris-vert 
+γκρι-πράσινο 
+green-grey 
+grüngrau 
+02.5 
+gris-vert foncé 
+γκρι-πράσινο σκούρο 
+dark green-grey 
+dunkelgrüngrau 
+03.5 
+gris-violet 
+γκρι-βιολετί 
+violet-grey 
+violettgrau 
+02.3 
+gris-violet foncé 
+γκρι-βιολετί σκούρο 
+dark violet-grey 
+dunkelviolettgrau 
+03.3 
+indigo 
+ινδικό 
+indigo 
+indigo 
+19.4 
+jaune 
+κίτρινο 
+yellow 
+gelb 
+04.5 
+jaune mat 
+κίτρινο ματ 
+dull-yellow 
+mattgelb 
+04.1 
+jaune paille 
+κίτρινο άχυρου 
+straw-yellow (paille) 
+strohgelb 
+06.4 
+21 
+Γαλλικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+jaune-chrome 
+κίτρινο χρωμίου 
+chrome-yellow 
+chromgelb 
+05.1 
+jaune-citron 
+κίτρινο-λεμονί 
+lemon  
+zitrongelb 
+04.3 
+jaune-olive 
+κίτρινο-λαδί 
+olive-yellow 
+olivgelb 
+06.5 
+jaune-orange 
+κίτρινο-πορτοκαλί 
+orange-yellow 
+orangegelb 
+05.3 
+jaune-soufre 
+κίτρινο θείου 
+sulphur yellow 
+schwefelgelb 
+04.4 
+jaune-verdâtre 
+κίτρινο πρασινωπό 
+greenish yellow 
+grünlichgelb 
+04.2 
+lilas 
+λιλά 
+lilac 
+lila 
+12.4 
+lilas-brun 
+λιλά- καφετί 
+brown-lilac 
+bräunlila 
+13.3 
+lilas-brunâtre 
+λιλά-καφετίζον 
+brownish lilac 
+bräunlichlila 
+13.2 
+lilas-carminé 
+λιλά-κρεμεζί, λιλά-
+καρμινί 
+carmine-lilac 
+karminlila 
+12.3 
+lilas-gris 
+λιλά-γκρι 
+grey-lilac 
+graunlila 
+13.4 
+lilas-noir 
+λιλά-μαύρο 
+blackish lilac 
+schwarzlila 
+13.5 
+lilas-rose 
+λιλά-ροζ, σολφερίνο 
+rose-lilac 
+rosalila 
+12.1 
+lilas-rose foncé 
+λιλά-ροζ σκούρο 
+dark rose-lilac 
+dunkelrosalila 
+12.2 
+lilas-rouge 
+λιλά-ερυθρό 
+red-lilac 
+rotlila 
+12.5 
+lilas-rougeâtre 
+foncé 
+λιλά ερυθρωπό 
+σκούρο 
+dark reddish lilac 
+dunkelrötlichlila 
+13.1 
+minium 
+μίνιου 
+minium (miniate) 
+mennige 
+07.1 
+noir 
+μαύρο 
+black 
+schwarz 
+01.8 
+noir gris 
+μαύρο γκρι 
+grey black 
+grau schwarz 
+01.7 
+noir-bleuté 
+μαύρο κυανωπό 
+blueish black  
+blauschwarz 
+31.5 
+noir-brun 
+μαύρο-καφετί 
+brown-black  
+braunschwarz 
+31.2 
+noir-lilacé 
+μαύρο-λιλά 
+lilac-black  
+lilaschwarz 
+31.3 
+noir-violacé 
+μαύρο-βιολετί 
+violet-black  
+violettschwarz 
+31.4 
+ocre 
+ώχρας 
+ochre 
+ocker 
+27.1 
+ocre-brun 
+ώχρας καφετί 
+brown-ochre 
+braunocker 
+27.2 
+olive 
+λαδί 
+olive 
+oliv 
+26.1 
+olivebrun 
+λαδί-καφετί 
+brown-olive 
+braunoliv 
+26.5 
+olive-gris 
+λαδί-γκρι 
+grey-olive 
+grauoliv 
+26.2 
+olive-jaune 
+λαδί-κίτρινο 
+yellow-olive 
+gelboliv 
+26.4 
+olive-noir 
+λαδί-μαύρο 
+blackish olive 
+schwarzoliv 
+26.3 
+olive-vert 
+λαδί-πράσινο 
+green-olive 
+grünoliv 
+25.5 
+orange 
+πορτοκαλί 
+orange 
+orange 
+05.5 
+orange-jaune 
+πορτοκαλί-κίτρινο 
+yellow- orange 
+gelborange 
+05.4 
+orange-rouge 
+πορτοκαλί-ερυθρό 
+red-orange 
+rotorange 
+06.1 
+outremer 
+λουλακί 
+ultramarine 
+ultramarin 
+18.4 
+outremer vif 
+λουλακί ζωηρό 
+bright ultramarine 
+lebhaftultramarin 
+18.3 
+outremer-gris 
+λουλακί-γκρι 
+grey-ultramarine 
+grauultramarin 
+17.5 
+outremer-violet 
+λουλακί-βιολετί 
+violet-ultramarine 
+violettultramarin 
+18.1 
+22 
+Γαλλικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+pourpre 
+πορφυρό 
+purple 
+purpur 
+14.3 
+pourpre mat 
+πορφυρό ματ 
+pale purple 
+mattpurpur 
+14.2 
+pourpre-lilas 
+πορφυρό-λιλά 
+lilac-purple 
+lilapurpur 
+14.1 
+pourpre-violacé 
+πορφυρό-βιολετί 
+violet-purple 
+violettpurpur 
+14.4 
+rose 
+ροζ 
+pink 
+rosa 
+10.2 
+rose-éosine 
+ροζ αυγής 
+eosine-rose 
+eosinrosa 
+10.1 
+rose-lilas 
+ροζ-λιλά 
+lilac-rose 
+lilarosa 
+11.5 
+rouge 
+ερυθρό 
+red 
+rot 
+09.2 
+rouge brunâtre 
+ερυθρό-καφετίζον 
+brownish red 
+bräunlichrot 
+08.4 
+rouge clair 
+ερυθρό ανοικτό 
+pale red 
+hellrot 
+08.3 
+rouge-brique 
+ερυθρό-κεραμιδί 
+brick-red 
+siegelrot 
+07.3 
+rouge-brun 
+ερυθρό-καφετί 
+brown-red 
+bräunrot 
+08.5 
+rouge-carminé 
+ερυθρό-κρεμεζί, 
+καρμινί 
+carmine-red 
+karminrot 
+09.4 
+rouge-garance 
+ερυθρό ερυθροδάνου 
+madder-red 
+krapprot 
+09.3 
+rouge-lilas 
+ερυθρό-λιλά 
+lilac-red 
+lilarot 
+09.5 
+rouge-orange 
+ερυθρό-πορτοκαλί 
+orange-red 
+orangerot 
+07.4 
+rouge-orange clair 
+ερυθρό-πορτοκαλί 
+ανοικτό 
+orange orange-red 
+hellorangerot 
+08.2 
+saumon 
+σομόν 
+salmon 
+lachs 
+07.2 
+saumon clair 
+σομόν ανοικτό 
+pale salmon 
+hellachsfarben 
+08.1 
+sepia 
+σέπια 
+sepia 
+sepia 
+30.4 
+Terre de Sienne 
+γη Σιέννης 
+Sienne 
+Terra di Siena 
+29.1 
+Terre de Sienne 
+foncé 
+γη Σιέννης σκούρο 
+dark Sienne 
+dunkelsiena 
+29.2 
+vermillion 
+βερμιγιόν, κινναβάρινο
+vermilion 
+zinnober 
+07.5 
+vert 
+πράσινο 
+green 
+grün 
+23.3 
+vert de mer 
+πράσινο θαλάσσης 
+sea-green 
+seegrün 
+23.2 
+vert foncé 
+πράσινο σκούρο 
+dark green 
+dunkelgrün 
+23.5 
+vert russe 
+πράσινο ρωσικό 
+Russian green 
+russischgrün 
+25.2 
+vert-bleu 
+πράσινο-μπλε 
+blue-green 
+blaugrün 
+22.1 
+vert-bleu foncé 
+πράσινο-μπλε 
+σκούρο 
+dark blue-green 
+dunkelblaugrün 
+22.2 
+vert-bleuâtre clair 
+πράσινο κυανωπό 
+blueish green 
+bläulichgrün 
+22.5 
+vert-bleuâtre clair 
+πράσινο κυανωπό 
+ανοικτό 
+pale blueish green 
+hellbläulichgrün 
+22.4 
+vert-bleuâtre foncé 
+πράσινο κυανωπό 
+σκούρο 
+dark blueish green 
+dunkelbläulichgrün 
+23.1 
+vert-bleu-noir 
+πράσινο-μπλε-μαύρο 
+blackish blue-green 
+schwarzblaugrün 
+22.3 
+vert-céladon 
+πράσινο-γλαυκό 
+celadon 
+maigrün 
+24.4 
+vert-émeralde 
+πράσινο-σμαραγδί 
+emerald-green 
+smaragdgrün 
+24.2 
+vert-gris 
+πράσινο-γκρι 
+grey-green 
+graugrün 
+23.4 
+23 
+Γαλλικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γερμανικός 
+όρος 
+Κωδικός
+αριθμός 
+vert-jaunâtre 
+πράσινο κιτρινωπό 
+yellowish green 
+gelblichgrün 
+24.3 
+vert-jaune 
+πράσινο-κίτρινο 
+yellow-green 
+gelbgrün 
+24.5 
+vert-jaune foncé 
+πράσινο-κίτρινο 
+σκούρο 
+dark yellow-green 
+dunkelgelbgrün 
+25.1 
+vert-olive 
+πράσινο-λαδί 
+olive-green 
+olivgrün 
+25.3 
+vert-olive foncé 
+πράσινο-λαδί σκούρο 
+dark olive-green 
+dunkelolivgrün 
+25.4 
+violet 
+βιολετί 
+violet 
+violett 
+15.3 
+violet clair 
+βιολετί ανοικτό 
+pale violet 
+hellviolett 
+15.1 
+violet foncé 
+βιολετί σκούρο 
+dark violet 
+dunkelviolett 
+16.1 
+violet vif 
+βιολετί ζωηρό 
+bright violet 
+lebhaftviolett 
+15.2 
+violet-azuré 
+βιολετί κυανωπό 
+blueish violet 
+bläulichviolett 
+15.4 
+violet-bleu 
+βιολετί-μπλε 
+blue-violet 
+bläuviolett 
+15.5 
+violet-brun 
+βιολετί- καφετί 
+brown-violet 
+braunviolett 
+16.3 
+violet-brunâtre 
+βιολετί-καφετίζον 
+brownish violet 
+bräunlichviolett 
+16.2 
+violet-gris 
+βιολετί-γκρι 
+grey-violet 
+grauviolett 
+16.4 
+violet-noir 
+βιολετί-μαύρο 
+blackish violet 
+schwarzviolett 
+16.5 
+violet-pourpre 
+βιολετί-πορφυρό 
+purple-violet 
+purpurviolett 
+14.5 
+ 
+24 
+ 
+5.  Γερμανοελληνοαγγλογαλλικό γλωσσάριο χρωματικών όρων  
+ 
+Γερμανικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Κωδικός
+αριθμός 
+blau 
+μπλε 
+blue 
+bleu 
+20.1 
+blaugrau 
+γκρι-μπλε 
+blue-grey 
+gris-bleu 
+02.4 
+blaugrün 
+πράσινο-μπλε 
+blue-green 
+vert-bleu 
+22.1 
+bläulichgrün 
+πράσινο κυανωπό 
+blueish green 
+vert-bleuâtre clair 
+22.5 
+bläulichviolett 
+βιολετί κυανωπό 
+blueish violet 
+violet-azuré 
+15.4 
+blauschwarz 
+μαύρο κυανωπό 
+blueish black  
+noir-bleuté 
+31.5 
+bläuviolett 
+βιολετί-μπλε 
+blue-violet 
+violet-bleu 
+15.5 
+braun 
+καφετί 
+brown 
+brun 
+28.3 
+braunkarmin 
+κρεμεζί-καφετί,  
+καρμινί καφετί 
+brown-carmine 
+carmin-brun 
+11.3 
+bräunlichkarmin 
+κρεμεζί καφετίζον,  
+καρμινί καφετίζον 
+brownish carmine 
+carmin-brunätre 
+11.2 
+bräunlichlila 
+λιλά-καφετίζον 
+brownish lilac 
+lilas-brunâtre 
+13.2 
+bräunlichrot 
+ερυθρό-καφετίζον 
+brownish red 
+rouge brunâtre 
+08.4 
+bräunlichviolett 
+βιολετί-καφετίζον 
+brownish violet 
+violet-brunâtre 
+16.2 
+bräunlila 
+λιλά- καφετί 
+brown-lilac 
+lilas-brun 
+13.3 
+braunocker 
+ώχρας καφετί 
+brown-ochre 
+ocre-brun 
+27.2 
+braunoliv 
+λαδί-καφετί 
+brown-olive 
+olivebrun 
+26.5 
+bräunrot 
+ερυθρό-καφετί 
+brown-red 
+rouge-brun 
+08.5 
+braunschwarz 
+μαύρο-καφετί 
+brown-black  
+noir-brun 
+31.2 
+braunviolett 
+βιολετί- καφετί 
+brown-violet 
+violet-brun 
+16.3 
+chromgelb 
+κίτρινο χρωμίου 
+chrome-yellow 
+jaune-chrome 
+05.1 
+dunkel grau 
+γκρι σκούρο 
+dark grey 
+gris foncé 
+01.5 
+dunkelblau 
+μπλε σκούρο 
+dark blue 
+bleu foncé 
+19.5 
+dunkelblaugrau 
+γκρι-μπλε σκούρο 
+dark blue-grey 
+gris-bleu foncé 
+03.4 
+dunkelblaugrün 
+πράσινο-μπλε 
+σκούρο 
+dark blue-green 
+vert-bleu foncé 
+22.2 
+dunkelbläulichgrün 
+πράσινο κυανωπό 
+σκούρο 
+dark blueish green 
+vert-bleuâtre foncé 
+23.1 
+dunkelbraun 
+καφετί σκούρο 
+dark brown 
+brun foncé 
+28.4 
+dunkelbraunkarmin 
+κρεμεζί καφετί σκούρο, 
+καρμινί καφετί σκούρο
+dark brown-carmine carmin-brun foncé 
+11.4 
+dunkelchrom 
+χρωμίου σκούρο 
+dark chrome 
+chrome foncé 
+05.2 
+dunkelgelbgrün 
+πράσινο-κίτρινο 
+σκούρο 
+dark yellow-green 
+vert-jaune foncé 
+25.1 
+dunkelgraublau 
+μπλε-γκρι σκούρο 
+dark grey-blue 
+bleu-gris foncé 
+20.4 
+dunkelgrün 
+πράσινο σκούρο 
+dark green 
+vert foncé 
+23.5 
+dunkelgrüngrau 
+γκρι-πράσινο σκούρο 
+dark green-grey 
+gris-vert foncé 
+03.5 
+dunkelgrünlichblau 
+μπλε πρασινωπό 
+dark green-blue 
+bleu-vert foncé 
+21.4 
+25 
+Γερμανικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Κωδικός
+αριθμός 
+σκούρο 
+dunkelkarmin 
+κρεμεζί σκούρο,  
+καρμινί σκούρο 
+dark carmine 
+carmine foncé 
+10.5 
+dunkelkarminbraun 
+καφετί-κρεμεζί 
+σκούρο, καφετί-
+καρμινί σκούρο 
+dark carmine-
+brown 
+brun-carminé forcé 
+29.4 
+dunkellilabraun 
+καφετί-λιλά σκούρο 
+dark lilac-brown 
+brun-lilas foncé 
+30.1 
+dunkellilagrau 
+γκρι-λιλά σκούρο 
+dark lilac-grey 
+gris-lilas foncé 
+03.2 
+dunkelolivgrau 
+γκρι-λαδί σκούρο 
+dark olive-grey 
+gris-olive foncé 
+03.1 
+dunkelolivgrün 
+πράσινο-λαδί σκούρο 
+dark olive-green 
+vert-olive foncé 
+25.4 
+dunkelrosalila 
+λιλά-ροζ σκούρο 
+dark rose-lilac 
+lilas-rose foncé 
+12.2 
+dunkelrötlichlila 
+λιλά ερυθρωπό 
+σκούρο 
+dark reddish lilac 
+lilas-rougeâtre 
+foncé 
+13.1 
+dunkelsiena 
+γη Σιέννης σκούρο 
+dark Sienne 
+Terre de Sienne 
+foncé 
+29.2 
+dunkelviolett 
+βιολετί σκούρο 
+dark violet 
+violet foncé 
+16.1 
+dunkelviolettblau 
+μπλε-βιολετί σκούρο 
+dark violet-blue 
+bleu-violet foncé 
+17.3 
+dunkelviolettbraun 
+καφετί-βιολετί σκούρο 
+dark violet-brown 
+brun-violacé foncé 
+30.3 
+dunkelviolettgrau 
+γκρι-βιολετί σκούρο 
+dark violet-grey 
+gris-violet foncé 
+03.3 
+eosinrosa 
+ροζ αυγής 
+eosine-rose 
+rose-éosine 
+10.1 
+fahlbraun 
+καφετί ανοικτό 
+pale brown 
+brun pâle 
+27.5 
+gelb 
+κίτρινο 
+yellow 
+jaune 
+04.5 
+gelbbraun 
+καφετί-κίτρινο 
+yellow-brown 
+brun-jaune 
+28.1 
+gelbgrün 
+πράσινο-κίτρινο 
+yellow-green 
+vert-jaune 
+24.5 
+gelblichgrün 
+πράσινο κιτρινωπό 
+yellowish green 
+vert-jaunâtre 
+24.3 
+gelboliv 
+λαδί-κίτρινο 
+yellow-olive 
+olive-jaune 
+26.4 
+gelborange 
+πορτοκαλί-κίτρινο 
+yellow- orange 
+orange-jaune 
+05.4 
+grau 
+γκρι 
+grey 
+gris 
+01.4 
+grau schwarz 
+μαύρο γκρι 
+grey black 
+noir gris 
+01.7 
+graublau 
+μπλε-γκρι 
+grey-blue 
+bleu-gris 
+20.3 
+graubraun 
+καφετί-γκρι 
+grey-brown 
+brun-gris 
+30.5 
+graugrün 
+πράσινο-γκρι 
+grey-green 
+vert-gris 
+23.4 
+graunlila 
+λιλά-γκρι 
+grey-lilac 
+lilas-gris 
+13.4 
+grauoliv 
+λαδί-γκρι 
+grey-olive 
+olive-gris 
+26.2 
+grauultramarin 
+λουλακί-γκρι 
+grey-ultramarine 
+outremer-gris 
+17.5 
+grauviolett 
+βιολετί-γκρι 
+grey-violet 
+violet-gris 
+16.4 
+grün 
+πράσινο 
+green 
+vert 
+23.3 
+grünblau 
+μπλε-πράσινο 
+green-blue 
+bleu-vert 
+21.5 
+grüngrau 
+γκρι-πράσινο 
+green-grey 
+gris-vert 
+02.5 
+grünlichblau 
+μπλε πρασινωπό 
+greenish blue 
+bleu-verdätre 
+21.3 
+grünlichgelb 
+κίτρινο πρασινωπό 
+greenish yellow 
+jaune-verdâtre 
+04.2 
+grünoliv 
+λαδί-πράσινο 
+green-olive 
+olive-vert 
+25.5 
+26 
+Γερμανικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Κωδικός
+αριθμός 
+hell grau 
+γκρι ανοικτό 
+pale grey 
+gris clair 
+01.3 
+hellachsfarben 
+σομόν ανοικτό 
+pale salmon 
+saumon clair 
+08.1 
+hellbläulichgrün 
+πράσινο κυανωπό 
+ανοικτό 
+pale blueish green 
+vert-bleuâtre clair 
+22.4 
+hellgrünlichblau 
+μπλε πρασινωπό 
+ανοικτό 
+pale greenish blue 
+bleu-verdätre clair 
+21.2 
+hellkobalt 
+κοβαλτίου ανοικτό 
+pale cobalt 
+cobalt clair 
+19.1 
+hellorangerot 
+ερυθρό-πορτοκαλί 
+ανοικτό 
+orange orange-red 
+rouge-orange clair 
+08.2 
+hellrot 
+ερυθρό ανοικτό 
+pale red 
+rouge clair 
+08.3 
+hellviolett 
+βιολετί ανοικτό 
+pale violet 
+violet clair 
+15.1 
+hellviolettblau 
+μπλε-βιολετί ανοικτό 
+pale-violet-blue 
+bleu-violet clair 
+17.2 
+indigo 
+ινδικό 
+indigo 
+indigo 
+19.4 
+karmin 
+κρεμεζί, καρμινί 
+carmine 
+carmine 
+10.4 
+karminbraun 
+καφετί-κρεμεζί,  
+καφετί-καρμινί 
+carmine-brown 
+brun-carminé 
+29.3 
+karminlila 
+λιλά-κρεμεζί, λιλά-
+καρμινί 
+carmine-lilac 
+lilas-carminé 
+12.3 
+karminrot 
+ερυθρό-κρεμεζί, 
+καρμινί 
+carmine-red 
+rouge-carminé 
+09.4 
+kobalt 
+κοβαλτίου 
+cobalt 
+cobalt 
+18.5 
+kornblumenblau 
+μπλε σιτολούλουδου 
+cornflower-blue 
+bleu de bluet 
+18.2 
+krapprot 
+ερυθρό ερυθροδάνου 
+madder-red 
+rouge-garance 
+09.3 
+lachs 
+σομόν 
+salmon 
+saumon 
+07.2 
+lebhaftultramarin 
+λουλακί ζωηρό 
+bright ultramarine 
+outremer vif 
+18.3 
+lebhaftviolett 
+βιολετί ζωηρό 
+bright violet 
+violet vif 
+15.2 
+lichtblau 
+μπλε ανοικτό 
+light blue 
+bleu-clair 
+19.2 
+lila 
+λιλά 
+lilac 
+lilas 
+12.4 
+lilabraun 
+καφετί-λιλά 
+lilac-brown 
+brun-lilas 
+29.5 
+lilagrau 
+γκρι-λιλά 
+lilac-grey 
+gris-lilas 
+02.2 
+lilakarmin 
+κρεμεζί λιλά, καρμινί 
+λιλά 
+lilac-carmine 
+carmin-lilas 
+11.1 
+lilapurpur 
+πορφυρό-λιλά 
+lilac-purple 
+pourpre-lilas 
+14.1 
+lilarosa 
+ροζ-λιλά 
+lilac-rose 
+rose-lilas 
+11.5 
+lilarot 
+ερυθρό-λιλά 
+lilac-red 
+rouge-lilas 
+09.5 
+lilaschwarz 
+μαύρο-λιλά 
+lilac-black  
+noir-lilacé 
+31.3 
+maigrün 
+πράσινο-γλαυκό 
+celadon 
+vert-céladon 
+24.4 
+matt grau 
+γκρι ματ 
+dull grey 
+gris mat 
+01.2 
+mattgelb 
+κίτρινο ματ 
+dull-yellow 
+jaune mat 
+04.1 
+mattpurpur 
+πορφυρό ματ 
+pale purple 
+pourpre mat 
+14.2 
+mennige 
+μίνιου 
+minium (miniate) 
+minium 
+07.1 
+ocker 
+ώχρας 
+ochre 
+ocre 
+27.1 
+27 
+Γερμανικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Κωδικός
+αριθμός 
+ockerbraun 
+καφετί ώχρας 
+ochre-brown 
+brun-ocre 
+27.3 
+oliv 
+λαδί 
+olive 
+olive 
+26.1 
+olivbraun 
+καφετί-λαδί 
+olive-brown 
+brun-olive 
+27.4 
+olivgelb 
+κίτρινο-λαδί 
+olive-yellow 
+jaune-olive 
+06.5 
+olivgrau 
+γκρι-λαδί 
+olive-grey 
+gris-olive 
+02.1 
+olivgrün 
+πράσινο-λαδί 
+olive-green 
+vert-olive 
+25.3 
+orange 
+πορτοκαλί 
+orange 
+orange 
+05.5 
+orangebraun 
+καφετί-πορτοκαλί 
+orange-brown 
+brun-orange 
+28.2 
+orangegelb 
+κίτρινο-πορτοκαλί 
+orange-yellow 
+jaune-orange 
+05.3 
+orangerot 
+ερυθρό-πορτοκαλί 
+orange-red 
+rouge-orange 
+07.4 
+preußischblau 
+μπλε Πρωσσίας 
+Prussianblue 
+bleu de Prusse 
+20.5 
+purpur 
+πορφυρό 
+purple 
+pourpre 
+14.3 
+purpurviolett 
+βιολετί-πορφυρό 
+purple-violet 
+violet-pourpre 
+14.5 
+rahmferben 
+κρεμ 
+cream 
+crème 
+06.2 
+rosa 
+ροζ 
+pink 
+rose 
+10.2 
+rosakarmin 
+κρεμεζί-ροζ, καρμινί 
+ροζ 
+carmine-rose 
+carmin-rose 
+10.3 
+rosalila 
+λιλά-ροζ, σολφερίνο 
+rose-lilac 
+lilas-rose 
+12.1 
+rot 
+ερυθρό 
+red 
+rouge 
+09.2 
+rotbraun 
+καφετί-ερυθρό 
+red-brown 
+brun-rouge 
+28.5 
+rotlila 
+λιλά-ερυθρό 
+red-lilac 
+lilas-rouge 
+12.5 
+rotorange 
+πορτοκαλί-ερυθρό 
+red-orange 
+orange-rouge 
+06.1 
+russischgrün 
+πράσινο ρωσικό 
+Russian green 
+vert russe 
+25.2 
+sämisch 
+σαμουά, ωχροκίτρινο 
+buff 
+chamois 
+06.3 
+scharlach 
+άλικο, ζωηρό ερυθρό 
+scarlet 
+écarlate 
+09.1 
+schwarz 
+μαύρο 
+black 
+noir 
+01.8 
+schwarz grau 
+γκρι μαύρο 
+black grey 
+gris noir 
+01.6 
+schwarzblau 
+μπλε μαύρο 
+blackish blue 
+bleu-noir 
+19.3 
+schwarzblaugrün 
+πράσινο-μπλε-μαύρο 
+blackish blue-
+green 
+vert-bleu-noir 
+22.3 
+schwarzbraun 
+καφετί-μαύρο 
+blackish brown 
+brun-noir 
+31.1 
+schwarzlila 
+λιλά-μαύρο 
+blackish lilac 
+lilas-noir 
+13.5 
+schwarzoliv 
+λαδί-μαύρο 
+blackish olive 
+olive-noir 
+26.3 
+schwarzviolett 
+βιολετί-μαύρο 
+blackish violet 
+violet-noir 
+16.5 
+schwefelgelb 
+κίτρινο θείου 
+sulphur yellow 
+jaune-soufre 
+04.4 
+seegrün 
+πράσινο θαλάσσης 
+sea-green 
+vert de mer 
+23.2 
+sepia 
+σέπια 
+sepia 
+sepia 
+30.4 
+siegelrot 
+ερυθρό-κεραμιδί 
+brick-red 
+rouge-brique 
+07.3 
+smaragd 
+σμαραγδί 
+emerald 
+émeralde 
+24.1 
+smaragdgrün 
+πράσινο-σμαραγδί 
+emerald-green 
+vert-émeralde 
+24.2 
+28 
+Γερμανικός 
+όρος 
+Ελληνικός 
+όρος 
+Αγγλικός 
+όρος 
+Γαλλικός 
+όρος 
+Κωδικός
+αριθμός 
+strohgelb 
+κίτρινο άχυρου 
+straw-yellow 
+(paille) 
+jaune paille 
+06.4 
+Terra di Siena 
+γη Σιέννης 
+Sienne 
+Terre de Sienne 
+29.1 
+türkisblau 
+μπλε-τιρκουάζ 
+turkois-blue 
+bleu turquoise 
+20.2 
+ultramarin 
+λουλακί 
+ultramarine 
+outremer 
+18.4 
+ultramaringrau 
+γκρι-λουλακί 
+ultramarine-grey 
+gris-outremer 
+17.4 
+violett 
+βιολετί 
+violet 
+violet 
+15.3 
+violettblau 
+μπλε-βιολετί 
+violet-blue 
+bleu-violet 
+17.1 
+violettbraun 
+καφετί-βιολετί 
+violet-brown 
+brun-violacé 
+30.2 
+violettgrau 
+γκρι-βιολετί 
+violet-grey 
+gris-violet 
+02.3 
+violettpurpur 
+πορφυρό-βιολετί 
+violet-purple 
+pourpre-violacé 
+14.4 
+violettschwarz 
+μαύρο-βιολετί 
+violet-black  
+noir-violacé 
+31.4 
+violettultramarin 
+λουλακί-βιολετί 
+violet-ultramarine 
+outremer-violet 
+18.1 
+wasserblau 
+μπλε σκούρο ματ 
+sea-blue 
+bleu turquin 
+21.1 
+weiss 
+λευκό 
+white 
+blanc 
+01.1 
+zinnober 
+βερμιγιόν, κινναβάρινο
+vermilion 
+vermillion 
+07.5 
+zitrongelb 
+κίτρινο-λεμονί 
+lemon  
+jaune-citron 
+04.3 
+ 
+ 
+ 

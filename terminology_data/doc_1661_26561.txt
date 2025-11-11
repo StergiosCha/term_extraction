@@ -1,0 +1,444 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ISO-IEC-22989_EN-GR_Glossary.pdf
+
+ 
+ 
+ΕΛΕΤΟ 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ) 
+Συλλογικό Μέλος 
+ΕΛΟΤ/ΤΕ48/ΟΕ1 (Ορολογία Πληροφορικής) 
+ 
+Φεβρουάριος 2024 
+Έγκριση: ΓΕΣΥ 
+Αγγλοελληνικό Γλωσσάριο Όρων Τεχνητής Νοημοσύνης  
+του Διεθνούς Προτύπου ISO/IEC 22989:2022 
+Όροι εννοιών οι οποίες ορίζονται στο Διεθνές Πρότυπο ISO/IEC 22989:2022 
+Information technology — Artificial intelligence — Artificial intelligence concepts and 
+terminology 
+(126 λήμματα) 
+(Πρόσβαση στους ορισμούς των εννοιών: στη Βάση του ISO) 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+accountability 
+υπολογότητα 
+3.5.2 
+accountable 
+υπόλογος 
+3.5.1 
+activation function 
+συνάρτηση ενεργοποίησης 
+3.4.1 
+AI agent 
+πράκτορας ΤΝ 
+3.1.1 
+AI component 
+συνιστώσα ΤΝ, συστατικό (στοιχείο) ΤΝ 
+3.1.2 
+application specific integrated 
+circuit, ASIC 
+ολοκληρωμένο κύκλωμα είδιο ως προς την 
+εφαρμογή 
+3.1.6 
+artificial intelligence system, AI 
+system 
+σύστημα τεχνητής νοημοσύνης, σύστημα ΤΝ 
+3.1.4 
+artificial intelligence, AI 
+τεχνητή νοημοσύνη, ΤΝ 
+3.1.3 
+automated 
+αυτοματοποιημένος 
+3.1.7.3 
+automatic 
+αυτόματος 
+3.1.7.1 
+automatic summarization 
+αυτόματη συνόψιση, αυτόματη περίληψη 
+3.6.1 
+automation 
+αυτοματισμός 
+3.1.7.2 
+autonomous 
+αυτόνομος 
+3.1.5.2 
+autonomy 
+αυτονομία 
+3.1.5.1 
+availability 
+διαθεσιμότητα 
+3.5.3 
+Bayesian network 
+μπεϋζιανό δίκτυο 
+3.3.1 
+bias 
+μεροληψία 
+3.5.4 
+cognitive computing 
+γνωσιακή υπολογιστική 
+3.1.8 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+2 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+computer vision 
+όραση υπολογιστή 
+3.7.1 
+connectionism 
+συνδεσιασμός 
+3.1.10.1 
+connectionist approach 
+συνδεσιαστική προσέγγιση, συνδεσιασμική 
+προσέγγιση 
+3.1.10.4 
+connectionist model 
+συνδεσιαστικό μοντέλο, συνδεσιασμικό μοντέλο 
+3.1.10.3 
+connectionist paradigm 
+συνδεσιαστικό παράδειγμα, συνδεσιασμικό 
+παράδειγμα 
+3.1.10.2 
+continuous learning, continual 
+learning, lifelong learning 
+συνεχής μάθηση, χρονοσυνεχής μάθηση, δια βίου 
+μάθηση 
+3.1.9 
+control 
+έλεγχος 
+3.5.5 
+controllability 
+εξεγξιμότητα 
+3.5.6.1 
+controllable 
+ελέγξιμος 
+3.5.6.2 
+convolution 
+συνέλιξη 
+3.4.3 
+convolutional neural network, CNN 
+συνελικτικό νευρωνικό δίκτυο 
+3.4.2.1 
+data annotation 
+επισημείωση δεδομένων 
+3.2.1 
+data augmentation 
+επαύξηση δεδομένων 
+3.2.3 
+data mining 
+εξόρυξη δεδομένων 
+3.1.11 
+data quality checking 
+εξέλεγχος ποιότητας δεδομένων 
+3.2.2 
+data sampling 
+δειγματοληψία δεδομένων 
+3.2.4 
+dataset, data set 
+σύνολο δεδομένων 
+3.2.5 
+decision tree 
+δέντρο αποφάσεων 
+3.3.2 
+declarative knowledge 
+δηλωτική γνώση 
+3.1.12 
+deep convolutional neural network, 
+DCNN 
+βαθύ συνελικτικό νευρωνικό δίκτυο 
+3.4.2.2 
+deep learning 
+βαθειά μάθηση 
+3.4.4 
+dialogue management 
+διαχείριση διαλόγου 
+3.6.2 
+emotion recognition 
+αναγνώριση συναισθημάτων 
+3.6.3 
+expert system 
+έμπειρο σύστημα, εμπειρογνωσιακό σύστημα 
+3.1.13 
+explainability 
+εξηγησιμότητα 
+3.5.7 
+exploding gradient 
+εκρηγνυόμενη βαθμίδα 
+3.4.5 
+exploratory data analysis 
+εξερευνητική ανάλυση δεδομένων 
+3.2.6 
+face recognition 
+αναγνώριση προσώπου 
+3.7.2 
+feed forward neural network, FFNN 
+νευρωνικό δίκτυο εμπροσθόφορης τροφοδότησης 
+3.4.6 
+general AI, AGI 
+γενική ΤΝ 
+3.1.14 
+genetic algorithm, GA 
+γενετικός αλγόριθμος 
+3.1.15 
+ground truth 
+αναφορική αλήθεια, αλήθεια βάσης, βάση αλήθειας 
+3.2.7 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+heteronomous 
+ετερόνομος 
+3.1.16.2 
+heteronomy 
+ετερονομία 
+3.1.16.1 
+human-machine teaming 
+ενοποίηση ανθρώπου–μηχανής 
+3.3.3 
+hyperparameter  
+υπερπαράμετρος 
+3.3.4 
+image 
+εικόνα 
+3.7.3 
+image recognition 
+αναγνώριση εικόνας 
+3.7.4 
+imputation 
+αναπλήρωση {δεδομένων} 
+3.2.8 
+inference 
+συναγωγή, συμπερασμός 
+3.1.17 
+information retrieval, IR 
+άντληση πληροφοριών, ανάκτηση πληροφοριών 
+3.6.4 
+input data 
+δεδομένα εισόδου 
+3.2.9 
+internet of things, IoT 
+Ίντερνετ των πραγμάτων, ΙτΠ, Διαδίκτυο των 
+πραγμάτων, ΔτΠ 
+3.1.18 
+IoT device 
+διάταξη ΙτΠ, διάταξη ΔτΠ 
+3.1.19 
+IoT system 
+συστημα ΙτΠ, συστημα ΔτΠ 
+3.1.20 
+knowledge 
+γνώση 
+3.1.21 
+label 
+επίσημα, ετικέτα 
+3.2.10 
+life cycle 
+κύκλος ζωής 
+3.1.22 
+long short-term memory, LSTM 
+μακροβραχυχρόνια μνήμη 
+3.4.7 
+machine learning algorithm 
+αλγόριθμος μηχανομάθησης 
+3.3.6 
+machine learning model 
+μοντέλο μηχανομάθησης 
+3.3.7 
+machine learning, ML 
+μηχανομάθηση 
+3.3.5 
+machine translation 
+μηχανική μετάφραση, αυτόματη μετάφραση 
+3.6.5 
+model 
+μοντέλο 
+3.1.23 
+named entity recognition 
+αναγνώριση ονοματισμένης οντότητας 
+3.6.6 
+narrow AI 
+στενή ΤΝ 
+3.1.24 
+natural language 
+φυσική γλώσσα 
+3.6.7 
+natural language generation, NLG 
+δημιουργία φυσικής γλώσσας, παραγωγή φυσικής 
+γλώσσας 
+3.6.8 
+natural language processing, NLP 
+επεξεργασία φυσικής γλώσσας 
+3.6.9 
+natural language understanding, 
+NLU, natural language 
+comprehension 
+κατανόηση φυσικής γλώσσας 
+3.6.10 
+neural network, NN, neural net, 
+artificial neural network 
+νευρωνικό δίκτυο 
+3.4.8 
+neuron 
+νευρώνας 
+3.4.9 
+optical character recognition, OCR 
+οπτική αναγνώριση χαρακτήρων 
+3.6.12 
+4 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+parameter, model parameter 
+παράμετρος, παράμετρος μοντέλου 
+3.3.8 
+part-of-speech tagging 
+σήμανση μέρους του λόγου 
+3.6.13 
+performance 
+επίδοση 
+3.1.25 
+personally identifiable information, 
+PII, personal data 
+προσωπικά ταυτοποιήσιμα δεδομένα, προσωπικά 
+δεδομένα 
+3.2.11 
+planning 
+σχεδιασμός 
+3.1.26 
+predictability 
+προβλεψιμότητα, προλεξιμότητα 
+3.5.8 
+prediction 
+πρόβλεψη, πρόλεξη, πρόρρηση 
+3.1.27 
+procedural knowledge 
+διαδικασιακή γνώση 
+3.1.28 
+production data 
+δεδομένα παραγωγής 
+3.2.12 
+question answering 
+απάντηση ερωτήσεων 
+3.6.14 
+recurrent neural network, RNN 
+αναδρομικό νευρωνικό δίκτυο, 
+επανατροφοδοτούμενο νευρωνικό δίκτυο 
+3.4.10 
+reinforcement learning, RL 
+ενισχυτική μάθηση 
+3.3.9 
+relationship extraction 
+εξαγωγή σχέσεων 
+3.6.15 
+reliability 
+αξιοπιστία 
+3.5.9 
+resilience 
+επανατακτικότητα 
+3.5.10 
+retraining 
+επανακατάρτιση 
+3.3.10 
+risk 
+διακινδύνευση 
+3.5.11 
+robot 
+ρομπότ 
+3.1.29 
+robotics 
+ρομποτική 
+3.1.30 
+robustness 
+στιβαρότητα, ευρωστία 
+3.5.12 
+sample 
+δείγμα 
+3.2.13 
+semantic computing 
+σημασιολογική υπολογιστική 
+3.1.31 
+semi-supervised machine learning 
+ημιεπιβλεπόμενη μηχανομάθηση 
+3.3.11 
+sentiment analysis 
+ανάλυση συναισθημάτων 
+3.6.16 
+soft computing 
+προσεγγιστική υπολογιστική, υπολογιστική 
+αβεβαιότητας 
+3.1.32 
+speech recognition, speech-to-text, 
+STT 
+αναγνώριση ομιλίας 
+3.6.17 
+speech synthesis, text-to-speech, 
+TTS 
+σύνθεση ομιλίας 
+3.6.18 
+stakeholder 
+συμφεροντούχος, δικαιωματούχος 
+3.5.13 
+subsymbolic AI 
+υποσυμβολική ΤΝ 
+3.1.34 
+supervised machine learning 
+επιβλεπόμενη μηχανομάθηση 
+3.3.12 
+support vector machine 
+μηχανή διανυσμάτων υποστήριξης, ΜΔΥ, 
+αλγόριθμος μέγιστων περιθωρίων 
+3.3.13 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+Κωδικός 
+symbolic AI 
+συμβολική ΤΝ 
+3.1.33 
+task 
+έργο 
+3.1.35 
+test data, evaluation data 
+δεδομένα δοκιμής 
+3.2.14 
+trained model 
+εκπαιδευμένο μοντέλο, καταρτισμένο μοντέλο 
+3.3.14 
+training 
+εκπαίδευση, κατάρτιση {μοντέλου} 
+3.3.15 
+training data 
+δεδομένα εκπαίδευσης, δεδομένα κατάρτισης 
+3.3.16 
+transparency <organization> 
+διαφάνεια 
+3.5.14 
+transparency <system> 
+διαφάνεια 
+3.5.15 
+trustworthiness 
+εμπιστευσιμότητα 
+3.5.16 
+unsupervised machine learning 
+ανεπίβλεπτη μηχανομάθηση 
+3.3.17 
+validation 
+επικύρωση 
+3.5.18 
+validation data, development data 
+δεδομένα επικύρωσης 
+3.2.15 
+verification 
+επαλήθευση 
+3.5.17 
+ 
+ 
+ 

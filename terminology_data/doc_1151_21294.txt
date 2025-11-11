@@ -1,0 +1,45 @@
+SOURCE: http://www.eleto.gr/download/TermBases/GEOTERM_History-EN.pdf
+
+GEOTERM: 
+Termbase of Geology and paleontology 
+Resulting from the work of cooperation between ELETO 
+and Geological Society of Greece (GSG) 
+ 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+ 
+April 2024 
+ 
+Short history of the Termbase GEOTERM 
+ 
+The Termbase GEOTERM is bilingual (Greek and English terms) and was created, on April 2024, by Kostas 
+Valeontis, president of the Hellenic Society for Terminology (ELETO) and chairman of ELETO’s Scientific 
+Board (GESY) in order to import all the English and Greek equivalent terms of the dynamic English – Greek 
+glossary of geological terms, which is the product of collaboration between ELETO and the Geological 
+Society of Greece (GSG). This glossary has been compiled and is fed and maintained by Nicos Carras, 
+ELETO–GSG liaison person. The new entries of English and Greek equivalent geological terms being 
+inserted into the Glossary are previously submitted for comment to members of the two scientific societies 
+and approved by the General Scientific Board (GESY) of ELETO. 
+The development, operation, maintenance and feeding of the Termbase GEOTERM, as a database MS 
+Access 2000, is performed by its creator himself, who has also the responsibility for the content of ELETO’s 
+website, while searching via the Termbank of the website is being ensured by Nikos Valeontis, the IT 
+administrator of the website. Thus, access and search in the Termbase GEOTERM is freely available on the 
+Internet. 
+The field structure of the Termbase GEOTERM comprises the following fields (in each entry, corresponding 
+to a single concept), the first five of them being basic: 
+FIELDS OF GEOTERM  
+English term 
+English abbreviation 
+Greek term 
+Greek abbreviation 
+Code of source 
+Code of term 
+Foreign language reference source 
+Greek language reference source 
+Stage of processing 
+Today, the Termbase GEOTERM contains 1363 terminological entries (with Greek and English equivalent 
+terms) contained in the 16th edition of the Glossary. 
+ 

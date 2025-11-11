@@ -1,0 +1,51 @@
+SOURCE: http://www.eleto.gr/download/TermBases/TE80-OE1_History-EN.pdf
+
+ELOT/TC80/WG1 Terminology 
+Working Group of the Technical Committee 
+ELOT/TC80 Electromagnetic Compatibility  
+Chairman: K. Valeontis, valeonti@otenet.gr  
+ 
+Ε Λ Ο T  E 80 
+O 
+ 
+1 
+January 2023 
+ 
+ELOT/TC80/WG1 «Terminology» 
+ 
+ELOT/TC80/WG1 “Terminology” was the Working Group No 1 of the Standardization Technical Committee 
+ELOT/TC80 “Electromagnetic Compatibility”, which had operated under the Hellenic Organization for 
+Standardization (ELOT), its terms of reference being to process the terminology of the Hellenic Standards of 
+Electromagnetic Compatibility prepared by ELOT/TC80, but also to study systematically the EMC 
+terminology. 
+Members of the Working Group: 
+ 
+Kostas Valeontis, physicist, electronic-telecom engineer, Chairman 
+ 
+Nissim Benmayor, Mechanical-Electrical Engineer (NTUA) 
+ 
+Dimitris Nikolopoulos, Mechanical-Electrical Engineer (NTUA). 
+During its operation, 1996–2003, in 300 sessions, the group 
+– 
+dealt with EMC terminology issues of TC80 and its WGs, as well as other TCs and WGs whose 
+subject was Terminology or Standardization, 
+– 
+particularly, processed and harmonized the vocabularies of terminology of 54 Hellenic Standards 
+prepared by the TE80/WGs, 
+– 
+had close cooperation with TE-T (Technical Committee “Telecommunications”) and with MOTO 
+(Permanent Group of Telecommunication Terminology), as well as with the Hellenic Society for 
+Terminology (ELETO), 
+– 
+attended the relults of the terminology work of IEC/TC77/WG1 Terminology and harmonized the 
+Greek EMC terms with any changes applied to the International Standards concerning EMC 
+terminology, 
+– 
+had 6 editions of the General and Special Terminology of Electromagnetic Compatibility printed and 
+disseminated by its chairman. 
+ 
+All terms produced by the Working Group have been imported into the termbase EMCTERM, by its 
+chairman, who created the termbase for this purpose and who offered it to be uploaded on ELETO’s website 
+for free public access. 
+ 
+ 

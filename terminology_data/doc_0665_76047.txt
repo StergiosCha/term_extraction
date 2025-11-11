@@ -1,0 +1,5293 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ELETO--English-Greek_and_Greek-English_Glossary_of_Optics-kai-Laser.pdf
+
+ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΕΙΑ ΟΡΟΛΟΓΙΑΣ 
+ΓΕΝΙΚΟ ΕΠΙΣΤΗΜΟΝΙΚΟ ΣΥΜΒΟΥΛΙΟ (ΓΕΣΥ) 
+ 
+Σεπτέμβριος 2018 
+ 
+ 
+Γενική και ειδική ορολογία οπτικής και λέιζερ 
+Αγγλοελληνικό και Ελληνοαγγλικό γλωσσάριο 
+Ορολογία του βιβλίου «Οπτική και Λέιζερ» του M. Young,  
+Β Έκδοση, Πανεπιστημιακές Εκδόσεις Ε.Μ.Π., 2008 
+ 
+ 
+Σύνταξη:  Ηλίας Σ. Ζουμπούλης, καθηγητής ΕΜΠ 
+Ορολογική επεξεργασία: ΓΕΣΥ (Εισήγηση: Κ. Βαλεοντής) 
+ 
+Εκδοτική επιμέλεια:  Κ. Βαλεοντής 
+ 
+ 
+A.   Αγγλοελληνικό γλωσσάριο όρων 
+(1185 αγγλοελληνικά λήμματα) 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+1/f noise, flicker noise 
+θόρυβος 1/f, θόρυβος τρεμοσβήματος 
+4-f optical processor 
+οπτικός επεξεργαστής 4-f 
+70-70 excitation condition 
+συνθήκη διέγερσης 70-70 
+A
+ 
+aberration 
+εκτροπή, αποπλάνηση 
+absorptance 
+λόγος απορρόφησης, απορροφητικότητα 
+absorption coefficient 
+συντελεστής απορρόφησης 
+acceptance angle 
+γωνία αποδοχής 
+acceptor 
+αποδέκτης 
+accessory {adj.} 
+επικουρικός, συμπληρωματικός, πρόσθετος 
+accessory {n.} 
+εξάρτημα, παρελκόμενο 
+accommodation 
+προσαρμοστία 
+accurate measurement 
+ορθή μέτρηση 
+achromatic eyepiece 
+αχρωματικός προσοφθάλμιος φακός, 
+αχρωματικός προσοφθάλμιος 
+achromatic objective lens, 
+achromatic objective 
+αχρωματικός αντικειμενικός φακός, αχρωματικός 
+αντικειμενικός 
+acousto-optic beam deflection 
+ακουστοοπτική εκτροπή δέσμης 
+E 
+Λ
+Ε  Τ  Ο 
+L
+E 
+2 
+Αγγλικός όρος 
+Ελληνικός όρος 
+acousto-optic light modulator, 
+ultrasonic light modulator 
+ακουστοοπτικός διαμορφωτής φωτός, 
+υπερηχητικός διαμορφωτής φωτός 
+active 
+ενεργός 
+active 
+ενεργητικός 
+adaptation 
+προσαρμογή 
+additive 
+πρόσθετο, πρόσθετη ουσία 
+adjacent 
+παρακείμενος, όμορος 
+advance {n.} 
+προαγωγή 
+advance {v.} 
+προάγομαι 
+Airy disk 
+δίσκος Airy 
+aliasing 
+ψευδωνυμία 
+alternate 
+αλληλοδιάδοχος 
+alternating layers 
+εναλλασσόμενες στρώσεις 
+amount {n.} 
+ποσό 
+amount {v.} 
+ανέρχομαι, συμποσούμαι 
+amplitude 
+πλάτος 
+amplitude reflectance 
+λόγος ανάκλασης πλάτους, ανακλαστικότητα 
+πλάτους 
+amplitude transmittance 
+λόγος μετάδοσης, μεταδοτικότητα 
+analyzer 
+αναλύτης 
+angle of incidence 
+γωνία πρόσπτωσης 
+angle of reflection 
+γωνία ανάκλασης 
+angle of refraction 
+γωνία διάθλασης 
+angle of twist 
+γωνία συστροφής 
+angular frequency 
+γωνιακή συχνότητα 
+angular spectrum 
+γωνιακό φάσμα 
+annulus 
+δακτύλιος, παράκυκλος 
+antihalation dye 
+αντιαλωική χρωστική  
+antireflection coating 
+αντιανακλαστική επίχριση, αντιανακλαστική 
+επίστρωση 
+aperture stop 
+διάφραγμα ανοίγματος 
+aphakia 
+αφακία 
+aplanatic 
+απλανητικός 
+apodization 
+αποδίωση 
+apparent perspective distortion 
+φαινόμενη παραμόρφωση προοπτικής 
+arc lamp 
+λυχνία τόξου 
+array 
+συστοιχία, παράταξη 
+arrayed waveguide grating, phased 
+array, phasar 
+φράγμα συστοιχίας κυματοδηγών, φασιθετημένη 
+συστοιχία κυματοδηγών, φασιστοιχία 
+ 
+3 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+artefact, artifact 
+οπτικό τεχνούργημα, τεχνούργημα 
+aspheric 
+ασφαιρικός 
+astigmatism 
+αστιγματισμός 
+attenuation 
+εξασθένηση 
+avalanche photodiode 
+φωτοδίοδος χιονοστιβάδας 
+aversion response 
+απόκριση στην αποστροφή 
+axial mode, longitudinal mode, 
+spectral mode 
+αξονικός ρυθμός, διαμήκης ρυθμός, φασματικός 
+ρυθμός 
+B
+Babinet’s principle 
+αρχή του Μπαμπινέ 
+back focal length, working distance 
+οπίσθιο εστιακό μήκος, οπίσθια εστιακή 
+απόσταση 
+backscatter(ing) 
+οπισθοσκέδαση, σκέδαση προς τα πίσω 
+balance ratio 
+λόγος ισοστάθμισης 
+band 
+ζώνη ( ταινία ) 
+band gap 
+ενεργειακό χάσμα 
+bandpass filter 
+ζωνοπερατό φίλτρο, φίλτρο διέλευσης ζώνης 
+bandwidth 
+εύρος ζώνης, ζωνικό εύρος 
+Barlow lens 
+φακός Μπάρλοου 
+barrel distortion 
+βαρελοειδής παραμόρφωση 
+base density 
+πυκνότητα υποβάθρου 
+be offset 
+εκφεύγω 
+beam divergence 
+απόκλιση δέσμης 
+beam radius 
+ακτίνα δέσμης 
+beam splitter 
+διχαστής δέσμης 
+beam waist 
+οσφύς δέσμης 
+beam width 
+εύρος δέσμης 
+beam-optics launch 
+προώθηση δέσμης με οπτικά στοιχεία 
+become lossy {v.} 
+καταλήγω με απώλειες 
+bel 
+μπελ 
+bending loss 
+απώλεια κάμψης 
+bialkali 
+διάλκαλι 
+bifocal 
+διπλοεστιακός 
+bifocals 
+διπλοεστιακά γυαλιά 
+binoculars 
+διόπτρα, κιάλι ( συνήθως: κιάλια ) 
+binomial expansion 
+διωνυμικό ανάπτυγμα 
+biplanar photodiode 
+διεπίπεδη φωτοδίοδος 
+birefringence 
+διπλοθλαστικότητα 
+4 
+Αγγλικός όρος 
+Ελληνικός όρος 
+birefringent 
+διπλοθλαστικός 
+bit 
+δυφίο, δυαδικό ψηφίο 
+blackbody 
+μέλαν σώμα 
+blackened surface 
+αμαυρωμένη επιφάνεια 
+blaze {v.} 
+σημαδιογραφώ 
+blazed grating 
+σημαδιογραφημένο φράγμα 
+blazing 
+σημαδιογραφία 
+blazing angle 
+σημαδιογραφούμενη γωνία 
+bleach {v.} 
+αποχρωματίζω, λευκαίνω 
+bleaching 
+αποχρωματισμός, λεύκανση 
+block 
+ορθογώνιο κομμάτι 
+block {v.} {a laser beam} 
+φράσσω {μια δέσμη λέιζερ} 
+blur {n.} 
+θολερότητα 
+blur {v.} 
+θολώνω 
+blurred pattern 
+θολωμένη σχηματομορφή 
+bolometer 
+βολόμετρο 
+borescope, boresight 
+κοιλοσκόπιο κάννης 
+bound mode 
+δέσμιος ρυθμός 
+bound ray 
+δέσμια ακτίνα 
+Bragg diffraction, Bragg reflection 
+περίθλαση Μπραγκ, ανάκλαση Μπραγκ 
+branch 
+διακλάδωση, κλάδος 
+Brewster angle 
+γωνία Μπρούστερ 
+Brewster window 
+παράθυρο Μπρούστερ 
+Brewster’s law 
+νόμος του Μπρούστερ 
+bright adapted 
+προσαρμοσμένος στο έντονο φως 
+brightness 
+φωτεινότητα 
+brightness temperature 
+θερμοκρασία φωτεινότητας 
+broadband 
+ευρυζωνικός 
+buckshot 
+βολή σκαγιών {κυνηγετικού όπλου} 
+buffer {adj.} 
+παρεμβαλλόμενος, ενδιάμεσος, απομονωτικός 
+buffer {n.} 
+παρέμβλημα, απομονωτής 
+buffer layer 
+παρεμβαλλόμενο στρώμα, απομονωτικό στρώμα 
+bulb 
+βολβός, γλόμπος 
+bulk {adj.} 
+μαζικός, μεγάλων διαστάσεων 
+bulk {n.} 
+κύριος όγκος, κύριο μέρος 
+bump 
+εξόγκωμα,έξαρμα 
+bundle 
+δέσμη 
+ 
+5 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+buried waveguide 
+θαμμένος κυματοδηγός 
+burst 
+ριπή 
+butt coupler 
+αρμοζεύκτης, ζεύκτης συναρμογής 
+butt coupling 
+αρμόζευξη 
+butted (against) 
+εφαπτόμενος (όψη με όψη), ερχόμενος σε επαφή 
+(όψη με όψη) 
+C
+cable a fiber 
+καλωδιώνω ίνα, συνδέω ίνα σε καλωδιακό φορέα 
+cabling of fiber 
+καλωδίωση ίνας, καλωδιακή σύνδεση ίνας 
+camera 
+κάμερα, φωτογραφική μηχανή 
+candela 
+καντέλα 
+capacity 
+χωρητικότητα 
+capillary (tube) 
+τριχοειδής (σωλήνας) 
+cardinal point 
+κύριο σημείο 
+cataract 
+καταρράκτης 
+cavity 
+κοιλότητα 
+cavity lifetime 
+χρόνος ζωής κοιλότητας 
+cell 
+κύτταρο 
+cement {n.} 
+κονία, συγκολλητική ουσία 
+cement {v.} 
+συγκολλώ 
+center of perspective 
+κέντρο προοπτικής 
+channel 
+δίαυλος, κανάλι 
+channel waveguide 
+διαυλικός κυματοδηγός, κυματοδηγός καναλιού 
+characteristic curve 
+χαρακτηριστική καμπύλη 
+charge-coupled device, CCD 
+διάταξη σύζευξης φορτίου 
+chip 
+πλινθίο 
+chopper 
+τεμαχιστής 
+chopping 
+τεμαχισμός 
+chromatic aberration 
+χρωματική εκτροπή, χρωματική αποπλάνηση  
+chromatic dispersion 
+χρωματική διασπορά 
+chromatic resolution limit 
+χρωματικό διακριτικό όριο 
+chromatic resolving power 
+χρωματική διακριτική ισχύς 
+chromatic scattering 
+χρωματικός διασκεδασμός 
+circle of confusion 
+κύκλος σύγχυσης 
+circular polarizer 
+κυκλικός πολωτής 
+circularly polarized light 
+κυκλικά πολωμένο φως 
+cladding 
+μανδύας, περίβλημα 
+6 
+Αγγλικός όρος 
+Ελληνικός όρος 
+cladding mode 
+μανδυακός ρυθμός, ρυθμός περιβλήματος 
+cladding-mode stripper 
+απογυμνωτής μανδυακών ρυθμών, απογυμνωτής 
+ρυθμών περιβλήματος 
+cleavage 
+σχισμός {κατά φυσική έδρα κρυστάλλου} 
+cleave 
+σχίζω {κατά φυσική έδρα κρυστάλλου} 
+close-up photography 
+φωτογράφιση κοντινών πλάνων 
+coated 
+επικαλυμμένος 
+coating 
+επικάλυψη 
+coherence 
+συμφωνία, συνεκτικότητα 
+coherence area 
+επιφάνεια συμφωνίας, εμβαδόν συμφωνίας 
+coherence length 
+μήκος συμφωνίας 
+coherence time 
+χρόνος συμφωνίας 
+coherent 
+σύμφωνος, συνεκτικός 
+coherent background 
+σύμφωνο υπόβαθρο 
+coherent transfer function 
+σύμφωνη συνάρτηση μεταφοράς 
+collecting lens 
+συλλέγων φακός 
+collection 
+συλλογή 
+collection efficiency (of light) 
+απόδοση συλλογής (φωτός) 
+collimate 
+παραλληλίζω (φωτεινέςακτίνες) 
+collimated beam 
+παραλληλισμένη δέσμη 
+color temperature 
+θερμοκρασία χρώματος 
+community 
+κοινότητα 
+community television system 
+σύστημα συλλογικής τηλεόρασης 
+compact disk, CD 
+σύμπυκνος δίσκος, CD  
+compact waveguide 
+συμπαγής κυματοδηγός 
+complementary screen 
+συμπληρωματικό πέτασμα 
+complex exponential notation 
+μιγαδικός εκθετικός συμβολισμός 
+composition 
+σύνθεση 
+composition 
+σύσταση 
+compound microscope 
+σύνθετο μικροσκόπιο 
+compression wave 
+κύμα συμπίεσης 
+concentration 
+συγκέντρωση 
+concentric cavity 
+συγκεντρική κοιλότητα, ομόκεντρη κοιλότητα 
+concoction 
+σύμφυρμα 
+condenser enlarger {lens} 
+συγκεντρωτικός μεγεθυντής {φακός} 
+condensing lens 
+συγκεντρωτικός φακός 
+cone 
+κωνίο 
+confocal cavity 
+συνεστιακή κοιλότητα, ομοεστιακή κοιλότητα 
+ 
+7 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+confocal Fabry-Perot interferometer 
+συνεστιακό συμβολόμετρο Φαμπρί-Περό, 
+oμοεστιακό συμβολόμετρο Φαμπρί-Περό 
+conjugate distance 
+συζυγής απόσταση 
+conjugate point 
+συζυγές σημείο 
+conjugate reconstruction 
+συζυγής ανακατασκευή 
+connector 
+συνδετήρας, σύνδεσμος 
+conservation of radiance 
+διατήρηση της ακτινοβόλησης 
+constant-deviation system  
+σύστημα σταθερής παρέκκλισης 
+constructive interference 
+ενισχυτική συμβολή 
+contrast 
+αντίθεση {κοντράστ} 
+contrast index 
+δείκτης αντίθεσης 
+convergence 
+σύγκλιση 
+converging-beam optical processor  
+οπτικός επεξεργαστής συγκλίνουσας δέσμης 
+conversion efficiency 
+απόδοση μετατροπής 
+convolution 
+συνέλιξη 
+core 
+πυρήνας 
+cornea 
+κερατοειδής (χιτώνας) 
+cosine-fourth law 
+νόμος συνημιτόνου τέταρτης δύναμης 
+cosine-squared fringe 
+κροσσός τετραγώνου συνημιτόνου 
+counterpart 
+ομόλογος 
+couple 
+συζευγνύω 
+coupler 
+συζεύκτης, ζεύκτης 
+coupling 
+σύζευξη 
+cover slip 
+καλυπτρίδα 
+crack 
+ρωγμή 
+critical angle 
+κρίσιμη γωνία 
+critical illumination 
+κρίσιμος φωτισμός 
+cross-correlation 
+διασυσχέτιση 
+cross-section 
+ενεργός διατομή 
+crosstalk 
+διαφωνία 
+crown glass 
+στεφανύαλος 
+crystalline lens 
+κρυσταλλικός φακός 
+cube corner, corner cube, 
+retroreflector 
+οπισθανακλαστήρας 
+cusp 
+συνεπαφή, ανακαμπή 
+cusp (point) {of curve} 
+ανακαμπή, σημείο ανάκαμψης {καμπύλης} 
+cut off 
+αποκόπτω 
+cutback 
+απομείωση 
+8 
+Αγγλικός όρος 
+Ελληνικός όρος 
+cutoff 
+αποκοπή 
+cutoff frequency 
+συχνότητα αποκοπής 
+cutting tool 
+κοπτικό εργαλείο, κοπίδι  
+D
+D vs logЄ curve 
+καμπύλη του D συναρτήσει του logЄ 
+dark adapted 
+προσαρμοσμένος στο σκοτάδι 
+dark current 
+ρεύμα σκότους 
+dark noise 
+θόρυβος σκότους 
+dark resistance 
+αντίσταση σκότους 
+dark-field illumination 
+φωτισμός σκοτεινού πεδίου 
+dark-ground illumination 
+φωτισμός σκοτεινού υποβάθρου 
+dc field 
+πεδίο συνεχούς ρεύματος, πεδίο dc 
+decay 
+απόσβεση, πτώση, καθοδος 
+decay {v.} 
+αποσβέννυμαι, πέφτω, κατέρχομαι 
+decibel 
+ντεσιμπέλ 
+defect 
+ελάττωμα, ατέλεια 
+deflection 
+εκτροπή 
+deflector 
+εκτροπέας 
+defocused 
+αφεστιασμένος 
+defocusing 
+αφεστίαση 
+degradation 
+υποβάθμιση 
+degree of coherence 
+βαθμός συμφωνίας 
+delta parameter 
+παράμετρος δέλτα 
+demountable 
+αποσυναρμολογούμενος, αφαιρέσιμος 
+demultiplexer 
+αποπολυπλέκτης 
+deplete {v.} 
+απογυμνώνω 
+depletion 
+απογύμνωση 
+depletion layer 
+στρώση απογύμνωσης 
+deposit 
+εναπόθεση 
+deposit {v.} 
+εναποθέτω 
+depression 
+κοίλωμα 
+depth of field 
+βάθος πεδίου 
+depth of focus 
+βάθος εστίασης 
+designer 
+μελετητής-σχεδιαστής 
+destructive 
+καταστρεπτικός, καταστροφικός 
+destructive interference 
+αναιρετική συμβολή, καταστρεπτική συμβολή 
+detectivity 
+ανιχνευτικότητα 
+ 
+9 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+detector 
+ανιχνευτής ή φωρατής 
+deuterated  potassium dihydrogen 
+phosphate, deuterated KDP, KD2PO4, 
+KD*P 
+δευτεριωμένο δισόξινο φωσφορικό κάλιο, 
+δευτεριωμένο KDP 
+develop {v.} 
+αναπτύσσω 
+deviation 
+απόκλιση 
+device 
+συσκευή 
+device 
+διάταξη 
+diamond turning 
+τόρνευση διαμαντιού 
+diamond-point cutting tool 
+κοπτικό εργαλείο με αδαμάντινη ακίδα, κοπίδι με 
+ακίδα από διαμάντι 
+diaphragm 
+διάφραγμα 
+dichroic crystal 
+διχρωικός κρύσταλλος 
+diffraction 
+περίθλαση 
+diffraction grating 
+φράγμα περίθλασης 
+diffraction lens 
+φακός περίθλασης 
+diffraction limited 
+περιθλαστικά περιορισμένος 
+diffuse reflection 
+διάχυτη ανάκλαση 
+diffuse reflector 
+ανακλαστήρας διάχυσης 
+diffuse source 
+διάχυτη πηγή 
+diffused waveguide 
+κυματοδηγός διάχυσης 
+diffuser 
+διαχύτης 
+diffusion 
+διάχυση 
+digitizer 
+ψηφιακοποιητής 
+diode laser 
+λέιζερ διόδου 
+diopter 
+διοπτρία 
+directional coupler 
+κατευθυντικός ζεύκτης 
+directionality 
+κατευθυντικότητα 
+discrete 
+διάκριτος 
+discriminate {v.} 
+διακρίνω, διευκρινίζω 
+dispersion 
+διασπορά, διασκεδασμός 
+dispersion-compensating fiber 
+ίνα αντιστάθμισης διασποράς, ίνα αντιστάθμισης 
+διασκεδασμού 
+displace 
+μετατοπίζω 
+display 
+οπτική παρουσίαση 
+distance 
+απόσταση 
+distinct 
+διάκριτος 
+distortion  
+παραμόρφωση 
+distribute {v.} 
+κατανέμω 
+10 
+Αγγλικός όρος 
+Ελληνικός όρος 
+distributed-feedback laser 
+λέιζερ κατανεμημένης ανάδρασης 
+dither {v.} 
+δονώ εγκαρσίως, διεγείρω ηλεκτρικό σήμα 
+εξομαλυντικής δόνησης 
+dithering 
+εγκάρσια δόνηση, διέγερση ηλεκτρικού σήματος 
+εξομαλυντικής δόνησης 
+divergence 
+απόκλιση 
+division of amplitude 
+διαίρεση πλάτους 
+division of wavefront 
+διαίρεση κυματομετώπου 
+donor 
+δότης 
+doping 
+πρόσμειξη 
+Doppler shift 
+μετατόπιση Doppler 
+dot 
+τελεία, στιγμή 
+doublet level 
+δίδυμη στάθμη 
+drill {v.} 
+διατρυπώ 
+drilling 
+διάτρηση 
+duality of light 
+δυαδικότητα του φωτός, δυισμός του φωτός 
+duration 
+διάρκεια 
+dye jet 
+πίδακας βαφής 
+dye laser 
+λέιζερ χρωστικής 
+dynamic range 
+δυναμική περιοχή 
+dynode 
+δύνοδος 
+E
+eccentricity 
+εκκεντρότητα 
+edge  
+ακμή, παρυφή 
+edge emitter 
+εκπομπός ακμής, εκπομπός παρυφής 
+edge enhancement 
+επαύξηση ακμής, επαύξηση παρυφής 
+edge response 
+απόκριση ακμής, απόκριση παρυφής 
+edge ringing 
+κωδωνισμός ακμής, κωδωνισμός παρυφής 
+edge-emitting laser 
+λέιζερ εκπομπής ακμής, λέιζερ εκπομπής 
+παρυφής 
+effective 
+ενεργός 
+effective area 
+ενεργός επιφάνεια (διατομής) 
+effective F-number 
+ενεργός αριθμός F 
+effective focal length 
+ενεργός εστιακή απόσταση 
+electrical bandwidth 
+ηλεκτρικό ζωνικό εύρος, εύρος ζώνης ηλεκτρικού 
+σήματος 
+electro-optic effect, Kerr effect 
+ηλεκτροοπτικό φαινόμενο, φαινόμενο Κερ {Kerr} 
+electro-optic modulator 
+ηλεκτροοπτικός διαμορφωτής 
+ 
+11 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+electro-optic shutter 
+ηλεκτροοπτικός φωτοφράκτης 
+electro-optics 
+ηλεκτροοπτική 
+electrostriction 
+ηλεκτροσυστολή 
+elliptically polarized light 
+ελλειπτικά πολωμένο φως 
+ellipticity 
+ελλειπτικότητα 
+emerge 
+αναδύομαι 
+emerging beam 
+αναδυόμενη δέσμη 
+emissivity 
+εκπεμπτικότητα 
+emitter 
+εκπομπός 
+empty magnifying power 
+κενή μεγεθυντική ισχύς 
+emulsion 
+γαλάκτωμα 
+end face 
+τερματική όψη, ακρική όψη 
+energy level 
+ενεργειακή στάθμη 
+enhancement 
+επαύξηση 
+enlarger 
+μεγεθυντής, μεγεθυντήρας 
+entrance pupil 
+κόρη εισόδου 
+envelope curve, envelope 
+περιβάλλουσα καμπύλη, περιβάλλουσα 
+epoxy {v.} 
+προσκολλώ με χρήση εποξειδικής ρητίνης 
+epoxy resin, epoxy 
+εποξειδική ρητίνη, εποξειρητίνη 
+equilibrium length 
+μήκος ισορροπίας 
+equilibrium mode distribution 
+κατανομή ισορροπίας των ρυθμών 
+equilibrium mode simulator 
+προσομοιωτής ισορροπίας ρυθμών 
+equivalent refracting surface 
+ισοδύναμη διαθλαστική επιφάνεια 
+erbium-doped fiber amplifier, EDFA 
+ενισχυτής ίνας με προσμίξεις ερβίου 
+erecting lens 
+ανορθωτικός φακός 
+erecting telescope 
+ανορθωτικό τηλεσκόπιο 
+erode {v.} 
+διαβρώνω 
+evanescent wave 
+φθίνον κύμα 
+exit pupil 
+κόρη εξόδου 
+expand {v.} 
+διαστέλλομαι 
+explicitly 
+ρητώς, σαφώς 
+exposure 
+έκθεση 
+exposure time 
+χρόνος έκθεσης 
+extended source 
+εκτεταμένη πηγή 
+extinction 
+εξάλειψη 
+extraordinary ray  
+έκτακτη ακτίνα 
+eye relief 
+ανάγλυφο του ματιού 
+12 
+Αγγλικός όρος 
+Ελληνικός όρος 
+eyepiece 
+προσοφθάλμιος (φακός) 
+F
+Fabry-Perot interferometer 
+συμβολόμετρο Φαμπρί-Περό 
+face 
+έδρα, όψη 
+facet 
+πλευρά,πλευρική έδρα 
+far end crosstalk 
+τηλεδιαφωνία 
+Faraday effect 
+φαινόμενο Φάραντεϊ 
+Faraday rotator 
+περιστροφέας Φάραντεϊ 
+far-field diffraction 
+περίθλαση μακρινού πεδίου 
+far-sightedness, hyperopia 
+υπερμετρωπία 
+fast axis 
+ταχύς άξονας 
+feedback 
+ανάδραση 
+felt pad 
+τσόχινη επένδυση 
+Fermat’s principle 
+αρχή του Fermat 
+fiber amplifier 
+ενισχυτής οπτικής ίνας 
+fiber laser 
+λέιζερ οπτικής ίνας 
+field {in video   technology} 
+πεδίο {στην τεχνολογία βίντεο} 
+field glasses 
+κιάλια πεδίου, κιάλια υπαίθρου 
+field of view 
+οπτικό πεδίο 
+field stop 
+διάφραγμα πεδίου 
+figure 
+σχήμα 
+figure 
+αριθμός, ψηφίο αριθμού 
+figure of merit 
+μέτρο αξίας, μέτρο ποιότητας 
+filling the aperture 
+πλήρωση του ανοίγματος 
+film {in materials science} 
+υμένιο  
+film {in photography} 
+φιλμ  
+filter 
+φίλτρο, ηθμός 
+filtering 
+φιλτράρισμα, διήθηση 
+fine detail 
+λεπτή λεπτομέρεια 
+fineness 
+λεπτότητα 
+finesse 
+λεπταισθησία 
+finger 
+δάκτυλος 
+first window 
+πρώτο παράθυρο 
+fixate {v.} 
+προσηλώνομαι 
+fixer, hypo 
+στερεωτής, σταθεροποιητής 
+flake 
+νιφάδα 
+flare light 
+φως έκλαμψης 
+ 
+13 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+flashlamp 
+λυχνία αναλαμπών, λυχνία εκλάμψεων 
+flat paint 
+άστιλπνο χρώμα, χρώμα ματ 
+flat-fielded lens 
+φακός επιπέδου πεδίου 
+flicker 
+τρεμόσβημα 
+flicker {v.} 
+τρεμοσβήνω 
+flicker noise, 1/f noise 
+θόρυβος τρεμοσβήματος, θόρυβος 1/f 
+flint glass 
+πυριτύαλος 
+fluctuation 
+διακύμανση 
+F-number 
+αριθμός F 
+focal length 
+εστιακή απόσταση, εστιακό μήκος 
+focal point 
+εστιακό σημείο 
+fog density 
+ομιχλώδης πυκνότητα {φωτογραφικού φιλμ} 
+forbidden transition 
+απαγορευμένη μετάβαση 
+formalism 
+φορμαλισμός 
+Fourier transform hologram 
+ολόγραμμα μετασχηματισμού Φουριέ 
+Fourier transform optics 
+οπτική μετασχηματισμών Φουριέ 
+Fourier-transform spectroscopy 
+φασματοσκοπία μετασχηματισμών Φουριέ 
+fovea centralis 
+βοθρίο 
+frame {in video   technology} 
+πλαίσιο {στην τεχνολογία βίντεο} 
+frame digitizer 
+ψηφιακοποιητής 
+Fraunhofer diffraction 
+περίθλαση Φράουνχοφερ 
+free spectral range, range without 
+overlap 
+ελεύθερη φασματική περιοχή 
+frequency domain 
+πεδίο των συχνοτήτων 
+frequency doubling 
+διπλασιασμός συχνότητας 
+frequency plane 
+επίπεδο συχνοτήτων 
+frequency response 
+απόκριση συχνότητας 
+frequency response curve 
+καμπύλη απόκρισης συχνότητας 
+frequency upconversion 
+αναβιβασμός συχνότητας 
+Fresnel diffraction 
+περίθλαση Φρενέλ 
+Fresnel lens 
+φακός Φρενέλ 
+Fresnel zone 
+ζώνη Φρενέλ 
+Fresnel zone plate 
+πλακίδιο ζωνών Φρενέλ 
+Fresnel’s laws 
+νόμοι του Φρενέλ 
+fringe visibility 
+ορατότητα κροσσών 
+frustrated total internal reflection 
+ανεκπλήρωτη ολική εσωτερική ανάκλαση 
+F-stop 
+F-διαβάθμιση διαφράγματος 
+14 
+Αγγλικός όρος 
+Ελληνικός όρος 
+full width at half-maximum ( 
+amplitude of response ) 
+πλήρες εύρος ημιμεγίστου 
+fused quartz 
+τετηγμένος χαλαζίας 
+G
+gain 
+απολαβή 
+Galilean telescope 
+τηλεσκόπιο του Γαλιλαίου 
+gallium aluminum arsenide 
+phosphide, GaAlAsP 
+αρσενίδιο φωσφίδιο γαλλίου αργιλίου, GaAlAsP 
+gallium aluminum arsenide, GaAlAs 
+αρσενίδιο γαλλίου αργιλίου ( GaAlAs ) 
+gallium arsenide, GaAs 
+αρσενίδιο του γαλλίου, GaAs 
+gamma 
+γάμμα {κλίση καμπύλης} 
+gas laser 
+λέιζερ αερίου 
+gas-discharge lamp 
+λυχνία εκκένωσης αερίου 
+Gaussian beam 
+γκαουσιανή δέσμη 
+geodesic (curve) 
+γεωδαιτική (καμπύλη) 
+geodesic lens 
+γεωδαιτικός φακός 
+geometric optics, geometrical optics 
+γεωμετρική οπτική 
+giant-pulse laser 
+λέιζερ γιγαντοπαλμών 
+Glan-Thomson prism 
+πρίσμα Γκλαν-Τόμσον 
+glare 
+λαμποκοπή, θάμβος 
+glass 
+γυαλί, ύαλος 
+glitch 
+σήμα πτώσης {της τιμής μεγέθους} 
+glow discharge tube 
+σωλήνας εκκένωσης αίγλης 
+glower 
+αιγλοβολούσα λυχνία 
+Goos-Hänschen shift 
+μετατόπιση Γκόος-Χάνσεν 
+graded-index fiber 
+ίνα βαθμιαίου δείκτη (διάθλασης) 
+graded-index lens 
+φακός βαθμιαίου δείκτη (διάθλασης) 
+gradual 
+βαθμιαίος 
+grain 
+κόκκος 
+grating 
+φράγμα 
+grating coupler 
+ζεύκτης φράγματος 
+grating equation 
+εξίσωση φράγματος 
+graybody 
+φαιό σώμα, γκρίζο σώμα 
+grazing incidence 
+σχεδόν εφαπτομενική πρόσπτωση, ξυστή 
+πρόσπτωση 
+grid 
+πλέγμα, εσχάρα 
+groove 
+αύλακα 
+ground glass 
+εσμυρισμένη ύαλος {θαμπόγυαλο} 
+ 
+15 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+group delay 
+καθυστέρηση ομάδας, ομαδική καθυστέρηση 
+group index of refraction 
+δείκτης διάθλασης ομάδας, ομαδικός δείκτης 
+διάθλασης 
+group velocity 
+ταχύτητα ομάδας, ομαδική ταχύτητα 
+H
+half-period zone 
+ζώνη ημιπεριόδου 
+half-wave plate 
+ημικυματικό πλακίδιο, πλακίδιο ημικύματος, 
+πλακίδιο λ/2 
+half-wave voltage 
+ημικυματική τάση, τάση ημικύματος, τάση λ/2 
+half-width at half-maximum 
+ημιεύρος ημιμεγίστου 
+hand lens 
+φακός χειρός 
+harmonic generation 
+γένεση αρμονικών 
+highly polished surface 
+επιφάνεια υψηλής στίλβωσης 
+high-pass filter 
+υψιπερατό φίλτρο, φίλτρο διέλευσης υψηλών 
+συχνοτήτων 
+hollow tube 
+διάκοιλος σωλήνας 
+hologram 
+ολόγραμμα 
+host 
+ξενιστής 
+housing 
+περικάλυμμα 
+Huygens’s principle 
+αρχή του Χάιγκενς 
+hybrid 
+υβριδικός 
+hyperopia, far-sightedness 
+υπερμετρωπία 
+hypo 
+υποθειώδες θειοθειικό νάτριο, υποσουλφίτ 
+I
+identical 
+πανομοιότυπος 
+III–V compound 
+ένωση III–V 
+illuminance, illumination 
+φωτισμός 
+image 
+είδωλο 
+image 
+εικόνα 
+image distance 
+απόσταση ειδώλου 
+image distortion 
+παραμόρφωση ειδώλου 
+image point 
+σημείο ειδώλου 
+image processing 
+επεξεργασία εικόνας 
+imaging 
+απεικόνιση 
+imaging detector 
+ανιχνευτής σχηματισμού ειδώλου, ανιχνευτής 
+απεικόνισης 
+imaging device 
+συσκευή σχηματισμού ειδώλου, συσκευή 
+απεικόνισης 
+16 
+Αγγλικός όρος 
+Ελληνικός όρος 
+imperfection 
+ατέλεια 
+impinge {v.} 
+προσκρούω 
+implicit 
+πεπλεγμένος 
+implicit function 
+πεπλεγμένη συνάρτηση 
+impulse response, point-spread 
+function 
+απόκριση παλμώθησης, παλμωθητική απόκριση 
+impurity 
+πρόσμειξη 
+incoherence 
+ασυμφωνία 
+index of refraction, refractive index 
+δείκτης διάθλασης 
+index profile 
+κατατομή δείκτη διάθλασης 
+index-matching fluid 
+ρευστό με προσαρμογή στον δείκτη διάθλασης 
+indium antimonide, InSb 
+αντιμονίδιο του ινδίου, InSb 
+information-carrying capacity 
+χωρητικότητα μεταφοράς πληροφοριών 
+infrared 
+υπέρυθρο (φάσμα) 
+input plane 
+επίπεδο εισόδου 
+insertion 
+παρεμβολή, ένθεση 
+insertion-loss measurement (of a 
+fiber) 
+μέτρηση των απωλειών παρεμβολής (ίνας), 
+μέτρηση των απωλειών ένθεσης (ίνας) 
+instrumental line width 
+εύρος γραμμής οργάνου 
+integrated optics 
+ολοκληρωμένα οπτικά, ολοκληρωμένη οπτική 
+integrating sphere 
+σφαίρα ολοκλήρωσης 
+intercept {v.} 
+ανακόπτω 
+interdigitate {v.} 
+διεμπλέκω 
+interdigitating transducer 
+μορφοτροπέας διεμπλοκής 
+interface 
+διεπαφή 
+interference 
+συμβολή 
+interference filter 
+φίλτρο συμβολής 
+interference fringe 
+κροσσός συμβολής 
+interference microscope 
+μικροσκόπιο συμβολής 
+interferometer 
+συμβολόμετρο 
+interlace {v.} 
+διεμπλέκω 
+interlacing 
+διεμπλοκή 
+intermodal distortion 
+διαρρυθμική παραμόρφωση 
+intramodal distortion 
+ενδορρυθμική παραμόρφωση 
+inverted 
+ανεστραμμένος 
+ion exchange 
+ανταλλαγή ιόντων 
+ion implantation 
+εμφύτευση ιόντων 
+ion-exchanged waveguide 
+κυματοδηγός ανταλλαγμένων ιόντων 
+ 
+17 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+ion-milling 
+εκγλύφανση με δέσμη ιόντων, φρεζάρισμα με 
+δέσμη ιόντων 
+iris 
+ίρις. ίριδα 
+iris diaphragm 
+διάφραγμα με ίριδα 
+irradiance 
+ακτινοβόλιση, ακτινοβολισμός 
+J
+jinc function, sombrero function 
+συνάρτηση τζινκ, συνάρτηση σομπρέρο 
+Johnson noise, thermal noise 
+θόρυβος Τζόνσον, θερμικός θόρυβος 
+joint 
+ένωση, αρμός 
+junction 
+επαφή 
+K
+KD*P, deuterated potassium 
+dihydrogen phosphate 
+δευτεριωμένο δισόξινο φωσφορικό κάλιο, 
+δευτεριωμένο KDP 
+KDP, potassium dihydrogen 
+phosphate 
+δισόξινο φωσφορικό κάλιο, KDP 
+Kerr cell 
+κύτταρο Κερ 
+Kerr constant 
+σταθερά Κερ 
+Kerr effect, electro-optic effect 
+φαινόμενο Κερ 
+Köhler illumination 
+φωτισμός Κέλερ 
+L
+Lagrange invariant 
+αναλλοίωτη Λαγκράνζ 
+Lambert’s law 
+νόμος του Λάμπερτ 
+Lambertian reflector 
+ανακλαστήρας Λάμπερτ 
+Lambertian source 
+πηγή Λάμπερτ 
+lamella 
+πετάλιο, φολίδα 
+lamp 
+λαμπτήρας, λυχνία 
+LAN, local area network 
+τοπικό δίκτυο 
+laser beam 
+δέσμη λέιζερ 
+laser, light amplification by 
+stimulated emission of radiation 
+λέιζερ, ενίσχυση φωτός με εξαναγκασμένη 
+εκπομπή ακτινοβολίας 
+latent image 
+λανθάνουσα εικόνα 
+lathe 
+τόρνος 
+law of reflection 
+νόμος της ανάκλασης 
+law of refraction 
+νόμος της διάθλασης 
+layer 
+στρώμα 
+leakage current 
+ρεύμα διαρροής 
+leaky mode 
+διαρρέων ρυθμός 
+18 
+Αγγλικός όρος 
+Ελληνικός όρος 
+leaky ray 
+διαρρέουσα ακτίνα, ακτίνα φαινομένου σήραγγος 
+len 
+ημιφακός 
+light 
+φως 
+light amplification by stimulated 
+emission of radiation, laser 
+ενίσχυση φωτός με εξαναγκασμένη εκπομπή 
+ακτινοβολίας, λέιζερ 
+light-emitting diode 
+φωτοδίοδος εκπομπής 
+limit of resolution, resolution limit 
+διακριτικό όριο 
+limiting aperture 
+περιοριστικό άνοιγμα 
+line 
+γραμμή 
+line pair 
+ζεύγος γραμμών 
+line segment 
+ευθύγραμμο τμήμα 
+line source 
+πηγή γραμμικού φάσματος 
+line spectrum 
+γραμμικό φάσμα 
+linear system 
+γραμμικό σύστημα 
+linearly polarized light, plane 
+polarized light 
+γραμμικά πολωμένο φως 
+liquid crystal 
+υγρός κρύσταλλος 
+load resistor 
+αντιστάτης φόρτου 
+local area network or LAN  
+τοπικό δίκτυο, LAN 
+local numerical aperture 
+τοπικό αριθμητικό άνοιγμα 
+location 
+θέση, τοποθεσία 
+long range order 
+τάξη μακράς εμβέλειας 
+longitudinal magnification 
+διαμήκης μεγέθυνση 
+longitudinal mode 
+διαμήκης ρυθμός 
+longitudinal wave 
+διάμηκες κύμα 
+lossy 
+απωλειακός, με απώλειες 
+low-pass filter 
+χαμηλοπερατό φίλτρο, φίλτρο διέλευσης χαμηλών 
+συχνοτήτων 
+luminance 
+λαμπρότητα 
+luminous efficacy 
+φωτεινή αποδοτικότητα 
+luminous efficiency 
+φωτεινή απόδοση 
+luminous flux 
+φωτεινή ροή 
+luminous intensity 
+φωτεινή ένταση, φωτοβολία 
+luminous power 
+φωτεινή ισχύς 
+Luneberg lens 
+φακός Λάνμπεργκ 
+M
+Mach-Zehnder interferometer 
+συμβολόμετρο Μαχ Τσέντερ 
+macula lutea 
+ωχρά κηλίδα 
+ 
+19 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+magnetic drive 
+μαγνητικός οδηγός, μαγνητικός μηχανισμός 
+μετάδοσης κίνησης  
+magnetooptics 
+μαγνητοοπτική 
+magnification 
+μεγέθυνση 
+magnifying glass 
+μεγεθυντικός φακός 
+magnifying power 
+μεγεθυντική ισχύς 
+Malus’s law 
+νόμος του Μάλους 
+mandrel 
+άτρακτος, μαντρέλι 
+mandrel wrap 
+περιτύλιξη ατράκτου, περιτύλιξη μαντρελιού 
+mandrel-wrap mode filter 
+φίλτρο ρυθμών τύπου περιτύλιξης ατράκτου, 
+φίλτρο ρυθμών τύπου περιτύλιξης μαντρελιού 
+marginal ray 
+ορική ακτίνα 
+mask 
+μάσκα, επικάλυψη, μεταμφίεση 
+mask {v.} 
+επικαλύπτω, μεταμφιέζω 
+mass production 
+μαζική παραγωγή 
+matched filter 
+προσαρμοσμένο φίλτρο 
+material dispersion 
+διασπορά υλικού, διασκεδασμός υλικού 
+matrix  
+μήτρα, πίνακας 
+mechanical tube length 
+μηχανικό μήκος σωλήνα 
+meridional ray 
+μεσημβρινή ακτίνα 
+mesh (of curtain) 
+μάτι διχτιού (κουρτίνας) 
+metastable state 
+μετασταθής κατάσταση 
+mica 
+μαρμαρυγίας, μίκα 
+Michelson interferometer 
+συμβολόμετρο Μάικελσον 
+Michelson stellar interferometer 
+αστρικό συμβολόμετρο Μάικελσον 
+microbend 
+μικροκάμψη 
+micropositioner 
+μικροτοποθετητής 
+microscope 
+μικροσκόπιο 
+misalign {v.} 
+κακοευθυγραμμίζω 
+misalignment 
+κακοευθυγράμμιση 
+mismatch 
+κακοπροσαρμογή 
+missing order 
+ελλείπουσα τάξη 
+modal noise 
+ρυθμικός θόρυβος, τροπικός θόρυβος 
+mode 
+ρυθμός, τρόπος 
+mode coupling 
+σύζευξη ρυθμών 
+mode filter, see also: mode stripper 
+φίλτρο ρυθμών 
+mode matching 
+προσαρμογή ρυθμών 
+mode stripper, see also: mode filter 
+απογυμνωτής ρυθμών 
+20 
+Αγγλικός όρος 
+Ελληνικός όρος 
+mode-field diameter 
+διάμετρος ρυθμού-πεδίου 
+mode-index lens 
+φακός ρυθμού-δείκτη 
+mode-locked 
+ρυθμοκλειδωμένος 
+mode-partition noise 
+θόρυβος διαμερισμού ρυθμών 
+modulating voltage 
+διαμορφωτική τάση, διαμορφώνουσα τάση 
+modulation transfer function, MTF 
+συνάρτηση μεταφοράς διαμόρφωσης, ΣΜΔ 
+monochromator 
+μονοχρωμάτορας 
+monolithic 
+μονολιθικός 
+monolithic device 
+μονολιθική διάταξη 
+monomode waveguide, single-mode 
+waveguide 
+μονορρυθμικός κυματοδηγός 
+mount 
+υποστήριγμα 
+multielement 
+πολυστοιχειακός 
+multilayer mirror 
+πολυστρωσικό κάτοπτρο, κάτοπτρο πολλών 
+στρώσεων 
+multipath distortion 
+πολυδιαδρομική παραμόρφωση, παραμόρφωση 
+πολλών διαδρομών 
+multiplexer 
+πολυπλέκτης 
+myopia, near-sightedness 
+μυωπία 
+N
+near end crosstalk 
+παραδιαφωνία 
+near field scanning optical 
+microscope, NSOM 
+οπτικό μικροσκόπιο σάρωσης κοντινού πεδίου, 
+NSOM 
+near point 
+κοντινό (ευκρινώς) ορατό σημείο 
+near-field diffraction 
+περίθλαση κοντινού πεδίου 
+near-field scanning 
+σάρωση κοντινού πεδίου 
+near-sightedness, myopia 
+μυωπία 
+negative 
+αρνητικό 
+negative lens 
+αρνητικός φακός, αποκλίνων φακός 
+nematic liquid crystal 
+νηματικός υγρός κρύσταλλος 
+network 
+δίκτυο 
+network 
+δικτύωμα 
+neural inhibition 
+νευρική αναστολή 
+Newton’s form 
+μορφή του Νεύτωνα 
+Newtonian telescope 
+τηλεσκόπιο του Νεύτωνα 
+Nicol prism 
+πρίσμα Νίκολ 
+night glasses 
+νυχτερινά γυαλιά 
+Nipkow disk 
+δίσκος Νίπκοφ 
+ 
+21 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+nodal point 
+δεσμικό σημείο 
+nodal slide 
+δεσμικός ολισθητήρας 
+noise 
+θόρυβος 
+noise equivalent power, NEP  
+ισοδύναμη ισχύς θορύβου, NEP 
+nonlinear optics 
+μη γραμμική οπτική, αγραμμική οπτική 
+normalized frequency, V number 
+κανονικοποιημένη συχνότητα, αριθμός V 
+normalized population 
+κανονικοποιημένος πληθυσμός 
+numerical aperture 
+αριθμητικό άνοιγμα 
+Nyquist frequency 
+συχνότητα Νίκουιστ 
+O
+object beam 
+δέσμη αντικειμένου 
+object distance 
+απόσταση αντικειμένου 
+object point 
+σημείο αντικειμένου 
+objective lens 
+αντικειμενικός φακός 
+objective speckle pattern, objective 
+speckle 
+αντικειμενικό κοκκίωμα, αντικειμενική 
+σχηματομορφή κοκκίων, αντικειμενική 
+κοκκιομορφή 
+obliquity factor 
+παράγοντας λόξωσης 
+offset 
+εκφυγή 
+oil-immersion objective 
+αντικειμενικός φακός καταδύσεως σε λάδι, 
+αντικειμενικός καταδύσεως σε λάδι 
+one-dimensional 
+μονοδιάστατος 
+one-dimensional grating 
+μονοδιάστατο φράγμα 
+opacity 
+αδιαφάνεια 
+opal glass 
+οπαλύαλος 
+opening (on screen) 
+άνοιγμα (σε πέτασμα) 
+optic axis 
+οπτικός άξονας 
+optical activity 
+οπτική δραστηριότητα 
+optical cavity 
+οπτικό αντηχείο 
+optical computer 
+οπτικός υπολογιστής 
+optical density 
+οπτική πυκνότητα 
+optical fiber 
+οπτική ίνα 
+optical integrated circuit 
+οπτικό ολοκληρωμένο κύκλωμα 
+optical isolator 
+οπτικός μονωτής 
+optical mixing 
+οπτική μίξη 
+optical path 
+οπτικός δρόμος 
+optical processing 
+οπτική επεξεργασία 
+optical processor 
+οπτικός επεξεργαστής 
+22 
+Αγγλικός όρος 
+Ελληνικός όρος 
+optical pump 
+οπτική αντλία 
+optical rectification 
+οπτική ανόρθωση 
+optical sectioning 
+oπτική κατάτμηση 
+optical spectrum analyzer 
+οπτικός φασματικός αναλύτης 
+optical thickness 
+οπτικό πάχος 
+optical time-domain reflectometry, 
+OTDR  
+οπτική ανακλασιμετρία στο πεδίο του χρόνου, 
+OTDR  
+optical transfer function 
+οπτική συνάρτηση μεταφοράς 
+optical waveguide 
+οπτικός κυματοδηγός 
+optoelectronics 
+οπτικοηλεκτρονική 
+order 
+τάξη 
+order {v.} 
+διατάσσω 
+order of interference 
+τάξη συμβολής 
+ordering 
+διάταξη 
+ordinary ray 
+τακτική ακτίνα 
+outermost 
+εξώτατος 
+output numerical aperture 
+αριθμητικό άνοιγμα εξόδου  
+output plane 
+επίπεδο εξόδου 
+overfilled fiber 
+υπερπληρούμενη ίνα 
+overlap 
+επικάλυψη 
+overshoot 
+υπερτίναξη 
+P
+pack {v.} 
+πυκνώνω 
+packing fraction 
+κλάσμα πύκνωσης, λόγος πύκνωσης 
+parabolic profile 
+παραβολική κατατομή 
+parallel processing 
+παράλληλη επεξεργασία 
+parametric amplification 
+παραμετρική ενίσχυση 
+parametric oscillation 
+παραμετρική ταλάντωση 
+parametric oscillator 
+παραμετρικός ταλαντωτής 
+paraxial approximation 
+παραξονική προσέγγιση 
+partial coherence 
+μερική συμφωνία 
+patch 
+επίβλημα, μπάλωμα 
+path 
+διαδρομή 
+pattern 
+σχηματομορφή 
+peak to peak 
+διακόρυφος 
+pencil ( of light ) 
+λεπτοδέσμη, λεπτοκυλινδρική δέσμη (φωτός) 
+perfect imaging system 
+τέλειο σύστημα σχηματισμού ειδώλου, τέλειο 
+σύστημα απεικόνισης 
+ 
+23 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+performance parameter 
+παράμετρος επίδοσης 
+perspective distortion 
+παραμόρφωση προοπτικής 
+perturbation 
+διαταραχή 
+phasar, arrayed waveguide grating, 
+phased array 
+φασιστοιχία, φράγμα συστοιχίας κυματοδηγών, 
+φασιθετημένη συστοιχία κυματοδηγών 
+phase 
+φάση 
+phase {v.} 
+φασιθετώ, θέτω σε φάση 
+phase change 
+μεταβολή φάσης 
+phase hologram 
+ολόγραμμα φάσης 
+phase matching 
+προσαρμογή φάσης 
+phase microscope 
+μικροσκόπιο φάσεων 
+phase object 
+αντικείμενο φάσης 
+phase plate 
+πλακίδιο φάσεων 
+phase shift 
+μετατόπιση φάσης 
+phase velocity 
+ταχύτητα φάσης, φασική ταχύτητα 
+phase zone plate 
+πλακίδιο ζωνών φάσης 
+phase-contrast microscope 
+μικροσκόπιο αντίθεσης φάσεων 
+phased 
+φασιθετημένος  
+phase-matched 
+προσαρμοσμένος κατά φάση 
+phasing 
+φασιθέτηση, ευθυγράμμιση φάσης 
+photocathode 
+φωτοκάθοδος 
+photoconductive detector 
+φωτοαγωγικός ανιχνευτής 
+photoconductor 
+φωτοαγωγός 
+photodiode 
+φωτοδίοδος 
+photoelectric effect 
+φωτοηλεκτρικό φαινόμενο 
+photoelectron 
+φωτοηλεκτρόνιο 
+photometry 
+φωτομετρία 
+photomicrograph 
+φωτομικρογράφημα 
+photomultiplier, photomultiplier tube 
+φωτοπολλαπλασιαστής 
+photon 
+φωτόνιο 
+photon noise, shot noise, quantum 
+noise 
+φωτονικός θόρυβος, κβαντικός θόρυβος, θόρυβος 
+βολής 
+photopic vision 
+φωτωπική όραση 
+phototube 
+φωτολυχνία 
+photovoltaic detector 
+φωτοβολταικός ανιχνευτής 
+picture 
+εικόνα 
+picture element or pixel 
+εικονοστοιχείο 
+24 
+Αγγλικός όρος 
+Ελληνικός όρος 
+piezoelectric actuator 
+πιεζοηλεκτρικός εκκινητής, πιεζοηλεκτρικός 
+ενεργοποιητής 
+piezoelectric crystal 
+πιεζοηλεκτρικός κρύσταλλος 
+pile 
+στήλη 
+pincushion distortion  
+παραμόρφωση πελότας 
+pinhole 
+οπή καρφίτσας, μικροσκοπική οπή 
+pinhole camera 
+κάμερα μικροσκοπικής οπής 
+pixel 
+εικονοστοιχείο 
+planar 
+επιπεδικός 
+planar lens 
+επιπεδικός φακός 
+planar optical device 
+επιπεδική οπτική διάταξη 
+planar waveguide 
+επιπεδικός κυματοδηγός 
+Planck’s constant 
+σταθερά του Πλανκ 
+plane of polarization 
+επίπεδο πόλωσης 
+plane polarized light, linearly 
+polarized light 
+επίπεδα πολωμένο φως  
+plane wave 
+επίπεδο κύμα 
+plate 
+πλακίδιο 
+PMMA, polymethyl methacrylate 
+PMMA, πολυμεθακρυλικός μεθυλεστέρας 
+pn photodiode, pin photodiode 
+φωτοδίοδος pn, φωτοδίοδος pin 
+Pockels cell 
+κύτταρο Πόκελς 
+Pockels effect 
+φαινόμενο Πόκελς 
+point source 
+σημειακή πηγή 
+point-spread function, impulse 
+response 
+συνάρτηση εξάπλωσης σημείου 
+polarization-mode distortion 
+παραμόρφωση ρυθμού πόλωσης 
+polarized light 
+πολωμένο φως 
+polarizer 
+πολωτής 
+polarizing beam splitter 
+πολωτικός διχαστής δέσμης 
+polarizing film 
+πολωτικό υμένιο 
+polarizing prism 
+πολωτικό πρίσμα 
+polarizing sunglasses 
+πολωτικά γυαλιά ηλίου 
+polish {n.} 
+στιλπνότητα 
+polish {v.} 
+στιλβώνω 
+polishing 
+στίλβωση 
+polymethyl methacrylate, PMMA 
+πολυμεθακρυλικός μεθυλεστέρας, PMMA  
+population 
+πληθυσμός 
+population inversion 
+αναστροφή πληθυσμών 
+ 
+25 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+positive lens 
+θετικός φακός, συγκλίνων φακός 
+post 
+στύλος 
+potassium dihydrogen phosphate, 
+KΗ2PO4, KDP 
+δισόξινο φωσφορικό κάλιο, KΗ2PO4, KDP 
+power 
+ισχύς 
+power-law profile 
+κατατομή νόμου δύναμης 
+precise 
+ακριβής 
+preferred direction 
+προτιμώμενη κατεύθυνση 
+preform 
+προμορφή 
+presbyopia 
+πρεσβυωπία 
+primary reconstruction 
+πρωτεύουσα ανακατασκευή 
+principal angle 
+κύρια γωνία 
+principal maximum 
+κύριο μέγιστο 
+principal plane 
+κύριο επίπεδο 
+principal point 
+κύριο σημείο 
+principal ray 
+κύρια ακτίνα  
+principal section 
+κύρια τομή 
+prism 
+πρίσμα 
+prism coupler 
+πρισματικός συζεύκτης, πρισματικός ζεύκτης 
+prism element 
+πρισματικό στοιχείο 
+probe 
+καθετήρας, ανιχνευτήρας 
+profile 
+κατατομή 
+profile parameter 
+παράμετρος κατατομής 
+projection 
+προβολή 
+projection lens 
+φακός προβολής 
+projector 
+προβολέας 
+projector system 
+σύστημα προβολής 
+propagation constant 
+σταθερά διάδοσης 
+pump 
+αντλία 
+pupil 
+κόρη 
+pupil dilation 
+διαστολή κόρης 
+pupil function 
+συνάρτηση κόρης 
+pyroelectric detector 
+πυροηλεκτρικός ανιχνευτής 
+pyrometer 
+πυρόμετρο 
+Q
+Q-switched laser 
+λέιζερ μεταγόμενου Q 
+quadratic phase factor 
+τετραγωνικός παράγοντας φάσης 
+26 
+Αγγλικός όρος 
+Ελληνικός όρος 
+quantum detector 
+κβαντικός ανιχνευτής 
+quantum efficiency 
+κβαντική απόδοση 
+quantum noise, shot noise, photon 
+noise 
+κβαντικός θόρυβος, θόρυβος βολής, φωτονικός 
+θόρυβος 
+quarter-wave layer 
+στρώση τετάρτου μήκους κύματος, στρώση λ/4 
+quarter-wave plate 
+πλακίδιο λ/4 
+quarter-wave stack 
+στοίβα τετάρτου μήκους κύματος, στοίβα λ/4 
+quarter-wave voltage 
+τάση λ/4 
+quartz 
+χαλαζίας 
+quasi-thermal source 
+οιονεί θερμική πηγή 
+quench {v.} 
+καταπνίγω, κατασβήνω 
+quenching additive 
+καταπνιλτικό πρόσθετο, κατασβεστικό πρόσθετο 
+R
+radiance 
+ακτινοβόληση 
+radiance theorem 
+θεώρημα ακτινοβόλησης 
+radiant emittance 
+ακτινοβόλος εκπεμπτικότητα 
+radiant exitance 
+ακτινοβόλος εξοδικότητα 
+radiant intensity 
+ακτινοβόλος ένταση 
+radiant intensity 
+ακτινοβόλος ένταση 
+radiant power 
+ακτινοβόλος ισχύς 
+radiation angle 
+γωνία ακτινοβολίας 
+radiation mode 
+ρυθμός ακτινοβολίας 
+radiation pyrometer 
+πυρόμετρο ακτινοβολίας 
+radiation thermocouple 
+θερμοζεύγος ακτινοβολίας 
+radiation thermopile 
+θερμοστήλη ακτινοβολίας 
+radiative 
+ακτινοβολητικός 
+radiometry 
+ακτινομετρία 
+range 
+περιοχή 
+range without overlap, free spectral 
+range 
+περιοχή χωρίς επικάλυψη, ελεύθερη φασματική 
+περιοχή 
+raster 
+ψηφιδόπλεγμα 
+rate equation 
+εξίσωση ρυθμού, εξίσωση ρυθμού μετάβασης 
+ray 
+ακτίνα 
+Rayleigh criterion 
+κριτήριο Ρέιλεϊ 
+Rayleigh limit 
+όριο Ρέιλεϊ 
+Rayleigh scattering 
+σκέδαση Ρέιλεϊ 
+raytracing 
+ιχνηλάτηση ακτίνων 
+reading head 
+κεφαλή ανάγνωσης 
+ 
+27 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+real image 
+πραγματικό είδωλο 
+real object 
+πραγματικό αντικείμενο 
+receiver 
+δέκτης 
+reciprocity law 
+νόμος της αντιστροφής 
+reconstruction 
+ανακατασκευή 
+reference beam 
+δέσμη αναφοράς 
+reflectance 
+συντελεστής ανάκλασης, ανακλαστικότητα 
+reflecting telescope 
+ανακλαστικό τηλεσκόπιο 
+reflection hologram 
+ολόγραμμα ανάκλασης 
+reflectometry 
+ανακλασιμετρία 
+refracted ray 
+διαθλώμενη ακτίνα 
+refracted-ray method 
+μέθοδος της διαθλώμενης ακτίνας 
+refraction 
+διάθλαση 
+refractive index, index of refraction 
+δείκτης διάθλασης 
+relative aperture 
+σχετικό άνοιγμα 
+relative intensity noise, RIN 
+θόρυβος σχετικής έντασης, RIN 
+relax {v.} 
+χαλαρώνω 
+relaxation 
+χαλάρωση 
+relaxation oscillation 
+ταλάντωση χαλάρωσης 
+relay lens 
+αναμεταδότης φακός 
+repeater 
+επαναλήπτης 
+reprocess {v.} 
+επανεπεξεργάζομαι, επεξεργάζομαι εκ νέου 
+reprocessing 
+επανεπεξεργασία, εκ νέου επεξεργασία 
+resolution 
+διακριτική ικανότητα 
+resolution limit, limit of resolution 
+διακριτικό όριο 
+resolution target 
+στόχος διακριτικής ικανότητας 
+resolvable 
+διακριτός 
+resolving power 
+διακριτική ισχύς 
+response time 
+χρόνος απόκρισης 
+responsivity 
+αποκριτικότητα 
+restoration 
+αποκατάσταση 
+restricted launch 
+περιορισμένη προώθηση 
+restricted launch conditions 
+συνθήκες περιορισμένης προώθησης 
+retardation 
+καθυστέρηση 
+retina 
+αμφιβληστροειδής (χιτώνας) 
+retroreflector, cube corner 
+οπισθανακλαστήρας 
+reverse telephoto lens 
+αντίστροφος φωτογραφικός τηλεφακός 
+28 
+Αγγλικός όρος 
+Ελληνικός όρος 
+ribbon 
+ταινία ή κορδέλα ή λωρίδα 
+ribbon filament 
+ταινιωτό νήμα, ταινιοειδές νήμα 
+ridge 
+ράχη 
+ridge waveguide 
+κυματοδηγός ράχης 
+RIN, relative intensity noise 
+RIN, θόρυβος σχετικής έντασης 
+ring {v.} 
+κωδωνίζω, κουδουνίζω 
+ring resonator 
+συντονιστής δακτυλίου 
+rod 
+ραβδίο 
+rough 
+τραχύς 
+roughen {v.} 
+τραχύνω 
+roughened surface 
+τραχυμένη επιφάνεια 
+roughly 
+πρόχειρα, χονδρικά 
+roughness 
+τραχύτητα 
+rounded 
+στρογγυλευμένος 
+Rowland circle 
+κύκλος Ρόουλαντ 
+rub {v.} 
+τρίβω 
+rubbing 
+τρίψιμο 
+ruby laser 
+λέιζερ ρουβινίου 
+rule (a grating) {v.} 
+χαρακώνω (φράγμα) 
+ruling 
+χαράκωση 
+S
+safe light 
+λυχνία ασφαλείας 
+sagitta formula, sag formula 
+τύπος βέλους 
+sample {v.} 
+δειγματοληπτώ 
+sampling 
+δειγματοληψία 
+sampling theorem 
+θεώρημα δειγματοληψίας 
+sandwich {v.} 
+παρεμβάλλω σε μορφή σάντουιτς 
+saturable dye 
+κορέσιμη χρωστική 
+SAW wave, surface acoustic wave 
+κύμα SAW, επιφανειακό ακουστικό κύμα 
+scanning confocal microscope 
+ομοεστιακό μικροσκόπιο σάρωσης 
+scanning tunneling microscopy 
+μικροσκοπία σάρωσης φαινομένου σήραγγας 
+scattering 
+σκέδαση 
+scotopic vision 
+σκοτωπική όραση 
+screen 
+πέτασμα, οθόνη 
+second window 
+δεύτερο παράθυρο 
+secondary electron 
+δευτερεύον ηλεκτρόνιο 
+secondary maximum 
+δευτερεύον μέγιστο 
+ 
+29 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+secondary reconstruction 
+δευτερεύουσα ανακατασκευή 
+section {v.} 
+κατατέμνω 
+semiconductor laser 
+λέιζερ ημιαγωγών 
+semiconductor-diode laser 
+λέιζερ διόδου-ημιαγωγών 
+senile macular degeneration 
+γεροντικός εκφυλισμός της ωχράς κηλίδας 
+sensitivity 
+ευαισθησία 
+sensitizing dye 
+ευαισθητοποιητική χρωστική 
+sensitometry 
+ευαισθησιομετρία 
+separation 
+διαχωρισμός 
+sequence 
+ακολουθία 
+sequential frames 
+ακολουθιακά πλαίσια 
+serpentine bend 
+οφιοειδής κάμψη 
+sharpness of spectrum 
+οξύτητα φάσματος 
+shear force 
+διατμητική δύναμη 
+sheet 
+φύλλο 
+shift 
+μετατόπιση 
+shift invariant 
+αναλλοίωτος σε μετατόπιση 
+short range order 
+τάξη βραχείας εμβέλειας 
+short-haul fiber 
+ίνα μικρού μήκους διαδρομής 
+shot noise, quantum noise, photon 
+noise 
+θόρυβος βολής, κβαντικός θόρυβος, φωτονικός 
+θόρυβος 
+shoulder (of curve) 
+κυρτό (καμπύλης), ώμος (καμπύλης) 
+shutter 
+φωτοφράκτης 
+shutter speed 
+ταχύτητα φωτοφράκτη 
+sidelobe 
+πλευρικός λοβός 
+silica 
+πυριτία 
+similar 
+όμοιος 
+simulator 
+προσομοιωτής 
+single-mode waveguide, monomode 
+waveguide 
+μονορρυθμικός κυματοδηγός 
+singlet level 
+μονόδυμη στάθμη 
+singly ionized 
+απλά ιονισμένος 
+skew ray 
+λοξή ακτίνα 
+skin depth 
+επιδερμικό βάθος 
+slab 
+πλάκα, πλακίδιο 
+slab interference microscopy 
+μικροσκοπία συμβολής πλακιδίου 
+slab waveguide 
+πλακοειδής κυματοδηγός 
+slope 
+κλίση 
+30 
+Αγγλικός όρος 
+Ελληνικός όρος 
+sloped 
+κεκλιμένος 
+smectic liquid crystal 
+σμηκτικός υγρός κρύσταλλος 
+Snell’s law 
+νόμος του Σνελ 
+soda-lime glass 
+ύαλος νατρασβέστου 
+solar cell 
+ηλιακό στοιχείο, ηλιακό κύτταρο  
+solid state laser 
+λέιζερ στερεάς κατάστασης 
+sombrero function or jinc function  
+συνάρτηση σομπρέρο, συνάρτηση τζινκ 
+spacing 
+διαπόσταση, διάστιχο 
+spacing of a grating 
+διαπόσταση φράγματος, διάστιχο φράγματος, 
+σταθερά φράγματος 
+spatial coherence 
+χωρική συμφωνία 
+spatial filter 
+χωρικό φίλτρο 
+spatial frequency 
+χωρική συχνότητα 
+spatial light modulator 
+χωρικός διαμορφωτής φωτός 
+specific detectivity, D 
+ειδική ανιχνευτικότητα 
+specific detectivity, D* 
+ειδική ανιχνευτικότητα 
+speckle 
+κοκκίο 
+speckle pattern 
+κοκκίωμα, σχηματομορφή κοκκίων, κοκκιομορφή 
+spectral mode, axial mode, 
+longitudinal mode 
+φασματικός ρυθμός, αξονικός ρυθμός, διαμήκης 
+ρυθμός,  
+spectral responsivity 
+φασματική αποκριτικότητα 
+spectral sensitivity of the eye 
+φασματική ευαισθησία του ματιού 
+spectrometer 
+φασματόμετρο 
+spectroscope 
+φασματοσκόπιο 
+spectrum 
+φάσμα 
+spectrum analyzer 
+φασματικός αναλύτης 
+specular reflection 
+κατοπτρική ανάκλαση 
+speed of light 
+ταχύτητα του φωτός 
+spherical wave 
+σφαιρικό κύμα 
+spike 
+ακίδα, αιχμή 
+spiking 
+ακίδωση 
+splice 
+συνένωση, αμμάτιση {μάτισμα} 
+spool a fiber {v.} 
+πηνίζω ίνα {περιτυλίσσω ίνα σε κυλινδρικό 
+μασούρι}  
+spooling of a fiber 
+πήνιση ίνας 
+spot 
+κηλίδα 
+spot size 
+μέγεθος κηλίδας 
+spurious 
+ανωφελής 
+ 
+31 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+spurious resolution 
+ανωφελής διακριτική ικανότητα 
+sputter {v.} 
+εκτινάσσω 
+sputtering 
+εκτίναξη 
+square-law detector 
+ανιχνευτής νόμου τετραγώνου 
+stability diagram 
+διάγραμμα ευστάθειας 
+stability parameter 
+παράμετρος ευστάθειας 
+stack 
+στοίβα 
+stacking fault 
+σφάλμα στοίβασης 
+standard deviation 
+τυπική απόκλιση 
+star coupler 
+αστεροειδής συζεύκτης, αστεροειδής ζεύκτης 
+Stefan-Boltzmann constant 
+σταθερά Στέφαν-Μπόλτζμαν 
+step 
+βαθμίδα (κλίμακας) 
+step-index fiber 
+ίνα βαθμιδωτού δείκτη, ίνα κλιμακωτού δείκτη 
+stop 
+διάφραγμα 
+strain 
+παραμόρφωση 
+stress 
+τάση 
+strip 
+λωρίδα, ταινία 
+strip waveguide 
+ταινιοειδής κυματοδηγός 
+stripe 
+ράβδωση, ρίγα 
+stripper 
+απογυμνωτήρας 
+subjective speckle pattern 
+υποκειμενικό κοκκίωμα 
+substrate 
+υπόστρωμα 
+substrate mode 
+ρυθμός υποστρώματος 
+superfluous 
+πλεονάζων 
+superpolish 
+υπερστιλβωτικό 
+superpolished 
+υπερστιλβωμένος 
+superstrate 
+υπέρστρωμα 
+suppress {v.} 
+καταστέλλω 
+suppressed 
+κατεσταλμένος 
+surface acoustic wave, SAW wave 
+επιφανειακό ακουστικό κύμα, κύμα SAW 
+surface-emitting laser 
+λέιζερ επιφανειακής εκπομπής 
+switch 1 
+μεταγωγέας 
+switch 2 
+διακόπτης 
+synchronization, synch {video 
+technology} 
+συγχρονισμός 
+system aspect 
+ 
+συστημική έποψη 
+32 
+Αγγλικός όρος 
+Ελληνικός όρος 
+T
+ta vs Є curve 
+καμπύλη του ta συναρτήσει του Є 
+taper {v.} 
+λεπταίνω κωνικά 
+tapered 
+κολουροκωνικός 
+tapered output coupler 
+κολουροκωνικός ζεύκτης εξόδου, 
+κολουροκωνικός συζεύκτης εξόδου 
+telephoto lens 
+φωτογραφικός τηλεφακός 
+telescope 
+τηλεσκόπιο 
+temporal coherence 
+χρονική συμφωνία 
+terrestrial telescope 
+επίγειο τηλεσκόπιο 
+theoretical resolution limit 
+θεωρητικό διακριτικό όριο 
+thermal detector 
+θερμικός ανιχνευτής 
+thermal noise, Johnson noise 
+θερμικός θόρυβος, θόρυβος Τζόνσον, 
+thermal source 
+θερμική πηγή 
+thermistor 
+θερμίστορ 
+thick hologram 
+ολόγραμμα όγκου, παχύ ολόγραμμα 
+thick lens 
+παχύς φακός 
+thin film 
+λεπτό υμένιο 
+thin hologram 
+λεπτό ολόγραμμα 
+thin lens 
+λεπτός φακός 
+third window 
+τρίτο παράθυρο 
+three-bar target 
+στόχος τριών ράβδων 
+threshold population inversion 
+αναστροφή πληθυσμών κατωφλίου 
+tight capillary 
+στενόπορος τριχοειδής σωλήνας 
+tilted 
+κεκλιμένος, γερμένος 
+time constant 
+σταθερά χρόνου 
+time domain 
+πεδίο του χρόνου 
+toe of a curve 
+ακροπόδιο καμπύλης 
+tolerance 
+ανοχή 
+top view 
+κάτοψη 
+total internal reflection 
+ολική εσωτερική ανάκλαση 
+trace {v.} 
+ιχνηλατώ 
+transducer 
+μορφοτροπέας 
+transfer 
+μεταφορά, μεταβίβαση 
+transfer function 
+συνάρτηση μεταφοράς 
+transform plane 
+επίπεδο μετασχηματισμού 
+transit time 
+χρόνος διάβασης 
+ 
+33 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+transition 
+μετάβαση 
+transmission 
+μετάδοση 
+transmission line 
+γραμμή μετάδοσης, γραμμή μεταφοράς 
+transmission profile 
+κατατομή μετάδοσης 
+transmittance 
+μετάδοση, μεταδοτικότητα 
+transmitter 
+πομπός 
+transverse backscattering 
+εγκάρσια οπισθοσκέδαση 
+transverse mode 
+εγκάρσιος ρυθμός 
+transverse scattering 
+εγκάρσια σκέδαση 
+transverse wave 
+εγκάρσιο κύμα 
+transversely excited atmospheric 
+laser, TEA laser 
+εγκάρσια διεγειρόμενο ατμοσφαιρικό λέιζερ, 
+λέιζερ ΤΕΑ 
+traveling wave 
+διαδιδόμενο κύμα, οδεύον κύμα 
+traveling-wave modulator 
+διαμορφωτής διαδιδόμενου κύματος, 
+διαμορφωτής οδεύοντος κύματος 
+trifocals 
+τριπλοεστιακά γυαλιά 
+triplet level 
+τρίδυμη στάθμη 
+triplicity of light 
+τριαδικότητα του φωτός, τριαδισμός του φωτός 
+truncated wave 
+κολοβωμένο κύμα 
+tube 
+σωλήνας 
+tube length 
+μήκος σωλήνα 
+tumbling-E chart 
+διάγραμμα περιτρεπόμενου Ε 
+tunable laser 
+συντονίσιμο λέιζερ 
+tungsten lamp 
+λαμπτήρας βολφραμίου, λυχνία βολφραμίου 
+tunneling ray 
+ακτίνα φαινομένου σήραγγος, ακτίν α 
+σηράγγωσης 
+twist {v.} 
+συστρέφω 
+twisted 
+συνεστραμμένος 
+Twyman-Green interferometer 
+συμβολόμετρο Τουάιμαν-Γκριν 
+U
+ultramicroscope 
+υπερμικροσκόπιο 
+ultrasonic light modulator, acousto-
+optic light modulator 
+υπερηχητικός διαμορφωτής φωτός, 
+ακουστοοπτικός διαμορφωτής φωτός 
+ultraviolet 
+υπεριώδες 
+unbound mode 
+μη δέσμιος ρυθμός 
+underfilled fiber 
+υποπληρούμενη ίνα 
+underlying 
+υποκείμενος 
+undershoot 
+υποτίναξη 
+34 
+Αγγλικός όρος 
+Ελληνικός όρος 
+unpolarized light 
+μη πολωμένο φως 
+unpopulated state 
+μη κατοικημένη κατάσταση 
+unstable resonator 
+ασταθής συντονιστής 
+useful magnifying power 
+χρήσιμη μεγεθυντική ισχύς 
+V
+V number, normalized frequency 
+αριθμός V, κανονικοποιημένη συχνότητα 
+vacuum photodiode 
+φωτοδίοδος κενού 
+variable-aperture far-field method 
+μέθοδος μεταβλητού ανοίγματος μακρινού πεδίου 
+variation 
+μεταβολή 
+veil {v.} 
+αχνοκαλύπτω 
+veiling glare 
+πεπλοειδής λαμποκοπή 
+velocity of light 
+ταχύτητα του φωτός {διάνυσμα} 
+Verdet constant 
+σταθερά Βέρντετ 
+vertex angle  
+γωνία κορυφής 
+vertical-cavity surface-emitting laser, 
+VCSEL {pronounced ‘vixel’} 
+λέιζερ επιφανειακής εκπομπής κάθετου οπτικού 
+αντηχείου, VCSEL {προφέρεται  ‘βίξελ’} 
+video camera 
+βιντεοκάμερα, μηχανή βιντεολήψης, μηχανή 
+λήψης βίντεο 
+video microscope 
+βιντεομικροσκόπιο, μικροσκόπιο βίντεο 
+video signal  
+βιντεοσήμα, σήμα βίντεο 
+view {v.} 
+θεώμαι, βλέπω 
+viewing angle 
+γωνία θέασης 
+vignetting 
+βινιετάρισμα 
+virtual image 
+φανταστικό είδωλο 
+virtual object 
+φανταστικό αντικείμενο 
+visibility 
+ορατότητα 
+visible spectrum 
+ορατό φάσμα 
+vitreous silica 
+υαλώδης πυριτία 
+W
+wafer 
+δισκίο 
+waist 
+οσφύς 
+washing-out 
+ξεθώριασμα {κροσσών} 
+wave 
+κύμα 
+wave ellipsoid 
+ελλειψοειδές κύματος 
+wave packet 
+κυματοπακέτο, κυματόδεμα 
+wave plate 
+πλακίδιο καθυστέρησης κύματος 
+wave surface 
+κυματική επιφάνεια 
+ 
+35 
+ 
+Αγγλικός όρος 
+Ελληνικός όρος 
+wave vector 
+κυματάνυσμα 
+wavefront 
+κυματομέτωπο 
+waveguide dispersion 
+διασπορά κυματοδηγού 
+waveguide lens 
+φακός κυματοδηγού 
+wavelength-division multiplexer 
+πολυπλέκτης διαίρεσης μήκους κύματος 
+wavelet 
+κυματίδιο 
+wavenumber 
+κυματαριθμός 
+wedge 
+σφήνα 
+weld {v.} 
+θερμοσυγκολλώ 
+welding 
+θερμοσυγκόλληση 
+white light hologram 
+ολόγραμμα λευκού φωτός 
+white noise 
+λευκός θόρυβος 
+Wien’s displacement law 
+νόμος μετατόπισης του Βιν 
+window 
+παράθυρο 
+working distance, back focal length  
+απόσταση εργασίας, οπίσθιο εστιακό μήκος, 
+οπίσθια εστιακή απόσταση 
+Χ
+Υ
+Z
+Zernike’s phase-contrast microscope 
+μικροσκόπιο αντίθεσης φάσεων του Ζέρνικε 
+zero-order diffraction 
+περίθλαση μηδενικής τάξης 
+zone 
+ζώνη 
+zone plate 
+πλακίδιο ζωνών 
+ 
+ 
+36 
+(Κενή σελίδα) 
+ 
+ 
+ 
+37 
+ 
+ 
+B.   Eλληνoαγγλικό γλωσσάριο όρων 
+(1185 ελληνοαγγλικά λήμματα) 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+F-διαβάθμιση διαφράγματος 
+F-stop 
+Α 
+αδιαφάνεια 
+opacity 
+αιγλοβολούσα λυχνία 
+glower 
+ακίδα, αιχμή 
+spike 
+ακίδωση 
+spiking 
+ακμή, παρυφή 
+edge  
+ακολουθία 
+sequence 
+ακολουθιακά πλαίσια 
+sequential frames 
+ακουστοοπτική εκτροπή δέσμης 
+acousto-optic beam deflection 
+ακουστοοπτικός διαμορφωτής φωτός, 
+υπερηχητικός διαμορφωτής φωτός 
+acousto-optic light modulator, 
+ultrasonic light modulator 
+ακριβής 
+precise 
+ακροπόδιο καμπύλης 
+toe of a curve 
+ακτίνα 
+ray 
+ακτίνα δέσμης 
+beam radius 
+ακτίνα φαινομένου σήραγγος, ακτίν α 
+σηράγγωσης 
+tunneling ray 
+ακτινοβόληση 
+radiance 
+ακτινοβολητικός 
+radiative 
+ακτινοβόλιση, ακτινοβολισμός 
+irradiance 
+ακτινοβόλος εκπεμπτικότητα 
+radiant emittance 
+ακτινοβόλος ένταση 
+radiant intensity 
+ακτινοβόλος ένταση 
+radiant intensity 
+ακτινοβόλος εξοδικότητα 
+radiant exitance 
+ακτινοβόλος ισχύς 
+radiant power 
+ακτινομετρία 
+radiometry 
+αλληλοδιάδοχος 
+alternate 
+αμαυρωμένη επιφάνεια 
+blackened surface 
+αμφιβληστροειδής (χιτώνας) 
+retina 
+αναβιβασμός συχνότητας 
+frequency upconversion 
+ανάγλυφο του ματιού 
+eye relief 
+ανάδραση 
+feedback 
+αναδύομαι 
+emerge 
+38 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αναδυόμενη δέσμη 
+emerging beam 
+αναιρετική συμβολή, καταστρεπτική συμβολή 
+destructive interference 
+ανακαμπή, σημείο ανάκαμψης {καμπύλης} 
+cusp (point) {of curve} 
+ανακατασκευή 
+reconstruction 
+ανακλασιμετρία 
+reflectometry 
+ανακλαστήρας διάχυσης 
+diffuse reflector 
+ανακλαστήρας Λάμπερτ 
+Lambertian reflector 
+ανακλαστικό τηλεσκόπιο 
+reflecting telescope 
+ανακόπτω 
+intercept {v.} 
+αναλλοίωτη Λαγκράνζ 
+Lagrange invariant 
+αναλλοίωτος σε μετατόπιση 
+shift invariant 
+αναλύτης 
+analyzer 
+αναμεταδότης φακός 
+relay lens 
+αναπτύσσω 
+develop {v.} 
+αναστροφή πληθυσμών 
+population inversion 
+αναστροφή πληθυσμών κατωφλίου 
+threshold population inversion 
+ανεκπλήρωτη ολική εσωτερική ανάκλαση 
+frustrated total internal reflection 
+ανέρχομαι, συμποσούμαι 
+amount {v.} 
+ανεστραμμένος 
+inverted 
+ανιχνευτής ή φωρατής 
+detector 
+ανιχνευτής νόμου τετραγώνου 
+square-law detector 
+ανιχνευτής σχηματισμού ειδώλου, ανιχνευτής 
+απεικόνισης 
+imaging detector 
+ανιχνευτικότητα 
+detectivity 
+άνοιγμα (σε πέτασμα) 
+opening (on screen) 
+ανορθωτικό τηλεσκόπιο 
+erecting telescope 
+ανορθωτικός φακός 
+erecting lens 
+ανοχή 
+tolerance 
+ανταλλαγή ιόντων 
+ion exchange 
+αντιαλωική χρωστική  
+antihalation dye 
+αντιανακλαστική επίχριση, αντιανακλαστική 
+επίστρωση 
+antireflection coating 
+αντίθεση {κοντράστ} 
+contrast 
+αντικειμενικό κοκκίωμα, αντικειμενική 
+σχηματομορφή κοκκίων, αντικειμενική 
+κοκκιομορφή 
+objective speckle pattern, objective 
+speckle 
+αντικειμενικός φακός 
+objective lens 
+αντικειμενικός φακός καταδύσεως σε λάδι, 
+αντικειμενικός καταδύσεως σε λάδι 
+oil-immersion objective 
+ 
+39 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αντικείμενο φάσης 
+phase object 
+αντιμονίδιο του ινδίου, InSb 
+indium antimonide, InSb 
+αντίσταση σκότους 
+dark resistance 
+αντιστάτης φόρτου 
+load resistor 
+αντίστροφος φωτογραφικός τηλεφακός 
+reverse telephoto lens 
+αντλία 
+pump 
+ανωφελής 
+spurious 
+ανωφελής διακριτική ικανότητα 
+spurious resolution 
+αξονικός ρυθμός, διαμήκης ρυθμός, φασματικός 
+ρυθμός 
+axial mode, longitudinal mode, 
+spectral mode 
+απαγορευμένη μετάβαση 
+forbidden transition 
+απεικόνιση 
+imaging 
+απλά ιονισμένος 
+singly ionized 
+απλανητικός 
+aplanatic 
+απογυμνώνω 
+deplete {v.} 
+απογύμνωση 
+depletion 
+απογυμνωτήρας 
+stripper 
+απογυμνωτής μανδυακών ρυθμών, απογυμνωτής 
+ρυθμών περιβλήματος 
+cladding-mode stripper 
+απογυμνωτής ρυθμών 
+mode stripper, see also: mode filter 
+αποδέκτης 
+acceptor 
+αποδίωση 
+apodization 
+απόδοση μετατροπής 
+conversion efficiency 
+απόδοση συλλογής (φωτός) 
+collection efficiency (of light) 
+αποκατάσταση 
+restoration 
+απόκλιση 
+deviation 
+απόκλιση 
+divergence 
+απόκλιση δέσμης 
+beam divergence 
+αποκοπή 
+cutoff 
+αποκόπτω 
+cut off 
+απόκριση ακμής, απόκριση παρυφής 
+edge response 
+απόκριση παλμώθησης, παλμωθητική απόκριση 
+impulse response, point-spread 
+function 
+απόκριση στην αποστροφή 
+aversion response 
+απόκριση συχνότητας 
+frequency response 
+αποκριτικότητα 
+responsivity 
+απολαβή 
+gain 
+απομείωση 
+cutback 
+40 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αποπολυπλέκτης 
+demultiplexer 
+αποσβέννυμαι, πέφτω, κατέρχομαι 
+decay {v.} 
+απόσβεση, πτώση, καθοδος 
+decay 
+απόσταση 
+distance 
+απόσταση αντικειμένου 
+object distance 
+απόσταση ειδώλου 
+image distance 
+απόσταση εργασίας, οπίσθιο εστιακό μήκος, 
+οπίσθια εστιακή απόσταση 
+working distance, back focal length  
+αποσυναρμολογούμενος, αφαιρέσιμος 
+demountable 
+αποχρωματίζω, λευκαίνω 
+bleach {v.} 
+αποχρωματισμός, λεύκανση 
+bleaching 
+απώλεια κάμψης 
+bending loss 
+απωλειακός, με απώλειες 
+lossy 
+αριθμητικό άνοιγμα 
+numerical aperture 
+αριθμητικό άνοιγμα εξόδου  
+output numerical aperture 
+αριθμός F 
+F-number 
+αριθμός V, κανονικοποιημένη συχνότητα 
+V number, normalized frequency 
+αριθμός, ψηφίο αριθμού 
+figure 
+αρμοζεύκτης, ζεύκτης συναρμογής 
+butt coupler 
+αρμόζευξη 
+butt coupling 
+αρνητικό 
+negative 
+αρνητικός φακός, αποκλίνων φακός 
+negative lens 
+αρσενίδιο γαλλίου αργιλίου ( GaAlAs ) 
+gallium aluminum arsenide, GaAlAs 
+αρσενίδιο του γαλλίου, GaAs 
+gallium arsenide, GaAs 
+αρσενίδιο φωσφίδιο γαλλίου αργιλίου, GaAlAsP 
+gallium aluminum arsenide 
+phosphide, GaAlAsP 
+αρχή του Fermat 
+Fermat’s principle 
+αρχή του Μπαμπινέ 
+Babinet’s principle 
+αρχή του Χάιγκενς 
+Huygens’s principle 
+ασταθής συντονιστής 
+unstable resonator 
+αστεροειδής συζεύκτης, αστεροειδής ζεύκτης 
+star coupler 
+αστιγματισμός 
+astigmatism 
+άστιλπνο χρώμα, χρώμα ματ 
+flat paint 
+αστρικό συμβολόμετρο Μάικελσον 
+Michelson stellar interferometer 
+ασυμφωνία 
+incoherence 
+ασφαιρικός 
+aspheric 
+ατέλεια 
+imperfection 
+άτρακτος, μαντρέλι 
+mandrel 
+ 
+41 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+αύλακα 
+groove 
+αφακία 
+aphakia 
+αφεστίαση 
+defocusing 
+αφεστιασμένος 
+defocused 
+αχνοκαλύπτω 
+veil {v.} 
+αχρωματικός αντικειμενικός φακός, αχρωματικός 
+αντικειμενικός 
+achromatic objective lens, achromatic 
+objective 
+αχρωματικός προσοφθάλμιος φακός, 
+αχρωματικός προσοφθάλμιος 
+achromatic eyepiece 
+Β 
+βαθμιαίος 
+gradual 
+βαθμίδα (κλίμακας) 
+step 
+βαθμός συμφωνίας 
+degree of coherence 
+βάθος εστίασης 
+depth of focus 
+βάθος πεδίου 
+depth of field 
+βαρελοειδής παραμόρφωση 
+barrel distortion 
+βινιετάρισμα 
+vignetting 
+βιντεοκάμερα, μηχανή βιντεολήψης, μηχανή 
+λήψης βίντεο 
+video camera 
+βιντεομικροσκόπιο, μικροσκόπιο βίντεο 
+video microscope 
+βιντεοσήμα, σήμα βίντεο 
+video signal  
+βοθρίο 
+fovea centralis 
+βολβός, γλόμπος 
+bulb 
+βολή σκαγιών {κυνηγετικού όπλου} 
+buckshot 
+βολόμετρο 
+bolometer 
+Γ 
+γαλάκτωμα 
+emulsion 
+γάμμα {κλίση καμπύλης} 
+gamma 
+γένεση αρμονικών 
+harmonic generation 
+γεροντικός εκφυλισμός της ωχράς κηλίδας 
+senile macular degeneration 
+γεωδαιτική (καμπύλη) 
+geodesic (curve) 
+γεωδαιτικός φακός 
+geodesic lens 
+γεωμετρική οπτική 
+geometric optics, geometrical optics 
+γκαουσιανή δέσμη 
+Gaussian beam 
+γραμμή 
+line 
+γραμμή μετάδοσης, γραμμή μεταφοράς 
+transmission line 
+γραμμικά πολωμένο φως 
+linearly polarized light, plane polarized 
+light 
+42 
+Ελληνικός όρος 
+Αγγλικός όρος 
+γραμμικό σύστημα 
+linear system 
+γραμμικό φάσμα 
+line spectrum 
+γυαλί, ύαλος 
+glass 
+γωνία ακτινοβολίας 
+radiation angle 
+γωνία ανάκλασης 
+angle of reflection 
+γωνία αποδοχής 
+acceptance angle 
+γωνία διάθλασης 
+angle of refraction 
+γωνία θέασης 
+viewing angle 
+γωνία κορυφής 
+vertex angle  
+γωνία Μπρούστερ 
+Brewster angle 
+γωνία πρόσπτωσης 
+angle of incidence 
+γωνία συστροφής 
+angle of twist 
+γωνιακή συχνότητα 
+angular frequency 
+γωνιακό φάσμα 
+angular spectrum 
+Δ 
+δακτύλιος, παράκυκλος 
+annulus 
+δάκτυλος 
+finger 
+δειγματοληπτώ 
+sample {v.} 
+δειγματοληψία 
+sampling 
+δείκτης αντίθεσης 
+contrast index 
+δείκτης διάθλασης 
+index of refraction, refractive index 
+δείκτης διάθλασης 
+refractive index, index of refraction 
+δείκτης διάθλασης ομάδας, ομαδικός δείκτης 
+διάθλασης 
+group index of refraction 
+δέκτης 
+receiver 
+δέσμη 
+bundle 
+δέσμη αναφοράς 
+reference beam 
+δέσμη αντικειμένου 
+object beam 
+δέσμη λέιζερ 
+laser beam 
+δέσμια ακτίνα 
+bound ray 
+δεσμικό σημείο 
+nodal point 
+δεσμικός ολισθητήρας 
+nodal slide 
+δέσμιος ρυθμός 
+bound mode 
+δευτερεύον ηλεκτρόνιο 
+secondary electron 
+δευτερεύον μέγιστο 
+secondary maximum 
+δευτερεύουσα ανακατασκευή 
+secondary reconstruction 
+ 
+43 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+δευτεριωμένο δισόξινο φωσφορικό κάλιο, 
+δευτεριωμένο KDP 
+deuterated  potassium dihydrogen 
+phosphate, deuterated KDP, KD2PO4, 
+KD*P 
+δευτεριωμένο δισόξινο φωσφορικό κάλιο, 
+δευτεριωμένο KDP 
+KD*P, deuterated potassium 
+dihydrogen phosphate 
+δεύτερο παράθυρο 
+second window 
+διαβρώνω 
+erode {v.} 
+διάγραμμα ευστάθειας 
+stability diagram 
+διάγραμμα περιτρεπόμενου Ε 
+tumbling-E chart 
+διαδιδόμενο κύμα, οδεύον κύμα 
+traveling wave 
+διαδρομή 
+path 
+διάθλαση 
+refraction 
+διαθλώμενη ακτίνα 
+refracted ray 
+διαίρεση κυματομετώπου 
+division of wavefront 
+διαίρεση πλάτους 
+division of amplitude 
+διακλάδωση, κλάδος 
+branch 
+διάκοιλος σωλήνας 
+hollow tube 
+διακόπτης 
+switch 2 
+διακόρυφος 
+peak to peak 
+διακρίνω, διευκρινίζω 
+discriminate {v.} 
+διακριτική ικανότητα 
+resolution 
+διακριτική ισχύς 
+resolving power 
+διακριτικό όριο 
+limit of resolution, resolution limit 
+διακριτικό όριο 
+resolution limit, limit of resolution 
+διακριτός 
+resolvable 
+διάκριτος 
+discrete 
+διάκριτος 
+distinct 
+διακύμανση 
+fluctuation 
+διάλκαλι 
+bialkali 
+διάμετρος ρυθμού-πεδίου 
+mode-field diameter 
+διάμηκες κύμα 
+longitudinal wave 
+διαμήκης μεγέθυνση 
+longitudinal magnification 
+διαμήκης ρυθμός 
+longitudinal mode 
+διαμορφωτής διαδιδόμενου κύματος, 
+διαμορφωτής οδεύοντος κύματος 
+traveling-wave modulator 
+διαμορφωτική τάση, διαμορφώνουσα τάση 
+modulating voltage 
+διαπόσταση φράγματος, διάστιχο φράγματος, 
+σταθερά φράγματος 
+spacing of a grating 
+διαπόσταση, διάστιχο 
+spacing 
+44 
+Ελληνικός όρος 
+Αγγλικός όρος 
+διάρκεια 
+duration 
+διαρρέουσα ακτίνα, ακτίνα φαινομένου σήραγγος 
+leaky ray 
+διαρρέων ρυθμός 
+leaky mode 
+διαρρυθμική παραμόρφωση 
+intermodal distortion 
+διασπορά κυματοδηγού 
+waveguide dispersion 
+διασπορά υλικού, διασκεδασμός υλικού 
+material dispersion 
+διασπορά, διασκεδασμός 
+dispersion 
+διαστέλλομαι 
+expand {v.} 
+διαστολή κόρης 
+pupil dilation 
+διασυσχέτιση 
+cross-correlation 
+διάταξη 
+device 
+διάταξη 
+ordering 
+διάταξη σύζευξης φορτίου 
+charge-coupled device, CCD 
+διαταραχή 
+perturbation 
+διατάσσω 
+order {v.} 
+διατήρηση της ακτινοβόλησης 
+conservation of radiance 
+διατμητική δύναμη 
+shear force 
+διάτρηση 
+drilling 
+διατρυπώ 
+drill {v.} 
+διαυλικός κυματοδηγός, κυματοδηγός καναλιού 
+channel waveguide 
+δίαυλος, κανάλι 
+channel 
+διάφραγμα 
+diaphragm 
+διάφραγμα 
+stop 
+διάφραγμα ανοίγματος 
+aperture stop 
+διάφραγμα με ίριδα 
+iris diaphragm 
+διάφραγμα πεδίου 
+field stop 
+διαφωνία 
+crosstalk 
+διάχυση 
+diffusion 
+διάχυτη ανάκλαση 
+diffuse reflection 
+διάχυτη πηγή 
+diffuse source 
+διαχύτης 
+diffuser 
+διαχωρισμός 
+separation 
+δίδυμη στάθμη 
+doublet level 
+διεμπλέκω 
+interdigitate {v.} 
+διεμπλέκω 
+interlace {v.} 
+διεμπλοκή 
+interlacing 
+διεπαφή 
+interface 
+ 
+45 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+διεπίπεδη φωτοδίοδος 
+biplanar photodiode 
+δίκτυο 
+network 
+δικτύωμα 
+network 
+διόπτρα, κιάλι ( συνήθως: κιάλια ) 
+binoculars 
+διοπτρία 
+diopter 
+διπλασιασμός συχνότητας 
+frequency doubling 
+διπλοεστιακά γυαλιά 
+bifocals 
+διπλοεστιακός 
+bifocal 
+διπλοθλαστικός 
+birefringent 
+διπλοθλαστικότητα 
+birefringence 
+δισκίο 
+wafer 
+δίσκος Airy 
+Airy disk 
+δίσκος Νίπκοφ 
+Nipkow disk 
+δισόξινο φωσφορικό κάλιο, KDP 
+KDP, potassium dihydrogen 
+phosphate 
+δισόξινο φωσφορικό κάλιο, KΗ2PO4, KDP 
+potassium dihydrogen phosphate, 
+KΗ2PO4, KDP 
+διχαστής δέσμης 
+beam splitter 
+διχρωικός κρύσταλλος 
+dichroic crystal 
+διωνυμικό ανάπτυγμα 
+binomial expansion 
+δονώ εγκαρσίως, διεγείρω ηλεκτρικό σήμα 
+εξομαλυντικής δόνησης 
+dither {v.} 
+δότης 
+donor 
+δυαδικότητα του φωτός, δυισμός του φωτός 
+duality of light 
+δυναμική περιοχή 
+dynamic range 
+δύνοδος 
+dynode 
+δυφίο, δυαδικό ψηφίο 
+bit 
+Ε 
+εγκάρσια διεγειρόμενο ατμοσφαιρικό λέιζερ, 
+λέιζερ ΤΕΑ 
+transversely excited atmospheric 
+laser, TEA laser 
+εγκάρσια δόνηση, διέγερση ηλεκτρικού σήματος 
+εξομαλυντικής δόνησης 
+dithering 
+εγκάρσια οπισθοσκέδαση 
+transverse backscattering 
+εγκάρσια σκέδαση 
+transverse scattering 
+εγκάρσιο κύμα 
+transverse wave 
+εγκάρσιος ρυθμός 
+transverse mode 
+έδρα, όψη 
+face 
+ειδική ανιχνευτικότητα 
+specific detectivity, D 
+46 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ειδική ανιχνευτικότητα 
+specific detectivity, D* 
+είδωλο 
+image 
+εικόνα 
+image 
+εικόνα 
+picture 
+εικονοστοιχείο 
+picture element or pixel 
+εικονοστοιχείο 
+pixel 
+εκγλύφανση με δέσμη ιόντων, φρεζάρισμα με 
+δέσμη ιόντων 
+ion-milling 
+έκθεση 
+exposure 
+εκκεντρότητα 
+eccentricity 
+εκπεμπτικότητα 
+emissivity 
+εκπομπός 
+emitter 
+εκπομπός ακμής, εκπομπός παρυφής 
+edge emitter 
+έκτακτη ακτίνα 
+extraordinary ray  
+εκτεταμένη πηγή 
+extended source 
+εκτίναξη 
+sputtering 
+εκτινάσσω 
+sputter {v.} 
+εκτροπέας 
+deflector 
+εκτροπή 
+deflection 
+εκτροπή, αποπλάνηση 
+aberration 
+εκφεύγω 
+be offset 
+εκφυγή 
+offset 
+ελάττωμα, ατέλεια 
+defect 
+ελεύθερη φασματική περιοχή 
+free spectral range, range without 
+overlap 
+ελλείπουσα τάξη 
+missing order 
+ελλειπτικά πολωμένο φως 
+elliptically polarized light 
+ελλειπτικότητα 
+ellipticity 
+ελλειψοειδές κύματος 
+wave ellipsoid 
+εμφύτευση ιόντων 
+ion implantation 
+εναλλασσόμενες στρώσεις 
+alternating layers 
+εναπόθεση 
+deposit 
+εναποθέτω 
+deposit {v.} 
+ενδορρυθμική παραμόρφωση 
+intramodal distortion 
+ενεργειακή στάθμη 
+energy level 
+ενεργειακό χάσμα 
+band gap 
+ενεργητικός 
+active 
+ενεργός 
+active 
+ 
+47 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ενεργός 
+effective 
+ενεργός αριθμός F 
+effective F-number 
+ενεργός διατομή 
+cross-section 
+ενεργός επιφάνεια (διατομής) 
+effective area 
+ενεργός εστιακή απόσταση 
+effective focal length 
+ενίσχυση φωτός με εξαναγκασμένη εκπομπή 
+ακτινοβολίας, λέιζερ 
+light amplification by stimulated 
+emission of radiation, laser 
+ενισχυτής ίνας με προσμίξεις ερβίου 
+erbium-doped fiber amplifier, EDFA 
+ενισχυτής οπτικής ίνας 
+fiber amplifier 
+ενισχυτική συμβολή 
+constructive interference 
+ένωση III–V 
+III–V compound 
+ένωση, αρμός 
+joint 
+εξάλειψη 
+extinction 
+εξάρτημα, παρελκόμενο 
+accessory {n.} 
+εξασθένηση 
+attenuation 
+εξίσωση ρυθμού, εξίσωση ρυθμού μετάβασης 
+rate equation 
+εξίσωση φράγματος 
+grating equation 
+εξόγκωμα,έξαρμα 
+bump 
+εξώτατος 
+outermost 
+επαναλήπτης 
+repeater 
+επανεπεξεργάζομαι, επεξεργάζομαι εκ νέου 
+reprocess {v.} 
+επανεπεξεργασία, εκ νέου επεξεργασία 
+reprocessing 
+επαύξηση 
+enhancement 
+επαύξηση ακμής, επαύξηση παρυφής 
+edge enhancement 
+επαφή 
+junction 
+επεξεργασία εικόνας 
+image processing 
+επίβλημα, μπάλωμα 
+patch 
+επίγειο τηλεσκόπιο 
+terrestrial telescope 
+επιδερμικό βάθος 
+skin depth 
+επικαλυμμένος 
+coated 
+επικαλύπτω, μεταμφιέζω 
+mask {v.} 
+επικάλυψη 
+coating 
+επικάλυψη 
+overlap 
+επικουρικός, συμπληρωματικός, πρόσθετος 
+accessory {adj.} 
+επίπεδα πολωμένο φως  
+plane polarized light, linearly polarized 
+light 
+επιπεδική οπτική διάταξη 
+planar optical device 
+επιπεδικός 
+planar 
+48 
+Ελληνικός όρος 
+Αγγλικός όρος 
+επιπεδικός κυματοδηγός 
+planar waveguide 
+επιπεδικός φακός 
+planar lens 
+επίπεδο εισόδου 
+input plane 
+επίπεδο εξόδου 
+output plane 
+επίπεδο κύμα 
+plane wave 
+επίπεδο μετασχηματισμού 
+transform plane 
+επίπεδο πόλωσης 
+plane of polarization 
+επίπεδο συχνοτήτων 
+frequency plane 
+επιφάνεια συμφωνίας, εμβαδόν συμφωνίας 
+coherence area 
+επιφάνεια υψηλής στίλβωσης 
+highly polished surface 
+επιφανειακό ακουστικό κύμα, κύμα SAW 
+surface acoustic wave, SAW wave 
+εποξειδική ρητίνη, εποξειρητίνη 
+epoxy resin, epoxy 
+εσμυρισμένη ύαλος {θαμπόγυαλο} 
+ground glass 
+εστιακή απόσταση, εστιακό μήκος 
+focal length 
+εστιακό σημείο 
+focal point 
+ευαισθησία 
+sensitivity 
+ευαισθησιομετρία 
+sensitometry 
+ευαισθητοποιητική χρωστική 
+sensitizing dye 
+ευθύγραμμο τμήμα 
+line segment 
+εύρος γραμμής οργάνου 
+instrumental line width 
+εύρος δέσμης 
+beam width 
+εύρος ζώνης, ζωνικό εύρος 
+bandwidth 
+ευρυζωνικός 
+broadband 
+εφαπτόμενος (όψη με όψη), ερχόμενος σε επαφή 
+(όψη με όψη) 
+butted (against) 
+Ζ 
+ζεύγος γραμμών 
+line pair 
+ζεύκτης φράγματος 
+grating coupler 
+ζώνη 
+zone 
+ζώνη ( ταινία ) 
+band 
+ζώνη ημιπεριόδου 
+half-period zone 
+ζώνη Φρενέλ 
+Fresnel zone 
+ζωνοπερατό φίλτρο, φίλτρο διέλευσης ζώνης 
+bandpass filter 
+Η 
+ηλεκτρικό ζωνικό εύρος, εύρος ζώνης ηλεκτρικού 
+σήματος 
+electrical bandwidth 
+ηλεκτροοπτική 
+electro-optics 
+ 
+49 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ηλεκτροοπτικό φαινόμενο, φαινόμενο Κερ {Kerr} 
+electro-optic effect, Kerr effect 
+ηλεκτροοπτικός διαμορφωτής 
+electro-optic modulator 
+ηλεκτροοπτικός φωτοφράκτης 
+electro-optic shutter 
+ηλεκτροσυστολή 
+electrostriction 
+ηλιακό στοιχείο, ηλιακό κύτταρο  
+solar cell 
+ημιεύρος ημιμεγίστου 
+half-width at half-maximum 
+ημικυματική τάση, τάση ημικύματος, τάση λ/2 
+half-wave voltage 
+ημικυματικό πλακίδιο, πλακίδιο ημικύματος, 
+πλακίδιο λ/2 
+half-wave plate 
+ημιφακός 
+len 
+Θ 
+θαμμένος κυματοδηγός 
+buried waveguide 
+θερμική πηγή 
+thermal source 
+θερμικός ανιχνευτής 
+thermal detector 
+θερμικός θόρυβος, θόρυβος Τζόνσον, 
+thermal noise, Johnson noise 
+θερμίστορ 
+thermistor 
+θερμοζεύγος ακτινοβολίας 
+radiation thermocouple 
+θερμοκρασία φωτεινότητας 
+brightness temperature 
+θερμοκρασία χρώματος 
+color temperature 
+θερμοστήλη ακτινοβολίας 
+radiation thermopile 
+θερμοσυγκόλληση 
+welding 
+θερμοσυγκολλώ 
+weld {v.} 
+θέση, τοποθεσία 
+location 
+θετικός φακός, συγκλίνων φακός 
+positive lens 
+θεώμαι, βλέπω 
+view {v.} 
+θεώρημα ακτινοβόλησης 
+radiance theorem 
+θεώρημα δειγματοληψίας 
+sampling theorem 
+θεωρητικό διακριτικό όριο 
+theoretical resolution limit 
+θολερότητα 
+blur {n.} 
+θολωμένη σχηματομορφή 
+blurred pattern 
+θολώνω 
+blur {v.} 
+θόρυβος 
+noise 
+θόρυβος 1/f, θόρυβος τρεμοσβήματος 
+1/f noise, flicker noise 
+θόρυβος βολής, κβαντικός θόρυβος, φωτονικός 
+θόρυβος 
+shot noise, quantum noise, photon 
+noise 
+θόρυβος διαμερισμού ρυθμών 
+mode-partition noise 
+θόρυβος σκότους 
+dark noise 
+50 
+Ελληνικός όρος 
+Αγγλικός όρος 
+θόρυβος σχετικής έντασης, RIN 
+relative intensity noise, RIN 
+θόρυβος Τζόνσον, θερμικός θόρυβος 
+Johnson noise, thermal noise 
+θόρυβος τρεμοσβήματος, θόρυβος 1/f 
+flicker noise, 1/f noise 
+Ι 
+ίνα αντιστάθμισης διασποράς, ίνα αντιστάθμισης 
+διασκεδασμού 
+dispersion-compensating fiber 
+ίνα βαθμιαίου δείκτη (διάθλασης) 
+graded-index fiber 
+ίνα βαθμιδωτού δείκτη, ίνα κλιμακωτού δείκτη 
+step-index fiber 
+ίνα μικρού μήκους διαδρομής 
+short-haul fiber 
+ίρις. ίριδα 
+iris 
+ισοδύναμη διαθλαστική επιφάνεια 
+equivalent refracting surface 
+ισοδύναμη ισχύς θορύβου, NEP 
+noise equivalent power, NEP  
+ισχύς 
+power 
+ιχνηλάτηση ακτίνων 
+raytracing 
+ιχνηλατώ 
+trace {v.} 
+Κ 
+καθετήρας, ανιχνευτήρας 
+probe 
+καθυστέρηση 
+retardation 
+καθυστέρηση ομάδας, ομαδική καθυστέρηση 
+group delay 
+κακοευθυγραμμίζω 
+misalign {v.} 
+κακοευθυγράμμιση 
+misalignment 
+κακοπροσαρμογή 
+mismatch 
+καλυπτρίδα 
+cover slip 
+καλωδιώνω ίνα, συνδέω ίνα σε καλωδιακό φορέα 
+cable a fiber 
+καλωδίωση ίνας, καλωδιακή σύνδεση ίνας 
+cabling of fiber 
+κάμερα μικροσκοπικής οπής 
+pinhole camera 
+κάμερα, φωτογραφική μηχανή 
+camera 
+καμπύλη απόκρισης συχνότητας 
+frequency response curve 
+καμπύλη του D συναρτήσει του logЄ 
+D vs logЄ curve 
+καμπύλη του ta συναρτήσει του Є 
+ta vs Є curve 
+κανονικοποιημένη συχνότητα, αριθμός V 
+normalized frequency, V number 
+κανονικοποιημένος πληθυσμός 
+normalized population 
+καντέλα 
+candela 
+καταλήγω με απώλειες 
+become lossy {v.} 
+κατανέμω 
+distribute {v.} 
+κατανομή ισορροπίας των ρυθμών 
+equilibrium mode distribution 
+καταπνίγω, κατασβήνω 
+quench {v.} 
+ 
+51 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+καταπνιλτικό πρόσθετο, κατασβεστικό πρόσθετο 
+quenching additive 
+καταρράκτης 
+cataract 
+καταστέλλω 
+suppress {v.} 
+καταστρεπτικός, καταστροφικός 
+destructive 
+κατατέμνω 
+section {v.} 
+κατατομή 
+profile 
+κατατομή δείκτη διάθλασης 
+index profile 
+κατατομή μετάδοσης 
+transmission profile 
+κατατομή νόμου δύναμης 
+power-law profile 
+κατεσταλμένος 
+suppressed 
+κατευθυντικός ζεύκτης 
+directional coupler 
+κατευθυντικότητα 
+directionality 
+κατοπτρική ανάκλαση 
+specular reflection 
+κάτοψη 
+top view 
+κβαντική απόδοση 
+quantum efficiency 
+κβαντικός ανιχνευτής 
+quantum detector 
+κβαντικός θόρυβος, θόρυβος βολής, φωτονικός 
+θόρυβος 
+quantum noise, shot noise, photon 
+noise 
+κεκλιμένος 
+sloped 
+κεκλιμένος, γερμένος 
+tilted 
+κενή μεγεθυντική ισχύς 
+empty magnifying power 
+κέντρο προοπτικής 
+center of perspective 
+κερατοειδής (χιτώνας) 
+cornea 
+κεφαλή ανάγνωσης 
+reading head 
+κηλίδα 
+spot 
+κιάλια πεδίου, κιάλια υπαίθρου 
+field glasses 
+κλάσμα πύκνωσης, λόγος πύκνωσης 
+packing fraction 
+κλίση 
+slope 
+κοιλοσκόπιο κάννης 
+borescope, boresight 
+κοιλότητα 
+cavity 
+κοίλωμα 
+depression 
+κοινότητα 
+community 
+κοκκίο 
+speckle 
+κοκκίωμα, σχηματομορφή κοκκίων, κοκκιομορφή 
+speckle pattern 
+κόκκος 
+grain 
+κολοβωμένο κύμα 
+truncated wave 
+κολουροκωνικός 
+tapered 
+52 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κολουροκωνικός ζεύκτης εξόδου, 
+κολουροκωνικός συζεύκτης εξόδου 
+tapered output coupler 
+κονία, συγκολλητική ουσία 
+cement {n.} 
+κοντινό (ευκρινώς) ορατό σημείο 
+near point 
+κοπτικό εργαλείο με αδαμάντινη ακίδα, κοπίδι με 
+ακίδα από διαμάντι 
+diamond-point cutting tool 
+κοπτικό εργαλείο, κοπίδι  
+cutting tool 
+κορέσιμη χρωστική 
+saturable dye 
+κόρη 
+pupil 
+κόρη εισόδου 
+entrance pupil 
+κόρη εξόδου 
+exit pupil 
+κρίσιμη γωνία 
+critical angle 
+κρίσιμος φωτισμός 
+critical illumination 
+κριτήριο Ρέιλεϊ 
+Rayleigh criterion 
+κροσσός συμβολής 
+interference fringe 
+κροσσός τετραγώνου συνημιτόνου 
+cosine-squared fringe 
+κρυσταλλικός φακός 
+crystalline lens 
+κυκλικά πολωμένο φως 
+circularly polarized light 
+κυκλικός πολωτής 
+circular polarizer 
+κύκλος Ρόουλαντ 
+Rowland circle 
+κύκλος σύγχυσης 
+circle of confusion 
+κύμα 
+wave 
+κύμα SAW, επιφανειακό ακουστικό κύμα 
+SAW wave, surface acoustic wave 
+κύμα συμπίεσης 
+compression wave 
+κυματάνυσμα 
+wave vector 
+κυματαριθμός 
+wavenumber 
+κυματίδιο 
+wavelet 
+κυματική επιφάνεια 
+wave surface 
+κυματοδηγός ανταλλαγμένων ιόντων 
+ion-exchanged waveguide 
+κυματοδηγός διάχυσης 
+diffused waveguide 
+κυματοδηγός ράχης 
+ridge waveguide 
+κυματομέτωπο 
+wavefront 
+κυματοπακέτο, κυματόδεμα 
+wave packet 
+κύρια ακτίνα  
+principal ray 
+κύρια γωνία 
+principal angle 
+κύρια τομή 
+principal section 
+κύριο επίπεδο 
+principal plane 
+κύριο μέγιστο 
+principal maximum 
+ 
+53 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+κύριο σημείο 
+cardinal point 
+κύριο σημείο 
+principal point 
+κύριος όγκος, κύριο μέρος 
+bulk {n.} 
+κυρτό (καμπύλης), ώμος (καμπύλης) 
+shoulder (of curve) 
+κύτταρο 
+cell 
+κύτταρο Κερ 
+Kerr cell 
+κύτταρο Πόκελς 
+Pockels cell 
+κωδωνίζω, κουδουνίζω 
+ring {v.} 
+κωδωνισμός ακμής, κωδωνισμός παρυφής 
+edge ringing 
+κωνίο 
+cone 
+Λ 
+λαμποκοπή, θάμβος 
+glare 
+λαμπρότητα 
+luminance 
+λαμπτήρας βολφραμίου, λυχνία βολφραμίου 
+tungsten lamp 
+λαμπτήρας, λυχνία 
+lamp 
+λανθάνουσα εικόνα 
+latent image 
+λέιζερ αερίου 
+gas laser 
+λέιζερ γιγαντοπαλμών 
+giant-pulse laser 
+λέιζερ διόδου 
+diode laser 
+λέιζερ διόδου-ημιαγωγών 
+semiconductor-diode laser 
+λέιζερ εκπομπής ακμής, λέιζερ εκπομπής 
+παρυφής 
+edge-emitting laser 
+λέιζερ επιφανειακής εκπομπής 
+surface-emitting laser 
+λέιζερ επιφανειακής εκπομπής κάθετου οπτικού 
+αντηχείου, VCSEL {προφέρεται  ‘βίξελ’} 
+vertical-cavity surface-emitting laser, 
+VCSEL {pronounced ‘vixel’} 
+λέιζερ ημιαγωγών 
+semiconductor laser 
+λέιζερ κατανεμημένης ανάδρασης 
+distributed-feedback laser 
+λέιζερ μεταγόμενου Q 
+Q-switched laser 
+λέιζερ οπτικής ίνας 
+fiber laser 
+λέιζερ ρουβινίου 
+ruby laser 
+λέιζερ στερεάς κατάστασης 
+solid state laser 
+λέιζερ χρωστικής 
+dye laser 
+λέιζερ, ενίσχυση φωτός με εξαναγκασμένη 
+εκπομπή ακτινοβολίας 
+laser, light amplification by stimulated 
+emission of radiation 
+λεπταίνω κωνικά 
+taper {v.} 
+λεπταισθησία 
+finesse 
+λεπτή λεπτομέρεια 
+fine detail 
+λεπτό ολόγραμμα 
+thin hologram 
+54 
+Ελληνικός όρος 
+Αγγλικός όρος 
+λεπτό υμένιο 
+thin film 
+λεπτοδέσμη, λεπτοκυλινδρική δέσμη (φωτός) 
+pencil ( of light ) 
+λεπτός φακός 
+thin lens 
+λεπτότητα 
+fineness 
+λευκός θόρυβος 
+white noise 
+λόγος ανάκλασης πλάτους, ανακλαστικότητα 
+πλάτους 
+amplitude reflectance 
+λόγος απορρόφησης, απορροφητικότητα 
+absorptance 
+λόγος ισοστάθμισης 
+balance ratio 
+λόγος μετάδοσης, μεταδοτικότητα 
+amplitude transmittance 
+λοξή ακτίνα 
+skew ray 
+λυχνία αναλαμπών, λυχνία εκλάμψεων 
+flashlamp 
+λυχνία ασφαλείας 
+safe light 
+λυχνία εκκένωσης αερίου 
+gas-discharge lamp 
+λυχνία τόξου 
+arc lamp 
+λωρίδα, ταινία 
+strip 
+Μ 
+μαγνητικός οδηγός, μαγνητικός μηχανισμός 
+μετάδοσης κίνησης  
+magnetic drive 
+μαγνητοοπτική 
+magnetooptics 
+μαζική παραγωγή 
+mass production 
+μαζικός, μεγάλων διαστάσεων 
+bulk {adj.} 
+μανδυακός ρυθμός, ρυθμός περιβλήματος 
+cladding mode 
+μανδύας, περίβλημα 
+cladding 
+μαρμαρυγίας, μίκα 
+mica 
+μάσκα, επικάλυψη, μεταμφίεση 
+mask 
+μάτι διχτιού (κουρτίνας) 
+mesh (of curtain) 
+μέγεθος κηλίδας 
+spot size 
+μεγέθυνση 
+magnification 
+μεγεθυντής, μεγεθυντήρας 
+enlarger 
+μεγεθυντική ισχύς 
+magnifying power 
+μεγεθυντικός φακός 
+magnifying glass 
+μέθοδος μεταβλητού ανοίγματος μακρινού πεδίου 
+variable-aperture far-field method 
+μέθοδος της διαθλώμενης ακτίνας 
+refracted-ray method 
+μέλαν σώμα 
+blackbody 
+μελετητής-σχεδιαστής 
+designer 
+μερική συμφωνία 
+partial coherence 
+ 
+55 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μεσημβρινή ακτίνα 
+meridional ray 
+μετάβαση 
+transition 
+μεταβολή 
+variation 
+μεταβολή φάσης 
+phase change 
+μεταγωγέας 
+switch 1 
+μετάδοση 
+transmission 
+μετάδοση, μεταδοτικότητα 
+transmittance 
+μετασταθής κατάσταση 
+metastable state 
+μετατοπίζω 
+displace 
+μετατόπιση 
+shift 
+μετατόπιση Doppler 
+Doppler shift 
+μετατόπιση Γκόος-Χάνσεν 
+Goos-Hänschen shift 
+μετατόπιση φάσης 
+phase shift 
+μεταφορά, μεταβίβαση 
+transfer 
+μέτρηση των απωλειών παρεμβολής (ίνας), 
+μέτρηση των απωλειών ένθεσης (ίνας) 
+insertion-loss measurement (of a 
+fiber) 
+μέτρο αξίας, μέτρο ποιότητας 
+figure of merit 
+μη γραμμική οπτική, αγραμμική οπτική 
+nonlinear optics 
+μη δέσμιος ρυθμός 
+unbound mode 
+μη κατοικημένη κατάσταση 
+unpopulated state 
+μη πολωμένο φως 
+unpolarized light 
+μήκος ισορροπίας 
+equilibrium length 
+μήκος συμφωνίας 
+coherence length 
+μήκος σωλήνα 
+tube length 
+μήτρα, πίνακας 
+matrix  
+μηχανικό μήκος σωλήνα 
+mechanical tube length 
+μιγαδικός εκθετικός συμβολισμός 
+complex exponential notation 
+μικροκάμψη 
+microbend 
+μικροσκοπία σάρωσης φαινομένου σήραγγας 
+scanning tunneling microscopy 
+μικροσκοπία συμβολής πλακιδίου 
+slab interference microscopy 
+μικροσκόπιο 
+microscope 
+μικροσκόπιο αντίθεσης φάσεων 
+phase-contrast microscope 
+μικροσκόπιο αντίθεσης φάσεων του Ζέρνικε 
+Zernike’s phase-contrast microscope 
+μικροσκόπιο συμβολής 
+interference microscope 
+μικροσκόπιο φάσεων 
+phase microscope 
+μικροτοποθετητής 
+micropositioner 
+μονοδιάστατο φράγμα 
+one-dimensional grating 
+μονοδιάστατος 
+one-dimensional 
+56 
+Ελληνικός όρος 
+Αγγλικός όρος 
+μονόδυμη στάθμη 
+singlet level 
+μονολιθική διάταξη 
+monolithic device 
+μονολιθικός 
+monolithic 
+μονορρυθμικός κυματοδηγός 
+monomode waveguide, single-mode 
+waveguide 
+μονορρυθμικός κυματοδηγός 
+single-mode waveguide, monomode 
+waveguide 
+μονοχρωμάτορας 
+monochromator 
+μορφή του Νεύτωνα 
+Newton’s form 
+μορφοτροπέας 
+transducer 
+μορφοτροπέας διεμπλοκής 
+interdigitating transducer 
+μπελ 
+bel 
+μυωπία 
+myopia, near-sightedness 
+μυωπία 
+near-sightedness, myopia 
+Ν 
+νευρική αναστολή 
+neural inhibition 
+νηματικός υγρός κρύσταλλος 
+nematic liquid crystal 
+νιφάδα 
+flake 
+νόμοι του Φρενέλ 
+Fresnel’s laws 
+νόμος μετατόπισης του Βιν 
+Wien’s displacement law 
+νόμος συνημιτόνου τέταρτης δύναμης 
+cosine-fourth law 
+νόμος της ανάκλασης 
+law of reflection 
+νόμος της αντιστροφής 
+reciprocity law 
+νόμος της διάθλασης 
+law of refraction 
+νόμος του Λάμπερτ 
+Lambert’s law 
+νόμος του Μάλους 
+Malus’s law 
+νόμος του Μπρούστερ 
+Brewster’s law 
+νόμος του Σνελ 
+Snell’s law 
+ντεσιμπέλ 
+decibel 
+νυχτερινά γυαλιά 
+night glasses 
+Ξ 
+ξεθώριασμα {κροσσών} 
+washing-out 
+ξενιστής 
+host 
+Ο 
+οιονεί θερμική πηγή 
+quasi-thermal source 
+ολική εσωτερική ανάκλαση 
+total internal reflection 
+ 
+57 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ολόγραμμα 
+hologram 
+ολόγραμμα ανάκλασης 
+reflection hologram 
+ολόγραμμα λευκού φωτός 
+white light hologram 
+ολόγραμμα μετασχηματισμού Φουριέ 
+Fourier transform hologram 
+ολόγραμμα όγκου, παχύ ολόγραμμα 
+thick hologram 
+ολόγραμμα φάσης 
+phase hologram 
+ολοκληρωμένα οπτικά, ολοκληρωμένη οπτική 
+integrated optics 
+ομιχλώδης πυκνότητα {φωτογραφικού φιλμ} 
+fog density 
+ομοεστιακό μικροσκόπιο σάρωσης 
+scanning confocal microscope 
+όμοιος 
+similar 
+ομόλογος 
+counterpart 
+οξύτητα φάσματος 
+sharpness of spectrum 
+οπαλύαλος 
+opal glass 
+οπή καρφίτσας, μικροσκοπική οπή 
+pinhole 
+οπισθανακλαστήρας 
+cube corner, corner cube, 
+retroreflector 
+οπισθανακλαστήρας 
+retroreflector, cube corner 
+οπίσθιο εστιακό μήκος, οπίσθια εστιακή 
+απόσταση 
+back focal length, working distance 
+οπισθοσκέδαση, σκέδαση προς τα πίσω 
+backscatter(ing) 
+οπτική ανακλασιμετρία στο πεδίο του χρόνου, 
+OTDR  
+optical time-domain reflectometry, 
+OTDR  
+οπτική ανόρθωση 
+optical rectification 
+οπτική αντλία 
+optical pump 
+οπτική δραστηριότητα 
+optical activity 
+οπτική επεξεργασία 
+optical processing 
+οπτική ίνα 
+optical fiber 
+οπτική κατάτμηση 
+optical sectioning 
+οπτική μετασχηματισμών Φουριέ 
+Fourier transform optics 
+οπτική μίξη 
+optical mixing 
+οπτική παρουσίαση 
+display 
+οπτική πυκνότητα 
+optical density 
+οπτική συνάρτηση μεταφοράς 
+optical transfer function 
+οπτικό αντηχείο 
+optical cavity 
+οπτικό μικροσκόπιο σάρωσης κοντινού πεδίου, 
+NSOM 
+near field scanning optical 
+microscope, NSOM 
+οπτικό ολοκληρωμένο κύκλωμα 
+optical integrated circuit 
+οπτικό πάχος 
+optical thickness 
+οπτικό πεδίο 
+field of view 
+58 
+Ελληνικός όρος 
+Αγγλικός όρος 
+οπτικό τεχνούργημα, τεχνούργημα 
+artefact, artifact 
+οπτικοηλεκτρονική 
+optoelectronics 
+οπτικός άξονας 
+optic axis 
+οπτικός δρόμος 
+optical path 
+οπτικός επεξεργαστής 
+optical processor 
+οπτικός επεξεργαστής 4-f 
+4-f optical processor 
+οπτικός επεξεργαστής συγκλίνουσας δέσμης 
+converging-beam optical processor  
+οπτικός κυματοδηγός 
+optical waveguide 
+οπτικός μονωτής 
+optical isolator 
+οπτικός υπολογιστής 
+optical computer 
+οπτικός φασματικός αναλύτης 
+optical spectrum analyzer 
+ορατό φάσμα 
+visible spectrum 
+ορατότητα 
+visibility 
+ορατότητα κροσσών 
+fringe visibility 
+ορθή μέτρηση 
+accurate measurement 
+ορθογώνιο κομμάτι 
+block 
+ορική ακτίνα 
+marginal ray 
+όριο Ρέιλεϊ 
+Rayleigh limit 
+οσφύς 
+waist 
+οσφύς δέσμης 
+beam waist 
+οφιοειδής κάμψη 
+serpentine bend 
+Π 
+πανομοιότυπος 
+identical 
+παραβολική κατατομή 
+parabolic profile 
+παράγοντας λόξωσης 
+obliquity factor 
+παραδιαφωνία 
+near end crosstalk 
+παράθυρο 
+window 
+παράθυρο Μπρούστερ 
+Brewster window 
+παρακείμενος, όμορος 
+adjacent 
+παράλληλη επεξεργασία 
+parallel processing 
+παραλληλίζω (φωτεινέςακτίνες) 
+collimate 
+παραλληλισμένη δέσμη 
+collimated beam 
+παραμετρική ενίσχυση 
+parametric amplification 
+παραμετρική ταλάντωση 
+parametric oscillation 
+παραμετρικός ταλαντωτής 
+parametric oscillator 
+παράμετρος δέλτα 
+delta parameter 
+παράμετρος επίδοσης 
+performance parameter 
+ 
+59 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+παράμετρος ευστάθειας 
+stability parameter 
+παράμετρος κατατομής 
+profile parameter 
+παραμόρφωση 
+distortion  
+παραμόρφωση 
+strain 
+παραμόρφωση ειδώλου 
+image distortion 
+παραμόρφωση πελότας 
+pincushion distortion  
+παραμόρφωση προοπτικής 
+perspective distortion 
+παραμόρφωση ρυθμού πόλωσης 
+polarization-mode distortion 
+παραξονική προσέγγιση 
+paraxial approximation 
+παρεμβαλλόμενο στρώμα, απομονωτικό στρώμα 
+buffer layer 
+παρεμβαλλόμενος, ενδιάμεσος, απομονωτικός 
+buffer {adj.} 
+παρεμβάλλω σε μορφή σάντουιτς 
+sandwich {v.} 
+παρέμβλημα, απομονωτής 
+buffer {n.} 
+παρεμβολή, ένθεση 
+insertion 
+παχύς φακός 
+thick lens 
+πεδίο {στην τεχνολογία βίντεο} 
+field {in video   technology} 
+πεδίο συνεχούς ρεύματος, πεδίο dc 
+dc field 
+πεδίο του χρόνου 
+time domain 
+πεδίο των συχνοτήτων 
+frequency domain 
+πεπλεγμένη συνάρτηση 
+implicit function 
+πεπλεγμένος 
+implicit 
+πεπλοειδής λαμποκοπή 
+veiling glare 
+περιβάλλουσα καμπύλη, περιβάλλουσα 
+envelope curve, envelope 
+περίθλαση 
+diffraction 
+περίθλαση κοντινού πεδίου 
+near-field diffraction 
+περίθλαση μακρινού πεδίου 
+far-field diffraction 
+περίθλαση μηδενικής τάξης 
+zero-order diffraction 
+περίθλαση Μπραγκ, ανάκλαση Μπραγκ 
+Bragg diffraction, Bragg reflection 
+περίθλαση Φράουνχοφερ 
+Fraunhofer diffraction 
+περίθλαση Φρενέλ 
+Fresnel diffraction 
+περιθλαστικά περιορισμένος 
+diffraction limited 
+περικάλυμμα 
+housing 
+περιορισμένη προώθηση 
+restricted launch 
+περιοριστικό άνοιγμα 
+limiting aperture 
+περιοχή 
+range 
+περιοχή χωρίς επικάλυψη, ελεύθερη φασματική 
+περιοχή 
+range without overlap, free spectral 
+range 
+περιστροφέας Φάραντεϊ 
+Faraday rotator 
+60 
+Ελληνικός όρος 
+Αγγλικός όρος 
+περιτύλιξη ατράκτου, περιτύλιξη μαντρελιού 
+mandrel wrap 
+πετάλιο, φολίδα 
+lamella 
+πέτασμα, οθόνη 
+screen 
+πηγή γραμμικού φάσματος 
+line source 
+πηγή Λάμπερτ 
+Lambertian source 
+πηνίζω ίνα {περιτυλίσσω ίνα σε κυλινδρικό 
+μασούρι}  
+spool a fiber {v.} 
+πήνιση ίνας 
+spooling of a fiber 
+πίδακας βαφής 
+dye jet 
+πιεζοηλεκτρικός εκκινητής, πιεζοηλεκτρικός 
+ενεργοποιητής 
+piezoelectric actuator 
+πιεζοηλεκτρικός κρύσταλλος 
+piezoelectric crystal 
+πλαίσιο {στην τεχνολογία βίντεο} 
+frame {in video   technology} 
+πλάκα, πλακίδιο 
+slab 
+πλακίδιο 
+plate 
+πλακίδιο ζωνών 
+zone plate 
+πλακίδιο ζωνών φάσης 
+phase zone plate 
+πλακίδιο ζωνών Φρενέλ 
+Fresnel zone plate 
+πλακίδιο καθυστέρησης κύματος 
+wave plate 
+πλακίδιο λ/4 
+quarter-wave plate 
+πλακίδιο φάσεων 
+phase plate 
+πλακοειδής κυματοδηγός 
+slab waveguide 
+πλάτος 
+amplitude 
+πλέγμα, εσχάρα 
+grid 
+πλεονάζων 
+superfluous 
+πλευρά,πλευρική έδρα 
+facet 
+πλευρικός λοβός 
+sidelobe 
+πληθυσμός 
+population 
+πλήρες εύρος ημιμεγίστου 
+full width at half-maximum ( amplitude 
+of response ) 
+πλήρωση του ανοίγματος 
+filling the aperture 
+πλινθίο 
+chip 
+πολυδιαδρομική παραμόρφωση, παραμόρφωση 
+πολλών διαδρομών 
+multipath distortion 
+πολυμεθακρυλικός μεθυλεστέρας, PMMA  
+polymethyl methacrylate, PMMA 
+πολυπλέκτης 
+multiplexer 
+πολυπλέκτης διαίρεσης μήκους κύματος 
+wavelength-division multiplexer 
+πολυστοιχειακός 
+multielement 
+ 
+61 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+πολυστρωσικό κάτοπτρο, κάτοπτρο πολλών 
+στρώσεων 
+multilayer mirror 
+πολωμένο φως 
+polarized light 
+πολωτής 
+polarizer 
+πολωτικά γυαλιά ηλίου 
+polarizing sunglasses 
+πολωτικό πρίσμα 
+polarizing prism 
+πολωτικό υμένιο 
+polarizing film 
+πολωτικός διχαστής δέσμης 
+polarizing beam splitter 
+πομπός 
+transmitter 
+ποσό 
+amount {n.} 
+πραγματικό αντικείμενο 
+real object 
+πραγματικό είδωλο 
+real image 
+πρεσβυωπία 
+presbyopia 
+πρίσμα 
+prism 
+πρίσμα Γκλαν-Τόμσον 
+Glan-Thomson prism 
+πρίσμα Νίκολ 
+Nicol prism 
+πρισματικό στοιχείο 
+prism element 
+πρισματικός συζεύκτης, πρισματικός ζεύκτης 
+prism coupler 
+προάγομαι 
+advance {v.} 
+προαγωγή 
+advance {n.} 
+προβολέας 
+projector 
+προβολή 
+projection 
+προμορφή 
+preform 
+προσαρμογή 
+adaptation 
+προσαρμογή ρυθμών 
+mode matching 
+προσαρμογή φάσης 
+phase matching 
+προσαρμοσμένο φίλτρο 
+matched filter 
+προσαρμοσμένος κατά φάση 
+phase-matched 
+προσαρμοσμένος στο έντονο φως 
+bright adapted 
+προσαρμοσμένος στο σκοτάδι 
+dark adapted 
+προσαρμοστία 
+accommodation 
+προσηλώνομαι 
+fixate {v.} 
+πρόσθετο, πρόσθετη ουσία 
+additive 
+προσκολλώ με χρήση εποξειδικής ρητίνης 
+epoxy {v.} 
+προσκρούω 
+impinge {v.} 
+πρόσμειξη 
+doping 
+πρόσμειξη 
+impurity 
+προσομοιωτής 
+simulator 
+62 
+Ελληνικός όρος 
+Αγγλικός όρος 
+προσομοιωτής ισορροπίας ρυθμών 
+equilibrium mode simulator 
+προσοφθάλμιος (φακός) 
+eyepiece 
+προτιμώμενη κατεύθυνση 
+preferred direction 
+πρόχειρα, χονδρικά 
+roughly 
+προώθηση δέσμης με οπτικά στοιχεία 
+beam-optics launch 
+πρωτεύουσα ανακατασκευή 
+primary reconstruction 
+πρώτο παράθυρο 
+first window 
+πυκνότητα υποβάθρου 
+base density 
+πυκνώνω 
+pack {v.} 
+πυρήνας 
+core 
+πυριτία 
+silica 
+πυριτύαλος 
+flint glass 
+πυροηλεκτρικός ανιχνευτής 
+pyroelectric detector 
+πυρόμετρο 
+pyrometer 
+πυρόμετρο ακτινοβολίας 
+radiation pyrometer 
+Ρ 
+ραβδίο 
+rod 
+ράβδωση, ρίγα 
+stripe 
+ράχη 
+ridge 
+ρεύμα διαρροής 
+leakage current 
+ρεύμα σκότους 
+dark current 
+ρευστό με προσαρμογή στον δείκτη διάθλασης 
+index-matching fluid 
+ρητώς, σαφώς 
+explicitly 
+ριπή 
+burst 
+ρυθμικός θόρυβος, τροπικός θόρυβος 
+modal noise 
+ρυθμοκλειδωμένος 
+mode-locked 
+ρυθμός ακτινοβολίας 
+radiation mode 
+ρυθμός υποστρώματος 
+substrate mode 
+ρυθμός, τρόπος 
+mode 
+ρωγμή 
+crack 
+Σ 
+σάρωση κοντινού πεδίου 
+near-field scanning 
+σήμα πτώσης {της τιμής μεγέθους} 
+glitch 
+σημαδιογραφημένο φράγμα 
+blazed grating 
+σημαδιογραφία 
+blazing 
+σημαδιογραφούμενη γωνία 
+blazing angle 
+ 
+63 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+σημαδιογραφώ 
+blaze {v.} 
+σημειακή πηγή 
+point source 
+σημείο αντικειμένου 
+object point 
+σημείο ειδώλου 
+image point 
+σκέδαση 
+scattering 
+σκέδαση Ρέιλεϊ 
+Rayleigh scattering 
+σκοτωπική όραση 
+scotopic vision 
+σμηκτικός υγρός κρύσταλλος 
+smectic liquid crystal 
+σταθερά Βέρντετ 
+Verdet constant 
+σταθερά διάδοσης 
+propagation constant 
+σταθερά Κερ 
+Kerr constant 
+σταθερά Στέφαν-Μπόλτζμαν 
+Stefan-Boltzmann constant 
+σταθερά του Πλανκ 
+Planck’s constant 
+σταθερά χρόνου 
+time constant 
+στενόπορος τριχοειδής σωλήνας 
+tight capillary 
+στερεωτής, σταθεροποιητής 
+fixer, hypo 
+στεφανύαλος 
+crown glass 
+στήλη 
+pile 
+στιλβώνω 
+polish {v.} 
+στίλβωση 
+polishing 
+στιλπνότητα 
+polish {n.} 
+στοίβα 
+stack 
+στοίβα τετάρτου μήκους κύματος, στοίβα λ/4 
+quarter-wave stack 
+στόχος διακριτικής ικανότητας 
+resolution target 
+στόχος τριών ράβδων 
+three-bar target 
+στρογγυλευμένος 
+rounded 
+στρώμα 
+layer 
+στρώση απογύμνωσης 
+depletion layer 
+στρώση τετάρτου μήκους κύματος, στρώση λ/4 
+quarter-wave layer 
+στύλος 
+post 
+συγκεντρική κοιλότητα, ομόκεντρη κοιλότητα 
+concentric cavity 
+συγκέντρωση 
+concentration 
+συγκεντρωτικός μεγεθυντής {φακός} 
+condenser enlarger {lens} 
+συγκεντρωτικός φακός 
+condensing lens 
+σύγκλιση 
+convergence 
+συγκολλώ 
+cement {v.} 
+συγχρονισμός 
+synchronization, synch {video 
+technology} 
+64 
+Ελληνικός όρος 
+Αγγλικός όρος 
+συζευγνύω 
+couple 
+συζεύκτης, ζεύκτης 
+coupler 
+σύζευξη 
+coupling 
+σύζευξη ρυθμών 
+mode coupling 
+συζυγές σημείο 
+conjugate point 
+συζυγής ανακατασκευή 
+conjugate reconstruction 
+συζυγής απόσταση 
+conjugate distance 
+συλλέγων φακός 
+collecting lens 
+συλλογή 
+collection 
+συμβολή 
+interference 
+συμβολόμετρο 
+interferometer 
+συμβολόμετρο Μάικελσον 
+Michelson interferometer 
+συμβολόμετρο Μαχ Τσέντερ 
+Mach-Zehnder interferometer 
+συμβολόμετρο Τουάιμαν-Γκριν 
+Twyman-Green interferometer 
+συμβολόμετρο Φαμπρί-Περό 
+Fabry-Perot interferometer 
+συμπαγής κυματοδηγός 
+compact waveguide 
+συμπληρωματικό πέτασμα 
+complementary screen 
+σύμπυκνος δίσκος, CD  
+compact disk, CD 
+σύμφυρμα 
+concoction 
+σύμφωνη συνάρτηση μεταφοράς 
+coherent transfer function 
+συμφωνία, συνεκτικότητα 
+coherence 
+σύμφωνο υπόβαθρο 
+coherent background 
+σύμφωνος, συνεκτικός 
+coherent 
+συνάρτηση εξάπλωσης σημείου 
+point-spread function, impulse 
+response 
+συνάρτηση κόρης 
+pupil function 
+συνάρτηση μεταφοράς 
+transfer function 
+συνάρτηση μεταφοράς διαμόρφωσης, ΣΜΔ 
+modulation transfer function, MTF 
+συνάρτηση σομπρέρο, συνάρτηση τζινκ 
+sombrero function or jinc function  
+συνάρτηση τζινκ, συνάρτηση σομπρέρο 
+jinc function, sombrero function 
+συνδετήρας, σύνδεσμος 
+connector 
+συνέλιξη 
+convolution 
+συνένωση, αμμάτιση {μάτισμα} 
+splice 
+συνεπαφή, ανακαμπή 
+cusp 
+συνεστιακή κοιλότητα, ομοεστιακή κοιλότητα 
+confocal cavity 
+συνεστιακό συμβολόμετρο Φαμπρί-Περό, 
+oμοεστιακό συμβολόμετρο Φαμπρί-Περό 
+confocal Fabry-Perot interferometer 
+συνεστραμμένος 
+twisted 
+ 
+65 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+σύνθεση 
+composition 
+σύνθετο μικροσκόπιο 
+compound microscope 
+συνθήκες περιορισμένης προώθησης 
+restricted launch conditions 
+συνθήκη διέγερσης 70-70 
+70-70 excitation condition 
+συντελεστής ανάκλασης, ανακλαστικότητα 
+reflectance 
+συντελεστής απορρόφησης 
+absorption coefficient 
+συντονίσιμο λέιζερ 
+tunable laser 
+συντονιστής δακτυλίου 
+ring resonator 
+συσκευή 
+device 
+συσκευή σχηματισμού ειδώλου, συσκευή 
+απεικόνισης 
+imaging device 
+σύσταση 
+composition 
+σύστημα προβολής 
+projector system 
+σύστημα σταθερής παρέκκλισης 
+constant-deviation system  
+σύστημα συλλογικής τηλεόρασης 
+community television system 
+συστημική έποψη 
+system aspect 
+συστοιχία, παράταξη 
+array 
+συστρέφω 
+twist {v.} 
+συχνότητα αποκοπής 
+cutoff frequency 
+συχνότητα Νίκουιστ 
+Nyquist frequency 
+σφαίρα ολοκλήρωσης 
+integrating sphere 
+σφαιρικό κύμα 
+spherical wave 
+σφάλμα στοίβασης 
+stacking fault 
+σφήνα 
+wedge 
+σχεδόν εφαπτομενική πρόσπτωση, ξυστή 
+πρόσπτωση 
+grazing incidence 
+σχετικό άνοιγμα 
+relative aperture 
+σχήμα 
+figure 
+σχηματομορφή 
+pattern 
+σχίζω {κατά φυσική έδρα κρυστάλλου} 
+cleave 
+σχισμός {κατά φυσική έδρα κρυστάλλου} 
+cleavage 
+σωλήνας 
+tube 
+σωλήνας εκκένωσης αίγλης 
+glow discharge tube 
+Τ 
+ταινία ή κορδέλα ή λωρίδα 
+ribbon 
+ταινιοειδής κυματοδηγός 
+strip waveguide 
+ταινιωτό νήμα, ταινιοειδές νήμα 
+ribbon filament 
+66 
+Ελληνικός όρος 
+Αγγλικός όρος 
+τακτική ακτίνα 
+ordinary ray 
+ταλάντωση χαλάρωσης 
+relaxation oscillation 
+τάξη 
+order 
+τάξη βραχείας εμβέλειας 
+short range order 
+τάξη μακράς εμβέλειας 
+long range order 
+τάξη συμβολής 
+order of interference 
+τάση 
+stress 
+τάση λ/4 
+quarter-wave voltage 
+ταχύς άξονας 
+fast axis 
+ταχύτητα ομάδας, ομαδική ταχύτητα 
+group velocity 
+ταχύτητα του φωτός 
+speed of light 
+ταχύτητα του φωτός {διάνυσμα} 
+velocity of light 
+ταχύτητα φάσης, φασική ταχύτητα 
+phase velocity 
+ταχύτητα φωτοφράκτη 
+shutter speed 
+τελεία, στιγμή 
+dot 
+τέλειο σύστημα σχηματισμού ειδώλου, τέλειο 
+σύστημα απεικόνισης 
+perfect imaging system 
+τεμαχισμός 
+chopping 
+τεμαχιστής 
+chopper 
+τερματική όψη, ακρική όψη 
+end face 
+τετηγμένος χαλαζίας 
+fused quartz 
+τετραγωνικός παράγοντας φάσης 
+quadratic phase factor 
+τηλεδιαφωνία 
+far end crosstalk 
+τηλεσκόπιο 
+telescope 
+τηλεσκόπιο του Γαλιλαίου 
+Galilean telescope 
+τηλεσκόπιο του Νεύτωνα 
+Newtonian telescope 
+τοπικό αριθμητικό άνοιγμα 
+local numerical aperture 
+τοπικό δίκτυο 
+LAN, local area network 
+τοπικό δίκτυο, LAN 
+local area network or LAN  
+τόρνευση διαμαντιού 
+diamond turning 
+τόρνος 
+lathe 
+τραχυμένη επιφάνεια 
+roughened surface 
+τραχύνω 
+roughen {v.} 
+τραχύς 
+rough 
+τραχύτητα 
+roughness 
+τρεμόσβημα 
+flicker 
+τρεμοσβήνω 
+flicker {v.} 
+τριαδικότητα του φωτός, τριαδισμός του φωτός 
+triplicity of light 
+ 
+67 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+τρίβω 
+rub {v.} 
+τρίδυμη στάθμη 
+triplet level 
+τριπλοεστιακά γυαλιά 
+trifocals 
+τρίτο παράθυρο 
+third window 
+τριχοειδής (σωλήνας) 
+capillary (tube) 
+τρίψιμο 
+rubbing 
+τσόχινη επένδυση 
+felt pad 
+τυπική απόκλιση 
+standard deviation 
+τύπος βέλους 
+sagitta formula, sag formula 
+Υ 
+ύαλος νατρασβέστου 
+soda-lime glass 
+υαλώδης πυριτία 
+vitreous silica 
+υβριδικός 
+hybrid 
+υγρός κρύσταλλος 
+liquid crystal 
+υμένιο  
+film {in materials science} 
+υπερηχητικός διαμορφωτής φωτός, 
+ακουστοοπτικός διαμορφωτής φωτός 
+ultrasonic light modulator, acousto-
+optic light modulator 
+υπεριώδες 
+ultraviolet 
+υπερμετρωπία 
+far-sightedness, hyperopia 
+υπερμετρωπία 
+hyperopia, far-sightedness 
+υπερμικροσκόπιο 
+ultramicroscope 
+υπερπληρούμενη ίνα 
+overfilled fiber 
+υπερστιλβωμένος 
+superpolished 
+υπερστιλβωτικό 
+superpolish 
+υπέρστρωμα 
+superstrate 
+υπερτίναξη 
+overshoot 
+υπέρυθρο (φάσμα) 
+infrared 
+υποβάθμιση 
+degradation 
+υποθειώδες θειοθειικό νάτριο, υποσουλφίτ 
+hypo 
+υποκειμενικό κοκκίωμα 
+subjective speckle pattern 
+υποκείμενος 
+underlying 
+υποπληρούμενη ίνα 
+underfilled fiber 
+υποστήριγμα 
+mount 
+υπόστρωμα 
+substrate 
+υποτίναξη 
+undershoot 
+υψιπερατό φίλτρο, φίλτρο διέλευσης υψηλών 
+συχνοτήτων 
+high-pass filter 
+68 
+Ελληνικός όρος 
+Αγγλικός όρος 
+Φ 
+φαινόμενη παραμόρφωση προοπτικής 
+apparent perspective distortion 
+φαινόμενο Κερ 
+Kerr effect, electro-optic effect 
+φαινόμενο Πόκελς 
+Pockels effect 
+φαινόμενο Φάραντεϊ 
+Faraday effect 
+φαιό σώμα, γκρίζο σώμα 
+graybody 
+φακός βαθμιαίου δείκτη (διάθλασης) 
+graded-index lens 
+φακός επιπέδου πεδίου 
+flat-fielded lens 
+φακός κυματοδηγού 
+waveguide lens 
+φακός Λάνμπεργκ 
+Luneberg lens 
+φακός Μπάρλοου 
+Barlow lens 
+φακός περίθλασης 
+diffraction lens 
+φακός προβολής 
+projection lens 
+φακός ρυθμού-δείκτη 
+mode-index lens 
+φακός Φρενέλ 
+Fresnel lens 
+φακός χειρός 
+hand lens 
+φανταστικό αντικείμενο 
+virtual object 
+φανταστικό είδωλο 
+virtual image 
+φάση 
+phase 
+φασιθετημένος  
+phased 
+φασιθέτηση, ευθυγράμμιση φάσης 
+phasing 
+φασιθετώ, θέτω σε φάση 
+phase {v.} 
+φασιστοιχία, φράγμα συστοιχίας κυματοδηγών, 
+φασιθετημένη συστοιχία κυματοδηγών 
+phasar, arrayed waveguide grating, 
+phased array 
+φάσμα 
+spectrum 
+φασματική αποκριτικότητα 
+spectral responsivity 
+φασματική ευαισθησία του ματιού 
+spectral sensitivity of the eye 
+φασματικός αναλύτης 
+spectrum analyzer 
+φασματικός ρυθμός, αξονικός ρυθμός, διαμήκης 
+ρυθμός,  
+spectral mode, axial mode, 
+longitudinal mode 
+φασματόμετρο 
+spectrometer 
+φασματοσκοπία μετασχηματισμών Φουριέ 
+Fourier-transform spectroscopy 
+φασματοσκόπιο 
+spectroscope 
+φθίνον κύμα 
+evanescent wave 
+φιλμ  
+film {in photography} 
+φιλτράρισμα, διήθηση 
+filtering 
+φίλτρο ρυθμών 
+mode filter, see also: mode stripper 
+ 
+69 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+φίλτρο ρυθμών τύπου περιτύλιξης ατράκτου, 
+φίλτρο ρυθμών τύπου περιτύλιξης μαντρελιού 
+mandrel-wrap mode filter 
+φίλτρο συμβολής 
+interference filter 
+φίλτρο, ηθμός 
+filter 
+φορμαλισμός 
+formalism 
+φράγμα 
+grating 
+φράγμα περίθλασης 
+diffraction grating 
+φράγμα συστοιχίας κυματοδηγών, φασιθετημένη 
+συστοιχία κυματοδηγών, φασιστοιχία 
+arrayed waveguide grating, phased 
+array, phasar 
+φράσσω {μια δέσμη λέιζερ} 
+block {v.} {a laser beam} 
+φύλλο 
+sheet 
+φως 
+light 
+φως έκλαμψης 
+flare light 
+φωτεινή απόδοση 
+luminous efficiency 
+φωτεινή αποδοτικότητα 
+luminous efficacy 
+φωτεινή ένταση, φωτοβολία 
+luminous intensity 
+φωτεινή ισχύς 
+luminous power 
+φωτεινή ροή 
+luminous flux 
+φωτεινότητα 
+brightness 
+φωτισμός 
+illuminance, illumination 
+φωτισμός Κέλερ 
+Köhler illumination 
+φωτισμός σκοτεινού πεδίου 
+dark-field illumination 
+φωτισμός σκοτεινού υποβάθρου 
+dark-ground illumination 
+φωτοαγωγικός ανιχνευτής 
+photoconductive detector 
+φωτοαγωγός 
+photoconductor 
+φωτοβολταικός ανιχνευτής 
+photovoltaic detector 
+φωτογραφικός τηλεφακός 
+telephoto lens 
+φωτογράφιση κοντινών πλάνων 
+close-up photography 
+φωτοδίοδος 
+photodiode 
+φωτοδίοδος pn, φωτοδίοδος pin 
+pn photodiode, pin photodiode 
+φωτοδίοδος εκπομπής 
+light-emitting diode 
+φωτοδίοδος κενού 
+vacuum photodiode 
+φωτοδίοδος χιονοστιβάδας 
+avalanche photodiode 
+φωτοηλεκτρικό φαινόμενο 
+photoelectric effect 
+φωτοηλεκτρόνιο 
+photoelectron 
+φωτοκάθοδος 
+photocathode 
+φωτολυχνία 
+phototube 
+φωτομετρία 
+photometry 
+70 
+Ελληνικός όρος 
+Αγγλικός όρος 
+φωτομικρογράφημα 
+photomicrograph 
+φωτονικός θόρυβος, κβαντικός θόρυβος, θόρυβος 
+βολής 
+photon noise, shot noise, quantum 
+noise 
+φωτόνιο 
+photon 
+φωτοπολλαπλασιαστής 
+photomultiplier, photomultiplier tube 
+φωτοφράκτης 
+shutter 
+φωτωπική όραση 
+photopic vision 
+Χ 
+χαλαζίας 
+quartz 
+χαλαρώνω 
+relax {v.} 
+χαλάρωση 
+relaxation 
+χαμηλοπερατό φίλτρο, φίλτρο διέλευσης 
+χαμηλών συχνοτήτων 
+low-pass filter 
+χαρακτηριστική καμπύλη 
+characteristic curve 
+χαρακώνω (φράγμα) 
+rule (a grating) {v.} 
+χαράκωση 
+ruling 
+χρήσιμη μεγεθυντική ισχύς 
+useful magnifying power 
+χρονική συμφωνία 
+temporal coherence 
+χρόνος απόκρισης 
+response time 
+χρόνος διάβασης 
+transit time 
+χρόνος έκθεσης 
+exposure time 
+χρόνος ζωής κοιλότητας 
+cavity lifetime 
+χρόνος συμφωνίας 
+coherence time 
+χρωματική διακριτική ισχύς 
+chromatic resolving power 
+χρωματική διασπορά 
+chromatic dispersion 
+χρωματική εκτροπή, χρωματική αποπλάνηση  
+chromatic aberration 
+χρωματικό διακριτικό όριο 
+chromatic resolution limit 
+χρωματικός διασκεδασμός 
+chromatic scattering 
+χωρητικότητα 
+capacity 
+χωρητικότητα μεταφοράς πληροφοριών 
+information-carrying capacity 
+χωρική συμφωνία 
+spatial coherence 
+χωρική συχνότητα 
+spatial frequency 
+χωρικό φίλτρο 
+spatial filter 
+χωρικός διαμορφωτής φωτός 
+spatial light modulator 
+Ψ 
+ψευδωνυμία 
+aliasing 
+ψηφιακοποιητής 
+digitizer 
+ 
+71 
+ 
+Ελληνικός όρος 
+Αγγλικός όρος 
+ψηφιακοποιητής 
+frame digitizer 
+ψηφιδόπλεγμα 
+raster 
+Ω 
+ωχρά κηλίδα 
+macula lutea 
+ 
+ 
+ 
+ 

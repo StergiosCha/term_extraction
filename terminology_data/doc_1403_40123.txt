@@ -1,0 +1,1840 @@
+SOURCE: http://www.eleto.gr/download/Bodies/ELETO-MOTO_5G_Glossary.pdf
+
+ΕΛΕΤΟ 
+Γενικό Επιστημονικό Συμβούλιο (ΓΕΣΥ) 
+Συλλογικό Μέλος: 
+ΜΟΤΟ (Μόνιμη Ομάδα Τηλεπικοινωνιακής Ορολογίας) 
+ 
+Φεβρουάριος 2021 
+ 
+ 
+ 
+Αγλοελληνικό γλωσσάριο όρων και συντομομορφών  
+της 5ης γενιάς κινητών επικοινωνιών (5G) 
+Πηγές: 
+ΚΤ:  Keysight Technologies: 5G terms and acronyms 
+(https://www.keysight.com/us/en/assets/7018-06171/brochures/5992-2996.pdf, 
+https://pupuweb.com/5g-terms-acronyms/ ) 
+ETSI: TErms and Definitions Database Interactive (TEDDI) (https://webapp.etsi.org/Teddi/) 
+ 
+Ι.   Αγγλοελληνικό Γλωσσάριο Όρων 5G 
+(209 λήμματα) 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+2nd Generation  
+{of mobile communications} 
+2G 
+2
+η γενιά {κινητών επικοινωνιών} 
+KT 
+3rd Generation  
+{of mobile communications} 
+3G 
+3
+η γενιά {κινητών επικοινωνιών} 
+KT 
+3rd Generation Partnership 
+Project 
+3GPP 
+Εταιρισμικό Έργο 3
+ης Γενιάς 
+KT 
+4th Generation 
+{of mobile communications} 
+4G 
+4
+η γενιά {κινητών επικοινωνιών} 
+KT 
+5G access network 
+5G-AN 
+δίκτυο πρόσβασης 5G 
+ETSI 
+5G AS secondary cell security 
+context 
+ 
+συγκείμενο ασφάλειας 5G AS δευτερεύουσας 
+κυψέλης  
+ETSI 
+5G AS security context for 3GPP 
+access 
+ 
+συγκείμενο ασφάλειας 5G AS για πρόσβαση 
+3GPP 
+ETSI 
+5G AS security context for non-
+3GPP access 
+ 
+συγκείμενο ασφάλειας 5G AS για πρόσβαση μη 
+3GPP 
+ETSI 
+5G authentication vector 
+5G AV 
+διάνυσμα διακρίβωσης 5G 
+ETSI 
+5G core 
+5GC 
+πυρήνας 5G 
+ETSI 
+5G core Network 
+5GC 
+δίκτυο πυρήνα 5G 
+ETSI 
+5G home environment 
+authentication vector 
+5G HE AV 
+διάνυσμα διακρίβωσης πάτριου περιβάλλοντος 
+ETSI 
+5G infrastructure public private 
+partnership 
+5GPPP 
+δημόσιος και ιδιωτικός εταιρισμός υποδομής 
+5ης γενιάς 
+ETSI 
+5G NAS security context 
+ 
+συγκείμενο ασφάλειας 5G NAS 
+ETSI 
+5G New Radio 
+5GNR 
+νἐο ραδιοδίκτυο 
+ETSI 
+5G QoS flow 
+ 
+ροή 5G QoS 
+ETSI 
+E 
+Λ  
+Ε  Τ  Ο 
+L 
+E 
+2 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+5G QoS identifier 
+ 
+αναγνωριστικό 5G QoS 
+ETSI 
+5G Radio Access Network 
+5G-RAN 
+δίκτυο ραδιοπρόσβασης 5G 
+ETSI 
+5G security context 
+ 
+συγκείμενο ασφάλειας 5G 
+ETSI 
+5G serving environment 
+authentication vector 
+5G SE AV 
+διάνυσμα διακρίβωσης περιβάλλοντος 
+εξυπηρέτησης 5G 
+ETSI 
+5G S-temporary mobile 
+subscription identifier 
+5G-S-TMSI 
+προσωρινό αναγνωριστικό κινητής συνδρομής 
+5G S 
+ETSI 
+5G system 
+5GS 
+σύστημα 5G 
+ETSI 
+5G temporary mobile 
+subscription identifier 
+5G-TMSI 
+προσωρινό αναγνωριστικό κινητής συνδρομής 
+5G 
+ETSI 
+5G-equipment identity register 
+5G-EIR 
+καταχωρητής ταυτότητας εξοπλισμού 5G 
+ETSI 
+5G-globally unique temporary 
+identifier 
+5G-GUTI 
+καθολικά μοναδικό προσωρινό αναγνωριστικό 
+5G 
+ETSI 
+5GMM-CONNECTED mode 
+ 
+τρόπος 5GMM-CONNECTED 
+ETSI 
+5GMM-CONNECTED mode over 
+3GPP access 
+ 
+τρόπος 5GMM-CONNECTED μέσω πρόσβασης 
+3GPP 
+ETSI 
+5GMM-CONNECTED mode over 
+non-3GPP access 
+ 
+τρόπος 5GMM-CONNECTED μέσω πρόσβασης 
+μη 3GPP 
+ETSI 
+5GMM-IDLE mode 
+ 
+τρόπος 5GMM-IDLE 
+ETSI 
+5GMM-IDLE mode over 3GPP 
+access 
+ 
+τρόπος 5GMM-IDLE μέσω πρόσβασης 3GPP 
+ETSI 
+5GMM-IDLE mode over non-
+3GPP access 
+ 
+τρόπος 5GMM-IDLE μέσω πρόσβασης μη 3GPP 
+ETSI 
+5GS encryption algorithm 
+5G-EA 
+αλγόριθμος έγκρυψης, αλγόριθμος 
+κρυπτοθέτησης 
+ETSI 
+5GS integrity algorithm 
+5G-IA 
+αλγόριθμος ακεραιότητας 5GS 
+ETSI 
+5GS mobility management 
+5GMM 
+διαχείριση κινητότητας 5GS 
+ETSI 
+5GS services 
+ 
+υπηρεσίες 5GS 
+ETSI 
+5GS session management 
+5GSM 
+διαχείριση συνόδου 5GS 
+ETSI 
+5th generation mobile networks 
+5G 
+κινητά δίκτυα 5ης γενιάς 
+ETSI 
+5th generation cellular network 
+technology 
+5G 
+τεχνολογία κυψελοειδών δικτύων 5ης γενιάς 
+ETSI 
+5th generation of cellular mobile 
+communications 
+5G 
+5η γενιά κυψελοειδών κινητών επικοινωνιών 
+ETSI 
+5th Generation 
+{of mobile communications} 
+5G 
+5
+η γενιά {κινητών επικοινωνιών} 
+KT 
+access and mobility management 
+function  
+AMF 
+λειτουργία διαχείρισης πρόσβασης και 
+κινητότητας 
+KT 
+adjacent channel leakage ratio 
+ACLR 
+λόγος διαρροής παρακείμενου καναλιού 
+KT 
+adjacent channel power 
+ACP 
+ισχύς παρακείμενου καναλιού 
+KT 
+adjacent channel power ratio 
+ACPR 
+λόγος ισχύος παρακείμενου καναλιού 
+KT 
+AM distortion 
+ 
+παραμόρφωση AM 
+KT 
+AM/PM distortion 
+ 
+παραμόρφωση AM/PM 
+KT 
+3 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+antenna array tool 
+AAT 
+εργαλείο κεραιοσυστοιχίας 
+KT 
+antenna reciprocity 
+ 
+αντιστροφή κεραίας 
+KT 
+arbitrary waveform generator 
+AWG 
+γεννήτρια αυθαίρετων κυματομορφών 
+KT 
+authentication server function 
+AUSF 
+λειτουργία εξυπηρετητή εξακρίβωσης 
+(ταυτότητας) 
+KT 
+backhaul 
+ 
+οπισθοζευκτικό 
+KT 
+base station network emulator 
+ 
+εξομοιωτής δικτύου σταθμού βάσης 
+KT 
+baseband unit 
+BBU 
+μονάδα ζώνης βάσης 
+KT 
+beam acquisition 
+ 
+απόκτηση δέσμης 
+KT 
+beam forming, beamforming 
+ 
+σχηματισμός δέσμης 
+KT 
+beam steering 
+ 
+καθοδήγηση δέσμης 
+KT 
+carrier aggregation 
+ 
+συνάθροιση φερουσών 
+KT 
+cell tower 
+ 
+πύργος κυψελοειδούς δικτύου 
+KT 
+cell-specific reference signal 
+CRS 
+κυψελοείδιο σήμα αναφοράς 
+KT 
+centralized RAN 
+C-RAN 
+κεντρικοποιημένο RAN 
+KT 
+channel emulator 
+CE 
+εξομοιωτής καναλιού 
+KT 
+channel impulse response 
+CIR 
+παλμωθητική απόκριση καναλιού 
+KT 
+channel state information 
+CSI 
+πληροφορίες κατάστασης καναλιού 
+KT 
+common phase error 
+CPE 
+σφάλμα κοινής φάσης 
+KT 
+common public radio interface 
+CPRI 
+κοινή δημόσια ραδιοδιεπαφή 
+KT 
+compact antenna test range 
+CATR 
+κλειστή περιοχή δοκιμών κεραίας 
+KT 
+control plane 
+ 
+επίπεδο ελέγχου 
+KT 
+control user plane separation 
+CUPS 
+διαχωρισμός επιπέδου ελέγχου και επιπέδου 
+χρήστη 
+KT 
+coordinated multipoint 
+CoMP 
+συντονισμένη πολυσημειακή {τεχνική} 
+KT 
+core network 
+ 
+δίκτυο πυρήνα 
+KT 
+current 5G security context 
+ 
+τρέχον συγκείμενο ασφάλειας 5G 
+ETSI 
+cyclic prefix orthogonal 
+frequency division multiplexing 
+CP-OFDM 
+ορθογωνική πολυπλεξία διαίρεσης συχνότητας 
+κυκλικού προθήματος 
+KT 
+data plane 
+ 
+επίπεδο δεδομένων 
+KT 
+device under test 
+DUT 
+υπό δοκιμή διάταξη 
+KT 
+direct far field 
+DFF 
+άμεσο μακρινό πεδίο 
+KT 
+discrete fourier transform spread 
+orthogonal frequency division 
+multiplexing 
+DFT-s-
+OFDM 
+πολυπλεξία ορθογωνικής διαίρεσης 
+συχνότητας διάκριτου μετασχηματισμού Φουριέ 
+φασματικής εξάπλωσης 
+KT 
+downlink 
+DL 
+κατερχόμενη ζεύξη 
+KT 
+effective isotropic radiated 
+power 
+EIRP 
+ενεργός ισοτροπική ακτινοβολούμενη ισχύς 
+KT 
+eLTE eNB 
+eLTE eNB 
+eLTE eNB 
+KT 
+enhanced mobile broadband 
+eMBB 
+βελτιωμένες κινητές ευρυζωνικές (επικοινωνίες) 
+KT 
+4 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+enhanced universal terrestrial 
+radio access 
+E-UTRA 
+βελτιωμένη παγκόσμια επίγεια ραδιοπρόσβαση 
+ETSI 
+error vector magnitude 
+EVM 
+μέτρο διανύσματος σφάλματος 
+KT 
+E-UTRA connected to 5GC 
+E-
+UTRA/5GC 
+E-UTRA συνδεδεμένη σε 5GC 
+ETSI 
+E-UTRAN New Radio dual 
+connectivity, Evolved UMTS 
+Terrestial Radio Access Network 
+New Radio dual connectivity 
+EN-DC 
+διπλή συνδετικότητα νέου ραδιοδικτύου E-
+UTRAN 
+KT 
+evolved Node B, eNodeB 
+eNB 
+εξελιγμένος κόμβος Β 
+KT 
+evolved packet core, evolved 
+packet core network 
+EPC 
+εξελιγμένος πακετοπυρήνας, εξελιγμένο δίκτυο 
+πακετομεταγωγής πυρήνα 
+KT 
+evolved packet system 
+EPS 
+εξελιγμένο πακετοσύστημα 
+KT 
+Evolved UMTS terrestrial radio 
+access network 
+E-UTRAN 
+εξελιγμένο επίγειο δίκτυο ραδιοπρόσβασης 
+UMTS 
+KT 
+extended range transmission 
+analysis 
+ERTA 
+ανάλυση μετάδοσης επεκτεταμένης περιοχής 
+KT 
+fifth generation mobile 
+technology 
+5G 
+κινητή τεχνολογία πέμπτης γενιάς 
+ETSI 
+fifth generation of mobile 
+networks 
+5G 
+πέμπτη γενιά κινητών δικτύων 
+ETSI 
+filter bank multicarrier 
+FBMC 
+πολλαπλή φέρουσα συγκροτήματος φίλτρων 
+KT 
+first pass yield 
+FPY 
+απόδοση πρώτης διέλευσης 
+KT 
+fixed wireless access 
+FWA 
+σταθερή ασυρματική πρόσβαση 
+KT 
+frequency division duplex 
+FDD 
+συχνοδιαιρετική αμφίδρομη (επικοινωνία) 
+KT 
+frequency range 1 
+FR1 
+περιοχή συχνοτήτων 1 
+KT 
+frequency range 2 
+FR2 
+περιοχή συχνοτήτων 2 
+KT 
+fronthaul 
+ 
+εμπροσθοζευκτικό 
+KT 
+full dimension MIMO 
+FD-MIMO 
+ΜΙΜΟ πλήρους διάστασης 
+KT 
+full native 5G security context 
+ 
+πλήρως εγγενές συγκείμενο ασφάλειας 5G 
+ETSI 
+general packet radio services 
+GPRS 
+γενικές πακετικές ραδιοϋπηρεσίες 
+KT 
+Global Certification Forum 
+GCF 
+Παγκόσμιο Φόρο Πιστοποίησης 
+KT 
+gNodeB 
+gNB 
+5G κόμβος Β 
+KT 
+half duplex 
+HD 
+ημιαμφίδρομο (σύστημα) 
+KT 
+harmonic 
+ 
+αρμονική 
+KT 
+home subscriber server 
+HSS 
+εξυπηρετητής πάτριου συνδρομητή 
+KT 
+indirect far field 
+IFF 
+έμμεσο μακρινό πεδίο 
+KT 
+intercarrier interference 
+ICI 
+διαφερουσική παρεμβολή 
+KT 
+intermediate frequency 
+bandwidth 
+IFBW 
+εύρος ζώνης ενδιάμεσης συχνότητας 
+KT 
+international mobile equipment 
+identity 
+IMEI 
+διεθνής ταυτότητα εξοπλισμού κινητού 
+(σταθμού) 
+KT 
+5 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+international mobile subscriber 
+identity 
+IMSI 
+διεθνής ταυτότητα κινητού συνδρομητή 
+KT 
+International Mobile 
+Telecommunications-2020  
+IMT-2020 
+Διεθνείς Κινητές Τηλεπικοινωνίες 2020 
+KT 
+International Telecommunication 
+Union 
+ITU 
+Διεθνής Ένωση Τηλεπικοινωνιών 
+KT 
+intersymbol interference 
+ISI 
+διασυμβολική παρεμβολή 
+KT 
+key performance indicator 
+KPI 
+κλειδιακός δείκτης επίδοσης 
+KT 
+Layer 1 
+ 
+Στρώμα 1 
+KT 
+Layers 2/3 
+ 
+Στρώματα 2/3 
+KT 
+Layers 4-7 
+ 
+Στρώματα 4-7 
+KT 
+line of sight 
+LoS 
+γραμμή οπτικής επαφής 
+KT 
+local oscillator 
+LO 
+τοπικός ταλαντωτής 
+KT 
+long-term evolution advanced, 
+LTE-advanced 
+LTE-A 
+μακροχρόνια εξέλιξη – προηγμένη 
+KT 
+long-term evolution licensed 
+assisted access 
+LTE-LAA 
+μακροχρόνια εξέλιξη – αδειοδοτημένη 
+υποβοηθούμενη πρόσβαση 
+KT 
+LTE-Advanced Pro 
+ 
+μακροχρόνια εξέλιξη – υπερπροηγμένη 
+KT 
+mapped 5G security context 
+ 
+απεικονισμένο συγκείμενο ασφάλειας 5G 
+ETSI 
+massive machine-type 
+communications 
+mMTC 
+μαζικές επικοινωνίες τύπου μηχανής 
+KT 
+massive MIMO 
+ 
+μαζική MIMO 
+KT 
+measurement uncertainty 
+MU 
+αβεβαιότητα μέτρησης 
+KT 
+millimeter wave 
+mmWave 
+χιλιοστομετρικό κύμα 
+KT 
+mobile country code 
+MCC 
+κωδικός χώρας κινητού (σταθμού) 
+KT 
+mobile industry processor 
+interface 
+MIPI 
+διεπαφή κινητής βιομηχανικού επεξεργαστή 
+KT 
+mobile network code 
+MNC 
+κωδικός κινητού δικτύου 
+KT 
+multi-access edge computing 
+MEC 
+παρυφοϋπολογιστική πολλαπλής πρόσβασης 
+KT 
+multicarrier 
+MC 
+πολλαπλή φέρουσα 
+KT 
+multiple user multiple-input / 
+multiple-output  
+MU-MIMO 
+πολλαπλή είσοδος / πολλαπλή έξοδος πολλών 
+χρηστών, MIMO πολλών χρηστών 
+KT 
+multiple-input / multiple-output 
+MIMO 
+πολλαπλή είσοδος / πολλαπλή έξοδος 
+KT 
+native 5G security context 
+ 
+εγγενές συγκείμενο ασφάλειας 5G 
+ETSI 
+near-field to far-field transform 
+NFTF 
+μετασχηματισμός κοντινού πεδίου σε μακρινό 
+πεδίο 
+KT 
+network equipment 
+manufacturers 
+NEMs 
+κατασκευαστής δικτυακού εξοπλισμού 
+KT 
+network exposure function 
+NEF 
+λειτουργία έκθεσης δικτύου 
+KT 
+network repository function 
+NRF 
+λειτουργία δικτυακού αποθετηρίου 
+KT 
+network slice selection function 
+NSSF 
+λειτουργία επιλογής δικτυοφέτας 
+KT 
+6 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+network vendor interoperability 
+testing  
+NV IOT 
+δοκιμές διαλειτουργικότητας πωλητών δικτύων 
+KT 
+new radio 
+NR 
+νέο ραδιοδίκτυο 
+KT 
+next generation core / next 
+generation core network 
+NGC/NGC
+N 
+πυρήνας επόμενης γενιάς / δίκτυο πυρήνα 
+επόμενης γενιάς 
+KT 
+non-current 5G security context 
+ 
+μη τρέχον συγκείμενο ασφάλειας 5G 
+ETSI 
+non-line of sight 
+NLOS 
+διαδρομή μη οπτικής επαφής 
+KT 
+non-standalone NR 
+NSA NR 
+μη αυτοδύναμο νέο ραδιοδίκτυο, μη 
+αυτοδύναμο NR 
+KT 
+numerology 
+ 
+αριθμολογία 
+KT 
+occupied bandwidth 
+OBW 
+κατειλημμένο εύρος ζώνης, κατειλημμένο 
+ζωνικό εύρος 
+KT 
+offset quadrate amplitude 
+modulation, offset quadrature 
+amplitude modulation 
+OQAM 
+διαμόρφωση πλάτους με μετατόπιση φάσης με 
+ορθογωνισμό 
+KT 
+orthogonal frequency division 
+multiplexing 
+OFDM 
+πολυπλεξία ορθογωνικής διαίρεσης 
+συχνότητας 
+KT 
+over-the-air testing 
+OTA 
+δοκιμές μεσω ραδιοδιεπαφής 
+KT 
+packet data network gateway 
+PGW 
+πύλη δικτύου δεδομένων πακετομεταγωγής 
+KT 
+partial native 5G security context 
+ 
+μερικώς εγγενές συγκείμενο ασφάλειας 5G 
+ETSI 
+PCS Type Certification Review 
+Board 
+PTCRB 
+Συμβούλιο Ανασκόπησης Πιστοποίησης Τύπου 
+PCS 
+KT 
+peak to average power ratio 
+PAPR 
+λόγος ισχύος κορυφής προς μέση τιμή 
+KT 
+phased array antenna 
+ 
+φασικά ελεγχόμενη κεραιοσυστοιχία 
+KT 
+picocell 
+ 
+πικοκυψέλη 
+KT 
+policy control function 
+PCF 
+λειτουργία ελέγχου πολιτικής 
+KT 
+primary synchronization signal 
+PSS 
+πρωτεύον σήμα συγχρονισμού 
+KT 
+pulse-shaped orthogonal 
+frequency division multiplex 
+P-OFDM 
+πολυπλεξία ορθογωνικής διαίρεσης 
+συχνότητας με σχημάτωση παλμών 
+KT 
+quadrature amplitude modulation 
+QAM 
+διαμόρφωση πλάτους με ορθογωνισμό (φάσης) 
+KT 
+quality of experience 
+QoE 
+ποιότητα εμπειρίας 
+KT 
+quality of service 
+QoS 
+ποιότητα υπηρεσίας 
+KT 
+radio access network 
+RAN 
+δίκτυο ραδιοπρόσβασης 
+KT 
+radio access technology 
+RAT 
+τεχνολογία ραδιοπρόσβασης 
+KT 
+radio resource management 
+RRM 
+διαχείριση ραδιοπόρων 
+KT 
+random access channel 
+RACH 
+κανάλι τυχαίας πρόσβασης 
+KT 
+receive 
+Rx 
+λήψη 
+KT 
+remote radio head 
+RRH 
+απομακρυσμένη ραδιοκεφαλή 
+KT 
+secondary synchronization 
+signal 
+SSS 
+δευτερεύον σήμα συγχρονισμού 
+KT 
+service-based architecture 
+SBA 
+υπηρεσιοπαγής αρχιτεκτονική 
+KT 
+7 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+service-based interface exhibited 
+by 5G-EIR 
+N5g-eir 
+υπηρεσιοπαγής διεπαφή που παρουσιάζεται 
+από τον 5G-EIR 
+ETSI 
+session management function 
+SMF 
+λειτουργία διαχείρισης συνόδου 
+KT 
+signal-to-noise and interference 
+ratio 
+SNIR 
+λόγος σήματος προς θόρυβο και παρεμβολές 
+KT 
+signal-to-noise ratio 
+SNR 
+λόγος σήματος προς θόρυβο 
+KT 
+single carrier 
+SC 
+απλή φέρουσα 
+KT 
+single user multiple-input / 
+multiple-output  
+SU-MIMO 
+πολλαπλή είσοδος / πολλαπλή έξοδος ενός 
+χρήστη, ΜΙΜΟ ενός χρήστη 
+KT 
+slot form indicator 
+SFI 
+ενδείκτης θυριδομορφής 
+KT 
+software-defined networking 
+SDN 
+λογισμικόριστη δικτύωση, δικτύωση οριζόμενη 
+από λογισμικό 
+KT 
+spectrum emissions mask 
+SEM 
+μάσκα εκπομπών φάσματος 
+KT 
+standalone NR 
+ 
+αυτοδύναμο νέο ραδιοδίκτυο, αυτοδύναμο NR 
+KT 
+synchronization signal - 
+reference signal received power 
+SS-RSRP 
+σήμα συγχρονισμού – λαμβανόμενη ισχύς 
+σήματος αναφοράς 
+KT 
+synchronization signal reference 
+signal received quality 
+SS-RSRQ 
+σήμα συγχρονισμού – λαμβανόμενη ποιότητα 
+σήματος αναφοράς 
+KT 
+synchronization signal signal-to-
+interference-plus-noise ratio 
+SS-SINR 
+σήμα συγχρονισμού – λόγος σήματος προς 
+παρεμβολές και θόρυβο 
+KT 
+test tolerance 
+TT 
+ανοχή δοκιμής 
+KT 
+time division duplex 
+TDD 
+χρονοδιαιρετική αμφίδρομη επικοινωνία 
+KT 
+transceiver 
+TRX 
+πομποδέκτης 
+KT 
+transmission time interval 
+TTI 
+χρονικό διάστημα μετάδοσης 
+KT 
+transmit 
+Tx 
+εκπομπή 
+KT 
+transmit diversity 
+ 
+διαφορισμός εκπομπής 
+KT 
+UE 5G security capability 
+ 
+ικανότητα ασφάλειας 5G του UE 
+ETSI 
+UE emulation 
+ 
+εξομοίωση εξοπλισμού χρήστη 
+KT 
+ultra-reliable low-latency 
+communications  
+uRLLC 
+υπεραξιόπιστες επικοινωνίες χαμηλής 
+λανθανότητας 
+KT 
+unified data management 
+UDM 
+ενοποιημένη διαχείριση δεδομένων 
+KT 
+unique word orthogonal 
+frequency division multiplexing 
+UW-OFDM 
+μοναδικής λέξης πολυπλεξία ορθογωνικής 
+διαίρεσης συχνότητας 
+KT 
+universal filtered orthogonal 
+frequency division multiplexing 
+UF-OFDM 
+καθολική φιλτραρισμένη πολυπλεξία 
+ορθογωνικής διαίρεσης συχνότητας 
+KT 
+uplink 
+UL 
+ανερχόμενη ζεύξη 
+KT 
+uplink classifier 
+UPCL 
+ταξινομητής ανερχόμενης ζεύξης 
+KT 
+user equipment 
+UE 
+εξοπλισμός χρήστη 
+KT 
+user plane function 
+UPF 
+λειτουργία επιπέδου χρήστη 
+KT 
+vector signal generator 
+VSG 
+γεννήτρια διανυσματικού σήματος 
+KT 
+vector voltmeter 
+VVM 
+διανυσματικό βολτόμετρο 
+KT 
+8 
+ 
+Αγγλικός όρος 
+Αγγλική 
+συντομο-
+μορφή 
+Ελληνικός όρος 
+Πηγή 
+vehicle-to-everything 
+V2X 
+όχημα προς όλα 
+KT 
+virtual EPC 
+vEPC 
+ιδεατός EPC 
+KT 
+voltage standing wave ratio 
+VSWR 
+λόγος στάσιμου κύματος τάσης 
+KT 
+wideband code division multiple 
+access 
+WCDMA 
+ευρυζωνική πολλαπλή πρόσβαση διαίρεσης 
+κώδικα 
+KT 
+windowed orthogonal frequency 
+division multiplexing 
+W-OFDM 
+παραθυρωμένη πολυπλεξία ορθογωνικής 
+διαίρεσης συχνότητας 
+KT 
+Xn interface 
+ 
+διεπαφή Xn 
+KT 
+ 
+ 
+ 
+9 
+ 
+ 
+ΙΙ.  Αγγλοελληνικός Κατάλογος Συντομομορφών 
+(161 λήμματα) 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+2G 
+2nd Generation  
+{of mobile communications} 
+2
+η γενιά {κινητών επικοινωνιών} 
+ΚΤ 
+3G 
+3rd Generation  
+{of mobile communications} 
+3
+η γενιά {κινητών επικοινωνιών} 
+ΚΤ 
+3GPP 
+3rd Generation Partnership 
+Project 
+Εταιρισμικό Έργο 3
+ης Γενιάς 
+ΚΤ 
+4G 
+4th Generation 
+{of mobile communications} 
+4
+η γενιά {κινητών επικοινωνιών} 
+ΚΤ 
+5G 
+5th Generation 
+{of mobile communications} 
+5
+η γενιά {κινητών επικοινωνιών} 
+ΚΤ 
+5G 
+5th generation mobile networks 
+κινητά δίκτυα 5ης γενιάς 
+ETSI 
+5G 
+5th generation cellular network 
+technology 
+τεχνολογία κυψελοειδών δικτύων 5ης γενιάς 
+ETSI 
+5G 
+5th generation of cellular mobile 
+communications 
+5η γενιά κυψελοειδών κινητών επικοινωνιών 
+ETSI 
+5G 
+fifth generation mobile 
+technology 
+κινητή τεχνολογία πέμπτης γενιάς 
+ETSI 
+5G 
+fifth generation of mobile 
+networks 
+πέμπτη γενιά κινητών δικτύων 
+ETSI 
+5G AV 
+5G authentication vector 
+διάνυσμα διακρίβωσης 5G 
+ETSI 
+5G HE AV 
+5G home environment 
+authentication vector 
+διάνυσμα διακρίβωσης πάτριου περιβάλλοντος 
+ETSI 
+5G SE AV 
+5G serving environment 
+authentication vector 
+διάνυσμα διακρίβωσης περιβάλλοντος 
+εξυπηρέτησης 5G 
+ETSI 
+5G-AN 
+5G access network 
+δίκτυο πρόσβασης 5G 
+ETSI 
+5GC 
+5G core 
+πυρήνας 5G 
+ETSI 
+5GC 
+5G core Network 
+δίκτυο πυρήνα 5G 
+ETSI 
+5G-EA 
+5GS encryption algorithm 
+αλγόριθμος έγκρυψης, αλγόριθμος 
+κρυπτοθέτησης 
+ETSI 
+5G-EIR 
+5G-equipment identity register 
+καταχωρητής ταυτότητας εξοπλισμού 5G 
+ETSI 
+5G-GUTI 
+5G-globally unique temporary 
+identifier 
+καθολικά μοναδικό προσωρινό αναγνωριστικό 
+5G 
+ETSI 
+5G-IA 
+5GS integrity algorithm 
+αλγόριθμος ακεραιότητας 5GS 
+ETSI 
+5GMM 
+5GS mobility management 
+διαχείριση κινητότητας 5GS 
+ETSI 
+5GNR 
+5G New Radio 
+νἐο ραδιοδίκτυο 
+ETSI 
+5GPPP 
+5G infrastructure public private 
+partnership 
+δημόσιος και ιδιωτικός εταιρισμός υποδομής 5ης 
+γενιάς 
+ETSI 
+5G-RAN 
+5G Radio Access Network 
+δίκτυο ραδιοπρόσβασης 5G 
+ETSI 
+5GS 
+5G system 
+σύστημα 5G 
+ETSI 
+10 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+5GSM 
+5GS session management 
+διαχείριση συνόδου 5GS 
+ETSI 
+5G-S-TMSI 
+5G S-temporary mobile 
+subscription identifier 
+προσωρινό αναγνωριστικό κινητής συνδρομής 
+5G S 
+ETSI 
+5G-TMSI 
+5G temporary mobile 
+subscription identifier 
+προσωρινό αναγνωριστικό κινητής συνδρομής 
+5G 
+ETSI 
+AAT 
+antenna array tool 
+εργαλείο κεραιοσυστοιχίας 
+ΚΤ 
+ACLR 
+adjacent channel leakage ratio 
+λόγος διαρροής παρακείμενου καναλιού 
+ΚΤ 
+ACP 
+adjacent channel power 
+ισχύς παρακείμενου καναλιού 
+ΚΤ 
+ACPR 
+adjacent channel power ratio 
+λόγος ισχύος παρακείμενου καναλιού 
+ΚΤ 
+AMF 
+access and mobility 
+management function  
+λειτουργία διαχείρισης πρόσβασης και 
+κινητότητας 
+ΚΤ 
+AUSF 
+authentication server function 
+λειτουργία εξυπηρετητή εξακρίβωσης 
+(ταυτότητας) 
+ΚΤ 
+AWG 
+arbitrary waveform generator 
+γεννήτρια αυθαίρετων κυματομορφών 
+ΚΤ 
+BBU 
+baseband unit 
+μονάδα ζώνης βάσης 
+ΚΤ 
+CATR 
+compact antenna test range 
+κλειστή περιοχή δοκιμών κεραίας 
+ΚΤ 
+CE 
+channel emulator 
+εξομοιωτής καναλιού 
+ΚΤ 
+CIR 
+channel impulse response 
+παλμωθητική απόκριση καναλιού 
+ΚΤ 
+CoMP 
+coordinated multipoint 
+συντονισμένη πολυσημειακή {τεχνική} 
+ΚΤ 
+CPE 
+common phase error 
+σφάλμα κοινής φάσης 
+ΚΤ 
+CP-OFDM 
+cyclic prefix orthogonal 
+frequency division multiplexing 
+ορθογωνική πολυπλεξία διαίρεσης συχνότητας 
+κυκλικού προθήματος 
+ΚΤ 
+CPRI 
+common public radio interface 
+κοινή δημόσια ραδιοδιεπαφή 
+ΚΤ 
+C-RAN 
+centralized RAN 
+κεντρικοποιημένο RAN 
+ΚΤ 
+CRS 
+cell-specific reference signal 
+κυψελοείδιο σήμα αναφοράς 
+ΚΤ 
+CSI 
+channel state information 
+πληροφορίες κατάστασης καναλιού 
+ΚΤ 
+CUPS 
+control user plane separation 
+διαχωρισμός επιπέδου ελέγχου και επιπέδου 
+χρήστη 
+ΚΤ 
+DFF 
+direct far field 
+άμεσο μακρινό πεδίο 
+ΚΤ 
+DFT-s-OFDM 
+discrete fourier transform 
+spread orthogonal frequency 
+division multiplexing 
+πολυπλεξία ορθογωνικής διαίρεσης συχνότητας 
+διάκριτου μετασχηματισμού Φουριέ φασματικής 
+εξάπλωσης 
+ΚΤ 
+DL 
+downlink 
+κατερχόμενη ζεύξη 
+ΚΤ 
+DUT 
+device under test 
+υπό δοκιμή διάταξη 
+ΚΤ 
+EIRP 
+effective isotropic radiated 
+power 
+ενεργός ισοτροπική ακτινοβολούμενη ισχύς 
+ΚΤ 
+eLTE eNB 
+eLTE eNB 
+eLTE eNB 
+ΚΤ 
+eMBB 
+enhanced mobile broadband 
+βελτιωμένες κινητές ευρυζωνικές (επικοινωνίες) 
+ΚΤ 
+eNB 
+evolved Node B, eNodeB 
+εξελιγμένος κόμβος Β 
+ΚΤ 
+11 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+EN-DC 
+E-UTRAN New Radio dual 
+connectivity, Evolved UMTS 
+Terrestial Radio Access 
+Network New Radio dual 
+connectivity 
+διπλή συνδετικότητα νέου ραδιοδικτύου E-
+UTRAN 
+ΚΤ 
+EPC 
+evolved packet core, evolved 
+packet core network 
+εξελιγμένος πακετοπυρήνας, εξελιγμένο δίκτυο 
+πακετομεταγωγής πυρήνα 
+ΚΤ 
+EPS 
+evolved packet system 
+εξελιγμένο πακετοσύστημα 
+ΚΤ 
+ERTA 
+extended range transmission 
+analysis 
+ανάλυση μετάδοσης επεκτεταμένης περιοχής 
+ΚΤ 
+E-UTRA 
+enhanced universal terrestrial 
+radio access 
+βελτιωμένη παγκόσμια επίγεια ραδιοπρόσβαση 
+ETSI 
+E-UTRA/5GC 
+E-UTRA connected to 5GC 
+E-UTRA συνδεδεμένη σε 5GC 
+ETSI 
+E-UTRAN 
+Evolved UMTS terrestrial radio 
+access network 
+εξελιγμένο επίγειο δίκτυο ραδιοπρόσβασης 
+UMTS 
+ΚΤ 
+EVM 
+error vector magnitude 
+μέτρο διανύσματος σφάλματος 
+ΚΤ 
+FBMC 
+filter bank multicarrier 
+πολλαπλή φέρουσα συγκροτήματος φίλτρων 
+ΚΤ 
+FDD 
+frequency division duplex 
+συχνοδιαιρετική αμφίδρομη (επικοινωνία) 
+ΚΤ 
+FD-MIMO 
+full dimension MIMO 
+ΜΙΜΟ πλήρους διάστασης 
+ΚΤ 
+FPY 
+first pass yield 
+απόδοση πρώτης διέλευσης 
+ΚΤ 
+FR1 
+frequency range 1 
+περιοχή συχνοτήτων 1 
+ΚΤ 
+FR2 
+frequency range 2 
+περιοχή συχνοτήτων 2 
+ΚΤ 
+FWA 
+fixed wireless access 
+σταθερή ασυρματική πρόσβαση 
+ΚΤ 
+GCF 
+Global Certification Forum 
+Παγκόσμιο Φόρο Πιστοποίησης 
+ΚΤ 
+gNB 
+gNodeB 
+5G κόμβος Β 
+ΚΤ 
+GPRS 
+general packet radio services 
+γενικές πακετικές ραδιοϋπηρεσίες 
+ΚΤ 
+HD 
+half duplex 
+ημιαμφίδρομο (σύστημα) 
+ΚΤ 
+HSS 
+home subscriber server 
+εξυπηρετητής πάτριου συνδρομητή 
+ΚΤ 
+ICI 
+intercarrier interference 
+διαφερουσική παρεμβολή 
+ΚΤ 
+IFBW 
+intermediate frequency 
+bandwidth 
+εύρος ζώνης ενδιάμεσης συχνότητας 
+ΚΤ 
+IFF 
+indirect far field 
+έμμεσο μακρινό πεδίο 
+ΚΤ 
+IMEI 
+international mobile equipment 
+identity 
+διεθνής ταυτότητα εξοπλισμού κινητού (σταθμού) 
+ΚΤ 
+IMSI 
+international mobile subscriber 
+identity 
+διεθνής ταυτότητα κινητού συνδρομητή 
+ΚΤ 
+IMT-2020 
+International Mobile 
+Telecommunications-2020  
+Διεθνείς Κινητές Τηλεπικοινωνίες 2020 
+ΚΤ 
+ISI 
+intersymbol interference 
+διασυμβολική παρεμβολή 
+ΚΤ 
+ITU 
+International 
+Telecommunication Union 
+Διεθνής Ένωση Τηλεπικοινωνιών 
+ΚΤ 
+KPI 
+key performance indicator 
+κλειδιακός δείκτης επίδοσης 
+ΚΤ 
+LO 
+local oscillator 
+τοπικός ταλαντωτής 
+ΚΤ 
+12 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+LoS 
+line of sight 
+γραμμή οπτικής επαφής 
+ΚΤ 
+LTE-A 
+long-term evolution advanced, 
+LTE-advanced 
+μακροχρόνια εξέλιξη – προηγμένη 
+ΚΤ 
+LTE-LAA 
+long-term evolution licensed 
+assisted access 
+μακροχρόνια εξέλιξη – αδειοδοτημένη 
+υποβοηθούμενη πρόσβαση 
+ΚΤ 
+MC 
+multicarrier 
+πολλαπλή φέρουσα 
+ΚΤ 
+MCC 
+mobile country code 
+κωδικός χώρας κινητού (σταθμού) 
+ΚΤ 
+MEC 
+multi-access edge computing 
+παρυφοϋπολογιστική πολλαπλής πρόσβασης 
+ΚΤ 
+MIMO 
+multiple-input / multiple-output 
+πολλαπλή είσοδος / πολλαπλή έξοδος 
+ΚΤ 
+MIPI 
+mobile industry processor 
+interface 
+διεπαφή κινητής βιομηχανικού επεξεργαστή 
+ΚΤ 
+mMTC 
+massive machine-type 
+communications 
+μαζικές επικοινωνίες τύπου μηχανής 
+ΚΤ 
+mmWave 
+millimeter wave 
+χιλιοστομετρικό κύμα 
+ΚΤ 
+MNC 
+mobile network code 
+κωδικός κινητού δικτύου 
+ΚΤ 
+MU 
+measurement uncertainty 
+αβεβαιότητα μέτρησης 
+ΚΤ 
+MU-MIMO 
+multiple user multiple-input / 
+multiple-output  
+πολλαπλή είσοδος / πολλαπλή έξοδος πολλών 
+χρηστών, MIMO πολλών χρηστών 
+ΚΤ 
+N5g-eir 
+service-based interface 
+exhibited by 5G-EIR 
+υπηρεσιοπαγής διεπαφή που παρουσιάζεται 
+από τον 5G-EIR 
+ETSI 
+NEF 
+network exposure function 
+λειτουργία έκθεσης δικτύου 
+ΚΤ 
+NEMs 
+network equipment 
+manufacturers 
+κατασκευαστής δικτυακού εξοπλισμού 
+ΚΤ 
+NFTF 
+near-field to far-field transform 
+μετασχηματισμός κοντινού πεδίου σε μακρινό 
+πεδίο 
+ΚΤ 
+NGC/NGCN 
+next generation core / next 
+generation core network 
+πυρήνας επόμενης γενιάς / δίκτυο πυρήνα 
+επόμενης γενιάς 
+ΚΤ 
+NLOS 
+non-line of sight 
+διαδρομή μη οπτικής επαφής 
+ΚΤ 
+NR 
+new radio 
+νέο ραδιοδίκτυο 
+ΚΤ 
+NRF 
+network repository function 
+λειτουργία δικτυακού αποθετηρίου 
+ΚΤ 
+NSA NR 
+non-standalone NR 
+μη αυτοδύναμο νέο ραδιοδίκτυο, μη αυτοδύναμο 
+NR 
+ΚΤ 
+NSSF 
+network slice selection function 
+λειτουργία επιλογής δικτυοφέτας 
+ΚΤ 
+NV IOT 
+network vendor interoperability 
+testing  
+δοκιμές διαλειτουργικότητας πωλητών δικτύων 
+ΚΤ 
+OBW 
+occupied bandwidth 
+κατειλημμένο εύρος ζώνης, κατειλημμένο ζωνικό 
+εύρος 
+ΚΤ 
+OFDM 
+orthogonal frequency division 
+multiplexing 
+πολυπλεξία ορθογωνικής διαίρεσης συχνότητας 
+ΚΤ 
+OQAM 
+offset quadrate amplitude 
+modulation, offset quadrature 
+amplitude modulation 
+διαμόρφωση πλάτους με μετατόπιση φάσης με 
+ορθογωνισμό 
+ΚΤ 
+OTA 
+over-the-air testing 
+δοκιμές μεσω ραδιοδιεπαφής 
+ΚΤ 
+13 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+PAPR 
+peak to average power ratio 
+λόγος ισχύος κορυφής προς μέση τιμή 
+ΚΤ 
+PCF 
+policy control function 
+λειτουργία ελέγχου πολιτικής 
+ΚΤ 
+PGW 
+packet data network gateway 
+πύλη δικτύου δεδομένων πακετομεταγωγής 
+ΚΤ 
+P-OFDM 
+pulse-shaped orthogonal 
+frequency division multiplex 
+πολυπλεξία ορθογωνικής διαίρεσης συχνότητας 
+με σχημάτωση παλμών 
+ΚΤ 
+PSS 
+primary synchronization signal 
+πρωτεύον σήμα συγχρονισμού 
+ΚΤ 
+PTCRB 
+PCS Type Certification Review 
+Board 
+Συμβούλιο Ανασκόπησης Πιστοποίησης Τύπου 
+PCS 
+ΚΤ 
+QAM 
+quadrature amplitude 
+modulation 
+διαμόρφωση πλάτους με ορθογωνισμό (φάσης) 
+ΚΤ 
+QoE 
+quality of experience 
+ποιότητα εμπειρίας 
+ΚΤ 
+QoS 
+quality of service 
+ποιότητα υπηρεσίας 
+ΚΤ 
+RACH 
+random access channel 
+κανάλι τυχαίας πρόσβασης 
+ΚΤ 
+RAN 
+radio access network 
+δίκτυο ραδιοπρόσβασης 
+ΚΤ 
+RAT 
+radio access technology 
+τεχνολογία ραδιοπρόσβασης 
+ΚΤ 
+RRH 
+remote radio head 
+απομακρυσμένη ραδιοκεφαλή 
+ΚΤ 
+RRM 
+radio resource management 
+διαχείριση ραδιοπόρων 
+ΚΤ 
+Rx 
+receive 
+λήψη 
+ΚΤ 
+SBA 
+service-based architecture 
+υπηρεσιοπαγής αρχιτεκτονική 
+ΚΤ 
+SC 
+single carrier 
+απλή φέρουσα 
+ΚΤ 
+SDN 
+software-defined networking 
+λογισμικόριστη δικτύωση, δικτύωση οριζόμενη 
+από λογισμικό 
+ΚΤ 
+SEM 
+spectrum emissions mask 
+μάσκα εκπομπών φάσματος 
+ΚΤ 
+SFI 
+slot form indicator 
+ενδείκτης θυριδομορφής 
+ΚΤ 
+SMF 
+session management function 
+λειτουργία διαχείρισης συνόδου 
+ΚΤ 
+SNIR 
+signal-to-noise and interference 
+ratio 
+λόγος σήματος προς θόρυβο και παρεμβολές 
+ΚΤ 
+SNR 
+signal-to-noise ratio 
+λόγος σήματος προς θόρυβο 
+ΚΤ 
+SS-RSRP 
+synchronization signal - 
+reference signal received power 
+σήμα συγχρονισμού – λαμβανόμενη ισχύς 
+σήματος αναφοράς 
+ΚΤ 
+SS-RSRQ 
+synchronization signal 
+reference signal received 
+quality 
+σήμα συγχρονισμού – λαμβανόμενη ποιότητα 
+σήματος αναφοράς 
+ΚΤ 
+SSS 
+secondary synchronization 
+signal 
+δευτερεύον σήμα συγχρονισμού 
+ΚΤ 
+SS-SINR 
+synchronization signal signal-
+to-interference-plus-noise ratio 
+σήμα συγχρονισμού – λόγος σήματος προς 
+παρεμβολές και θόρυβο 
+ΚΤ 
+SU-MIMO 
+single user multiple-input / 
+multiple-output  
+πολλαπλή είσοδος / πολλαπλή έξοδος ενός 
+χρήστη, ΜΙΜΟ ενός χρήστη 
+ΚΤ 
+TDD 
+time division duplex 
+χρονοδιαιρετική αμφίδρομη επικοινωνία 
+ΚΤ 
+TRX 
+transceiver 
+πομποδέκτης 
+ΚΤ 
+TT 
+test tolerance 
+ανοχή δοκιμής 
+ΚΤ 
+14 
+ 
+Αγγλική 
+συντομο-
+μορφή 
+Αγγλική αναπτυγμένη μορφή 
+Ελληνική πλήρης μορφή 
+Πηγή 
+TTI 
+transmission time interval 
+χρονικό διάστημα μετάδοσης 
+ΚΤ 
+Tx 
+transmit 
+εκπομπή 
+ΚΤ 
+UDM 
+unified data management 
+ενοποιημένη διαχείριση δεδομένων 
+ΚΤ 
+UE 
+user equipment 
+εξοπλισμός χρήστη 
+ΚΤ 
+UF-OFDM 
+universal filtered orthogonal 
+frequency division multiplexing 
+καθολική φιλτραρισμένη πολυπλεξία 
+ορθογωνικής διαίρεσης συχνότητας 
+ΚΤ 
+UL 
+uplink 
+ανερχόμενη ζεύξη 
+ΚΤ 
+UPCL 
+uplink classifier 
+ταξινομητής ανερχόμενης ζεύξης 
+ΚΤ 
+UPF 
+user plane function 
+λειτουργία επιπέδου χρήστη 
+ΚΤ 
+uRLLC 
+ultra-reliable low-latency 
+communications  
+υπεραξιόπιστες επικοινωνίες χαμηλής 
+λανθανότητας 
+ΚΤ 
+UW-OFDM 
+unique word orthogonal 
+frequency division multiplexing 
+μοναδικής λέξης πολυπλεξία ορθογωνικής 
+διαίρεσης συχνότητας 
+ΚΤ 
+V2X 
+vehicle-to-everything 
+όχημα προς όλα 
+ΚΤ 
+vEPC 
+virtual EPC 
+ιδεατός EPC 
+ΚΤ 
+VSG 
+vector signal generator 
+γεννήτρια διανυσματικού σήματος 
+ΚΤ 
+VSWR 
+voltage standing wave ratio 
+λόγος στάσιμου κύματος τάσης 
+ΚΤ 
+VVM 
+vector voltmeter 
+διανυσματικό βολτόμετρο 
+ΚΤ 
+WCDMA 
+wideband code division 
+multiple access 
+ευρυζωνική πολλαπλή πρόσβαση διαίρεσης 
+κώδικα 
+ΚΤ 
+W-OFDM 
+windowed orthogonal 
+frequency division multiplexing 
+παραθυρωμένη πολυπλεξία ορθογωνικής 
+διαίρεσης συχνότητας 
+ΚΤ 
+ 
+ 

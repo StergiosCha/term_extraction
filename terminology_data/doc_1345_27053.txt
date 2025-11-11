@@ -1,0 +1,662 @@
+SOURCE: http://www.eleto.gr/download/Conferences/13th%20Conference/Papers-and-speakers/13th_22_10_02_Vyzas_Dogoriti_Paper_V04_Teliko.pdf
+
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+298 
+298
+22    Η ορολογία του κοροναϊού στα πολύγλωσσα ευρωπαϊκά 
+κείμενα: παραλλαγές και εξέλιξη  
+ 
+Θεόδωρος Βυζάς, Ελευθερία Δογορίτη 
+ΠΕΡΙΛΗΨΗ 
+Στα πλαίσια μιας περιγραφικής διερευνητικής μελέτης παρουσιάζεται ο τρόπος με τον οποίο η θεματική 
+της πανδημίας του κοροναϊού αποτυπώνεται διαμέσου συγκεκριμένων όρων στα ευρωπαϊκά κείμενα, 
+μέσα σε μια πολύ σύντομη διαχρονία. Δίνεται έμφαση στη μορφοσυντακτική συμπεριφορά των 
+πολυλεκτικών όρων, τη χρήση συνωνύμων και την αντιπαραβολική μελέτη τους στην αγγλική, γαλλική 
+και ελληνική γλώσσα ως μέσα καταγραφής και προσπέλασης της πληροφορίας. 
+ 
+Coronavirus terminology in multilingual European texts: 
+variations and evolution 
+ 
+Theodoros Vyzas, Eleftheria Dogoriti 
+ABSTRACT 
+This descriptive exploratory study aims at presenting the way in which the subject of the coronavirus 
+pandemic is treated, by means of specific terms, in European texts, in a very short-term diachrony. 
+Emphasis is placed on the syntactic behaviour of multi-word terms, the use of synonyms and their 
+contrastive study in English, French and Greek as means of recording and accessing information. 
+ 
+ 
+ 
+0   Εισαγωγή   
+H αντιμετώπιση του κοροναϊού έχει αναδειχθεί από το 2020 σε κορυφαίο θέμα της 
+επικαιρότητας παγκοσμίως και, καθώς ήταν αναμενόμενο, απασχολεί έντονα την 
+Ευρωπαϊκή Ένωση (ΕΕ). Αυτό αποτυπώνεται στα ευρωπαϊκά κείμενα, που είναι νομικά 
+κείμενα συντεταγμένα με βάση τις ιδιαίτερες απαιτήσεις της ΕΕ με σκοπό την εναρμόνιση 
+πρακτικών μεταξύ κρατών μελών (Biel and Koźbiał, 2020). 
+Τα κείμενα αυτά απαρτίζουν τη βάση κειμένων eur-lex, η οποία, χάρη στην ελεύθερη 
+πρόσβαση και τη δίγλωσση ή τρίγλωσση απεικόνιση, αποτελεί σώμα παράλληλων κειμένων 
+(Castagnoli, 2017· Steinberger et al., 2014· Koskinen, 2000) και προσφέρεται για την 
+αντιπαραβολική μελέτη μεταξύ γλωσσών και ειδικά του ειδικού λεξιλογίου (Durieux, 2005· 
+Kerremans, Temmerman and De Baer, 2008· Faber, 2009· Kerremans, 2010· Fernández-
+Silva and Kerremans, 2011· Kerremans, 2017· León Araúz and Cabezas García 2020). 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+299 
+ 
+Το παρόν άρθρο παρουσιάζει μια περιγραφική διερευνητική ποιοτική μελέτη που 
+καταγράφει τον τρόπο με τον οποίο η θεματική του κοροναϊού αποτυπώνεται με 
+εξελισσόμενους όρους αιχμής σε αυτά τα μη ιατρικά αλλά εξειδικευμένα κείμενα, εντός μιας 
+πολύ σύντομης διαχρονίας δεκαοκτώ μηνών με αυστηρή χρονολογική σειρά ή κατ’ άλλους 
+στο πλαίσιο μιας σύντομης δυναμικής συγχρονίας (Picton 2011, 2014, 2018) στην αγγλική, 
+τη γαλλική και την ελληνική. Η υπόθεση εργασίας είναι ότι οι ενδογλωσσικές και 
+διαγλωσσικές ορολογικές παραλλαγές αντανακλούν πληροφοριακές και ενδεχομένως 
+εννοιολογικές διαφοροποιήσεις που συμβάλλουν στην κατανόηση των όρων, αν και μελέτες 
+όρων στη διαχρονία τους με έμφαση στις συνωνυμικές παραλλαγές συνιστούν να 
+αποφεύγεται η ορολογική πολλαπλότητα, καθώς συχνά προκαλεί σύγχυση (Møller, 1998· 
+Bourigault et Slodzian, 1999· Cabré Castellví, 2003· Peruzzo, 2013· Castagnoli, 2017). 
+Τούτων δοθέντων, στόχοι της εργασίας είναι: α) να καταγραφεί η μορφοσυντακτική 
+συμπεριφορά 
+των 
+πολυλεκτικών 
+ακολουθιών 
+στις οποίες 
+συμμετέχουν 
+οι 
+όροι 
+ενδογλωσσικά καταρχάς στο αγγλικό κείμενο και στη συνέχεια στο γαλλικό και τo ελληνικό, 
+καθώς και οι παρεπόμενες συνωνυμικές παραλλαγές και β) να μελετηθούν αντιπαραβολικά 
+οι διαγλωσσικές μορφοσυντακτικές και συνωνυμικές μεταφραστικές επιλογές, καθώς 
+διαφορετικά 
+ισοδύναμα 
+αναδεικνύουν 
+διαφορετικά 
+πληροφοριακά 
+χαρακτηριστικά 
+(Fernández-Silva, Freixa and Cabré, 2009). 
+1   Θεωρητικό υπόβαθρο 
+Ως θεωρητικό πλαίσιο αναφοράς γι’αυτήν την ταχέως εξελισσόμενη ορολογία επιλέχθηκε η 
+κοινωνιογνωστική προσέγγιση της Temmerman (2000) που εισάγει την έννοια της μονάδας 
+κατανόησης (unit of understanding): ο όρος αποτελεί αντιπροσωπευτική μονάδα 
+επιστημονικής γνώσης με ειδικό πληροφοριακό περιεχόμενο, το οποίο μεταβάλλεται με την 
+πρόοδο της επιστήμης και της τεχνολογίας και συνεπώς η έννοια δεν κατέχει αμετακίνητη 
+θέση σε ένα γνωσιακό σύστημα. Αυτό επιβεβαιώνει και η Picton (2011, 2014, 2018) που 
+μελετά τη δυναμική συγχρονία της διαστημικής τεχνολογίας και εστιάζει στην εμφάνιση και 
+εξαφάνιση των εξωγλωσσικών αναφορών και την επίπτωσή τους στη δημιουργία και 
+αχρησία όρων. Σημαντική είναι και η συνεισφορά του Møller (1998) που επισημαίνει ότι 
+κατονομασία και έννοια μπορούν να εξελίσσονται είτε παράλληλα είτε ανεξάρτητα. Η εξέλιξη 
+της κατονομασίας επιτυγχάνεται με τις μορφοσυντακτικές και τις άρρηκτα συνδεόμενες 
+συνωνυμικές παραλλαγές (Κεχαγιά και Ανανιάδου, 2001). 
+Κατά την αντιπαραβολική μελέτη, η έννοια της μονάδας κατανόησης μας βοηθάει να 
+προσεγγίσουμε τυχόν εννοιολογική διάσταση μεταξύ πρωτοτύπου και μεταφράσματος, με 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+300 
+300
+βάση τη διαφορά ανάμεσα στο πληροφοριακό φορτίο μεταξύ των αντίστοιχων όρων 
+(Fernández-Silva and Kerremans, 2011). Ως εκ τούτου, παραλλαγή και συνωνυμία παίζουν 
+σημαντικό ρόλο στην εξέλιξη και την κατανόηση της ορολογίας όλων των επιστημών (León 
+Araúz and Cabezas García, 2020· Fernández-Silva, 2019) και ειδικότερα των βιοεπιστημών 
+(Temmerman, 2000· Wermuth and Verplaetse, 2018) στις οποίες εστιάζει το άρθρο μας. 
+2   Μεθοδολογία 
+Από το Glossary on the COVID-19 pandemic της επίσημης καναδικής βάσης ορολογίας 
+TERMIUM Plus, με γνώμονα την εξέλιξη της επικαιρότητας επιλέξαμε 24 μονολεκτικούς 
+όρους αιχμής που συνδέονται ευθέως με την πανδημία, με γλώσσα αφετηρίας την αγγλική 
+(Lerat, 2020). Από τη βάση eur-lex επιλέχθηκαν μόνον όσα κείμενα αφορούσαν την 
+πανδημία και ήταν διαθέσιμα στις γλώσσες αγγλική, γαλλική και ελληνική. Συγκροτήθηκε 
+σώμα κειμένων 600.000 λέξεων που καλύπτει την περίοδο Ιανουαρίου 2020 – Ιουνίου 2021. 
+Η όλη διαδικασία διεξήχθη χειρωνακτικά. 
+Οι όροι αφορούν όλο το φάσμα της νόσου: την ονομασία του ιού και της νόσου (COVID-19, 
+SARS-CoV-2, coronavirus), τα χαρακτηριστικά του ιού (variant, strain, mutation, spike), τη 
+διάδοσή του (infection, transmission), την εκδήλωση της ασθένειας (asymptomatic, cluster, 
+vulnerable), τρόπους διάγνωσης, ανίχνευσης και μελέτης της νόσου (PCR, tracing, 
+sequencing, self-test, antigen, antibody, wastewater) και τρόπους αντιμετώπισης 
+(remdesivir, mRNA, mask, vaccine, vaccination). Από τους όρους αυτούς, μόνο οι COVID-
+19 και SARS-CoV-2 αποτελούν νεολογισμούς που συνδέονται ειδικά με την πανδημία.  
+Ως προς τη βασική δομή των πολυλεκτικών όρων, καθένας από τους οποίους ισοδυναμεί με 
+μια μονάδα κατανόησης, το πρότυπο για την αγγλική είναι των Justeson and Katz (1995): 
+α) ουσιαστικό+ουσιαστικό 
+β) επίθετο+ουσιαστικό 
+γ) επίθετο+επίθετο+ουσιαστικό 
+δ) επίθετο+ουσιαστικό+ουσιαστικό 
+ε) ουσιαστικό+επίθετο+ουσιαστικό 
+στ) ουσιαστικό+ουσιαστικό+ουσιαστικό 
+ζ) ουσιαστικό+πρόθεση+ουσιαστικό 
+Ως πρότυπο για την τυπολογία των γαλλικών όρων, υιοθετήθηκε εκείνο των Bourigault and 
+Jacquemin (1999) που εξήχθη από σώμα ιατρικών κειμένων: 
+α) ουσιαστικό+επίθετο 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+301 
+ 
+β) ουσιαστικό+πρόθεση+ουσιαστικό 
+γ) ουσιαστικό+πρόθεση+προσδιοριστικό+ουσιαστικό 
+Για τους ελληνικούς όρους, επιλέχθηκε το πρότυπο των Ιορδανίδου et al. (2007): 
+α) επίθετο+ουσιαστικό 
+β) ουσιαστικό+ουσιαστικό σε γενική 
+γ) ουσιαστικό+πρόθεση+ουσιαστικό 
+δ) ουσιαστικό+ουσιαστικό (ομοιόπτωτο) 
+Με αφετηρία αυτά τα πρότυπα, παρουσιάζεται ο κάθε μονολεκτικός όρος ως τμήμα 
+ευρύτερης πολυλεκτικής ακολουθίας (αν και κάποιοι εμφανίζονται συχνά ως μονολεκτικοί), 
+στην οποία αποτελεί είτε τη βάση είτε τον προσδιορισμό. Τα ευρήματα θα ελεγχθούν 
+σύμφωνα με το προσαρμοσμένο πρότυπο ενδογλωσσικών αποκλίσεων των Κεχαγιά & 
+Ανανιάδου (2001) που αναπτύσσεται παρακάτω και θα σχολιαστούν αντιπαραβολικά. 
+3   Ευρήματα και σχολιασμός 
+Με βάση τα παραπάνω πρότυπα, παρουσιάζονται ενδεικτικά παραδείγματα πολυλεκτικών 
+ακολουθιών στην αγγλική (Αγγ), τη γαλλική (Γ) και την ελληνική με χρονολογική ένδειξη στην 
+αριστερή στήλη, ώστε να διευκολύνεται η παρακολούθηση της ορολογικής εξέλιξης (όπου: Ο 
+= ουσιαστικό, Ογεν = ουσιαστικό στη γενική, Ε = επίθετο, Εγεν = επίθετο στη γενική, Α = 
+άρθρο, Αντ = αντωνυμία, ΣυνθΑ = σύνθετο άρθρο, Ρ = ρήμα, Μτχ = μετοχή, Πρ = πρόθεση, 
+Συνδ = σύνδεσμος, Ακρν = ακρώνυμο, Αρκ = αρκτικόλεξο. Με έντονη γραφή εμφανίζεται ο 
+μελετώμενος όρος και το αντίστοιχο μέρος του λόγου/ακρώνυμο/αρκτικόλεξο). 
+spread of Covid-19 
+disease 
+(13.3.2020) 
+Ο+Πρ+Ακρν+Ο 
+propagation de la maladie du 
+Covid-19 
+Ο+Πρ+Α+Ο+ΣυνθΑ+ 
+Ακρν 
+εξάπλωση της νόσου Covid-
+19 
+ 
+Ο+Α+Ογεν.+Ακρν 
+post-COVID-19 diagnosis 
+care 
+(2.12.2020) 
+Ε-Ακρν+Ο+Ο 
+soins après un diagnostic de 
+COVID-19 
+ 
+Ο+Πρ+Α+Ο+Πρ+Ακρν 
+περίθαλψη μετά τη διάγνωση 
+της νόσου COVID-19 
+Ο+Πρ+Α+Ο+Α+Ογεν. 
++Ακρν 
+the COVID-19 pandemic 
+(30.6.2021) 
+Α+ Ακρν+Ο 
+la pandémie de COVID-19 
+ 
+Α+Ο+Πρ+Ακρν 
+η πανδημία COVID-19 
+ 
+Α+Ο+Ακρν 
+ 
+PCR tests 
+(15.7.2020) 
+Αρκ1+Ο 
+tests PCR 
+ 
+Ο+Αρκ1 
+τεστ PCR 
+ 
+Ο+Αρκ1 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+302 
+302
+RT-PCR testing rates 
+(28.10.2020) 
+Αρκ2+Ε+Ο 
+taux de dépistage par RT-
+PCR 
+Ο+Πρ+Ο+Πρ+Αρκ2 
+ποσοστά δοκιμασιών με τη 
+μέθοδο RT-PCR 
+Ο+Ογεν.+Πρ+Α+Αρκ2 
+PCR 
+(21.6.2021) 
+Αρκ1 
+PCR 
+ 
+Αρκ1 
+PCR 
+ 
+Αρκ1 
+ 
+sequencing 
+(1.2.2021) 
+Ο 
+séquençage  
+ 
+Ο 
+αλληλούχηση γονιδιώματος 
+ 
+Ο+Ογεν. 
+genomic sequencing 
+(1.2.2021) 
+Ε+Ο 
+séquençage génomique 
+ 
+Ο+Ε 
+αλληλούχηση γονιδιώματος  
+ 
+Ο+Ογεν. 
+sequencing volume 
+(16.6.2021) 
+Ο+Ο 
+volume de séquençage 
+Ο+Πρ+Ο 
+ποσότητες 
+των 
+αλληλουχούμενων δειγμάτων 
+Ο+Α+Εγεν+Ογεν 
+ 
+vaccine development 
+(17.4.2020) 
+Ο+Ο 
+la mise au point d’un vaccin 
+ 
+Α+Ο+ΣυνθΑ+Ο+Πρ+Α+Ο 
+ανάπτυξη εμβολίων 
+ 
+Ο+Ογεν. 
+EU Strategy for COVID-
+19 vaccines 
+(15.10.2020) 
+Αρκ+Ο+Πρ+Ακρν+Ο 
+stratégie de l’UE concernant les 
+vaccins contre la COVID-19 
+Ο+Πρ+Α+Αρκ+Μτχ+Α+Ο 
++Πρ+Α+Ακρν 
+στρατηγικής της ΕΕ για τα 
+εμβόλια κατά της νόσου 
+COVID-19 
+Ογεν+Α+Αρκ+Πρ+Α+Ο+ 
+Πρ+Α+Ογεν+Ακρν 
+ 
+confirmed case of the new 
+variant 
+(28.12.2020) 
+Ε+Ο+Πρ+Α+Ε+Ο 
+cas confirmé de la nouvelle 
+variante 
+ 
+Ο+Ε+Πρ+Α+Ε+Ο 
+επιβεβαιωμένο κρούσμα της 
+νέας παραλλαγής 
+ 
+Ε+Ο+Α+Ε+Ογεν 
+new virus variants 
+(1.2.2021) 
+Ε+Ο+Ο 
+nouveaux variants du virus 
+ 
+Ε+Ο+ΣυνθΑ+Ο 
+νέες παραλλαγές του ιού 
+ 
+Ε+Ο+Α+Ο 
+prevalence of SARS-CoV-
+2 variants of concern or 
+interest 
+(31.5.2021) 
+ 
+Ο+Πρ+Ακρν+Ο+Πρ+Ο+ 
+Συνδ+Ο 
+prévalence de variants du 
+SARS-CoV-2 
+préoccupants 
+ou à suivre 
+ 
+ 
+Ο+Πρ+Ο+ΣυνθΑ+Ακρν+Ε+ 
+Συνδ+Πρ+Ρ 
+επιπολασμός 
+των 
+ανησυχητικών παραλλαγών 
+ή 
+παραλλαγών 
+ειδικού 
+ενδιαφέροντος 
+του 
+ιού 
+SARS-CoV-2 
+Ο+Α+Εγεν+Ογεν+Συνδ+ 
+Ογεν+Εγεν+Ογεν+Α+Ογεν+ 
+Ακρν 
+‘variant of concern’ and 
+‘variant of interest’ 
+(21.6.2021) 
+Ο+Πρ+Ο+Συνδ+ Ο+Πρ+Ο 
+‘variants 
+préoccupants’ 
+et 
+‘variants à suivre’ 
+ 
+Ο+Ε+Συνδ+Ο+Πρ+Ρ 
+«παραλλαγή που προκαλεί 
+ανησυχία 
+και 
+παραλλαγή 
+που προκαλεί ενδιαφέρον» 
+Ο+Αντ+Ρ+Ο+Συνδ+Ο+Αντ+Ρ 
++Ο 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+303 
+ 
+ 
+Remdesivir 
+(28.10.2020) 
+Ο 
+Remdesivir 
+ 
+Ο 
+Remdesivir 
+ 
+Ο 
+therapeutic remdesivir 
+(11.11.2020) 
+Ε+Ο 
+remdesivir utilisé à des fins 
+thérapeutiques 
+Ο+Μτχ+Πρ.+Α+Ο+Ε 
+θεραπευτική ρεμδεσιβίρη 
+ 
+Ε+Ο 
+ 
+transmission risks 
+(2.12.2020) 
+Ο+Ο 
+risques de contagion 
+ 
+Ο+Πρ+Ο 
+κίνδυνοι μετάδοσης 
+ 
+Ο+Ογεν 
+human-to-mink and mink-
+to-human transmission 
+(22.12.2020) 
+Ε+Συνδ+Ε+Ο 
+transmission de l’homme 
+au vison et du vison à 
+l’homme 
+Ο+Πρ+Α+Ο+ΣυνθΑ+Ο+Σ 
++ΣυνθΑ+Πρ+Α+Ο 
+μετάδοση από άνθρωπο σε 
+βιζόν 
+και 
+από 
+βιζόν 
+σε 
+άνθρωπο 
+Ο+Πρ+Ο+Πρ+Ο+Σ+Πρ+ 
+Ο+Πρ+Ο 
+ 
+Από τη συνολική καταγραφή, γίνεται καταρχάς προφανές ότι όλοι οι εξεταζόμενοι όροι – 
+μακράν ο όρος COVID-19 – συνυπάρχουν ενδογλωσσικά με άλλους μελετώμενους όρους, 
+με συναφές ειδικό λεξιλόγιο και λεξιλόγιο της γενικής γλώσσας, σχηματίζοντας από 
+διλεκτικούς όρους ως μακρές ακολουθίες (Cortelazzo, 2013), π.χ. διλεκτικοί: infection 
+chains (Αγγ), personnes vulnérables (Γ), χρήση μάσκας, τριλεκτικοί: COVID-19 mRNA 
+vaccine (Αγγ), niveau de risque d’infection (Γ), ικανότητα ανίχνευσης αντισωμάτων, 
+τετραλεκτικοί: SARS-CoV-2 rapid antigen tests (Αγγ), multiples mutations de la protéine 
+Spike (Γ) ή και ευρύτερες ακολουθίες: autotests rapides de mesure ou détection d’anticorps 
+(Γ), εμβόλιο mRNA COVID-19 (τροποποιημένων νουκλεοτιδίων). Σημειώνεται ότι πάντα 
+υπεισέρχονται οι συντακτικές ιδιαιτερότητες της κάθε γλώσσας.  
+Ειδικότερα, σύμφωνα με το πρότυπο των Κεχαγιά και Ανανιάδου (2001), οι πολλαπλές 
+μορφές της ίδιας κατά βάση έννοιας ενδέχεται να δηλώνονται ενδογλωσσικά με:  
+1) μορφολογικά-φωνολογικά συγγενείς τύπους: Covid-19 - COVID-19 (Αγγ), wastewater - 
+wastewaters - waste water (Αγγ), variante - variant (Γ), κορονοϊός - κοροναϊός - 
+κορωνοϊός. 
+2) συντακτικά συγγενείς τύπους: masques non médicaux - masques buccaux (Γ), 
+ασυμπτωματικά άτομα - δυνητικά ασυμπτωματικά ή προσυμπτωματικά άτομα, ανίχνευση 
+λοίμωξης - ανίχνευση συρροών λοίμωξης. 
+3) Σημασιολογικά συγγενείς τύπους: transmission de la COVID19 - propagation de la 
+COVID19 (Γ), asymptomatic individuals - asymptomatic people - asymptomatic persons 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+304 
+304
+(Αγγ), eaux urbaines résiduaires - eaux usées urbaines (Γ), vaccination policies - 
+vaccination strategies (Αγγ), politiques de vaccination - stratégies de vaccination (Γ), 
+πολιτικές εμβολιασμού - στρατηγικές εμβολιασμού, αυτοδιαγνωστικές δοκιμασίες ή 
+δοκιμασίες αυτοδιάγνωσης. 
+4) Συνδυασμό των παραπάνω: μη ιατρικών μασκών προσώπου - χειρουργικές/ιατρικές 
+μάσκες, clusters - foyers de contamination (Γ), modification de la souche virale - 
+identification des souches spécifiques du virus (Γ), αύξηση του ρυθμού των λοιμώξεων - 
+περιορισμός του ρυθμού μόλυνσης - κίνδυνος εξάπλωσης της λοίμωξης - επιπολασμός της 
+λοίμωξης. 
+Η αντιπαραβολική διαγλωσσική μελέτη διαπιστώνει ότι η ποικιλία στους αγγλικούς όρους 
+κάποτε συμπαρασύρει τις αποδόσεις στις άλλες δύο γλώσσες (Biel and Koźbiał, 2020), ενώ 
+κάποια ακρωνύμια / αρκτικόλεξα, π.χ. COVID-19, RT-PCR, παραμένουν αμετάβλητα και 
+στις τρεις γλώσσες άσχετα από τη συμμετοχή τους ή όχι σε πολυλεκτικές ακολουθίες. Άλλα 
+ακρωνύμια / αρκτικόλεξα συμπεριφέρονται διαφορετικά: α) ο SARS-CoV-2, ενώ στα αγγλικά 
+και ελληνικά παραμένει αμετάβλητος, στα γαλλικά συνήθως χρησιμοποιείται αμετάβλητος ο 
+όρος αυτός στην πλήρη μορφή του, ενώ στη συντομότερη εκδοχή του χρησιμοποιείται 
+συχνά το γαλλικό ακρωνύμιο SRAS (για το αγγλικό SARS) και β) ο όρος mRNA ενώ στα 
+αγγλικά και ελληνικά παραμένει αμετάβλητος, στα γαλλικά πάντα μεταφράζεται σε ARNm. 
+Όροι όπως antibody, strain, mutation είτε ως μονολεκτικοί είτε ως στοιχεία πολυλεκτικών 
+όρων, μεταφράζονται πάντα με τα ίδια ισοδύναμα σε γαλλικά και ελληνικά. Απεναντίας, ο 
+όρος tracing, μεταξύ άλλων, αν και αποδίδεται πάντα με το ίδιο ισοδύναμο στα ελληνικά, στα 
+γαλλικά παρουσιάζει λεξιλογικές αποκλίσεις εν απουσία μορφοσυντακτικών περιορισμών: 
+contact tracing 
+(16.7.2020) 
+suivi de contacts 
+ιχνηλάτηση επαφών 
+contact tracing apps 
+(15.10.2020) 
+applications de traçage des 
+contacts 
+εφαρμογές ιχνηλάτησης 
+επαφών 
+cross-border contact 
+tracing 
+(23.11.2020) 
+recherche des contacts 
+transfrontière 
+διασυνοριακή ιχνηλάτηση 
+επαφών 
+Backward and forward 
+contact tracing 
+(2.12.2020) 
+recherche des contacts en 
+amont et en aval 
+ιχνηλάτηση προηγούμενων 
+και μελλοντικών επαφών 
+ 
+Επιπλέον, στη γαλλική και την ελληνική τα αντίστοιχα ισοδύναμα ενδεχομένως να μην 
+εμφανίζονται παγιωμένα, καθώς συμπεριλαμβάνουν προθέσεις και άρθρα: the COVID-19 
+European Medicines Agency pandemic Task Force (Αγγ), le groupe de travail sur la 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+305 
+ 
+pandémie de COVID-19 de l’Agence européenne des médicaments (Γ), ειδική επιχειρησιακή 
+ομάδα για την πανδημία COVID-19 του Ευρωπαϊκού Οργανισμού Φαρμάκων. 
+Ως προς τη χρονική διαδοχή των κειμένων, η εμφάνιση/υποχώρηση των εξωγλωσσικών 
+αναφορών και οι προτεραιότητες της ΕΕ φαίνονται να κατευθύνουν τη χρήση των όρων αν 
+και με κάποια υστέρηση έναντι της ιατρικής επικαιρότητας. Ειδικότερα, οι όροι coronavirus, 
+SARS-CoV-2, COVID-19 είναι οι όροι που χρησιμοποιούνται στα περισσότερα κείμενα, 
+καθώς αποτελούν το βασικό ορολογικό υπόστρωμα, με έναρξη χρήσης στις 13.3.2020. 
+Ακολουθούν οι όροι vaccine και vaccination, πιθανότατα επειδή τα εμβόλια αποτέλεσαν 
+αντικείμενο ζωηρού ενδιαφέροντος και έντονης διαπραγμάτευσης, όπως φαίνεται να 
+προκύπτει από το συγκειμενικό περιβάλλον για την επιτάχυνση κυκλοφορίας των εμβολίων. 
+Όροι που σχετίζονταν με την πανδημία σε αμιγώς ιατρικό επίπεδο χωρίς οικονομικό 
+ενδιαφέρον, όπως mRNA, mutation, sequencing, asymptomatic, wastewater, εμφανίζονται 
+σε πολύ λιγότερα κείμενα. Κάποια επιπλέον παραδείγματα με χρονολογική σειρά πρώτης 
+εμφάνισης: presence of the virus in urban wastewaters (15.7.2020), PCR-tests (15.7.2020), 
+contact tracing apps (15.10.2020), therapeutic remdesivir (11.11.2020).  
+Τέλος, οι ενδογλωσσικές παραλλαγές φαίνονται να συνυπάρχουν και συχνά να 
+χρησιμοποιούνται παράλληλα σε νεότερα κείμενα, χωρίς να είναι δυνατόν να ειπωθεί πάντα 
+με ασφάλεια αν υπάρχει και ποια είναι η εννοιολογική απόσταση μεταξύ τους.   
+4   Τελικές παρατηρήσεις  
+Σε αυτή την πολύ σύντομη διαχρονία, παρατηρείται συμμετοχή των μονολεκτικών όρων σε 
+πολυλεκτικές ακολουθίες ποικίλου μήκους ανάλογα με τις μορφοσυντακτικές ιδιαιτερότητες 
+της κάθε γλώσσας. Συνήθως παρατηρείται προσπάθεια για κατά λέξη απόδοση, χωρίς να 
+αποφεύγονται οι μορφοσυντακτικές και ως εκ τούτου οι συνωνυμικές παραλλαγές, οι οποίες 
+ενδεχομένως να οφείλονται σε προγενέστερες μεταφράσεις (Biel and Koźbiał, 2020). Οι 
+ορολογικές επιλογές στην αγγλική, που είναι η «προεπιλεγμένη» γλώσσα των κειμένων ΕΕ, 
+φαίνονται να κατευθύνουν την απόδοση στις άλλες γλώσσες, αναδεικνύοντας τον ρόλο της 
+μετάφρασης στα κείμενα αυτά. Πάντως οι Kerremans and Temmerman (2016) επισημαίνουν 
+ότι κατά τη μετάφραση ειδικών κειμένων η ορολογική ισοδυναμία δεν αντιστοιχεί πάντα στη 
+μεταφραστική ισοδυναμία, καθώς συχνά επιδιώκεται λειτουργική μετάφραση που ευνοείται 
+από το συγκειμενικό περιβάλλον, με την εμπλοκή βεβαίως της σύνταξης. Επιπλέον, η 
+Apidianaki (2005) επισημαίνει ότι στους πολυλεκτικούς όρους η σημασιολογική 
+αναντιστοιχία των ορολογικών στοιχείων μεταξύ γλωσσών ενδέχεται να επηρεάζει τη 
+μετάφραση και προτείνεται ως λύση η αντιπαραβολική σύγκριση των ακολουθιών για την 
+εννοιολογική προσέγγιση και αποσαφήνιση των όρων. Κατά τη γνώμη μας, με τον τρόπο 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+306 
+306
+αυτό, η μεταβαλλόμενη, καθότι εξελισσόμενη, μονάδα κατανόησης κατά Temmerman γίνεται 
+ευκολότερα προσπελάσιμη, καθώς αναδεικνύεται το εννοιολογικό περιεχόμενό της. 
+ 
+ΒΙΒΛΙΟΓΡΑΦΙΑ 
+Υλικό αναφοράς 
+Eur-lex. Διαθέσιμο από https://eur-lex.europa.eu/homepage.html  
+Glossary on the COVID-19 pandemic (2021). TERMIUM Plus. Government of Canada. 
+[πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο από https://www.btb.termiumplus.gc.ca/publications/
+covid19-eng.html 
+ 
+Βιβλιογραφικές αναφορές 
+Ιορδανίδου, Ά., Πανταζάρα, Μ., Μάντζαρη, Έ., Ορφανός, Γ., Βαγγελάτος, Α. και 
+Παπαπαναγιώτου, Β. (2007). Ζητήματα αναγνώρισης των πολυλεκτικών σύμπλοκων όρων 
+στον τομέα της βιοϊατρικής. Στο: 6ο Συνέδριο «Ελληνική γλώσσα και ορολογία», ΕΛΕΤΟ, 
+Αθήνα, 
+1–3 
+Νοεμβρίου 
+2007. 
+[πρόσβαση 
+6 
+Ιουλίου 
+2021]. 
+Διαθέσιμο 
+από 
+http://www.eleto.gr/download/Conferences/6th%20Conference/6th_14-29-
+IordanidouPantazaraMantzariOrfanosVangelatosPapapanagiotouPaper_V03.pdf  
+Κεχαγιά, Κ. και Ανανιάδου, Σ. (2001). Πολυλεκτικοί όροι και αποκλίσεις στην αυτόματη 
+εξαγωγή των όρων. Στο: 3ο Συνέδριο «Ελληνική γλώσσα και ορολογία», ΕΛΕΤΟ, Αθήνα, 1–
+3 Νοεμβρίου 2001. [πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο από http://www.eleto.gr/downloa
+d/Conferences/3rd%20Conference/3rd_19-Kehagia-Paper_V02.pdf  
+Apidianaki, M. (2005). Translation prediction using word cooccurrence graphs. Στο: 
+Proceedings from The Corpus Linguistics Conference Series, pp. 1–15. Birmingham. 
+Biel, Ł. and Koźbiał, D. (2020). How do translators handle (near-) synonymous legal terms? 
+A mixed genre parallel corpus study into the variation of EU English-Polish competition law 
+terminology. Estudios de Traducción 10, pp. 69–90. [πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο 
+από https://dx.doi.org/10.5209/estr.68054  
+Bourigault, D. and Jacquemin, Ch. (1999). Term extraction + Term clustering: an integrated 
+platform for computer-aided terminology. Στο: Proceedings of EACL’99, pp. 15–22. 
+Bourigault, D. et Slodzian, M. (1999). Pour une terminologie textuelle. Terminologies 
+nouvelles, 19, pp. 29–32. 
+Cabré Castellví, M. T. (2003). Theories of Terminology. Terminology, 9 (2), pp.163–199. 
+Castagnoli, S. (2017). Translators and EU Parallel Texts: Help or Trap? Exploring 
+Terminological Differences between EU and National Legal Documents. Στο: P. Faini (ed.) 
+Terminological Approaches in the European Context. Newcastle: Cambridge Scholars 
+Publishing, pp. 82–97. 
+Cortelazzo, M. (2013). Leggi italiane e direttive europee a confronto. In Ondelli, S. (ed.) 
+Realizzazioni testuali ibride in contesto europeo. Lingue dell’UE e lingue nazionali a 
+confronto. Trieste: EUT. pp. 57–66. 
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+307 
+ 
+Durieux, Ch. (2005). L’enseignement de la traduction : enjeux et démarches. Meta, 50 (1), 
+σ. 36–47. [πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο από  
+http://www.erudit.org/revue/meta/2005/v50/n1/010655ar.pdf 
+Faber, P. (2009). The Pragmatics of Specialized Communication. Entreculturas 1, pp. 61–
+84. 
+Fernández-Silva, S. (2019). The Cognitive and Communicative Functions of Term Variation 
+in Research Articles: A Comparative Study in Psychology and Geology. Applied Linguistics 
+40(4), pp. 624–645. [πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο από 
+https://doi.org/10.1093/applin/amy004  
+Fernández-Silva, S., Freixa, J. and Cabré, M. T. (2009). Multiple motivations in the 
+denomination of concepts: the case of “production area” in the terminology of aquaculture in 
+French and Galician. Terminology Science and Research 20, pp. 1–24. 
+Fernández-Silva, S. and Kerremans, K. (2011). Terminological Variation in Source Texts 
+and Translations: A Pilot Study. Meta, 56 (2), pp. 318–335. [πρόσβαση 6 Ιουλίου 2021]. 
+Διαθέσιμο από https://doi.org/10.7202/1006179ar  
+Justeson, J. S. and Katz, S. M. (1995). Technical terminology: some linguistic properties and 
+an algorithm for identification in text. Natural Language Engineering 1(1), pp. 9–27. 
+Cambridge University Press. 
+Kerremans, K. (2017). Applying computer-assisted coreferential analysis to a study of 
+terminological variation in multilingual parallel corpora. In K. Menzel, E. Lapshinova-
+Koltunski and K. Kunz (Eds.), New perspectives on cohesion and coherence, pp. 45–68. 
+Berlin: Language Science Press. 
+Kerremans, K. (2010). A Comparative Study of Terminological Variation in Specialised 
+Translation. Heine, C. & Engberg, J. (Eds.). Reconceptualizing LSP. Online proceedings of 
+the XVII European LSP Symposium 2009. Aarhus, pp. 1–14. [πρόσβαση 6 Ιουλίου 2021]. 
+Διαθέσιμο στο https://www.asb.dk/fileadmin/www.asb.dk/isek/kerremans.pdf  
+Kerremans, K. and Temmerman, R. (2016). Finding the (un)expected? Quantitative and 
+qualitative comparisons of term variants and their translations in a parallel corpus of EU 
+texts. In: G. Corpas-Pastor & M. Seghiri (Eds.) Corpus-based Approaches to Translation 
+and Interpreting: from theory to applications. Frankfurt am Main: Peter Lang, pp. 43–63. 
+Kerremans, K., Temmerman, R. and De Baer, P. (2008). Construing domain knowledge via 
+terminological understanding. Linguistica Antverpiensia 7, pp. 177–191. [πρόσβαση 6 
+Ιουλίου 
+2021]. 
+Διαθέσιμο 
+από 
+https://lans-tts.uantwerpen.be/index.php/LANS-
+TTS/article/view/214/138  
+Koskinen, K. (2000). Institutional Illusions. Translating in the EU Commission. The 
+Translator 6(1), pp. 49–65. 
+León Araúz, P. and Cabezas García, M. (2020). Term and translation variation of multi-word 
+terms. In P. Mogorrón Huerta (Ed.) Multidisciplinary Analysis of the Phenomenon of 
+Phraseological Variation in Translation and Interpreting. MonTI Special Issue 6, pp.210–247. 
+Lerat, P. (2020). La langue juridique. International Journal for the Semiotics of Law, 1-41. 
+[πρόσβαση 6 Ιουλίου 2021]. Διαθέσιμο από doi: 10.1007/s11196-020-09794-7 
+Møller, B. (1998). À la recherche d’une terminochronie. Meta, 43 (3), 426-438. [πρόσβαση 6 
+Ιουλίου 2021]. Διαθέσιμο από http://www.erudit.org/revue/meta/1998/v43/n3/003655ar.pdf  
+ΕΛΕΤΟ – 13o Συνέδριο «Ελληνική Γλώσσα και Ορολογία» 
+11–13 Νοεμβρίου 2021, Διαδικτυακό 
+ 
+ 
+308 
+308
+Peruzzo, K. (2013). Short-period evolution in EU legal texts: old and new terms, old and new 
+concepts. Linguistica 53(2), pp. 39–53. 
+Picton, A. (2011). Picturing short-period diachronic phenomena in specialised corpora: A 
+textual terminology description of the dynamics of knowledge in space technologies. 
+Terminology 17(1), pp.134–156. 
+Picton, A. (2014). The dynamics of terminology in short-term diachrony. A proposal for a 
+corpus-based methodology to observe knowledge evolution. In R. Temmerman and M. Van 
+Campenhoudt (Eds.) Dynamics and Terminology. An interdisciplinary perspective on 
+monolingual and multilingual culture-bound communication. Amsterdam/Philadelphia: John 
+Benjamins, pp. 157–182. 
+Picton, A. (2018). The dynamics of terminology in short-term diachrony. In R. Temmerman 
+and M. Van Campenhoudt (Eds.) Dynamics and Terminology. Amsterdam / Philadelphia: 
+John Benjamins, pp. 159–182. 
+Steinberger, R., Ebrahim, M., Poulis, A., Carrasco-Benitez, M., Schlüter, P., Przybyszewski, 
+M. & Gilbro, S. (2014). An overview of the European Union’s highly multilingual parallel 
+corpora. Language Resources and Evaluation 48, pp. 679–707. [πρόσβαση 6 Ιουλίου 2021]. 
+Διαθέσιμο από https://link.springer.com/article/10.1007/s10579-014-9277-0 
+Temmerman, R. (2000). Towards New Ways of Terminology Description. The 
+Sociocognitive Approach. Amsterdam/Philadelphia: John Benjamins Publishing. 
+Wermuth, M.-C. & Verplaetse, H. (2018). Medical terminology in the Western world: current 
+situation. In A. Alsulaiman and A. Allaithy (Eds.) Handbook of Terminology. Terminology in 
+the Arab world. Amsterdam/Philadelphia: John Benjamins, pp. 83–108. 
+ 
+ 
+Θεόδωρος Βυζάς 
+Διδάσκων ΠΔ407/80, Ιόνιο Πανεπιστήμιο – ΤΞΓΜΔ 
+Ηλ-ταχ.: vyzas@ionio.gr  
+ 
+ 
+Ελευθερία Δογορίτη 
+Αναπληρώτρια Καθηγήτρια 
+Τμήμα Ψυχολογίας, Πανεπιστήμιο Ιωαννίνων 
+Ηλ-ταχ.: edogor@uoi.gr  
+ 
+ 
+ 

@@ -1,0 +1,31 @@
+SOURCE: https://eleto.gr/en/terminology-resources/terminological-databases/search-instructions/
+
+Terminological databases
+ELETO’s Termbank consists of the following terminological databases:
+TELETERM
+(Telecommunications – Resulting from the work of MOTO)
+INFORTERM
+(Information Technology – Resulting from the work of the group ELOT/TC48/WG1)
+TERMTERM
+(Terminology Science) – Resulting from the work of the group ELOT/TC21)
+ACOUTERM
+(Acoustics – Resulting from the work of the group ELOT/TC2/WG5)
+ELECTERM
+(Electrotechnology – Resulting from the electrotechnical standardization)
+LEXITERM
+(Telecommunications – English-Greek-French database from the quadrilingual dictionary of telecommunications terminology by J. P. Rehahn-ELETO)
+EMCTERM
+(ElectroMagnetic Compatibility – Resulting from the work of the group ELOT/TC80/WG1)
+SENSOTERM
+(Sensory analysis – EN-GR-FR-GE termbase based on the work done at GESY)
+Search restrictions
+The following restrictions apply when searching:
+When searching a
+whole word
+there is no restriction.
+When searching a
+term part
+you should enter at least 3 characters.
+When searching an
+abbreviation part
+you should enter at least 2 characters.
