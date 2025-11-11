@@ -258,29 +258,13 @@ MODEL_CONFIG = {
 }
 
 class MultiLLMManager:
-    """Manages multiple LLM providers with support for user API keys"""
+    """Manages multiple LLM providers - USERS MUST PROVIDE THEIR OWN API KEYS"""
     
     def __init__(self):
         self.default_provider = LLMProvider.GEMINI_2_5_PRO
         # Store user API keys per session (in-memory for now, can be moved to DB)
+        # NO SYSTEM API KEYS - users must provide their own
         self.user_api_keys = {}  # {session_id: {provider_type: api_key}}
-        # System API keys (from env/files)
-        self.system_api_keys = {
-            "gemini": self._get_system_api_key("GEMINI_API_KEY", ".gemini_api_key"),
-            "anthropic": self._get_system_api_key("ANTHROPIC_API_KEY", ".anthropic_api_key"),
-            "openai": self._get_system_api_key("OPENAI_API_KEY", ".openai_api_key"),
-        }
-    
-    def _get_system_api_key(self, env_var: str, file_path: str) -> Optional[str]:
-        """Get API key from environment or file"""
-        api_key = os.environ.get(env_var)
-        if api_key:
-            return api_key
-        try:
-            with open(file_path, "r") as f:
-                return f.read().strip()
-        except FileNotFoundError:
-            return None
     
     def set_user_api_key(self, session_id: str, provider_type: str, api_key: str):
         """Set user API key for a session"""
@@ -290,15 +274,10 @@ class MultiLLMManager:
         logger.info(f"Set user API key for {provider_type} (session: {session_id[:8]}...)")
     
     def get_api_key(self, session_id: Optional[str], provider_type: str) -> Optional[str]:
-        """Get API key - user key takes priority, then system key"""
-        # Check user key first
+        """Get API key - ONLY user-provided keys, NO system fallback"""
         if session_id and session_id in self.user_api_keys:
-            user_key = self.user_api_keys[session_id].get(provider_type)
-            if user_key:
-                return user_key
-        
-        # Fallback to system key
-        return self.system_api_keys.get(provider_type)
+            return self.user_api_keys[session_id].get(provider_type)
+        return None
     
     def get_available_models(self, session_id: Optional[str] = None) -> Dict[str, Dict[str, Any]]:
         """Get list of all available models with their availability status"""
@@ -356,8 +335,8 @@ class MultiLLMManager:
         
         if not api_key:
             raise HTTPException(
-                status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-                detail=f"API key not found for {provider_type}. Please set your API key in settings."
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail=f"API key required for {provider_type}. Please provide your own API key in the settings (click the ⚙️ icon)."
             )
         
         try:
@@ -2295,12 +2274,7 @@ async def get_api_keys(request: Request):
     }
     
     return JSONResponse(content={
-        "has_user_keys": keys_status,
-        "has_system_keys": {
-            "gemini": llm_manager.system_api_keys.get("gemini") is not None,
-            "anthropic": llm_manager.system_api_keys.get("anthropic") is not None,
-            "openai": llm_manager.system_api_keys.get("openai") is not None
-        }
+        "has_user_keys": keys_status
     })
 
 @app.post("/api/set-default-provider")
