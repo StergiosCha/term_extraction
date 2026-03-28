@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assisted Terminography Research | Spring 2026</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.5);
+            --bg: #0f172a;
+            --glass: rgba(30, 41, 59, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.1);
+            --text: #f8fafc;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            background-image:
+                radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.15) 0px, transparent 50%);
+            color: var(--text);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            background: var(--glass);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--glass-border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #818cf8, #c084fc);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        h1,
+        h2,
+        h3 {
+            margin-top: 0;
+        }
+
+        .btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 0 15px var(--primary-glow);
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+            transform: scale(1.02);
+            box-shadow: 0 0 25px var(--primary-glow);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .input-group {
+            margin-bottom: 1.5rem;
+        }
+
+        input,
+        select,
+        textarea {
+            width: 100%;
+            background: rgba(15, 23, 42, 0.5);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            padding: 0.75rem;
+            color: white;
+            margin-top: 0.5rem;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            background: rgba(16, 185, 129, 0.2);
+            color: #10b981;
+        }
+
+        #project-list {
+            margin-top: 1rem;
+        }
+
+        .project-item {
+            padding: 1rem;
+            border-bottom: 1px solid var(--glass-border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="logo">TermResearch AI</div>
+        <div class="nav-links">
+            <span id="current-project">No Project Selected</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <header style="text-align: center; margin-bottom: 3rem;">
+            <h1>Πρωτόκολλο Έρευνας: AI Assisted Terminography</h1>
+            <p style="opacity: 0.7;">Εαρινό Εξάμηνο 2026</p>
+        </header>
+
+        <div class="grid">
+            <!-- Project Management -->
+            <div class="card">
+                <h2>1. Διαχείριση Έργου</h2>
+                <div class="input-group">
+                    <label>Όνομα Έργου</label>
+                    <input type="text" id="proj-name" placeholder="π.χ. COVID-19 Research">
+                </div>
+                <div class="input-group">
+                    <label>Θεματικό Πεδίο</label>
+                    <input type="text" id="proj-domain" placeholder="π.χ. Ιατρική">
+                </div>
+                <button class="btn" onclick="createProject()">Δημιουργία</button>
+
+                <div id="project-list">
+                    <!-- Projects will appear here -->
+                </div>
+            </div>
+
+            <!-- Corpus Upload -->
+            <div class="card">
+                <h2>2. Σχηματισμός Corpus</h2>
+                <div class="input-group">
+                    <label>Επιλογή Αρχείου (TXT, PDF, DOCX)</label>
+                    <input type="file" id="corpus-file">
+                </div>
+                <div class="input-group">
+                    <label>Γλώσσα</label>
+                    <select id="corpus-lang">
+                        <option value="en">Αγγλικά</option>
+                        <option value="el">Ελληνικά</option>
+                    </select>
+                </div>
+                <button class="btn" onclick="uploadCorpus()">Μεταφόρτωση</button>
+                <div id="corpus-list" style="margin-top: 1rem;"></div>
+            </div>
+        </div>
+
+        <!-- Extraction Controls -->
+        <div class="card">
+            <h2>3. Εξαγωγή & Πειραματισμός</h2>
+            <div class="grid">
+                <div>
+                    <h3>Επιλογή Μοντέλου</h3>
+                    <select id="global-model-select">
+                        <!-- Populated dynamically -->
+                    </select>
+                </div>
+                <div>
+                    <h3>Εξαγωγή Όρων</h3>
+                    <button class="btn" id="extract-btn" style="background: #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.5);" onclick="extractTerms()">Έναρξη Εξαγωγής</button>
+                </div>
+                <div>
+                    <h3>Εξαγωγή Ορισμών (TAG)</h3>
+                    <p>Σύγκριση 3 προτροπών + RAG</p>
+                    <button class="btn" style="background: #10b981; box-shadow: 0 0 15px rgba(16, 185, 129, 0.5);" onclick="runAllExperiments()">Run All</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <h2>4. Αποτελέσματα & Επαλήθευση</h2>
+                <button class="btn" onclick="exportCSV()" style="background: #64748b;">Download CSV</button>
+            </div>
+            <div style="overflow-x: auto;">
+                <table style="width: 100%; border-collapse: collapse;">
+                    <thead>
+                        <tr style="text-align: left; border-bottom: 2px solid var(--glass-border);">
+                            <th style="padding: 1rem;">Όρος</th>
+                            <th style="padding: 1rem;">Ορισμός (Model A)</th>
+                            <th style="padding: 1rem;">Ορισμός (Model B)</th>
+                            <th style="padding: 1rem;">RAG Result</th>
+                            <th style="padding: 1rem;">Validation</th>
+                        </tr>
+                    </thead>
+                    <tbody id="results-body">
+                        <!-- Extraction results will live here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentProjectId = null;
+
+        async function createProject() {
+            const name = document.getElementById('proj-name').value;
+            const domain = document.getElementById('proj-domain').value;
+
+            const formData = new FormData();
+            formData.append('name', name);
+            formData.append('domain', domain);
+
+            const resp = await fetch('/api/projects', {
+                method: 'POST',
+                body: formData
+            });
+            const data = await resp.json();
+            currentProjectId = data.id;
+            document.getElementById('current-project').innerText = `Project: ${data.name}`;
+            loadProjects();
+        }
+
+        async function loadProjects() {
+            const resp = await fetch('/api/projects');
+            const data = await resp.json();
+            const list = document.getElementById('project-list');
+            list.innerHTML = '<h3>Υπάρχοντα Έργα:</h3>';
+            data.forEach(p => {
+                list.innerHTML += `<div class="project-item">
+                    <span>${p.name} (${p.domain})</span>
+                    <button class="btn" style="padding: 0.4rem 0.8rem; font-size: 0.8rem;" onclick="selectProject(${p.id}, '${p.name}')">Επιλογή</button>
+                </div>`;
+            });
+        }
+
+        async function selectProject(id, name) {
+            currentProjectId = id;
+            document.getElementById('current-project').innerText = `Project: ${name}`;
+            loadTerms();
+            loadCorpusFiles();
+        }
+
+        async function loadCorpusFiles() {
+            if (!currentProjectId) return;
+            const resp = await fetch(`/api/projects/${currentProjectId}/corpus-list`); // Need to implement this endpoint
+            if (resp.status !== 200) return;
+            const data = await resp.json();
+            const list = document.getElementById('corpus-list');
+            list.innerHTML = '<h3>Αρχεία Corpus:</h3>';
+            data.forEach(f => {
+                list.innerHTML += `<div>📄 ${f.filename} (${f.language})</div>`;
+            });
+        }
+
+        async function extractTerms() {
+            if (!currentProjectId) return alert('Select a project first');
+            const btn = document.getElementById('extract-btn');
+            const model = document.getElementById('global-model-select').value;
+            btn.innerText = 'Extracting...';
+            btn.disabled = true;
+
+            const formData = new FormData();
+            formData.append('model', model);
+
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/extract-terms`, {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await resp.json();
+                alert(`Extracted ${data.extracted_count} term candidates!`);
+                loadTerms();
+            } catch (e) {
+                alert('Extraction failed');
+            } finally {
+                btn.innerText = 'Έναρξη Εξαγωγής';
+                btn.disabled = false;
+            }
+        }
+
+        async function loadTerms() {
+            if (!currentProjectId) return;
+            const resp = await fetch(`/api/projects/${currentProjectId}/terms`);
+            const data = await resp.json();
+            const body = document.getElementById('results-body');
+            body.innerHTML = '';
+            data.sort((a, b) => b.frequency - a.frequency).forEach(t => {
+                body.innerHTML += `<tr id="term-row-${t.id}">
+                    <td style="padding: 1rem;">${t.term} <span style="opacity:0.5; font-size:0.7rem;">(${t.frequency})</span></td>
+                    <td id="def-zero-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
+                    <td id="def-few-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
+                    <td id="def-rag-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
+                    <td style="padding: 1rem;">
+                        <button class="btn" style="padding: 0.25rem 0.5rem; font-size: 0.7rem;" onclick="runExperiment(${t.id})">Run TAG</button>
+                    </td>
+                </tr>`;
+            });
+        }
+
+        async function runExperiment(termId) {
+            const btn = document.querySelector(`#term-row-${termId} button`);
+            const model = document.getElementById('global-model-select').value;
+            btn.innerText = '⏳';
+            btn.disabled = true;
+
+            const formData = new FormData();
+            formData.append('term_id', termId);
+            formData.append('model', model);
+
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/extract-definitions`, {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await resp.json();
+
+                // Update specific cells
+                const zero = data.results.find(r => r.type === 'zero-shot');
+                const few = data.results.find(r => r.type === 'few-shot');
+                const rag = data.results.find(r => r.type === 'rag-enhanced');
+
+                if (zero) document.getElementById(`def-zero-${termId}`).innerText = zero.text;
+                if (few) document.getElementById(`def-few-${termId}`).innerText = few.text;
+                if (rag) document.getElementById(`def-rag-${termId}`).innerText = rag.text;
+
+            } catch (e) {
+                alert('Experiment failed');
+            } finally {
+                btn.innerText = 'Recalculate';
+                btn.disabled = false;
+            }
+        }
+
+        async function runAllExperiments() {
+            const buttons = document.querySelectorAll('button[onclick^="runExperiment"]');
+            for (let btn of buttons) {
+                const termId = btn.getAttribute('onclick').match(/\d+/)[0];
+                await runExperiment(termId);
+            }
+        }
+
+        async function exportCSV() {
+            if (!currentProjectId) return;
+            window.location.href = `/api/projects/${currentProjectId}/export`;
+        }
+
+        async function uploadCorpus() {
+            if (!currentProjectId) return alert('Select a project first');
+            const file = document.getElementById('corpus-file').files[0];
+            const lang = document.getElementById('corpus-lang').value;
+
+            const formData = new FormData();
+            formData.append('file', file);
+            formData.append('language', lang);
+
+            const resp = await fetch(`/api/projects/${currentProjectId}/corpus`, {
+                method: 'POST',
+                body: formData
+            });
+            const data = await resp.json();
+            alert(`Uploaded: ${data.filename}`);
+        }
+
+        async function loadModels() {
+            console.log("Fetching models from /api/llm-list...");
+            try {
+                const resp = await fetch('/api/llm-list');
+                const models = await resp.json();
+                console.log("Models received:", models);
+                const select = document.getElementById('global-model-select');
+                select.innerHTML = '';
+                
+                let foundAvailable = false;
+                for (const [id, config] of Object.entries(models)) {
+                    const opt = document.createElement('option');
+                    opt.value = id;
+                    opt.innerText = config.name + (config.available ? "" : " (No Key)");
+                    if (!config.available) opt.disabled = true;
+                    else foundAvailable = true;
+                    select.appendChild(opt);
+                }
+                
+                if (!foundAvailable) {
+                    const opt = document.createElement('option');
+                    opt.innerText = "No models available (Check API Keys)";
+                    select.appendChild(opt);
+                }
+            } catch (e) {
+                console.error("Failed to load models:", e);
+            }
+        }
+
+        // Initialize
+        loadProjects();
+        loadModels();
+    </script>
+</body>
+
+</html>

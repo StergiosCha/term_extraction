@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pkl
+*.db
+*.index
+*.pyc
+.env
+.DS_Store
+*.pdf
+papers/
+logs/
+chunks*.pkl
+embeddings*.pkl
+sources*.pkl
+terminology_data/
