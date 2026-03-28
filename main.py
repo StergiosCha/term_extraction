@@ -113,6 +113,19 @@ class LLMProvider(str, Enum):
     OR_CLAUDE_3_7_SONNET = "openrouter/anthropic/claude-3.7-sonnet"
     OR_GPT_4O = "openrouter/openai/gpt-4o"
     OR_DEEPSEEK_V3 = "openrouter/deepseek/deepseek-chat"
+    OR_GEMINI_2_0_FLASH_LITE = "openrouter/google/gemini-2.0-flash-lite-001"
+    OR_GEMINI_2_5_FLASH_LITE = "openrouter/google/gemini-2.5-flash-lite"
+    OR_GEMINI_3_0_FLASH_LITE = "openrouter/google/gemini-3.0-flash-lite"
+    OR_GPT_5_2 = "openrouter/openai/gpt-5.2"
+    OR_GPT_5_2_PREVIEW = "openrouter/openai/gpt-5.2-preview"
+    OR_CLAUDE_4_5_SONNET = "openrouter/anthropic/claude-4.5-sonnet"
+    OR_CLAUDE_4_5_OPUS = "openrouter/anthropic/claude-4.5-opus"
+    OR_CLAUDE_4_1_SONNET = "openrouter/anthropic/claude-4.1-sonnet"
+    OR_CLAUDE_4_1_OPUS = "openrouter/anthropic/claude-4.1-opus"
+    OR_LLAMA_3_1_8B = "openrouter/meta-llama/llama-3.1-8b-instruct"
+    OR_LLAMA_3_1_70B = "openrouter/meta-llama/llama-3.1-70b-instruct"
+    OR_LLAMA_3_1_405B = "openrouter/meta-llama/llama-3.1-405b-instruct"
+    OR_MISTRAL_LARGE = "openrouter/mistralai/mistral-large-2411"
 
 # Model Configuration
 MODEL_CONFIG = {
@@ -290,6 +303,110 @@ MODEL_CONFIG = {
         "max_tokens": 4096,
         "supports_streaming": True
     },
+    LLMProvider.OR_GEMINI_2_0_FLASH_LITE: {
+        "name": "Gemini 2.0 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-2.0-flash-lite-001",
+        "description": "Fast lightweight Gemini 2.0",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GEMINI_2_5_FLASH_LITE: {
+        "name": "Gemini 2.5 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-2.5-flash-lite",
+        "description": "Upcoming fast Gemini 2.5",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GEMINI_3_0_FLASH_LITE: {
+        "name": "Gemini 3.0 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-3.0-flash-lite",
+        "description": "Upcoming modular Gemini 3.0",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GPT_5_2: {
+        "name": "GPT-5.2 (OR)",
+        "provider": "openrouter",
+        "model_id": "openai/gpt-5.2",
+        "description": "Next generation GPT",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GPT_5_2_PREVIEW: {
+        "name": "GPT-5.2 Preview (OR)",
+        "provider": "openrouter",
+        "model_id": "openai/gpt-5.2-preview",
+        "description": "Next generation GPT early preview",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_5_SONNET: {
+        "name": "Claude 4.5 Sonnet (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.5-sonnet",
+        "description": "Next generation Claude Sonnet",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_5_OPUS: {
+        "name": "Claude 4.5 Opus (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.5-opus",
+        "description": "Next generation Claude Opus",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_1_SONNET: {
+        "name": "Claude 4.1 Sonnet (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.1-sonnet",
+        "description": "Upcoming Claude 4.1 Series",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_1_OPUS: {
+        "name": "Claude 4.1 Opus (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.1-opus",
+        "description": "Upcoming Claude 4.1 Opus",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_8B: {
+        "name": "Llama 3.1 8B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-8b-instruct",
+        "description": "Fast Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_70B: {
+        "name": "Llama 3.1 70B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-70b-instruct",
+        "description": "Powerful Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_405B: {
+        "name": "Llama 3.1 405B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-405b-instruct",
+        "description": "Massive Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_MISTRAL_LARGE: {
+        "name": "Mistral Large (OR)",
+        "provider": "openrouter",
+        "model_id": "mistralai/mistral-large-2411",
+        "description": "Mistral's flagship large model",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
 }
 
 class MultiLLMManager:
@@ -342,6 +459,11 @@ class MultiLLMManager:
         
         for model_enum, config in MODEL_CONFIG.items():
             provider_type = config["provider"]
+            
+            # Hide non-openrouter models from the UI dictionary
+            if provider_type != "openrouter":
+                continue
+                
             api_key = self.get_api_key(session_id, provider_type)
             
             available[model_enum.value] = {
