@@ -12,7 +12,6 @@ from typing import List, Optional
 from research_models import init_db, get_research_db, ResearchProject, CorpusFile, TermCandidate, DefinitionExperiment
 from dotenv import load_dotenv
 load_dotenv()
-import main  # Importing for utilities
 from symbolic_parser import SymbolicDefinitionParser
 import csv
 import io
@@ -32,23 +31,41 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
 app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
 
-# Reuse the LLM manager from main.py
-llm_manager = main.llm_manager
+# Lazy import of main.py — deferred to startup so the port binds first
+_main_module = None
+llm_manager = None
 
-# Debug logging and manual key injection
-env_keys = {
-    "gemini": os.getenv("GEMINI_API_KEY"),
-    "anthropic": os.getenv("ANTHROPIC_API_KEY"),
-    "openai": os.getenv("OPENAI_API_KEY"),
-    "openrouter": os.getenv("OPENROUTER_API_KEY"),
-}
-logger.info(f"Keys found in env: { {k: 'Present' if v else 'Missing' for k, v in env_keys.items()} }")
+def _get_main():
+    """Lazy import of main module to avoid blocking port binding with heavy ML model loading."""
+    global _main_module
+    if _main_module is None:
+        import main
+        _main_module = main
+    return _main_module
 
-for provider, key in env_keys.items():
-    if key:
-        llm_manager.system_api_keys[provider] = key
+@app.on_event("startup")
+async def startup_init_main():
+    """Load main.py and its heavy dependencies AFTER uvicorn has bound the port."""
+    global llm_manager
+    logger.info("Port is bound — now loading main module and LLM manager...")
+    main = _get_main()
+    llm_manager = main.llm_manager
 
-logger.info(f"Final manager keys: { {k: 'Present' if v else 'Missing' for k, v in llm_manager.system_api_keys.items()} }")
+    # Inject API keys
+    env_keys = {
+        "gemini": os.getenv("GEMINI_API_KEY"),
+        "anthropic": os.getenv("ANTHROPIC_API_KEY"),
+        "openai": os.getenv("OPENAI_API_KEY"),
+        "openrouter": os.getenv("OPENROUTER_API_KEY"),
+    }
+    logger.info(f"Keys found in env: { {k: 'Present' if v else 'Missing' for k, v in env_keys.items()} }")
+
+    for provider, key in env_keys.items():
+        if key:
+            llm_manager.system_api_keys[provider] = key
+
+    logger.info(f"Final manager keys: { {k: 'Present' if v else 'Missing' for k, v in llm_manager.system_api_keys.items()} }")
+    logger.info("Main module loaded successfully.")
 
 @app.get("/api/ping")
 async def ping():
@@ -102,10 +119,10 @@ async def upload_corpus(project_id: int, file: UploadFile = File(...), language:
     try:
         if filename.endswith(".pdf"):
             # Using main's EletoDocumentScraper logic roughly
-            scraper = main.EletoDocumentScraper()
+            scraper = _get_main().EletoDocumentScraper()
             text_content = scraper.extract_text_from_pdf(content_bytes)
         elif filename.endswith(".docx"):
-            scraper = main.EletoDocumentScraper()
+            scraper = _get_main().EletoDocumentScraper()
             text_content = scraper.extract_text_from_docx(content_bytes)
         else:
             text_content = content_bytes.decode("utf-8", errors="ignore")
@@ -173,7 +190,7 @@ async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5
             """
             
             try:
-                response_text = await main.generate_with_timeout_multi(prompt, provider=model)
+                response_text = await _get_main().generate_with_timeout_multi(prompt, provider=model)
                 # Cleanup potential markdown code blocks
                 if "```json" in response_text:
                     response_text = response_text.split("```json")[1].split("```")[0].strip()
@@ -260,7 +277,7 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
     # Run the 3 prompt experiments
     for p_type, p_text in prompts.items():
         try:
-            definition = await main.generate_with_timeout_multi(p_text, provider=model)
+            definition = await _get_main().generate_with_timeout_multi(p_text, provider=model)
             experiment = DefinitionExperiment(
                 term_id=term.id,
                 model_id=model,
@@ -293,7 +310,7 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
         {eval_guidelines}
         """
         
-        definition_rag = await main.generate_with_timeout_multi(rag_prompt, provider=model)
+        definition_rag = await _get_main().generate_with_timeout_multi(rag_prompt, provider=model)
         experiment_rag = DefinitionExperiment(
             term_id=term.id,
             model_id=model,
@@ -350,4 +367,4 @@ async def export_results(project_id: int, db: Session = Depends(get_research_db)
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8004)))
+    uvicorn.run(app, host="0.0.0.0", port=8004)

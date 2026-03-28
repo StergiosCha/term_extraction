@@ -20,13 +20,8 @@ from datetime import datetime, timedelta, date
 from enum import Enum
 from typing import List, Dict, Optional, Tuple, Any
 import numpy as np
-try:
-    from sentence_transformers import SentenceTransformer
-    import faiss
-except ImportError:
-    SentenceTransformer = None
-    faiss = None
-
+from sentence_transformers import SentenceTransformer
+import faiss
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
