@@ -111,7 +111,7 @@ async def list_models():
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
-    return templates.TemplateResponse("research.html", {"request": request})
+    return templates.TemplateResponse(request=request, name="research.html")
 
 # PROJECT ENDPOINTS
 @app.post("/api/projects")
