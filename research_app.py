@@ -1,5 +1,6 @@
 import os
 import io
+import asyncio
 from fastapi import FastAPI, Depends, HTTPException, UploadFile, File, Form, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
@@ -31,24 +32,17 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
 app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
 
-# Lazy import of main.py — deferred to startup so the port binds first
+# Lazy import of main.py — deferred so the port binds first
 _main_module = None
 llm_manager = None
+_main_ready = asyncio.Event()
 
-def _get_main():
-    """Lazy import of main module to avoid blocking port binding with heavy ML model loading."""
-    global _main_module
-    if _main_module is None:
-        import main
-        _main_module = main
-    return _main_module
-
-@app.on_event("startup")
-async def startup_init_main():
-    """Load main.py and its heavy dependencies AFTER uvicorn has bound the port."""
-    global llm_manager
-    logger.info("Port is bound — now loading main module and LLM manager...")
-    main = _get_main()
+def _load_main_sync():
+    """Import main module (heavy — loads ML models, FAISS, etc.)."""
+    global _main_module, llm_manager
+    logger.info("Loading main module and LLM manager in background...")
+    import main
+    _main_module = main
     llm_manager = main.llm_manager
 
     # Inject API keys
@@ -67,14 +61,38 @@ async def startup_init_main():
     logger.info(f"Final manager keys: { {k: 'Present' if v else 'Missing' for k, v in llm_manager.system_api_keys.items()} }")
     logger.info("Main module loaded successfully.")
 
+def _get_main():
+    """Get the main module (must be loaded already)."""
+    if _main_module is None:
+        raise HTTPException(status_code=503, detail="App is still loading, please retry in a moment.")
+    return _main_module
+
+async def _background_load_main():
+    """Run the heavy import in a thread so it doesn't block the event loop."""
+    try:
+        loop = asyncio.get_event_loop()
+        await loop.run_in_executor(None, _load_main_sync)
+        _main_ready.set()
+        logger.info("Background loading complete — all endpoints ready.")
+    except Exception as e:
+        logger.error(f"Failed to load main module: {e}")
+        logger.error("LLM endpoints will return 503 until this is fixed.")
+
+@app.on_event("startup")
+async def startup_init_main():
+    """Kick off main.py loading as a background task — startup completes immediately."""
+    logger.info("Startup complete — port is open. Loading main module in background...")
+    asyncio.create_task(_background_load_main())
+
 @app.get("/api/ping")
 async def ping():
-    return {"status": "ok", "app": "research_app"}
+    return {"status": "ok", "app": "research_app", "ready": _main_ready.is_set()}
 
 @app.get("/api/llm-list")
 async def list_models():
     """Returns available models from the main system with fallback"""
     try:
+        await _main_ready.wait()
         models = llm_manager.get_available_models()
         # Ensure it's not empty, if so provide common ones
         if not models:
