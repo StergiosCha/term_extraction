@@ -3,9 +3,18 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 from datetime import datetime
 
-# Separate database for research protocol
-DATABASE_URL = "sqlite:///./research.db"
-engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
+import os
+
+# Separate database for research protocol. Use external DB if provided in environment.
+DATABASE_URL = os.environ.get("DATABASE_URL", "sqlite:///./research.db")
+
+# Fix Heroku/Render legacy postgres:// URLs for SQLAlchemy 1.4+
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
+# Sqlite requires check_same_thread; Postgres doesn't
+connect_args = {"check_same_thread": False} if DATABASE_URL.startswith("sqlite") else {}
+engine = create_engine(DATABASE_URL, connect_args=connect_args)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
 
