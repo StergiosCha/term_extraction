@@ -19,6 +19,9 @@ import csv
 import io
 from fastapi.responses import HTMLResponse, JSONResponse, StreamingResponse
 
+# ── LLM utilities — lightweight, no main.py import ──
+from llm_utils import llm_manager, generate_with_timeout_multi, extract_text_from_pdf, extract_text_from_docx
+
 # Initialize logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -33,69 +36,28 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
 app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
 
-# Lazy import of main.py — deferred so the port binds first
-_main_module = None
-llm_manager = None
-_main_ready = asyncio.Event()
+# Inject API keys from environment into the manager
+_env_keys = {
+    "gemini": os.getenv("GEMINI_API_KEY"),
+    "anthropic": os.getenv("ANTHROPIC_API_KEY"),
+    "openai": os.getenv("OPENAI_API_KEY"),
+    "openrouter": os.getenv("OPENROUTER_API_KEY"),
+}
+for _provider, _key in _env_keys.items():
+    if _key:
+        llm_manager.system_api_keys[_provider] = _key
+logger.info(f"LLM keys: { {k: 'Present' if v else 'Missing' for k, v in llm_manager.system_api_keys.items()} }")
 
-def _load_main_sync():
-    """Import main module (heavy — loads ML models, FAISS, etc.)."""
-    global _main_module, llm_manager
-    logger.info("Loading main module and LLM manager in background...")
-    import main
-    _main_module = main
-    llm_manager = main.llm_manager
-
-    # Inject API keys
-    env_keys = {
-        "gemini": os.getenv("GEMINI_API_KEY"),
-        "anthropic": os.getenv("ANTHROPIC_API_KEY"),
-        "openai": os.getenv("OPENAI_API_KEY"),
-        "openrouter": os.getenv("OPENROUTER_API_KEY"),
-    }
-    logger.info(f"Keys found in env: { {k: 'Present' if v else 'Missing' for k, v in env_keys.items()} }")
-
-    for provider, key in env_keys.items():
-        if key:
-            llm_manager.system_api_keys[provider] = key
-
-    logger.info(f"Final manager keys: { {k: 'Present' if v else 'Missing' for k, v in llm_manager.system_api_keys.items()} }")
-    logger.info("Main module loaded successfully.")
-
-def _get_main():
-    """Get the main module (must be loaded already)."""
-    if _main_module is None:
-        raise HTTPException(status_code=503, detail="App is still loading, please retry in a moment.")
-    return _main_module
-
-async def _background_load_main():
-    """Run the heavy import in a thread so it doesn't block the event loop."""
-    try:
-        loop = asyncio.get_event_loop()
-        await loop.run_in_executor(None, _load_main_sync)
-        _main_ready.set()
-        logger.info("Background loading complete — all endpoints ready.")
-    except Exception as e:
-        logger.error(f"Failed to load main module: {e}")
-        logger.error("LLM endpoints will return 503 until this is fixed.")
-
-@app.on_event("startup")
-async def startup_init_main():
-    """Kick off main.py loading as a background task — startup completes immediately."""
-    logger.info("Startup complete — port is open. Loading main module in background...")
-    asyncio.create_task(_background_load_main())
 
 @app.get("/api/ping")
 async def ping():
-    return {"status": "ok", "app": "research_app", "ready": _main_ready.is_set()}
+    return {"status": "ok", "app": "research_app", "ready": True}
 
 @app.get("/api/llm-list")
 async def list_models():
-    """Returns available models from the main system with fallback"""
+    """Returns available models."""
     try:
-        await _main_ready.wait()
         models = llm_manager.get_available_models()
-        # Ensure it's not empty, if so provide common ones
         if not models:
              models = {
                 "gemini-1.5-pro": {"name": "Gemini 1.5 Pro", "available": True},
@@ -134,27 +96,22 @@ async def upload_corpus(project_id: int, file: UploadFile = File(...), language:
     filename = file.filename.lower()
     text_content = ""
 
-    # Reuse extractors from main.py if possible, otherwise use specialized tool logic
     try:
         if filename.endswith(".pdf"):
-            # Using main's EletoDocumentScraper logic roughly
-            scraper = _get_main().EletoDocumentScraper()
-            text_content = scraper.extract_text_from_pdf(content_bytes)
+            text_content = extract_text_from_pdf(content_bytes)
         elif filename.endswith(".docx"):
-            scraper = _get_main().EletoDocumentScraper()
-            text_content = scraper.extract_text_from_docx(content_bytes)
+            text_content = extract_text_from_docx(content_bytes)
         else:
             text_content = content_bytes.decode("utf-8", errors="ignore")
     except Exception as e:
         logger.error(f"Extraction failed for {filename}: {e}")
         raise HTTPException(status_code=400, detail="Could not extract text from file")
-    
+
     if not text_content:
         raise HTTPException(status_code=400, detail="Extracted text is empty")
 
-    # Basic cleaning
     cleaned_content = text_content.strip()
-    
+
     corpus_file = CorpusFile(
         project_id=project_id,
         filename=file.filename,
@@ -178,54 +135,50 @@ async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5
     project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
     if not project:
         raise HTTPException(status_code=404, detail="Project not found")
-    
+
     corpus_files = db.query(CorpusFile).filter(CorpusFile.project_id == project_id).all()
     if not corpus_files:
         raise HTTPException(status_code=400, detail="No corpus files found for this project")
 
-    # Load guidelines
     guidelines_path = os.path.join(os.path.dirname(__file__), "instructions", "term_extraction_guidelines.md")
     with open(guidelines_path, "r") as f:
         guidelines = f.read()
 
     extracted_terms_count = 0
-    
+
     for file in corpus_files:
-        # Process in chunks of ~2000 characters to keep context
         text_content = file.cleaned_content
         chunks = [text_content[i:i+4000] for i in range(0, len(text_content), 4000)]
-        
+
         for chunk in chunks:
             prompt = f"""
             System: You are an expert terminologist following ISO standards.
             Instructions:
             {guidelines}
-            
+
             Text to analyze ({file.language}):
             {chunk}
-            
-            Task: Extract domain-specific terms for '{project.domain}'. 
+
+            Task: Extract domain-specific terms for '{project.domain}'.
             Output format: A JSON array of strings only.
             """
-            
+
             try:
-                response_text = await _get_main().generate_with_timeout_multi(prompt, provider=model)
-                # Cleanup potential markdown code blocks
+                response_text = await generate_with_timeout_multi(prompt, provider=model)
                 if "```json" in response_text:
                     response_text = response_text.split("```json")[1].split("```")[0].strip()
                 elif "```" in response_text:
                     response_text = response_text.split("```")[1].split("```")[0].strip()
-                
+
                 terms = json.loads(response_text)
-                
+
                 for term_text in terms:
-                    # Check if exists
                     existing = db.query(TermCandidate).filter(
                         TermCandidate.project_id == project_id,
                         TermCandidate.term == term_text,
                         TermCandidate.language == file.language
                     ).first()
-                    
+
                     if existing:
                         existing.frequency += 1
                     else:
@@ -238,7 +191,7 @@ async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5
                         )
                         db.add(new_term)
                     extracted_terms_count += 1
-                
+
                 db.commit()
             except Exception as e:
                 logger.error(f"Error extracting terms from chunk: {e}")
@@ -257,12 +210,10 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
     if not term:
         raise HTTPException(status_code=404, detail="Term not found")
 
-    # Load definition guidelines
     eval_guidelines_path = os.path.join(os.path.dirname(__file__), "instructions", "definition_evaluation_grid.md")
     with open(eval_guidelines_path, "r") as f:
         eval_guidelines = f.read()
 
-    # Define 3 Prompt Strategies
     prompts = {
         "zero-shot": f"""
         Define the following term for the domain '{project.domain}': {term.term}.
@@ -274,29 +225,28 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
         Domain: Medicine (Celiac Disease)
         Term: Celiac Disease
         Definition: A chronic immune-mediated disorder triggered by gluten ingestion in genetically predisposed individuals, causing inflammation of the small intestine.
-        
+
         Domain: {project.domain}
         Term: {term.term}
-        Definition: 
+        Definition:
         """,
         "cot-enhanced": f"""
         Step 1: Identify the superordinate concept (genus) for '{term.term}' in {project.domain}.
         Step 2: Identify the specific characteristics (differentia) that distinguish it.
         Step 3: Combine them into a single, concise ISO-compliant definition.
-        
+
         Guidelines:
         {eval_guidelines}
-        
+
         Final Definition for '{term.term}':
         """
     }
 
     results = []
 
-    # Run the 3 prompt experiments
     for p_type, p_text in prompts.items():
         try:
-            definition = await _get_main().generate_with_timeout_multi(p_text, provider=model)
+            definition = await generate_with_timeout_multi(p_text, provider=model)
             experiment = DefinitionExperiment(
                 term_id=term.id,
                 model_id=model,
@@ -325,7 +275,7 @@ Define the term '{term.term}' for the domain '{project.domain}'.
 {eval_guidelines}
 Output ONLY the definition text."""
 
-        definition_krag = await _get_main().generate_with_timeout_multi(keyword_rag_prompt, provider=model)
+        definition_krag = await generate_with_timeout_multi(keyword_rag_prompt, provider=model)
         experiment_krag = DefinitionExperiment(
             term_id=term.id,
             model_id=model,
@@ -353,7 +303,7 @@ Define the term '{term.term}' for the domain '{project.domain}'.
 {eval_guidelines}
 Output ONLY the definition text."""
 
-        definition_vrag = await _get_main().generate_with_timeout_multi(vector_rag_prompt, provider=model)
+        definition_vrag = await generate_with_timeout_multi(vector_rag_prompt, provider=model)
         experiment_vrag = DefinitionExperiment(
             term_id=term.id,
             model_id=model,
@@ -376,31 +326,31 @@ async def auto_validate(experiment_id: int, db: Session = Depends(get_research_d
     exp = db.query(DefinitionExperiment).filter(DefinitionExperiment.id == experiment_id).first()
     if not exp:
         raise HTTPException(status_code=404, detail="Experiment not found")
-    
+
     term = db.query(TermCandidate).filter(TermCandidate.id == exp.term_id).first()
     parser = SymbolicDefinitionParser()
-    
+
     result = parser.validate_structure(exp.definition_text, term.term, lang=term.language)
-    
+
     exp.auto_valid = result["valid"]
     exp.auto_score = float(result["score"])
     exp.manual_comment = "; ".join(result["reasons"])
-    
+
     db.commit()
     return result
 
 @app.get("/api/projects/{project_id}/export")
 async def export_results(project_id: int, db: Session = Depends(get_research_db)):
     terms = db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all()
-    
+
     output = io.StringIO()
     writer = csv.writer(output)
     writer.writerow(["Term", "Language", "Model", "Strategy", "Definition", "Auto Valid", "Score", "Notes"])
-    
+
     for t in terms:
         for d in t.definitions:
             writer.writerow([t.term, t.language, d.model_id, d.prompt_type, d.definition_text, d.auto_valid, d.auto_score, d.manual_comment])
-            
+
     output.seek(0)
     return StreamingResponse(
         iter([output.getvalue()]),
@@ -418,7 +368,6 @@ async def delete_project(project_id: int, db: Session = Depends(get_research_db)
     if not project:
         raise HTTPException(status_code=404, detail="Project not found")
 
-    # Cascade delete: relations, experiments, terms, corpus, then project
     db.query(ConceptRelation).filter(ConceptRelation.project_id == project_id).delete()
     for term in db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all():
         db.query(DefinitionExperiment).filter(DefinitionExperiment.term_id == term.id).delete()
@@ -462,12 +411,10 @@ async def neurosymbolic_define(
     if not term:
         raise HTTPException(status_code=404, detail="Term not found")
 
-    # Load eval guidelines
     eval_guidelines_path = os.path.join(os.path.dirname(__file__), "instructions", "definition_evaluation_grid.md")
     with open(eval_guidelines_path, "r") as f:
         eval_guidelines = f.read()
 
-    # Get all project terms for genus-in-termbase check
     all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all()
     known_term_strings = [t.term for t in all_terms]
     parser = SymbolicDefinitionParser(known_terms=known_term_strings)
@@ -488,7 +435,6 @@ async def neurosymbolic_define(
                 rag_context = "\n".join([r["text"] for r in rag_results])
                 rag_sources_data = {"method": "vector", "passages": [{"text": r["text"], "score": r["score"]} for r in rag_results]}
 
-    # Build initial prompt
     rag_preamble = ""
     if rag_context:
         rag_preamble = f"""Using the following context retrieved from our corpus ({rag_mode} retrieval):
@@ -506,15 +452,12 @@ Output ONLY the definition text, nothing else."""
 
     for i in range(max_iterations):
         try:
-            # Neural: generate definition
-            definition = await _get_main().generate_with_timeout_multi(current_prompt, provider=model)
+            definition = await generate_with_timeout_multi(current_prompt, provider=model)
             definition = definition.strip()
             current_definition = definition
 
-            # Symbolic: validate
             validation = parser.validate_structure(definition, term.term, lang=term.language)
 
-            # Save this iteration as an experiment
             experiment = DefinitionExperiment(
                 term_id=term.id,
                 model_id=model,
@@ -539,11 +482,9 @@ Output ONLY the definition text, nothing else."""
             }
             iterations.append(iteration_result)
 
-            # If valid, we're done
             if validation["valid"]:
                 break
 
-            # Generate feedback prompt for next iteration
             feedback = parser.get_feedback_prompt(definition, term.term, validation, lang=term.language)
             current_prompt = feedback
 
@@ -614,9 +555,8 @@ Rules:
 JSON array:"""
 
     try:
-        response_text = await _get_main().generate_with_timeout_multi(prompt, provider=model)
+        response_text = await generate_with_timeout_multi(prompt, provider=model)
 
-        # Clean markdown fences
         if "```json" in response_text:
             response_text = response_text.split("```json")[1].split("```")[0].strip()
         elif "```" in response_text:
@@ -627,7 +567,6 @@ JSON array:"""
         logger.error(f"Relation extraction failed: {e}")
         raise HTTPException(status_code=500, detail=f"LLM extraction failed: {str(e)}")
 
-    # Save relations to DB
     saved_relations = []
     for rel in relations_raw:
         source_label = rel.get("source", "")
@@ -661,7 +600,6 @@ JSON array:"""
     # ── Symbolic graph validation ──
     graph_issues = _validate_concept_graph(saved_relations)
 
-    # Update validation notes in DB
     if graph_issues:
         relations_in_db = db.query(ConceptRelation).filter(
             ConceptRelation.project_id == project_id,
@@ -712,8 +650,7 @@ def _validate_concept_graph(relations: list) -> list:
     """
     issues = []
 
-    # Build adjacency lists per relation type
-    isa_graph = {}  # for cycle detection in hierarchies
+    isa_graph = {}
     all_edges = set()
 
     for rel in relations:
@@ -721,7 +658,6 @@ def _validate_concept_graph(relations: list) -> list:
         tgt = rel["target"].lower()
         rtype = rel["relation"]
 
-        # Self-reference check
         if src == tgt:
             issues.append({
                 "type": "self_reference",
@@ -730,7 +666,6 @@ def _validate_concept_graph(relations: list) -> list:
             })
             continue
 
-        # Duplicate check
         edge_key = (src, rtype, tgt)
         if edge_key in all_edges:
             issues.append({
@@ -740,11 +675,9 @@ def _validate_concept_graph(relations: list) -> list:
             })
         all_edges.add(edge_key)
 
-        # Build IS-A graph for cycle detection
         if rtype == "IS-A":
             isa_graph.setdefault(src, []).append(tgt)
 
-    # Cycle detection in IS-A hierarchy (DFS)
     visited = set()
     rec_stack = set()
 
@@ -775,7 +708,6 @@ def _validate_concept_graph(relations: list) -> list:
                     ],
                 })
 
-    # Contradiction check: A IS-A B and B IS-A A
     for src, targets in isa_graph.items():
         for tgt in targets:
             if tgt in isa_graph and src in isa_graph[tgt]:
@@ -801,7 +733,6 @@ async def auto_validate_enhanced(experiment_id: int, db: Session = Depends(get_r
 
     term = db.query(TermCandidate).filter(TermCandidate.id == exp.term_id).first()
 
-    # Get all project terms for genus-in-termbase check
     all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == term.project_id).all()
     known_term_strings = [t.term for t in all_terms]
     parser = SymbolicDefinitionParser(known_terms=known_term_strings)

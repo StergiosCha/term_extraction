@@ -1,33 +1,55 @@
 """
 Per-project vector RAG for the research app.
 
-Builds a lightweight FAISS index from a project's corpus files,
-embeds queries with SentenceTransformer, and returns the top-k
-most relevant passages. Lazy-loads the model on first use.
+Embeds corpus chunks via the OpenAI embeddings API (text-embedding-3-small),
+then retrieves top-k by cosine similarity using numpy. No local ML models,
+no FAISS, no PyTorch — runs on Render's free tier without issues.
 
-Designed to be self-contained — no dependency on main.py's RAG system.
+Also provides keyword-based retrieval for comparison experiments.
 """
 
+import os
 import logging
 import numpy as np
 from typing import List, Tuple, Optional
 
 logger = logging.getLogger(__name__)
 
-# Lazy-loaded globals
-_embedding_model = None
-_MODEL_NAME = "all-MiniLM-L6-v2"
+_EMBED_MODEL = "text-embedding-3-small"
+_openai_client = None
 
 
-def _get_model():
-    """Lazy-load the SentenceTransformer model on first use."""
-    global _embedding_model
-    if _embedding_model is None:
-        logger.info(f"Loading SentenceTransformer model '{_MODEL_NAME}'...")
-        from sentence_transformers import SentenceTransformer
-        _embedding_model = SentenceTransformer(_MODEL_NAME)
-        logger.info("SentenceTransformer model loaded.")
-    return _embedding_model
+def _get_openai_client():
+    """Lazy-init OpenAI client."""
+    global _openai_client
+    if _openai_client is None:
+        import openai
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise RuntimeError("OPENAI_API_KEY not set — cannot use vector RAG")
+        _openai_client = openai.OpenAI(api_key=api_key)
+        logger.info("OpenAI client initialized for embeddings.")
+    return _openai_client
+
+
+def _embed_texts(texts: List[str]) -> np.ndarray:
+    """
+    Embed a list of texts using OpenAI's embedding API.
+    Batches automatically (API supports up to 2048 inputs).
+    Returns a numpy array of shape (len(texts), embedding_dim).
+    """
+    client = _get_openai_client()
+
+    # OpenAI API has a limit on input size; batch in groups of 100
+    all_embeddings = []
+    batch_size = 100
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i:i + batch_size]
+        response = client.embeddings.create(model=_EMBED_MODEL, input=batch)
+        batch_embeddings = [item.embedding for item in response.data]
+        all_embeddings.extend(batch_embeddings)
+
+    return np.array(all_embeddings, dtype=np.float32)
 
 
 def chunk_text(text: str, chunk_size: int = 500, overlap: int = 100) -> List[str]:
@@ -47,7 +69,6 @@ def chunk_text(text: str, chunk_size: int = 500, overlap: int = 100) -> List[str
 
         # Try to break at a sentence boundary (., !, ?)
         if end < text_len:
-            # Look backward from end for a sentence boundary
             for i in range(end, max(start + chunk_size // 2, start), -1):
                 if text[i] in ".!?\n" and i + 1 < text_len:
                     end = i + 1
@@ -62,21 +83,13 @@ def chunk_text(text: str, chunk_size: int = 500, overlap: int = 100) -> List[str
     return chunks
 
 
-def build_project_index(corpus_texts: List[str], chunk_size: int = 500, overlap: int = 100) -> Tuple[Optional[object], List[str]]:
+def build_project_index(corpus_texts: List[str], chunk_size: int = 500, overlap: int = 100) -> Tuple[Optional[np.ndarray], List[str]]:
     """
-    Build a FAISS index from a list of corpus texts.
-
-    Args:
-        corpus_texts: list of full text content from corpus files
-        chunk_size: characters per chunk
-        overlap: overlap between chunks
+    Build an embedding index from corpus texts using OpenAI API.
 
     Returns:
-        (faiss_index, chunks_list) or (None, []) if empty
+        (embeddings_matrix, chunks_list) or (None, []) if empty
     """
-    import faiss
-
-    # Chunk all texts
     all_chunks = []
     for text in corpus_texts:
         all_chunks.extend(chunk_text(text, chunk_size, overlap))
@@ -85,51 +98,45 @@ def build_project_index(corpus_texts: List[str], chunk_size: int = 500, overlap:
         logger.warning("No chunks produced from corpus texts.")
         return None, []
 
-    logger.info(f"Embedding {len(all_chunks)} chunks for project index...")
-    model = _get_model()
-    embeddings = model.encode(all_chunks, show_progress_bar=False, convert_to_numpy=True)
+    logger.info(f"Embedding {len(all_chunks)} chunks via OpenAI API...")
+    embeddings = _embed_texts(all_chunks)
 
     # Normalize for cosine similarity
     norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
     norms[norms == 0] = 1
     embeddings = embeddings / norms
 
-    # Build FAISS index
-    dim = embeddings.shape[1]
-    index = faiss.IndexFlatIP(dim)  # Inner product on normalized = cosine sim
-    index.add(embeddings.astype(np.float32))
-
-    logger.info(f"FAISS index built with {index.ntotal} vectors (dim={dim}).")
-    return index, all_chunks
+    logger.info(f"Embeddings ready: {embeddings.shape[0]} vectors (dim={embeddings.shape[1]}).")
+    return embeddings, all_chunks
 
 
-def retrieve(query: str, faiss_index, chunks: List[str], top_k: int = 5) -> List[dict]:
+def retrieve(query: str, embeddings: Optional[np.ndarray], chunks: List[str], top_k: int = 5) -> List[dict]:
     """
-    Retrieve the top-k most relevant chunks for a query.
+    Retrieve the top-k most relevant chunks for a query using cosine similarity.
 
     Returns:
         list of {"text": str, "score": float, "rank": int}
     """
-    if faiss_index is None or not chunks:
+    if embeddings is None or not chunks:
         return []
 
-    model = _get_model()
-    query_embedding = model.encode([query], convert_to_numpy=True)
-
-    # Normalize
+    # Embed the query
+    query_embedding = _embed_texts([query])
     norm = np.linalg.norm(query_embedding)
     if norm > 0:
         query_embedding = query_embedding / norm
 
-    distances, indices = faiss_index.search(query_embedding.astype(np.float32), min(top_k, len(chunks)))
+    # Cosine similarity = dot product on normalized vectors
+    similarities = np.dot(embeddings, query_embedding.T).flatten()
+
+    # Get top-k indices
+    top_indices = np.argsort(similarities)[::-1][:top_k]
 
     results = []
-    for rank, (dist, idx) in enumerate(zip(distances[0], indices[0])):
-        if idx < 0:
-            continue
+    for rank, idx in enumerate(top_indices):
         results.append({
             "text": chunks[idx],
-            "score": float(dist),
+            "score": float(similarities[idx]),
             "rank": rank + 1,
         })
 
@@ -138,7 +145,7 @@ def retrieve(query: str, faiss_index, chunks: List[str], top_k: int = 5) -> List
 
 def keyword_retrieve(query: str, corpus_texts: List[str], top_k: int = 5) -> List[dict]:
     """
-    Simple keyword-based retrieval (the existing approach).
+    Simple keyword-based retrieval.
     Finds lines containing the query term.
 
     Returns:
