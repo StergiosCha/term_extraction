@@ -10,10 +10,11 @@ import logging
 import json
 from typing import List, Optional
 
-from research_models import init_db, get_research_db, ResearchProject, CorpusFile, TermCandidate, DefinitionExperiment
+from research_models import init_db, get_research_db, ResearchProject, CorpusFile, TermCandidate, DefinitionExperiment, ConceptRelation
 from dotenv import load_dotenv
 load_dotenv()
 from symbolic_parser import SymbolicDefinitionParser
+import project_rag
 import csv
 import io
 from fastapi.responses import HTMLResponse, JSONResponse, StreamingResponse
@@ -309,39 +310,63 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
         except Exception as e:
             logger.error(f"Experiment {p_type} failed: {e}")
 
-    # Add RAG Strategy (reusing main.rag_system effectively)
-    try:
-        # Placeholder for RAG logic - ideally we'd use main.TerminologyRAGSystem
-        # For the research protocol, we retrieve from the project's OWN corpus
-        corpus_text = "\n".join([f.cleaned_content for f in project.corpus_files])
-        # Simple "manual RAG" for this demo/request - find relevant context
-        context = ""
-        lines = corpus_text.split("\n")
-        relevant_lines = [line for line in lines if term.term.lower() in line.lower()][:5]
-        context = "\n".join(relevant_lines)
+    # Gather corpus texts for RAG
+    corpus_texts = [f.cleaned_content for f in project.corpus_files if f.cleaned_content]
 
-        rag_prompt = f"""
-        Using the following context from our corpus:
-        {context}
-        
-        Define the term '{term.term}' for the domain '{project.domain}'.
-        {eval_guidelines}
-        """
-        
-        definition_rag = await _get_main().generate_with_timeout_multi(rag_prompt, provider=model)
-        experiment_rag = DefinitionExperiment(
+    # ── Keyword RAG Strategy ──
+    try:
+        keyword_results = project_rag.keyword_retrieve(term.term, corpus_texts, top_k=5)
+        keyword_context = "\n".join([r["text"] for r in keyword_results])
+
+        keyword_rag_prompt = f"""Using the following context retrieved from our corpus via keyword matching:
+{keyword_context}
+
+Define the term '{term.term}' for the domain '{project.domain}'.
+{eval_guidelines}
+Output ONLY the definition text."""
+
+        definition_krag = await _get_main().generate_with_timeout_multi(keyword_rag_prompt, provider=model)
+        experiment_krag = DefinitionExperiment(
             term_id=term.id,
             model_id=model,
-            prompt_type="rag-enhanced",
-            prompt_content=rag_prompt,
-            definition_text=definition_rag.strip(),
+            prompt_type="keyword-rag",
+            prompt_content=keyword_rag_prompt,
+            definition_text=definition_krag.strip(),
             is_rag=True,
-            rag_sources={"lines": relevant_lines}
+            rag_sources={"method": "keyword", "passages": [r["text"] for r in keyword_results]}
         )
-        db.add(experiment_rag)
-        results.append({"type": "rag-enhanced", "text": definition_rag.strip()})
+        db.add(experiment_krag)
+        results.append({"type": "keyword-rag", "text": definition_krag.strip()})
     except Exception as e:
-        logger.error(f"RAG experiment failed: {e}")
+        logger.error(f"Keyword-RAG experiment failed: {e}")
+
+    # ── Vector RAG Strategy ──
+    try:
+        faiss_index, chunks = project_rag.build_project_index(corpus_texts)
+        vector_results = project_rag.retrieve(term.term, faiss_index, chunks, top_k=5)
+        vector_context = "\n".join([r["text"] for r in vector_results])
+
+        vector_rag_prompt = f"""Using the following context retrieved from our corpus via semantic vector search:
+{vector_context}
+
+Define the term '{term.term}' for the domain '{project.domain}'.
+{eval_guidelines}
+Output ONLY the definition text."""
+
+        definition_vrag = await _get_main().generate_with_timeout_multi(vector_rag_prompt, provider=model)
+        experiment_vrag = DefinitionExperiment(
+            term_id=term.id,
+            model_id=model,
+            prompt_type="vector-rag",
+            prompt_content=vector_rag_prompt,
+            definition_text=definition_vrag.strip(),
+            is_rag=True,
+            rag_sources={"method": "vector", "passages": [{"text": r["text"], "score": r["score"]} for r in vector_results]}
+        )
+        db.add(experiment_vrag)
+        results.append({"type": "vector-rag", "text": definition_vrag.strip()})
+    except Exception as e:
+        logger.error(f"Vector-RAG experiment failed: {e}")
 
     db.commit()
     return {"term": term.term, "results": results}
@@ -382,6 +407,414 @@ async def export_results(project_id: int, db: Session = Depends(get_research_db)
         media_type="text/csv",
         headers={"Content-Disposition": f"attachment; filename=research_results_{project_id}.csv"}
     )
+
+# ══════════════════════════════════════════════════════════════
+# DELETE PROJECT
+# ══════════════════════════════════════════════════════════════
+
+@app.delete("/api/projects/{project_id}")
+async def delete_project(project_id: int, db: Session = Depends(get_research_db)):
+    project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
+    if not project:
+        raise HTTPException(status_code=404, detail="Project not found")
+
+    # Cascade delete: relations, experiments, terms, corpus, then project
+    db.query(ConceptRelation).filter(ConceptRelation.project_id == project_id).delete()
+    for term in db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all():
+        db.query(DefinitionExperiment).filter(DefinitionExperiment.term_id == term.id).delete()
+    db.query(TermCandidate).filter(TermCandidate.project_id == project_id).delete()
+    db.query(CorpusFile).filter(CorpusFile.project_id == project_id).delete()
+    db.delete(project)
+    db.commit()
+    return {"status": "deleted", "project_id": project_id}
+
+
+# ══════════════════════════════════════════════════════════════
+# NEURO-SYMBOLIC FEEDBACK LOOP
+# ══════════════════════════════════════════════════════════════
+
+@app.post("/api/projects/{project_id}/neurosymbolic-define")
+async def neurosymbolic_define(
+    project_id: int,
+    term_id: int = Form(...),
+    model: str = Form("gemini-1.5-pro"),
+    max_iterations: int = Form(3),
+    rag_mode: str = Form("none"),
+    db: Session = Depends(get_research_db)
+):
+    """
+    Neuro-symbolic definition generation with feedback loop.
+    1. (Optional) Retrieve context from corpus via keyword or vector RAG
+    2. LLM generates an initial definition
+    3. Symbolic parser validates it
+    4. If validation fails, parser generates targeted feedback
+    5. LLM rewrites the definition using the feedback
+    6. Repeat until valid or max_iterations reached
+    Each iteration is saved as a separate DefinitionExperiment.
+
+    rag_mode: "none" | "keyword" | "vector"
+    """
+    project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
+    if not project:
+        raise HTTPException(status_code=404, detail="Project not found")
+
+    term = db.query(TermCandidate).filter(TermCandidate.id == term_id).first()
+    if not term:
+        raise HTTPException(status_code=404, detail="Term not found")
+
+    # Load eval guidelines
+    eval_guidelines_path = os.path.join(os.path.dirname(__file__), "instructions", "definition_evaluation_grid.md")
+    with open(eval_guidelines_path, "r") as f:
+        eval_guidelines = f.read()
+
+    # Get all project terms for genus-in-termbase check
+    all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all()
+    known_term_strings = [t.term for t in all_terms]
+    parser = SymbolicDefinitionParser(known_terms=known_term_strings)
+
+    # Build RAG context if requested
+    rag_context = ""
+    rag_sources_data = None
+    if rag_mode in ("keyword", "vector"):
+        corpus_texts = [f.cleaned_content for f in project.corpus_files if f.cleaned_content]
+        if corpus_texts:
+            if rag_mode == "keyword":
+                rag_results = project_rag.keyword_retrieve(term.term, corpus_texts, top_k=5)
+                rag_context = "\n".join([r["text"] for r in rag_results])
+                rag_sources_data = {"method": "keyword", "passages": [r["text"] for r in rag_results]}
+            elif rag_mode == "vector":
+                faiss_index, chunks = project_rag.build_project_index(corpus_texts)
+                rag_results = project_rag.retrieve(term.term, faiss_index, chunks, top_k=5)
+                rag_context = "\n".join([r["text"] for r in rag_results])
+                rag_sources_data = {"method": "vector", "passages": [{"text": r["text"], "score": r["score"]} for r in rag_results]}
+
+    # Build initial prompt
+    rag_preamble = ""
+    if rag_context:
+        rag_preamble = f"""Using the following context retrieved from our corpus ({rag_mode} retrieval):
+{rag_context}
+
+"""
+
+    iterations = []
+    current_definition = None
+    prompt_type_prefix = f"neurosymbolic-{rag_mode}" if rag_mode != "none" else "neurosymbolic"
+    current_prompt = f"""{rag_preamble}Define the following term for the domain '{project.domain}': {term.term}.
+Follow these quality standards:
+{eval_guidelines}
+Output ONLY the definition text, nothing else."""
+
+    for i in range(max_iterations):
+        try:
+            # Neural: generate definition
+            definition = await _get_main().generate_with_timeout_multi(current_prompt, provider=model)
+            definition = definition.strip()
+            current_definition = definition
+
+            # Symbolic: validate
+            validation = parser.validate_structure(definition, term.term, lang=term.language)
+
+            # Save this iteration as an experiment
+            experiment = DefinitionExperiment(
+                term_id=term.id,
+                model_id=model,
+                prompt_type=f"{prompt_type_prefix}-iter-{i+1}",
+                prompt_content=current_prompt,
+                definition_text=definition,
+                is_rag=(rag_mode != "none"),
+                rag_sources=rag_sources_data if (i == 0 and rag_mode != "none") else None,
+                auto_valid=validation["valid"],
+                auto_score=float(validation["score"]),
+                manual_comment="; ".join(validation["reasons"]) if validation["reasons"] else "All checks passed",
+            )
+            db.add(experiment)
+
+            iteration_result = {
+                "iteration": i + 1,
+                "definition": definition,
+                "score": validation["score"],
+                "max_score": validation["max_score"],
+                "valid": validation["valid"],
+                "checks": validation["checks"],
+            }
+            iterations.append(iteration_result)
+
+            # If valid, we're done
+            if validation["valid"]:
+                break
+
+            # Generate feedback prompt for next iteration
+            feedback = parser.get_feedback_prompt(definition, term.term, validation, lang=term.language)
+            current_prompt = feedback
+
+        except Exception as e:
+            logger.error(f"Neurosymbolic iteration {i+1} failed: {e}")
+            iterations.append({
+                "iteration": i + 1,
+                "error": str(e),
+            })
+            break
+
+    db.commit()
+
+    return {
+        "term": term.term,
+        "model": model,
+        "rag_mode": rag_mode,
+        "total_iterations": len(iterations),
+        "final_valid": iterations[-1].get("valid", False) if iterations else False,
+        "final_definition": current_definition,
+        "iterations": iterations,
+    }
+
+
+# ══════════════════════════════════════════════════════════════
+# CONCEPT RELATION EXTRACTION + GRAPH VALIDATION
+# ══════════════════════════════════════════════════════════════
+
+@app.post("/api/projects/{project_id}/extract-relations")
+async def extract_concept_relations(
+    project_id: int,
+    model: str = Form("gemini-1.5-pro"),
+    db: Session = Depends(get_research_db)
+):
+    """
+    Extract concept relations between terms using LLM, then validate
+    the resulting graph symbolically (cycle detection, consistency).
+    """
+    project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
+    if not project:
+        raise HTTPException(status_code=404, detail="Project not found")
+
+    terms = db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all()
+    if len(terms) < 2:
+        raise HTTPException(status_code=400, detail="Need at least 2 terms to extract relations")
+
+    term_names = [t.term for t in terms]
+    term_map = {t.term.lower(): t for t in terms}
+
+    prompt = f"""You are an expert terminologist analyzing the domain '{project.domain}'.
+
+Given these domain-specific terms:
+{json.dumps(term_names, ensure_ascii=False)}
+
+For each meaningful relationship between terms, output a JSON array of objects with:
+- "source": the source term (exact match from list above)
+- "target": the target term (exact match from list above)
+- "relation": one of "IS-A" (hypernymy), "PART-OF" (meronymy), "CAUSES" (causation), "RELATED-TO" (association)
+
+Rules:
+- IS-A means source is a specific type of target (e.g. "celiac disease" IS-A "autoimmune disorder")
+- PART-OF means source is a component of target (e.g. "villi" PART-OF "small intestine")
+- CAUSES means source leads to or triggers target (e.g. "gluten ingestion" CAUSES "immune response")
+- RELATED-TO for other meaningful domain associations
+- Only include relationships you are confident about
+- Output ONLY a valid JSON array, nothing else
+
+JSON array:"""
+
+    try:
+        response_text = await _get_main().generate_with_timeout_multi(prompt, provider=model)
+
+        # Clean markdown fences
+        if "```json" in response_text:
+            response_text = response_text.split("```json")[1].split("```")[0].strip()
+        elif "```" in response_text:
+            response_text = response_text.split("```")[1].split("```")[0].strip()
+
+        relations_raw = json.loads(response_text)
+    except Exception as e:
+        logger.error(f"Relation extraction failed: {e}")
+        raise HTTPException(status_code=500, detail=f"LLM extraction failed: {str(e)}")
+
+    # Save relations to DB
+    saved_relations = []
+    for rel in relations_raw:
+        source_label = rel.get("source", "")
+        target_label = rel.get("target", "")
+        relation_type = rel.get("relation", "RELATED-TO")
+
+        if relation_type not in ("IS-A", "PART-OF", "CAUSES", "RELATED-TO"):
+            relation_type = "RELATED-TO"
+
+        source_term = term_map.get(source_label.lower())
+        target_term = term_map.get(target_label.lower())
+
+        cr = ConceptRelation(
+            project_id=project_id,
+            source_term_id=source_term.id if source_term else None,
+            target_term_id=target_term.id if target_term else None,
+            source_label=source_label,
+            target_label=target_label,
+            relation_type=relation_type,
+            model_used=model,
+        )
+        db.add(cr)
+        saved_relations.append({
+            "source": source_label,
+            "target": target_label,
+            "relation": relation_type,
+        })
+
+    db.commit()
+
+    # ── Symbolic graph validation ──
+    graph_issues = _validate_concept_graph(saved_relations)
+
+    # Update validation notes in DB
+    if graph_issues:
+        relations_in_db = db.query(ConceptRelation).filter(
+            ConceptRelation.project_id == project_id,
+            ConceptRelation.model_used == model
+        ).order_by(ConceptRelation.id.desc()).limit(len(saved_relations)).all()
+
+        issue_lookup = {}
+        for issue in graph_issues:
+            for rel_key in issue.get("involved_relations", []):
+                issue_lookup.setdefault(rel_key, []).append(issue["issue"])
+
+        for cr_db in relations_in_db:
+            key = f"{cr_db.source_label}|{cr_db.relation_type}|{cr_db.target_label}"
+            if key in issue_lookup:
+                cr_db.is_valid = False
+                cr_db.validation_note = "; ".join(issue_lookup[key])
+            else:
+                cr_db.is_valid = True
+        db.commit()
+
+    return {
+        "relations_count": len(saved_relations),
+        "relations": saved_relations,
+        "graph_validation": {
+            "issues_found": len(graph_issues),
+            "issues": graph_issues,
+        }
+    }
+
+
+@app.get("/api/projects/{project_id}/relations")
+async def get_concept_relations(project_id: int, db: Session = Depends(get_research_db)):
+    relations = db.query(ConceptRelation).filter(ConceptRelation.project_id == project_id).all()
+    return [{
+        "id": r.id,
+        "source": r.source_label,
+        "target": r.target_label,
+        "relation": r.relation_type,
+        "is_valid": r.is_valid,
+        "validation_note": r.validation_note,
+    } for r in relations]
+
+
+def _validate_concept_graph(relations: list) -> list:
+    """
+    Symbolic validation of the concept relation graph.
+    Checks for: cycles in IS-A hierarchy, self-references, contradictions.
+    """
+    issues = []
+
+    # Build adjacency lists per relation type
+    isa_graph = {}  # for cycle detection in hierarchies
+    all_edges = set()
+
+    for rel in relations:
+        src = rel["source"].lower()
+        tgt = rel["target"].lower()
+        rtype = rel["relation"]
+
+        # Self-reference check
+        if src == tgt:
+            issues.append({
+                "type": "self_reference",
+                "issue": f"Self-reference: '{rel['source']}' {rtype} '{rel['target']}'",
+                "involved_relations": [f"{rel['source']}|{rtype}|{rel['target']}"],
+            })
+            continue
+
+        # Duplicate check
+        edge_key = (src, rtype, tgt)
+        if edge_key in all_edges:
+            issues.append({
+                "type": "duplicate",
+                "issue": f"Duplicate relation: '{rel['source']}' {rtype} '{rel['target']}'",
+                "involved_relations": [f"{rel['source']}|{rtype}|{rel['target']}"],
+            })
+        all_edges.add(edge_key)
+
+        # Build IS-A graph for cycle detection
+        if rtype == "IS-A":
+            isa_graph.setdefault(src, []).append(tgt)
+
+    # Cycle detection in IS-A hierarchy (DFS)
+    visited = set()
+    rec_stack = set()
+
+    def _find_cycle(node, path):
+        visited.add(node)
+        rec_stack.add(node)
+        for neighbor in isa_graph.get(node, []):
+            if neighbor not in visited:
+                cycle = _find_cycle(neighbor, path + [neighbor])
+                if cycle:
+                    return cycle
+            elif neighbor in rec_stack:
+                cycle_path = path[path.index(neighbor):] + [neighbor]
+                return cycle_path
+        rec_stack.discard(node)
+        return None
+
+    for node in isa_graph:
+        if node not in visited:
+            cycle = _find_cycle(node, [node])
+            if cycle:
+                cycle_display = " → ".join(cycle)
+                issues.append({
+                    "type": "cycle",
+                    "issue": f"Cycle in IS-A hierarchy: {cycle_display}",
+                    "involved_relations": [
+                        f"{cycle[i]}|IS-A|{cycle[i+1]}" for i in range(len(cycle)-1)
+                    ],
+                })
+
+    # Contradiction check: A IS-A B and B IS-A A
+    for src, targets in isa_graph.items():
+        for tgt in targets:
+            if tgt in isa_graph and src in isa_graph[tgt]:
+                issues.append({
+                    "type": "contradiction",
+                    "issue": f"Contradictory IS-A: '{src}' IS-A '{tgt}' AND '{tgt}' IS-A '{src}'",
+                    "involved_relations": [f"{src}|IS-A|{tgt}", f"{tgt}|IS-A|{src}"],
+                })
+
+    return issues
+
+
+# ══════════════════════════════════════════════════════════════
+# ENHANCED AUTO-VALIDATE (updated to use new parser)
+# ══════════════════════════════════════════════════════════════
+
+@app.post("/api/validate/auto-enhanced")
+async def auto_validate_enhanced(experiment_id: int, db: Session = Depends(get_research_db)):
+    """Enhanced validation using the full symbolic parser with all checks."""
+    exp = db.query(DefinitionExperiment).filter(DefinitionExperiment.id == experiment_id).first()
+    if not exp:
+        raise HTTPException(status_code=404, detail="Experiment not found")
+
+    term = db.query(TermCandidate).filter(TermCandidate.id == exp.term_id).first()
+
+    # Get all project terms for genus-in-termbase check
+    all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == term.project_id).all()
+    known_term_strings = [t.term for t in all_terms]
+    parser = SymbolicDefinitionParser(known_terms=known_term_strings)
+
+    result = parser.validate_structure(exp.definition_text, term.term, lang=term.language)
+
+    exp.auto_valid = result["valid"]
+    exp.auto_score = float(result["score"])
+    exp.manual_comment = "; ".join(result["reasons"]) if result["reasons"] else "All checks passed"
+
+    db.commit()
+    return result
+
 
 if __name__ == "__main__":
     import uvicorn

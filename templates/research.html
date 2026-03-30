@@ -14,6 +14,10 @@
             --glass: rgba(30, 41, 59, 0.7);
             --glass-border: rgba(255, 255, 255, 0.1);
             --text: #f8fafc;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --info: #3b82f6;
         }
 
         body {
@@ -72,11 +76,7 @@
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
         }
 
-        h1,
-        h2,
-        h3 {
-            margin-top: 0;
-        }
+        h1, h2, h3 { margin-top: 0; }
 
         .btn {
             background: var(--primary);
@@ -96,19 +96,44 @@
             box-shadow: 0 0 25px var(--primary-glow);
         }
 
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-danger {
+            background: var(--danger);
+            box-shadow: 0 0 15px rgba(239, 68, 68, 0.3);
+            padding: 0.4rem 0.8rem;
+            font-size: 0.8rem;
+        }
+
+        .btn-success {
+            background: var(--success);
+            box-shadow: 0 0 15px rgba(16, 185, 129, 0.5);
+        }
+
+        .btn-warning {
+            background: var(--warning);
+            box-shadow: 0 0 15px rgba(245, 158, 11, 0.5);
+            color: #000;
+        }
+
+        .btn-info {
+            background: var(--info);
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.5);
+        }
+
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 2rem;
         }
 
-        .input-group {
-            margin-bottom: 1.5rem;
-        }
+        .input-group { margin-bottom: 1.5rem; }
 
-        input,
-        select,
-        textarea {
+        input, select, textarea {
             width: 100%;
             background: rgba(15, 23, 42, 0.5);
             border: 1px solid var(--glass-border);
@@ -116,20 +141,7 @@
             padding: 0.75rem;
             color: white;
             margin-top: 0.5rem;
-        }
-
-        .status-badge {
-            display: inline-block;
-            padding: 0.25rem 0.75rem;
-            border-radius: 9999px;
-            font-size: 0.75rem;
-            font-weight: 600;
-            background: rgba(16, 185, 129, 0.2);
-            color: #10b981;
-        }
-
-        #project-list {
-            margin-top: 1rem;
+            box-sizing: border-box;
         }
 
         .project-item {
@@ -138,7 +150,98 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            gap: 0.5rem;
         }
+
+        .project-item-actions {
+            display: flex;
+            gap: 0.5rem;
+            flex-shrink: 0;
+        }
+
+        /* Iteration timeline */
+        .iteration-timeline {
+            margin-top: 1rem;
+            border-left: 3px solid var(--primary);
+            padding-left: 1.5rem;
+        }
+
+        .iteration-step {
+            position: relative;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            background: rgba(15, 23, 42, 0.5);
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+        }
+
+        .iteration-step::before {
+            content: '';
+            position: absolute;
+            left: -1.85rem;
+            top: 1.2rem;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--primary);
+        }
+
+        .iteration-step.valid::before { background: var(--success); }
+        .iteration-step.invalid::before { background: var(--danger); }
+
+        .check-badge {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            margin: 0.15rem;
+        }
+
+        .check-pass { background: rgba(16, 185, 129, 0.2); color: #10b981; }
+        .check-fail { background: rgba(239, 68, 68, 0.2); color: #ef4444; }
+
+        /* Concept graph */
+        .relation-row {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--glass-border);
+            font-size: 0.85rem;
+        }
+
+        .relation-type {
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+
+        .rel-isa { background: rgba(99, 102, 241, 0.3); color: #818cf8; }
+        .rel-partof { background: rgba(16, 185, 129, 0.3); color: #6ee7b7; }
+        .rel-causes { background: rgba(245, 158, 11, 0.3); color: #fbbf24; }
+        .rel-related { background: rgba(148, 163, 184, 0.3); color: #94a3b8; }
+
+        .issue-badge {
+            display: block;
+            padding: 0.5rem 0.75rem;
+            margin: 0.25rem 0;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            background: rgba(239, 68, 68, 0.15);
+            border-left: 3px solid var(--danger);
+            color: #fca5a5;
+        }
+
+        .ns-results-container {
+            margin-top: 1rem;
+        }
+
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 1rem; text-align: left; }
+        thead tr { border-bottom: 2px solid var(--glass-border); }
     </style>
 </head>
 
@@ -211,25 +314,27 @@
                 <div>
                     <h3>Εξαγωγή Ορισμών (TAG)</h3>
                     <p>Σύγκριση 3 προτροπών + RAG</p>
-                    <button class="btn" style="background: #10b981; box-shadow: 0 0 15px rgba(16, 185, 129, 0.5);" onclick="runAllExperiments()">Run All</button>
+                    <button class="btn btn-success" onclick="runAllExperiments()">Run All</button>
                 </div>
             </div>
         </div>
 
+        <!-- Results Table -->
         <div class="card">
             <div style="display: flex; justify-content: space-between; align-items: center;">
                 <h2>4. Αποτελέσματα & Επαλήθευση</h2>
                 <button class="btn" onclick="exportCSV()" style="background: #64748b;">Download CSV</button>
             </div>
             <div style="overflow-x: auto;">
-                <table style="width: 100%; border-collapse: collapse;">
+                <table>
                     <thead>
-                        <tr style="text-align: left; border-bottom: 2px solid var(--glass-border);">
-                            <th style="padding: 1rem;">Όρος</th>
-                            <th style="padding: 1rem;">Ορισμός (Model A)</th>
-                            <th style="padding: 1rem;">Ορισμός (Model B)</th>
-                            <th style="padding: 1rem;">RAG Result</th>
-                            <th style="padding: 1rem;">Validation</th>
+                        <tr>
+                            <th>Όρος</th>
+                            <th>Zero-shot</th>
+                            <th>Few-shot</th>
+                            <th>Keyword RAG</th>
+                            <th>Vector RAG</th>
+                            <th>Actions</th>
                         </tr>
                     </thead>
                     <tbody id="results-body">
@@ -238,26 +343,83 @@
                 </table>
             </div>
         </div>
+
+        <!-- Neuro-Symbolic Feedback Loop -->
+        <div class="card">
+            <h2>5. Νευρο-Συμβολικός Βρόχος Ανατροφοδότησης</h2>
+            <p style="opacity: 0.7; margin-bottom: 1rem;">
+                Ο LLM δημιουργεί ορισμό → ο συμβολικός αναλυτής τον ελέγχει → αν αποτύχει, στέλνει ανατροφοδότηση → ο LLM ξαναγράφει. Επανάληψη μέχρι επιτυχία ή μέγιστο αριθμό κύκλων.
+            </p>
+            <div class="grid" style="grid-template-columns: 1fr 1fr 1fr auto;">
+                <div class="input-group" style="margin-bottom: 0;">
+                    <label>Επιλογή Όρου</label>
+                    <select id="ns-term-select">
+                        <option value="">-- Εξαγωγή όρων πρώτα --</option>
+                    </select>
+                </div>
+                <div class="input-group" style="margin-bottom: 0;">
+                    <label>RAG Mode</label>
+                    <select id="ns-rag-mode">
+                        <option value="none">Χωρίς RAG</option>
+                        <option value="keyword">Keyword RAG</option>
+                        <option value="vector">Vector RAG</option>
+                    </select>
+                </div>
+                <div class="input-group" style="margin-bottom: 0;">
+                    <label>Μέγιστες Επαναλήψεις</label>
+                    <select id="ns-max-iter">
+                        <option value="2">2</option>
+                        <option value="3" selected>3</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div style="display: flex; align-items: flex-end;">
+                    <button class="btn btn-warning" id="ns-run-btn" onclick="runNeuroSymbolic()">Run Feedback Loop</button>
+                </div>
+            </div>
+            <div id="ns-results" class="ns-results-container">
+                <!-- Iteration results appear here -->
+            </div>
+        </div>
+
+        <!-- Concept Relations -->
+        <div class="card">
+            <h2>6. Εξαγωγή Εννοιολογικών Σχέσεων</h2>
+            <p style="opacity: 0.7; margin-bottom: 1rem;">
+                Εξαγωγή σχέσεων IS-A, PART-OF, CAUSES μεταξύ όρων με συμβολική επαλήθευση (κύκλοι, αντιφάσεις).
+            </p>
+            <button class="btn btn-info" id="rel-extract-btn" onclick="extractRelations()">Εξαγωγή Σχέσεων</button>
+            <button class="btn" style="background: #64748b; margin-left: 0.5rem;" onclick="loadRelations()">Ανανέωση</button>
+
+            <div id="relations-results" style="margin-top: 1rem;">
+                <!-- Relations appear here -->
+            </div>
+            <div id="graph-issues" style="margin-top: 1rem;">
+                <!-- Graph validation issues appear here -->
+            </div>
+        </div>
     </div>
 
     <script>
         let currentProjectId = null;
 
+        // ══ PROJECT MANAGEMENT ══
+
         async function createProject() {
             const name = document.getElementById('proj-name').value;
             const domain = document.getElementById('proj-domain').value;
+            if (!name || !domain) return alert('Συμπληρώστε όνομα και θεματικό πεδίο');
 
             const formData = new FormData();
             formData.append('name', name);
             formData.append('domain', domain);
 
-            const resp = await fetch('/api/projects', {
-                method: 'POST',
-                body: formData
-            });
+            const resp = await fetch('/api/projects', { method: 'POST', body: formData });
             const data = await resp.json();
             currentProjectId = data.id;
             document.getElementById('current-project').innerText = `Project: ${data.name}`;
+            document.getElementById('proj-name').value = '';
+            document.getElementById('proj-domain').value = '';
             loadProjects();
         }
 
@@ -265,11 +427,15 @@
             const resp = await fetch('/api/projects');
             const data = await resp.json();
             const list = document.getElementById('project-list');
-            list.innerHTML = '<h3>Υπάρχοντα Έργα:</h3>';
+            list.innerHTML = '<h3 style="margin-top:1rem;">Υπάρχοντα Έργα:</h3>';
             data.forEach(p => {
-                list.innerHTML += `<div class="project-item">
-                    <span>${p.name} (${p.domain})</span>
-                    <button class="btn" style="padding: 0.4rem 0.8rem; font-size: 0.8rem;" onclick="selectProject(${p.id}, '${p.name}')">Επιλογή</button>
+                const isSelected = p.id === currentProjectId;
+                list.innerHTML += `<div class="project-item" style="${isSelected ? 'background: rgba(99,102,241,0.1); border-radius: 8px;' : ''}">
+                    <span style="flex:1;">${p.name} <span style="opacity:0.5; font-size:0.8rem;">(${p.domain})</span></span>
+                    <div class="project-item-actions">
+                        <button class="btn" style="padding: 0.4rem 0.8rem; font-size: 0.8rem;" onclick="selectProject(${p.id}, '${p.name.replace(/'/g, "\\'")}')">Επιλογή</button>
+                        <button class="btn btn-danger" onclick="deleteProject(${p.id}, '${p.name.replace(/'/g, "\\'")}')">Διαγραφή</button>
+                    </div>
                 </div>`;
             });
         }
@@ -277,24 +443,69 @@
         async function selectProject(id, name) {
             currentProjectId = id;
             document.getElementById('current-project').innerText = `Project: ${name}`;
+            loadProjects();
             loadTerms();
+            loadCorpusFiles();
+            loadRelations();
+            populateTermSelect();
+        }
+
+        async function deleteProject(id, name) {
+            if (!confirm(`Θέλετε σίγουρα να διαγράψετε το έργο "${name}"; Όλα τα δεδομένα θα χαθούν.`)) return;
+
+            const resp = await fetch(`/api/projects/${id}`, { method: 'DELETE' });
+            if (resp.ok) {
+                if (currentProjectId === id) {
+                    currentProjectId = null;
+                    document.getElementById('current-project').innerText = 'No Project Selected';
+                    document.getElementById('results-body').innerHTML = '';
+                    document.getElementById('ns-results').innerHTML = '';
+                    document.getElementById('relations-results').innerHTML = '';
+                    document.getElementById('graph-issues').innerHTML = '';
+                    document.getElementById('corpus-list').innerHTML = '';
+                }
+                loadProjects();
+            } else {
+                alert('Αποτυχία διαγραφής');
+            }
+        }
+
+        // ══ CORPUS ══
+
+        async function uploadCorpus() {
+            if (!currentProjectId) return alert('Επιλέξτε πρώτα ένα έργο');
+            const file = document.getElementById('corpus-file').files[0];
+            if (!file) return alert('Επιλέξτε αρχείο');
+            const lang = document.getElementById('corpus-lang').value;
+
+            const formData = new FormData();
+            formData.append('file', file);
+            formData.append('language', lang);
+
+            const resp = await fetch(`/api/projects/${currentProjectId}/corpus`, {
+                method: 'POST', body: formData
+            });
+            const data = await resp.json();
+            alert(`Μεταφορτώθηκε: ${data.filename}`);
             loadCorpusFiles();
         }
 
         async function loadCorpusFiles() {
             if (!currentProjectId) return;
-            const resp = await fetch(`/api/projects/${currentProjectId}/corpus-list`); // Need to implement this endpoint
-            if (resp.status !== 200) return;
+            const resp = await fetch(`/api/projects/${currentProjectId}/corpus-list`);
+            if (!resp.ok) return;
             const data = await resp.json();
             const list = document.getElementById('corpus-list');
-            list.innerHTML = '<h3>Αρχεία Corpus:</h3>';
+            list.innerHTML = data.length ? '<h3>Αρχεία Corpus:</h3>' : '';
             data.forEach(f => {
-                list.innerHTML += `<div>📄 ${f.filename} (${f.language})</div>`;
+                list.innerHTML += `<div style="padding: 0.3rem 0; font-size: 0.85rem;">📄 ${f.filename} (${f.language})</div>`;
             });
         }
 
+        // ══ TERM EXTRACTION ══
+
         async function extractTerms() {
-            if (!currentProjectId) return alert('Select a project first');
+            if (!currentProjectId) return alert('Επιλέξτε πρώτα ένα έργο');
             const btn = document.getElementById('extract-btn');
             const model = document.getElementById('global-model-select').value;
             btn.innerText = 'Extracting...';
@@ -305,14 +516,14 @@
 
             try {
                 const resp = await fetch(`/api/projects/${currentProjectId}/extract-terms`, {
-                    method: 'POST',
-                    body: formData
+                    method: 'POST', body: formData
                 });
                 const data = await resp.json();
-                alert(`Extracted ${data.extracted_count} term candidates!`);
+                alert(`Εξήχθησαν ${data.extracted_count} υποψήφιοι όροι!`);
                 loadTerms();
+                populateTermSelect();
             } catch (e) {
-                alert('Extraction failed');
+                alert('Αποτυχία εξαγωγής');
             } finally {
                 btn.innerText = 'Έναρξη Εξαγωγής';
                 btn.disabled = false;
@@ -327,16 +538,37 @@
             body.innerHTML = '';
             data.sort((a, b) => b.frequency - a.frequency).forEach(t => {
                 body.innerHTML += `<tr id="term-row-${t.id}">
-                    <td style="padding: 1rem;">${t.term} <span style="opacity:0.5; font-size:0.7rem;">(${t.frequency})</span></td>
-                    <td id="def-zero-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
-                    <td id="def-few-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
-                    <td id="def-rag-${t.id}" style="padding: 1rem; font-size: 0.8rem;">-</td>
-                    <td style="padding: 1rem;">
+                    <td>${t.term} <span style="opacity:0.5; font-size:0.7rem;">(${t.frequency})</span></td>
+                    <td id="def-zero-${t.id}" style="font-size: 0.8rem;">-</td>
+                    <td id="def-few-${t.id}" style="font-size: 0.8rem;">-</td>
+                    <td id="def-krag-${t.id}" style="font-size: 0.8rem;">-</td>
+                    <td id="def-vrag-${t.id}" style="font-size: 0.8rem;">-</td>
+                    <td>
                         <button class="btn" style="padding: 0.25rem 0.5rem; font-size: 0.7rem;" onclick="runExperiment(${t.id})">Run TAG</button>
                     </td>
                 </tr>`;
             });
         }
+
+        async function populateTermSelect() {
+            if (!currentProjectId) return;
+            const resp = await fetch(`/api/projects/${currentProjectId}/terms`);
+            const terms = await resp.json();
+            const select = document.getElementById('ns-term-select');
+            select.innerHTML = '';
+            if (terms.length === 0) {
+                select.innerHTML = '<option value="">-- Εξαγωγή όρων πρώτα --</option>';
+                return;
+            }
+            terms.sort((a, b) => b.frequency - a.frequency).forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t.id;
+                opt.innerText = `${t.term} (${t.language})`;
+                select.appendChild(opt);
+            });
+        }
+
+        // ══ DEFINITION EXPERIMENTS (existing) ══
 
         async function runExperiment(termId) {
             const btn = document.querySelector(`#term-row-${termId} button`);
@@ -350,22 +582,22 @@
 
             try {
                 const resp = await fetch(`/api/projects/${currentProjectId}/extract-definitions`, {
-                    method: 'POST',
-                    body: formData
+                    method: 'POST', body: formData
                 });
                 const data = await resp.json();
 
-                // Update specific cells
                 const zero = data.results.find(r => r.type === 'zero-shot');
                 const few = data.results.find(r => r.type === 'few-shot');
-                const rag = data.results.find(r => r.type === 'rag-enhanced');
+                const krag = data.results.find(r => r.type === 'keyword-rag');
+                const vrag = data.results.find(r => r.type === 'vector-rag');
 
                 if (zero) document.getElementById(`def-zero-${termId}`).innerText = zero.text;
                 if (few) document.getElementById(`def-few-${termId}`).innerText = few.text;
-                if (rag) document.getElementById(`def-rag-${termId}`).innerText = rag.text;
+                if (krag) document.getElementById(`def-krag-${termId}`).innerText = krag.text;
+                if (vrag) document.getElementById(`def-vrag-${termId}`).innerText = vrag.text;
 
             } catch (e) {
-                alert('Experiment failed');
+                alert('Αποτυχία πειράματος');
             } finally {
                 btn.innerText = 'Recalculate';
                 btn.disabled = false;
@@ -373,9 +605,9 @@
         }
 
         async function runAllExperiments() {
-            const buttons = document.querySelectorAll('button[onclick^="runExperiment"]');
-            for (let btn of buttons) {
-                const termId = btn.getAttribute('onclick').match(/\d+/)[0];
+            const rows = document.querySelectorAll('[id^="term-row-"]');
+            for (let row of rows) {
+                const termId = row.id.replace('term-row-', '');
                 await runExperiment(termId);
             }
         }
@@ -385,32 +617,180 @@
             window.location.href = `/api/projects/${currentProjectId}/export`;
         }
 
-        async function uploadCorpus() {
-            if (!currentProjectId) return alert('Select a project first');
-            const file = document.getElementById('corpus-file').files[0];
-            const lang = document.getElementById('corpus-lang').value;
+        // ══ NEURO-SYMBOLIC FEEDBACK LOOP ══
+
+        async function runNeuroSymbolic() {
+            if (!currentProjectId) return alert('Επιλέξτε πρώτα ένα έργο');
+            const termId = document.getElementById('ns-term-select').value;
+            if (!termId) return alert('Επιλέξτε όρο');
+
+            const model = document.getElementById('global-model-select').value;
+            const maxIter = document.getElementById('ns-max-iter').value;
+            const ragMode = document.getElementById('ns-rag-mode').value;
+            const btn = document.getElementById('ns-run-btn');
+            const resultsDiv = document.getElementById('ns-results');
+
+            btn.innerText = '⏳ Running...';
+            btn.disabled = true;
+            resultsDiv.innerHTML = '<p style="opacity:0.5;">Εκτέλεση βρόχου ανατροφοδότησης...</p>';
 
             const formData = new FormData();
-            formData.append('file', file);
-            formData.append('language', lang);
+            formData.append('term_id', termId);
+            formData.append('model', model);
+            formData.append('max_iterations', maxIter);
+            formData.append('rag_mode', ragMode);
 
-            const resp = await fetch(`/api/projects/${currentProjectId}/corpus`, {
-                method: 'POST',
-                body: formData
-            });
-            const data = await resp.json();
-            alert(`Uploaded: ${data.filename}`);
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/neurosymbolic-define`, {
+                    method: 'POST', body: formData
+                });
+                const data = await resp.json();
+                renderNeuroSymbolicResults(data);
+            } catch (e) {
+                resultsDiv.innerHTML = `<p style="color: var(--danger);">Αποτυχία: ${e.message}</p>`;
+            } finally {
+                btn.innerText = 'Run Feedback Loop';
+                btn.disabled = false;
+            }
         }
 
+        function renderNeuroSymbolicResults(data) {
+            const container = document.getElementById('ns-results');
+            const statusColor = data.final_valid ? 'var(--success)' : 'var(--danger)';
+            const statusText = data.final_valid ? 'ΕΠΙΤΥΧΙΑ' : 'ΑΠΟΤΥΧΙΑ';
+
+            let html = `
+                <div style="margin-top: 1rem; padding: 1rem; background: rgba(15,23,42,0.5); border-radius: 12px; border: 1px solid var(--glass-border);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                        <div>
+                            <strong>${data.term}</strong> <span style="opacity: 0.5;">(${data.model}${data.rag_mode !== 'none' ? ' + ' + data.rag_mode + ' RAG' : ''})</span>
+                        </div>
+                        <div style="padding: 0.3rem 0.8rem; border-radius: 9999px; font-size: 0.8rem; font-weight: 700; background: ${data.final_valid ? 'rgba(16,185,129,0.2)' : 'rgba(239,68,68,0.2)'}; color: ${statusColor};">
+                            ${statusText} — ${data.total_iterations} κύκλοι
+                        </div>
+                    </div>
+                    <div class="iteration-timeline">`;
+
+            for (const iter of data.iterations) {
+                if (iter.error) {
+                    html += `
+                        <div class="iteration-step invalid">
+                            <div style="font-size: 0.75rem; opacity: 0.5; margin-bottom: 0.5rem;">Κύκλος ${iter.iteration}</div>
+                            <p style="color: var(--danger);">Σφάλμα: ${iter.error}</p>
+                        </div>`;
+                    continue;
+                }
+
+                const validClass = iter.valid ? 'valid' : 'invalid';
+                let checksHtml = '';
+                if (iter.checks) {
+                    for (const check of iter.checks) {
+                        const cls = check.passed ? 'check-pass' : 'check-fail';
+                        const icon = check.passed ? '✓' : '✗';
+                        checksHtml += `<span class="check-badge ${cls}">${icon} ${check.name}</span> `;
+                    }
+                }
+
+                html += `
+                    <div class="iteration-step ${validClass}">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+                            <span style="font-size: 0.75rem; opacity: 0.5;">Κύκλος ${iter.iteration}</span>
+                            <span style="font-size: 0.75rem; font-weight: 600;">${iter.score}/${iter.max_score}</span>
+                        </div>
+                        <p style="font-size: 0.85rem; margin: 0.5rem 0; line-height: 1.5;">"${iter.definition}"</p>
+                        <div style="margin-top: 0.5rem;">${checksHtml}</div>
+                    </div>`;
+            }
+
+            html += `</div></div>`;
+            container.innerHTML = html;
+        }
+
+        // ══ CONCEPT RELATIONS ══
+
+        async function extractRelations() {
+            if (!currentProjectId) return alert('Επιλέξτε πρώτα ένα έργο');
+            const btn = document.getElementById('rel-extract-btn');
+            const model = document.getElementById('global-model-select').value;
+
+            btn.innerText = '⏳ Extracting...';
+            btn.disabled = true;
+
+            const formData = new FormData();
+            formData.append('model', model);
+
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/extract-relations`, {
+                    method: 'POST', body: formData
+                });
+                const data = await resp.json();
+                renderRelations(data.relations);
+                renderGraphIssues(data.graph_validation);
+            } catch (e) {
+                document.getElementById('relations-results').innerHTML = `<p style="color: var(--danger);">Αποτυχία: ${e.message}</p>`;
+            } finally {
+                btn.innerText = 'Εξαγωγή Σχέσεων';
+                btn.disabled = false;
+            }
+        }
+
+        async function loadRelations() {
+            if (!currentProjectId) return;
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/relations`);
+                if (!resp.ok) return;
+                const data = await resp.json();
+                renderRelations(data);
+            } catch(e) {}
+        }
+
+        function renderRelations(relations) {
+            const container = document.getElementById('relations-results');
+            if (!relations || relations.length === 0) {
+                container.innerHTML = '<p style="opacity: 0.5; font-size: 0.85rem;">Δεν βρέθηκαν σχέσεις.</p>';
+                return;
+            }
+
+            const relClasses = { 'IS-A': 'rel-isa', 'PART-OF': 'rel-partof', 'CAUSES': 'rel-causes', 'RELATED-TO': 'rel-related' };
+
+            let html = `<div style="margin-top: 0.5rem;">`;
+            for (const rel of relations) {
+                const cls = relClasses[rel.relation] || 'rel-related';
+                const validIcon = rel.is_valid === false ? ' ⚠️' : (rel.is_valid === true ? ' ✓' : '');
+                html += `<div class="relation-row">
+                    <strong>${rel.source}</strong>
+                    <span class="relation-type ${cls}">${rel.relation}</span>
+                    <strong>${rel.target}</strong>
+                    <span style="opacity: 0.5; font-size: 0.75rem;">${validIcon}</span>
+                </div>`;
+            }
+            html += `</div>`;
+            container.innerHTML = html;
+        }
+
+        function renderGraphIssues(validation) {
+            const container = document.getElementById('graph-issues');
+            if (!validation || validation.issues_found === 0) {
+                container.innerHTML = validation ? '<p style="color: var(--success); font-size: 0.85rem;">✓ Δεν βρέθηκαν προβλήματα στο γράφο εννοιών.</p>' : '';
+                return;
+            }
+
+            let html = `<h3 style="color: var(--danger); margin-top: 1rem;">⚠ Προβλήματα Γράφου (${validation.issues_found})</h3>`;
+            for (const issue of validation.issues) {
+                html += `<div class="issue-badge">${issue.issue}</div>`;
+            }
+            container.innerHTML = html;
+        }
+
+        // ══ MODEL LOADING ══
+
         async function loadModels() {
-            console.log("Fetching models from /api/llm-list...");
             try {
                 const resp = await fetch('/api/llm-list');
                 const models = await resp.json();
-                console.log("Models received:", models);
                 const select = document.getElementById('global-model-select');
                 select.innerHTML = '';
-                
+
                 let foundAvailable = false;
                 for (const [id, config] of Object.entries(models)) {
                     const opt = document.createElement('option');
@@ -420,7 +800,7 @@
                     else foundAvailable = true;
                     select.appendChild(opt);
                 }
-                
+
                 if (!foundAvailable) {
                     const opt = document.createElement('option');
                     opt.innerText = "No models available (Check API Keys)";
@@ -431,7 +811,7 @@
             }
         }
 
-        // Initialize
+        // ══ INIT ══
         loadProjects();
         loadModels();
     </script>

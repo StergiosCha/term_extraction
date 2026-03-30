@@ -81,6 +81,26 @@ class DefinitionExperiment(Base):
     
     term = relationship("TermCandidate", back_populates="definitions")
 
+class ConceptRelation(Base):
+    __tablename__ = "concept_relations"
+
+    id = Column(Integer, primary_key=True, index=True)
+    project_id = Column(Integer, ForeignKey("research_projects.id"))
+    source_term_id = Column(Integer, ForeignKey("term_candidates.id"))
+    target_term_id = Column(Integer, ForeignKey("term_candidates.id"), nullable=True)
+    source_label = Column(String(500))  # source term text
+    target_label = Column(String(500))  # target term text (may not be in termbase)
+    relation_type = Column(String(50))  # IS-A, PART-OF, CAUSES, RELATED-TO
+    model_used = Column(String)
+    is_valid = Column(Boolean, nullable=True)  # symbolic validation result
+    validation_note = Column(Text, nullable=True)
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+    project = relationship("ResearchProject")
+    source_term = relationship("TermCandidate", foreign_keys=[source_term_id])
+    target_term = relationship("TermCandidate", foreign_keys=[target_term_id])
+
+
 def init_db():
     Base.metadata.create_all(bind=engine)
 
