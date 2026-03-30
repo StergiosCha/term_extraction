@@ -23,10 +23,12 @@ import numpy as np
 try:
     from sentence_transformers import SentenceTransformer
     import faiss
+    _HAS_ML = True
 except ImportError:
     SentenceTransformer = None
     faiss = None
-
+    _HAS_ML = False
+    logging.getLogger(__name__).warning("sentence-transformers/faiss not installed — RAG features in main.py disabled")
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
@@ -972,16 +974,14 @@ class TerminologyRAGSystem:
         
     def load_embedding_model(self):
         """Load multilingual embedding model"""
+        if not _HAS_ML:
+            logger.warning("⚠️ sentence-transformers not installed — embedding model skipped")
+            return
         try:
             self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
             logger.info("✅ Embedding model loaded")
         except Exception as e:
             logger.error(f"❌ Failed to load embedding model: {e}")
-            try:
-                self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
-                logger.info("✅ Fallback embedding model loaded")
-            except Exception as e2:
-                logger.error(f"❌ Failed to load fallback model: {e2}")
 
     def chunk_text_by_lines(self, text_content: str, source_url: str, min_lines: int = 5, max_lines: int = 20, overlap_lines: int = 3) -> List[str]:
         """
