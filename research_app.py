@@ -92,6 +92,10 @@ async def list_projects(db: Session = Depends(get_research_db)):
 # CORPUS ENDPOINTS
 @app.post("/api/projects/{project_id}/corpus")
 async def upload_corpus(project_id: int, file: UploadFile = File(...), language: str = Form(...), db: Session = Depends(get_research_db)):
+    project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
+    if not project:
+        raise HTTPException(status_code=404, detail="Project not found")
+
     content_bytes = await file.read()
     filename = file.filename.lower()
     text_content = ""

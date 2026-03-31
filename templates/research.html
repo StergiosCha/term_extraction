@@ -283,7 +283,7 @@
                 <h2>2. Σχηματισμός Corpus</h2>
                 <div class="input-group">
                     <label>Επιλογή Αρχείου (TXT, PDF, DOCX)</label>
-                    <input type="file" id="corpus-file">
+                    <input type="file" id="corpus-file" accept=".txt,.pdf,.docx">
                 </div>
                 <div class="input-group">
                     <label>Γλώσσα</label>
@@ -410,17 +410,32 @@
             const domain = document.getElementById('proj-domain').value;
             if (!name || !domain) return alert('Συμπληρώστε όνομα και θεματικό πεδίο');
 
-            const formData = new FormData();
-            formData.append('name', name);
-            formData.append('domain', domain);
+            const btn = event.target;
+            btn.disabled = true;
+            btn.innerText = 'Δημιουργία...';
 
-            const resp = await fetch('/api/projects', { method: 'POST', body: formData });
-            const data = await resp.json();
-            currentProjectId = data.id;
-            document.getElementById('current-project').innerText = `Project: ${data.name}`;
-            document.getElementById('proj-name').value = '';
-            document.getElementById('proj-domain').value = '';
-            loadProjects();
+            try {
+                const formData = new FormData();
+                formData.append('name', name);
+                formData.append('domain', domain);
+
+                const resp = await fetch('/api/projects', { method: 'POST', body: formData });
+                if (!resp.ok) {
+                    const err = await resp.json().catch(() => ({}));
+                    throw new Error(err.detail || `Server error ${resp.status}`);
+                }
+                const data = await resp.json();
+                currentProjectId = data.id;
+                document.getElementById('current-project').innerText = `Project: ${data.name}`;
+                document.getElementById('proj-name').value = '';
+                document.getElementById('proj-domain').value = '';
+                await loadProjects();
+            } catch (e) {
+                alert('Αποτυχία δημιουργίας: ' + e.message);
+            } finally {
+                btn.disabled = false;
+                btn.innerText = 'Δημιουργία';
+            }
         }
 
         async function loadProjects() {
@@ -478,16 +493,34 @@
             if (!file) return alert('Επιλέξτε αρχείο');
             const lang = document.getElementById('corpus-lang').value;
 
-            const formData = new FormData();
-            formData.append('file', file);
-            formData.append('language', lang);
+            const btn = event.target;
+            btn.disabled = true;
+            btn.innerText = 'Μεταφόρτωση...';
 
-            const resp = await fetch(`/api/projects/${currentProjectId}/corpus`, {
-                method: 'POST', body: formData
-            });
-            const data = await resp.json();
-            alert(`Μεταφορτώθηκε: ${data.filename}`);
-            loadCorpusFiles();
+            try {
+                const formData = new FormData();
+                formData.append('file', file);
+                formData.append('language', lang);
+
+                const resp = await fetch(`/api/projects/${currentProjectId}/corpus`, {
+                    method: 'POST', body: formData
+                });
+
+                if (!resp.ok) {
+                    const err = await resp.json().catch(() => ({}));
+                    throw new Error(err.detail || `Server error ${resp.status}`);
+                }
+
+                const data = await resp.json();
+                alert(`Μεταφορτώθηκε: ${data.filename}`);
+                document.getElementById('corpus-file').value = '';
+                await loadCorpusFiles();
+            } catch (e) {
+                alert('Αποτυχία μεταφόρτωσης: ' + e.message);
+            } finally {
+                btn.disabled = false;
+                btn.innerText = 'Μεταφόρτωση';
+            }
         }
 
         async function loadCorpusFiles() {
