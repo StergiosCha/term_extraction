@@ -81,6 +81,21 @@ class DefinitionExperiment(Base):
     
     term = relationship("TermCandidate", back_populates="definitions")
 
+class ProjectSettings(Base):
+    """Per-project customizable prompt templates and symbolic parser config."""
+    __tablename__ = "project_settings"
+
+    id = Column(Integer, primary_key=True, index=True)
+    project_id = Column(Integer, ForeignKey("research_projects.id"), unique=True)
+    # Prompt templates (JSON: {strategy_name: template_string})
+    prompt_templates = Column(JSON, nullable=True)
+    # Symbolic parser config (JSON: {rule_name: {enabled: bool, weight: int}})
+    parser_config = Column(JSON, nullable=True)
+    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    project = relationship("ResearchProject")
+
+
 class ConceptRelation(Base):
     __tablename__ = "concept_relations"
 

@@ -10,13 +10,35 @@ class SymbolicDefinitionParser:
     negation, encyclopedic content, conciseness, and genus-in-termbase.
     """
 
-    def __init__(self, known_terms=None):
+    # Default rule config: every check enabled with its standard weight
+    DEFAULT_RULES = {
+        "circularity":       {"enabled": True, "weight": 1},
+        "genus":             {"enabled": True, "weight": 2},
+        "differentia":       {"enabled": True, "weight": 1},
+        "negation":          {"enabled": True, "weight": 1},
+        "encyclopedic":      {"enabled": True, "weight": 1},
+        "conciseness":       {"enabled": True, "weight": 1},
+        "genus_in_termbase": {"enabled": True, "weight": 1},
+    }
+
+    def __init__(self, known_terms=None, rule_config=None):
         """
         Args:
             known_terms: optional list of terms in the project's termbase.
                          Used for genus-in-termbase validation.
+            rule_config: optional dict overriding default rule settings.
+                         Format: {rule_name: {enabled: bool, weight: int}}
         """
         self.known_terms = [t.lower() for t in (known_terms or [])]
+
+        # Merge user config with defaults
+        self.rule_config = {}
+        for rule, defaults in self.DEFAULT_RULES.items():
+            user_cfg = (rule_config or {}).get(rule, {})
+            self.rule_config[rule] = {
+                "enabled": user_cfg.get("enabled", defaults["enabled"]),
+                "weight": user_cfg.get("weight", defaults["weight"]),
+            }
 
         # Genus indicators
         self.genus_indicators_en = [
@@ -91,35 +113,27 @@ class SymbolicDefinitionParser:
         definition_lower = definition.lower().strip()
         term_lower = term.lower().strip()
 
-        # ── 1. Circularity check ──
-        # The term should not appear at the start of its own definition
-        def_words = definition_lower.split()
-        term_words = term_lower.split()
-        starts_with_term = def_words[:len(term_words)] == term_words
-        # Also check if term appears anywhere (partial circularity)
-        term_in_def = term_lower in definition_lower
+        # Helper: get rule config
+        def rc(name):
+            return self.rule_config.get(name, {"enabled": True, "weight": 1})
 
-        if starts_with_term:
-            checks.append({
-                "name": "circularity",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Circular: definition begins with the term '{term}'"
-            })
-        elif term_in_def:
-            checks.append({
-                "name": "circularity",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Partially circular: term '{term}' appears within its own definition"
-            })
-        else:
-            checks.append({
-                "name": "circularity",
-                "passed": True,
-                "weight": 1,
-                "reason": "No circularity detected"
-            })
+        # ── 1. Circularity check ──
+        if rc("circularity")["enabled"]:
+            def_words = definition_lower.split()
+            term_words = term_lower.split()
+            starts_with_term = def_words[:len(term_words)] == term_words
+            term_in_def = term_lower in definition_lower
+
+            w = rc("circularity")["weight"]
+            if starts_with_term:
+                checks.append({"name": "circularity", "passed": False, "weight": w,
+                    "reason": f"Circular: definition begins with the term '{term}'"})
+            elif term_in_def:
+                checks.append({"name": "circularity", "passed": False, "weight": w,
+                    "reason": f"Partially circular: term '{term}' appears within its own definition"})
+            else:
+                checks.append({"name": "circularity", "passed": True, "weight": w,
+                    "reason": "No circularity detected"})
 
         # ── 2. Genus check ──
         indicators = self.genus_indicators_el if lang == "el" else self.genus_indicators_en
@@ -130,120 +144,85 @@ class SymbolicDefinitionParser:
                 genus_match = m.group()
                 break
 
-        if genus_match:
-            checks.append({
-                "name": "genus",
-                "passed": True,
-                "weight": 2,
-                "reason": f"Genus indicator found: '{genus_match}'"
-            })
-        else:
-            checks.append({
-                "name": "genus",
-                "passed": False,
-                "weight": 2,
-                "reason": "Missing genus indicator — definition should state what category the concept belongs to (e.g. 'is a [type]', 'refers to a [category]')"
-            })
+        if rc("genus")["enabled"]:
+            w = rc("genus")["weight"]
+            if genus_match:
+                checks.append({"name": "genus", "passed": True, "weight": w,
+                    "reason": f"Genus indicator found: '{genus_match}'"})
+            else:
+                checks.append({"name": "genus", "passed": False, "weight": w,
+                    "reason": "Missing genus indicator — definition should state what category the concept belongs to (e.g. 'is a [type]', 'refers to a [category]')"})
 
         # ── 3. Differentia check ──
-        diff_indicators = self.differentia_indicators_el if lang == "el" else self.differentia_indicators_en
-        diff_match = None
-        for pattern in diff_indicators:
-            m = re.search(pattern, definition_lower)
-            if m:
-                diff_match = m.group()
-                break
+        if rc("differentia")["enabled"]:
+            diff_indicators = self.differentia_indicators_el if lang == "el" else self.differentia_indicators_en
+            diff_match = None
+            for pattern in diff_indicators:
+                m = re.search(pattern, definition_lower)
+                if m:
+                    diff_match = m.group()
+                    break
 
-        if diff_match:
-            checks.append({
-                "name": "differentia",
-                "passed": True,
-                "weight": 1,
-                "reason": f"Differentia indicator found: '{diff_match}'"
-            })
-        else:
-            checks.append({
-                "name": "differentia",
-                "passed": False,
-                "weight": 1,
-                "reason": "Missing differentia — definition should include distinguishing characteristics (e.g. 'that causes...', 'characterized by...')"
-            })
+            w = rc("differentia")["weight"]
+            if diff_match:
+                checks.append({"name": "differentia", "passed": True, "weight": w,
+                    "reason": f"Differentia indicator found: '{diff_match}'"})
+            else:
+                checks.append({"name": "differentia", "passed": False, "weight": w,
+                    "reason": "Missing differentia — definition should include distinguishing characteristics (e.g. 'that causes...', 'characterized by...')"})
 
         # ── 4. Negation check ──
-        neg_patterns = self.negation_patterns_el if lang == "el" else self.negation_patterns_en
-        neg_match = None
-        for pattern in neg_patterns:
-            m = re.search(pattern, definition_lower)
-            if m:
-                neg_match = m.group()
-                break
+        if rc("negation")["enabled"]:
+            neg_patterns = self.negation_patterns_el if lang == "el" else self.negation_patterns_en
+            neg_match = None
+            for pattern in neg_patterns:
+                m = re.search(pattern, definition_lower)
+                if m:
+                    neg_match = m.group()
+                    break
 
-        if neg_match:
-            checks.append({
-                "name": "negation",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Definition uses negative phrasing: '{neg_match}' — definitions should state what a concept IS, not what it is not"
-            })
-        else:
-            checks.append({
-                "name": "negation",
-                "passed": True,
-                "weight": 1,
-                "reason": "No negative phrasing detected"
-            })
+            w = rc("negation")["weight"]
+            if neg_match:
+                checks.append({"name": "negation", "passed": False, "weight": w,
+                    "reason": f"Definition uses negative phrasing: '{neg_match}' — definitions should state what a concept IS, not what it is not"})
+            else:
+                checks.append({"name": "negation", "passed": True, "weight": w,
+                    "reason": "No negative phrasing detected"})
 
         # ── 5. Encyclopedic content check ──
-        enc_indicators = self.encyclopedic_indicators_el if lang == "el" else self.encyclopedic_indicators_en
-        enc_match = None
-        for pattern in enc_indicators:
-            m = re.search(pattern, definition_lower)
-            if m:
-                enc_match = m.group()
-                break
+        if rc("encyclopedic")["enabled"]:
+            enc_indicators = self.encyclopedic_indicators_el if lang == "el" else self.encyclopedic_indicators_en
+            enc_match = None
+            for pattern in enc_indicators:
+                m = re.search(pattern, definition_lower)
+                if m:
+                    enc_match = m.group()
+                    break
 
-        if enc_match:
-            checks.append({
-                "name": "encyclopedic",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Contains encyclopedic content: '{enc_match}' — definitions should not include examples, history, or commentary"
-            })
-        else:
-            checks.append({
-                "name": "encyclopedic",
-                "passed": True,
-                "weight": 1,
-                "reason": "No encyclopedic content detected"
-            })
+            w = rc("encyclopedic")["weight"]
+            if enc_match:
+                checks.append({"name": "encyclopedic", "passed": False, "weight": w,
+                    "reason": f"Contains encyclopedic content: '{enc_match}' — definitions should not include examples, history, or commentary"})
+            else:
+                checks.append({"name": "encyclopedic", "passed": True, "weight": w,
+                    "reason": "No encyclopedic content detected"})
 
         # ── 6. Conciseness check ──
-        word_count = len(definition.split())
-        if word_count < 5:
-            checks.append({
-                "name": "conciseness",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Too short ({word_count} words) — definition may be incomplete"
-            })
-        elif word_count > 50:
-            checks.append({
-                "name": "conciseness",
-                "passed": False,
-                "weight": 1,
-                "reason": f"Too long ({word_count} words) — definitions should be concise (under 50 words)"
-            })
-        else:
-            checks.append({
-                "name": "conciseness",
-                "passed": True,
-                "weight": 1,
-                "reason": f"Good length ({word_count} words)"
-            })
+        if rc("conciseness")["enabled"]:
+            word_count = len(definition.split())
+            w = rc("conciseness")["weight"]
+            if word_count < 5:
+                checks.append({"name": "conciseness", "passed": False, "weight": w,
+                    "reason": f"Too short ({word_count} words) — definition may be incomplete"})
+            elif word_count > 50:
+                checks.append({"name": "conciseness", "passed": False, "weight": w,
+                    "reason": f"Too long ({word_count} words) — definitions should be concise (under 50 words)"})
+            else:
+                checks.append({"name": "conciseness", "passed": True, "weight": w,
+                    "reason": f"Good length ({word_count} words)"})
 
         # ── 7. Genus-in-termbase check ──
-        if self.known_terms and genus_match:
-            # Extract the word(s) right after the genus indicator to find the superordinate concept
+        if rc("genus_in_termbase")["enabled"] and self.known_terms and genus_match:
             genus_pattern = None
             for pattern in indicators:
                 m = re.search(pattern + r"\s+(?:a\s+|an\s+)?(\w+(?:\s+\w+)?)", definition_lower)
@@ -251,28 +230,16 @@ class SymbolicDefinitionParser:
                     genus_pattern = m.group(1).strip()
                     break
 
+            w = rc("genus_in_termbase")["weight"]
             if genus_pattern and any(genus_pattern in t for t in self.known_terms):
-                checks.append({
-                    "name": "genus_in_termbase",
-                    "passed": True,
-                    "weight": 1,
-                    "reason": f"Superordinate concept '{genus_pattern}' exists in the project termbase"
-                })
+                checks.append({"name": "genus_in_termbase", "passed": True, "weight": w,
+                    "reason": f"Superordinate concept '{genus_pattern}' exists in the project termbase"})
             elif genus_pattern:
-                checks.append({
-                    "name": "genus_in_termbase",
-                    "passed": False,
-                    "weight": 1,
-                    "reason": f"Superordinate concept '{genus_pattern}' is not in the project termbase — consider adding it as a term"
-                })
+                checks.append({"name": "genus_in_termbase", "passed": False, "weight": w,
+                    "reason": f"Superordinate concept '{genus_pattern}' is not in the project termbase — consider adding it as a term"})
             else:
-                checks.append({
-                    "name": "genus_in_termbase",
-                    "passed": True,
-                    "weight": 0,
-                    "reason": "Could not extract superordinate concept to verify"
-                })
-        # If no known_terms provided, skip this check silently
+                checks.append({"name": "genus_in_termbase", "passed": True, "weight": 0,
+                    "reason": "Could not extract superordinate concept to verify"})
 
         # ── Calculate score ──
         score = 0

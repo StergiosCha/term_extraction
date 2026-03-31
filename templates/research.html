@@ -297,6 +297,55 @@
             </div>
         </div>
 
+        <!-- Project Settings: Prompts + Parser Rules -->
+        <div class="card" id="settings-card" style="display: none;">
+            <div style="display: flex; justify-content: space-between; align-items: center; cursor: pointer;" onclick="toggleSettings()">
+                <h2>⚙ Ρυθμίσεις Έργου</h2>
+                <span id="settings-toggle-icon" style="font-size: 1.2rem; opacity: 0.5;">▼</span>
+            </div>
+            <div id="settings-body" style="display: none;">
+                <div class="grid" style="grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+                    <!-- Prompt Templates -->
+                    <div>
+                        <h3>Πρότυπα Προτροπών (Prompt Templates)</h3>
+                        <p style="opacity: 0.5; font-size: 0.8rem; margin-bottom: 0.5rem;">
+                            Μεταβλητές: {domain}, {term}, {eval_guidelines}, {guidelines}, {chunk}, {language}, {context_block}
+                        </p>
+                        <div class="input-group" style="margin-bottom: 0.8rem;">
+                            <label>Εξαγωγή Όρων (Term Extraction)</label>
+                            <textarea id="tpl-term_extraction" rows="6" style="width:100%; background: rgba(0,0,0,0.3); color: var(--text); border: 1px solid var(--glass-border); border-radius: 8px; padding: 0.5rem; font-family: monospace; font-size: 0.75rem;"></textarea>
+                        </div>
+                        <div class="input-group" style="margin-bottom: 0.8rem;">
+                            <label>Zero-shot</label>
+                            <textarea id="tpl-zero-shot" rows="4" style="width:100%; background: rgba(0,0,0,0.3); color: var(--text); border: 1px solid var(--glass-border); border-radius: 8px; padding: 0.5rem; font-family: monospace; font-size: 0.75rem;"></textarea>
+                        </div>
+                        <div class="input-group" style="margin-bottom: 0.8rem;">
+                            <label>Few-shot</label>
+                            <textarea id="tpl-few-shot" rows="4" style="width:100%; background: rgba(0,0,0,0.3); color: var(--text); border: 1px solid var(--glass-border); border-radius: 8px; padding: 0.5rem; font-family: monospace; font-size: 0.75rem;"></textarea>
+                        </div>
+                        <div class="input-group" style="margin-bottom: 0.8rem;">
+                            <label>Chain-of-Thought Enhanced</label>
+                            <textarea id="tpl-cot-enhanced" rows="4" style="width:100%; background: rgba(0,0,0,0.3); color: var(--text); border: 1px solid var(--glass-border); border-radius: 8px; padding: 0.5rem; font-family: monospace; font-size: 0.75rem;"></textarea>
+                        </div>
+                    </div>
+                    <!-- Symbolic Parser Rules -->
+                    <div>
+                        <h3>Κανόνες Συμβολικού Αναλυτή (Parser Rules)</h3>
+                        <p style="opacity: 0.5; font-size: 0.8rem; margin-bottom: 0.5rem;">
+                            Ενεργοποίηση/απενεργοποίηση ελέγχων, ρύθμιση βαρών
+                        </p>
+                        <div id="parser-rules-list">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+                    <button class="btn" onclick="saveSettings()">Αποθήκευση Ρυθμίσεων</button>
+                    <button class="btn" style="background: #64748b;" onclick="resetSettings()">Επαναφορά Προεπιλογών</button>
+                </div>
+            </div>
+        </div>
+
         <!-- Extraction Controls -->
         <div class="card">
             <h2>3. Εξαγωγή & Πειραματισμός</h2>
@@ -433,6 +482,7 @@
                 document.getElementById('proj-name').value = '';
                 document.getElementById('proj-domain').value = '';
                 await loadProjects();
+                loadSettings();
             } catch (e) {
                 alert('Αποτυχία δημιουργίας: ' + e.message);
             } finally {
@@ -466,6 +516,7 @@
             loadCorpusFiles();
             loadRelations();
             populateTermSelect();
+            loadSettings();
         }
 
         async function deleteProject(id, name) {
@@ -868,6 +919,128 @@
                 }
             } catch (e) {
                 console.error("Failed to load models:", e);
+            }
+        }
+
+        // ══ PROJECT SETTINGS ══
+
+        const RULE_LABELS = {
+            circularity: "Κυκλικότητα (Circularity)",
+            genus: "Γένος (Genus)",
+            differentia: "Διαφοροποιητικά (Differentia)",
+            negation: "Άρνηση (Negation)",
+            encyclopedic: "Εγκυκλοπαιδικό (Encyclopedic)",
+            conciseness: "Συντομία (Conciseness)",
+            genus_in_termbase: "Γένος στη βάση όρων (Genus in Termbase)",
+        };
+
+        let currentSettingsDefaults = null;
+
+        function toggleSettings() {
+            const body = document.getElementById('settings-body');
+            const icon = document.getElementById('settings-toggle-icon');
+            if (body.style.display === 'none') {
+                body.style.display = 'block';
+                icon.innerText = '▲';
+            } else {
+                body.style.display = 'none';
+                icon.innerText = '▼';
+            }
+        }
+
+        async function loadSettings() {
+            if (!currentProjectId) return;
+            document.getElementById('settings-card').style.display = '';
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/settings`);
+                const data = await resp.json();
+                currentSettingsDefaults = data.defaults;
+
+                // Fill prompt templates
+                const tpls = data.prompt_templates;
+                document.getElementById('tpl-term_extraction').value = tpls.term_extraction || '';
+                document.getElementById('tpl-zero-shot').value = tpls['zero-shot'] || '';
+                document.getElementById('tpl-few-shot').value = tpls['few-shot'] || '';
+                document.getElementById('tpl-cot-enhanced').value = tpls['cot-enhanced'] || '';
+
+                // Fill parser rules
+                const rules = data.parser_config;
+                const container = document.getElementById('parser-rules-list');
+                container.innerHTML = '';
+                for (const [rule, cfg] of Object.entries(rules)) {
+                    const label = RULE_LABELS[rule] || rule;
+                    container.innerHTML += `
+                        <div style="display: flex; align-items: center; gap: 0.8rem; padding: 0.4rem 0; border-bottom: 1px solid var(--glass-border);">
+                            <label style="display: flex; align-items: center; gap: 0.4rem; flex: 1; cursor: pointer;">
+                                <input type="checkbox" id="rule-${rule}-enabled" ${cfg.enabled ? 'checked' : ''}>
+                                <span style="font-size: 0.85rem;">${label}</span>
+                            </label>
+                            <div style="display: flex; align-items: center; gap: 0.3rem;">
+                                <span style="font-size: 0.75rem; opacity: 0.5;">Βάρος:</span>
+                                <input type="number" id="rule-${rule}-weight" value="${cfg.weight}" min="0" max="5"
+                                    style="width: 3rem; background: rgba(0,0,0,0.3); color: var(--text); border: 1px solid var(--glass-border); border-radius: 4px; padding: 0.2rem 0.4rem; text-align: center; font-size: 0.85rem;">
+                            </div>
+                        </div>`;
+                }
+            } catch (e) {
+                console.error("Failed to load settings:", e);
+            }
+        }
+
+        async function saveSettings() {
+            if (!currentProjectId) return;
+
+            const prompt_templates = {
+                term_extraction: document.getElementById('tpl-term_extraction').value,
+                'zero-shot': document.getElementById('tpl-zero-shot').value,
+                'few-shot': document.getElementById('tpl-few-shot').value,
+                'cot-enhanced': document.getElementById('tpl-cot-enhanced').value,
+            };
+
+            const parser_config = {};
+            for (const rule of Object.keys(RULE_LABELS)) {
+                const enabledEl = document.getElementById(`rule-${rule}-enabled`);
+                const weightEl = document.getElementById(`rule-${rule}-weight`);
+                if (enabledEl && weightEl) {
+                    parser_config[rule] = {
+                        enabled: enabledEl.checked,
+                        weight: parseInt(weightEl.value) || 1,
+                    };
+                }
+            }
+
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/settings`, {
+                    method: 'PUT',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ prompt_templates, parser_config }),
+                });
+                if (resp.ok) {
+                    alert('Ρυθμίσεις αποθηκεύτηκαν!');
+                } else {
+                    alert('Αποτυχία αποθήκευσης');
+                }
+            } catch (e) {
+                alert('Αποτυχία αποθήκευσης: ' + e.message);
+            }
+        }
+
+        async function resetSettings() {
+            if (!currentSettingsDefaults) return;
+            if (!confirm('Επαναφορά όλων των ρυθμίσεων στις προεπιλογές;')) return;
+
+            try {
+                const resp = await fetch(`/api/projects/${currentProjectId}/settings`, {
+                    method: 'PUT',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(currentSettingsDefaults),
+                });
+                if (resp.ok) {
+                    await loadSettings();
+                    alert('Επαναφορά ολοκληρώθηκε');
+                }
+            } catch (e) {
+                alert('Αποτυχία: ' + e.message);
             }
         }
 

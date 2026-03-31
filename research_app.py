@@ -10,7 +10,7 @@ import logging
 import json
 from typing import List, Optional
 
-from research_models import init_db, get_research_db, ResearchProject, CorpusFile, TermCandidate, DefinitionExperiment, ConceptRelation
+from research_models import init_db, get_research_db, ResearchProject, CorpusFile, TermCandidate, DefinitionExperiment, ConceptRelation, ProjectSettings
 from dotenv import load_dotenv
 load_dotenv()
 from symbolic_parser import SymbolicDefinitionParser
@@ -184,6 +184,11 @@ async def trigger_term_extraction(
     with open(guidelines_path, "r") as f:
         guidelines = f.read()
 
+    # Load project-specific prompt template (or default)
+    settings = _get_project_settings(project_id, db)
+    templates = settings.prompt_templates or DEFAULT_PROMPT_TEMPLATES
+    extraction_template = templates.get("term_extraction", DEFAULT_PROMPT_TEMPLATES["term_extraction"])
+
     extracted_terms_count = 0
 
     for file in target_files:
@@ -191,15 +196,13 @@ async def trigger_term_extraction(
         chunks = [text_content[i:i+4000] for i in range(0, len(text_content), 4000)]
 
         for chunk in chunks:
-            prompt = f"""System: You are an expert terminologist following ISO standards.
-Instructions:
-{guidelines}
-
-{context_block}Text to analyze ({file.language}):
-{chunk}
-
-Task: Extract domain-specific terms for '{project.domain}'.
-Output format: A JSON array of strings only."""
+            prompt = extraction_template.format(
+                guidelines=guidelines,
+                context_block=context_block,
+                language=file.language,
+                chunk=chunk,
+                domain=project.domain,
+            )
 
             try:
                 response_text = await generate_with_timeout_multi(prompt, provider=model)
@@ -257,32 +260,15 @@ async def extract_definitions(project_id: int, term_id: int = Form(...), model: 
     with open(eval_guidelines_path, "r") as f:
         eval_guidelines = f.read()
 
+    # Load project-specific prompt templates
+    settings = _get_project_settings(project_id, db)
+    templates = settings.prompt_templates or DEFAULT_PROMPT_TEMPLATES
+    fmt_vars = {"domain": project.domain, "term": term.term, "eval_guidelines": eval_guidelines}
+
     prompts = {
-        "zero-shot": f"""
-        Define the following term for the domain '{project.domain}': {term.term}.
-        Follow these quality standards:
-        {eval_guidelines}
-        Output only the definition text.
-        """,
-        "few-shot": f"""
-        Domain: Medicine (Celiac Disease)
-        Term: Celiac Disease
-        Definition: A chronic immune-mediated disorder triggered by gluten ingestion in genetically predisposed individuals, causing inflammation of the small intestine.
-
-        Domain: {project.domain}
-        Term: {term.term}
-        Definition:
-        """,
-        "cot-enhanced": f"""
-        Step 1: Identify the superordinate concept (genus) for '{term.term}' in {project.domain}.
-        Step 2: Identify the specific characteristics (differentia) that distinguish it.
-        Step 3: Combine them into a single, concise ISO-compliant definition.
-
-        Guidelines:
-        {eval_guidelines}
-
-        Final Definition for '{term.term}':
-        """
+        "zero-shot": templates.get("zero-shot", DEFAULT_PROMPT_TEMPLATES["zero-shot"]).format(**fmt_vars),
+        "few-shot": templates.get("few-shot", DEFAULT_PROMPT_TEMPLATES["few-shot"]).format(**fmt_vars),
+        "cot-enhanced": templates.get("cot-enhanced", DEFAULT_PROMPT_TEMPLATES["cot-enhanced"]).format(**fmt_vars),
     }
 
     results = []
@@ -371,7 +357,11 @@ async def auto_validate(experiment_id: int, db: Session = Depends(get_research_d
         raise HTTPException(status_code=404, detail="Experiment not found")
 
     term = db.query(TermCandidate).filter(TermCandidate.id == exp.term_id).first()
-    parser = SymbolicDefinitionParser()
+
+    # Load project parser config
+    settings = _get_project_settings(term.project_id, db)
+    parser_cfg = settings.parser_config or DEFAULT_PARSER_CONFIG
+    parser = SymbolicDefinitionParser(rule_config=parser_cfg)
 
     result = parser.validate_structure(exp.definition_text, term.term, lang=term.language)
 
@@ -411,6 +401,7 @@ async def delete_project(project_id: int, db: Session = Depends(get_research_db)
     if not project:
         raise HTTPException(status_code=404, detail="Project not found")
 
+    db.query(ProjectSettings).filter(ProjectSettings.project_id == project_id).delete()
     db.query(ConceptRelation).filter(ConceptRelation.project_id == project_id).delete()
     for term in db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all():
         db.query(DefinitionExperiment).filter(DefinitionExperiment.term_id == term.id).delete()
@@ -419,6 +410,98 @@ async def delete_project(project_id: int, db: Session = Depends(get_research_db)
     db.delete(project)
     db.commit()
     return {"status": "deleted", "project_id": project_id}
+
+
+# ══════════════════════════════════════════════════════════════
+# PROJECT SETTINGS (Prompt Templates + Parser Config)
+# ══════════════════════════════════════════════════════════════
+
+# Default prompt templates — students can customise these per project
+DEFAULT_PROMPT_TEMPLATES = {
+    "term_extraction": """System: You are an expert terminologist following ISO standards.
+Instructions:
+{guidelines}
+
+{context_block}Text to analyze ({language}):
+{chunk}
+
+Task: Extract domain-specific terms for '{domain}'.
+Output format: A JSON array of strings only.""",
+
+    "zero-shot": """Define the following term for the domain '{domain}': {term}.
+Follow these quality standards:
+{eval_guidelines}
+Output only the definition text.""",
+
+    "few-shot": """Domain: Medicine (Celiac Disease)
+Term: Celiac Disease
+Definition: A chronic immune-mediated disorder triggered by gluten ingestion in genetically predisposed individuals, causing inflammation of the small intestine.
+
+Domain: {domain}
+Term: {term}
+Definition:""",
+
+    "cot-enhanced": """Step 1: Identify the superordinate concept (genus) for '{term}' in {domain}.
+Step 2: Identify the specific characteristics (differentia) that distinguish it.
+Step 3: Combine them into a single, concise ISO-compliant definition.
+
+Guidelines:
+{eval_guidelines}
+
+Final Definition for '{term}':""",
+}
+
+DEFAULT_PARSER_CONFIG = {
+    "circularity":       {"enabled": True, "weight": 1},
+    "genus":             {"enabled": True, "weight": 2},
+    "differentia":       {"enabled": True, "weight": 1},
+    "negation":          {"enabled": True, "weight": 1},
+    "encyclopedic":      {"enabled": True, "weight": 1},
+    "conciseness":       {"enabled": True, "weight": 1},
+    "genus_in_termbase": {"enabled": True, "weight": 1},
+}
+
+
+def _get_project_settings(project_id: int, db: Session) -> ProjectSettings:
+    """Get or create project settings with defaults."""
+    settings = db.query(ProjectSettings).filter(ProjectSettings.project_id == project_id).first()
+    if not settings:
+        settings = ProjectSettings(
+            project_id=project_id,
+            prompt_templates=DEFAULT_PROMPT_TEMPLATES,
+            parser_config=DEFAULT_PARSER_CONFIG,
+        )
+        db.add(settings)
+        db.commit()
+        db.refresh(settings)
+    return settings
+
+
+@app.get("/api/projects/{project_id}/settings")
+async def get_project_settings(project_id: int, db: Session = Depends(get_research_db)):
+    settings = _get_project_settings(project_id, db)
+    return {
+        "prompt_templates": settings.prompt_templates or DEFAULT_PROMPT_TEMPLATES,
+        "parser_config": settings.parser_config or DEFAULT_PARSER_CONFIG,
+        "defaults": {
+            "prompt_templates": DEFAULT_PROMPT_TEMPLATES,
+            "parser_config": DEFAULT_PARSER_CONFIG,
+        }
+    }
+
+
+@app.put("/api/projects/{project_id}/settings")
+async def update_project_settings(project_id: int, request: Request, db: Session = Depends(get_research_db)):
+    body = await request.json()
+    settings = _get_project_settings(project_id, db)
+
+    if "prompt_templates" in body:
+        settings.prompt_templates = body["prompt_templates"]
+    if "parser_config" in body:
+        settings.parser_config = body["parser_config"]
+
+    db.commit()
+    return {"status": "saved"}
 
 
 # ══════════════════════════════════════════════════════════════
@@ -460,7 +543,11 @@ async def neurosymbolic_define(
 
     all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == project_id).all()
     known_term_strings = [t.term for t in all_terms]
-    parser = SymbolicDefinitionParser(known_terms=known_term_strings)
+
+    # Load project parser config
+    settings = _get_project_settings(project_id, db)
+    parser_cfg = settings.parser_config or DEFAULT_PARSER_CONFIG
+    parser = SymbolicDefinitionParser(known_terms=known_term_strings, rule_config=parser_cfg)
 
     # Build RAG context if requested
     rag_context = ""
@@ -778,7 +865,10 @@ async def auto_validate_enhanced(experiment_id: int, db: Session = Depends(get_r
 
     all_terms = db.query(TermCandidate).filter(TermCandidate.project_id == term.project_id).all()
     known_term_strings = [t.term for t in all_terms]
-    parser = SymbolicDefinitionParser(known_terms=known_term_strings)
+
+    settings = _get_project_settings(term.project_id, db)
+    parser_cfg = settings.parser_config or DEFAULT_PARSER_CONFIG
+    parser = SymbolicDefinitionParser(known_terms=known_term_strings, rule_config=parser_cfg)
 
     result = parser.validate_structure(exp.definition_text, term.term, lang=term.language)
 
