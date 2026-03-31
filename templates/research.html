@@ -300,7 +300,7 @@
         <!-- Extraction Controls -->
         <div class="card">
             <h2>3. Εξαγωγή & Πειραματισμός</h2>
-            <div class="grid">
+            <div class="grid" style="grid-template-columns: 1fr 1fr 1fr;">
                 <div>
                     <h3>Επιλογή Μοντέλου</h3>
                     <select id="global-model-select">
@@ -308,13 +308,16 @@
                     </select>
                 </div>
                 <div>
-                    <h3>Εξαγωγή Όρων</h3>
-                    <button class="btn" id="extract-btn" style="background: #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.5);" onclick="extractTerms()">Έναρξη Εξαγωγής</button>
+                    <h3>Αρχείο-Στόχος για Εξαγωγή</h3>
+                    <select id="extract-target-file">
+                        <option value="">-- Όλα τα αρχεία --</option>
+                    </select>
+                    <p style="opacity: 0.5; font-size: 0.75rem; margin-top: 0.3rem;">Τα υπόλοιπα αρχεία χρησιμοποιούνται ως πλαίσιο (context)</p>
                 </div>
-                <div>
-                    <h3>Εξαγωγή Ορισμών (TAG)</h3>
-                    <p>Σύγκριση 3 προτροπών + RAG</p>
-                    <button class="btn btn-success" onclick="runAllExperiments()">Run All</button>
+                <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                    <h3>Ενέργειες</h3>
+                    <button class="btn" id="extract-btn" style="background: #ec4899; box-shadow: 0 0 15px rgba(236, 72, 153, 0.5);" onclick="extractTerms()">Εξαγωγή Όρων</button>
+                    <button class="btn btn-success" onclick="runAllExperiments()">Εξαγωγή Ορισμών (TAG)</button>
                 </div>
             </div>
         </div>
@@ -528,10 +531,19 @@
             const resp = await fetch(`/api/projects/${currentProjectId}/corpus-list`);
             if (!resp.ok) return;
             const data = await resp.json();
+
+            // Update corpus list display
             const list = document.getElementById('corpus-list');
             list.innerHTML = data.length ? '<h3>Αρχεία Corpus:</h3>' : '';
             data.forEach(f => {
                 list.innerHTML += `<div style="padding: 0.3rem 0; font-size: 0.85rem;">📄 ${f.filename} (${f.language})</div>`;
+            });
+
+            // Update target file selector for extraction
+            const sel = document.getElementById('extract-target-file');
+            sel.innerHTML = '<option value="">-- Όλα τα αρχεία --</option>';
+            data.forEach(f => {
+                sel.innerHTML += `<option value="${f.id}">${f.filename} (${f.language})</option>`;
             });
         }
 
@@ -541,24 +553,39 @@
             if (!currentProjectId) return alert('Επιλέξτε πρώτα ένα έργο');
             const btn = document.getElementById('extract-btn');
             const model = document.getElementById('global-model-select').value;
+            const targetFileId = document.getElementById('extract-target-file').value;
             btn.innerText = 'Extracting...';
             btn.disabled = true;
 
             const formData = new FormData();
             formData.append('model', model);
+            if (targetFileId) {
+                formData.append('corpus_file_id', targetFileId);
+            }
 
             try {
                 const resp = await fetch(`/api/projects/${currentProjectId}/extract-terms`, {
                     method: 'POST', body: formData
                 });
+                if (!resp.ok) {
+                    const err = await resp.json().catch(() => ({}));
+                    throw new Error(err.detail || `Server error ${resp.status}`);
+                }
                 const data = await resp.json();
-                alert(`Εξήχθησαν ${data.extracted_count} υποψήφιοι όροι!`);
-                loadTerms();
-                populateTermSelect();
+                let msg = `Εξήχθησαν ${data.extracted_count} υποψήφιοι όροι`;
+                if (data.target_file !== 'all') {
+                    msg += ` από "${data.target_file}"`;
+                    if (data.context_files && data.context_files.length > 0) {
+                        msg += ` (context: ${data.context_files.length} αρχεία)`;
+                    }
+                }
+                alert(msg);
+                await loadTerms();
+                await populateTermSelect();
             } catch (e) {
-                alert('Αποτυχία εξαγωγής');
+                alert('Αποτυχία εξαγωγής: ' + e.message);
             } finally {
-                btn.innerText = 'Έναρξη Εξαγωγής';
+                btn.innerText = 'Εξαγωγή Όρων';
                 btn.disabled = false;
             }
         }

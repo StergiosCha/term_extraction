@@ -107,6 +107,8 @@ async def upload_corpus(project_id: int, file: UploadFile = File(...), language:
             text_content = extract_text_from_docx(content_bytes)
         else:
             text_content = content_bytes.decode("utf-8", errors="ignore")
+        # Strip NUL bytes that break SQLite text columns
+        text_content = text_content.replace("\x00", "")
     except Exception as e:
         logger.error(f"Extraction failed for {filename}: {e}")
         raise HTTPException(status_code=400, detail="Could not extract text from file")
@@ -135,14 +137,48 @@ async def list_corpus_files(project_id: int, db: Session = Depends(get_research_
 
 # EXTRACTION ENDPOINTS (Phase 3)
 @app.post("/api/projects/{project_id}/extract-terms")
-async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5-pro"), db: Session = Depends(get_research_db)):
+async def trigger_term_extraction(
+    project_id: int,
+    model: str = Form("gemini-1.5-pro"),
+    corpus_file_id: Optional[int] = Form(None),
+    db: Session = Depends(get_research_db)
+):
+    """
+    Extract terms from a specific corpus file (or all files if none specified).
+    When a target file is specified, the other corpus files provide background
+    context that is prepended to each chunk so the LLM can make better
+    domain-relevance decisions.
+    """
     project = db.query(ResearchProject).filter(ResearchProject.id == project_id).first()
     if not project:
         raise HTTPException(status_code=404, detail="Project not found")
 
-    corpus_files = db.query(CorpusFile).filter(CorpusFile.project_id == project_id).all()
-    if not corpus_files:
+    all_corpus = db.query(CorpusFile).filter(CorpusFile.project_id == project_id).all()
+    if not all_corpus:
         raise HTTPException(status_code=400, detail="No corpus files found for this project")
+
+    # Determine target file(s) and context files
+    if corpus_file_id:
+        target_file = db.query(CorpusFile).filter(CorpusFile.id == corpus_file_id, CorpusFile.project_id == project_id).first()
+        if not target_file:
+            raise HTTPException(status_code=404, detail="Corpus file not found")
+        target_files = [target_file]
+        context_files = [f for f in all_corpus if f.id != corpus_file_id]
+    else:
+        target_files = all_corpus
+        context_files = []
+
+    # Build context summary from other files (truncate to keep prompt reasonable)
+    context_block = ""
+    if context_files:
+        context_snippets = []
+        max_context_per_file = 2000  # chars per context file
+        for cf in context_files:
+            snippet = (cf.cleaned_content or "")[:max_context_per_file]
+            if snippet:
+                context_snippets.append(f"[{cf.filename}]: {snippet}")
+        if context_snippets:
+            context_block = "Background context from other corpus documents in this project:\n" + "\n---\n".join(context_snippets) + "\n\n"
 
     guidelines_path = os.path.join(os.path.dirname(__file__), "instructions", "term_extraction_guidelines.md")
     with open(guidelines_path, "r") as f:
@@ -150,22 +186,20 @@ async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5
 
     extracted_terms_count = 0
 
-    for file in corpus_files:
+    for file in target_files:
         text_content = file.cleaned_content
         chunks = [text_content[i:i+4000] for i in range(0, len(text_content), 4000)]
 
         for chunk in chunks:
-            prompt = f"""
-            System: You are an expert terminologist following ISO standards.
-            Instructions:
-            {guidelines}
+            prompt = f"""System: You are an expert terminologist following ISO standards.
+Instructions:
+{guidelines}
 
-            Text to analyze ({file.language}):
-            {chunk}
+{context_block}Text to analyze ({file.language}):
+{chunk}
 
-            Task: Extract domain-specific terms for '{project.domain}'.
-            Output format: A JSON array of strings only.
-            """
+Task: Extract domain-specific terms for '{project.domain}'.
+Output format: A JSON array of strings only."""
 
             try:
                 response_text = await generate_with_timeout_multi(prompt, provider=model)
@@ -201,7 +235,12 @@ async def trigger_term_extraction(project_id: int, model: str = Form("gemini-1.5
                 logger.error(f"Error extracting terms from chunk: {e}")
                 continue
 
-    return {"status": "completed", "extracted_count": extracted_terms_count}
+    return {
+        "status": "completed",
+        "extracted_count": extracted_terms_count,
+        "target_file": target_files[0].filename if corpus_file_id else "all",
+        "context_files": [f.filename for f in context_files],
+    }
 
 @app.get("/api/projects/{project_id}/terms")
 async def get_project_terms(project_id: int, db: Session = Depends(get_research_db)):

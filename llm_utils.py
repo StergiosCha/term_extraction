@@ -298,6 +298,11 @@ async def generate_with_timeout_multi(prompt: str, provider: str = None, timeout
 # Replaces EletoDocumentScraper for PDF/DOCX, using only PyPDF2
 # and python-docx (both already in requirements.txt).
 
+def _clean_text(text: str) -> str:
+    """Remove NUL bytes and other problematic characters that break SQLite."""
+    return text.replace("\x00", "")
+
+
 def extract_text_from_pdf(content_bytes: bytes) -> str:
     """Extract text from PDF bytes using PyPDF2."""
     import PyPDF2
@@ -308,7 +313,7 @@ def extract_text_from_pdf(content_bytes: bytes) -> str:
         text = page.extract_text()
         if text:
             pages.append(text)
-    return "\n\n".join(pages)
+    return _clean_text("\n\n".join(pages))
 
 
 def extract_text_from_docx(content_bytes: bytes) -> str:
@@ -317,4 +322,4 @@ def extract_text_from_docx(content_bytes: bytes) -> str:
     from io import BytesIO
     doc = docx.Document(BytesIO(content_bytes))
     paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
-    return "\n\n".join(paragraphs)
+    return _clean_text("\n\n".join(paragraphs))
