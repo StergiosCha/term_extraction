@@ -43,7 +43,6 @@ _env_keys = {
     "openai": os.getenv("OPENAI_API_KEY"),
     "openrouter": os.getenv("OPENROUTER_API_KEY"),
     "azure_openai": os.getenv("AZURE_OPENAI_API_KEY"),
-    "azure_serverless": os.getenv("AZURE_OPENAI_API_KEY"),
 }
 for _provider, _key in _env_keys.items():
     if _key:

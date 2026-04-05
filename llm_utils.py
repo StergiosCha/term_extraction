@@ -44,18 +44,17 @@ class LLMProvider(str, Enum):
     O1_PREVIEW = "o1-preview"
     O1_MINI = "o1-mini"
 
-    # Azure OpenAI Models (deployed via Azure AI Foundry)
+    # Azure AI Foundry — Global Standard deployments (all share same endpoint + key)
     AZURE_GPT_4O = "azure/gpt-4o"
-    AZURE_GPT_4O_MINI = "azure/gpt-4o-mini"
-    AZURE_GPT_4 = "azure/gpt-4"
-    AZURE_GPT_35_TURBO = "azure/gpt-3.5-turbo"
-
-    # Azure AI Model Catalog (serverless deployments)
+    AZURE_GPT_4_1 = "azure/gpt-4.1"
+    AZURE_GPT_5_NANO = "azure/gpt-5-nano"
+    AZURE_GPT_5_4_MINI = "azure/gpt-5.4-mini"
+    AZURE_GPT_OSS_120B = "azure/gpt-oss-120b"
     AZURE_DEEPSEEK_R1 = "azure/deepseek-r1"
     AZURE_LLAMA_3_3_70B = "azure/llama-3.3-70b"
-    AZURE_LLAMA_3_1_8B = "azure/llama-3.1-8b"
     AZURE_MISTRAL_LARGE = "azure/mistral-large"
-    AZURE_PHI_4 = "azure/phi-4"
+    AZURE_GROK_4_FAST = "azure/grok-4-fast"
+    AZURE_KIMI_K2_5 = "azure/kimi-k2.5"
 
     # OpenRouter Models
     OR_CLAUDE_3_7_SONNET = "openrouter/anthropic/claude-3.7-sonnet"
@@ -100,17 +99,17 @@ MODEL_CONFIG = {
     LLMProvider.GPT_3_5_TURBO: {"name": "GPT-3.5 Turbo", "provider": "openai", "model_id": "gpt-3.5-turbo", "description": "Fast and cost-effective model", "max_tokens": 4096, "supports_streaming": True},
     LLMProvider.O1_PREVIEW: {"name": "O1 Preview", "provider": "openai", "model_id": "o1-preview", "description": "OpenAI's reasoning model", "max_tokens": 4096, "supports_streaming": False},
     LLMProvider.O1_MINI: {"name": "O1 Mini", "provider": "openai", "model_id": "o1-mini", "description": "Smaller reasoning model", "max_tokens": 4096, "supports_streaming": False},
-    # Azure OpenAI (deployed via Azure AI Foundry — uses AzureOpenAI SDK)
-    LLMProvider.AZURE_GPT_4O: {"name": "GPT-4o (Azure)", "provider": "azure_openai", "model_id": "gpt-4o", "description": "GPT-4o via Azure OpenAI", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_GPT_4O_MINI: {"name": "GPT-4o Mini (Azure)", "provider": "azure_openai", "model_id": "gpt-4o-mini", "description": "GPT-4o Mini via Azure", "max_tokens": 16384, "supports_streaming": True},
-    LLMProvider.AZURE_GPT_4: {"name": "GPT-4 (Azure)", "provider": "azure_openai", "model_id": "gpt-4", "description": "GPT-4 via Azure", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_GPT_35_TURBO: {"name": "GPT-3.5 Turbo (Azure)", "provider": "azure_openai", "model_id": "gpt-35-turbo", "description": "GPT-3.5 via Azure", "max_tokens": 4096, "supports_streaming": True},
-    # Azure AI Model Catalog (serverless — uses REST API)
-    LLMProvider.AZURE_DEEPSEEK_R1: {"name": "DeepSeek-R1 (Azure)", "provider": "azure_serverless", "model_id": "deepseek-r1", "description": "DeepSeek R1 reasoning model via Azure", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_LLAMA_3_3_70B: {"name": "Llama 3.3 70B (Azure)", "provider": "azure_serverless", "model_id": "Llama-3.3-70B-Instruct", "description": "Meta Llama 3.3 70B via Azure", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_LLAMA_3_1_8B: {"name": "Llama 3.1 8B (Azure)", "provider": "azure_serverless", "model_id": "Meta-Llama-3.1-8B-Instruct", "description": "Meta Llama 3.1 8B via Azure", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_MISTRAL_LARGE: {"name": "Mistral Large (Azure)", "provider": "azure_serverless", "model_id": "mistral-large", "description": "Mistral Large via Azure", "max_tokens": 4096, "supports_streaming": True},
-    LLMProvider.AZURE_PHI_4: {"name": "Phi-4 (Azure)", "provider": "azure_serverless", "model_id": "Phi-4", "description": "Microsoft Phi-4 via Azure", "max_tokens": 4096, "supports_streaming": True},
+    # Azure AI Foundry — Global Standard (all use AzureOpenAI SDK, same endpoint + key)
+    LLMProvider.AZURE_GPT_4O: {"name": "GPT-4o (Azure)", "provider": "azure_openai", "model_id": "gpt-4o", "description": "GPT-4o via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_GPT_4_1: {"name": "GPT-4.1 (Azure)", "provider": "azure_openai", "model_id": "gpt-4.1", "description": "GPT-4.1 via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_GPT_5_NANO: {"name": "GPT-5 Nano (Azure)", "provider": "azure_openai", "model_id": "gpt-5-nano", "description": "GPT-5 Nano lightweight model via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_GPT_5_4_MINI: {"name": "GPT-5.4 Mini (Azure)", "provider": "azure_openai", "model_id": "gpt-5.4-mini", "description": "GPT-5.4 Mini fast model via Azure", "max_tokens": 16384, "supports_streaming": True},
+    LLMProvider.AZURE_GPT_OSS_120B: {"name": "GPT-OSS 120B (Azure)", "provider": "azure_openai", "model_id": "gpt-oss-120b", "description": "Open-source GPT 120B via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_DEEPSEEK_R1: {"name": "DeepSeek-R1 (Azure)", "provider": "azure_openai", "model_id": "DeepSeek-R1-0528", "description": "DeepSeek R1 reasoning model via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_LLAMA_3_3_70B: {"name": "Llama 3.3 70B (Azure)", "provider": "azure_openai", "model_id": "Llama-3.3-70B-Instruct", "description": "Meta Llama 3.3 70B via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_MISTRAL_LARGE: {"name": "Mistral Large 3 (Azure)", "provider": "azure_openai", "model_id": "Mistral-Large-3", "description": "Mistral Large 3 via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_GROK_4_FAST: {"name": "Grok 4 Fast (Azure)", "provider": "azure_openai", "model_id": "grok-4-fast-reasoning", "description": "xAI Grok 4 fast reasoning via Azure", "max_tokens": 4096, "supports_streaming": True},
+    LLMProvider.AZURE_KIMI_K2_5: {"name": "Kimi K2.5 (Azure)", "provider": "azure_openai", "model_id": "Kimi-K2.5", "description": "Moonshot Kimi K2.5 via Azure", "max_tokens": 4096, "supports_streaming": True},
     # OpenRouter
     LLMProvider.OR_CLAUDE_3_7_SONNET: {"name": "Claude 3.7 Sonnet (OR)", "provider": "openrouter", "model_id": "anthropic/claude-3.7-sonnet", "description": "Claude 3.7 via OpenRouter", "max_tokens": 4096, "supports_streaming": True},
     LLMProvider.OR_GPT_4O: {"name": "GPT-4o (OR)", "provider": "openrouter", "model_id": "openai/gpt-4o", "description": "GPT-4o via OpenRouter", "max_tokens": 4096, "supports_streaming": True},
@@ -145,7 +144,6 @@ class MultiLLMManager:
             "openai": self._get_system_api_key("OPENAI_API_KEY", ".openai_api_key"),
             "openrouter": self._get_system_api_key("OPENROUTER_API_KEY", ".openrouter_api_key"),
             "azure_openai": self._get_system_api_key("AZURE_OPENAI_API_KEY", ".azure_openai_api_key"),
-            "azure_serverless": self._get_system_api_key("AZURE_OPENAI_API_KEY", ".azure_openai_api_key"),
         }
         # Azure needs an endpoint URL alongside the key
         self.azure_endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
@@ -176,7 +174,7 @@ class MultiLLMManager:
     def get_available_models(self, session_id: Optional[str] = None) -> Dict[str, Dict[str, Any]]:
         available = {}
         # Show OpenRouter + Azure models in the UI dropdown
-        _visible_providers = {"openrouter", "azure_openai", "azure_serverless"}
+        _visible_providers = {"openrouter", "azure_openai"}
         for model_enum, config in MODEL_CONFIG.items():
             provider_type = config["provider"]
             if provider_type not in _visible_providers:
@@ -241,8 +239,6 @@ class MultiLLMManager:
                 return await self._generate_openrouter(prompt, api_key, model_id, timeout, effective_max_tokens, temperature, top_p)
             elif provider_type == "azure_openai":
                 return await self._generate_azure_openai(prompt, api_key, model_id, timeout, effective_max_tokens, temperature, top_p)
-            elif provider_type == "azure_serverless":
-                return await self._generate_azure_serverless(prompt, api_key, model_id, timeout, effective_max_tokens, temperature, top_p)
             else:
                 raise ValueError(f"Unknown provider type: {provider_type}")
         except asyncio.TimeoutError:
@@ -379,41 +375,6 @@ class MultiLLMManager:
 
         return await asyncio.wait_for(loop.run_in_executor(None, call_azure), timeout=timeout)
 
-    async def _generate_azure_serverless(self, prompt: str, api_key: str, model_id: str, timeout: int, max_tokens: int,
-                                          temperature: Optional[float] = None, top_p: Optional[float] = None) -> str:
-        """Azure AI Model Catalog serverless endpoints (Llama, DeepSeek, Mistral, Phi)."""
-        import aiohttp
-        # Serverless endpoints use: https://<resource>.services.ai.azure.com/models/chat/completions
-        endpoint_base = self.azure_endpoint.rstrip("/")
-        url = f"{endpoint_base}/models/chat/completions?api-version=2024-05-01-preview"
-
-        payload = {
-            "model": model_id,
-            "messages": [{"role": "user", "content": prompt}],
-            "max_tokens": max_tokens,
-        }
-        if temperature is not None:
-            payload["temperature"] = temperature
-        if top_p is not None:
-            payload["top_p"] = top_p
-
-        async with aiohttp.ClientSession() as session:
-            async with session.post(
-                url,
-                headers={
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json",
-                },
-                json=payload,
-                timeout=aiohttp.ClientTimeout(total=timeout),
-            ) as response:
-                if response.status == 200:
-                    data = await response.json()
-                    return data["choices"][0]["message"]["content"]
-                else:
-                    error_text = await response.text()
-                    logger.error(f"Azure serverless error: {response.status} - {error_text}")
-                    raise RuntimeError(f"Azure serverless failed ({response.status}): {error_text}")
 
 
 # ── Singleton + convenience function ───────────────────────────
