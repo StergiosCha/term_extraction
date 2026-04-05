@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 *.api_key
 papers/
+__pycache__/
+*.pyc
+azure_updates.patch
