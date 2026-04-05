@@ -20,8 +20,15 @@ from datetime import datetime, timedelta, date
 from enum import Enum
 from typing import List, Dict, Optional, Tuple, Any
 import numpy as np
-from sentence_transformers import SentenceTransformer
-import faiss
+try:
+    from sentence_transformers import SentenceTransformer
+    import faiss
+    _HAS_ML = True
+except ImportError:
+    SentenceTransformer = None
+    faiss = None
+    _HAS_ML = False
+    logging.getLogger(__name__).warning("sentence-transformers/faiss not installed — RAG features in main.py disabled")
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
@@ -103,6 +110,24 @@ class LLMProvider(str, Enum):
     GPT_3_5_TURBO = "gpt-3.5-turbo"
     O1_PREVIEW = "o1-preview"
     O1_MINI = "o1-mini"
+    
+    # OpenRouter Models
+    OR_CLAUDE_3_7_SONNET = "openrouter/anthropic/claude-3.7-sonnet"
+    OR_GPT_4O = "openrouter/openai/gpt-4o"
+    OR_DEEPSEEK_V3 = "openrouter/deepseek/deepseek-chat"
+    OR_GEMINI_2_0_FLASH_LITE = "openrouter/google/gemini-2.0-flash-lite-001"
+    OR_GEMINI_2_5_FLASH_LITE = "openrouter/google/gemini-2.5-flash-lite"
+    OR_GEMINI_3_0_FLASH_LITE = "openrouter/google/gemini-3.0-flash-lite"
+    OR_GPT_5_2 = "openrouter/openai/gpt-5.2"
+    OR_GPT_5_2_PREVIEW = "openrouter/openai/gpt-5.2-preview"
+    OR_CLAUDE_4_5_SONNET = "openrouter/anthropic/claude-4.5-sonnet"
+    OR_CLAUDE_4_5_OPUS = "openrouter/anthropic/claude-4.5-opus"
+    OR_CLAUDE_4_1_SONNET = "openrouter/anthropic/claude-4.1-sonnet"
+    OR_CLAUDE_4_1_OPUS = "openrouter/anthropic/claude-4.1-opus"
+    OR_LLAMA_3_1_8B = "openrouter/meta-llama/llama-3.1-8b-instruct"
+    OR_LLAMA_3_1_70B = "openrouter/meta-llama/llama-3.1-70b-instruct"
+    OR_LLAMA_3_1_405B = "openrouter/meta-llama/llama-3.1-405b-instruct"
+    OR_MISTRAL_LARGE = "openrouter/mistralai/mistral-large-2411"
 
 # Model Configuration
 MODEL_CONFIG = {
@@ -255,16 +280,162 @@ MODEL_CONFIG = {
         "max_tokens": 4096,
         "supports_streaming": False
     },
+    # OpenRouter Models
+    LLMProvider.OR_CLAUDE_3_7_SONNET: {
+        "name": "Claude 3.7 Sonnet (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-3.7-sonnet",
+        "description": "Claude 3.7 via OpenRouter",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GPT_4O: {
+        "name": "GPT-4o (OR)",
+        "provider": "openrouter",
+        "model_id": "openai/gpt-4o",
+        "description": "GPT-4o via OpenRouter",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_DEEPSEEK_V3: {
+        "name": "DeepSeek V3 (OR)",
+        "provider": "openrouter",
+        "model_id": "deepseek/deepseek-chat",
+        "description": "DeepSeek V3 via OpenRouter",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GEMINI_2_0_FLASH_LITE: {
+        "name": "Gemini 2.0 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-2.0-flash-lite-001",
+        "description": "Fast lightweight Gemini 2.0",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GEMINI_2_5_FLASH_LITE: {
+        "name": "Gemini 2.5 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-2.5-flash-lite",
+        "description": "Upcoming fast Gemini 2.5",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GEMINI_3_0_FLASH_LITE: {
+        "name": "Gemini 3.0 Flash Lite (OR)",
+        "provider": "openrouter",
+        "model_id": "google/gemini-3.0-flash-lite",
+        "description": "Upcoming modular Gemini 3.0",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GPT_5_2: {
+        "name": "GPT-5.2 (OR)",
+        "provider": "openrouter",
+        "model_id": "openai/gpt-5.2",
+        "description": "Next generation GPT",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_GPT_5_2_PREVIEW: {
+        "name": "GPT-5.2 Preview (OR)",
+        "provider": "openrouter",
+        "model_id": "openai/gpt-5.2-preview",
+        "description": "Next generation GPT early preview",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_5_SONNET: {
+        "name": "Claude 4.5 Sonnet (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.5-sonnet",
+        "description": "Next generation Claude Sonnet",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_5_OPUS: {
+        "name": "Claude 4.5 Opus (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.5-opus",
+        "description": "Next generation Claude Opus",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_1_SONNET: {
+        "name": "Claude 4.1 Sonnet (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.1-sonnet",
+        "description": "Upcoming Claude 4.1 Series",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_CLAUDE_4_1_OPUS: {
+        "name": "Claude 4.1 Opus (OR)",
+        "provider": "openrouter",
+        "model_id": "anthropic/claude-4.1-opus",
+        "description": "Upcoming Claude 4.1 Opus",
+        "max_tokens": 4096,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_8B: {
+        "name": "Llama 3.1 8B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-8b-instruct",
+        "description": "Fast Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_70B: {
+        "name": "Llama 3.1 70B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-70b-instruct",
+        "description": "Powerful Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_LLAMA_3_1_405B: {
+        "name": "Llama 3.1 405B (OR)",
+        "provider": "openrouter",
+        "model_id": "meta-llama/llama-3.1-405b-instruct",
+        "description": "Massive Meta Llama 3.1",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
+    LLMProvider.OR_MISTRAL_LARGE: {
+        "name": "Mistral Large (OR)",
+        "provider": "openrouter",
+        "model_id": "mistralai/mistral-large-2411",
+        "description": "Mistral's flagship large model",
+        "max_tokens": 8192,
+        "supports_streaming": True
+    },
 }
 
 class MultiLLMManager:
-    """Manages multiple LLM providers - USERS MUST PROVIDE THEIR OWN API KEYS"""
+    """Manages multiple LLM providers with support for user API keys"""
     
     def __init__(self):
         self.default_provider = LLMProvider.GEMINI_2_5_PRO
         # Store user API keys per session (in-memory for now, can be moved to DB)
-        # NO SYSTEM API KEYS - users must provide their own
         self.user_api_keys = {}  # {session_id: {provider_type: api_key}}
+        # System API keys (from env/files) - used as fallback
+        self.system_api_keys = {
+            "gemini": self._get_system_api_key("GEMINI_API_KEY", ".gemini_api_key"),
+            "anthropic": self._get_system_api_key("ANTHROPIC_API_KEY", ".anthropic_api_key"),
+            "openai": self._get_system_api_key("OPENAI_API_KEY", ".openai_api_key"),
+            "openrouter": self._get_system_api_key("OPENROUTER_API_KEY", ".openrouter_api_key"),
+        }
+    
+    def _get_system_api_key(self, env_var: str, file_path: str) -> Optional[str]:
+        """Get API key from environment or file"""
+        api_key = os.environ.get(env_var)
+        if api_key:
+            return api_key
+        try:
+            with open(file_path, "r") as f:
+                return f.read().strip()
+        except FileNotFoundError:
+            return None
     
     def set_user_api_key(self, session_id: str, provider_type: str, api_key: str):
         """Set user API key for a session"""
@@ -274,10 +445,15 @@ class MultiLLMManager:
         logger.info(f"Set user API key for {provider_type} (session: {session_id[:8]}...)")
     
     def get_api_key(self, session_id: Optional[str], provider_type: str) -> Optional[str]:
-        """Get API key - ONLY user-provided keys, NO system fallback"""
+        """Get API key - user key takes priority, then system key"""
+        # Check user key first
         if session_id and session_id in self.user_api_keys:
-            return self.user_api_keys[session_id].get(provider_type)
-        return None
+            user_key = self.user_api_keys[session_id].get(provider_type)
+            if user_key:
+                return user_key
+        
+        # Fallback to system key
+        return self.system_api_keys.get(provider_type)
     
     def get_available_models(self, session_id: Optional[str] = None) -> Dict[str, Dict[str, Any]]:
         """Get list of all available models with their availability status"""
@@ -285,6 +461,11 @@ class MultiLLMManager:
         
         for model_enum, config in MODEL_CONFIG.items():
             provider_type = config["provider"]
+            
+            # Hide non-openrouter models from the UI dictionary
+            if provider_type != "openrouter":
+                continue
+                
             api_key = self.get_api_key(session_id, provider_type)
             
             available[model_enum.value] = {
@@ -335,8 +516,8 @@ class MultiLLMManager:
         
         if not api_key:
             raise HTTPException(
-                status_code=status.HTTP_403_FORBIDDEN,
-                detail=f"API key required for {provider_type}. Please provide your own API key in the settings (click the ⚙️ icon)."
+                status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+                detail=f"API key not found for {provider_type}. Please set your API key in settings."
             )
         
         try:
@@ -346,6 +527,8 @@ class MultiLLMManager:
                 return await self._generate_claude(prompt, api_key, model_id, timeout, config["max_tokens"])
             elif provider_type == "openai":
                 return await self._generate_openai(prompt, api_key, model_id, timeout, config["max_tokens"])
+            elif provider_type == "openrouter":
+                return await self._generate_openrouter(prompt, api_key, model_id, timeout, config["max_tokens"])
             else:
                 raise HTTPException(
                     status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
@@ -422,6 +605,36 @@ class MultiLLMManager:
         response_task = loop.run_in_executor(None, call_openai)
         response = await asyncio.wait_for(response_task, timeout=timeout)
         return response
+
+    async def _generate_openrouter(self, prompt: str, api_key: str, model_id: str, timeout: int, max_tokens: int) -> str:
+        """Generate with OpenRouter"""
+        async with aiohttp.ClientSession() as session:
+            try:
+                async with session.post(
+                    "https://openrouter.ai/api/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {api_key}",
+                        "Content-Type": "application/json",
+                        "HTTP-Referer": "https://textcraft.ai", # Fallback referer
+                        "X-Title": "TextCraft AI",
+                    },
+                    json={
+                        "model": model_id,
+                        "messages": [{"role": "user", "content": prompt}],
+                        "max_tokens": max_tokens
+                    },
+                    timeout=timeout
+                ) as response:
+                    if response.status == 200:
+                        data = await response.json()
+                        return data['choices'][0]['message']['content']
+                    else:
+                        error_text = await response.text()
+                        logger.error(f"OpenRouter error: {response.status} - {error_text}")
+                        raise HTTPException(status_code=response.status, detail=f"OpenRouter failed: {error_text}")
+            except Exception as e:
+                logger.error(f"OpenRouter connection error: {e}")
+                raise HTTPException(status_code=500, detail=f"OpenRouter connection failed: {str(e)}")
 
 # Initialize global LLM manager
 llm_manager = MultiLLMManager()
@@ -761,16 +974,14 @@ class TerminologyRAGSystem:
         
     def load_embedding_model(self):
         """Load multilingual embedding model"""
+        if not _HAS_ML:
+            logger.warning("⚠️ sentence-transformers not installed — embedding model skipped")
+            return
         try:
             self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
             logger.info("✅ Embedding model loaded")
         except Exception as e:
             logger.error(f"❌ Failed to load embedding model: {e}")
-            try:
-                self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
-                logger.info("✅ Fallback embedding model loaded")
-            except Exception as e2:
-                logger.error(f"❌ Failed to load fallback model: {e2}")
 
     def chunk_text_by_lines(self, text_content: str, source_url: str, min_lines: int = 5, max_lines: int = 20, overlap_lines: int = 3) -> List[str]:
         """
@@ -1633,9 +1844,21 @@ class TerminologyAwareTranslator:
                 'confidence_score': sum(s['score'] for s in actually_used_sources) / len(actually_used_sources) if actually_used_sources else 0.5
             }
             
+        except HTTPException:
+            # Re-raise HTTP exceptions (like missing API key) as-is
+            raise
         except Exception as e:
-            logger.error(f"Translation failed: {e}")
-            raise HTTPException(status_code=500, detail=f"Translation failed: {str(e)}")
+            error_msg = str(e) if str(e) else "Unknown error occurred"
+            logger.error(f"Translation failed: {error_msg}", exc_info=True)
+            
+            # Check if it's an API key issue
+            if "API key" in error_msg or "403" in error_msg:
+                raise HTTPException(
+                    status_code=403,
+                    detail=f"API key required. Please provide your API key in settings (click the ⚙️ icon). Error: {error_msg}"
+                )
+            
+            raise HTTPException(status_code=500, detail=f"Translation failed: {error_msg}")
 
     async def chat_about_terminology(self, user_message: str, conversation_history: List[Dict] = None, provider: str = None, db = None, session_id: Optional[str] = None) -> Dict:
         """Chat about terminology with glossary and RAG enhancement"""
@@ -2185,6 +2408,18 @@ def get_current_user(request: Request, db: SQLASessionType) -> User:
     # Return a mock user for now
     pass
 
+def get_extended_session():
+    """Get database session - use the db dependency instead"""
+    # This is a legacy function - endpoints should use db: SQLASessionType = Depends(get_db)
+    # For now, create a session directly
+    from models import SessionLocal
+    db = SessionLocal()
+    try:
+        return db
+    except Exception as e:
+        logger.error(f"Failed to create database session: {e}")
+        raise
+
 # FASTAPI ENDPOINTS
 
 def get_session_id(request: Request) -> str:
@@ -2274,7 +2509,12 @@ async def get_api_keys(request: Request):
     }
     
     return JSONResponse(content={
-        "has_user_keys": keys_status
+        "has_user_keys": keys_status,
+        "has_system_keys": {
+            "gemini": llm_manager.system_api_keys.get("gemini") is not None,
+            "anthropic": llm_manager.system_api_keys.get("anthropic") is not None,
+            "openai": llm_manager.system_api_keys.get("openai") is not None
+        }
     })
 
 @app.post("/api/set-default-provider")
@@ -2685,9 +2925,21 @@ async def translate_with_terminology(
             "sources": result.get('sources', [])
         })
         
+    except HTTPException:
+        # Re-raise HTTP exceptions (like missing API key) as-is
+        raise
     except Exception as e:
-        logger.error(f"Terminology translation failed: {e}")
-        raise HTTPException(status_code=500, detail=f"Translation failed: {str(e)}")
+        error_msg = str(e) if str(e) else "Unknown error occurred"
+        logger.error(f"Terminology translation failed: {error_msg}", exc_info=True)
+        
+        # Check if it's an API key issue
+        if "API key" in error_msg or "403" in error_msg or "not found for" in error_msg.lower():
+            raise HTTPException(
+                status_code=403,
+                detail=f"API key required. Please provide your API key in settings (click the ⚙️ icon)."
+            )
+        
+        raise HTTPException(status_code=500, detail=f"Translation failed: {error_msg}")
 @app.get("/api/sample-chunks")
 async def sample_chunks():
     return {
@@ -2734,9 +2986,21 @@ async def terminology_chat_endpoint(
             "llm_provider": provider
         })
         
+    except HTTPException:
+        # Re-raise HTTP exceptions (like missing API key) as-is
+        raise
     except Exception as e:
-        logger.error(f"Terminology chat failed: {e}")
-        raise HTTPException(status_code=500, detail=f"Chat failed: {str(e)}")
+        error_msg = str(e) if str(e) else "Unknown error occurred"
+        logger.error(f"Terminology chat failed: {error_msg}", exc_info=True)
+        
+        # Check if it's an API key issue
+        if "API key" in error_msg or "403" in error_msg:
+            raise HTTPException(
+                status_code=403,
+                detail=f"API key required. Please provide your API key in settings (click the ⚙️ icon). Error: {error_msg}"
+            )
+        
+        raise HTTPException(status_code=500, detail=f"Chat failed: {error_msg}")
 
 @app.post("/analyze-text-multi")
 async def analyze_text_multi(

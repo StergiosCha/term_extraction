@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.DS_Store
+*.api_key
+papers/

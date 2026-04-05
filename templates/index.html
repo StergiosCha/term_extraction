@@ -497,11 +497,10 @@
                             <button onclick="closeApiKeysModal()" style="background: none; border: none; font-size: 24px; cursor: pointer; color: #6b7280;">&times;</button>
                         </div>
                         
-                        <div style="margin-bottom: 20px; padding: 15px; background: #fef3c7; border-radius: 8px; border-left: 4px solid #f59e0b;">
-                            <strong>⚠️ IMPORTANT: You must provide your own API keys</strong>
-                            <div style="margin-top: 8px; font-size: 14px; color: #92400e;">
-                                This application requires you to provide your own API keys for each provider. No system keys are used. 
-                                Keys are stored in your browser session only and never shared.
+                        <div style="margin-bottom: 20px; padding: 15px; background: #f3f4f6; border-radius: 8px; border-left: 4px solid #667eea;">
+                            <strong>💡 How it works:</strong>
+                            <div style="margin-top: 8px; font-size: 14px; color: #4b5563;">
+                                Set your own API keys to use any model. Your keys take priority over system keys. Keys are stored in your browser session.
                             </div>
                         </div>
                         
@@ -2112,7 +2111,7 @@
                     statusEl.innerHTML = '<i class="fas fa-circle"></i> ' + availableCount + ' models available';
                 } else {
                     statusEl.className = 'status-indicator status-error';
-                    statusEl.innerHTML = '<i class="fas fa-exclamation-triangle"></i> No API keys set - Click ⚙️ to add keys';
+                    statusEl.innerHTML = '<i class="fas fa-circle"></i> No models available - Set API keys';
                 }
                 
                 showSuccess(`${availableCount} models available`);

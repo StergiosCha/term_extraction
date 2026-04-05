@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Οδηγός Χρήσης — TermResearch AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-light: #818cf8;
+            --bg: #0f172a;
+            --surface: #1e293b;
+            --surface-light: #334155;
+            --glass: rgba(30, 41, 59, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.1);
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --info: #3b82f6;
+            --pink: #ec4899;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            background-image:
+                radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.12) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.12) 0px, transparent 50%);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        /* ── Navigation ── */
+        nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: var(--glass);
+            backdrop-filter: blur(16px);
+            border-bottom: 1px solid var(--glass-border);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.4rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #818cf8, #c084fc);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover { color: var(--primary-light); }
+
+        /* ── Layout ── */
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2rem 2rem 4rem;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 3rem 0;
+        }
+
+        .hero h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+            background: linear-gradient(to right, #818cf8, #c084fc, #f0abfc);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero .subtitle {
+            font-size: 1.05rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* ── Table of Contents ── */
+        .toc {
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.5rem 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .toc h2 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+
+        .toc ol {
+            list-style: none;
+            counter-reset: toc;
+            padding: 0;
+        }
+
+        .toc ol li {
+            counter-increment: toc;
+            margin-bottom: 0.5rem;
+        }
+
+        .toc ol li a {
+            color: var(--primary-light);
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .toc ol li a::before {
+            content: counter(toc) ".";
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            min-width: 1.5rem;
+        }
+
+        .toc ol li a:hover { text-decoration: underline; }
+
+        /* ── Sections ── */
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid var(--glass-border);
+        }
+
+        .section-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 2.5rem;
+            height: 2.5rem;
+            border-radius: 12px;
+            background: var(--primary);
+            color: white;
+            font-weight: 700;
+            font-size: 1.1rem;
+            flex-shrink: 0;
+        }
+
+        .section-header h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 1.5rem 0 0.75rem;
+            color: var(--primary-light);
+        }
+
+        p { margin-bottom: 1rem; }
+
+        /* ── Cards ── */
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* ── Function reference cards ── */
+        .func-card {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--glass-border);
+            border-left: 4px solid var(--primary);
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .func-card.backend { border-left-color: var(--info); }
+        .func-card.frontend { border-left-color: var(--pink); }
+        .func-card.setting { border-left-color: var(--warning); }
+
+        .func-name {
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--primary-light);
+            margin-bottom: 0.3rem;
+        }
+
+        .func-card.backend .func-name { color: var(--info); }
+        .func-card.frontend .func-name { color: var(--pink); }
+        .func-card.setting .func-name { color: var(--warning); }
+
+        .func-endpoint {
+            font-family: 'Courier New', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .func-desc {
+            font-size: 0.9rem;
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-right: 0.3rem;
+            vertical-align: middle;
+        }
+
+        .tag-api { background: rgba(59, 130, 246, 0.2); color: var(--info); }
+        .tag-ui { background: rgba(236, 72, 153, 0.2); color: var(--pink); }
+        .tag-setting { background: rgba(245, 158, 11, 0.2); color: var(--warning); }
+        .tag-post { background: rgba(16, 185, 129, 0.2); color: var(--success); }
+        .tag-get { background: rgba(99, 102, 241, 0.2); color: var(--primary-light); }
+        .tag-put { background: rgba(245, 158, 11, 0.2); color: var(--warning); }
+        .tag-delete { background: rgba(239, 68, 68, 0.2); color: var(--danger); }
+
+        /* ── Steps ── */
+        .step-list {
+            list-style: none;
+            padding: 0;
+            counter-reset: steps;
+        }
+
+        .step-list li {
+            counter-increment: steps;
+            padding: 0.75rem 0 0.75rem 2.5rem;
+            position: relative;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .step-list li::before {
+            content: counter(steps);
+            position: absolute;
+            left: 0;
+            top: 0.75rem;
+            width: 1.8rem;
+            height: 1.8rem;
+            border-radius: 50%;
+            background: var(--surface-light);
+            color: var(--primary-light);
+            font-weight: 700;
+            font-size: 0.8rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* ── Tip boxes ── */
+        .tip {
+            background: rgba(99, 102, 241, 0.1);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 12px;
+            padding: 1rem 1.25rem;
+            margin: 1rem 0;
+            font-size: 0.9rem;
+        }
+
+        .tip::before {
+            content: "Tip ";
+            font-weight: 700;
+            color: var(--primary-light);
+        }
+
+        .warning {
+            background: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+            border-radius: 12px;
+            padding: 1rem 1.25rem;
+            margin: 1rem 0;
+            font-size: 0.9rem;
+        }
+
+        .warning::before {
+            content: "Προσοχή ";
+            font-weight: 700;
+            color: var(--warning);
+        }
+
+        /* ── Param table ── */
+        .param-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            font-size: 0.85rem;
+        }
+
+        .param-table th {
+            text-align: left;
+            padding: 0.6rem 0.8rem;
+            background: var(--surface-light);
+            color: var(--text-muted);
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .param-table td {
+            padding: 0.6rem 0.8rem;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .param-table code {
+            font-family: 'Courier New', monospace;
+            background: rgba(0,0,0,0.3);
+            padding: 0.1rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        /* ── Flow diagram ── */
+        .flow {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin: 1rem 0;
+        }
+
+        .flow-step {
+            background: var(--surface-light);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .flow-arrow {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+        }
+
+        /* ── Footer ── */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--glass-border);
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div class="logo">TermResearch AI — Οδηγός Χρήσης</div>
+    <div class="nav-links">
+        <a href="#overview">Επισκόπηση</a>
+        <a href="#workflow">Ροή Εργασίας</a>
+        <a href="#functions">Λειτουργίες</a>
+        <a href="#settings">Ρυθμίσεις</a>
+        <a href="#experiment">Πείραμα</a>
+    </div>
+</nav>
+
+<div class="container">
+
+    <!-- ════════ HERO ════════ -->
+    <div class="hero">
+        <h1>Οδηγός Χρήσης Εφαρμογής</h1>
+        <p class="subtitle">
+            AI Assisted Terminography Research — Εαρινό Εξάμηνο 2026
+        </p>
+    </div>
+
+    <!-- ════════ TABLE OF CONTENTS ════════ -->
+    <div class="toc">
+        <h2>Περιεχόμενα</h2>
+        <ol>
+            <li><a href="#overview">Επισκόπηση Εφαρμογής</a></li>
+            <li><a href="#workflow">Ροή Εργασίας (Workflow)</a></li>
+            <li><a href="#s1-project">Ενότητα 1 — Διαχείριση Έργου</a></li>
+            <li><a href="#s2-corpus">Ενότητα 2 — Σχηματισμός Corpus</a></li>
+            <li><a href="#s3-settings">Ενότητα 3 — Ρυθμίσεις Έργου</a></li>
+            <li><a href="#s4-extraction">Ενότητα 4 — Εξαγωγή Όρων &amp; Ορισμών</a></li>
+            <li><a href="#s5-neurosymbolic">Ενότητα 5 — Νευρο-Συμβολικός Βρόχος</a></li>
+            <li><a href="#s6-relations">Ενότητα 6 — Εννοιολογικές Σχέσεις</a></li>
+            <li><a href="#s7-export">Ενότητα 7 — Εξαγωγή Αποτελεσμάτων</a></li>
+            <li><a href="#experiment">Πειραματικό Πρωτόκολλο</a></li>
+            <li><a href="#params">Παράμετροι LLM — Τι Σημαίνει η Καθεμία</a></li>
+            <li><a href="#glossary">Γλωσσάρι</a></li>
+        </ol>
+    </div>
+
+    <!-- ════════ OVERVIEW ════════ -->
+    <div class="section" id="overview">
+        <div class="section-header">
+            <span class="section-number">0</span>
+            <h2>Επισκόπηση Εφαρμογής</h2>
+        </div>
+
+        <p>
+            Η εφαρμογή <strong>TermResearch AI</strong> είναι ένα ερευνητικό εργαλείο για τη μελέτη
+            της <strong>αυτοματοποιημένης ορολογίας</strong> (AI-assisted terminography). Επιτρέπει σε
+            φοιτητές και ερευνητές να:
+        </p>
+
+        <ul style="padding-left: 1.5rem; margin-bottom: 1.5rem;">
+            <li>Δημιουργούν <strong>ερευνητικά έργα</strong> ανά θεματικό πεδίο (domain)</li>
+            <li>Ανεβάζουν <strong>corpus κειμένων</strong> (TXT, PDF, DOCX)</li>
+            <li>Εξάγουν <strong>όρους</strong> μέσω LLM με βάση τις κατευθυντήριες γραμμές ISO</li>
+            <li>Παράγουν <strong>ορισμούς</strong> με 5 διαφορετικές στρατηγικές prompting</li>
+            <li>Αξιολογούν ορισμούς μέσω <strong>συμβολικού αναλυτή</strong> (7 κανόνες ISO 1087)</li>
+            <li>Εκτελούν <strong>νευρο-συμβολικό βρόχο ανατροφοδότησης</strong> για βελτίωση ορισμών</li>
+            <li>Εξάγουν <strong>εννοιολογικές σχέσεις</strong> μεταξύ όρων (IS-A, PART-OF, CAUSES)</li>
+            <li>Πειραματίζονται με <strong>παραμέτρους LLM</strong> (temperature, max tokens, top-p)</li>
+        </ul>
+
+        <div class="card">
+            <h3>Αρχιτεκτονική</h3>
+            <p>
+                Η εφαρμογή αποτελείται από τρία βασικά επίπεδα:
+                <strong>Backend</strong> (FastAPI + SQLite), <strong>LLM Engine</strong> (πολλαπλοί πάροχοι μέσω OpenRouter, Gemini, Claude, OpenAI),
+                και <strong>Symbolic Parser</strong> (κανόνες ISO 1087 για αυτόματη αξιολόγηση ορισμών).
+            </p>
+            <div class="flow">
+                <span class="flow-step">Corpus Upload</span>
+                <span class="flow-arrow">&rarr;</span>
+                <span class="flow-step">LLM Term Extraction</span>
+                <span class="flow-arrow">&rarr;</span>
+                <span class="flow-step">LLM Definition Generation</span>
+                <span class="flow-arrow">&rarr;</span>
+                <span class="flow-step">Symbolic Validation</span>
+                <span class="flow-arrow">&rarr;</span>
+                <span class="flow-step">Export CSV</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- ════════ WORKFLOW ════════ -->
+    <div class="section" id="workflow">
+        <div class="section-header">
+            <span class="section-number" style="background: var(--info);">W</span>
+            <h2>Ροή Εργασίας (Workflow)</h2>
+        </div>
+
+        <ol class="step-list">
+            <li><strong>Δημιουργία Έργου:</strong> Δώστε όνομα και θεματικό πεδίο (π.χ. "Ιατρική", "Πληροφορική")</li>
+            <li><strong>Μεταφόρτωση Corpus:</strong> Ανεβάστε 3-10 αρχεία κειμένου του πεδίου σας</li>
+            <li><strong>Ρύθμιση Παραμέτρων:</strong> Προσαρμόστε prompts, κανόνες αναλυτή, και παραμέτρους LLM</li>
+            <li><strong>Εξαγωγή Όρων:</strong> Επιλέξτε αρχείο-στόχο και εξάγετε υποψήφιους όρους</li>
+            <li><strong>Παραγωγή Ορισμών:</strong> Εκτελέστε πειράματα με 5 στρατηγικές (zero-shot, few-shot, CoT, keyword-RAG, vector-RAG)</li>
+            <li><strong>Νευρο-Συμβολικός Βρόχος:</strong> Εκτελέστε iterative refinement για βελτίωση ορισμών</li>
+            <li><strong>Εννοιολογικές Σχέσεις:</strong> Εξάγετε σχέσεις μεταξύ όρων και ελέγξτε τον γράφο</li>
+            <li><strong>Εξαγωγή CSV:</strong> Κατεβάστε τα αποτελέσματα για ανάλυση</li>
+        </ol>
+    </div>
+
+    <!-- ════════ SECTION 1: PROJECT MANAGEMENT ════════ -->
+    <div class="section" id="s1-project">
+        <div class="section-header">
+            <span class="section-number">1</span>
+            <h2>Διαχείριση Έργου</h2>
+        </div>
+
+        <p>
+            Κάθε πείραμα ξεκινά με τη δημιουργία ενός <strong>Έργου</strong> (Project).
+            Το έργο ομαδοποιεί: corpus, εξαχθέντες όρους, ορισμούς, σχέσεις, και ρυθμίσεις.
+        </p>
+
+        <div class="func-card backend">
+            <div class="func-name">createProject()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects</code></div>
+            <div class="func-desc">
+                Δημιουργεί νέο ερευνητικό έργο. Απαιτεί <strong>Όνομα</strong> (π.χ. "WSD Research")
+                και <strong>Θεματικό Πεδίο</strong> (π.χ. "Υπολογιστική Γλωσσολογία"). Το θεματικό πεδίο
+                χρησιμοποιείται στα prompts για να καθοδηγήσει τα LLM να παράγουν domain-specific ορισμούς.
+                Μετά τη δημιουργία, η λίστα έργων ενημερώνεται αυτόματα.
+            </div>
+        </div>
+
+        <div class="func-card frontend">
+            <div class="func-name">selectProject(id, name)</div>
+            <div class="func-endpoint"><span class="tag tag-ui">UI</span> Κουμπί "Επιλογή"</div>
+            <div class="func-desc">
+                Επιλέγει ένα υπάρχον έργο ως ενεργό. Φορτώνει αυτόματα: τη λίστα αρχείων corpus,
+                τους εξαχθέντες όρους, τις εννοιολογικές σχέσεις, τον επιλογέα όρων για τον νευρο-συμβολικό
+                βρόχο, και τις ρυθμίσεις του έργου. Το ενεργό έργο εμφανίζεται στη γραμμή πλοήγησης.
+            </div>
+        </div>
+
+        <div class="func-card backend">
+            <div class="func-name">deleteProject(id, name)</div>
+            <div class="func-endpoint"><span class="tag tag-delete">DELETE</span> <code>/api/projects/{id}</code></div>
+            <div class="func-desc">
+                Διαγράφει ένα έργο <strong>μαζί με όλα τα δεδομένα του</strong>: ρυθμίσεις, σχέσεις,
+                πειράματα ορισμών, υποψήφιοι όροι, αρχεία corpus. Ζητά επιβεβαίωση πριν τη διαγραφή.
+                <strong>Η ενέργεια είναι μη αναστρέψιμη.</strong>
+            </div>
+        </div>
+
+        <div class="warning">
+            Η διαγραφή έργου σβήνει ΟΛΑ τα δεδομένα (corpus, όρους, ορισμούς, σχέσεις). Εξάγετε CSV πριν τη διαγραφή.
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 2: CORPUS ════════ -->
+    <div class="section" id="s2-corpus">
+        <div class="section-header">
+            <span class="section-number">2</span>
+            <h2>Σχηματισμός Corpus</h2>
+        </div>
+
+        <p>
+            Το corpus είναι η βάση κάθε πειράματος. Ανεβάστε κείμενα σχετικά με το θεματικό πεδίο σας.
+            Υποστηρίζονται μορφές <strong>.txt</strong>, <strong>.pdf</strong>, και <strong>.docx</strong>.
+        </p>
+
+        <div class="func-card backend">
+            <div class="func-name">uploadCorpus()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects/{id}/corpus</code></div>
+            <div class="func-desc">
+                Μεταφορτώνει ένα αρχείο στο corpus του ενεργού έργου. Η εφαρμογή εξάγει αυτόματα
+                το κείμενο από PDF (μέσω PyPDF2) και DOCX (μέσω python-docx). Κατά την εξαγωγή,
+                αφαιρούνται αυτόματα χαρακτήρες NUL (0x00) που προκαλούν σφάλματα στη βάση δεδομένων.
+                Απαιτεί επιλογή <strong>γλώσσας</strong> (Ελληνικά/Αγγλικά) — αυτή χρησιμοποιείται στα prompts εξαγωγής.
+            </div>
+        </div>
+
+        <div class="func-card frontend">
+            <div class="func-name">loadCorpusFiles()</div>
+            <div class="func-endpoint"><span class="tag tag-get">GET</span> <code>/api/projects/{id}/corpus-list</code></div>
+            <div class="func-desc">
+                Φορτώνει και εμφανίζει τη λίστα αρχείων corpus. Ενημερώνει επίσης τον
+                <strong>επιλογέα αρχείου-στόχου</strong> στην ενότητα εξαγωγής, ώστε να μπορείτε
+                να επιλέξετε ένα αρχείο για εξαγωγή (τα υπόλοιπα χρησιμοποιούνται ως context).
+            </div>
+        </div>
+
+        <div class="tip">
+            Ανεβάστε τουλάχιστον 3-5 αρχεία. Στην εξαγωγή, επιλέξτε ένα ως "αρχείο-στόχο" —
+            τα υπόλοιπα παρέχουν πλαίσιο (context) στο LLM για καλύτερες αποφάσεις σχετικά
+            με ποιοι όροι είναι domain-specific.
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 3: SETTINGS ════════ -->
+    <div class="section" id="s3-settings">
+        <div class="section-header">
+            <span class="section-number">3</span>
+            <h2>Ρυθμίσεις Έργου</h2>
+        </div>
+
+        <p>
+            Οι ρυθμίσεις αποθηκεύονται <strong>ανά έργο</strong>, δηλαδή κάθε έργο έχει
+            τα δικά του prompts, κανόνες αναλυτή, και παραμέτρους LLM. Το πάνελ ρυθμίσεων
+            εμφανίζεται μόνο αφού επιλέξετε ένα έργο (πατήστε ⚙ για ανάπτυξη/σύμπτυξη).
+        </p>
+
+        <!-- 3A: Prompt Templates -->
+        <h3>3A. Πρότυπα Προτροπών (Prompt Templates)</h3>
+
+        <div class="func-card setting">
+            <div class="func-name">Πρότυπα Προτροπών</div>
+            <div class="func-endpoint"><span class="tag tag-setting">Ρυθμίσεις</span> Αριστερή στήλη πάνελ ρυθμίσεων</div>
+            <div class="func-desc">
+                Τέσσερα επεξεργάσιμα πρότυπα που καθορίζουν <strong>ακριβώς τι στέλνεται στο LLM</strong>:
+            </div>
+        </div>
+
+        <table class="param-table">
+            <thead>
+                <tr><th>Πρότυπο</th><th>Χρήση</th><th>Μεταβλητές</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>term_extraction</code></td>
+                    <td>Εξαγωγή υποψήφιων όρων από κείμενο</td>
+                    <td><code>{guidelines}</code>, <code>{context_block}</code>, <code>{language}</code>, <code>{chunk}</code>, <code>{domain}</code></td>
+                </tr>
+                <tr>
+                    <td><code>zero-shot</code></td>
+                    <td>Παραγωγή ορισμού χωρίς παραδείγματα</td>
+                    <td><code>{domain}</code>, <code>{term}</code>, <code>{eval_guidelines}</code></td>
+                </tr>
+                <tr>
+                    <td><code>few-shot</code></td>
+                    <td>Παραγωγή ορισμού με παράδειγμα-πρότυπο</td>
+                    <td><code>{domain}</code>, <code>{term}</code></td>
+                </tr>
+                <tr>
+                    <td><code>cot-enhanced</code></td>
+                    <td>Chain-of-Thought: βήμα-βήμα σκέψη πριν τον ορισμό</td>
+                    <td><code>{domain}</code>, <code>{term}</code>, <code>{eval_guidelines}</code></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="tip">
+            Αλλάξτε το παράδειγμα στο few-shot prompt ώστε να ταιριάζει στο δικό σας πεδίο.
+            Το default παράδειγμα αφορά "Celiac Disease" — αν μελετάτε π.χ. Ναυτικό Δίκαιο,
+            βάλτε ένα παράδειγμα ορισμού ναυτικού όρου.
+        </div>
+
+        <!-- 3B: Parser Rules -->
+        <h3>3B. Κανόνες Συμβολικού Αναλυτή</h3>
+
+        <div class="func-card setting">
+            <div class="func-name">Κανόνες Αναλυτή (Parser Rules)</div>
+            <div class="func-endpoint"><span class="tag tag-setting">Ρυθμίσεις</span> Δεξιά στήλη πάνελ ρυθμίσεων</div>
+            <div class="func-desc">
+                Επτά κανόνες αξιολόγησης ορισμών βάσει ISO 1087-1:2000. Κάθε κανόνας μπορεί να
+                <strong>ενεργοποιηθεί/απενεργοποιηθεί</strong> και να πάρει <strong>βάρος</strong> (0-5).
+            </div>
+        </div>
+
+        <table class="param-table">
+            <thead>
+                <tr><th>Κανόνας</th><th>Τι Ελέγχει</th><th>Default Βάρος</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Κυκλικότητα</strong> (Circularity)</td>
+                    <td>Ο ορισμός δεν πρέπει να περιέχει τον ίδιο τον όρο ή μορφολογικές παραλλαγές του (π.χ. "disambiguating" για "disambiguation")</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td><strong>Γένος</strong> (Genus)</td>
+                    <td>Ο ορισμός ξεκινά με υπερώνυμη έννοια (π.χ. "A process that...", "Μια μέθοδος που...")</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><strong>Διαφοροποιητικά</strong> (Differentia)</td>
+                    <td>Ο ορισμός περιέχει χαρακτηριστικά που ξεχωρίζουν τον όρο από συγγενείς έννοιες</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td><strong>Άρνηση</strong> (Negation)</td>
+                    <td>Ο ορισμός δεν βασίζεται σε αρνητικές διατυπώσεις ("δεν είναι...", "is not...")</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td><strong>Εγκυκλοπαιδικό</strong> (Encyclopedic)</td>
+                    <td>Ο ορισμός δεν είναι εγκυκλοπαιδικός (δεν περιέχει ιστορικές πληροφορίες, παραδείγματα, κτλ.)</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td><strong>Συντομία</strong> (Conciseness)</td>
+                    <td>Ο ορισμός είναι σύντομος (κάτω από ένα μέγιστο αριθμό λέξεων)</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td><strong>Γένος στη Βάση</strong> (Genus in Termbase)</td>
+                    <td>Η υπερώνυμη έννοια του ορισμού αντιστοιχεί σε άλλον γνωστό όρο του έργου</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- 3C: LLM Parameters -->
+        <h3>3C. Παράμετροι LLM (Generation Parameters)</h3>
+
+        <div class="func-card setting">
+            <div class="func-name">Temperature / Max Tokens / Top-p</div>
+            <div class="func-endpoint"><span class="tag tag-setting">Ρυθμίσεις</span> Κάτω δεξιά στο πάνελ ρυθμίσεων</div>
+            <div class="func-desc">
+                Ρυθμίζουν <strong>πώς παράγει κείμενο το LLM</strong>. Εφαρμόζονται σε <em>όλα</em> τα
+                πειράματα του έργου: εξαγωγή όρων, παραγωγή ορισμών, νευρο-συμβολικό βρόχο, και εξαγωγή σχέσεων.
+                Αναλυτική εξήγηση στην <a href="#params" style="color: var(--primary-light);">Ενότητα 11</a>.
+            </div>
+        </div>
+
+        <!-- 3D: Save/Reset -->
+        <h3>3D. Αποθήκευση &amp; Επαναφορά</h3>
+
+        <div class="func-card frontend">
+            <div class="func-name">saveSettings()</div>
+            <div class="func-endpoint"><span class="tag tag-put">PUT</span> <code>/api/projects/{id}/settings</code></div>
+            <div class="func-desc">
+                Αποθηκεύει <strong>όλες τις ρυθμίσεις</strong> (prompts, κανόνες αναλυτή, παραμέτρους LLM)
+                στη βάση δεδομένων. Οι ρυθμίσεις ισχύουν μόνο για το τρέχον έργο.
+            </div>
+        </div>
+
+        <div class="func-card frontend">
+            <div class="func-name">resetSettings()</div>
+            <div class="func-endpoint"><span class="tag tag-put">PUT</span> <code>/api/projects/{id}/settings</code></div>
+            <div class="func-desc">
+                Επαναφέρει όλες τις ρυθμίσεις στις <strong>αρχικές τιμές</strong> (default prompts,
+                όλοι οι κανόνες ενεργοί με default βάρη, temperature 0.7, max tokens 1024, top-p 1.0).
+                Ζητά επιβεβαίωση πριν την επαναφορά.
+            </div>
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 4: EXTRACTION ════════ -->
+    <div class="section" id="s4-extraction">
+        <div class="section-header">
+            <span class="section-number">4</span>
+            <h2>Εξαγωγή Όρων &amp; Ορισμών</h2>
+        </div>
+
+        <!-- Term Extraction -->
+        <h3>4A. Εξαγωγή Όρων</h3>
+
+        <div class="func-card backend">
+            <div class="func-name">extractTerms()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects/{id}/extract-terms</code></div>
+            <div class="func-desc">
+                Εξάγει υποψήφιους domain-specific όρους από το corpus. Η διαδικασία:
+            </div>
+        </div>
+
+        <ol class="step-list">
+            <li>Αν επιλέξατε <strong>αρχείο-στόχο</strong>, μόνο αυτό αναλύεται. Τα υπόλοιπα αρχεία
+                παρέχουν πλαίσιο (context) — ένα απόσπασμα 2000 χαρακτήρων ανά αρχείο.</li>
+            <li>Το κείμενο χωρίζεται σε <strong>chunks</strong> των 4000 χαρακτήρων.</li>
+            <li>Κάθε chunk στέλνεται στο LLM μαζί με τις κατευθυντήριες γραμμές εξαγωγής
+                (αρχείο <code>term_extraction_guidelines.md</code>) και το prompt template.</li>
+            <li>Το LLM επιστρέφει JSON array με υποψήφιους όρους.</li>
+            <li>Αν ο όρος υπάρχει ήδη, αυξάνεται η <strong>συχνότητά</strong> του (frequency).</li>
+        </ol>
+
+        <div class="flow">
+            <span class="flow-step">Επιλογή αρχείου-στόχου</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">Chunking (4000 chars)</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">LLM + ISO Guidelines</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">JSON parsing</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">Αποθήκευση + dedup</span>
+        </div>
+
+        <!-- Definition Generation -->
+        <h3>4B. Παραγωγή Ορισμών (5 Στρατηγικές)</h3>
+
+        <div class="func-card backend">
+            <div class="func-name">runExperiment(termId) / runAllExperiments()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects/{id}/extract-definitions</code></div>
+            <div class="func-desc">
+                Για κάθε όρο, παράγει ορισμούς με <strong>5 διαφορετικές στρατηγικές</strong>:
+            </div>
+        </div>
+
+        <table class="param-table">
+            <thead>
+                <tr><th>Στρατηγική</th><th>Περιγραφή</th><th>RAG</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Zero-shot</strong></td>
+                    <td>Απλή εντολή: "Ορίστε τον όρο X για το πεδίο Y". Χωρίς παραδείγματα.</td>
+                    <td>Όχι</td>
+                </tr>
+                <tr>
+                    <td><strong>Few-shot</strong></td>
+                    <td>Ένα παράδειγμα ορισμού πριν την εντολή, ώστε το LLM να μιμηθεί τη δομή.</td>
+                    <td>Όχι</td>
+                </tr>
+                <tr>
+                    <td><strong>Chain-of-Thought</strong></td>
+                    <td>Βήμα 1: βρες το genus. Βήμα 2: βρες τα differentia. Βήμα 3: συνδύασε.</td>
+                    <td>Όχι</td>
+                </tr>
+                <tr>
+                    <td><strong>Keyword RAG</strong></td>
+                    <td>Ανάκτηση σχετικών αποσπασμάτων από το corpus μέσω keyword matching. Τα αποσπάσματα δίνονται ως context.</td>
+                    <td>Keyword</td>
+                </tr>
+                <tr>
+                    <td><strong>Vector RAG</strong></td>
+                    <td>Ανάκτηση αποσπασμάτων μέσω σημασιολογικής αναζήτησης (OpenAI embeddings + cosine similarity).</td>
+                    <td>Vector</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p>
+            Κάθε ορισμός αποθηκεύεται ως <strong>DefinitionExperiment</strong> με πλήρες prompt, μοντέλο,
+            στρατηγική, και κείμενο ορισμού. Στον πίνακα αποτελεσμάτων βλέπετε τους ορισμούς δίπλα-δίπλα.
+        </p>
+
+        <!-- Auto-validation -->
+        <h3>4C. Αυτόματη Αξιολόγηση (Auto-Validate)</h3>
+
+        <div class="func-card backend">
+            <div class="func-name">auto_validate(experiment_id)</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/validate/auto</code></div>
+            <div class="func-desc">
+                Εκτελεί τον <strong>Συμβολικό Αναλυτή</strong> (SymbolicDefinitionParser) σε έναν ορισμό.
+                Ελέγχει τους 7 κανόνες, παράγει <strong>score</strong> (βαθμολογία) και λίστα
+                <strong>checks</strong> (pass/fail ανά κανόνα). Χρησιμοποιεί τους κανόνες και τα βάρη
+                από τις ρυθμίσεις του έργου.
+            </div>
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 5: NEURO-SYMBOLIC ════════ -->
+    <div class="section" id="s5-neurosymbolic">
+        <div class="section-header">
+            <span class="section-number">5</span>
+            <h2>Νευρο-Συμβολικός Βρόχος Ανατροφοδότησης</h2>
+        </div>
+
+        <div class="func-card backend">
+            <div class="func-name">runNeuroSymbolic()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects/{id}/neurosymbolic-define</code></div>
+            <div class="func-desc">
+                Ο πυρήνας της νευρο-συμβολικής προσέγγισης. Συνδυάζει <strong>νευρωνική παραγωγή</strong>
+                (LLM) με <strong>συμβολική αξιολόγηση</strong> (κανόνες ISO) σε επαναληπτικό βρόχο.
+            </div>
+        </div>
+
+        <div class="flow">
+            <span class="flow-step">LLM Παράγει Ορισμό</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">Αναλυτής Ελέγχει</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step" style="background: var(--danger); color: white;">Αποτυχία?</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">Ανατροφοδότηση</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step">LLM Ξαναγράφει</span>
+            <span class="flow-arrow">&rarr;</span>
+            <span class="flow-step" style="background: var(--success); color: white;">Επιτυχία!</span>
+        </div>
+
+        <p>Παράμετροι:</p>
+        <table class="param-table">
+            <thead>
+                <tr><th>Παράμετρος</th><th>Επιλογές</th><th>Περιγραφή</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Όρος</strong></td>
+                    <td>Dropdown από εξαχθέντες όρους</td>
+                    <td>Ο όρος για τον οποίο θα παραχθεί ορισμός</td>
+                </tr>
+                <tr>
+                    <td><strong>RAG Mode</strong></td>
+                    <td>Χωρίς RAG / Keyword / Vector</td>
+                    <td>Αν θα χρησιμοποιηθεί context από το corpus</td>
+                </tr>
+                <tr>
+                    <td><strong>Μέγιστες Επαναλήψεις</strong></td>
+                    <td>2, 3, ή 5</td>
+                    <td>Πόσες φορές θα προσπαθήσει το LLM πριν σταματήσει</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p>
+            Τα αποτελέσματα εμφανίζονται ως <strong>timeline</strong>: κάθε κύκλος δείχνει τον ορισμό,
+            τη βαθμολογία, και ποιοι κανόνες πέρασαν/απέτυχαν. Ο πράσινος κύκλος σημαίνει επιτυχία,
+            ο κόκκινος αποτυχία.
+        </p>
+
+        <div class="tip">
+            Συγκρίνετε τα αποτελέσματα με RAG vs χωρίς RAG. Αν ο νευρο-συμβολικός βρόχος
+            χρειάζεται 3 κύκλους χωρίς RAG αλλά μόνο 1 με RAG, αυτό δείχνει ότι το corpus
+            context βοηθά σημαντικά.
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 6: RELATIONS ════════ -->
+    <div class="section" id="s6-relations">
+        <div class="section-header">
+            <span class="section-number">6</span>
+            <h2>Εννοιολογικές Σχέσεις</h2>
+        </div>
+
+        <div class="func-card backend">
+            <div class="func-name">extractRelations()</div>
+            <div class="func-endpoint"><span class="tag tag-post">POST</span> <code>/api/projects/{id}/extract-relations</code></div>
+            <div class="func-desc">
+                Στέλνει τη λίστα εξαχθέντων όρων στο LLM και ζητά να αναγνωρίσει σχέσεις μεταξύ τους.
+                Τέσσερις τύποι σχέσεων:
+                <strong>IS-A</strong> (υπερωνυμία), <strong>PART-OF</strong> (μερωνυμία),
+                <strong>CAUSES</strong> (αιτιότητα), <strong>RELATED-TO</strong> (συσχέτιση).
+                Μετά την εξαγωγή, εκτελεί <strong>συμβολική επαλήθευση γράφου</strong>:
+                ανίχνευση κύκλων, αντιφάσεων, και ασυνεπειών.
+            </div>
+        </div>
+
+        <div class="func-card frontend">
+            <div class="func-name">renderRelations(relations) / renderGraphIssues(validation)</div>
+            <div class="func-endpoint"><span class="tag tag-ui">UI</span> Πίνακας σχέσεων + Προβλήματα γράφου</div>
+            <div class="func-desc">
+                Εμφανίζει τις σχέσεις ως λίστα με χρωματικούς κωδικούς ανά τύπο.
+                Αν βρεθούν κύκλοι ή ασυνέπειες, εμφανίζονται ως <strong>προειδοποιήσεις</strong>.
+            </div>
+        </div>
+
+        <div class="warning">
+            Χρειάζονται τουλάχιστον <strong>2 όροι</strong> για εξαγωγή σχέσεων.
+            Εξάγετε πρώτα αρκετούς όρους.
+        </div>
+    </div>
+
+    <!-- ════════ SECTION 7: EXPORT ════════ -->
+    <div class="section" id="s7-export">
+        <div class="section-header">
+            <span class="section-number">7</span>
+            <h2>Εξαγωγή Αποτελεσμάτων</h2>
+        </div>
+
+        <div class="func-card backend">
+            <div class="func-name">exportCSV()</div>
+            <div class="func-endpoint"><span class="tag tag-get">GET</span> <code>/api/projects/{id}/export</code></div>
+            <div class="func-desc">
+                Εξάγει <strong>όλα τα αποτελέσματα</strong> του έργου σε CSV. Στήλες:
+                Term, Language, Model, Strategy, Definition, Auto Valid, Score, Notes.
+                Κάθε γραμμή αντιστοιχεί σε ένα DefinitionExperiment (ένας ορισμός ενός όρου
+                με συγκεκριμένη στρατηγική και μοντέλο).
+            </div>
+        </div>
+
+        <div class="tip">
+            Ανοίξτε το CSV σε Excel ή Google Sheets για ανάλυση. Μπορείτε να φιλτράρετε
+            κατά Strategy, να υπολογίσετε μέσο Score ανά στρατηγική, κτλ.
+        </div>
+    </div>
+
+    <!-- ════════ EXPERIMENTAL PROTOCOL ════════ -->
+    <div class="section" id="experiment">
+        <div class="section-header">
+            <span class="section-number" style="background: var(--success);">E</span>
+            <h2>Πειραματικό Πρωτόκολλο</h2>
+        </div>
+
+        <p>
+            Ακολουθήστε τα παρακάτω βήματα για ένα πλήρες πείραμα. Κάθε φάση αντιστοιχεί
+            σε συγκεκριμένη λειτουργία της εφαρμογής.
+        </p>
+
+        <div class="card">
+            <h3>Φάση 1 — Προετοιμασία</h3>
+            <ol class="step-list">
+                <li>Επιλέξτε ένα εξειδικευμένο <strong>θεματικό πεδίο</strong> (π.χ. Machine Translation, Ανοσολογία, Ναυτικό Δίκαιο)</li>
+                <li>Συλλέξτε <strong>5-10 κείμενα</strong> του πεδίου: ακαδημαϊκά άρθρα, κεφάλαια βιβλίων, τεχνικά εγχειρίδια</li>
+                <li>Δημιουργήστε <strong>Έργο</strong> στην εφαρμογή</li>
+                <li>Μεταφορτώστε τα κείμενα, επιλέγοντας τη σωστή <strong>γλώσσα</strong></li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 2 — Baseline Εξαγωγή Όρων</h3>
+            <ol class="step-list">
+                <li>Κρατήστε <strong>default ρυθμίσεις</strong> (temperature 0.7, default prompts)</li>
+                <li>Επιλέξτε ένα αρχείο ως <strong>αρχείο-στόχο</strong></li>
+                <li>Πατήστε <strong>"Εξαγωγή Όρων"</strong></li>
+                <li>Ελέγξτε τη λίστα: υπάρχουν false positives; Λείπουν σημαντικοί όροι;</li>
+                <li>Καταγράψτε τα ευρήματά σας ως baseline</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 3 — Πειράματα Στρατηγικών</h3>
+            <ol class="step-list">
+                <li>Επιλέξτε <strong>8-10 αντιπροσωπευτικούς όρους</strong></li>
+                <li>Πατήστε <strong>"Εξαγωγή Ορισμών (TAG)"</strong> για κάθε όρο</li>
+                <li>Κρατήστε <strong>σταθερό μοντέλο και temperature</strong> — η μόνη μεταβλητή είναι η στρατηγική</li>
+                <li>Εκτελέστε <strong>αυτόματη αξιολόγηση</strong> σε κάθε ορισμό</li>
+                <li>Συγκρίνετε βαθμολογίες ανά στρατηγική</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 4 — Πειράματα Temperature</h3>
+            <ol class="step-list">
+                <li>Επιλέξτε <strong>3-4 όρους</strong> από τους παραπάνω</li>
+                <li>Για κάθε τιμή temperature: <strong>0.2, 0.5, 0.7, 1.0</strong></li>
+                <li>Αλλάξτε το temperature στις Ρυθμίσεις &rarr; Αποθήκευση</li>
+                <li>Εκτελέστε ξανά τον ορισμό <strong>με την ίδια στρατηγική</strong></li>
+                <li>Παρατηρήστε: τα χαμηλά temperature δίνουν πιο τυποποιημένους ορισμούς; Τα υψηλά προκαλούν hallucinations;</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 5 — Βαθμονόμηση Prompts</h3>
+            <ol class="step-list">
+                <li>Ανοίξτε τις <strong>Ρυθμίσεις Έργου &rarr; Πρότυπα Προτροπών</strong></li>
+                <li>Αλλάξτε το <strong>few-shot παράδειγμα</strong> ώστε να ταιριάζει στο πεδίο σας</li>
+                <li>Προαιρετικά, τροποποιήστε τα zero-shot και CoT prompts</li>
+                <li>Αποθηκεύστε και εκτελέστε ξανά τα πειράματα της Φάσης 3</li>
+                <li>Συγκρίνετε: βελτιώθηκαν οι ορισμοί μετά την προσαρμογή;</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 6 — Ρύθμιση Κανόνων Αναλυτή</h3>
+            <ol class="step-list">
+                <li>Εξετάστε τα αποτελέσματα αξιολόγησης: ποιοι κανόνες αποτυγχάνουν πιο συχνά;</li>
+                <li>Αν κάποιος κανόνας είναι <strong>πολύ αυστηρός</strong> για το πεδίο σας, μειώστε το βάρος ή απενεργοποιήστε τον</li>
+                <li>Αν κάποιος κανόνας είναι <strong>πολύ ελαστικός</strong>, αυξήστε το βάρος</li>
+                <li>Τεκμηριώστε ποιους κανόνες αλλάξατε και γιατί</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 7 — Νευρο-Συμβολικός Βρόχος</h3>
+            <ol class="step-list">
+                <li>Εκτελέστε τον βρόχο για <strong>τους ίδιους όρους της Φάσης 3</strong></li>
+                <li>Δοκιμάστε: <strong>χωρίς RAG, με Keyword RAG, με Vector RAG</strong></li>
+                <li>Καταγράψτε πόσους κύκλους χρειάστηκε κάθε φορά</li>
+                <li>Συγκρίνετε: ο τελικός ορισμός μετά τον βρόχο είναι καλύτερος από τον single-pass;</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h3>Φάση 8 — Ανάλυση &amp; Συμπεράσματα</h3>
+            <ol class="step-list">
+                <li>Πατήστε <strong>"Download CSV"</strong> για εξαγωγή</li>
+                <li>Αναλύστε: ποια στρατηγική έχει σταθερά υψηλότερο score;</li>
+                <li>Πόσο επηρεάζει η temperature; Η προσαρμογή prompts;</li>
+                <li>Ποιοι κανόνες αποτυγχάνουν πιο συχνά;</li>
+                <li>Συντάξτε τα ευρήματά σας σε γραπτή ανάλυση</li>
+            </ol>
+        </div>
+    </div>
+
+    <!-- ════════ LLM PARAMETERS ════════ -->
+    <div class="section" id="params">
+        <div class="section-header">
+            <span class="section-number" style="background: var(--warning); color: #000;">P</span>
+            <h2>Παράμετροι LLM — Τι Σημαίνει η Καθεμία</h2>
+        </div>
+
+        <div class="card">
+            <h3>Temperature</h3>
+            <p>
+                Ελέγχει <strong>πόσο τυχαίες</strong> είναι οι απαντήσεις του μοντέλου. Εύρος: 0 &ndash; 2.
+            </p>
+            <table class="param-table">
+                <thead>
+                    <tr><th>Τιμή</th><th>Συμπεριφορά</th><th>Κατάλληλο για</th></tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>0.0 &ndash; 0.3</strong></td>
+                        <td>Ντετερμινιστικό: σχεδόν πάντα η ίδια απάντηση. Πολύ focused.</td>
+                        <td>Τυποποιημένοι ορισμοί, επαναληψιμότητα πειραμάτων</td>
+                    </tr>
+                    <tr>
+                        <td><strong>0.4 &ndash; 0.7</strong></td>
+                        <td>Ισορροπία: ποικιλία διατυπώσεων χωρίς απώλεια ακρίβειας</td>
+                        <td>Γενική χρήση, σύγκριση στρατηγικών</td>
+                    </tr>
+                    <tr>
+                        <td><strong>0.8 &ndash; 1.2</strong></td>
+                        <td>Δημιουργικό: πιο ποικίλες διατυπώσεις, ρίσκο λαθών</td>
+                        <td>Εξερεύνηση εναλλακτικών ορισμών</td>
+                    </tr>
+                    <tr>
+                        <td><strong>1.3 &ndash; 2.0</strong></td>
+                        <td>Πολύ τυχαίο: ασυνάρτητο κείμενο, hallucinations</td>
+                        <td>Μόνο για πειραματικούς σκοπούς</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="tip">
+                Για ορολογία, συνιστάται <strong>0.3 &ndash; 0.7</strong>. Δοκιμάστε διαφορετικές τιμές
+                για να δείτε πώς επηρεάζεται η ποιότητα.
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>Max Tokens</h3>
+            <p>
+                Ελέγχει το <strong>μέγιστο μήκος</strong> της απάντησης σε tokens (περίπου 1 token = 0.75 λέξεις).
+                Εύρος: 64 &ndash; 16384.
+            </p>
+            <table class="param-table">
+                <thead>
+                    <tr><th>Τιμή</th><th>Αντιστοιχεί σε</th><th>Κατάλληλο για</th></tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>256</strong></td>
+                        <td>~190 λέξεις</td>
+                        <td>Σύντομοι, συνοπτικοί ορισμοί</td>
+                    </tr>
+                    <tr>
+                        <td><strong>512</strong></td>
+                        <td>~380 λέξεις</td>
+                        <td>Τυπικοί ορισμοί</td>
+                    </tr>
+                    <tr>
+                        <td><strong>1024</strong> (default)</td>
+                        <td>~750 λέξεις</td>
+                        <td>Ορισμοί + CoT reasoning</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2048+</strong></td>
+                        <td>~1500+ λέξεις</td>
+                        <td>Εξαγωγή πολλών όρων ανά chunk</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="warning">
+                Πολύ χαμηλό max tokens μπορεί να κόψει τον ορισμό στη μέση. Πολύ υψηλό αυξάνει κόστος
+                και χρόνο απόκρισης.
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>Top-p (Nucleus Sampling)</h3>
+            <p>
+                Εναλλακτικός τρόπος ελέγχου τυχαιότητας. Αντί για temperature, περιορίζει
+                τα "υποψήφια tokens" σε εκείνα που αθροιστικά καλύπτουν πιθανότητα <strong>p</strong>.
+                Εύρος: 0.0 &ndash; 1.0.
+            </p>
+            <table class="param-table">
+                <thead>
+                    <tr><th>Τιμή</th><th>Συμπεριφορά</th></tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>1.0</strong> (default)</td>
+                        <td>Απενεργοποιημένο — η temperature ελέγχει μόνη της την τυχαιότητα</td>
+                    </tr>
+                    <tr>
+                        <td><strong>0.9</strong></td>
+                        <td>Μικρή περικοπή: αγνοεί πολύ σπάνια tokens</td>
+                    </tr>
+                    <tr>
+                        <td><strong>0.5</strong></td>
+                        <td>Μεγάλη περικοπή: μόνο τα πιο πιθανά tokens</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="tip">
+                Αφήστε top-p στο <strong>1.0</strong> και ρυθμίστε μόνο temperature. Η ταυτόχρονη
+                αλλαγή και των δύο δυσκολεύει την ερμηνεία αποτελεσμάτων.
+            </div>
+        </div>
+    </div>
+
+    <!-- ════════ GLOSSARY ════════ -->
+    <div class="section" id="glossary">
+        <div class="section-header">
+            <span class="section-number" style="background: var(--surface-light);">Γ</span>
+            <h2>Γλωσσάρι</h2>
+        </div>
+
+        <table class="param-table">
+            <thead>
+                <tr><th>Όρος</th><th>Εξήγηση</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>LLM</strong></td><td>Large Language Model — Μεγάλο Γλωσσικό Μοντέλο (π.χ. GPT-4, Claude, Gemini)</td></tr>
+                <tr><td><strong>Corpus</strong></td><td>Συλλογή κειμένων ενός θεματικού πεδίου που χρησιμοποιείται ως βάση ανάλυσης</td></tr>
+                <tr><td><strong>Genus</strong></td><td>Υπερώνυμη έννοια στον ορισμό (π.χ. "process", "method", "substance")</td></tr>
+                <tr><td><strong>Differentia</strong></td><td>Τα χαρακτηριστικά που ξεχωρίζουν τον όρο από συγγενείς έννοιες</td></tr>
+                <tr><td><strong>RAG</strong></td><td>Retrieval-Augmented Generation — Ανάκτηση σχετικών αποσπασμάτων και χρήση τους ως context</td></tr>
+                <tr><td><strong>Prompt</strong></td><td>Η εντολή/οδηγία που στέλνεται στο LLM</td></tr>
+                <tr><td><strong>Zero-shot</strong></td><td>Prompt χωρίς παραδείγματα — ζητάμε απευθείας</td></tr>
+                <tr><td><strong>Few-shot</strong></td><td>Prompt με ένα ή περισσότερα παραδείγματα πριν την ερώτηση</td></tr>
+                <tr><td><strong>Chain-of-Thought (CoT)</strong></td><td>Prompt που ζητά βήμα-βήμα σκέψη πριν τον ορισμό</td></tr>
+                <tr><td><strong>Temperature</strong></td><td>Παράμετρος τυχαιότητας: χαμηλό = ντετερμινιστικό, υψηλό = τυχαίο</td></tr>
+                <tr><td><strong>Token</strong></td><td>Μονάδα κειμένου (~0.75 λέξεις). Τα LLM μετρούν κείμενο σε tokens.</td></tr>
+                <tr><td><strong>Neuro-symbolic</strong></td><td>Συνδυασμός νευρωνικής (LLM) και συμβολικής (κανόνες) τεχνητής νοημοσύνης</td></tr>
+                <tr><td><strong>ISO 1087</strong></td><td>Διεθνές πρότυπο ορολογίας: κατευθυντήριες γραμμές για δομή ορισμών</td></tr>
+                <tr><td><strong>Κυκλικότητα</strong></td><td>Σφάλμα: ο ορισμός περιέχει τον ίδιο τον όρο ή παραλλαγές του</td></tr>
+                <tr><td><strong>Εγκυκλοπαιδικός ορισμός</strong></td><td>Σφάλμα: ο ορισμός περιέχει ιστορικά στοιχεία, παραδείγματα, κτλ. αντί για πυρηνικό νόημα</td></tr>
+                <tr><td><strong>IS-A</strong></td><td>Σχέση υπερωνυμίας: "X είναι ένα είδος Y"</td></tr>
+                <tr><td><strong>PART-OF</strong></td><td>Σχέση μερωνυμίας: "X είναι μέρος του Y"</td></tr>
+                <tr><td><strong>CAUSES</strong></td><td>Σχέση αιτιότητας: "X προκαλεί Y"</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+<footer>
+    TermResearch AI — Εαρινό Εξάμηνο 2026 — Οδηγός Χρήσης v1.0
+</footer>
+
+</body>
+</html>
