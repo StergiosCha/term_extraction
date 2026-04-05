@@ -120,6 +120,20 @@ class ConceptRelation(Base):
 
 def init_db():
     Base.metadata.create_all(bind=engine)
+    # Auto-migrate: add missing columns to existing tables
+    _auto_migrate()
+
+
+def _auto_migrate():
+    """Add columns that may be missing from an older DB schema."""
+    from sqlalchemy import text, inspect as sa_inspect
+    with engine.connect() as conn:
+        inspector = sa_inspect(engine)
+        if "project_settings" in inspector.get_table_names():
+            columns = [c["name"] for c in inspector.get_columns("project_settings")]
+            if "llm_params" not in columns:
+                conn.execute(text("ALTER TABLE project_settings ADD COLUMN llm_params JSON"))
+                conn.commit()
 
 def get_research_db():
     db = SessionLocal()
